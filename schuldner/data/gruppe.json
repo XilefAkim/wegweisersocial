@@ -1,0 +1,34 @@
+{
+  "titel": "Schuldner & Privatinsolvenz",
+  "zusatz": "Schuldner &middot; Wege aus den Schulden",
+  "icon": "💶",
+  "teaser": "Mahnbescheid, Pfändung, P-Konto, Verbraucherinsolvenz und Restschuldbefreiung: verständliche Antworten und die wichtigsten Fristen.",
+  "suche_placeholder": "Suchen: Mahnbescheid, P-Konto, Pfändung, Restschuldbefreiung, Schufa …",
+  "meta_description": "Wegweiser für Schuldner: Schuldnerberatung, Mahnbescheid, Pfändungsfreigrenzen, P-Konto, Vermögensauskunft, Verbraucherinsolvenz, Restschuldbefreiung in 3 Jahren, Schufa und Beratung. Rechtsstand September 2026.",
+  "hinweis": "<p><strong>Rechtsstand: September 2026.</strong> Die Pfändungsfreigrenzen gelten in der Fassung ab 1. Juli 2026 (bis 30. Juni 2027). Die Abtretungsfrist der Restschuldbefreiung beträgt 3 Jahre (§ 287 InsO). Angekündigte, nicht verabschiedete Reformen wurden in den geprüften Quellen nicht festgestellt; das ist keine Garantie. Quellen und offene Punkte: <a href=\"quellen.html\">Quellen und Grenzen</a>. Information, keine Rechtsberatung.</p>",
+  "haeufig": [
+    "ueberblick",
+    "mahnbescheid",
+    "p-konto",
+    "verbraucherinsolvenz",
+    "pfaendung-lohn",
+    "beratung"
+  ],
+  "fusszeile": "Wegweiser Schuldner: Information zu Schulden und Insolvenz, keine Rechtsberatung; Stand September 2026.",
+  "beratung_id": "beratung",
+  "quellen_teaser": "<p>Alle Angaben stammen aus Gesetzestexten und amtlichen oder verbandlichen Seiten. Unsichere Punkte sind unten offen benannt.</p>",
+  "quellen_abschnitte": [
+    {
+      "h": "Quellenliste",
+      "html": "<ol><li>Bundesministerium der Justiz, Gesetze im Internet: InsO §§ 4a, 4b, 287, 287a, 290, 295, 295a, 300, 302, 304, 305; ZPO §§ 339, 692, 700, 802c, 802d, 802f, 850c, 850k, 882c, 882e, 899, 902, 903; InsoBekV § 3; BerHG § 1; BGB §§ 195, 197, 543, 569. Abgerufen 20.09.2026.</li><li>Pfändungsfreigrenzenbekanntmachung 2026 vom 19.03.2026, BGBl. 2026 I Nr. 80. Abgerufen 20.09.2026.</li><li>Bundesgerichtshof, Pressemitteilung zu I ZR 97/25 vom 18.12.2025 (Speicherfristen Wirtschaftsauskunftei). Abgerufen 20.09.2026.</li><li>SCHUFA Holding AG, Newsroom „SCHUFA löscht Restschuldbefreiung nach 6 Monaten“ (Suchtreffer; Seiteninhalt nicht vollständig abrufbar). Abgerufen 20.09.2026.</li><li>Bundesarbeitsgemeinschaft Schuldnerberatung e. V. (bag-sb.de) und Informationsportal meine-schulden.de (Beratungsstellensuche). Abgerufen 20.09.2026.</li></ol>"
+    },
+    {
+      "h": "Unsichere und offene Punkte",
+      "html": "<ul><li>SCHUFA: Löschung des Restschuldbefreiungs-Eintrags sechs Monate nach Erteilung (seit 28.03.2023) nach SCHUFA-Newsroom; andere Auskunfteien überwiegend gleich, aber ohne Rechtspflicht.</li><li>Gerichtskosten, Verfahrensgebühren und Ratenhöhen der Stundung (§ 4b InsO): keine Beträge aufgeführt.</li><li>Nicht behandelt: Steuerschulden, Bürgschaften, Ratenzahlungsvereinbarungen mit Inkassounternehmen im Detail, Regelinsolvenz für Selbstständige mit 20 oder mehr Gläubigern im Detail.</li></ul>"
+    },
+    {
+      "h": "Was diese Plattform leistet – und was nicht",
+      "html": "<p>Der Wegweiser erklärt Schuldnerrechte in einfacher Sprache und nennt Rechtsgrundlagen, Fristen und Zahlen aus den genannten Quellen. Er ersetzt keine Rechtsberatung und keine Prüfung Ihres Einzelfalls. Er nennt keine örtlichen Beratungsstellen, Adressen oder Telefonnummern außer bundesweit belegten Stellen. Es werden keine personenbezogenen Daten gespeichert. Fristen bei Mahnbescheid, Vollstreckungsbescheid und Kündigung sind streng: Holen Sie früh Rat.</p>"
+    }
+  ]
+}

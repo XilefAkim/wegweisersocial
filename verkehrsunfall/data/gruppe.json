@@ -1,0 +1,34 @@
+{
+  "titel": "Verkehrsunfallopfer",
+  "zusatz": "Verkehrsunfallopfer &middot; Ansprüche nach dem Unfall",
+  "icon": "🚗",
+  "teaser": "Unfallort, Beweise, Haftung, Schadensregulierung, Schmerzensgeld und Fristen: verständliche Antworten nach einem Verkehrsunfall.",
+  "suche_placeholder": "Suchen: Schmerzensgeld, Unfallflucht, Nutzungsausfall, Mitverschulden …",
+  "meta_description": "Wegweiser für Verkehrsunfallopfer: Verhalten am Unfallort, Haftung, Kfz-Haftpflicht, Gutachten, Schmerzensgeld, Verdienstausfall, Unfallflucht, Verjährung und Beratung. Rechtsstand September 2026.",
+  "hinweis": "<p><strong>Rechtsstand: September 2026.</strong> Geprüft wurden Gesetzestexte (StVG, BGB, VVG, StGB, StPO, StVO, PflVG) sowie Ratgeber von ADAC und GDV. Angekündigte, noch nicht verabschiedete Reformen sind nicht berücksichtigt. Belegt sind unter anderem § 12 PflVG, § 26 Abs. 3 StVG, die Nutzungsausfall-Spanne von 23 bis 175 Euro, die Rechtsprechung zur 130-Prozent-Grenze und die Bagatellgrenze. Quellen und offene Punkte: <a href=\"quellen.html\">Quellen und Grenzen</a>. Information, keine Rechtsberatung.</p>",
+  "haeufig": [
+    "unfallort-beweise",
+    "haftung-mitverschulden",
+    "schadensregulierung",
+    "personenschaden-schmerzensgeld",
+    "verjaehrung",
+    "beratung"
+  ],
+  "fusszeile": "Wegweiser Verkehrsunfallopfer: Information zum Verkehrsunfallrecht, keine Rechtsberatung; Stand September 2026.",
+  "beratung_id": "beratung",
+  "quellen_teaser": "<p>Alle Angaben stammen aus Gesetzestexten und aus Seiten von Verbänden und Organisationen. Unsichere Punkte sind unten offen benannt.</p>",
+  "quellen_abschnitte": [
+    {
+      "h": "Quellenliste",
+      "html": "<ol><li>Bundesministerium der Justiz, Gesetze im Internet: StVG §§ 7, 8, 9, 10, 12, 17, 18, 26; BGB §§ 195, 199, 203, 204, 249, 253, 254, 828, 843, 844; VVG §§ 86, 104, 115; SGB X § 116; EFZG § 6; StGB §§ 77b, 142, 222, 229, 230, 315c; StPO §§ 403 ff.; StVO §§ 21a, 34; PflVG §§ 12, 12a, 26. Abgerufen 20.09.2026.</li><li>Bundesgerichtshof, Pressemitteilung Nr. 095/2014 zu VI ZR 281/13 (Fahrradhelm), 17.06.2014. Abgerufen 20.09.2026.</li><li>Bundesgerichtshof, Entscheidungen VI ZR 259/15 (10.07.2018) und VI ZR 937/20 (15.02.2022) zur Schmerzensgeldbemessung (nur als Suchtreffer). Abgerufen 20.09.2026.</li><li>ADAC: Was tun nach einem Unfall; Wann Sie die Polizei rufen müssen; Europäischer Unfallbericht; Diese Kosten muss die gegnerische Versicherung zahlen; Was kostet ein Anwalt und wer zahlt; Verkehrsrechtsschutzversicherung; Schmerzensgeld nach Verkehrsunfall; Schadenfreiheitsklasse; Rabattschutz. Abgerufen 20.09.2026.</li><li>GDV, dieversicherer.de, Verkehrsrechtsschutz (Suchtreffer). Abgerufen 20.09.2026.</li><li>Verkehrsopferhilfe e.V., verkehrsopferhilfe.de. Abgerufen 20.09.2026.</li><li>WEISSER RING e. V., Opfer-Telefon. Abgerufen 20.09.2026.</li><li>Deutsche Anwaltauskunft, anwaltauskunft.de, und verkehrsanwaelte.de (Suchtreffer). Abgerufen 20.09.2026.</li><li>verkehrslexikon.de und kommerzielle Gutachter-Ratgeberseiten (nur Suchtreffer; Haushaltsführungsschaden, Nutzungsausfall, fiktive Abrechnung). Abgerufen 20.09.2026.</li></ol>"
+    },
+    {
+      "h": "Unsichere und offene Punkte",
+      "html": "<ul><li>Bagatellgrenze (etwa 700 bis 750 Euro), Kostenpauschale (überwiegend 25 Euro) und Nutzungsausfall-Tagessätze (23 bis 175 Euro) werden von der Rechtsprechung und den Tabellen laufend angepasst; aktuelle Werte prüfen.</li><li>Die Entscheidungen des BGH zur Schmerzensgeldbemessung wurden nur als Suchtreffer ausgewertet.</li><li>Nur kurz behandelt: Tötungsfall (Hinterbliebenenansprüche), Forderungsübergang auf Kasko, Sozialversicherung und Arbeitgeber.</li><li>Nicht behandelt: Dashcam-Verwertung, Quoten für Standardfälle, Höhe der Anwaltsgebühren, Beratungs- und Prozesskostenhilfe, Unfälle im Ausland, Bußgeld- und Fahrerlaubnisfolgen.</li><li>Die Helm-Entscheidung des BGH stammt von 2014; das Kammergericht Berlin bestätigte die Linie 2022.</li></ul>"
+    },
+    {
+      "h": "Was diese Plattform leistet – und was nicht",
+      "html": "<p>Der Wegweiser erklärt Rechte nach einem Verkehrsunfall in einfacher Sprache und nennt Rechtsgrundlagen, Fristen und Zahlen aus den genannten Quellen. Er ersetzt keine Rechtsberatung und keine Prüfung Ihres Einzelfalls. Er nennt keine örtlichen Beratungsstellen, Adressen oder Telefonnummern außer bundesweit belegten Stellen. Es werden keine personenbezogenen Daten gespeichert. Verjährungsfristen sind streng: Holen Sie früh Rat.</p>"
+    }
+  ]
+}

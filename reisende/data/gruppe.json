@@ -1,0 +1,34 @@
+{
+  "titel": "Reisende",
+  "zusatz": "Reisende &middot; Ihre Rechte auf Urlaubs- und Privatreisen",
+  "icon": "🧳",
+  "teaser": "Pauschalreise, Flug, Bahn, Gepäck, Unterkunft, Mietwagen, Einreise, Zoll, Versicherung und Krisenvorsorge: verständliche Antworten für Privatreisende ab und nach Deutschland.",
+  "suche_placeholder": "Suchen: Flugverspätung, Pauschalreise, Koffer, ETIAS, EHIC, Zoll, Mietwagen …",
+  "meta_description": "Wegweiser für Reisende: Pauschalreise, Fluggastrechte, Gepäck, Bahn, Fähre, Unterkunft, Mietwagen, Einreise (EES, ETIAS, ETA), Zoll, Reiseversicherung, EHIC und Reisewarnungen. Rechtsstand September 2026.",
+  "hinweis": "<p><strong>Rechtsstand: September 2026.</strong> Beschlossen, aber noch nicht anwendbar: die EU-Reform der Fluggastrechte (Anwendung 12 Monate und 20 Tage nach Veröffentlichung im Amtsblatt; Veröffentlichung nicht bestätigt) und die Reform der Pauschalreiserichtlinie (Anwendung ab 29.03.2029). Bis dahin gilt das bisherige Recht. ETIAS ist noch nicht gestartet. Geprüft wurden Gesetzestexte (BGB), Seiten von Auswärtigem Amt, Zoll, Bundesnetzagentur, Eisenbahn-Bundesamt, Luftfahrt-Bundesamt, Bundesverkehrsministerium und Verbraucherzentrale. Viele Punkte sind nur als Suchtreffer belegt und im Text so gekennzeichnet. Quellen und offene Punkte: <a href=\"quellen.html\">Quellen und Grenzen</a>. Information, keine Rechtsberatung.</p>",
+  "haeufig": [
+    "fluggastrechte",
+    "pauschalreise",
+    "gepaeck",
+    "bahn",
+    "einreise-dokumente",
+    "versicherung-gesundheit"
+  ],
+  "fusszeile": "Wegweiser Reisende: Information zum Reiserecht, keine Rechtsberatung; Stand September 2026.",
+  "beratung_id": "beratung",
+  "quellen_teaser": "<p>Angaben stammen aus Gesetzestexten und Seiten von Behörden, Verbänden und Presse. Was nur als Suchtreffer oder Presseangabe belegt ist, steht unten offen.</p>",
+  "quellen_abschnitte": [
+    {
+      "h": "Quellenliste",
+      "html": "<ol><li>Bundesministerium der Justiz, Gesetze im Internet: BGB §§ 312g, 651a, 651c, 651e, 651f, 651g, 651h, 651i, 651j, 651k, 651m, 651o, 651p, 651r, 651t. Abgerufen 21.09.2026 (Texte über Kurzauswertung, nicht Wortlaut geprüft).</li><li>Prof. Führich, Reiserecht: Tonner, Die Änderungen der Pauschalreiserichtlinie (12.06.2026). Abgerufen 21.09.2026.</li><li>Bundeskanzleramt Österreich, EU-Fluggastrechte (Juli 2026); ÖAMTC, Neue EU-Fluggastrechte. Abgerufen 21.09.2026.</li><li>Schlichtung Reise &amp; Verkehr e.V.: Startseite; Das Montrealer Übereinkommen im Kurzüberblick. Abgerufen 21.09.2026.</li><li>Luftfahrt-Bundesamt, Schlichtung; Bundesministerium für Verkehr, Fahr- und Fluggastrechte. Abgerufen 21.09.2026.</li><li>Eisenbahn-Bundesamt, Fahrgastrechte Bahn (FAQ) und Schiffsverkehr. Abgerufen 21.09.2026.</li><li>Auswärtiges Amt: Reisepässe und Personalausweise; Reise- und Sicherheitshinweise Vereinigtes Königreich; Reisetipps; Krisenvorsorgeliste ELEFAND. Abgerufen 21.09.2026.</li><li>Euronews, ETIAS: After EES chaos (08.07.2026). Abgerufen 21.09.2026.</li><li>Zoll online, Reisefreimengen. Abgerufen 21.09.2026.</li><li>Bundesnetzagentur, Roaming. Abgerufen 21.09.2026.</li><li>Europäisches Verbraucherzentrum Deutschland, EHIC; Verbraucherzentrale, Mietwagen und Auslandsreisen-Versicherungen; Your Europe, Reisen mit Haustieren. Abgerufen 21.09.2026.</li><li>EUR-Lex: VO (EG) Nr. 261/2004, VO (EU) 2021/782, VO (EU) Nr. 1177/2010, Richtlinie (EU) 2026/1024 (CELEX 32026L1024); Übereinkommen von Montreal; BGH, Urteil vom 04.06.2024, X ZR 62/23.</li><li>Nur Suchtreffer: Kreditkarte, Hotelbuchung, BMI zu EES.</li></ol>"
+    },
+    {
+      "h": "Unsichere und offene Punkte",
+      "html": "<ul><li>Fluggastrechte-Reform: Rat und Parlament zugestimmt (Rat am 13.07.2026); Veröffentlichung im Amtsblatt und genaues Anwendungsdatum nicht bestätigt. Inhalte der Reform stammen aus Presse- und Behördenmeldungen, Verordnungstext nicht geprüft.</li><li>Pauschalreise: Vorauszahlung höchstens 25 Prozent (Richtlinie (EU) 2026/1024) nur als Richtlinientext nicht im Volltext geprüft.</li><li>ETIAS: Startdatum offiziell nicht genannt; Berichte nennen 2027.</li><li>Visa- und Einreiseregeln für Länder außerhalb Europas, Zollregeln innerhalb der EU, Artenschutz, Mautsysteme, Grüne Karte und Recht der Zahlungsdienste: nicht geprüft.</li><li>Auto und Führerschein im Ausland: siehe Wegweiser Kfz-Halter; hier nicht geprüft.</li></ul>"
+    },
+    {
+      "h": "Was diese Plattform leistet – und was nicht",
+      "html": "<p>Der Wegweiser erklärt Reiserechte in einfacher Sprache und nennt Rechtsgrundlagen, Fristen und Zahlen aus den genannten Quellen. Er ersetzt keine Rechtsberatung und keine Prüfung Ihres Einzelfalls. Er nennt keine örtlichen Beratungsstellen, Adressen oder Telefonnummern außer bundesweit belegten Stellen. Es werden keine personenbezogenen Daten gespeichert. Fristen im Reiserecht sind oft kurz: Handeln Sie früh und sichern Sie Belege. Geschäftsreisen sind nicht Gegenstand dieser Plattform.</p>"
+    }
+  ]
+}

@@ -1,0 +1,1186 @@
+{
+ "kategorien": [
+  {
+   "id": "ueberblick",
+   "titel": "Überblick und Grundlagen",
+   "icon": "🧭",
+   "beschreibung": "Einstieg: Ihre Rechte als Studierende im Überblick."
+  },
+  {
+   "id": "bafoeg",
+   "titel": "BAföG",
+   "icon": "📝",
+   "beschreibung": "BAföG beantragen, Widerspruch und Rückzahlung."
+  },
+  {
+   "id": "finanzierung",
+   "titel": "Weitere Finanzierung",
+   "icon": "💳",
+   "beschreibung": "Studienkredite, Stipendien und Auslandsförderung."
+  },
+  {
+   "id": "geld",
+   "titel": "Geld im Alltag",
+   "icon": "💶",
+   "beschreibung": "Kindergeld, Wohngeld und Nebenjob."
+  },
+  {
+   "id": "wohnen-gesundheit",
+   "titel": "Wohnen und Gesundheit",
+   "icon": "🏠",
+   "beschreibung": "Wohnheim, WG und Krankenversicherung."
+  },
+  {
+   "id": "studienverlauf",
+   "titel": "Studienverlauf und Sonderfälle",
+   "icon": "🎓",
+   "beschreibung": "Urlaubssemester, Studienabbruch, Prüfungsanfechtung."
+  },
+  {
+   "id": "rechtsschutz",
+   "titel": "Schulden und Rechtsschutz",
+   "icon": "📉",
+   "beschreibung": "Überschuldung und wie Sie geordnet herauskommen."
+  },
+  {
+   "id": "beratung",
+   "titel": "Beratung und Anlaufstellen",
+   "icon": "📞",
+   "beschreibung": "Wer bei welchem Anliegen hilft."
+  }
+ ],
+ "seiten": [
+  {
+   "id": "ueberblick-rechte-studierende",
+   "kategorie": "ueberblick",
+   "titel": "Rechte und Pflichten im Überblick",
+   "icon": "🧭",
+   "teaser": "Was es rechtlich bedeutet, in Deutschland zu studieren: wie BAföG, Kindergeld, Krankenversicherung und Wohngeld zusammenspielen – und wo die Grenzen liegen.",
+   "schlagworte": [
+    "BAföG",
+    "Immatrikulation",
+    "Familienversicherung",
+    "Werkstudentenprivileg",
+    "Kindergeld",
+    "Nachrangprinzip",
+    "Regelstudienzeit",
+    "Förderungshöchstdauer"
+   ],
+   "kurz_html": "\n<p>Ein eigenes „Studierendengesetz“ gibt es nicht. Stattdessen wird der Status „Studierende/r“ in vielen einzelnen\nGesetzen unterschiedlich behandelt: im Bundesausbildungsförderungsgesetz (BAföG), im Einkommensteuergesetz (Kindergeld),\nim Sozialgesetzbuch V (Krankenversicherung) und im Wohngeldgesetz. Jedes dieser Gesetze hat eigene Fristen, eigene\nZuständigkeiten und eigene Altersgrenzen – wer eine Frist bei einer Stelle verpasst, verliert dort Ansprüche, auch\nwenn bei einer anderen Stelle noch alles offen ist.</p>\n<p>Gemeinsam ist den meisten Regelungen ein Nachrangprinzip: Ausbildungsförderung, Wohngeld und andere Sozialleistungen\nsetzen grundsätzlich voraus, dass eigenes Einkommen, Vermögen und vorrangige Leistungen (z. B. Kindergeld, BAföG selbst\ngegenüber Wohngeld) zuerst eingesetzt werden.</p>\n",
+   "schritte": [
+    {
+     "titel": "Immatrikulieren und Fristen notieren",
+     "text": "Mit der Immatrikulation beginnen zugleich mehrere Uhren zu laufen: Regelstudienzeit, BAföG-Förderungshöchstdauer, Altersgrenzen bei Familienversicherung und Kindergeld."
+    },
+    {
+     "titel": "BAföG prüfen",
+     "text": "Auch wer wegen des Elterneinkommens skeptisch ist, sollte einen Antrag erwägen – ein Ablehnungsbescheid „dem Grunde nach“ kann an anderer Stelle relevant werden (z. B. beim Wohngeld)."
+    },
+    {
+     "titel": "Krankenversicherung klären",
+     "text": "Familienversicherung über die Eltern oder eigene studentische Pflichtversicherung – je nach Alter und Einkommen gilt eine andere Regel."
+    },
+    {
+     "titel": "Kindergeld sichern",
+     "text": "Kindergeld läuft während des Studiums nur bis zum 25. Geburtstag und muss der Familienkasse gegenüber nachgewiesen werden."
+    },
+    {
+     "titel": "Nebenjob innerhalb der Grenzen halten",
+     "text": "Wer über die Werkstudenten- oder Minijob-Grenzen hinaus arbeitet, kann Familienversicherung, BAföG-Freibetrag oder Werkstudentenstatus gefährden."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "25. Geburtstag",
+     "was": "Ende von Kindergeld und Familienversicherung als typische Altersgrenzen während des Studiums",
+     "grundlage": "§ 32 EStG · § 10 SGB V"
+    },
+    {
+     "wert": "Regelstudienzeit",
+     "was": "Orientierungsgröße für BAföG-Förderungshöchstdauer; erhebliche Überschreitung kann mehrere Vergünstigungen gleichzeitig kosten",
+     "grundlage": "§ 15a BAföG"
+    },
+    {
+     "wert": "30. Geburtstag",
+     "was": "Grundsätzliches Ende der günstigen studentischen Pflichtversicherung in der gesetzlichen Krankenversicherung",
+     "grundlage": "§ 5 Abs. 1 Nr. 9 SGB V"
+    }
+   ],
+   "achtung": [
+    "Studierendenstatus bringt keine automatischen „Studentenrabatte“ bei Sozialleistungen: BAföG ist die Ausnahme mit eigenem Verfahren, Wohngeld und Grundsicherungsgeld sind für die meisten Studierenden gerade ausgeschlossen.",
+    "Wer die Regelstudienzeit deutlich überschreitet, verliert oft mehrere Vergünstigungen zeitgleich – BAföG-Förderungshöchstdauer, Familienversicherung und teils auch Wohnheimplätze.",
+    "Fristen laufen bei BAföG-Amt, Familienkasse, Krankenkasse und Hochschule unabhängig voneinander – eine Fristversäumnis bei einer Stelle wirkt sich nicht automatisch auf die andere aus."
+   ],
+   "fach_html": "\n<h3>Ein Flickenteppich aus Einzelgesetzen</h3>\n<p>Ausbildungsförderung folgt dem BAföG (eigenständiges Gesetz, kein Sozialgesetzbuch), Kindergeld dem Einkommensteuergesetz\n(§ 32, § 62 ff. EStG) bzw. subsidiär dem Bundeskindergeldgesetz, die studentische Krankenversicherung dem SGB V\n(§ 5 Abs. 1 Nr. 9, § 10) und der Wohngeldausschluss dem Wohngeldgesetz (§ 20 WoGG). Das Werkstudentenprivileg wiederum\nstützt sich nicht auf einen einzelnen Gesetzesparagrafen, sondern auf die „Gemeinsamen Richtlinien der Spitzenorganisationen\nder Sozialversicherung zur versicherungsrechtlichen Beurteilung von Beschäftigungen von Studenten“ – eine Verwaltungspraxis,\nkeine wörtliche 20-Stunden-Vorschrift im Gesetz.</p>\n<h3>Nachrangprinzip in zwei Richtungen</h3>\n<p>Bei BAföG gilt: eigenes Einkommen und Vermögen sowie Unterhalt der Eltern gehen vor (§ 11 BAföG). Bei Wohngeld gilt\numgekehrt: BAföG-Berechtigung „dem Grunde nach“ schließt Wohngeld meist aus (§ 20 WoGG) – das Nachrangprinzip wirkt hier\nalso gegen die Studierenden, nicht für sie, und ist eine häufige Quelle von Missverständnissen.</p>\n",
+   "zustaendig": [
+    "BAföG-Amt des zuständigen Studierendenwerks",
+    "Familienkasse der Bundesagentur für Arbeit",
+    "gesetzliche Krankenkasse",
+    "Immatrikulations- und Prüfungsamt der Hochschule"
+   ],
+   "belege": [
+    "§ 11, § 15a BAföG (gesetze-im-internet.de)",
+    "§ 32 EStG (gesetze-im-internet.de)",
+    "§ 5, § 10 SGB V (gesetze-im-internet.de)",
+    "§ 20 WoGG (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "bafoeg-beantragen",
+    "kindergeld-waehrend-studium",
+    "krankenversicherung-studierende",
+    "beratung-anlaufstellen-studierende"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "bafoeg-beantragen",
+   "kategorie": "bafoeg",
+   "titel": "BAföG beantragen",
+   "icon": "📝",
+   "teaser": "So beantragen Sie BAföG richtig und wahren die Rückwirkung – und was das Vorvorjahresprinzip beim Elterneinkommen bedeutet.",
+   "schlagworte": [
+    "BAföG",
+    "Formblatt",
+    "Vorvorjahresprinzip",
+    "Vorläufige Entscheidung",
+    "Förderungshöchstdauer",
+    "§ 15 BAföG",
+    "§ 24 BAföG"
+   ],
+   "kurz_html": "\n<p>BAföG unterstützt Studierende, deren eigenes Einkommen und Vermögen sowie das Einkommen der Eltern für den\nLebensunterhalt während des Studiums nicht ausreichen. Zuständig ist das BAföG-Amt des Studierendenwerks an Ihrem\nStudienort. Wichtig: Ausbildungsförderung wird grundsätzlich erst ab dem Monat gezahlt, in dem der Antrag gestellt\nwurde – nicht rückwirkend für frühere Monate (§ 15 Abs. 1 Satz 1 BAföG). Für das Elterneinkommen gilt zudem das\nVorvorjahresprinzip: Maßgeblich ist in der Regel das Einkommen aus dem vorletzten Kalenderjahr vor Beginn des\nBewilligungszeitraums.</p>\n",
+   "schritte": [
+    {
+     "titel": "Formblätter zusammenstellen",
+     "text": "Formblatt 1 (Antrag), Formblatt 3 (Einkommenserklärung der Eltern) und bei eigenem Einkommen Formblatt 5 – Formulare online über das BAföG-Amt oder BAföG-Digital."
+    },
+    {
+     "titel": "Antrag frühzeitig einreichen",
+     "text": "Reicht das Hauptformblatt zunächst aus, um den Antragsmonat zu sichern; fehlende Anlagen können Sie nachreichen, ohne den Antragstag zu verlieren."
+    },
+    {
+     "titel": "Elterneinkommen angeben",
+     "text": "Maßgeblich ist grundsätzlich das Einkommen aus dem vorletzten Kalenderjahr (Vorvorjahresprinzip, § 24 Abs. 1 BAföG)."
+    },
+    {
+     "titel": "Bei schwankendem Einkommen: Aktualisierung beantragen",
+     "text": "Ist das aktuelle Elterneinkommen wesentlich niedriger als im Vorvorjahr, kann eine Aktualisierung nach § 24 Abs. 3 BAföG beantragt werden."
+    },
+    {
+     "titel": "Bescheid prüfen",
+     "text": "Bei unklarer Sach- oder Rechtslage kann das Amt zunächst vorläufig entscheiden; prüfen Sie den Berechnungsbogen auf Freibeträge und angesetztes Einkommen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Antragsmonat",
+     "was": "Ausbildungsförderung wird grundsätzlich erst vom Monat der Antragstellung an geleistet, nicht rückwirkend für Vormonate",
+     "grundlage": "§ 15 Abs. 1 BAföG"
+    },
+    {
+     "wert": "nach dem 4. Fachsemester",
+     "was": "Vorlage eines Leistungsnachweises als Fortsetzungsvoraussetzung",
+     "grundlage": "§ 48 BAföG"
+    },
+    {
+     "wert": "bis 3. Fachsemester",
+     "was": "Ein Studienfachwechsel wird ohne besonderen Grund noch anerkannt; danach nur mit wichtigem Grund",
+     "grundlage": "§ 7 Abs. 3 BAföG"
+    }
+   ],
+   "achtung": [
+    "Wer wartet, bis alle Unterlagen vollständig sind, verliert Fördermonate – die Rückwirkung reicht nur bis zum Antragsmonat.",
+    "Das Elterneinkommen zählt aus dem Vorvorjahr, nicht aus dem aktuellen Jahr – bei Einkommenseinbußen der Eltern lohnt sich ein gesonderter Aktualisierungsantrag.",
+    "Ein fehlender Leistungsnachweis nach dem 4. Fachsemester kann zur Streichung der Förderung führen; Ausnahmen gibt es nur mit triftigen, nachgewiesenen Gründen.",
+    "Die genaue Höhe von Bedarfssätzen und Freibeträgen ändert sich häufig – verlassen Sie sich für Ihren Einzelfall auf den aktuellen Bescheid bzw. die Auskunft des BAföG-Amts, nicht auf ältere Merkblätter."
+   ],
+   "fach_html": "\n<h3>Bedarfssätze und Zuschläge – Zahlen mit Unsicherheit</h3>\n<p>Der monatliche Bedarf setzt sich aus einem Grundbedarf (§ 13 BAföG), einem Wohnzuschlag je nachdem, ob bei den\nEltern oder auswärts gewohnt wird, sowie einem Kranken- und Pflegeversicherungszuschlag für gesetzlich Versicherte\n(§ 13a BAföG) zusammen. Nach mehreren übereinstimmenden, aber im Rahmen dieser Recherche nicht am Gesetzestext selbst\neinzeln geprüften Sekundärquellen ergibt sich für auswärts wohnende, studentisch krankenversicherte Studierende ein\nHöchstsatz von rund 992 €/Monat; welcher Teilbetrag davon genau auf Grundbedarf, Wohnzuschlag, Kranken- und\nPflegeversicherungszuschlag entfällt, wurde in verschiedenen Quellen unterschiedlich angegeben. Für den Einzelfall ist\nallein der aktuelle Bescheid bzw. eine Auskunft des BAföG-Amts maßgeblich, nicht diese Seite.</p>\n<h3>Elternfreibeträge</h3>\n<p>Vom Elterneinkommen werden gesetzlich festgelegte Freibeträge abgezogen (§ 25 BAföG), die sich u. a. nach Familienstand\nder Eltern und der Zahl weiterer unterhaltsberechtigter Kinder richten. Die genaue Höhe dieser Freibeträge wird\nregelmäßig angepasst; verlässliche, im Rahmen dieser Recherche einzeln am Gesetzestext geprüfte Eurobeträge für\nSeptember 2026 lagen nicht vollständig widerspruchsfrei vor und werden deshalb hier nicht beziffert.</p>\n<h3>Vorvorjahresprinzip und Aktualisierung</h3>\n<p>Grundlage ist grundsätzlich das Elterneinkommen des vorletzten Kalenderjahres vor Beginn des Bewilligungszeitraums\n(§ 24 Abs. 1 BAföG). Ist absehbar, dass das tatsächliche Einkommen im Bewilligungszeitraum wesentlich niedriger ausfällt,\nkann eine Aktualisierung beantragt werden (§ 24 Abs. 3 BAföG).</p>\n",
+   "zustaendig": [
+    "BAföG-Amt des zuständigen Studierendenwerks (bei Ersteinschreibung: Studierendenwerk am Studienort)"
+   ],
+   "belege": [
+    "§ 15 BAföG (gesetze-im-internet.de)",
+    "§ 24 BAföG (gesetze-im-internet.de)",
+    "§ 48 BAföG (gesetze-im-internet.de)",
+    "§§ 13, 13a, 25 BAföG (gesetze-im-internet.de) – Einzelbeträge s. Quellen und Methodik"
+   ],
+   "siehe_auch": [
+    "bafoeg-widerspruch-rueckzahlung",
+    "kindergeld-waehrend-studium",
+    "wohngeld-fuer-studierende"
+   ],
+   "stand": "Stand: September 2026 (BAföG-Bedarfssätze/-Freibeträge seit dem 29. BAföG-Änderungsgesetz, Wintersemester 2024/25; einzelne Beträge unten ausdrücklich als unsicher gekennzeichnet)."
+  },
+  {
+   "id": "bafoeg-widerspruch-rueckzahlung",
+   "kategorie": "bafoeg",
+   "titel": "BAföG-Widerspruch und Rückzahlung",
+   "icon": "⚖️",
+   "teaser": "Gegen einen BAföG-Bescheid können Sie innerhalb eines Monats Widerspruch einlegen. Nach dem Studium ist höchstens die Hälfte als zinsloses Darlehen zurückzuzahlen – gedeckelt und irgendwann erlassen.",
+   "schlagworte": [
+    "Widerspruch",
+    "Volldarlehen",
+    "Rückzahlungsobligo",
+    "Freistellung",
+    "Bundesverwaltungsamt",
+    "§ 18 BAföG",
+    "§ 70 VwGO"
+   ],
+   "kurz_html": "\n<p>BAföG besteht seit 1990 je zur Hälfte aus einem Zuschuss, den Sie nicht zurückzahlen müssen, und einem zinslosen\nStaatsdarlehen (§ 17 Abs. 2 BAföG). Für Streitigkeiten über BAföG-Bescheide ist – anders als beim Bürgergeld/\nGrundsicherungsgeld – nicht das Sozialgericht, sondern das Verwaltungsgericht zuständig, weil BAföG ein eigenständiges\nVerwaltungsverfahren außerhalb der Sozialgesetzbücher ist. Gegen jeden Bescheid können Sie innerhalb eines Monats\nWiderspruch einlegen (§ 70 VwGO). Die Rückzahlung des Darlehensanteils beginnt einige Jahre nach dem Ende der\nFörderungshöchstdauer und ist der Höhe nach gedeckelt.</p>\n",
+   "schritte": [
+    {
+     "titel": "Bescheid genau prüfen",
+     "text": "Kontrollieren Sie den Berechnungsbogen: angesetztes Einkommen, Freibeträge, Bedarfssätze."
+    },
+    {
+     "titel": "Innerhalb eines Monats Widerspruch einlegen",
+     "text": "Der Widerspruch kann zunächst kurz und formlos erfolgen; eine ausführliche Begründung darf nachgereicht werden."
+    },
+    {
+     "titel": "Widerspruchsbescheid abwarten",
+     "text": "Das BAföG-Amt prüft den Fall erneut und erlässt einen Widerspruchsbescheid."
+    },
+    {
+     "titel": "Bei Ablehnung: Klage vor dem Verwaltungsgericht",
+     "text": "Gegen einen ablehnenden Widerspruchsbescheid ist Klage vor dem zuständigen Verwaltungsgericht innerhalb eines Monats möglich (§ 74 VwGO)."
+    },
+    {
+     "titel": "Rückzahlung aktiv steuern",
+     "text": "Nach Aufforderung durch das Bundesverwaltungsamt: Ratenzahlung leisten oder bei geringem Einkommen rechtzeitig Freistellung beantragen (§ 18a BAföG)."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "1 Monat",
+     "was": "Widerspruchsfrist gegen BAföG-Bescheide sowie Klagefrist gegen einen ablehnenden Widerspruchsbescheid",
+     "grundlage": "§ 70, § 74 VwGO"
+    },
+    {
+     "wert": "ca. 5 Jahre nach Förderungsende",
+     "was": "Beginn der Rückzahlungspflicht für den Darlehensanteil",
+     "grundlage": "§ 18 Abs. 3 BAföG"
+    },
+    {
+     "wert": "mind. 130 €/Monat",
+     "was": "Übliche Mindestrate bei der Rückzahlung, nach Sekundärquellen; im Einzelfall beim Bundesverwaltungsamt zu erfragen",
+     "grundlage": "§ 18 Abs. 3 BAföG"
+    }
+   ],
+   "achtung": [
+    "Wer die Widerspruchsfrist verpasst, kann den Bescheid meist nicht mehr ändern lassen – selbst wenn er in der Sache falsch ist.",
+    "Eine Rückzahlungsaufforderung zu ignorieren führt zu Verzugszinsen und im Zweifel zur Vollstreckung durch das Bundesverwaltungsamt.",
+    "Freistellung von der Rückzahlung bei geringem Einkommen erfolgt nicht automatisch – Sie müssen sie mit Einkommensnachweis aktiv beantragen und in der Regel regelmäßig erneuern.",
+    "Zur genauen Höhe des gedeckelten Rückzahlungsobligos und der für eine Freistellung maßgeblichen Einkommensgrenze fanden sich in verschiedenen Sekundärquellen unterschiedliche Zahlen; verbindlich ist allein die Auskunft des Bundesverwaltungsamts im Einzelfall."
+   ],
+   "fach_html": "\n<h3>Rechtsweg: Verwaltungsgericht statt Sozialgericht</h3>\n<p>BAföG-Streitigkeiten sind öffentlich-rechtliche Streitigkeiten nichtverfassungsrechtlicher Art außerhalb der\nSozialgerichtsbarkeit; der Rechtsweg führt über Widerspruch (§ 70 VwGO) zur Klage vor dem Verwaltungsgericht\n(§ 74 VwGO), nicht zum Sozialgericht wie bei SGB-II- oder SGB-III-Leistungen.</p>\n<h3>Darlehensanteil, Deckelung und Erlass</h3>\n<p>Der Darlehensanteil des BAföG ist zinslos (§ 18 Abs. 2 BAföG) und der Höhe nach gedeckelt; nach mehreren\nübereinstimmenden Sekundärquellen liegt die Obergrenze des sogenannten Rückzahlungsobligos seit einer Reform um das\nJahr 2020 bei 10.010 €, unabhängig von der Dauer des tatsächlichen Bezugs. Diese Zahl war im Rahmen dieser Recherche\nnicht am Gesetzestext selbst einzeln nachprüfbar und wird deshalb als nicht abschließend verifiziert gekennzeichnet.\nNach mehreren Quellen wird eine nach Ablauf der Rückzahlungsverpflichtung verbleibende Restschuld nach 20 Jahren\nerlassen; auch das gilt hier als sekundärquellenbasiert, nicht als am Gesetzestext einzeln geprüft.</p>\n<h3>Freistellung bei geringem Einkommen</h3>\n<p>Liegt das Einkommen unter einer bestimmten Freigrenze (orientiert an sozialrechtlichen Pfändungsfreigrenzen), kann\neine – meist befristete – Freistellung von der Rückzahlungspflicht beantragt werden (§ 18a BAföG). Zur genauen\nEinkommensgrenze fanden sich widersprüchliche Angaben in den Sekundärquellen; maßgeblich ist die aktuelle Auskunft des\nBundesverwaltungsamts.</p>\n",
+   "zustaendig": [
+    "Bundesverwaltungsamt (BVA), Köln – für die Rückzahlung",
+    "BAföG-Amt des Studierendenwerks – für Widerspruch gegen den Förderungsbescheid",
+    "Verwaltungsgericht – für die Klage"
+   ],
+   "belege": [
+    "§ 17, § 18, § 18a BAföG (gesetze-im-internet.de)",
+    "§ 70, § 74 VwGO (gesetze-im-internet.de)",
+    "Bundesverwaltungsamt, bva.bund.de – Rückzahlungsobligo und Freistellung: Einzelbeträge nicht abschließend verifiziert, s. Quellen und Methodik"
+   ],
+   "siehe_auch": [
+    "bafoeg-beantragen",
+    "schulden-und-ueberschuldung-studierende",
+    "beratung-anlaufstellen-studierende"
+   ],
+   "stand": "Stand: September 2026 (BAföG-Bedarfssätze/-Freibeträge seit dem 29. BAföG-Änderungsgesetz, Wintersemester 2024/25; einzelne Beträge unten ausdrücklich als unsicher gekennzeichnet)."
+  },
+  {
+   "id": "studienkredite-und-stipendien",
+   "kategorie": "finanzierung",
+   "titel": "Studienkredite und Stipendien",
+   "icon": "💳",
+   "teaser": "Wenn BAföG nicht reicht oder nicht infrage kommt: KfW-Studienkredit, Deutschlandstipendium und Begabtenförderungswerke im Überblick.",
+   "schlagworte": [
+    "Deutschlandstipendium",
+    "KfW-Studienkredit",
+    "Begabtenförderungswerk",
+    "Stipendienprogramm-Gesetz",
+    "§ 21 BAföG"
+   ],
+   "kurz_html": "\n<p>Wenn BAföG nicht oder nicht ausreichend gezahlt wird, gibt es im Wesentlichen drei weitere Wege: das\nDeutschlandstipendium (leistungsbezogen, unabhängig vom Einkommen der Eltern), die vom Bund anerkannten\nBegabtenförderungswerke (mit eigenem Auswahlverfahren und häufig ideeller Bindung) und der KfW-Studienkredit\n(ein reguläres, zinspflichtiges Bankdarlehen ohne Einkommensprüfung der Eltern). Diese Wege sind sehr unterschiedlich:\nStipendien müssen nicht zurückgezahlt werden, ein Kredit schon.</p>\n",
+   "schritte": [
+    {
+     "titel": "Finanzierungslücke klären",
+     "text": "Ermitteln Sie zunächst, welche Lücke nach BAföG, Nebenjob und Kindergeld tatsächlich noch besteht."
+    },
+    {
+     "titel": "Stipendiendatenbanken durchsuchen",
+     "text": "Der Stipendienlotse des zuständigen Bundesministeriums und Datenbanken wie mystipendium listen zahlreiche Programme."
+    },
+    {
+     "titel": "Deutschlandstipendium: bei der Hochschule bewerben",
+     "text": "Die Bewerbung läuft direkt über die jeweilige Hochschule, mit hochschulindividuellen Fristen und Auswahlkriterien."
+    },
+    {
+     "titel": "Begabtenförderungswerk: frühzeitig bewerben",
+     "text": "Bewerbungen sind meist schon im 1. oder 2. Semester sinnvoll; oft wird ein Gutachten oder Empfehlungsschreiben verlangt."
+    },
+    {
+     "titel": "KfW-Studienkredit: Auszahlungsrate wählen",
+     "text": "Beim KfW-Studienkredit bestimmen Sie die monatliche Auszahlungsrate innerhalb eines vorgegebenen Rahmens selbst."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "hochschulindividuell",
+     "was": "Bewerbungsfristen für das Deutschlandstipendium – keine bundeseinheitliche Frist",
+     "grundlage": "Stipendienprogramm-Gesetz (StipG)"
+    },
+    {
+     "wert": "halbjährlich",
+     "was": "Der KfW-Studienkredit hat einen variablen Zinssatz, der jeweils zum 1. April und 1. Oktober neu festgesetzt wird",
+     "grundlage": "KfW-Kreditbedingungen"
+    },
+    {
+     "wert": "6–23 Monate",
+     "was": "Frei wählbarer Beginn der Rückzahlung nach der letzten Auszahlung beim KfW-Studienkredit",
+     "grundlage": "KfW-Kreditbedingungen"
+    }
+   ],
+   "achtung": [
+    "Das Deutschlandstipendium schließt BAföG nicht aus: Nach § 21 Abs. 3 BAföG bleibt es bis zu 300 € monatlich bei der BAföG-Einkommensanrechnung anrechnungsfrei.",
+    "Der KfW-Studienkredit ist ein normales, zinspflichtiges Bankdarlehen und keine Förderung wie BAföG – er sollte erst genutzt werden, wenn BAföG, Stipendien und Nebenjob ausgeschöpft sind.",
+    "Der genaue Zinssatz des KfW-Studienkredits ändert sich halbjährlich und variiert je nach Marktzins – jede hier genannte Zahl ist nur eine Momentaufnahme und ersetzt nicht die aktuelle Konditionenübersicht der KfW.",
+    "Eine Förderung durch ein Begabtenförderungswerk lässt sich in der Praxis meist nicht mit einer BAföG-Vollförderung kombinieren; das ist jedoch keine bundeseinheitliche gesetzliche Regel, sondern Praxis der jeweiligen Werke."
+   ],
+   "fach_html": "\n<h3>Deutschlandstipendium</h3>\n<p>Rechtsgrundlage ist das Stipendienprogramm-Gesetz (StipG). Die Förderung wird je zur Hälfte vom Bund und von\nprivaten Förderern (Unternehmen, Stiftungen, Privatpersonen) finanziert und nach Leistung und Engagement vergeben,\nunabhängig vom Einkommen der Studierenden oder ihrer Eltern. Nach § 21 Abs. 3 BAföG wird sie bis zu einem Betrag von\n300 € monatlich nicht auf den BAföG-Bedarf angerechnet.</p>\n<h3>Begabtenförderungswerke</h3>\n<p>Die vom Bund anerkannten Begabtenförderungswerke (u. a. Studienstiftung des deutschen Volkes sowie parteinahe,\nkirchliche und gewerkschaftsnahe Stiftungen) vergeben ideelle und teils finanzielle Förderung nach eigenen\nAuswahlverfahren. Die konkreten Fördersätze und Auswahlkriterien unterscheiden sich zwischen den Werken erheblich und\nwerden hier nicht im Einzelnen beziffert.</p>\n<h3>KfW-Studienkredit</h3>\n<p>Der KfW-Studienkredit (Produkt 174) ist ein Bankdarlehen ohne Prüfung des Elterneinkommens, mit variablem, an den\nEuribor gekoppeltem Zinssatz und einer wählbaren monatlichen Auszahlungsrate. Da der Zinssatz regelmäßig angepasst\nwird, verweist diese Seite für die aktuelle Höhe auf die Konditionenübersicht der KfW statt eine mit der Zeit veraltende\nZahl zu nennen.</p>\n",
+   "zustaendig": [
+    "Hochschule (Vergabe Deutschlandstipendium)",
+    "jeweiliges Begabtenförderungswerk",
+    "KfW Bankengruppe (Studienkredit)"
+   ],
+   "belege": [
+    "Stipendienprogramm-Gesetz (StipG), gesetze-im-internet.de",
+    "§ 21 BAföG (gesetze-im-internet.de)",
+    "kfw.de – KfW-Studienkredit (174), Konditionenübersicht",
+    "deutschlandstipendium.de"
+   ],
+   "siehe_auch": [
+    "bafoeg-beantragen",
+    "auslandssemester-foerderung",
+    "schulden-und-ueberschuldung-studierende"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "krankenversicherung-studierende",
+   "kategorie": "wohnen-gesundheit",
+   "titel": "Krankenversicherung für Studierende",
+   "icon": "🩺",
+   "teaser": "Familienversicherung, studentische Pflichtversicherung oder freiwillige Mitgliedschaft: welche Regel bis wann gilt.",
+   "schlagworte": [
+    "Familienversicherung",
+    "Studentische Pflichtversicherung",
+    "Geringfügigkeitsgrenze",
+    "§ 5 SGB V",
+    "§ 10 SGB V"
+   ],
+   "kurz_html": "\n<p>Für die Krankenversicherung während des Studiums gibt es im Wesentlichen drei Stationen: Bis zum 25. Geburtstag\nkönnen Sie unter bestimmten Einkommensvoraussetzungen beitragsfrei über ein Elternteil familienversichert bleiben\n(§ 10 SGB V). Danach – oder wenn die Einkommensgrenze überschritten wird – greift für ordentlich Studierende bis zum\n30. Geburtstag die vergünstigte studentische Pflichtversicherung in der gesetzlichen Krankenversicherung\n(§ 5 Abs. 1 Nr. 9 SGB V). Wer älter ist oder die Regelstudienzeit erheblich überschritten hat, wechselt in eine\nfreiwillige gesetzliche oder private Versicherung.</p>\n",
+   "schritte": [
+    {
+     "titel": "Familienversicherung prüfen",
+     "text": "Solange Sie unter 25 sind und Ihr Einkommen die Geringfügigkeitsgrenze nicht übersteigt, ist die Familienversicherung meist die günstigste Option."
+    },
+    {
+     "titel": "Versicherungsbescheinigung bei der Hochschule vorlegen",
+     "text": "Für die Immatrikulation bzw. Rückmeldung ist eine elektronische Meldung Ihrer Krankenkasse an die Hochschule erforderlich."
+    },
+    {
+     "titel": "Rechtzeitig zur Pflichtversicherung wechseln",
+     "text": "Spätestens mit dem 25. Geburtstag endet die Familienversicherung; melden Sie sich rechtzeitig bei Ihrer Krankenkasse für die studentische Pflichtversicherung."
+    },
+    {
+     "titel": "Ende der studentischen Pflichtversicherung im Blick behalten",
+     "text": "Mit 30 oder bei erheblicher Überschreitung der Regelstudienzeit endet die vergünstigte Pflichtversicherung; informieren Sie sich frühzeitig über die Folgekosten."
+    },
+    {
+     "titel": "Werkstudententätigkeit gesondert prüfen",
+     "text": "Ein Nebenjob kann je nach Umfang die Familienversicherung gefährden oder das Werkstudentenprivileg auslösen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "25. Geburtstag",
+     "was": "Grundsätzliches Ende der Familienversicherung über ein Elternteil",
+     "grundlage": "§ 10 Abs. 2 Nr. 3 SGB V"
+    },
+    {
+     "wert": "30. Geburtstag",
+     "was": "Grundsätzliches Ende der studentischen Pflichtversicherung; danach freiwillige Versicherung",
+     "grundlage": "§ 5 Abs. 1 Nr. 9, Abs. 7 SGB V"
+    },
+    {
+     "wert": "Geringfügigkeitsgrenze",
+     "was": "Eigenes Einkommen darf diese Grenze nicht regelmäßig übersteigen, sonst entfällt die Familienversicherung",
+     "grundlage": "§ 10 Abs. 1 Nr. 5 SGB V"
+    }
+   ],
+   "achtung": [
+    "Wer die Familienversicherung durch einen Nebenjob über der Geringfügigkeitsgrenze verliert, wird davon nicht automatisch informiert – das eigene Einkommen sollte selbst im Blick behalten werden.",
+    "Der Wechsel von der Familien- in die studentische Pflichtversicherung mit 25 passiert nicht automatisch beitragsfrei: Ab dann fällt ein eigener, wenn auch ermäßigter Beitrag an.",
+    "Wer über 30 ist oder die Regelstudienzeit erheblich überschritten hat, zahlt als freiwillig Versicherte:r häufig deutlich mehr als den ermäßigten Studierendentarif.",
+    "Nach Angaben der Krankenkassen ist ein späterer Wechsel von einer privaten Krankenversicherung in die günstige studentische Pflichtversicherung der gesetzlichen Kassen nur eingeschränkt möglich – die Entscheidung zu Studienbeginn sollte gut überlegt sein."
+   ],
+   "fach_html": "\n<h3>Studentische Pflichtversicherung (§ 5 Abs. 1 Nr. 9 SGB V)</h3>\n<p>Pflichtversichert sind ordentlich Studierende staatlicher oder staatlich anerkannter Hochschulen, solange sie nicht\nfamilienversichert sind und keine vorrangigen Ausschlussgründe vorliegen. Zur genauen Höhe des monatlichen Beitrags\n(Kranken- plus Pflegeversicherung) fanden sich in Sekundärquellen unterschiedliche, aber nah beieinanderliegende\nAngaben; ein einzeln am Beitragsrecht verifizierter Wert für September 2026 wird hier deshalb nicht beziffert – die\naktuelle Höhe teilt jede gesetzliche Krankenkasse auf Anfrage mit.</p>\n<h3>Familienversicherung (§ 10 SGB V)</h3>\n<p>Voraussetzung ist u. a., dass das Gesamteinkommen des Kindes eine Geringfügigkeitsgrenze nicht regelmäßig\nübersteigt; diese Grenze ist an die jeweils aktuelle Minijob-Grenze gekoppelt und wird daher regelmäßig angepasst.</p>\n<h3>Werkstudentenprivileg als Sonderfall</h3>\n<p>Ein Werkstudentenjob kann Kranken-, Pflege- und Arbeitslosenversicherungspflicht aus der Beschäftigung ausschließen\n(siehe eigene Themenseite); das betrifft die Versicherung aus dem Job, nicht die studentische Kranken(pflicht)versicherung\nals solche.</p>\n",
+   "zustaendig": [
+    "gesetzliche Krankenkasse der Wahl",
+    "Hochschule (Immatrikulationsamt, für den Versicherungsnachweis)"
+   ],
+   "belege": [
+    "§ 5 SGB V (gesetze-im-internet.de)",
+    "§ 10 SGB V (gesetze-im-internet.de)",
+    "§ 20 SGB XI – Pflegeversicherung (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "nebenjob-und-werkstudent",
+    "ueberblick-rechte-studierende",
+    "urlaubssemester-und-krankheit"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "wohnen-studentenwohnheim-wg",
+   "kategorie": "wohnen-gesundheit",
+   "titel": "Wohnen: Studentenwohnheim und WG",
+   "icon": "🏠",
+   "teaser": "Kein eigenes Studentenmietrecht, sondern normales BGB-Mietrecht mit ein paar Besonderheiten bei WG, möbliertem Zimmer und Wohnheim.",
+   "schlagworte": [
+    "Kaution",
+    "Untermiete",
+    "Kündigungsfrist",
+    "Möbliertes Zimmer",
+    "§ 551 BGB",
+    "§ 573c BGB"
+   ],
+   "kurz_html": "\n<p>Ein spezielles „Studentenmietrecht“ gibt es nicht: Für Zimmer, WG-Anteile und Wohnungen gilt das allgemeine\nMietrecht des BGB. Besonderheiten ergeben sich vor allem bei der Untermiete in einer WG, bei einem möblierten Zimmer\ninnerhalb der Wohnung der vermietenden Person und bei Studierendenwohnheimen, deren Verträge oft an den Studienstatus\ngekoppelt sind.</p>\n",
+   "schritte": [
+    {
+     "titel": "Wohnraum frühzeitig suchen",
+     "text": "Wartelisten für Wohnheimplätze der Studierendenwerke sollten möglichst früh vor Studienbeginn genutzt werden."
+    },
+    {
+     "titel": "Mietvertrag genau prüfen",
+     "text": "Prüfen Sie, ob der Vertrag befristet ist und ob dafür ein anerkannter Sachgrund benannt wird; die Kaution darf höchstens drei Nettokaltmieten betragen (§ 551 Abs. 1 BGB)."
+    },
+    {
+     "titel": "Übergabeprotokoll erstellen",
+     "text": "Halten Sie Zustand und Zählerstände bei Einzug schriftlich fest, um spätere Streitigkeiten zu vermeiden."
+    },
+    {
+     "titel": "Bei WG: Untermieterlaubnis einholen",
+     "text": "Wer Zimmer in einer bestehenden Wohnung untervermietet oder selbst zur Untermiete wohnt, braucht die Erlaubnis des Hauptmieters bzw. Vermieters."
+    },
+    {
+     "titel": "Kündigungsfrist beachten",
+     "text": "Für normale Mietverhältnisse gilt eine gesetzliche Kündigungsfrist von drei Monaten, unabhängig von der Mietdauer (§ 573c Abs. 1 BGB)."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "3 Nettokaltmieten",
+     "was": "Höchstgrenze für die Mietkaution",
+     "grundlage": "§ 551 Abs. 1 BGB"
+    },
+    {
+     "wert": "3 Monate",
+     "was": "Gesetzliche Kündigungsfrist für Mieter:innen bei unbefristeten Mietverhältnissen",
+     "grundlage": "§ 573c Abs. 1 BGB"
+    },
+    {
+     "wert": "zum 15. eines Monats",
+     "was": "Kürzere Kündigungsfrist bei einem möblierten Zimmer innerhalb der vom Vermieter selbst bewohnten Wohnung mit höchstens zwei Wohnungen",
+     "grundlage": "§ 549 Abs. 2 Nr. 2 i. V. m. § 573c Abs. 3 BGB"
+    }
+   ],
+   "achtung": [
+    "Pauschale „Studentenklauseln“, die einen Mietvertrag angeblich automatisch mit Studienende enden lassen, sind ohne einen im Vertrag benannten Sachgrund nach § 575 BGB oft unwirksam.",
+    "Wie Wohnheimverträge der Studierendenwerke rechtlich genau einzuordnen sind – als normaler BGB-Mietvertrag oder als eigenständiges öffentlich-rechtliches Nutzungsverhältnis –, wird von Studierendenwerk zu Studierendenwerk unterschiedlich gehandhabt; das sollte im Einzelfall in der Nutzungsordnung nachgelesen werden.",
+    "Untervermietung ohne Erlaubnis des Vermieters kann zur fristlosen Kündigung führen (§ 543 Abs. 2 Nr. 2 BGB) – bei einem WG-Wechsel während des Semesters unbedingt vorher klären.",
+    "Die Kaution darf in bis zu drei Monatsraten gezahlt werden (§ 551 Abs. 2 BGB); dieses Recht wird selten von sich aus angeboten, besteht aber trotzdem."
+   ],
+   "fach_html": "\n<h3>Kein Sonderrecht, aber Sonderfälle</h3>\n<p>Für Studierende gilt das allgemeine Mietrecht des BGB. Zwei Sonderfälle kommen im studentischen Alltag besonders\nhäufig vor: das möblierte Zimmer innerhalb der vom Vermieter selbst bewohnten Wohnung mit höchstens zwei Wohnungen\n(verkürzte Kündigungsfrist zum 15. eines Monats, § 549 Abs. 2 Nr. 2 i. V. m. § 573c Abs. 3 BGB) und die Untermiete\nin einer WG, die stets die Zustimmung des Hauptmieters bzw. der Vermieterin voraussetzt.</p>\n<h3>Befristung und Sachgrund</h3>\n<p>Ein Zeitmietvertrag ist nur wirksam, wenn dem Mieter bei Vertragsschluss schriftlich ein gesetzlich anerkannter\nSachgrund mitgeteilt wird (§ 575 BGB, z. B. Eigenbedarf oder geplanter Umbau). Eine allgemeine „Vermietung nur für die\nDauer des Studiums“ zählt hierzu nach den einschlägigen Kommentierungen in der Regel nicht.</p>\n<h3>Kautionsrückzahlung</h3>\n<p>Für die Rückzahlung der Kaution nach Auszug nennt das Gesetz keine feste Frist; nach ständiger Rechtsprechung hat\nder Vermieter eine angemessene Prüf- und Abrechnungsfrist, die in der Praxis mit bis zu sechs Monaten angesetzt wird –\ndies ist Richterrecht, keine Frist aus dem Gesetzestext selbst.</p>\n",
+   "zustaendig": [
+    "Vermietende Person bzw. Studierendenwerk (Wohnheim)",
+    "Mieterverein/Mieterschutzbund (Beratung)"
+   ],
+   "belege": [
+    "§ 543, § 549, § 551, § 573c, § 575 BGB (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "wohngeld-fuer-studierende",
+    "beratung-anlaufstellen-studierende",
+    "urlaubssemester-und-krankheit"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "nebenjob-und-werkstudent",
+   "kategorie": "geld",
+   "titel": "Nebenjob und Werkstudent",
+   "icon": "💼",
+   "teaser": "Wie viel Sie neben dem Studium arbeiten dürfen, ohne BAföG, Familienversicherung oder Werkstudentenstatus zu gefährden.",
+   "schlagworte": [
+    "Werkstudentenprivileg",
+    "20-Stunden-Regel",
+    "Minijob-Grenze",
+    "Geringfügigkeitsgrenze",
+    "Rentenversicherungspflicht"
+   ],
+   "kurz_html": "\n<p>Als Werkstudent oder Werkstudentin arbeiten Sie in der Regel nicht mehr als 20 Stunden pro Woche während der\nVorlesungszeit; in den Semesterferien darf mehr gearbeitet werden. Wird diese 20-Stunden-Grenze in mehr als 26 Wochen\ninnerhalb von zwölf Monaten überschritten, entfällt der Werkstudentenstatus – auch wenn die Wochen mit mehr Stunden in\nden Semesterferien lagen. Das Werkstudentenprivileg befreit von der Versicherungspflicht in Kranken-, Pflege- und\nArbeitslosenversicherung aus dieser Beschäftigung; rentenversicherungspflichtig bleiben Sie trotzdem.</p>\n",
+   "schritte": [
+    {
+     "titel": "Arbeitszeit während der Vorlesungszeit begrenzen",
+     "text": "Halten Sie sich während der Vorlesungszeit an die 20-Stunden-Grenze, um den Werkstudentenstatus nicht zu gefährden."
+    },
+    {
+     "titel": "26-Wochen-Grenze im Blick behalten",
+     "text": "Wird in mehr als 26 Wochen innerhalb von 12 Monaten über 20 Stunden gearbeitet, entfällt das Werkstudentenprivileg."
+    },
+    {
+     "titel": "Bei BAföG: Freibetrag beachten",
+     "text": "Eigenes Einkommen wird bei BAföG bis zu einem Grundfreibetrag nicht angerechnet (§ 23 Abs. 1 BAföG); höheres Einkommen mindert den Förderbetrag."
+    },
+    {
+     "titel": "Bei Familienversicherung: Geringfügigkeitsgrenze einhalten",
+     "text": "Das Gesamteinkommen aus allen Nebenjobs darf die für die Familienversicherung maßgebliche Geringfügigkeitsgrenze nicht regelmäßig übersteigen."
+    },
+    {
+     "titel": "Lohnsteuer im Blick behalten",
+     "text": "Einbehaltene Lohnsteuer lässt sich über die Einkommensteuererklärung oft ganz oder teilweise zurückholen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "20 Std./Woche",
+     "was": "Regelgrenze für das Werkstudentenprivileg während der Vorlesungszeit (Verwaltungspraxis der Sozialversicherungsträger, nicht wörtlich im Gesetzestext benannt)",
+     "grundlage": "Gemeinsame Richtlinien der Spitzenorganisationen der Sozialversicherung"
+    },
+    {
+     "wert": "26 Wochen/12 Monate",
+     "was": "Zulässige Ausnahmezeit für eine Überschreitung der 20-Stunden-Grenze, z. B. in den Semesterferien",
+     "grundlage": "Gemeinsame Richtlinien der Spitzenorganisationen der Sozialversicherung"
+    },
+    {
+     "wert": "603 €/Monat (2026)",
+     "was": "Minijob-Grenze, an die u. a. die Geringfügigkeitsgrenze der Familienversicherung gekoppelt ist – wird regelmäßig angepasst",
+     "grundlage": "§ 8 SGB IV i. V. m. Mindestlohnentwicklung"
+    }
+   ],
+   "achtung": [
+    "Das Werkstudentenprivileg gilt nur, wenn das Studium eindeutig im Vordergrund steht; bei einer Tätigkeit, die faktisch einer Vollzeitstelle gleicht, kann die Krankenkasse rückwirkend Beiträge nachfordern.",
+    "Werkstudierende sind trotz Befreiung in Kranken-, Pflege- und Arbeitslosenversicherung weiterhin rentenversicherungspflichtig – das wird häufig übersehen.",
+    "Mehrere Nebenjobs zählen für die Geringfügigkeits- bzw. Minijob-Grenze zusammen; wer das übersieht, kann Familienversicherung oder Werkstudentenstatus verlieren, ohne es zu merken.",
+    "BAföG-Empfänger:innen müssen Einkommensänderungen aus Nebenjobs dem BAföG-Amt melden, auch wenn sie erst nach der Bewilligung eintreten (Mitteilungspflicht)."
+   ],
+   "fach_html": "\n<h3>Werkstudentenprivileg ist Verwaltungspraxis, kein einzelner Gesetzesparagraf</h3>\n<p>Die häufig zitierte „20-Stunden-Regel“ steht nicht wortwörtlich als Zahl in einem einzelnen Paragrafen, sondern\nergibt sich aus den „Gemeinsamen Richtlinien der Spitzenorganisationen der Sozialversicherung zur\nversicherungsrechtlichen Beurteilung von Beschäftigungen von Studenten“, die von den Krankenkassen angewendet werden.\nRechtlicher Anknüpfungspunkt im Gesetz ist die Frage, ob die Beschäftigung neben dem Studium oder das Studium neben\nder Beschäftigung die Hauptsache ist.</p>\n<h3>BAföG-Freibetrag für eigenes Einkommen</h3>\n<p>Eigenes Einkommen aus einer Beschäftigung wird bei BAföG bis zu einem Grundfreibetrag nicht auf den Bedarf\nangerechnet (§ 23 Abs. 1 BAföG); die genaue Höhe dieses Freibetrags wurde im Rahmen dieser Recherche nicht am\nGesetzestext selbst abschließend verifiziert und daher hier nicht beziffert.</p>\n<h3>Minijob- und Midijob-Grenzen</h3>\n<p>Nach mehreren übereinstimmenden, aber nicht einzeln amtlich geprüften Sekundärquellen liegt die Minijob-Grenze 2026\nbei 603 €/Monat; sie wird an die Entwicklung des gesetzlichen Mindestlohns gekoppelt angepasst (§ 8 SGB IV).</p>\n",
+   "zustaendig": [
+    "Krankenkasse (Beurteilung des Werkstudentenstatus)",
+    "BAföG-Amt (Einkommensanrechnung)",
+    "Finanzamt (Lohnsteuer)"
+   ],
+   "belege": [
+    "Gemeinsame Richtlinien der Spitzenorganisationen der Sozialversicherung zur Beschäftigung von Studierenden",
+    "§ 23 BAföG (gesetze-im-internet.de)",
+    "§ 10 SGB V (gesetze-im-internet.de)",
+    "§ 8 SGB IV (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "krankenversicherung-studierende",
+    "kindergeld-waehrend-studium",
+    "bafoeg-beantragen"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "kindergeld-waehrend-studium",
+   "kategorie": "geld",
+   "titel": "Kindergeld während des Studiums",
+   "icon": "👨‍👩‍👧",
+   "teaser": "Kindergeld gibt es während des Studiums bis zum 25. Geburtstag – aber nicht automatisch und nicht ohne Nachweis.",
+   "schlagworte": [
+    "Kindergeld",
+    "Erstausbildung",
+    "Übergangszeit",
+    "Abzweigung",
+    "§ 32 EStG",
+    "§ 70 EStG",
+    "§ 74 EStG"
+   ],
+   "kurz_html": "\n<p>Für volljährige Kinder in einer Erstausbildung oder einem Studium wird Kindergeld längstens bis zum 25. Geburtstag\ngezahlt (§ 32 Abs. 4 EStG). Das Kindergeld wird an einen Elternteil ausgezahlt, nicht direkt an Sie. Nach Abschluss\neiner ersten Ausbildung (z. B. Bachelor) zählt ein weiteres Studium nur dann noch als Teil einer einheitlichen\nErstausbildung, wenn es zeitlich und inhaltlich eng damit zusammenhängt – sonst darf daneben nur eingeschränkt\nerwerbstätig gearbeitet werden, ohne den Anspruch zu gefährden.</p>\n",
+   "schritte": [
+    {
+     "titel": "Immatrikulationsbescheinigung einreichen",
+     "text": "Bei Studienbeginn muss der Familienkasse i. d. R. eine Immatrikulationsbescheinigung vorgelegt werden, damit das Kindergeld weiterläuft."
+    },
+    {
+     "titel": "Bei Unterbrechung: rechtzeitig neuen Antrag stellen",
+     "text": "Nach einer Ausbildungspause muss ein neuer Antrag gestellt werden; die Übergangszeit zwischen zwei Ausbildungsabschnitten darf höchstens vier Monate betragen."
+    },
+    {
+     "titel": "Bachelor–Master-Übergang nachweisen",
+     "text": "Für die Fortsetzung als „Erstausbildung“ ist der zeitliche und sachliche Zusammenhang zwischen Bachelor- und Masterstudium nachzuweisen."
+    },
+    {
+     "titel": "Erwerbstätigkeit in der Zweitausbildung begrenzen",
+     "text": "Bei einer Zweitausbildung darf die Erwerbstätigkeit im Durchschnitt 20 Wochenstunden nicht überschreiten, sonst entfällt der Anspruch."
+    },
+    {
+     "titel": "Bei Bedarf Abzweigung prüfen",
+     "text": "Kommen die Eltern ihrer Unterhaltspflicht nicht nach, kann die Auszahlung an Sie selbst beantragt werden (Abzweigung, § 74 EStG)."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "25. Geburtstag",
+     "was": "Grundsätzliche Altersgrenze für Kindergeld in Ausbildung/Studium",
+     "grundlage": "§ 32 Abs. 4 Satz 1 Nr. 2 EStG"
+    },
+    {
+     "wert": "höchstens 4 Monate",
+     "was": "Zulässige Übergangszeit zwischen zwei Ausbildungsabschnitten ohne Anspruchsverlust",
+     "grundlage": "§ 32 Abs. 4 Satz 1 Nr. 1 EStG"
+    },
+    {
+     "wert": "6 Monate rückwirkend",
+     "was": "Kindergeld wird bei verspäteter Antragstellung höchstens für die letzten 6 Monate vor dem Antragsmonat nachgezahlt",
+     "grundlage": "§ 70 Abs. 1 Satz 2 EStG"
+    }
+   ],
+   "achtung": [
+    "Eine Unterbrechung zwischen Schule und Studienbeginn von mehr als vier Monaten führt zum Wegfall des Kindergelds für die überschießende Zeit.",
+    "Ein Masterstudium gilt nur dann noch als Teil der Erstausbildung, wenn es zeitlich und inhaltlich eng mit dem vorangegangenen Bachelor zusammenhängt – sonst gilt die 20-Stunden-Erwerbstätigkeitsgrenze.",
+    "Kindergeld wird an die Eltern gezahlt, nicht an Sie selbst; bei Konflikten kann eine Abzweigung an Sie beantragt werden, wenn die Eltern ihrer Unterhaltspflicht nicht nachkommen (§ 74 EStG).",
+    "Wer sich mehr als sechs Monate mit dem Antrag Zeit lässt, verliert die älter zurückliegenden Monate unwiederbringlich."
+   ],
+   "fach_html": "\n<h3>Erstausbildungsbegriff und Bachelor–Master</h3>\n<p>Nach § 32 Abs. 4 EStG wird Kindergeld für Kinder bis 25 gewährt, die sich in einer Berufsausbildung (dazu zählt\ndas Studium) befinden. Ein Masterstudium wird als Fortsetzung derselben Erstausbildung behandelt, wenn es zeitlich\nund sachlich eng mit dem vorangegangenen Studienabschnitt verknüpft ist; andernfalls gilt es als Zweitausbildung, in\nder eine Erwerbstätigkeit von mehr als 20 Wochenstunden im Durchschnitt grundsätzlich schädlich für den\nKindergeldanspruch ist.</p>\n<h3>Abzweigung</h3>\n<p>Kommen Eltern ihrer Unterhaltspflicht nicht oder nicht in ausreichendem Umfang nach, kann das Kindergeld auf Antrag\nan die Auszubildende bzw. den Auszubildenden selbst ausgezahlt werden (§ 74 Abs. 1 EStG).</p>\n<h3>Höhe</h3>\n<p>Nach mehreren übereinstimmenden Sekundärquellen liegt das Kindergeld seit Januar 2026 bei 259 €/Monat pro Kind,\nunabhängig von Kinderzahl oder Elterneinkommen; ein am Gesetzestext bzw. der amtlichen Anpassungsverordnung selbst\ngeprüfter Wert lag im Rahmen dieser Recherche nicht vor.</p>\n",
+   "zustaendig": [
+    "Familienkasse der Bundesagentur für Arbeit"
+   ],
+   "belege": [
+    "§ 32 EStG (gesetze-im-internet.de)",
+    "§ 62, § 70, § 74 EStG (gesetze-im-internet.de)",
+    "familienkasse.de"
+   ],
+   "siehe_auch": [
+    "ueberblick-rechte-studierende",
+    "wohngeld-fuer-studierende",
+    "nebenjob-und-werkstudent"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "urlaubssemester-und-krankheit",
+   "kategorie": "studienverlauf",
+   "titel": "Urlaubssemester und Krankheit",
+   "icon": "🛌",
+   "teaser": "Ein Urlaubssemester unterbricht das Studium formal – was das für BAföG, Krankenversicherung und Kindergeld bedeutet.",
+   "schlagworte": [
+    "Beurlaubung",
+    "Urlaubssemester",
+    "Immatrikulationsordnung",
+    "Triftiger Grund"
+   ],
+   "kurz_html": "\n<p>Die Beurlaubung vom Studium („Urlaubssemester“) ist nicht bundeseinheitlich per Gesetz geregelt, sondern in den\nHochschulgesetzen der Länder und den Immatrikulationsordnungen der einzelnen Hochschulen. Anerkannte Gründe sind\ntypischerweise Krankheit, Schwangerschaft und Elternzeit, die Pflege von Angehörigen oder ein studienbezogener\nAuslandsaufenthalt. Während der Beurlaubung ruht in der Regel die Pflicht zur Teilnahme an Prüfungen; BAföG wird\ngrundsätzlich nicht gezahlt, außer bei bestimmten anerkannten Gründen.</p>\n",
+   "schritte": [
+    {
+     "titel": "Antrag rechtzeitig vor Semesterbeginn stellen",
+     "text": "Beurlaubungen sind meist nur vor oder zu Beginn eines Semesters möglich, rückwirkend in der Regel gar nicht oder nur eingeschränkt."
+    },
+    {
+     "titel": "Grund nachweisen",
+     "text": "Bei Krankheit ist üblicherweise ein ärztliches Attest vorzulegen; die Hochschule prüft, ob ein anerkannter Grund vorliegt."
+    },
+    {
+     "titel": "BAföG-Amt informieren",
+     "text": "Melden Sie die Beurlaubung dem BAföG-Amt; ob und in welchem Umfang die Förderung während einer Beurlaubung wegen Krankheit weiterläuft, ist im Einzelfall zu klären."
+    },
+    {
+     "titel": "Krankenversicherung prüfen",
+     "text": "Der Krankenversicherungsschutz bleibt meist bestehen, die Voraussetzungen von Familien- oder Pflichtversicherung gelten aber unverändert weiter."
+    },
+    {
+     "titel": "Familienkasse informieren",
+     "text": "Ob Kindergeld während der Beurlaubung weitergezahlt wird, hängt vom anerkannten Grund und der fortbestehenden Ausbildungsabsicht ab und sollte im Einzelfall geklärt werden."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "hochschulindividuell",
+     "was": "Antragsfristen für die Beurlaubung – keine bundeseinheitliche Frist, geregelt in der Immatrikulationsordnung der jeweiligen Hochschule",
+     "grundlage": "Hochschulgesetze der Länder"
+    },
+    {
+     "wert": "in der Regel nicht möglich",
+     "was": "Rückwirkende Beurlaubung; bereits ausgezahltes BAföG für den betroffenen Zeitraum kann zurückgefordert werden",
+     "grundlage": "BAföG-Verwaltungspraxis"
+    }
+   ],
+   "achtung": [
+    "Ob ein Urlaubssemester die BAföG-Förderungshöchstdauer verlängert, ist keine automatische Folge, sondern hängt vom anerkannten Grund ab und muss beim BAföG-Amt einzeln geklärt werden.",
+    "Wer während der Beurlaubung mehr als geringfügig arbeitet, ist in dieser Zeit voll sozialversicherungspflichtig beschäftigt, weil das Werkstudentenprivileg ein überwiegendes Studium voraussetzt.",
+    "Krankenversicherungsschutz bleibt zwar meist bestehen, die Einkommensgrenzen der Familienversicherung gelten aber unverändert weiter.",
+    "Ob und wie ein länger andauerndes Urlaubssemester Wohnheimplätze oder andere Vergünstigungen der Studierendenwerke berührt, ist von Studierendenwerk zu Studierendenwerk unterschiedlich geregelt."
+   ],
+   "fach_html": "\n<h3>Landesrechtliche Verankerung</h3>\n<p>Es gibt keine bundeseinheitliche gesetzliche Regelung der Beurlaubung; maßgeblich sind die Hochschulgesetze der\nLänder und die Immatrikulations- bzw. Rückmeldeordnung der jeweiligen Hochschule. Das führt dazu, dass Fristen,\nanerkannte Gründe und Nachweispflichten zwischen Hochschulen und Bundesländern variieren.</p>\n<h3>BAföG während der Beurlaubung</h3>\n<p>Grundsätzlich wird während einer Beurlaubung keine Ausbildungsförderung gezahlt, weil in dieser Zeit kein\nordnungsgemäßes Studium betrieben wird. Bei bestimmten Gründen, insbesondere Krankheit, kann nach der BAföG-Praxis in\nEinzelfällen dennoch ein Anspruch bestehen; eine im Rahmen dieser Recherche am Gesetzestext einzeln verifizierte,\nabschließende Regel dazu wird hier nicht behauptet – das BAföG-Amt sollte im konkreten Fall gefragt werden.</p>\n",
+   "zustaendig": [
+    "Studierendensekretariat/Immatrikulationsamt der Hochschule",
+    "BAföG-Amt",
+    "Krankenkasse"
+   ],
+   "belege": [
+    "Hochschulgesetze der Länder (länderspezifisch)",
+    "Immatrikulationsordnungen der jeweiligen Hochschule",
+    "Hinweis: Einzelne BAföG-Verwaltungsvorschriften zur Beurlaubung wurden nicht abschließend am Gesetzestext verifiziert, s. Quellen und Methodik"
+   ],
+   "siehe_auch": [
+    "bafoeg-beantragen",
+    "krankenversicherung-studierende",
+    "studienabbruch-und-neuorientierung"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "studienabbruch-und-neuorientierung",
+   "kategorie": "studienverlauf",
+   "titel": "Studienabbruch und Neuorientierung",
+   "icon": "🔄",
+   "teaser": "Ein Studienabbruch ist kein rechtliches Versagen, hat aber Folgen für BAföG, Kindergeld und Krankenversicherung, die Sie aktiv regeln müssen.",
+   "schlagworte": [
+    "Exmatrikulation",
+    "Studienabbruch",
+    "Anwartschaftszeit",
+    "Übergangszeit"
+   ],
+   "kurz_html": "\n<p>Die Exmatrikulation beendet den Studierendenstatus – und damit zu einem bestimmten Stichtag automatisch mehrere\nstudentische Sonderregeln zugleich: BAföG, studentische Krankenversicherung, meist auch Kindergeld. Wichtig ist, die\nneuen Anschlüsse aktiv selbst zu regeln, statt auf automatische Folgeleistungen zu warten.</p>\n",
+   "schritte": [
+    {
+     "titel": "Exmatrikulation formal klären",
+     "text": "Lassen Sie sich den Exmatrikulationszeitpunkt schriftlich bestätigen; er ist der Stichtag für alle weiteren Meldungen."
+    },
+    {
+     "titel": "BAföG-Amt informieren",
+     "text": "Melden Sie das Studienende unverzüglich; eine verspätete Meldung kann zur Rückforderung bereits gezahlter Beträge führen."
+    },
+    {
+     "titel": "Krankenversicherung ummelden",
+     "text": "Je nach Alter und neuer Situation kommt Familienversicherung, freiwillige Versicherung oder eine Versicherung über einen neuen Arbeitgeber infrage."
+    },
+    {
+     "titel": "Familienkasse informieren",
+     "text": "Kindergeld endet in der Regel mit dem Studienabbruch, außer es folgt innerhalb von vier Monaten eine neue Ausbildung."
+    },
+    {
+     "titel": "Bei Erwerbsabsicht: Agentur für Arbeit einschalten",
+     "text": "Wer arbeiten möchte, sollte sich frühzeitig arbeitsuchend bzw. bei Bedarf arbeitslos melden und die Beratung der Agentur für Arbeit nutzen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "unverzüglich",
+     "was": "Meldepflicht der Exmatrikulation gegenüber dem BAföG-Amt",
+     "grundlage": "BAföG-Mitwirkungspflichten"
+    },
+    {
+     "wert": "höchstens 4 Monate",
+     "was": "Kindergeld-Übergangszeit zwischen abgebrochenem Studium und neuer Ausbildung ohne Anspruchsverlust",
+     "grundlage": "§ 32 Abs. 4 Satz 1 Nr. 1 EStG"
+    },
+    {
+     "wert": "3 Monate vorher",
+     "was": "Frühzeitige Arbeitsuchendmeldung bei bekanntem Beendigungstermin, relevant falls im Anschluss Arbeitslosengeld I infrage kommt",
+     "grundlage": "§ 38 Abs. 1 SGB III"
+    }
+   ],
+   "achtung": [
+    "Ein BAföG-Darlehen aus dem abgebrochenen Studium muss trotz Abbruch grundsätzlich zurückgezahlt werden – der Abbruch löscht keine Rückzahlungspflicht.",
+    "Wer nach dem Abbruch nicht innerhalb der Übergangszeit eine neue Ausbildung beginnt, verliert Kindergeld und Familienversicherung, sobald erkennbar keine Ausbildungsabsicht mehr besteht.",
+    "Studienabbrecher:innen ohne vorherige sozialversicherungspflichtige Beschäftigung haben mangels Anwartschaftszeit meist keinen Anspruch auf Arbeitslosengeld I; als Leistung kommt dann eher Grundsicherungsgeld infrage.",
+    "Ein Fachwechsel ist rechtlich kein Abbruch: Bis zum 3. Fachsemester wird er bei BAföG meist unproblematisch anerkannt, danach nur noch mit einem wichtigen Grund."
+   ],
+   "fach_html": "\n<h3>Rückzahlungspflicht bleibt bestehen</h3>\n<p>Ein Studienabbruch ändert nichts an der Pflicht, den Darlehensanteil des bereits erhaltenen BAföG zurückzuzahlen\n(§ 17 Abs. 2, § 18 BAföG); die Rückzahlungsmodalitäten entsprechen denen nach regulärem Studienabschluss.</p>\n<h3>Verhältnis zu Arbeitslosengeld I und Grundsicherungsgeld</h3>\n<p>Arbeitslosengeld I setzt eine Anwartschaftszeit aus vorheriger versicherungspflichtiger Beschäftigung voraus\n(§§ 142, 147 SGB III); diese fehlt bei vielen Studienabbrecher:innen. Reicht das Einkommen nach dem Abbruch nicht zum\nLebensunterhalt, kommt Grundsicherungsgeld (SGB II) infrage.</p>\n",
+   "zustaendig": [
+    "BAföG-Amt",
+    "Familienkasse",
+    "Krankenkasse",
+    "Agentur für Arbeit/Jobcenter",
+    "Studienberatung der Hochschule"
+   ],
+   "belege": [
+    "§ 17, § 18 BAföG (gesetze-im-internet.de)",
+    "§ 32 EStG (gesetze-im-internet.de)",
+    "§ 38, § 142, § 147 SGB III (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "bafoeg-widerspruch-rueckzahlung",
+    "kindergeld-waehrend-studium",
+    "beratung-anlaufstellen-studierende"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "auslandssemester-foerderung",
+   "kategorie": "finanzierung",
+   "titel": "Auslandssemester und Förderung",
+   "icon": "✈️",
+   "teaser": "Auslands-BAföG, Erasmus+ und Auslandszuschläge: So finanzieren Sie ein Semester im Ausland.",
+   "schlagworte": [
+    "Auslands-BAföG",
+    "Erasmus+",
+    "Auslandszuschlag",
+    "International Office"
+   ],
+   "kurz_html": "\n<p>Für ein Auslandssemester gibt es eine eigene Förderschiene: das Auslands-BAföG. Es wird von einem anderen, nach\nZielland gestaffelten Amt bearbeitet als das Inlands-BAföG und kann auch Studierende fördern, die im Inland wegen des\nElterneinkommens kein BAföG erhalten, weil im Ausland höhere Bedarfe anerkannt werden können (z. B. Studiengebühren,\nReisekosten). Daneben gibt es EU-Förderung über Erasmus+, deren Zuschüsse als Einkommen auf das Auslands-BAföG\nangerechnet werden können.</p>\n",
+   "schritte": [
+    {
+     "titel": "Frühzeitig informieren",
+     "text": "Empfohlen wird, sich mindestens sechs Monate vor dem geplanten Auslandsaufenthalt zu informieren – schon wegen der Bearbeitungsdauer."
+    },
+    {
+     "titel": "Zuständiges Amt ermitteln",
+     "text": "Für das Auslands-BAföG ist je nach Zielland ein bestimmtes Studierendenwerk zuständig, nicht automatisch das Amt am Studienort."
+    },
+    {
+     "titel": "Antrag mit Nachweisen stellen",
+     "text": "Nachweise zu Studienplatz, Zulassung und voraussichtlichen Kosten sind Teil des Antrags."
+    },
+    {
+     "titel": "Parallel Erasmus+ beantragen",
+     "text": "Die Bewerbung für Erasmus+ läuft über das International Office bzw. Akademische Auslandsamt der Heimathochschule."
+    },
+    {
+     "titel": "Anrechnung klären",
+     "text": "Klären Sie mit dem zuständigen Amt, wie ein Erasmus-Zuschuss auf das Auslands-BAföG angerechnet wird, bevor Sie beide Anträge stellen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "empfohlen 6 Monate vorher",
+     "was": "Kein gesetzlicher Stichtag, aber wegen der Bearbeitungsdauer empfohlene Vorlaufzeit für den Auslands-BAföG-Antrag",
+     "grundlage": "Verwaltungspraxis der Ämter für Auslandsförderung"
+    },
+    {
+     "wert": "hochschulindividuell",
+     "was": "Bewerbungsfristen für Erasmus+ über die Heimathochschule",
+     "grundlage": "Erasmus+-Programmleitfaden der EU-Kommission"
+    }
+   ],
+   "achtung": [
+    "Wer erst kurz vor der Abreise Auslands-BAföG beantragt, riskiert, dass der Bescheid erst nach der Rückkehr kommt – eine Vorfinanzierung ist dann nötig.",
+    "Auslands-BAföG und Inlands-BAföG werden von unterschiedlichen Ämtern bearbeitet: Ein laufender Inlands-Bescheid läuft nicht automatisch im Ausland weiter.",
+    "Erasmus-Zuschüsse zählen als Einkommen und können die Höhe des Auslands-BAföG mindern; die genaue Anrechnung hängt von der Ausgestaltung im Einzelfall ab und sollte vorab mit dem zuständigen Amt geklärt werden.",
+    "Der Schutz der studentischen Pflichtversicherung gilt oft nicht unbegrenzt außerhalb der EU; für Auslandssemester außerhalb Europas ist meist eine zusätzliche Auslandskrankenversicherung nötig."
+   ],
+   "fach_html": "\n<h3>Zuständigkeit nach Zielland gestaffelt</h3>\n<p>Für die Auslandsförderung nach dem BAföG (§§ 5, 6 BAföG) sind bestimmte Studierendenwerke jeweils für Ländergruppen\nzuständig, nicht das Amt am inländischen Studienort. Diese Zuständigkeitsverteilung wird von den Ämtern selbst\nveröffentlicht und ändert sich gelegentlich.</p>\n<h3>Auslandszuschlag</h3>\n<p>Für Zielländer außerhalb der EU und der Schweiz können Zuschläge für höhere Lebenshaltungskosten, Reisekosten oder\nStudiengebühren hinzukommen. Konkrete Eurobeträge dazu wurden im Rahmen dieser Recherche nicht abschließend am\nGesetzestext verifiziert und werden deshalb hier nicht genannt.</p>\n<h3>Kombination mit Erasmus+</h3>\n<p>Auslands-BAföG und Erasmus+-Förderung schließen sich nicht grundsätzlich aus, die konkrete Anrechnung des\nErasmus-Zuschusses auf den BAföG-Bedarf hängt aber von der Ausgestaltung des jeweiligen Förderprogramms ab.</p>\n",
+   "zustaendig": [
+    "Zuständiges Amt für Auslandsförderung (je nach Zielland unterschiedliches Studierendenwerk)",
+    "International Office/Akademisches Auslandsamt der Heimathochschule"
+   ],
+   "belege": [
+    "§ 5, § 6 BAföG (gesetze-im-internet.de)",
+    "Erasmus+-Programmleitfaden der Europäischen Kommission",
+    "daad.de"
+   ],
+   "siehe_auch": [
+    "bafoeg-beantragen",
+    "studienkredite-und-stipendien",
+    "krankenversicherung-studierende"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "wohngeld-fuer-studierende",
+   "kategorie": "geld",
+   "titel": "Wohngeld für Studierende",
+   "icon": "🧾",
+   "teaser": "Wohngeld ist für die meisten Studierenden ausgeschlossen, solange BAföG dem Grunde nach möglich wäre – es gibt aber wichtige Ausnahmen.",
+   "schlagworte": [
+    "Wohngeld",
+    "Dem Grunde nach",
+    "Wohngeldausschluss",
+    "§ 20 WoGG"
+   ],
+   "kurz_html": "\n<p>Studierende, denen BAföG dem Grunde nach zusteht oder auf Antrag zustünde, sind vom Wohngeld grundsätzlich\nausgeschlossen – unabhängig davon, ob tatsächlich BAföG gezahlt wird (§ 20 Abs. 2 Satz 1 Nr. 1 WoGG). „Dem Grunde\nnach“ ist dabei nicht dasselbe wie „der Höhe nach“: Auch wer wegen des Elterneinkommens keinen einzigen Euro BAföG\nbekommt, ist in der Regel trotzdem vom Wohngeld ausgeschlossen. Ausnahmen gelten u. a., wenn BAföG nur als\nVolldarlehen gewährt wird, die Förderungshöchstdauer ohne Weiterförderung überschritten ist oder der Studiengang\nselbst nicht förderfähig ist.</p>\n",
+   "schritte": [
+    {
+     "titel": "BAföG-Berechtigung dem Grunde nach prüfen",
+     "text": "Entscheidend ist, ob überhaupt ein BAföG-Anspruch bestehen könnte – nicht, ob er tatsächlich gezahlt wird."
+    },
+    {
+     "titel": "Ausnahmetatbestand identifizieren",
+     "text": "Prüfen Sie, ob eine der anerkannten Ausnahmen zutrifft, etwa ein BAföG-Volldarlehensbescheid oder ein nicht förderfähiger Studiengang."
+    },
+    {
+     "titel": "Antrag bei der Wohngeldstelle stellen",
+     "text": "Zuständig ist die örtliche Wohngeldstelle, meist beim Stadt- oder Landratsamt."
+    },
+    {
+     "titel": "Nachweise einreichen",
+     "text": "Nachweise zu Haushaltszusammensetzung, Einkommen und Miete sind erforderlich; in gemischten WGs ggf. nur für die nicht BAföG-berechtigte Person."
+    },
+    {
+     "titel": "Bescheid prüfen",
+     "text": "Gegen einen ablehnenden Bescheid ist innerhalb eines Monats Widerspruch möglich."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "1 Monat",
+     "was": "Widerspruchsfrist gegen einen Wohngeldbescheid",
+     "grundlage": "§ 70 VwGO"
+    },
+    {
+     "wert": "üblicherweise 12 Monate",
+     "was": "Typischer Bewilligungszeitraum für Wohngeld, danach ist ein Weiterleistungsantrag nötig",
+     "grundlage": "Verwaltungspraxis der Wohngeldstellen"
+    }
+   ],
+   "achtung": [
+    "Der Ausschluss gilt bereits, wenn BAföG dem Grunde nach möglich wäre – selbst wer wegen des Elterneinkommens keinen Cent BAföG bekommt, bleibt in der Regel trotzdem vom Wohngeld ausgeschlossen.",
+    "In Wohngemeinschaften mit gemischtem Status wird oft fälschlich angenommen, dass niemand Wohngeld bekommen kann – tatsächlich kann die nicht BAföG-berechtigte Person Wohngeld für sich beantragen.",
+    "Wer die Förderungshöchstdauer überschritten hat und keine Verlängerung mehr bekommt, sollte den Wohngeldausschluss neu prüfen lassen, weil der BAföG-Anspruch dem Grunde nach dann entfallen sein kann.",
+    "Ein BAföG-Bescheid ausschließlich als Volldarlehen (ohne Zuschussanteil) ist ein anerkannter Ausnahmefall vom Wohngeldausschluss, der oft übersehen wird."
+   ],
+   "fach_html": "\n<h3>„Dem Grunde nach“ vs. „der Höhe nach“</h3>\n<p>§ 20 Abs. 2 Satz 1 Nr. 1 WoGG schließt Personen vom Wohngeld aus, denen Leistungen nach dem BAföG dem Grunde nach\nzustehen, unabhängig davon, ob die Förderung tatsächlich in voller Höhe, in geringer Höhe oder gar nicht gezahlt wird.\nDas führt in der Praxis häufig zu Missverständnissen, weil Studierende ohne tatsächlichen BAföG-Bezug trotzdem als\nwohngeldrechtlich BAföG-berechtigt gelten.</p>\n<h3>Ausnahmen</h3>\n<p>Der Ausschluss gilt nicht, wenn die Ausbildungsförderung ausschließlich als Darlehen gewährt wird, wenn kein\nAnspruch mehr dem Grunde nach besteht (z. B. nach Überschreiten der Förderungshöchstdauer ohne Verlängerung) oder wenn\nder konkrete Studiengang nicht BAföG-förderfähig ist. In Haushalten mit mehreren Personen kann Wohngeld anteilig für\ndie nicht BAföG-berechtigten Haushaltsmitglieder infrage kommen.</p>\n",
+   "zustaendig": [
+    "Örtliche Wohngeldstelle (i. d. R. beim Stadt- oder Landratsamt)"
+   ],
+   "belege": [
+    "§ 20 WoGG (gesetze-im-internet.de)",
+    "Studierendenwerke – Informationsseiten zu Wohngeld"
+   ],
+   "siehe_auch": [
+    "bafoeg-beantragen",
+    "wohnen-studentenwohnheim-wg",
+    "beratung-anlaufstellen-studierende"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "pruefungsanfechtung-und-nachteilsausgleich",
+   "kategorie": "studienverlauf",
+   "titel": "Prüfungsanfechtung und Nachteilsausgleich",
+   "icon": "📋",
+   "teaser": "Gegen eine nicht bestandene Prüfung können Sie vorgehen – und bei Behinderung oder chronischer Erkrankung haben Sie Anspruch auf Nachteilsausgleich.",
+   "schlagworte": [
+    "Prüfungsanfechtung",
+    "Nachteilsausgleich",
+    "Bewertungsspielraum",
+    "Akteneinsicht"
+   ],
+   "kurz_html": "\n<p>Prüfungsentscheidungen an staatlichen Hochschulen sind Verwaltungsakte, gegen die Sie Widerspruch und – falls\nerfolglos – Klage vor dem Verwaltungsgericht erheben können. Gerichte prüfen fachliche Bewertungen dabei nur\neingeschränkt, weil Prüfenden ein Bewertungsspielraum zusteht; Verfahrensfehler wie eine falsch besetzte\nPrüfungskommission oder ein verweigerter Nachteilsausgleich werden dagegen voll überprüft. Wer wegen Behinderung oder\nchronischer Erkrankung benachteiligt wäre, hat Anspruch auf einen Nachteilsausgleich – dieser muss aber vor der\njeweiligen Prüfung beantragt werden.</p>\n",
+   "schritte": [
+    {
+     "titel": "Bescheid und Bewertung prüfen",
+     "text": "Verlangen Sie bei Bedarf Einsicht in die Prüfungsakte, um Bewertungsfehler oder Verfahrensfehler zu erkennen."
+    },
+    {
+     "titel": "Innerhalb der Frist Widerspruch einlegen",
+     "text": "Legen Sie fristgerecht schriftlich Widerspruch ein und benennen Sie den konkreten Fehler."
+    },
+    {
+     "titel": "Widerspruchsbescheid abwarten",
+     "text": "Das Prüfungsamt bzw. der Prüfungsausschuss prüft den Fall erneut."
+    },
+    {
+     "titel": "Bei Ablehnung klagen",
+     "text": "Gegen einen ablehnenden Widerspruchsbescheid ist Klage vor dem Verwaltungsgericht möglich."
+    },
+    {
+     "titel": "Nachteilsausgleich frühzeitig beantragen",
+     "text": "Melden Sie eine Beeinträchtigung rechtzeitig vor der jeweiligen Prüfung beim Prüfungsamt oder der Behindertenbeauftragten der Hochschule an, mit ärztlichem Attest."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "1 Monat",
+     "was": "Übliche Widerspruchsfrist gegen einen Prüfungsbescheid ab Bekanntgabe",
+     "grundlage": "§ 70 VwGO bzw. Rechtsbehelfsbelehrung der Prüfungsordnung"
+    },
+    {
+     "wert": "vor der Prüfung",
+     "was": "Nachteilsausgleich muss grundsätzlich vor der jeweiligen Prüfung beantragt werden; ein nachträglicher Antrag ist in aller Regel zu spät",
+     "grundlage": "Landeshochschulgesetze und Prüfungsordnungen"
+    }
+   ],
+   "achtung": [
+    "Wer eine Prüfung anficht, ohne einen konkreten Verfahrens- oder Bewertungsfehler zu benennen, hat kaum Erfolgsaussichten – reine Unzufriedenheit mit der Note reicht nicht.",
+    "Nachteilsausgleich nachträglich für eine bereits geschriebene Prüfung zu beantragen, ist in aller Regel zu spät – die Beeinträchtigung muss vorher bekannt gemacht werden.",
+    "Ein Attest zur Beeinträchtigung bleibt beim Prüfungsamt bzw. der Behindertenbeauftragten vertraulich und wird nicht an Prüfende weitergegeben.",
+    "Die genaue Ausgestaltung des Nachteilsausgleichs ist landes- und hochschulrechtlich unterschiedlich geregelt; eine bundeseinheitliche Liste möglicher Maßnahmen gibt es nicht."
+   ],
+   "fach_html": "\n<h3>Verwaltungsakt mit eingeschränkter gerichtlicher Kontrolle</h3>\n<p>Nach ständiger verwaltungsgerichtlicher Rechtsprechung steht Prüfenden bei der fachlichen Bewertung ein\nBeurteilungsspielraum zu, den Gerichte nur eingeschränkt überprüfen (kein eigenes Fachurteil des Gerichts anstelle der\nPrüfenden). Volle gerichtliche Kontrolle gilt dagegen für Verfahrensfragen: ordnungsgemäße Besetzung des\nPrüfungsausschusses, Einhaltung der Prüfungsordnung, ordnungsgemäße Aufgabenstellung und – besonders praxisrelevant –\ndie Gewährung eines beantragten Nachteilsausgleichs. Dies beruht auf Rechtsprechungsgrundsätzen, nicht auf einem\neinzelnen kodifizierten Prüfungsgesetz.</p>\n<h3>Nachteilsausgleich</h3>\n<p>Ziel ist, Nachteile aus Behinderung oder chronischer Krankheit bei Studien- und Prüfungsleistungen auszugleichen,\nohne die fachlichen Anforderungen der Prüfung selbst abzusenken. Die rechtliche Verankerung findet sich in den\nHochschulgesetzen der Länder und den Prüfungsordnungen der Hochschulen, die auf das frühere\nHochschulrahmengesetz zurückgehen; eine bundeseinheitliche Ausgestaltung der konkreten Maßnahmen (Zeitzuschlag,\nandere Prüfungsform u. a.) gibt es nicht.</p>\n",
+   "zustaendig": [
+    "Prüfungsamt der Hochschule",
+    "Beauftragte/r für Studierende mit Behinderung oder chronischer Erkrankung",
+    "Verwaltungsgericht"
+   ],
+   "belege": [
+    "Art. 3 GG (gesetze-im-internet.de)",
+    "Landeshochschulgesetze (länderspezifisch)",
+    "Prüfungsordnungen der jeweiligen Hochschule",
+    "§ 70 VwGO (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "studienabbruch-und-neuorientierung",
+    "beratung-anlaufstellen-studierende",
+    "ueberblick-rechte-studierende"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "schulden-und-ueberschuldung-studierende",
+   "kategorie": "rechtsschutz",
+   "titel": "Schulden und Überschuldung",
+   "icon": "📉",
+   "teaser": "Dispo, Studienkredit und unerwartete BAföG-Rückforderung: Wie Überschuldung im Studium entsteht und wo es kostenlose Hilfe gibt.",
+   "schlagworte": [
+    "Schuldnerberatung",
+    "Verbraucherinsolvenz",
+    "Restschuldbefreiung",
+    "Mahnbescheid"
+   ],
+   "kurz_html": "\n<p>Dispokredit, Ratenkäufe, private Darlehen oder eine unerwartete BAföG-Rückforderung können im Studium schnell zur\nÜberschuldung führen. Anerkannte Schuldnerberatungsstellen – oft von Wohlfahrtsverbänden oder Verbraucherzentralen\ngetragen – beraten in der Regel kostenlos. Bleibt eine Einigung mit den Gläubigern aussichtslos, bleibt als letzter\nWeg die Verbraucherinsolvenz mit Restschuldbefreiung nach einigen Jahren.</p>\n",
+   "schritte": [
+    {
+     "titel": "Überblick verschaffen",
+     "text": "Listen Sie alle Verbindlichkeiten mit Gläubiger, Höhe und Fälligkeit auf."
+    },
+    {
+     "titel": "Kostenlose Schuldnerberatung aufsuchen",
+     "text": "Wenden Sie sich an eine anerkannte, meist kostenlose Schuldnerberatungsstelle statt an kommerzielle Schuldenregulierer."
+    },
+    {
+     "titel": "Mit Gläubigern verhandeln",
+     "text": "Oft lassen sich mit Unterstützung der Beratungsstelle Ratenzahlungen oder eine Stundung vereinbaren."
+    },
+    {
+     "titel": "Außergerichtlichen Einigungsversuch dokumentieren",
+     "text": "Ein gescheiterter außergerichtlicher Einigungsversuch mit den Gläubigern ist Voraussetzung für einen gerichtlichen Insolvenzantrag."
+    },
+    {
+     "titel": "Bei Bedarf Verbraucherinsolvenz beantragen",
+     "text": "Scheitert die außergerichtliche Einigung, kann beim zuständigen Amtsgericht das Verbraucherinsolvenzverfahren beantragt werden."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "2 Wochen",
+     "was": "Widerspruchsfrist gegen einen gerichtlichen Mahnbescheid ab Zustellung",
+     "grundlage": "§ 692 Abs. 1 Nr. 3, § 694 ZPO"
+    },
+    {
+     "wert": "3 Jahre",
+     "was": "Regelmäßige Verjährungsfrist gewöhnlicher vertraglicher Ansprüche, z. B. aus Handyvertrag oder Kleinkredit",
+     "grundlage": "§ 195, § 199 BGB"
+    },
+    {
+     "wert": "3 Jahre",
+     "was": "Frühestmöglicher Zeitpunkt der Restschuldbefreiung im Verbraucherinsolvenzverfahren",
+     "grundlage": "§ 287 Abs. 2 InsO"
+    }
+   ],
+   "achtung": [
+    "Kommerzielle „Schuldenregulierer“ verlangen oft hohe Gebühren für Leistungen, die anerkannte Schuldnerberatungsstellen kostenlos anbieten.",
+    "Wer Mahnungen und Vollstreckungsbescheide ignoriert, riskiert einen vollstreckbaren Titel, gegen den später kaum noch etwas auszurichten ist – Widerspruch gegen einen Mahnbescheid muss innerhalb von zwei Wochen erfolgen.",
+    "Ein BAföG-Rückforderungsbescheid ist eine Forderung wie jede andere: Ratenzahlung oder Stundung kann beim Bundesverwaltungsamt beantragt werden, bevor eine Vollstreckung droht.",
+    "Auch während des Studiums prägt eine frühe Überschuldung die eigene Kreditwürdigkeit über Jahre – frühzeitiges Handeln lohnt sich."
+   ],
+   "fach_html": "\n<h3>Verbraucherinsolvenzverfahren</h3>\n<p>Voraussetzung für den gerichtlichen Antrag ist der Nachweis eines gescheiterten außergerichtlichen\nEinigungsversuchs mit den Gläubigern (§ 305 Abs. 1 Nr. 1 InsO). Nach erfolgreichem Verfahren wird die Restschuld\ngrundsätzlich nach drei Jahren erlassen (§ 287 Abs. 2 InsO in der seit 2021 geltenden Fassung).</p>\n<h3>Verfahrenskostenstundung</h3>\n<p>Mittellose Schuldner:innen können die Kosten des Insolvenzverfahrens selbst stunden lassen (§ 4a InsO), sodass ein\nfehlendes eigenes Vermögen kein Hindernis für den Zugang zur Restschuldbefreiung sein muss.</p>\n<h3>Abgrenzung zu studienspezifischen Stundungsmöglichkeiten</h3>\n<p>Vor dem Weg in die Insolvenz sollten studienspezifische Stundungs- und Freistellungsmöglichkeiten geprüft werden,\netwa beim KfW-Studienkredit (Karenzzeit) oder bei der BAföG-Rückzahlung (Freistellung nach § 18a BAföG).</p>\n",
+   "zustaendig": [
+    "Örtliche Schuldnerberatungsstelle (Wohlfahrtsverbände, Verbraucherzentrale)",
+    "Amtsgericht (Insolvenzgericht)",
+    "Bundesverwaltungsamt (BAföG-Rückzahlung)"
+   ],
+   "belege": [
+    "§ 287, § 305, § 4a InsO (gesetze-im-internet.de)",
+    "§ 195, § 199 BGB (gesetze-im-internet.de)",
+    "§ 692, § 694 ZPO (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "bafoeg-widerspruch-rueckzahlung",
+    "studienkredite-und-stipendien",
+    "beratung-anlaufstellen-studierende"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "beratung-anlaufstellen-studierende",
+   "kategorie": "beratung",
+   "titel": "Beratung und Anlaufstellen",
+   "icon": "📞",
+   "teaser": "Wer ist wofür zuständig – und wo bekommen Sie unabhängige Unterstützung, wenn Sie mit BAföG-Amt, Vermieter oder Prüfungsamt nicht weiterkommen?",
+   "schlagworte": [
+    "Studierendenwerk",
+    "Beratungshilfe",
+    "Rechtsantragsstelle",
+    "Psychosoziale Beratung"
+   ],
+   "kurz_html": "\n<p>Für unterschiedliche Anliegen sind unterschiedliche Stellen zuständig: das Studierendenwerk für BAföG, Wohnen und\npsychosoziale Beratung, der Allgemeine Studierendenausschuss (AStA/StuRa) häufig für eine erste, kostenlose\nSozial- und BAföG-Beratung, die Hochschule für Prüfungsfragen, Verbraucherzentrale und Mieterverein für Vertragsfragen\nsowie Amts- und Verwaltungsgerichte für die förmliche Rechtsdurchsetzung.</p>\n",
+   "schritte": [
+    {
+     "titel": "Thema einordnen",
+     "text": "Geld/BAföG, Wohnen, Gesundheit, Prüfungsrecht oder Schulden – jedes Thema hat eine eigene erste Anlaufstelle."
+    },
+    {
+     "titel": "Erste Anlaufstelle nutzen",
+     "text": "Häufig ist das Studierendenwerk oder die Hochschule selbst der schnellste erste Kontakt."
+    },
+    {
+     "titel": "Beratungshilfe prüfen",
+     "text": "Bei rechtlichen Konflikten außerhalb eines laufenden Gerichtsverfahrens kann beim Amtsgericht einkommensabhängige Beratungshilfe beantragt werden."
+    },
+    {
+     "titel": "Rechtsantragsstelle nutzen",
+     "text": "Für eine Klage vor dem Verwaltungsgericht hilft die dortige Rechtsantragsstelle beim Formulieren, ohne Anwaltszwang."
+    },
+    {
+     "titel": "Fachliche Vertretung hinzuziehen",
+     "text": "Bei komplexeren Fällen kann eine Fachanwältin oder ein Fachanwalt für Verwaltungs- oder Sozialrecht sinnvoll sein."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "vor Verfahrensbeginn",
+     "was": "Beratungshilfe sollte grundsätzlich vor Einleitung eines Verfahrens beantragt werden",
+     "grundlage": "Beratungshilfegesetz (BerHG)"
+    },
+    {
+     "wert": "während des Verfahrens",
+     "was": "Prozesskostenhilfe kann während eines laufenden Gerichtsverfahrens beantragt werden, wirkt aber nicht rückwirkend vor Antragstellung",
+     "grundlage": "§ 166 VwGO i. V. m. §§ 114 ff. ZPO"
+    }
+   ],
+   "achtung": [
+    "Psychosoziale Beratungsstellen der Studierendenwerke sind meist kostenlos und unterliegen der Schweigepflicht – Scheu davor ist oft unbegründet.",
+    "Wer sich direkt an eine Anwältin oder einen Anwalt wendet, ohne vorher Beratungshilfe zu beantragen, zahlt oft unnötig den vollen Satz.",
+    "Die Rechtsantragsstelle beim Verwaltungsgericht hilft bei der Formulierung einer Klage, ersetzt aber keine inhaltliche Rechtsberatung zu den Erfolgsaussichten.",
+    "Spezialisierte Beratungsangebote für Studierende sind regional sehr unterschiedlich verfügbar – eine bundesweit einheitliche Struktur gibt es nicht."
+   ],
+   "fach_html": "\n<h3>Beratungshilfe und Prozesskostenhilfe</h3>\n<p>Beratungshilfe (Beratungshilfegesetz) deckt außergerichtliche Rechtsberatung und -vertretung für Personen mit\ngeringem Einkommen ab, gegen eine geringe Eigenbeteiligung. Für ein bereits laufendes Gerichtsverfahren gibt es\nstattdessen Prozesskostenhilfe (§ 166 VwGO i. V. m. §§ 114 ff. ZPO für das Verwaltungsprozessrecht).</p>\n<h3>Dachverband</h3>\n<p>Das Deutsche Studentenwerk (DSW) ist der bundesweite Dachverband der Studierendenwerke und bietet auf seinen\nThemenseiten unter anderem Orientierung zu BAföG, Wohnen und Studieren mit Behinderung oder chronischer Krankheit.</p>\n",
+   "zustaendig": [
+    "Studierendenwerk",
+    "Hochschule",
+    "AStA/StuRa",
+    "Verbraucherzentrale",
+    "Amtsgericht",
+    "Verwaltungsgericht"
+   ],
+   "belege": [
+    "Beratungshilfegesetz (BerHG), gesetze-im-internet.de",
+    "§ 166 VwGO (gesetze-im-internet.de)",
+    "studierendenwerke.de"
+   ],
+   "siehe_auch": [
+    "bafoeg-widerspruch-rueckzahlung",
+    "pruefungsanfechtung-und-nachteilsausgleich",
+    "schulden-und-ueberschuldung-studierende"
+   ],
+   "stand": "Stand: September 2026."
+  }
+ ]
+}

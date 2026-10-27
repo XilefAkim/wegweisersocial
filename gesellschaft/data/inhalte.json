@@ -1,0 +1,1047 @@
+{
+  "kategorien": [
+    {
+      "id": "grundrechte",
+      "titel": "Grundrechte",
+      "icon": "⚖️",
+      "beschreibung": "Überblick über Ihre Rechte als Bürgerin und Bürger."
+    },
+    {
+      "id": "mitbestimmen",
+      "titel": "Mitbestimmen",
+      "icon": "🗳️",
+      "beschreibung": "Wählen, demonstrieren, Petition, Bürgerbegehren, Einbürgerung."
+    },
+    {
+      "id": "auskunft",
+      "titel": "Auskunft und Daten",
+      "icon": "🔍",
+      "beschreibung": "Informationen von Behörden und über Ihre eigenen Daten."
+    },
+    {
+      "id": "engagement",
+      "titel": "Engagement",
+      "icon": "🤝",
+      "beschreibung": "Ehrenamt, Schöffenamt, Hilfe im Notfall."
+    },
+    {
+      "id": "schutz",
+      "titel": "Schutz und Grenzen",
+      "icon": "🛡️",
+      "beschreibung": "Diskriminierung, Meinungsfreiheit, Polizeikontrolle."
+    },
+    {
+      "id": "hilfe",
+      "titel": "Hilfe zum Recht",
+      "icon": "🧭",
+      "beschreibung": "Beratungshilfe, Prozesskostenhilfe, Anlaufstellen."
+    }
+  ],
+  "seiten": [
+    {
+      "id": "ueberblick-grundrechte",
+      "kategorie": "grundrechte",
+      "titel": "Überblick: Grundrechte und Teilhabe",
+      "icon": "🏛️",
+      "teaser": "Was Sie als Bürgerin oder Bürger dürfen: äußern, versammeln, wählen, sich beschweren, Auskunft verlangen.",
+      "schlagworte": [
+        "Grundrechte",
+        "Grundgesetz",
+        "Teilhabe",
+        "Bürgerrechte",
+        "Meinungsfreiheit",
+        "Versammlungsfreiheit",
+        "Petitionsrecht"
+      ],
+      "kurz_html": "<p>Das Grundgesetz schützt Sie. Sie dürfen Ihre Meinung sagen (Art. 5). Sie dürfen sich friedlich versammeln (Art. 8). Sie dürfen sich mit Bitten und Beschwerden an Behörden und Parlamente wenden (Art. 17).</p><p>Sie können auch mitbestimmen: durch Wahlen, Petitionen und in vielen Gemeinden durch Bürgerbegehren. Sie haben Anspruch auf Auskunft von Behörden und über Ihre Daten.</p><p>Wichtig: Manche Rechte gelten für alle Menschen, manche nur für Deutsche. Vieles regeln die Bundesländer selbst. Diese Seiten geben Überblick. Sie ersetzen keine Beratung.</p>",
+      "schritte": [
+        {
+          "titel": "Thema wählen",
+          "text": "Suchen Sie die passende Seite, zum Beispiel Wahl, Demo oder Datenschutz."
+        },
+        {
+          "titel": "Bundesland beachten",
+          "text": "Prüfen Sie, ob Landesrecht gilt, etwa bei Versammlung, Bürgerbegehren und Polizei."
+        },
+        {
+          "titel": "Fristen notieren",
+          "text": "Einige Rechte verfallen schnell, zum Beispiel nach dem AGG nach zwei Monaten."
+        },
+        {
+          "titel": "Hilfe holen",
+          "text": "Nutzen Sie bei Zweifeln die Beratungsseite."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "keine einheitliche Frist",
+          "was": "Jedes Recht hat eigene Fristen. Sie stehen auf den Einzelseiten.",
+          "grundlage": "je nach Gesetz"
+        }
+      ],
+      "achtung": [
+        "Nicht jedes Grundrecht gilt für alle: Die Versammlungsfreiheit nennt das Grundgesetz als Recht aller Deutschen.",
+        "Rechte haben Schranken, zum Beispiel durch Strafgesetze und Rechte anderer.",
+        "Landesrecht kann vom Bundesrecht abweichen.",
+        "Diese Seite ist Information, keine Rechtsberatung."
+      ],
+      "fach_html": "<h3>Grundrechte im Grundgesetz</h3><p>Die Grundrechte binden nach Art. 1 Abs. 3 GG die staatliche Gewalt. Für diesen Baustein relevant: Art. 5 (Meinungs-, Informations-, Pressefreiheit), Art. 8 (Versammlungsfreiheit), Art. 17 (Petitionsrecht), Art. 38 (Wahlrecht). Als Einzelheiten wurden die Regelungen der Einzelseiten geprüft.</p><h3>Rechtsquellen im Mehrebenensystem</h3><p>Bund, Länder und EU regeln unterschiedliche Bereiche. Das Versammlungsrecht ist seit der Föderalismusreform 2006 Ländersache. Das Datenschutzrecht folgt der EU-Datenschutz-Grundverordnung (DSGVO). Das Staatsangehörigkeitsrecht ist Bundesrecht (StAG).</p>",
+      "zustaendig": [
+        "Je nach Thema: Gemeinde, Landkreis, Land, Bund",
+        "Beratungsstellen: siehe Seite Beratung und Anlaufstellen"
+      ],
+      "belege": [
+        "Gesetze im Internet (BMJ), Grundgesetz Art. 1, 5, 8, 17, abgerufen 20.09.2026 (Einzelnachweise auf den Themenseiten)",
+        "BMI, Versammlungsrecht, abgerufen 20.09.2026",
+        "Bundeswahlleiterin, Informationen, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "wahlrecht-waehlen",
+        "beratung-anlaufstellen"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "wahlrecht-waehlen",
+      "kategorie": "mitbestimmen",
+      "titel": "Wahlrecht und Wählen (Briefwahl, Wahlalter)",
+      "icon": "🗳️",
+      "teaser": "Wer wählen darf, ab welchem Alter und wie Sie per Brief wählen. Ohne Grund, aber mit Frist.",
+      "schlagworte": [
+        "Wahl",
+        "Briefwahl",
+        "Wahlalter",
+        "Wahlschein",
+        "Wahlberechtigung",
+        "Wahlbenachrichtigung",
+        "Bundestagswahl",
+        "Landtagswahl"
+      ],
+      "kurz_html": "<p>Zur Bundestagswahl dürfen Deutsche ab 18 Jahren wählen. Sie müssen seit mindestens drei Monaten in Deutschland wohnen oder sich gewöhnlich hier aufhalten.</p><p>Bei der Europawahl durften 2024 erstmals schon 16-Jährige wählen. Bei Landtags- und Kommunalwahlen gilt in manchen Ländern ebenfalls 16.</p><p>Briefwahl ist ohne Grund möglich. Sie beantragen einen Wahlschein bei Ihrer Gemeinde, schriftlich oder persönlich, nicht per Telefon. Der Brief muss bis 18 Uhr am Wahltag ankommen.</p>",
+      "schritte": [
+        {
+          "titel": "Wahlberechtigung prüfen",
+          "text": "Deutsche Staatsangehörigkeit, Alter und Wohnsitz. Bei Landes- und Kommunalwahlen gelten Landesregeln."
+        },
+        {
+          "titel": "Wahlbenachrichtigung lesen",
+          "text": "Sie kommt per Post. Kam sie nicht, fragen Sie früh bei Ihrer Gemeinde nach."
+        },
+        {
+          "titel": "Briefwahl beantragen",
+          "text": "Antrag auf den Wahlschein bei der Gemeinde. Angeben: Name, Geburtsdatum, Anschrift."
+        },
+        {
+          "titel": "Brief rechtzeitig absenden",
+          "text": "Der Wahlbrief muss am Wahltag bis 18 Uhr da sein."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "Freitag vor der Wahl, 15 Uhr",
+          "was": "Regelfrist für den Antrag auf Briefwahl. Ausnahme bei plötzlicher Erkrankung bis Wahltag 15 Uhr.",
+          "grundlage": "Bundeswahlleiterin, Briefwahl"
+        },
+        {
+          "wert": "Wahltag, 18 Uhr",
+          "was": "Der Wahlbrief muss bis dahin eingegangen sein.",
+          "grundlage": "Bundeswahlleiterin, Briefwahl"
+        },
+        {
+          "wert": "3 Monate",
+          "was": "Mindestdauer von Wohnung oder gewöhnlichem Aufenthalt in Deutschland.",
+          "grundlage": "§ 12 BWahlG"
+        }
+      ],
+      "achtung": [
+        "Telefonische Anträge auf Briefwahl sind nicht zulässig.",
+        "Bestellen Sie früh: Post braucht Zeit, verspätete Briefe zählen nicht.",
+        "Wahlalter bei Landtags- und Kommunalwahlen ist Ländersache und ändert sich.",
+        "Wählen dürfen nur Berechtigte. Wahlberechtigte Personen im Ausland brauchen besondere Voraussetzungen (§ 12 BWahlG)."
+      ],
+      "fach_html": "<h3>Aktives Wahlrecht Bund</h3><p>§ 12 BWahlG: wahlberechtigt sind Deutsche im Sinne des Art. 116 Abs. 1 GG, die das 18. Lebensjahr vollendet haben, seit mindestens drei Monaten eine Wohnung innehaben oder sich sonst gewöhnlich aufhalten und nicht vom Wahlrecht ausgeschlossen sind. Deutsche im Ausland können unter weiteren Voraussetzungen wählen (Aufenthalt von mindestens drei Monaten nach dem 14. Lebensjahr innerhalb der letzten 25 Jahre oder persönliche und unmittelbare Vertrautheit mit den politischen Verhältnissen).</p><h3>Wahlalter nach Ebene</h3><p>Europawahl: Absenkung auf 16 Jahre, erstmals 2024 (Bundestag, Textarchiv 2022). Landtagswahl 16 Jahre nach Übersicht der bpb, nicht je Landeswahlgesetz geprüft, in Baden-Württemberg, Berlin, Brandenburg, Bremen, Hamburg, Mecklenburg-Vorpommern, Schleswig-Holstein; Kommunalwahl 16 in elf Ländern (ebenfalls nach Übersicht der bpb, nicht je Landeswahlgesetz geprüft). Die Angaben können sich geändert haben.</p><h3>Briefwahl</h3><p>Seit den Wahlen 2009 ist für die Briefwahl keine Begründung mehr nötig. Der Antrag kann schriftlich (auch per E-Mail) oder persönlich gestellt werden, nicht telefonisch. Regelfrist: Freitag vor der Wahl 15 Uhr. Der Wahlbrief muss am Wahltag bis 18 Uhr vorliegen (Bundeswahlleiterin).</p>",
+      "zustaendig": [
+        "Gemeinde (Wahlamt), für Wahlschein und Wahlbenachrichtigung",
+        "Bundeswahlleiterin bzw. Landeswahlleiter, für allgemeine Auskünfte"
+      ],
+      "belege": [
+        "Gesetze im Internet, § 12 BWahlG, abgerufen 20.09.2026",
+        "Bundeswahlleiterin, Glossar Briefwahl, abgerufen 20.09.2026",
+        "Deutscher Bundestag, Textarchiv 2022/kw45 Europawahlgesetz (Wahlalter 16), über Suchtreffer abgerufen 20.09.2026",
+        "bpb, Wahlalter ab 16 in deutschen Bundesländern (Suchtreffer, Sekundärübersicht), abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "petition-buergerbegehren",
+        "einbuergerung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "versammlung-demonstration",
+      "kategorie": "mitbestimmen",
+      "titel": "Versammlungsfreiheit und Demonstration",
+      "icon": "📣",
+      "teaser": "Demonstrationen unter freiem Himmel sind meist anmeldepflichtig, in der Regel 48 Stunden vorher. Länder regeln das teils selbst.",
+      "schlagworte": [
+        "Demonstration",
+        "Versammlung",
+        "Anmeldung",
+        "48 Stunden",
+        "Versammlungsgesetz",
+        "Aufzug",
+        "Kundgebung",
+        "Eilversammlung"
+      ],
+      "kurz_html": "<p>Sie dürfen sich friedlich versammeln. Das schützt Art. 8 des Grundgesetzes.</p><p>Wer eine Demonstration unter freiem Himmel plant, muss sie anmelden. Im Bundesgesetz gilt: spätestens 48 Stunden, bevor die Versammlung öffentlich bekannt gemacht wird.</p><p>Aber Vorsicht: Mehrere Bundesländer haben eigene Versammlungsgesetze. Fragen Sie vorher bei der Versammlungsbehörde nach.</p>",
+      "schritte": [
+        {
+          "titel": "Gesetz Ihres Landes klären",
+          "text": "Gilt das Bundesgesetz oder ein Landesgesetz? Auskunft gibt die Versammlungsbehörde."
+        },
+        {
+          "titel": "Anmelden",
+          "text": "Anmeldung bei der zuständigen Behörde, mit Thema und Leiterin oder Leiter."
+        },
+        {
+          "titel": "Auflagen prüfen",
+          "text": "Die Behörde kann Auflagen machen. Lesen Sie diese genau."
+        },
+        {
+          "titel": "Bei Streit schnell Rechtsrat",
+          "text": "Gegen Verbote oder Auflagen gibt es oft Eilrechtsschutz. Holen Sie umgehend Rat."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "spätestens 48 Stunden vor Bekanntgabe",
+          "was": "Anmeldung einer öffentlichen Versammlung unter freiem Himmel oder eines Aufzugs.",
+          "grundlage": "§ 14 VersammlG (Bundesgesetz)"
+        }
+      ],
+      "achtung": [
+        "Die Frist gilt vor der Bekanntgabe der Versammlung, nicht vor dem Beginn.",
+        "In Ländern mit eigenem Gesetz kann die Frist anders berechnet werden (siehe Fachteil).",
+        "Bei Spontanversammlungen gilt nach Rechtsprechung des BVerfG oft eine Ausnahme. Das im Einzelfall klären lassen.",
+        "Bei Verstößen können Bußgeld oder Strafe drohen."
+      ],
+      "fach_html": "<h3>Bundes- und Landesrecht</h3><p>§ 14 Abs. 1 VersammlG: Wer beabsichtigt, eine öffentliche Versammlung unter freiem Himmel oder einen Aufzug zu veranstalten, hat dies spätestens 48 Stunden vor der Bekanntgabe der zuständigen Behörde anzumelden. Die Anmeldung muss den Gegenstand der Versammlung und die Leitung nennen.</p><p>Seit der Föderalismusreform 2006 liegt die Gesetzgebung bei den Ländern. Laut BMI-nahen Übersichten haben Bayern, Berlin, Hessen, Niedersachsen, Nordrhein-Westfalen, Sachsen, Sachsen-Anhalt und Schleswig-Holstein eigene Gesetze; sonst gilt das Bundesgesetz fort. In Bayern und Niedersachsen sollen bei der 48-Stunden-Frist nur Arbeitstage zählen. Nicht abschließend geprüft; Landesgesetz (Art. 13 BayVersG, § 5 NVersG) prüfen.</p><h3>Spontan- und Eilversammlung</h3><p>Die Rechtsprechung des Bundesverfassungsgerichts erkennt Ausnahmen für spontane und Eilversammlungen an. Die Einzelheiten sind hier nicht aus Primärquellen geprüft.</p>",
+      "zustaendig": [
+        "Versammlungsbehörde (Ordnungsamt oder Polizei, je nach Land)",
+        "BMI: Übersicht Versammlungsrecht"
+      ],
+      "belege": [
+        "Gesetze im Internet, § 14 VersammlG, abgerufen 20.09.2026",
+        "BMI, Versammlungsrecht (Suchtreffer), abgerufen 20.09.2026",
+        "versammlungsrecht.org, Anmeldefrist (Suchtreffer, Sekundärquelle), abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "polizeikontrolle",
+        "meinungsfreiheit-hass-im-netz"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "petition-buergerbegehren",
+      "kategorie": "mitbestimmen",
+      "titel": "Petition, Bürgerbegehren, Volksentscheid",
+      "icon": "✍️",
+      "teaser": "Bitten und Beschwerden an das Parlament, Unterschriften für die Kommune: Sie können auch zwischen Wahlen mitreden.",
+      "schlagworte": [
+        "Petition",
+        "Petitionsausschuss",
+        "Bürgerbegehren",
+        "Bürgerentscheid",
+        "Volksentscheid",
+        "Unterschriften",
+        "Quorum"
+      ],
+      "kurz_html": "<p>Jede Person darf sich mit Bitten und Beschwerden an Volksvertretungen wenden. Das ist die Petition (Art. 17 GG).</p><p>Beim Bundestag gibt es öffentliche Petitionen zum Mitzeichnen. Ab 30.000 Mitzeichnungen in sechs Wochen bekommt die Person, die die Petition eingereicht hat, in der Regel eine öffentliche Anhörung.</p><p>In der Gemeinde gibt es das Bürgerbegehren. Sie sammeln Unterschriften. Dann kann es einen Bürgerentscheid geben. Die Regeln sind je Bundesland verschieden.</p>",
+      "schritte": [
+        {
+          "titel": "Ziel und Adressat klären",
+          "text": "Bundestag, Landtag oder Gemeinde? Das entscheidet über Form und Regeln."
+        },
+        {
+          "titel": "Petition einreichen",
+          "text": "Beim Bundestag online über die Petitionsplattform oder schriftlich."
+        },
+        {
+          "titel": "Bürgerbegehren: Gemeindeordnung lesen",
+          "text": "Ihr Land legt Unterschriftenzahl, Themen und Fristen fest."
+        },
+        {
+          "titel": "Unterschriften sammeln und einreichen",
+          "text": "Bei der Gemeinde. Achten Sie auf Formvorgaben."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "30.000 Mitzeichnungen in 6 Wochen",
+          "was": "Quorum für öffentliche Anhörung einer Bundestags-Petition (seit 1. Juli 2024; vorher 50.000 in 4 Wochen).",
+          "grundlage": "Petitionsausschuss des Bundestages, Textarchiv 2024/kw26"
+        },
+        {
+          "wert": "2 % bis 15 %",
+          "was": "Spanne der nötigen Unterschriften bei Bürgerbegehren je Land bzw. Gemeinde.",
+          "grundlage": "KommunalWiki / Mehr Demokratie, Sekundärquelle"
+        }
+      ],
+      "achtung": [
+        "Beim Bürgerbegehren gelten oft strenge Fristen, besonders gegen Ratsbeschlüsse.",
+        "Nicht jedes Thema ist zulässig, Haushalt und Bauleitplanung sind oft ausgeschlossen (Landesrecht, nicht je Land geprüft).",
+        "Auf Bundesebene gibt es keinen allgemeinen Volksentscheid. Das ist hier nicht aus Primärquelle geprüft.",
+        "Eine Petition ist ein Antrag, kein Recht auf einen bestimmten Erfolg."
+      ],
+      "fach_html": "<h3>Petitionsrecht</h3><p>Art. 17 GG gewährt das Recht, sich mit Bitten oder Beschwerden an die zuständigen Stellen und die Volksvertretung zu wenden. Der Petitionsausschuss des Bundestages senkte das Quorum für die öffentliche Beratung zum 1. Juli 2024 von 50.000 auf 30.000 Unterstützende, die Mitzeichnungsfrist wurde von vier auf sechs Wochen verlängert. Landtage haben eigene Petitionsverfahren.</p><h3>Kommunale Bürgerbegehren</h3><p>Bürgerbegehren und Bürgerentscheid regeln die Gemeindeordnungen der Länder. Nach KommunalWiki (Boell) reicht das Unterschriftenquorum von 2 % in einigen Hamburger Bezirken bis 15 % in vielen Gemeinden des Saarlands; das Zustimmungsquorum reicht von keinem bis 30 % (Saarland). Fristen gelten besonders bei Begehren gegen Ratsbeschlüsse. Landesspezifisch bitte die Gemeindeordnung nachlesen.</p>",
+      "zustaendig": [
+        "Petitionsausschuss des Deutschen Bundestages, Landtage",
+        "Gemeinde (Bürgerbegehren)",
+        "Mehr Demokratie e. V. als Informationsquelle"
+      ],
+      "belege": [
+        "Deutscher Bundestag, Petitionsausschuss senkt Quorum auf 30.000, Textarchiv 2024/kw26, abgerufen 20.09.2026",
+        "KommunalWiki, Bürgerbegehren und Bürgerentscheide in Deutschland – Ein Überblick (Sekundärquelle), abgerufen 20.09.2026",
+        "Wegweiser Bürgergesellschaft, Bürgerbegehren und Bürgerentscheid, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "wahlrecht-waehlen",
+        "informationsfreiheit"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "informationsfreiheit",
+      "kategorie": "auskunft",
+      "titel": "Informationsfreiheit: Auskunft von Behörden",
+      "icon": "📂",
+      "teaser": "Sie können Einsicht in amtliche Informationen verlangen. Die Behörde soll innerhalb eines Monats zugänglich machen.",
+      "schlagworte": [
+        "IFG",
+        "Informationsfreiheitsgesetz",
+        "Auskunft",
+        "Behörde",
+        "Akteneinsicht",
+        "Transparenz",
+        "Umweltinformationen"
+      ],
+      "kurz_html": "<p>Nach dem Informationsfreiheitsgesetz des Bundes (IFG) können Sie Informationen von Bundesbehörden verlangen. Sie müssen dafür kein besonderes Interesse nennen.</p><p>Die Behörde soll die Information unverzüglich zugänglich machen. Sie soll das innerhalb eines Monats tun.</p><p>Für Landes- und Kommunalbehörden gelten Landesgesetze. Nicht jedes Land hat gleiche Regeln.</p>",
+      "schritte": [
+        {
+          "titel": "Zuständige Behörde finden",
+          "text": "Bund oder Land? Das IFG gilt für Bundesbehörden."
+        },
+        {
+          "titel": "Antrag stellen",
+          "text": "Schriftlich oder elektronisch. Beschreiben Sie die gewünschte Information genau."
+        },
+        {
+          "titel": "Frist beobachten",
+          "text": "Ein Monat ist der Richtwert."
+        },
+        {
+          "titel": "Bei Ablehnung prüfen",
+          "text": "Widerspruch ist möglich. Die Bundesbeauftragte für Informationsfreiheit kann angerufen werden."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "unverzüglich, soll innerhalb 1 Monats",
+          "was": "Zugang zur Information nach Antrag.",
+          "grundlage": "§ 7 Abs. 5 IFG"
+        }
+      ],
+      "achtung": [
+        "Die Monatsfrist ist eine Sollfrist und kann in Fällen des § 8 IFG überschritten werden.",
+        "Es gibt Ausnahmen, zum Beispiel für Betriebsgeheimnisse und personenbezogene Daten (nicht im Detail geprüft).",
+        "Für Kosten und Gebühren nicht auf Annahmen verlassen. Fragen Sie vorher nach.",
+        "Landesregelungen sind uneinheitlich."
+      ],
+      "fach_html": "<h3>Bundes-IFG</h3><p>§ 7 Abs. 5 IFG: Die Information ist der antragstellenden Person unter Berücksichtigung ihrer Belange unverzüglich zugänglich zu machen; der Informationszugang soll innerhalb eines Monats erfolgen. Verzögerungen sind unter den Voraussetzungen des § 8 IFG (Beteiligung Dritter) möglich.</p><h3>Aufsicht</h3><p>Die Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI) ist zugleich Ansprechstelle zur Informationsfreiheit im Bundesbereich. Für Landesbehörden sind Landesbeauftragte zuständig, soweit ein Landesgesetz besteht (nicht je Land geprüft).</p>",
+      "zustaendig": [
+        "Die Behörde, die die Information hat",
+        "BfDI (Bund), Landesbeauftragte (Länder)"
+      ],
+      "belege": [
+        "Gesetze im Internet, § 7 IFG, abgerufen 20.09.2026",
+        "BfDI, bfdi.bund.de, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "datenschutz-auskunft",
+        "petition-buergerbegehren"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "datenschutz-auskunft",
+      "kategorie": "auskunft",
+      "titel": "Datenschutz und Auskunftsrecht (DSGVO)",
+      "icon": "🔐",
+      "teaser": "Sie dürfen wissen, welche Daten Firmen und Behörden über Sie speichern. Antwort in der Regel binnen eines Monats.",
+      "schlagworte": [
+        "DSGVO",
+        "Auskunft",
+        "Art. 15",
+        "Datenschutz",
+        "Löschung",
+        "Beschwerde",
+        "Aufsichtsbehörde",
+        "BfDI"
+      ],
+      "kurz_html": "<p>Nach der Datenschutz-Grundverordnung (DSGVO) können Sie Auskunft verlangen. Das gilt gegenüber Firmen, Vereinen und Behörden, die Ihre Daten verarbeiten (Art. 15).</p><p>Die Stelle muss unverzüglich antworten, spätestens nach einem Monat. In schwierigen Fällen kann sie die Frist um bis zu zwei Monate verlängern. Dann muss sie Sie innerhalb des ersten Monats informieren.</p><p>Wird Ihr Antrag nicht beantwortet, können Sie sich bei der Datenschutz-Aufsichtsbehörde beschweren.</p>",
+      "schritte": [
+        {
+          "titel": "Verantwortliche Stelle nennen",
+          "text": "Schreiben Sie die Firma oder Behörde direkt an, am besten schriftlich."
+        },
+        {
+          "titel": "Auskunft verlangen",
+          "text": "Nennen Sie Art. 15 DSGVO und was Sie wissen wollen."
+        },
+        {
+          "titel": "Datum notieren",
+          "text": "Ab Eingang läuft die Monatsfrist."
+        },
+        {
+          "titel": "Beschweren",
+          "text": "Bei ausbleibender Antwort an die zuständige Aufsichtsbehörde."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "unverzüglich, spätestens 1 Monat",
+          "was": "Antwort auf einen Antrag nach Art. 15 DSGVO.",
+          "grundlage": "Art. 12 Abs. 3 DSGVO"
+        },
+        {
+          "wert": "+ bis zu 2 Monate",
+          "was": "Verlängerung bei Komplexität, mit Begründung binnen des ersten Monats.",
+          "grundlage": "Art. 12 Abs. 3 DSGVO"
+        }
+      ],
+      "achtung": [
+        "Die Monatsfrist ist eine Höchstfrist. Die Pflicht zur unverzüglichen Antwort besteht daneben.",
+        "Erkennen Sie Ihre Identität eindeutig, sonst kann die Stelle nachfragen.",
+        "Bewahren Sie Kopien Ihres Antrags auf.",
+        "Auskunft ist nicht Löschung: für weitere Rechte gibt es eigene Artikel der DSGVO."
+      ],
+      "fach_html": "<h3>Rechtsgrundlagen</h3><p>Art. 15 DSGVO gewährt das Auskunftsrecht. Art. 12 Abs. 3 DSGVO: Die Auskunft ist unverzüglich, spätestens innerhalb eines Monats nach Antragseingang zur Verfügung zu stellen; die Frist kann um weitere zwei Monate verlängert werden, wenn dies unter Berücksichtigung der Komplexität und der Zahl der Anträge erforderlich ist. Über die Verlängerung ist innerhalb eines Monats mit Gründen zu informieren.</p><h3>Aufsicht</h3><p>Für Bundesbehörden ist die BfDI zuständig (Graurheindorfer Straße 153, 53117 Bonn; poststelle@bfdi.bund.de; Tel. 0228-997799-0 laut bfdi.bund.de). Für Unternehmen und Landesbehörden sind meist die Landesdatenschutzbehörden zuständig.</p>",
+      "zustaendig": [
+        "Datenschutzbeauftragte der verantwortlichen Stelle",
+        "Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI)",
+        "Landesdatenschutzbehörden"
+      ],
+      "belege": [
+        "dsgvo-gesetz.de, Auskunftsrecht der betroffenen Person, abgerufen 20.09.2026",
+        "Datenschutzbeauftragter Hamburg, Frist für Auskünfte: Unverzüglich, abgerufen 20.09.2026",
+        "BfDI, bfdi.bund.de (Anschrift), abgerufen 20.09.2026",
+        "EUR-Lex, Verordnung (EU) 2016/679 (DSGVO), CELEX 32016R0679, Art. 12 und 15"
+      ],
+      "siehe_auch": [
+        "informationsfreiheit",
+        "beratung-anlaufstellen"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "ehrenamt-engagement",
+      "kategorie": "engagement",
+      "titel": "Ehrenamt und Engagement: Pauschalen, Unfallversicherung",
+      "icon": "🤲",
+      "teaser": "Übungsleiterpauschale 3.300 Euro, Ehrenamtspauschale 960 Euro pro Jahr seit 2026. Manche Ehrenamtliche sind gesetzlich unfallversichert.",
+      "schlagworte": [
+        "Ehrenamt",
+        "Übungsleiterpauschale",
+        "Ehrenamtspauschale",
+        "Unfallversicherung",
+        "Verein",
+        "Aufwandsentschädigung",
+        "steuerfrei"
+      ],
+      "kurz_html": "<p>Wer sich ehrenamtlich engagiert, kann eine Aufwandsentschädigung steuerfrei erhalten. Seit dem 1. Januar 2026 gilt: Übungsleiterpauschale bis 3.300 Euro im Jahr (275 Euro im Monat), Ehrenamtspauschale bis 960 Euro im Jahr (80 Euro im Monat).</p><p>Diese Beträge sind auch frei von Sozialversicherung.</p><p>Nicht jedes Ehrenamt ist automatisch gesetzlich unfallversichert. Fragen Sie vorher bei Verein oder Träger nach.</p>",
+      "schritte": [
+        {
+          "titel": "Tätigkeit einordnen",
+          "text": "Übungsleiter (z. B. Training, Betreuung) oder allgemeines Ehrenamt?"
+        },
+        {
+          "titel": "Voraussetzungen prüfen",
+          "text": "Nebenberuflich und für einen gemeinnützigen, sozialen oder kirchlichen Zweck."
+        },
+        {
+          "titel": "Vereinbarung festhalten",
+          "text": "Schriftlich mit Verein oder Träger."
+        },
+        {
+          "titel": "Versicherungsschutz klären",
+          "text": "Fragen Sie nach gesetzlicher Unfallversicherung und ggf. Zusatzversicherung."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "3.300 Euro pro Jahr",
+          "was": "Übungsleiterpauschale ab 1. Januar 2026 (vorher 3.000).",
+          "grundlage": "§ 3 Nr. 26 EStG, Steueränderungsgesetz 2025"
+        },
+        {
+          "wert": "960 Euro pro Jahr",
+          "was": "Ehrenamtspauschale ab 1. Januar 2026 (vorher 840).",
+          "grundlage": "§ 3 Nr. 26a EStG, Steueränderungsgesetz 2025"
+        }
+      ],
+      "achtung": [
+        "Die Tätigkeit muss nebenberuflich sein, höchstens ein Drittel einer Vollzeitstelle.",
+        "Beide Pauschalen können nicht doppelt für dieselbe Tätigkeit genutzt werden.",
+        "Nicht jedes Ehrenamt ist gesetzlich unfallversichert.",
+        "Bei Grundsicherungsgeld oder anderen Leistungen wirkt sich Einkommen aus. Erst beraten lassen."
+      ],
+      "fach_html": "<h3>Steuerfreiheit</h3><p>Nach Angaben der Minijob-Zentrale stiegen zum 1. Januar 2026 die Ehrenamtspauschale von 840 auf 960 Euro und die Übungsleiterpauschale von 3.000 auf 3.300 Euro jährlich (monatlich 80 bzw. 275 Euro). Einnahmen bis zu diesen Beträgen sind auch sozialversicherungsfrei. Voraussetzung: nebenberufliche Tätigkeit, nicht mehr als ein Drittel der Arbeitszeit einer Vollzeitkraft, gemeinnütziger, mildtätiger oder kirchlicher Zweck. Die Beträge (3.300 Euro und 960 Euro, ab Veranlagungszeitraum 2026) sind im Wortlaut von § 3 Nr. 26 und 26a EStG bestätigt.</p><h3>Unfallversicherung</h3><p>Nach DGUV-Angaben ist der Schutz der gesetzlichen Unfallversicherung nur für bestimmte Ehrenamtliche gegeben: ehrenamtlich Tätige für Körperschaften des öffentlichen Rechts (§ 2 Abs. 1 Nr. 10 SGB VII) und Hilfeleistende (§ 2 Abs. 1 Nr. 13 lit. a SGB VII). Für Vereine ist meist die zuständige Berufsgenossenschaft relevant. Klären Sie den Einzelfall mit dem Träger.</p>",
+      "zustaendig": [
+        "Verein oder Träger der Tätigkeit",
+        "Finanzamt (Steuerfragen)",
+        "Berufsgenossenschaft / Unfallkasse, DGUV (Unfallversicherung)"
+      ],
+      "belege": [
+        "Gesetze im Internet, § 3 EStG (Nr. 26, 26a), gesetze-im-internet.de/estg/__3.html, abgerufen 20.09.2026",
+        "Minijob-Zentrale, Übungsleiterpauschale und Ehrenamt 2026 (ergänzend), abgerufen 20.09.2026",
+        "Sparkasse, Ehrenamtspauschale 2026 (Suchtreffer), abgerufen 20.09.2026",
+        "DGUV, Versicherte Personen: Ehrenamtler/Hilfeleistende (Suchtreffer), abgerufen 20.09.2026",
+        "Gesetze im Internet, SGB VII (Suchtreffer), abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "schoeffen-ehrenamt-justiz",
+        "zivilcourage-hilfe"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "einbuergerung",
+      "kategorie": "mitbestimmen",
+      "titel": "Einbürgerung und Staatsangehörigkeit (Stand 2026)",
+      "icon": "🪪",
+      "teaser": "Regel: fünf Jahre rechtmäßiger Aufenthalt. Die frühere Einbürgerung nach drei Jahren ist abgeschafft.",
+      "schlagworte": [
+        "Einbürgerung",
+        "Staatsangehörigkeit",
+        "StAG",
+        "fünf Jahre",
+        "B1",
+        "Einbürgerungstest",
+        "Turbo-Einbürgerung"
+      ],
+      "kurz_html": "<p>Wer Deutsche oder Deutscher werden will, braucht in der Regel fünf Jahre rechtmäßigen gewöhnlichen Aufenthalt in Deutschland. Die Einbürgerung nach drei Jahren wurde 2025 abgeschafft.</p><p>Weitere Voraussetzungen sind zum Beispiel: geklärte Identität, Deutsch auf B1-Niveau, Kenntnisse der Rechts- und Gesellschaftsordnung, Bekenntnis zur freiheitlichen demokratischen Grundordnung, Lebensunterhalt ohne Sozialleistungen (mit Ausnahmen) und keine Verurteilungen für Straftaten.</p><p>Fragen Sie die Einbürgerungsbehörde Ihrer Stadt oder Ihres Landkreises. Sie prüft Ihren Einzelfall.</p>",
+      "schritte": [
+        {
+          "titel": "Aufenthaltszeit prüfen",
+          "text": "Mindestens fünf Jahre rechtmäßig in Deutschland."
+        },
+        {
+          "titel": "Nachweise sammeln",
+          "text": "Identität, Sprache B1, Einkommen, Test."
+        },
+        {
+          "titel": "Antrag stellen",
+          "text": "Bei der Einbürgerungsbehörde vor Ort."
+        },
+        {
+          "titel": "Bescheid abwarten",
+          "text": "Bei Ablehnung gibt es Rechtsbehelfe. Lassen Sie sich beraten."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "5 Jahre",
+          "was": "Rechtmäßiger gewöhnlicher Aufenthalt vor Einbürgerung. Die 3-Jahres-Regel ist entfallen.",
+          "grundlage": "§ 10 Abs. 1 StAG; Abs. 3 weggefallen"
+        }
+      ],
+      "achtung": [
+        "Der Bundestag beschloss die Abschaffung der Einbürgerung nach drei Jahren am 8. Oktober 2025.",
+        "Die Änderung gilt seit 30. Oktober 2025 (BGBl. 2025 I Nr. 257).",
+        "Weitere Änderungen (zum Beispiel bei Täuschung) sind hier nicht ausgewertet.",
+        "Jeder Fall wird einzeln entschieden. Diese Seite ist Überblick."
+      ],
+      "fach_html": "<h3>Anspruchseinbürgerung § 10 StAG</h3><p>Nach § 10 Abs. 1 StAG (aktuell) setzt der Anspruch voraus: seit fünf Jahren rechtmäßiger gewöhnlicher Aufenthalt, Geschäftsfähigkeit oder gesetzliche Vertretung, geklärte Identität und Staatsangehörigkeit, Bekenntnis zur freiheitlichen demokratischen Grundordnung, unbefristetes Aufenthaltsrecht oder gleichgestellter Status, Sicherung des Lebensunterhalts ohne Sozialleistungen (mit Ausnahmen, etwa für Beschäftigte), keine Verurteilung wegen einer rechtswidrigen Tat, Deutschkenntnisse B1, Kenntnisse der Rechts- und Gesellschaftsordnung. § 10 Abs. 3 StAG (die frühere verkürzte Frist) ist weggefallen.</p><h3>Gesetzgebung</h3><p>Der Bundestag beschloss am 8. Oktober 2025 mit 450 zu 134 Stimmen bei 2 Enthaltungen die Abschaffung der Einbürgerung nach drei Jahren; als Begründung nennt die Bundesregierung, nachhaltige Integration brauche Zeit (Bundestag, Textarchiv kw41). Verkündet in BGBl. 2025 I Nr. 257, in Kraft seit 30. Oktober 2025.</p>",
+      "zustaendig": [
+        "Einbürgerungsbehörde der Stadt oder des Landkreises",
+        "BMI (Gesetzgebungsverfahren)"
+      ],
+      "belege": [
+        "Gesetze im Internet, § 10 StAG, abgerufen 20.09.2026",
+        "Deutscher Bundestag, Textarchiv 2025/kw41 (bundestag.de, Staatsangehörigkeitsrecht, Beschluss 8.10.2025, 450:134:2), abgerufen 20.09.2026",
+        "BMI, Gesetzgebungsverfahren Änderung des Staatsangehörigkeitsrechts (Suchtreffer; Seite nicht abrufbar), abgerufen 20.09.2026",
+        "BGBl. 2025 I Nr. 257 (Verkündung, Inkrafttreten 30.10.2025)"
+      ],
+      "siehe_auch": [
+        "wahlrecht-waehlen",
+        "beratung-anlaufstellen"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "diskriminierung-agg",
+      "kategorie": "schutz",
+      "titel": "Diskriminierung nach dem AGG außerhalb der Arbeit",
+      "icon": "🚫",
+      "teaser": "Im Alltag, etwa bei Wohnung oder Geschäften: Ansprüche nach dem AGG müssen binnen zwei Monaten geltend gemacht werden.",
+      "schlagworte": [
+        "AGG",
+        "Diskriminierung",
+        "Frist zwei Monate",
+        "Wohnung",
+        "Massengeschäft",
+        "Antidiskriminierungsstelle",
+        "Schadensersatz"
+      ],
+      "kurz_html": "<p>Das Allgemeine Gleichbehandlungsgesetz (AGG) schützt auch außerhalb der Arbeit, zum Beispiel bei Wohnungssuche oder Geschäften des Alltags.</p><p>Wenn Sie diskriminiert werden, können Sie Ansprüche haben, etwa auf Beseitigung, Unterlassung oder Schadensersatz.</p><p>Wichtig: Diese Ansprüche müssen innerhalb von zwei Monaten geltend gemacht werden (§ 21 Abs. 5 AGG). Handeln Sie schnell und notieren Sie Datum und Ablauf.</p>",
+      "schritte": [
+        {
+          "titel": "Notieren",
+          "text": "Was, wann, wo, wer war dabei? Belege sichern."
+        },
+        {
+          "titel": "Frist beachten",
+          "text": "Zwei Monate (§ 21 Abs. 5 AGG); Fristbeginn im Gesetz nicht genannt, nach herrschender Meinung ab Kenntnis der Benachteiligung – im Zweifel vom Vorfall an rechnen."
+        },
+        {
+          "titel": "Schriftlich geltend machen",
+          "text": "Ansprüche gegenüber der Gegenseite schriftlich erheben."
+        },
+        {
+          "titel": "Beratung holen",
+          "text": "Antidiskriminierungsstelle des Bundes und regionale Beratungsstellen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "2 Monate",
+          "was": "Ansprüche nach § 21 Abs. 1 und 2 AGG müssen in dieser Frist geltend gemacht werden. Ausnahme: unverschuldetes Versäumnis.",
+          "grundlage": "§ 21 Abs. 5 AGG"
+        }
+      ],
+      "achtung": [
+        "Die Frist ist kurz. Warten Sie nicht ab.",
+        "Die Fristen bei Diskriminierung im Arbeitsverhältnis sind andere und stehen im Arbeitnehmer-Baustein.",
+        "Nicht jede Ungleichbehandlung ist eine verbotene Diskriminierung.",
+        "Belege und Zeugen helfen. Beratung vor einem Schreiben an die Gegenseite ist sinnvoll."
+      ],
+      "fach_html": "<h3>Anspruchsfrist § 21 AGG</h3><p>§ 21 Abs. 5 AGG: Ein Anspruch nach den Absätzen 1 und 2 (Beseitigung, Unterlassung, Schadensersatz, Entschädigung) muss innerhalb einer Frist von zwei Monaten geltend gemacht werden (sinngemäße Wiedergabe, kein Wortlaut). Fristbeginn nennt das Gesetz nicht; nach herrschender Meinung ab Kenntnis der Benachteiligung, im Zweifel vom Vorfall an rechnen. Nach Fristablauf kann er nur geltend gemacht werden, wenn die Person ohne eigenes Verschulden an der Einhaltung gehindert war. Geltend machen heißt: gegenüber der Gegenseite, nicht erst Klage. Wie die Klagefrist danach zu behandeln ist, ist hier nicht geprüft.</p><h3>Anlaufstelle</h3><p>Die Antidiskriminierungsstelle des Bundes bietet Information und Beratung an: antidiskriminierungsstelle.gov.de (Weiterleitung von antidiskriminierungsstelle.de). Einzelheiten zum Beratungsangebot wurden nicht ausgewertet.</p>",
+      "zustaendig": [
+        "Antidiskriminierungsstelle des Bundes",
+        "Regionale Antidiskriminierungsberatungsstellen (bitte vor Ort recherchieren)"
+      ],
+      "belege": [
+        "Gesetze im Internet, § 21 AGG, abgerufen 20.09.2026",
+        "Antidiskriminierungsstelle des Bundes, antidiskriminierungsstelle.gov.de (Weiterleitung geprüft), abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "meinungsfreiheit-hass-im-netz",
+        "beratung-anlaufstellen"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "meinungsfreiheit-hass-im-netz",
+      "kategorie": "schutz",
+      "titel": "Meinungsfreiheit, Hass im Netz, Meldestellen",
+      "icon": "💬",
+      "teaser": "Meinung ist geschützt, Beleidigung und Hetze nicht. Wie Sie Hass im Netz melden.",
+      "schlagworte": [
+        "Meinungsfreiheit",
+        "Hass im Netz",
+        "Meldestelle",
+        "Digital Services Act",
+        "Trusted Flagger",
+        "HateAid",
+        "Strafanzeige"
+      ],
+      "kurz_html": "<p>Ihre Meinung ist durch Art. 5 GG geschützt. Das gilt auch für unbequeme Meinungen. Grenzen setzen zum Beispiel Beleidigung, Verleumdung und Volksverhetzung.</p><p>Wenn Sie im Netz angegriffen werden: Sichern Sie Beweise (Screenshot mit Datum und Link). Melden Sie den Beitrag der Plattform. Sie können auch Strafanzeige bei der Polizei stellen.</p><p>Für Plattform-Verstöße gegen den Digital Services Act ist in Deutschland die Bundesnetzagentur (Koordinierungsstelle für digitale Dienste) zuständig, bei sehr großen Plattformen und Suchmaschinen die EU-Kommission.</p>",
+      "schritte": [
+        {
+          "titel": "Beweise sichern",
+          "text": "Screenshot mit Link, Datum, Uhrzeit."
+        },
+        {
+          "titel": "Der Plattform melden",
+          "text": "Nutzen Sie die Meldefunktion."
+        },
+        {
+          "titel": "Meldestelle oder Beratung",
+          "text": "Zum Beispiel Beratungsstelle HateAid oder Meldestellen, die die Bundesnetzagentur als Trusted Flagger zugelassen hat."
+        },
+        {
+          "titel": "Strafanzeige erwägen",
+          "text": "Bei jeder Polizeidienststelle möglich."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "keine feste Meldefrist bei der Plattform",
+          "was": "Melden Sie zügig. Strafantrag (z. B. bei Beleidigung): 3 Monate ab Kenntnis von Tat und Täter.",
+          "grundlage": "Strafantragsfrist 3 Monate ab Kenntnis von Tat und Täter, § 77b Abs. 1, 2 StGB"
+        }
+      ],
+      "achtung": [
+        "Nicht jede harte Kritik ist strafbar. Nicht jede Löschung ist Zensur.",
+        "Löschen Sie eigene Beweise nicht, bevor Sie gesichert haben.",
+        "Melden Sie Bedrohungen mit akuter Gefahr sofort per Notruf 110.",
+        "Vorsicht beim Weiterverbreiten: Auch Teilen kann strafbar sein."
+      ],
+      "fach_html": "<h3>Digital Services Act</h3><p>Die Bundesnetzagentur ist in Deutschland Koordinierungsstelle für digitale Dienste und beaufsichtigt die Einhaltung der DSA-Regeln durch Plattformen. Für sehr große Plattformen und Suchmaschinen ist die EU-Kommission zuständig (Art. 56 DSA). Sie ließ 2024 als ersten Trusted Flagger die Meldestelle REspect! der Jugendstiftung Baden-Württemberg zu (Schwerpunkt: soziale Netzwerke und Videoplattformen, Sprachen Deutsch, Englisch, Arabisch). Das Bundeskriminalamt ist nach § 13 Digitale-Dienste-Gesetz (DDG) zentrale Stelle für Meldungen von Plattformen nach Art. 18 DSA; das ist ein Weg für Plattformen, nicht für private Meldungen.</p><h3>Strafrecht</h3><p>Die Reichweite strafbarer Äußerungen (Beleidigung, üble Nachrede, Verleumdung, Volksverhetzung) ist hier nur als Überblick genannt und nicht im Wortlaut geprüft.</p>",
+      "zustaendig": [
+        "Polizei (Strafanzeige)",
+        "Bundesnetzagentur (Plattformaufsicht)",
+        "Beratungsstelle HateAid",
+        "Trusted Flagger, z. B. REspect!"
+      ],
+      "belege": [
+        "Bundesnetzagentur, Pressemitteilung Trusted Flagger 27.09.2024, abgerufen 20.09.2026",
+        "Bundesnetzagentur, Pressemitteilung Plattformaufsicht 14.05.2024, abgerufen 20.09.2026",
+        "BKA, Digital Services Act (Digitale Eingangsstelle), abgerufen 20.09.2026",
+        "HateAid, DSA User Guide, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "diskriminierung-agg",
+        "zivilcourage-hilfe"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "schoeffen-ehrenamt-justiz",
+      "kategorie": "engagement",
+      "titel": "Schöffen und Ehrenämter in der Justiz",
+      "icon": "⚖️",
+      "teaser": "Als Schöffin oder Schöffe urteilen Sie mit. Nächste Wahl 2028 für die Amtszeit 2029 bis 2033.",
+      "schlagworte": [
+        "Schöffe",
+        "Schöffenwahl",
+        "ehrenamtlicher Richter",
+        "Amtsperiode",
+        "Bewerbung",
+        "Vorschlagsliste"
+      ],
+      "kurz_html": "<p>Schöffinnen und Schöffen sind ehrenamtliche Richterinnen und Richter in Strafverfahren. Sie entscheiden gemeinsam mit Berufsrichtern.</p><p>Die Amtszeit dauert fünf Jahre. Die nächste Schöffenwahl findet 2028 statt, für die Amtszeit 1. Januar 2029 bis 31. Dezember 2033.</p><p>Bewerben können sich Deutsche, die bei Amtsbeginn mindestens 25 und höchstens 69 Jahre alt sind, bei ihrer Gemeinde.</p>",
+      "schritte": [
+        {
+          "titel": "Bekanntmachung abwarten",
+          "text": "Die Gemeinde macht die Schöffenwahl 2028 bekannt (voraussichtlich Anfang 2028)."
+        },
+        {
+          "titel": "Bewerbung einreichen",
+          "text": "Bei der Gemeinde, für die Vorschlagsliste."
+        },
+        {
+          "titel": "Wahl abwarten",
+          "text": "Der Gemeinderat beschließt die Liste, der Schöffenwahlausschuss beim Amtsgericht wählt."
+        },
+        {
+          "titel": "Ergebnis erfahren",
+          "text": "Benachrichtigung im Herbst 2028."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "1.1.2029 bis 31.12.2033",
+          "was": "Nächste Amtsperiode. Wahl 2028.",
+          "grundlage": "Landesjustizverwaltungen, z. B. Bayern, Würzburg"
+        },
+        {
+          "wert": "25 bis 69 Jahre",
+          "was": "Altersgrenzen bei Beginn der Amtsperiode: nicht unter 25, nicht über 70.",
+          "grundlage": "§ 33 Nr. 1, 2 GVG"
+        }
+      ],
+      "achtung": [
+        "Bewerbungsfristen setzt die Gemeinde fest, sie sind noch nicht bekannt.",
+        "Voraussetzungen im Detail (Ausschlüsse) hier nicht im Gesetzestext geprüft.",
+        "Ehrenamtliche Richter sind gesetzlich unfallversichert (laut DGUV).",
+        "Amt ist ein Ehrenamt mit Pflicht zur Teilnahme. Bei Verhinderung sofort melden."
+      ],
+      "fach_html": "<h3>Wahl und Amtszeit</h3><p>Nach den zusammengefassten Angaben der Landesjustiz und der Kommunen läuft die Amtszeit 2029 bis 2033, gewählt wird im Jahr 2028 in zwei Stufen: Die Gemeinde erstellt die Vorschlagsliste, der Schöffenwahlausschuss beim Amtsgericht wählt aus. Die Berufsgerichts-Regelungen (Gerichtsverfassungsgesetz) wurden nicht direkt ausgewertet.</p><h3>Versicherungsschutz</h3><p>Laut DGUV gehören ehrenamtliche Richter, Schöffen und Zeugen zum versicherten Personenkreis der gesetzlichen Unfallversicherung.</p>",
+      "zustaendig": [
+        "Gemeinde (Bewerbung)",
+        "Amtsgericht (Schöffenwahlausschuss)",
+        "Landesjustizverwaltung"
+      ],
+      "belege": [
+        "Gesetze im Internet, § 33 GVG, gesetze-im-internet.de/gvg/__33.html, abgerufen 20.09.2026",
+        "Bayerisches Staatsministerium der Justiz, Schöffen (Suchtreffer), abgerufen 20.09.2026",
+        "Stadt Würzburg, Schöffenwahl 2028 (Suchtreffer), abgerufen 20.09.2026",
+        "DGUV, ehrenamtliche Richter, Schöffen und Zeugen (Suchtreffer), abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "ehrenamt-engagement",
+        "beratungshilfe-pkh"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "beratungshilfe-pkh",
+      "kategorie": "hilfe",
+      "titel": "Beratungshilfe und Prozesskostenhilfe",
+      "icon": "💶",
+      "teaser": "Wenig Geld, Rechtsproblem: Beratungshilfe für außergerichtliche Beratung, Prozesskostenhilfe für Gerichtsverfahren.",
+      "schlagworte": [
+        "Beratungshilfe",
+        "Prozesskostenhilfe",
+        "PKH",
+        "Berechtigungsschein",
+        "Amtsgericht",
+        "Rechtsanwalt",
+        "Eigenanteil"
+      ],
+      "kurz_html": "<p>Wer wenig Geld hat, kann Hilfe für Rechtsprobleme bekommen.</p><p>Beratungshilfe gilt für Beratung und Vertretung außerhalb eines Gerichtsverfahrens. Sie beantragen sie beim Amtsgericht. Mit dem Schein zahlen Sie einen Eigenanteil von 15 Euro (kann erlassen werden).</p><p>Prozesskostenhilfe hilft bei Gerichtskosten und Anwaltskosten im Verfahren. Sie brauchen dafür Bedürftigkeit und hinreichende Erfolgsaussicht. Das Vorhaben darf nicht mutwillig sein (§ 114 ZPO).</p>",
+      "schritte": [
+        {
+          "titel": "Prüfen",
+          "text": "Auf service.justiz.de/beratungshilfe gibt es einen Test."
+        },
+        {
+          "titel": "Beratungshilfe beantragen",
+          "text": "Beim Amtsgericht, mit Nachweisen zu Einkommen und Ausgaben."
+        },
+        {
+          "titel": "PKH im Verfahren",
+          "text": "Antrag beim Prozessgericht mit Erklärung zu den persönlichen und wirtschaftlichen Verhältnissen."
+        },
+        {
+          "titel": "Unterlagen bereithalten",
+          "text": "Ausweis, Kontoauszüge, Mietvertrag."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "15 Euro",
+          "was": "Eigenanteil bei Beratungshilfe (kann erlassen werden).",
+          "grundlage": "Nr. 2500 VV RVG (Anlage 1 zum RVG); Gebühr kann erlassen werden"
+        },
+        {
+          "wert": "keine Betragsgrenze im Gesetz zitiert",
+          "was": "PKH bei Bedürftigkeit, Erfolgsaussicht, keine Mutwilligkeit.",
+          "grundlage": "§ 114 ZPO"
+        }
+      ],
+      "achtung": [
+        "Beratungshilfe gilt nur außergerichtlich.",
+        "PKH ist nicht immer ein Geschenk: Ratenzahlung ist möglich.",
+        "Fristen im Verfahren laufen weiter, auch wenn PKH beantragt ist. Rechtsrat einholen.",
+        "Falsche Angaben können Folgen haben."
+      ],
+      "fach_html": "<h3>Beratungshilfe</h3><p>Rechtsgrundlage ist das Beratungshilfegesetz (BerHG). Zuständig für den Antrag ist nach § 4 Abs. 1 BerHG das Amtsgericht am allgemeinen Gerichtsstand der rechtsuchenden Person. Der Eigenanteil von 15 Euro folgt aus Nr. 2500 VV RVG (Anlage 1 zum RVG) und kann erlassen werden.</p><h3>Prozesskostenhilfe</h3><p>§ 114 ZPO: Prozesskostenhilfe erhält, wer nach den persönlichen und wirtschaftlichen Verhältnissen die Kosten der Prozessführung nicht, nur zum Teil oder nur in Raten aufbringen kann, sofern die Rechtsverfolgung oder -verteidigung hinreichende Aussicht auf Erfolg bietet und nicht mutwillig erscheint. Verweis auf §§ 1076 bis 1078 ZPO für grenzüberschreitende Fälle in der EU.</p>",
+      "zustaendig": [
+        "Amtsgericht (Beratungshilfe)",
+        "Prozessgericht (PKH)",
+        "Justiz-Services: service.justiz.de/beratungshilfe"
+      ],
+      "belege": [
+        "Gesetze im Internet, § 114 ZPO, abgerufen 20.09.2026",
+        "Gesetze im Internet, § 4 BerHG, gesetze-im-internet.de/berathig/__4.html, abgerufen 20.09.2026",
+        "BMJV, Beratungshilfe und Prozesskostenhilfe (Suchtreffer), abgerufen 20.09.2026",
+        "schuldnerberatung.de, Beratungshilfe (Suchtreffer, Sekundärquelle), abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "diskriminierung-agg",
+        "beratung-anlaufstellen"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "polizeikontrolle",
+      "kategorie": "schutz",
+      "titel": "Rechte bei Polizeikontrolle und Identitätsfeststellung",
+      "icon": "🚔",
+      "teaser": "Namen und Anschrift müssen Sie angeben, weiter reden müssen Sie nicht. Regeln unterscheiden sich je Land.",
+      "schlagworte": [
+        "Polizeikontrolle",
+        "Identitätsfeststellung",
+        "Personalausweis",
+        "Schweigerecht",
+        "§ 163b StPO",
+        "Polizeigesetz",
+        "§ 111 OWiG"
+      ],
+      "kurz_html": "<p>Die Polizei darf Ihre Identität feststellen. Zum Beispiel bei Verdacht auf eine Straftat, bei Verkehrskontrollen oder an sogenannten gefährlichen Orten.</p><p>Sie müssen Ihre Personalien richtig angeben. Zu allem anderen dürfen Sie schweigen. Deutsche müssen ab 16 einen Ausweis besitzen und auf Verlangen vorlegen, aber nicht ständig mitführen (§ 1 Abs. 1 PAuswG).</p><p>Wer sich unfair behandelt fühlt, sollte ruhig bleiben, die Dienstnummer erfragen und später Rat suchen.</p>",
+      "schritte": [
+        {
+          "titel": "Ruhig bleiben",
+          "text": "Widerstand verschlimmert die Lage. Beschwerden sind später möglich."
+        },
+        {
+          "titel": "Personalien nennen",
+          "text": "Name, Geburtsdatum und -ort, Anschrift, Staatsangehörigkeit nach § 111 OWiG."
+        },
+        {
+          "titel": "Sonst schweigen",
+          "text": "Zur Sache müssen Sie nichts sagen."
+        },
+        {
+          "titel": "Nachher dokumentieren",
+          "text": "Gedächtnisprotokoll, Zeugen, dann Beratung oder Beschwerde."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "keine feste Frist",
+          "was": "Beschwerden und Rechtsbehelfe haben eigene Fristen. Zeitnah Rat holen.",
+          "grundlage": "je nach Verfahren, nicht geprüft"
+        }
+      ],
+      "achtung": [
+        "Falsche Angaben zur Person können ein Bußgeld auslösen.",
+        "Wenn die Identität sonst nicht zu klären ist, darf die Polizei nach § 163b StPO festhalten.",
+        "Bundesländer regeln Kontrollen im Polizeirecht unterschiedlich.",
+        "Rassistische Kontrollen sind unzulässig. Beratungsstellen helfen."
+      ],
+      "fach_html": "<h3>Strafverfahren: § 163b StPO</h3><p>§ 163b StPO erlaubt Staatsanwaltschaft und Polizei, bei Verdacht einer Straftat die zur Identitätsfeststellung erforderlichen Maßnahmen zu treffen. Der Verdächtige darf festgehalten werden, wenn die Identität sonst nicht oder nur unter erheblichen Schwierigkeiten festgestellt werden kann; dann sind auch Durchsuchung und erkennungsdienstliche Maßnahmen möglich. Bei Nichtverdächtigen sind Maßnahmen nur zulässig, soweit zur Aufklärung geboten und verhältnismäßig; bestimmte Maßnahmen nur mit Einwilligung.</p><h3>Gefahrenabwehr und Ausweispflicht</h3><p>Identitätsfeststellungen zur Gefahrenabwehr richten sich nach den Landespolizeigesetzen und dem Bundespolizeigesetz. Sie unterscheiden sich je Land; das wurde nicht je Land geprüft. § 111 OWiG verpflichtet zu richtigen Angaben zur Person. § 1 Abs. 1 PAuswG: Ausweispflicht für Deutsche ab 16 Jahren, Vorlage nur auf Verlangen, keine Mitführpflicht.</p>",
+      "zustaendig": [
+        "Polizei des Landes; Bundespolizei",
+        "Beschwerdestellen der Länder (soweit vorhanden, bitte vor Ort recherchieren)",
+        "Rechtsanwältin oder Rechtsanwalt"
+      ],
+      "belege": [
+        "Gesetze im Internet, § 163b StPO, abgerufen 20.09.2026",
+        "Gesetze im Internet, § 1 PAuswG, gesetze-im-internet.de/pauswg/__1.html, abgerufen 20.09.2026",
+        "anwalt.de / klugo.de, Personenkontrolle (Suchtreffer, Sekundärquellen), abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "versammlung-demonstration",
+        "beratungshilfe-pkh"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "zivilcourage-hilfe",
+      "kategorie": "engagement",
+      "titel": "Zivilcourage und Hilfe im Notfall",
+      "icon": "🚑",
+      "teaser": "Hilfe bei Unglücksfällen ist Pflicht, soweit zumutbar. Sie müssen sich nicht selbst in Gefahr bringen.",
+      "schlagworte": [
+        "Hilfeleistungspflicht",
+        "§ 323c StGB",
+        "Notruf",
+        "Zivilcourage",
+        "unterlassene Hilfeleistung",
+        "Erste Hilfe"
+      ],
+      "kurz_html": "<p>Wenn ein Unglück, eine Gefahr oder eine Notlage vorliegt, müssen Sie helfen, wenn es erforderlich und zumutbar ist. Das steht in § 323c StGB.</p><p>Sie müssen sich dabei nicht in erhebliche eigene Gefahr bringen. Rufen Sie den Notruf, das ist oft schon Hilfe (110 Polizei, 112 Rettung).</p><p>Wer Hilfe verhindert oder behindert, kann sich ebenfalls strafbar machen. Opfer von Straftaten finden weitere Hilfe im Baustein Kriminalitätsopfer dieses Wegweisers.</p>",
+      "schritte": [
+        {
+          "titel": "Eigene Sicherheit prüfen",
+          "text": "Nicht in erhebliche Gefahr begeben."
+        },
+        {
+          "titel": "Notruf wählen",
+          "text": "112 bei Verletzten, 110 bei Straftaten."
+        },
+        {
+          "titel": "Helfen, wie es Ihnen möglich ist",
+          "text": "Erste Hilfe, Aufmerksamkeit, Zeugen ansprechen."
+        },
+        {
+          "titel": "Aussage machen",
+          "text": "Als Zeugin oder Zeuge der Polizei schildern, was Sie gesehen haben."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "bis 1 Jahr Freiheitsstrafe oder Geldstrafe",
+          "was": "Strafrahmen bei unterlassener Hilfeleistung und bei Behinderung von Hilfe.",
+          "grundlage": "§ 323c StGB"
+        }
+      ],
+      "achtung": [
+        "Die Hilfe muss erforderlich und zumutbar sein.",
+        "Keine erhebliche eigene Gefahr und keine Verletzung anderer wichtiger Pflichten.",
+        "Behindern von Helfenden ist gleichermaßen strafbar.",
+        "Wenn Sie selbst Opfer wurden: siehe Baustein Kriminalitätsopfer."
+      ],
+      "fach_html": "<h3>§ 323c StGB</h3><p>Nach § 323c Abs. 1 StGB macht sich strafbar, wer bei Unglücksfällen oder gemeiner Gefahr oder Not nicht Hilfe leistet, obwohl dies erforderlich und den Umständen nach zumutbar ist, insbesondere ohne erhebliche eigene Gefahr und ohne Verletzung anderer wichtiger Pflichten. Ebenso wird bestraft, wer eine Person behindert, die einem Dritten Hilfe leistet oder leisten will (Abs. 2). Strafrahmen: Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.</p><h3>Versicherung von Helfenden</h3><p>Nach DGUV sind Hilfeleistende in der gesetzlichen Unfallversicherung versichert, beitragsfrei, Kosten tragen Länder und Kommunen. Bei Sach- und Personenschäden im Einzelfall beraten lassen.</p>",
+      "zustaendig": [
+        "Notruf 112 (Rettung), 110 (Polizei)",
+        "Kriminalitätsopfer-Baustein dieses Wegweisers",
+        "DGUV bzw. Unfallkasse (Versicherungsfragen)"
+      ],
+      "belege": [
+        "Gesetze im Internet, § 323c StGB, abgerufen 20.09.2026",
+        "DGUV, Hilfeleistende, abgerufen 20.09.2026",
+        "Gesetze im Internet, SGB VII (Suchtreffer), abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "ehrenamt-engagement",
+        "meinungsfreiheit-hass-im-netz"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "beratung-anlaufstellen",
+      "kategorie": "hilfe",
+      "titel": "Beratung und Anlaufstellen",
+      "icon": "🧭",
+      "teaser": "Wo Sie zu Bürgerrechten, Datenschutz, Diskriminierung und Recht Beratung finden. Nur geprüfte, bundesweite Stellen.",
+      "schlagworte": [
+        "Beratung",
+        "Anlaufstellen",
+        "Antidiskriminierungsstelle",
+        "BfDI",
+        "Beratungshilfe",
+        "Bundesnetzagentur",
+        "Justiz-Services"
+      ],
+      "kurz_html": "<p>Diese Stellen sind bundesweit und geprüft:</p><ul><li><strong>Antidiskriminierungsstelle des Bundes</strong>: antidiskriminierungsstelle.gov.de</li><li><strong>BfDI</strong> (Datenschutz und Informationsfreiheit, Bund): Graurheindorfer Straße 153, 53117 Bonn, poststelle@bfdi.bund.de, Tel. 0228-997799-0</li><li><strong>Justiz-Services</strong> (Beratungshilfe-Test): service.justiz.de/beratungshilfe</li><li><strong>Bundeswahlleiterin</strong>: bundeswahlleiterin.de</li><li><strong>HateAid</strong> (Hilfe bei Hass im Netz): hateaid.org</li></ul><p>Für Ihr Bundesland und Ihre Stadt suchen Sie bitte selbst die zuständige Stelle. Wir nennen keine ungeprüften Adressen.</p>",
+      "schritte": [
+        {
+          "titel": "Thema bestimmen",
+          "text": "Diskriminierung, Daten, Wahl, Recht allgemein?"
+        },
+        {
+          "titel": "Passende Stelle wählen",
+          "text": "Siehe Liste oben oder die Zuständigen der Themenseite."
+        },
+        {
+          "titel": "Unterlagen ordnen",
+          "text": "Datum, Vorfall, Schriftverkehr."
+        },
+        {
+          "titel": "Fristen nennen",
+          "text": "Sagen Sie sofort, wenn eine Frist läuft."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "2 Monate",
+          "was": "Geltendmachung von Ansprüchen nach § 21 Abs. 5 AGG. Frühzeitig Beratung suchen.",
+          "grundlage": "§ 21 Abs. 5 AGG"
+        },
+        {
+          "wert": "1 Monat",
+          "was": "Antwortfrist auf Auskunftsanträge nach Art. 12 Abs. 3 DSGVO.",
+          "grundlage": "Art. 12 Abs. 3 DSGVO"
+        }
+      ],
+      "achtung": [
+        "Wir nennen keine regionalen Beratungsstellen, weil wir sie nicht einzeln geprüft haben.",
+        "Beratungsstellen können keine Erfolgsgarantie geben.",
+        "Bei akuter Gefahr wählen Sie 110 oder 112.",
+        "Diese Plattform ist keine Rechtsberatung."
+      ],
+      "fach_html": "<h3>Wie die Stellen zusammenpassen</h3><p>Die Antidiskriminierungsstelle des Bundes ist Anlaufstelle zum AGG. Die BfDI beaufsichtigt Bundesbehörden beim Datenschutz und ist Ansprechstelle zur Informationsfreiheit im Bund. Wahlfragen klären Bundeswahlleiterin und Landeswahlleiter sowie die Gemeinde. Für Rechtsberatung bei geringem Einkommen dienen Beratungshilfe und Prozesskostenhilfe.</p><h3>Lücke</h3><p>Regionale Beratungsstellen, Landesdatenschutzbehörden, Landeswahlleiter, Ordnungsämter und Einbürgerungsbehörden sind nach Ort und Land verschieden und wurden nicht einzeln aufgelistet.</p>",
+      "zustaendig": [
+        "Antidiskriminierungsstelle des Bundes",
+        "BfDI",
+        "Amtsgericht (Beratungshilfe)",
+        "Kommune / Gemeinde vor Ort"
+      ],
+      "belege": [
+        "BfDI, bfdi.bund.de, abgerufen 20.09.2026",
+        "Antidiskriminierungsstelle des Bundes, antidiskriminierungsstelle.gov.de, abgerufen 20.09.2026",
+        "Justiz-Services, service.justiz.de/beratungshilfe (Suchtreffer), abgerufen 20.09.2026",
+        "HateAid, hateaid.org (Suchtreffer), abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "beratungshilfe-pkh",
+        "diskriminierung-agg",
+        "datenschutz-auskunft"
+      ],
+      "stand": "September 2026"
+    }
+  ]
+}

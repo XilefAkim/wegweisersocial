@@ -1,0 +1,1142 @@
+{
+  "kategorien": [
+    {
+      "id": "start",
+      "titel": "Start",
+      "icon": "🧭",
+      "beschreibung": "Überblick und Orientierung für private Fahrzeughalter."
+    },
+    {
+      "id": "papiere",
+      "titel": "Fahrzeug und Papiere",
+      "icon": "📄",
+      "beschreibung": "Zulassung, Versicherung, Kfz-Steuer, Hauptuntersuchung und Umweltzonen."
+    },
+    {
+      "id": "verstoesse",
+      "titel": "Verstöße und Bußgeld",
+      "icon": "⚠️",
+      "beschreibung": "Bußgeld, Punkte, Fahrverbot, Einspruch, Parken und Abschleppen."
+    },
+    {
+      "id": "fuehrerschein",
+      "titel": "Führerschein",
+      "icon": "🪪",
+      "beschreibung": "Umtausch, Probezeit, Entziehung und medizinisch-psychologische Untersuchung."
+    },
+    {
+      "id": "kauf",
+      "titel": "Kauf, Werkstatt, Finanzierung",
+      "icon": "🔧",
+      "beschreibung": "Gebrauchtwagenkauf, Reparatur, Rückruf, Finanzierung und Leasing."
+    },
+    {
+      "id": "notfall",
+      "titel": "Notfall und Hilfe",
+      "icon": "🆘",
+      "beschreibung": "Diebstahl und Verlust sowie bundesweite Anlaufstellen."
+    }
+  ],
+  "seiten": [
+    {
+      "id": "ueberblick",
+      "kategorie": "start",
+      "titel": "Überblick für Fahrzeughalter",
+      "icon": "🚗",
+      "teaser": "Welche Pflichten und Rechte private Autohalter in Deutschland haben und wo Sie die Details in diesem Wegweiser finden.",
+      "schlagworte": [
+        "Halter",
+        "Pflichten",
+        "Zulassung",
+        "Versicherung",
+        "Führerschein",
+        "Bußgeld",
+        "Überblick"
+      ],
+      "kurz_html": "<p>Wer ein Auto hält, hat Pflichten gegenüber mehreren Stellen. Das Auto muss zugelassen und versichert sein. Es muss zur Hauptuntersuchung. Die Kfz-Steuer ist fällig. Außerdem brauchen Sie einen gültigen Führerschein.</p><p>Bei Fehlern drohen Bußgeld, Punkte oder Fahrverbot. Viele Fristen sind kurz. Zum Beispiel haben Sie für einen Einspruch gegen einen Bußgeldbescheid nur zwei Wochen.</p><p>Dieser Wegweiser erklärt die Themen in einfacher Sprache. Unter jedem Thema finden Sie eine Vertiefung mit Rechtsgrundlagen. Was nach einem Verkehrsunfall gilt, steht im Wegweiser Verkehrsunfallopfer und wird hier nicht wiederholt.</p>",
+      "schritte": [
+        {
+          "titel": "Papiere ordnen",
+          "text": "Halten Sie Zulassungsbescheinigung, Versicherungsnachweis und Führerschein bereit."
+        },
+        {
+          "titel": "Termine notieren",
+          "text": "Tragen Sie Hauptuntersuchung, Kündigungstermin der Versicherung und Umtauschfrist des Führerscheins in Ihren Kalender ein."
+        },
+        {
+          "titel": "Post sofort öffnen",
+          "text": "Bußgeldbescheide und Anhörungsbögen haben Fristen, die mit Zustellung beginnen."
+        },
+        {
+          "titel": "Thema wählen",
+          "text": "Nutzen Sie die Suche oder die Kategorien und lesen Sie die passende Seite."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "2 Wochen",
+          "was": "Einspruch gegen einen Bußgeldbescheid nach Zustellung",
+          "grundlage": "§ 67 OWiG"
+        },
+        {
+          "wert": "24 Monate (Pkw, nach der ersten Prüfung)",
+          "was": "Abstand der Hauptuntersuchung",
+          "grundlage": "Anlage VIII StVZO, Nr. 2.1.2.1.2"
+        }
+      ],
+      "achtung": [
+        "Dieser Wegweiser gibt Bundesrecht wieder. Landesrecht und örtliche Regeln wurden nicht erhoben.",
+        "Zuständige Behörden (Zulassungsstelle, Bußgeldstelle, Führerscheinstelle) unterscheiden sich vor Ort.",
+        "Fristen beginnen oft mit Zustellung oder Rechtskraft, nicht mit dem Datum des Schreibens.",
+        "Information, keine Rechtsberatung."
+      ],
+      "fach_html": "<h3>Aufbau des Rechts</h3><p>Zulassung und Betrieb regeln vor allem die Fahrzeug-Zulassungsverordnung (FZV) und die Straßenverkehrs-Zulassungs-Ordnung (StVZO). Die Versicherungspflicht steht im Pflichtversicherungsgesetz (PflVG) und im Versicherungsvertragsgesetz (VVG). Die Kfz-Steuer regelt das Kraftfahrzeugsteuergesetz (KraftStG). Verkehrsverstöße richten sich nach dem Straßenverkehrsgesetz (StVG), dem Ordnungswidrigkeitengesetz (OWiG) und der Bußgeldkatalog-Verordnung (BKatV). Führerscheine regelt die Fahrerlaubnis-Verordnung (FeV). Kauf, Werkstatt und Finanzierung stehen im Bürgerlichen Gesetzbuch (BGB).</p><h3>Abgrenzung</h3><p>Schadensersatz, Haftung und Regulierung nach einem Unfall behandelt der Wegweiser Verkehrsunfallopfer. Hier geht es um Halterpflichten im Alltag.</p><h3>Landesrecht</h3><p>Nicht erhoben: Gebühren der Zulassungsstellen, Zuständigkeiten der Bußgeldstellen, örtliche Umweltzonen und Parkregeln der Kommunen.</p>",
+      "zustaendig": [
+        "Zulassungsbehörde (Kfz-Zulassungsstelle) vor Ort",
+        "Fahrerlaubnisbehörde vor Ort",
+        "Bußgeldstelle (siehe Bescheid)"
+      ],
+      "belege": [
+        "Bundesministerium der Justiz, gesetze-im-internet.de, FZV, StVZO, StVG, OWiG, PflVG, KraftStG, abgerufen 20.09.2026",
+        "Bundesministerium für Verkehr, Internetbasierte Fahrzeugzulassung, abgerufen 20.09.2026",
+        "Wegweiser Verkehrsunfallopfer (Abgrenzung), abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "zulassung-an-ab-ummeldung",
+        "bussgeld-punkte",
+        "beratung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "zulassung-an-ab-ummeldung",
+      "kategorie": "papiere",
+      "titel": "Zulassung, Ummeldung, Abmeldung und i-Kfz",
+      "icon": "📝",
+      "teaser": "Wann Sie ein Fahrzeug an-, um- oder abmelden müssen und was die Online-Zulassung (i-Kfz) kann.",
+      "schlagworte": [
+        "Zulassung",
+        "Ummeldung",
+        "Abmeldung",
+        "i-Kfz",
+        "FZV",
+        "Zulassungsbescheinigung",
+        "Halterwechsel"
+      ],
+      "kurz_html": "<p>Ein Auto darf nur mit Zulassung auf öffentlichen Straßen fahren. Wechselt der Halter, müssen alte und neue Halter das der Zulassungsstelle melden, und zwar unverzüglich. Ziehen Sie in einen anderen Bezirk um, müssen Sie ebenfalls unverzüglich handeln.</p><p>Die Zulassungsbescheinigung Teil I müssen Sie beim Fahren mitführen. Vieles geht auch online (i-Kfz). Dafür brauchen Sie einen Personalausweis mit Online-Funktion und PIN, eine eVB-Nummer der Versicherung und eine gültige Hauptuntersuchung.</p>",
+      "schritte": [
+        {
+          "titel": "Versicherung klären",
+          "text": "Holen Sie die eVB-Nummer Ihrer Kfz-Versicherung ein."
+        },
+        {
+          "titel": "Unterlagen sammeln",
+          "text": "Zulassungsbescheinigung Teil I und II, Nachweis der Hauptuntersuchung, Ausweis."
+        },
+        {
+          "titel": "Online oder vor Ort",
+          "text": "Prüfen Sie, ob Ihre Zulassungsbehörde i-Kfz anbietet. Sonst gehen Sie persönlich hin."
+        },
+        {
+          "titel": "Halterwechsel oder Umzug melden",
+          "text": "Melden Sie beides unverzüglich der Zulassungsbehörde."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "unverzüglich",
+          "was": "Meldung bei Halterwechsel (alter und neuer Halter)",
+          "grundlage": "§ 15 FZV"
+        },
+        {
+          "wert": "4 Wochen",
+          "was": "Frist im Aufgebot der Zulassungsbescheinigung; danach kann die Zulassung enden",
+          "grundlage": "§ 15 FZV"
+        },
+        {
+          "wert": "unverzüglich",
+          "was": "Neues Kennzeichen oder Weiterführung melden bei Wohnsitzwechsel in einen anderen Bezirk",
+          "grundlage": "§ 15 FZV"
+        }
+      ],
+      "achtung": [
+        "Wer den Halterwechsel nicht meldet, riskiert, dass die Behörde die Zulassung durch Aufgebot beendet.",
+        "i-Kfz geht nur mit Sicherheitscode auf den Papieren: für Ab- und Ummeldung Papiere nach dem 01.01.2015, für Neuzulassung nach dem 01.01.2018 (laut BMV).",
+        "Ob Ihre Zulassungsbehörde i-Kfz anbietet, liegt bei den Ländern. Prüfen Sie das vor Ort.",
+        "Gebühren und Öffnungszeiten der Zulassungsstellen: Landesrecht, nicht erhoben."
+      ],
+      "fach_html": "<h3>Halterwechsel und Wohnsitzwechsel (§ 15 FZV)</h3><p>Bei Wechsel der Halterperson müssen bisheriger Halter und Eigentümer dies unverzüglich der Zulassungsbehörde zum Zweck der Änderung der Fahrzeugregister mitteilen. Der neue Halter muss unverzüglich die neuen Halterdaten anmelden und eine neue Zulassungsbescheinigung Teil I beantragen. Versäumnisse können dazu führen, dass die Behörde die Zulassungsbescheinigung im Verkehrsblatt mit einer Frist von vier Wochen zur Vorlage aufbietet. Nach erfolglosem Ablauf endet die Zulassung.</p><p>Verlegt der Halter seinen Sitz in einen anderen Bezirk, muss er unverzüglich ein neues Kennzeichen beantragen oder die Weiterführung des bisherigen mitteilen. Sonst kann die Behörde den Betrieb auf öffentlichen Straßen untersagen.</p><h3>Zulassungsbescheinigung Teil I (§ 13 FZV)</h3><p>Die Zulassungsbescheinigung Teil I ist von der das Fahrzeug führenden Person mitzuführen und auf Verlangen auszuhändigen. Ein wiedergefundenes Dokument muss der Halter unverzüglich bei der Zulassungsbehörde abgeben.</p><h3>i-Kfz</h3><p>Laut Bundesverkehrsministerium sind online möglich: Anmeldung, Abmeldung, Wiederzulassung, Umschreibung, Tageszulassung und die Auswahl besonderer Kennzeichen. Nötig sind ein Ausweis mit freigeschalteter eID-Funktion plus PIN, die Versicherungsbestätigung (eVB-Nummer) und eine gültige Hauptuntersuchung. Die Umsetzung obliegt den Ländern.</p><h3>Abmeldung und Steuer</h3><p>Die Außerbetriebsetzung (Abmeldung) regelt § 16 FZV; der Sicherheitscode für i-Kfz steht in § 21 FZV. Nach der Abmeldung übermittelt die Zulassungsbehörde die Daten an den Zoll. Laut Zoll (nur als Suchtreffer ausgewertet) kommt der Abmeldebescheid typischerweise etwa zwei Wochen danach; ein Guthaben wird etwa drei Wochen danach erstattet.</p><h3>Nicht im Volltext geprüft</h3><p>Nicht geprüft: Kurzzeitkennzeichen, Saisonkennzeichen, Gebühren.</p>",
+      "zustaendig": [
+        "Zulassungsbehörde (Kfz-Zulassungsstelle) vor Ort",
+        "Kraftfahrt-Bundesamt (Register, Rückrufe)"
+      ],
+      "belege": [
+        "Bundesministerium der Justiz, FZV §§ 13, 15, 16, 21, abgerufen 20.09.2026",
+        "Bundesministerium für Verkehr, Internetbasierte Fahrzeugzulassung: So funktioniert „i-Kfz“, abgerufen 20.09.2026",
+        "Zoll online, Kraftfahrzeugsteuer (Abmeldung), nur Suchtreffer, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "kfz-versicherung",
+        "kfz-steuer",
+        "hu-au-umweltzone"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "kfz-versicherung",
+      "kategorie": "papiere",
+      "titel": "Kfz-Versicherung: Pflicht, eVB und Kündigung",
+      "icon": "🛡️",
+      "teaser": "Ohne Haftpflichtversicherung kein Fahrzeug im Verkehr. Hier: Pflicht, eVB-Nummer und Kündigungsfristen.",
+      "schlagworte": [
+        "Haftpflicht",
+        "eVB",
+        "Kündigung",
+        "30. November",
+        "Sonderkündigung",
+        "Schadenfreiheitsklasse",
+        "Teilkasko"
+      ],
+      "kurz_html": "<p>Jeder Halter muss eine Kfz-Haftpflichtversicherung abschließen und behalten. Für die Zulassung brauchen Sie eine eVB-Nummer, die Ihnen die Versicherung gibt.</p><p>Üblich ist laut Versicherungsbedingungen (AKB) die Kündigung spätestens einen Monat vor Ablauf des Versicherungsjahres. Das ist der 30. November nur, wenn das Versicherungsjahr das Kalenderjahr ist; ein Gesetz ist das nicht. Bei Beitragserhöhung, nach einem Schadenfall und beim Fahrzeugwechsel können Sie früher kündigen. Dann gilt meist eine Frist von einem Monat.</p>",
+      "schritte": [
+        {
+          "titel": "Vergleichen",
+          "text": "Prüfen Sie Leistungen, nicht nur den Preis."
+        },
+        {
+          "titel": "Neuen Vertrag zuerst abschließen",
+          "text": "So bleibt das Fahrzeug durchgehend versichert."
+        },
+        {
+          "titel": "Alten Vertrag schriftlich kündigen",
+          "text": "Nennen Sie bei Sonderkündigung den Grund und wählen Sie einen Weg mit Nachweis."
+        },
+        {
+          "titel": "Nachweis aufbewahren",
+          "text": "Heben Sie Kündigung und Bestätigung auf."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "1 Monat vor Ablauf des Versicherungsjahres",
+          "was": "Ordentliche Kündigung; entspricht dem 30. November nur, wenn das Versicherungsjahr das Kalenderjahr ist",
+          "grundlage": "AKB (Vertragsklausel), nicht Gesetz"
+        },
+        {
+          "wert": "1 Monat",
+          "was": "Sonderkündigung nach Anerkennung oder Ablehnung im Versicherungsfall",
+          "grundlage": "§ 111 Abs. 2 VVG"
+        },
+        {
+          "wert": "1 Monat",
+          "was": "Sonderkündigung bei Beitragserhöhung: binnen 1 Monat nach Zugang der Mitteilung, sofort, frühestens zum Wirksamwerden der Erhöhung",
+          "grundlage": "§ 40 Abs. 1 VVG"
+        },
+        {
+          "wert": "1 Monat",
+          "was": "Sonderkündigung des Erwerbers bei Fahrzeugwechsel; Recht erlischt 1 Monat nach Erwerb bzw. Kenntnis",
+          "grundlage": "§ 96 VVG"
+        }
+      ],
+      "achtung": [
+        "Das Kündigungsschreiben muss rechtzeitig beim Versicherer eingehen.",
+        "Fahren ohne Versicherungsschutz ist nicht folgenlos. Die Folgen wurden hier nicht im Volltext geprüft.",
+        "Schadenfreiheitsklassen und Rabattschutz sind nicht im Volltext geprüft (siehe ADAC-Ratgeber im Wegweiser Verkehrsunfallopfer).",
+        "Vertragsbedingungen unterscheiden sich je Versicherer. Lesen Sie Ihre Bedingungen."
+      ],
+      "fach_html": "<h3>Versicherungspflicht (§ 1 PflVG)</h3><p>Der Halter eines Kraftfahrzeugs mit regelmäßigem Standort in Deutschland muss eine Haftpflichtversicherung abschließen und unterhalten. Sie muss Personenschäden, Sachschäden und sonstige Vermögensschäden abdecken, die durch die Nutzung des Fahrzeugs entstehen.</p><h3>Bescheinigung (§ 113 VVG)</h3><p>Bei Pflichtversicherungen muss der Versicherer bescheinigen, dass eine der Rechtsvorschrift entsprechende Pflichtversicherung besteht. Die Regeln gelten auch, wenn mehr als die Mindestdeckung versichert ist.</p><h3>eVB-Nummer</h3><p>Für i-Kfz nennt das BMV die Versicherungsbestätigung (eVB-Nummer) als Voraussetzung.</p><h3>Kündigung</h3><p>Die ordentliche Kündigung richtet sich nach den AKB: spätestens einen Monat vor Ablauf des Versicherungsjahres. Der 30. November gilt nur, wenn das Versicherungsjahr das Kalenderjahr ist; er ist keine gesetzliche Frist. Nach § 111 Abs. 2 VVG ist die Kündigung nach einem Versicherungsfall nur innerhalb eines Monats seit Anerkennung oder Ablehnung des Anspruchs (oder seit dem rechtskräftigen Urteil) möglich.</p><h3>Beitragserhöhung (§ 40 VVG)</h3><p>Erhöht der Versicherer aufgrund einer Anpassungsklausel den Beitrag ohne Änderung des Leistungsumfangs, können Sie binnen eines Monats nach Zugang der Mitteilung sofort kündigen, frühestens zum Wirksamwerden der Erhöhung. Der Versicherer muss die Erhöhung spätestens einen Monat vorher mitteilen und auf das Kündigungsrecht hinweisen. Abs. 2 gilt bei Leistungsminderung ohne Prämiensenkung. Nicht erfasst sind Änderungen von Typ-, Regionalklasse oder Schadenfreiheitsklasse.</p><h3>Fahrzeugwechsel (§ 96 VVG)</h3><p>Der Erwerber kann sofort oder zum Ende der Versicherungsperiode kündigen; das Recht erlischt einen Monat nach Erwerb bzw. Kenntnis (Abs. 2). Der Versicherer kann mit einer Frist von einem Monat kündigen, binnen eines Monats nach Kenntnis (Abs. 1).</p>",
+      "zustaendig": [
+        "Ihr Kfz-Versicherer",
+        "Zulassungsbehörde (eVB bei Zulassung)"
+      ],
+      "belege": [
+        "Bundesministerium der Justiz, PflVG § 1, abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, VVG §§ 40, 96, 111, 113, abgerufen 20.09.2026",
+        "ADAC, Sonderkündigungsrecht bei der Kfz-Versicherung, abgerufen 20.09.2026",
+        "Bundesministerium für Verkehr, i-Kfz, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "zulassung-an-ab-ummeldung",
+        "diebstahl-verlust"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "kfz-steuer",
+      "kategorie": "papiere",
+      "titel": "Kfz-Steuer und Befreiung für Elektroautos",
+      "icon": "💶",
+      "teaser": "Wie die Kfz-Steuer berechnet und gezahlt wird und wie lange reine Elektroautos befreit sind.",
+      "schlagworte": [
+        "Kfz-Steuer",
+        "Zoll",
+        "CO2",
+        "Hubraum",
+        "Elektroauto",
+        "Steuerbefreiung",
+        "SEPA"
+      ],
+      "kurz_html": "<p>Die Kfz-Steuer wird für ein Jahr im Voraus bezahlt. Betrag und Termin stehen in Ihrem Steuerbescheid. Der Zoll schickt keine jährliche Zahlungserinnerung. Am einfachsten ist die Lastschrift, dann verpassen Sie keinen Termin.</p><p>Reine Elektroautos sind zehn Jahre ab Erstzulassung von der Steuer befreit, längstens bis 31. Dezember 2035, wenn sie bis 31. Dezember 2030 erstmals zugelassen werden.</p>",
+      "schritte": [
+        {
+          "titel": "Bescheid lesen",
+          "text": "Betrag und Fälligkeit stehen im Steuerbescheid."
+        },
+        {
+          "titel": "Lastschrift einrichten",
+          "text": "Mit SEPA-Lastschrift zieht der Zoll am Fälligkeitstag ein."
+        },
+        {
+          "titel": "Abmeldung prüfen",
+          "text": "Nach Abmeldung erhalten Sie einen Bescheid und meist Guthaben zurück."
+        },
+        {
+          "titel": "E-Auto: Befreiung prüfen",
+          "text": "Kontrollieren Sie im Bescheid, ob die Befreiung eingetragen ist."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "1 Jahr im Voraus",
+          "was": "Regelfall der Entrichtung; halbjährlich (+3 %) bei Jahressteuer über 500 Euro, vierteljährlich (+6 %) über 1.000 Euro",
+          "grundlage": "§ 11 KraftStG"
+        },
+        {
+          "wert": "10 Jahre, längstens bis 31.12.2035",
+          "was": "Befreiung reiner Elektrofahrzeuge bei Erstzulassung bis 31.12.2030",
+          "grundlage": "§ 3d Abs. 1 KraftStG"
+        }
+      ],
+      "achtung": [
+        "Die Befreiung wird pro Fahrzeug nur einmal gewährt und geht bei Halterwechsel auf den neuen Halter über.",
+        "Bei Umrüstung gilt die Befreiung nur bei Umrüstung zwischen 18. Mai 2016 und 31. Dezember 2030 mit Allgemeiner Betriebserlaubnis für die Teile.",
+        "Steuerbeträge nach Hubraum und Schadstoffklasse wurden hier nicht vollständig wiedergegeben.",
+        "Plug-in-Hybride sind nicht reine Elektrofahrzeuge nach § 9 Abs. 2 KraftStG. Ob Sonderregeln gelten, wurde nicht im Volltext geprüft."
+      ],
+      "fach_html": "<h3>Bemessung (§ 9 KraftStG)</h3><p>Die Jahressteuer für Pkw richtet sich nach Hubraum je 100 Kubikzentimeter und CO2-Emission. Für Fahrzeuge ab dem 1. Januar 2021 gelten progressive Sätze von 2,00 bis 4,00 Euro je Gramm CO2 je Kilometer über 95 g/km. Ein Elektrofahrzeug ist ein Fahrzeug mit Antrieb ausschließlich durch Elektromotoren, die ganz oder überwiegend aus Energiespeichern oder emissionsfrei betriebenen Energiewandlern gespeist werden.</p><h3>Entrichtung (§ 11 KraftStG)</h3><p>Die Steuer ist jeweils für die Dauer eines Jahres im Voraus zu entrichten. Bei Jahressteuer über 500 Euro ist halbjährliche Zahlung mit 3 % Aufgeld möglich, über 1.000 Euro vierteljährliche mit 6 % (§ 11 Abs. 2 KraftStG). Beträge werden auf volle Euro abgerundet.</p><h3>Befreiung (§ 3d KraftStG)</h3><p>Befreit ist das Halten von Elektrofahrzeugen. Die Befreiung gilt bei erstmaliger Zulassung zwischen dem 18. Mai 2011 und dem 31. Dezember 2030 für zehn Jahre ab Zulassung, höchstens bis 31. Dezember 2035. Sie wird für jedes Fahrzeug einmal gewährt und geht bei Halterwechsel auf den neuen Halter über. Zeiten der Außerbetriebsetzung und Saisonzeiträume beeinflussen sie nicht.</p><h3>Gesetzgebung</h3><p>Der Bundestag beschloss die Verlängerung am 4. Dezember 2025, der Bundesrat am 19. Dezember 2025 (laut Suchtreffern; Bundesfinanzministerium-Pressemitteilung vom 15.10.2025 nur als Suchtreffer). Der Gesetzestext auf gesetze-im-internet.de nennt die Frist bis 31.12.2030 und 31.12.2035.</p>",
+      "zustaendig": [
+        "Zollverwaltung (Kraftfahrzeugsteuer)",
+        "Zulassungsbehörde (Meldung von Halterdaten)"
+      ],
+      "belege": [
+        "Bundesministerium der Justiz, KraftStG §§ 3d, 9, 11, abgerufen 20.09.2026",
+        "Zoll online, Kraftfahrzeugsteuer: Zahlung, Steuerbescheid, nur Suchtreffer, abgerufen 20.09.2026",
+        "Bundesfinanzministerium, Pressemitteilung Steuerbefreiung für Elektroautos (15.10.2025), nur Suchtreffer, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "zulassung-an-ab-ummeldung",
+        "hu-au-umweltzone"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "hu-au-umweltzone",
+      "kategorie": "papiere",
+      "titel": "Hauptuntersuchung (TÜV), Abgasuntersuchung, Umweltzone und Maut",
+      "icon": "🔍",
+      "teaser": "Wann Ihr Auto zur Hauptuntersuchung muss, was die Mängelklassen bedeuten und wo Umweltplakette und Maut gelten.",
+      "schlagworte": [
+        "HU",
+        "TÜV",
+        "Plakette",
+        "Mängel",
+        "Nachprüfung",
+        "Umweltzone",
+        "Maut",
+        "AU"
+      ],
+      "kurz_html": "<p>Ein Neuwagen muss nach 36 Monaten zur Hauptuntersuchung (HU), danach alle 24 Monate. Bei erheblichen Mängeln gibt es keine Plakette. Sie müssen die Mängel beheben und das Auto innerhalb von einem Monat zur Nachprüfung bringen.</p><p>In Umweltzonen brauchen Sie eine grüne Plakette. Eine allgemeine Pkw-Maut gibt es in Deutschland nicht. Im Ausland können Vignetten Pflicht sein.</p>",
+      "schritte": [
+        {
+          "titel": "Termin prüfen",
+          "text": "Schauen Sie auf die Prüfplakette am hinteren Kennzeichen und in der Zulassungsbescheinigung."
+        },
+        {
+          "titel": "Vorher kurz prüfen",
+          "text": "Achten Sie auf Licht, Reifen, Bremsen und Abgasanlage."
+        },
+        {
+          "titel": "Bericht lesen",
+          "text": "Der Prüfbericht nennt die Mängel und die Klasse."
+        },
+        {
+          "titel": "Nachprüfung",
+          "text": "Bei erheblichen Mängeln bringen Sie das Auto nach der Reparatur zur Nachprüfung."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "36 Monate / 24 Monate",
+          "was": "Erste HU nach Erstzulassung / danach",
+          "grundlage": "Anlage VIII StVZO, Nr. 2.1.2.1.1 und 2.1.2.1.2"
+        },
+        {
+          "wert": "1 Monat",
+          "was": "Nachprüfung bei erheblichen Mängeln",
+          "grundlage": "Anlage VIII StVZO, Nr. 3.1.4.3"
+        },
+        {
+          "wert": "100 Euro, keine Punkte",
+          "was": "Einfahren in die Umweltzone ohne gültige Plakette",
+          "grundlage": "BKatV Anlage, lfd. Nr. 153"
+        }
+      ],
+      "achtung": [
+        "Bei verkehrsunsicheren Fahrzeugen erfolgt eine unmittelbare Betriebsuntersagung und die Plakette wird entfernt (Nr. 3.1.4.5).",
+        "Die Regeln zur Abgasuntersuchung (AU) wurden nicht im Volltext geprüft.",
+        "Umweltzonen legen die Kommunen fest. Ob Ihre Stadt eine hat, prüfen Sie beim Umweltbundesamt oder der Stadt (Landesrecht nicht erhoben).",
+        "Ausländische Mautsysteme (Vignette) ändern sich. Prüfen Sie vor Reiseantritt bei der Betreiberstelle."
+      ],
+      "fach_html": "<h3>Grundnorm (§ 29 StVZO)</h3><p>Die Halter haben ihre Fahrzeuge auf ihre Kosten nach Maßgabe der Anlage VIII in Verbindung mit Anlage VIIIa in regelmäßigen Zeitabständen untersuchen zu lassen.</p><h3>Fristen und Mängelklassen (Anlage VIII)</h3><p>Erstuntersuchung nach 36 Monaten (Nr. 2.1.2.1.1), danach 24 Monate (Nr. 2.1.2.1.2). Klassen: keine Mängel (Plakette, Nr. 3.1.4.1); geringe Mängel (Eintrag im Bericht, Behebung, Nr. 3.1.4.2); erhebliche Mängel (keine Plakette, Nachprüfung spätestens bis zum Ablauf von einem Monat, Nr. 3.1.4.3); gefährliche Mängel (Frist von einem Monat ab dem Tag der Hauptuntersuchung, Nr. 3.1.4.4); verkehrsunsicher (unmittelbare Betriebsuntersagung, Nr. 3.1.4.5).</p><h3>Umweltzone</h3><p>Welche Städte Umweltzonen haben, zeigt die UBA-Umweltzonenkarte (gis.uba.de/website/umweltzonen/). Nach Suchtreffern wird überall die grüne Plakette akzeptiert. Wer ohne Plakette einfährt, zahlt 100 Euro, ohne Punkt (BKatV, Anlage lfd. Nr. 153).</p><h3>Maut (nur Suchtreffer)</h3><p>Eine allgemeine Pkw-Maut gibt es nach Suchtreffern in Deutschland nicht. Die Lkw-Maut betrifft nach BFStrMG Fahrzeuge über 3,5 Tonnen zulässiges Gesamtgewicht. In Österreich und der Schweiz gilt eine Vignettenpflicht; Details wurden nicht geprüft.</p><h3>Nicht geprüft</h3><p>Toleranzzeit nach Ablauf der Plakette und Bußgeld für überfällige HU.</p><h3>Landesrecht (Stichprobe BY/NRW/BE)</h3><p>Stichprobe, nicht vollständig, Landesrecht weicht ab. Die Kfz-Steuer ist Bundesrecht. Welche Städte in Bayern, Nordrhein-Westfalen und Berlin Umweltzonen oder Fahrverbote haben, richtet sich nach den örtlichen Luftreinhalteplänen; diese wurden nicht im Volltext geprüft, bitte die UBA-Umweltzonenkarte und die Stadt fragen. Ebenso nicht geprüft: Zuständigkeit der Zulassungs- und Bußgeldstellen nach Landesrecht.</p>",
+      "zustaendig": [
+        "Prüforganisationen (amtlich anerkannte Überwachungsorganisationen)",
+        "Zulassungsbehörde",
+        "Kommune (Umweltzone)"
+      ],
+      "belege": [
+        "Bundesministerium der Justiz, StVZO § 29 und Anlage VIII, abgerufen 20.09.2026",
+        "Umweltbundesamt, Umweltzonenkarte (gis.uba.de/website/umweltzonen/); BKatV Anlage lfd. Nr. 153; Umweltplakette, Suchtreffer bussgeldkatalog.de und ADAC, abgerufen 20.09.2026",
+        "Pkw-Maut Deutschland und Nachbarländer, Suchtreffer (u. a. ADAC-Mautseite), abgerufen 20.09.2026",
+        "Landesrecht-Stichprobe BY/NRW/BE: nicht im Volltext geprüft, abgerufen 21.09.2026"
+      ],
+      "siehe_auch": [
+        "werkstatt-reparatur-rueckruf",
+        "zulassung-an-ab-ummeldung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "bussgeld-punkte",
+      "kategorie": "verstoesse",
+      "titel": "Bußgeldkatalog, Punkte und Fahreignungsregister",
+      "icon": "🚦",
+      "teaser": "Wie Verwarnung, Bußgeld und Punkte zusammenhängen, wann Punkte gelöscht werden und wie Verjährung wirkt.",
+      "schlagworte": [
+        "Bußgeldkatalog",
+        "Punkte",
+        "Flensburg",
+        "Fahreignungsregister",
+        "Tilgung",
+        "Verjährung",
+        "Verwarnungsgeld",
+        "Seminar"
+      ],
+      "kurz_html": "<p>Kleine Verstöße kosten ein Verwarnungsgeld von 5 bis 55 Euro. Sie sollen es in der Regel innerhalb einer Woche zahlen. Bei größeren Verstößen kommt ein Bußgeldbescheid. Dann gibt es oft auch Punkte im Fahreignungsregister.</p><p>Bei 4 oder 5 Punkten werden Sie ermahnt, bei 6 oder 7 verwarnt. Bei 8 Punkten wird die Fahrerlaubnis entzogen. Punkte verfallen nach Fristen, zum Beispiel nach 2,5 Jahren bei Ordnungswidrigkeiten mit einem Punkt.</p>",
+      "schritte": [
+        {
+          "titel": "Schreiben prüfen",
+          "text": "Lesen Sie Zustellungsdatum, Tatvorwurf und Frist."
+        },
+        {
+          "titel": "Entscheiden",
+          "text": "Zahlen oder Einspruch. Ein Einspruch geht nur binnen zwei Wochen."
+        },
+        {
+          "titel": "Punktestand kennen",
+          "text": "Fragen Sie beim Kraftfahrt-Bundesamt nach Ihrem Punktestand (Verfahren nicht im Volltext geprüft)."
+        },
+        {
+          "titel": "Seminar erwägen",
+          "text": "Bei 1 bis 5 Punkten kann ein Fahreignungsseminar einen Punkt abziehen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "5 bis 55 Euro; eine Woche",
+          "was": "Verwarnungsgeld und übliche Zahlungsfrist",
+          "grundlage": "§ 56 OWiG"
+        },
+        {
+          "wert": "2,5 / 5 / 10 Jahre",
+          "was": "Tilgungsfristen im Fahreignungsregister je nach Delikt",
+          "grundlage": "§ 29 StVG"
+        },
+        {
+          "wert": "6 Monate",
+          "was": "Verfolgungsverjährung bei Verkehrsordnungswidrigkeiten seit 01.07.2026 einheitlich; Sonderfristen 2 und 5 Jahre bleiben",
+          "grundlage": "§ 26 Abs. 3 S. 1 StVG"
+        }
+      ],
+      "achtung": [
+        "Verwarnung nur wirksam, wenn Sie nach Belehrung zustimmen (§ 56 OWiG).",
+        "Ein Seminarabzug ist nur einmal innerhalb von fünf Jahren möglich.",
+        "Die Verjährung wird unterbrochen, zum Beispiel durch die Bekanntgabe des Ermittlungsverfahrens (§ 33 OWiG). Sie endet aber spätestens nach dem Doppelten der Frist, mindestens zwei Jahren.",
+        "Konkrete Regelsätze des Bußgeldkatalogs (Tabellen) wurden nicht im Volltext geprüft."
+      ],
+      "fach_html": "<h3>Bußgeldkatalog</h3><p>Die Bußgeldkatalog-Verordnung (BKatV) regelt Verwarnung, Regelsätze für Geldbußen und Regelfahrverbote im Straßenverkehr mit Tabellen in der Anlage. Einzelbeträge wurden nicht im Volltext geprüft.</p><h3>Verwarnung (§ 56 OWiG)</h3><p>Verwarnungsgeld von fünf bis fünfundfünfzig Euro. Zahlung sofort oder innerhalb einer Frist, die eine Woche betragen soll. Nach wirksamer Verwarnung kann die Tat unter denselben Umständen nicht mehr verfolgt werden.</p><h3>Punktesystem (§ 4 StVG, Anlage 13 FeV)</h3><p>1 bis 3 Punkte: Vormerkung. 4 oder 5 Punkte: schriftliche Ermahnung. 6 oder 7 Punkte: schriftliche Verwarnung. Ab 8 Punkten gilt der Inhaber als ungeeignet und die Fahrerlaubnis ist zu entziehen. Anlage 13 ordnet Delikte zu: 3 Punkte für bestimmte Straftaten mit Entziehung oder Sperre (etwa Trunkenheit im Verkehr), 2 Punkte für weitere Straftaten und besonders gewichtige Ordnungswidrigkeiten, 1 Punkt für sonstige Ordnungswidrigkeiten. Bei freiwilliger Seminarteilnahme wird bei 1 bis 5 Punkten ein Punkt abgezogen, höchstens einmal innerhalb von fünf Jahren.</p><h3>Tilgung (§ 29 StVG)</h3><p>2,5 Jahre für Entscheidungen über eine Ordnungswidrigkeit mit einem Punkt; 5 Jahre für Straftaten grundsätzlich, für Ordnungswidrigkeiten mit zwei Punkten und Seminarteilnahmen; 10 Jahre bei Straftaten mit Fahrerlaubnisentzug. Beginn mit Rechtskraft. Bei Eignungsmängeln beginnt die Frist erst mit Neuerteilung, höchstens 5 Jahre nach Rechtskraft. Bei manchen Eintragungen folgt eine einjährige Überliegefrist.</p><h3>Verjährung (§ 26 StVG, § 33 OWiG)</h3><p>Seit 01.07.2026 gilt einheitlich eine Frist von 6 Monaten (§ 26 Abs. 3 S. 1 StVG, 5. StVG-Änderungsgesetz vom 12.05.2026, BGBl. 2026 I Nr. 142); die frühere Zweistufigkeit (3 Monate, nach Bescheid 6 Monate) entfällt. Für Taten vor dem 01.07.2026, deren 3-Monatsfrist noch läuft, gilt die neue Frist (Übergangsregel nicht im Volltext geprüft). Die Sonderfristen bleiben: 2 Jahre (Bauartgenehmigung) und 5 Jahre (§ 24 Abs. 2 S. 1 Nr. 1 Buchst. c und d, Nr. 2 Buchst. c und d). Unterbrechungen: unter anderem erste Vernehmung, Bekanntgabe des Ermittlungsverfahrens, Erlass des Bußgeldbescheids (wenn binnen zwei Wochen zugestellt, sonst Zustellung).</p><h3>Punktehandel (§ 4c StVG)</h3><p>Seit 01.07.2026 ist verboten, die Behörde über den tatsächlich Beteiligten einer Tat zu täuschen (sogenannter Punktehandel). Die Geldbuße beträgt bis zu 30.000 Euro (Bußgeldrahmen nicht im Volltext geprüft; § 4c StVG enthält nur das Verbot). Betroffen sind Halter und Fahrer sowie gewerbliche Anbieter.</p>",
+      "zustaendig": [
+        "Bußgeldstelle laut Bescheid",
+        "Kraftfahrt-Bundesamt (Fahreignungsregister)",
+        "Fahrerlaubnisbehörde vor Ort"
+      ],
+      "belege": [
+        "Bundesministerium der Justiz, OWiG §§ 33, 56, abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, StVG §§ 4, 4c, 26, 29, abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, FeV Anlage 13, abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, BKatV (Inhaltsübersicht), abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "fahrverbot-einspruch",
+        "probezeit-entziehung-mpu"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "fahrverbot-einspruch",
+      "kategorie": "verstoesse",
+      "titel": "Fahrverbot und Einspruch gegen den Bußgeldbescheid",
+      "icon": "🛑",
+      "teaser": "Wie lange ein Fahrverbot dauert, wann es beginnt und wie Sie fristgerecht Einspruch einlegen.",
+      "schlagworte": [
+        "Fahrverbot",
+        "Einspruch",
+        "Bußgeldbescheid",
+        "zwei Wochen",
+        "Führerschein abgeben",
+        "Rechtskraft",
+        "Viermonatsfrist"
+      ],
+      "kurz_html": "<p>Ein Fahrverbot dauert einen bis drei Monate. Es wirkt erst, wenn der Bescheid rechtskräftig ist und der Führerschein bei der Behörde liegt oder das Verbot eingetragen ist. Regel: spätestens einen Monat nach Rechtskraft wird es wirksam; unter Voraussetzungen bis zu vier Monate (§ 25 Abs. 3 StVG).</p><p>Gegen einen Bußgeldbescheid können Sie innerhalb von zwei Wochen nach Zustellung Einspruch einlegen. Das geht schriftlich oder zur Niederschrift bei der Behörde. Sie können den Einspruch auf einzelne Punkte beschränken.</p>",
+      "schritte": [
+        {
+          "titel": "Zustellung datieren",
+          "text": "Notieren Sie den Tag, an dem der Bescheid Sie erreicht hat."
+        },
+        {
+          "titel": "Einspruch schriftlich",
+          "text": "Senden Sie ihn an die Behörde im Bescheid, mit Beleg über den Zugang."
+        },
+        {
+          "titel": "Rat holen",
+          "text": "Klären Sie beim Anwalt oder Verbraucherstelle, ob sich der Einspruch lohnt."
+        },
+        {
+          "titel": "Führerschein abgeben",
+          "text": "Bei rechtskräftigem Fahrverbot: Führerschein an die Behörde geben."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "2 Wochen",
+          "was": "Einspruch nach Zustellung des Bußgeldbescheids",
+          "grundlage": "§ 67 OWiG"
+        },
+        {
+          "wert": "1 bis 3 Monate",
+          "was": "Dauer des Fahrverbots",
+          "grundlage": "§ 25 StVG"
+        },
+        {
+          "wert": "spätestens 1 Monat nach Rechtskraft",
+          "was": "Wirksamwerden des Fahrverbots",
+          "grundlage": "§ 25 StVG"
+        },
+        {
+          "wert": "bis 4 Monate nach Rechtskraft",
+          "was": "Wirksamwerden des Fahrverbots bei Ersttäterprivileg oder Beginn-Erklärung (seit 01.06.2026)",
+          "grundlage": "§ 25 Abs. 3 StVG"
+        }
+      ],
+      "achtung": [
+        "Die Zweiwochenfrist läuft nach Zustellung. Eine Frist versäumt heißt: Bescheid wird rechtskräftig.",
+        "Bei mehreren Fahrverboten werden die Fristen nacheinander berechnet.",
+        "Die Viermonatsfrist steht seit 01.06.2026 in § 25 Abs. 3 StVG (nicht in Abs. 2a; Abs. 2a regelt die amtliche Verwahrung).",
+        "Wiedereinsetzung bei versäumter Frist wurde nicht geprüft."
+      ],
+      "fach_html": "<h3>Einspruch (§ 67 OWiG)</h3><p>Der Betroffene kann gegen den Bußgeldbescheid innerhalb von zwei Wochen nach Zustellung schriftlich oder zur Niederschrift bei der Verwaltungsbehörde, die den Bescheid erlassen hat, Einspruch einlegen. Er kann sich auf einzelne Beschwerdepunkte beschränken.</p><h3>Fahrverbot (§ 25 StVG)</h3><p>Dauer ein bis drei Monate. Bei bestimmten Ordnungswidrigkeiten nach § 24a ist es in der Regel anzuordnen. Es wird wirksam, wenn der Führerschein in amtliche Verwahrung gelangt oder das Fahrverbot im Inland in ihm vermerkt ist, spätestens einen Monat nach Eintritt der Rechtskraft der Bußgeldentscheidung. Seit 01.06.2026 (Gesetz zur Neuregelung der Vollstreckung von Fahrverboten) gilt zusätzlich § 25 Abs. 3 StVG. Ersttäterprivileg: War in den zwei Jahren vor der Tat kein Fahrverbot rechtskräftig (und bis zur Entscheidung auch nicht), hat die Behörde oder das Gericht zu bestimmen, dass das Fahrverbot spätestens vier Monate nach Rechtskraft wirksam wird (gebunden, kein Ermessen). Beginn-Erklärung: Der Betroffene kann per schriftlicher oder elektronischer Erklärung den Beginn abstrakt nach Tagen, Wochen oder Monaten binnen ein bis vier Monaten nach Rechtskraft benennen (§ 25 Abs. 3 Nr. 2 Buchst. a StVG); ohne Erklärung wird es mit Ablauf von vier Monaten wirksam (Nr. 2 Buchst. b). Die Grundregel des § 25 Abs. 2 (ein Monat) bleibt. Nach Abs. 2a werden deutsche und (bei Wohnsitz im Inland) EU/EWR-Führerscheine amtlich verwahrt, ausländische Führerscheine vermerkt; nicht freiwillig herausgegebene können beschlagnahmt werden. Die Frist läuft ab amtlicher Verwahrung oder Vermerk.</p><h3>Kosten und Erfolgsaussichten</h3><p>Nicht im Volltext geprüft: Kosten des Einspruchs, Rechtsschutzversicherung, Erfolgsquoten, Absehen vom Fahrverbot gegen erhöhte Geldbuße.</p>",
+      "zustaendig": [
+        "Bußgeldstelle laut Bescheid",
+        "Amtsgericht (im Einspruchsverfahren)",
+        "Fahrerlaubnisbehörde"
+      ],
+      "belege": [
+        "Bundesministerium der Justiz, OWiG § 67, abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, StVG § 25, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "bussgeld-punkte",
+        "probezeit-entziehung-mpu"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "fuehrerschein-umtausch",
+      "kategorie": "fuehrerschein",
+      "titel": "Führerschein: Umtausch, EU-Führerschein und Verlängerung",
+      "icon": "🪪",
+      "teaser": "Welche Umtauschfristen gelten, wie lange neue Führerscheine gültig sind und was bei EU- und Nicht-EU-Führerscheinen gilt.",
+      "schlagworte": [
+        "Umtausch",
+        "Führerschein",
+        "Frist 2027",
+        "15 Jahre",
+        "EU-Führerschein",
+        "Papierführerschein",
+        "Umschreibung"
+      ],
+      "kurz_html": "<p>Führerscheine, die vor dem 19. Januar 2013 ausgestellt wurden, müssen in den neuen EU-Führerschein getauscht werden. Die Fristen hängen bei Papierführerscheinen vom Geburtsjahr ab und bei Kartenführerscheinen vom Ausstellungsjahr.</p><p>Führerscheine ab dem 19. Januar 2013 sind 15 Jahre gültig. Zur Verlängerung brauchen Sie laut Bundesregierung keine neue Fahrprüfung und keine ärztliche Untersuchung.</p>",
+      "schritte": [
+        {
+          "titel": "Ausstellungsjahr prüfen",
+          "text": "Bei Kartenführerschein: Feld 4a. Bei Papierführerschein: Ihr Geburtsjahr."
+        },
+        {
+          "titel": "Frist nachschlagen",
+          "text": "Die Tabelle steht bei Bundesregierung und ADAC."
+        },
+        {
+          "titel": "Unterlagen",
+          "text": "Personalausweis oder Reisepass, biometrisches Foto, alter Führerschein."
+        },
+        {
+          "titel": "Termin bei der Behörde",
+          "text": "Die Führerscheinstelle vor Ort stellt den neuen aus (Gebühr etwa 25 Euro laut Bundesregierung)."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "19.01.2026 (abgelaufen)",
+          "was": "Umtausch Kartenführerscheine, ausgestellt 1999 bis 2001: Gültigkeit verloren, Umtausch dringend",
+          "grundlage": "§ 24a Abs. 2 FeV, Anlage 8e"
+        },
+        {
+          "wert": "19.01.2027",
+          "was": "Umtausch Kartenführerscheine, ausgestellt 2002 bis 2004",
+          "grundlage": "Bundesregierung, FAQ Führerscheinumtausch"
+        },
+        {
+          "wert": "19.01.2028",
+          "was": "Umtausch Kartenführerscheine, ausgestellt 2005 bis 2007",
+          "grundlage": "Bundesregierung, FAQ Führerscheinumtausch"
+        },
+        {
+          "wert": "19.01.2033",
+          "was": "Späteste Frist für alle; vor 1953 Geborene; Ausstellungsjahr 2012 bis 18.01.2013 (2008 bis 2011 gestaffelt bis 2032)",
+          "grundlage": "Bundesregierung; § 24a FeV, Anlage 8e"
+        },
+        {
+          "wert": "15 Jahre",
+          "was": "Gültigkeit von Führerscheinen ab 19.01.2013",
+          "grundlage": "§ 24a FeV"
+        }
+      ],
+      "achtung": [
+        "Wer nicht rechtzeitig tauscht, riskiert laut Bundesregierung ein Verwarnungsgeld von 10 Euro.",
+        "Maßgeblich ist Anlage 8e FeV. Bei Zweifeln fragen Sie Ihre Führerscheinstelle.",
+        "Nicht-EU-Führerschein: Nach Wohnsitznahme gilt die Berechtigung sechs Monate (§ 29 FeV).",
+        "Die Umschreibung ausländischer Führerscheine hat Ausnahmen, etwa bei Wohnsitz schon bei Ausstellung."
+      ],
+      "fach_html": "<h3>Befristung (§ 24a FeV)</h3><p>Die Gültigkeit der ab dem 19. Januar 2013 ausgestellten Führerscheine ist auf 15 Jahre befristet. Ältere sind nach Anlage 8e umzutauschen. Nach Ablauf der Frist verliert der Führerschein seine Gültigkeit. Kartenführerscheine ab 1999 können nachträglich per Gültigkeitsaufkleber befristet werden (nur im Inland gültig).</p><h3>Tabelle (Anlage 8e FeV)</h3><p>Papierführerscheine nach Geburtsjahr: 1953 bis 1958 bis 19.07.2022; 1959 bis 1964 bis 19.01.2023; 1965 bis 1970 bis 19.01.2024; 1971 oder später bis 19.01.2025; vor 1953 bis 19.01.2033. Kartenführerscheine nach Ausstellungsjahr: 1999 bis 2001 bis 19.01.2026 (bereits abgelaufen: Die Gültigkeit ist nach § 24a Abs. 2 FeV verloren, Umtausch dringend); 2002 bis 2004 bis 19.01.2027; 2005 bis 2007 bis 19.01.2028; 2008 bis 19.01.2029; 2009 bis 19.01.2030; 2010 bis 19.01.2031; 2011 bis 19.01.2032; 2012 bis 18.01.2013 bis 19.01.2033.</p><h3>EU/EWR-Führerschein (§§ 28, 30 FeV)</h3><p>Inhaber gültiger EU- oder EWR-Führerscheine dürfen mit ordentlichem Wohnsitz in Deutschland fahren. Ausnahmen: Lernführerschein, Wohnsitz schon bei Erwerb (außer Studierende und Schüler mit mindestens sechs Monaten Aufenthalt), Entziehung oder Fahrverbot im Inland. Bei Umschreibung in einen deutschen Führerschein wird der ausländische gegen Abgabe getauscht; Ausstellungsdatum und Herkunftsland werden vermerkt (§ 30 FeV).</p><h3>Nicht-EU (§ 29 FeV)</h3><p>Bei Wohnsitz in Deutschland besteht die Berechtigung noch sechs Monate; auf Antrag Verlängerung um weitere sechs Monate, wenn der Aufenthalt höchstens 12 Monate dauert. Ein Nachweis (Führerschein, ggf. beglaubigte Übersetzung) ist nötig.</p><h3>Digitaler Führerschein (§ 2d StVG)</h3><p>Der digitale Führerschein wird über das Kraftfahrt-Bundesamt bereitgestellt und ist für Kartenführerscheine ab Ausstellung 01.01.1999 vorgesehen. Er entbindet von der Mitführpflicht der Karte; die Karte bleibt gültig. Der Start liegt später als der 01.07.2026 (angestrebt Ende 2026, nicht bestätigt).</p>",
+      "zustaendig": [
+        "Führerscheinstelle (Fahrerlaubnisbehörde) vor Ort",
+        "Kraftfahrt-Bundesamt (zentrales Register)"
+      ],
+      "belege": [
+        "Bundesregierung, Führerschein umtauschen: Diese Fristen gelten, abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, StVG § 2d; FeV §§ 24a, 28, 29, 30, abgerufen 20.09.2026",
+        "ADAC, Führerschein-Umtausch Fristen, nur Suchtreffer, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "probezeit-entziehung-mpu",
+        "bussgeld-punkte"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "probezeit-entziehung-mpu",
+      "kategorie": "fuehrerschein",
+      "titel": "Probezeit, Entziehung der Fahrerlaubnis und MPU",
+      "icon": "🧪",
+      "teaser": "Wie die Probezeit funktioniert, wann die Fahrerlaubnis entzogen wird und wann eine MPU verlangt werden kann.",
+      "schlagworte": [
+        "Probezeit",
+        "Aufbauseminar",
+        "Entziehung",
+        "MPU",
+        "Führerscheinentzug",
+        "Eignung",
+        "Alkohol"
+      ],
+      "kurz_html": "<p>Neue Führerscheine gelten zwei Jahre auf Probe. Bei Verstößen gibt es ein Aufbauseminar, danach eine Verwarnung, dann die Entziehung der Fahrerlaubnis.</p><p>Die Behörde muss die Fahrerlaubnis entziehen, wenn jemand ungeeignet ist, zum Beispiel bei 8 Punkten. Bei Zweifeln kann sie eine medizinisch-psychologische Untersuchung (MPU) verlangen. Wer sie ohne Grund nicht macht, darf als ungeeignet gelten.</p>",
+      "schritte": [
+        {
+          "titel": "Schreiben ernst nehmen",
+          "text": "Anordnungen der Fahrerlaubnisbehörde haben Fristen."
+        },
+        {
+          "titel": "Beratung holen",
+          "text": "Bei MPU-Anordnung Rat suchen, etwa bei Verkehrsanwälten oder Beratungsstellen."
+        },
+        {
+          "titel": "Gutachten fristgerecht vorlegen",
+          "text": "Sonst darf auf Nichteignung geschlossen werden."
+        },
+        {
+          "titel": "Neuerteilung planen",
+          "text": "Nach Entziehung gelten Sperr- und Nachweisregeln (nicht im Volltext geprüft)."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "2 Jahre",
+          "was": "Dauer der Probezeit",
+          "grundlage": "§ 2a StVG"
+        },
+        {
+          "wert": "8 Punkte",
+          "was": "Entziehung der Fahrerlaubnis",
+          "grundlage": "§ 4 Abs. 5 StVG"
+        },
+        {
+          "wert": "1,6 Promille / 0,8 mg/l",
+          "was": "Schwelle für MPU bei Alkohol am Steuer",
+          "grundlage": "§ 13 FeV"
+        }
+      ],
+      "achtung": [
+        "Widerspruch gegen Seminaranordnung oder Entziehung hat bei Probezeit keine aufschiebende Wirkung (§ 2a StVG).",
+        "Die Fahrerlaubnis erlischt mit der Entziehung. Der Führerschein ist abzugeben (§ 3 StVG).",
+        "Bei Nichtvorlage eines geforderten Gutachtens darf die Behörde auf Nichteignung schließen. Sie muss darauf hinweisen (§ 11 Abs. 8 FeV).",
+        "Sperrfristen bei Neuerteilung und Kosten einer MPU wurden nicht geprüft."
+      ],
+      "fach_html": "<h3>Probezeit (§ 2a StVG)</h3><p>Bei erstmaligem Erwerb wird die Fahrerlaubnis auf Probe erteilt; die Probezeit dauert zwei Jahre. Sie verlängert sich um zwei Jahre, wenn ein Aufbauseminar angeordnet wird. Stufen: erste Auffälligkeit Aufbauseminar, zweite Verwarnung mit Empfehlung einer psychologischen Beratung, dritte Entziehung. Für Neuerteilung nach Entziehung ist der Nachweis der Teilnahme am Aufbauseminar nötig. Die Regeln gelten sinngemäß auch für EU/EWR-Inhaber, die nach Deutschland ziehen (Vorbesitzzeit wird angerechnet).</p><h3>Entziehung (§ 3 StVG)</h3><p>Die Behörde muss die Fahrerlaubnis entziehen, wenn jemand als ungeeignet oder nicht befähigt gilt. Mit der Entziehung erlischt sie. Solange ein Strafverfahren läuft, in dem eine Entziehung möglich ist, darf die Behörde die Sachverhalte nicht berücksichtigen. An Strafurteile ist sie gebunden.</p><h3>Eignungsgutachten (§ 11, § 13 FeV)</h3><p>Bei Zweifeln kann ein ärztliches Gutachten verlangt werden. Ein medizinisch-psychologisches Gutachten wird besonders bei erheblichen oder wiederholten Verstößen verlangt. § 13 FeV nennt bei Alkohol unter anderem: wiederholte Zuwiderhandlungen, Führen eines Fahrzeugs mit 1,6 Promille oder mehr (Atemalkohol 0,8 mg/l oder mehr) sowie frühere Entziehung wegen Alkohol.</p><h3>Nicht im Volltext geprüft</h3><p>Betäubungsmittel und Cannabis (Rechtsänderungen), Fristen für Neuerteilung, Kosten und Ablauf der MPU, Anerkennung der Gutachterstellen.</p>",
+      "zustaendig": [
+        "Fahrerlaubnisbehörde vor Ort",
+        "Kraftfahrt-Bundesamt (Fahreignungsregister)",
+        "Begutachtungsstelle für Fahreignung (laut Anordnung)"
+      ],
+      "belege": [
+        "Bundesministerium der Justiz, StVG §§ 2a, 3, 4, abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, FeV §§ 11, 13, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "bussgeld-punkte",
+        "fahrverbot-einspruch",
+        "fuehrerschein-umtausch"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "parken-abschleppen-halterhaftung",
+      "kategorie": "verstoesse",
+      "titel": "Parken, Knöllchen, Abschleppen und Halterhaftung",
+      "icon": "🅿️",
+      "teaser": "Was als Parken gilt, wann der Halter für Parkverstöße die Kosten trägt und wie Abschleppkosten begrenzt sind.",
+      "schlagworte": [
+        "Parken",
+        "Knöllchen",
+        "Abschleppen",
+        "Halterhaftung",
+        "Kostentragung",
+        "Privatgrund",
+        "Verwarnungsgeld"
+      ],
+      "kurz_html": "<p>Wer sein Auto verlässt oder länger als drei Minuten hält, parkt. Es gibt Parkverbote, zum Beispiel vor Grundstückseinfahrten und über Schachtdeckeln.</p><p>Wird bei einem Parkverstoß der Fahrer nicht gefunden, kann die Behörde die Verfahrenskosten dem Halter auferlegen. Das ist nur ein Kostenbescheid, kein Bußgeld für den Halter. Beim Abschleppen dürfen nur ortsübliche Kosten verlangt werden.</p>",
+      "schritte": [
+        {
+          "titel": "Beweise sichern",
+          "text": "Fotografieren Sie Schilder und Fahrzeug."
+        },
+        {
+          "titel": "Bescheid prüfen",
+          "text": "Kostenbescheid des Halters und Fahrerermittlung unterscheiden."
+        },
+        {
+          "titel": "Abschleppen",
+          "text": "Fordern Sie eine detaillierte Rechnung. Zahlen Sie im Zweifel nur unter Vorbehalt."
+        },
+        {
+          "titel": "Rat holen",
+          "text": "Bei hohen Forderungen Verkehrsanwalt oder Verbraucherzentrale fragen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "3 Minuten",
+          "was": "Länger halten gilt als Parken",
+          "grundlage": "§ 12 StVO"
+        },
+        {
+          "wert": "5 bis 55 Euro; eine Woche",
+          "was": "Verwarnungsgeld bei einfachem Parkverstoß",
+          "grundlage": "§ 56 OWiG"
+        }
+      ],
+      "achtung": [
+        "§ 25a StVG erfasst nur ruhenden Verkehr (Halten und Parken), nicht Geschwindigkeits- oder andere Verstöße im fließenden Verkehr.",
+        "Der Halter kann sich auf Unbilligkeit berufen. Er hat Anspruch auf Anhörung.",
+        "Ein Abschleppen auf Privatgrund folgt zivilrechtlichen Regeln. Nach BGH (04.07.2014, V ZR 229/13) sind nur ortsübliche Abschleppkosten erstattungsfähig.",
+        "Regeln zu Parkausweisen, Bewohnerparken und Parkgebühren sind kommunal (Landesrecht nicht erhoben)."
+      ],
+      "fach_html": "<h3>Halten und Parken (§ 12 StVO)</h3><p>Halten ist unter anderem an engen und unübersichtlichen Stellen, in scharfen Kurven, auf Bahnübergängen und vor Feuerwehrzufahrten unzulässig. Parkverbote gibt es unter anderem in Abständen von 5 bis 8 Metern zu Kreuzungen und Einmündungen, vor Grundstückszufahrten, über Schachtdeckeln und vor Bordsteinabsenkungen. Es ist platzsparend zu parken.</p><h3>Kostentragung des Halters (§ 25a StVG)</h3><p>Kann bei einem Halt- oder Parkverstoß der Fahrer nicht oder nur mit unangemessenem Aufwand ermittelt werden, werden dem Halter oder seinem Beauftragten die Kosten des Verfahrens und seine Auslagen auferlegt. Ausnahme: Es wäre unbillig. Der Halter hat Anspruch auf Anhörung und kann gerichtliche Entscheidung beantragen.</p><h3>Halterhaftung im Betrieb (§ 7 StVG)</h3><p>Der Halter haftet für Schäden beim Betrieb des Fahrzeugs; Ausnahme höhere Gewalt. Bei Schwarzfahrt haftet der Nutzer, der Halter bleibt haftbar, wenn er die Nutzung fahrlässig ermöglicht hat. Einzelheiten der Unfallhaftung: Wegweiser Verkehrsunfallopfer.</p><h3>Abschleppen</h3><p>Nach ADAC muss polizeiliches Abschleppen verhältnismäßig sein. Leerfahrt zahlt, wer erst nach Erscheinen des Wagens zurückkommt. BGH, 04.07.2014, V ZR 229/13: nur ortsübliche Abschleppkosten sind erstattungsfähig. BGH, 11.03.2016, V ZR 102/15: Kosten der Halterermittlung sind ersatzfähig, Überwachungs- und Inkassopauschalen nicht. Bei Streit kann der Betrag beim Amtsgericht hinterlegt werden.</p><h3>Automatisierte Parkraumkontrolle (§ 63g StVG)</h3><p>§ 63g StVG regelt die automatisierte Parkraumkontrolle (Scancars) mit Anonymisierungs- und Löschpflichten.</p>",
+      "zustaendig": [
+        "Bußgeld- und Verwarnungsbehörde der Kommune",
+        "Amtsgericht (bei Streit)",
+        "Ordnungsamt (Abschleppanordnung)"
+      ],
+      "belege": [
+        "Bundesministerium der Justiz, StVO § 12, StVG §§ 7, 25a, 63g, OWiG § 56, abgerufen 20.09.2026",
+        "ADAC, Auto abgeschleppt: Kosten und Rechte, abgerufen 20.09.2026",
+        "BGH, Urteile vom 04.07.2014 (V ZR 229/13) und 11.03.2016 (V ZR 102/15); ADAC"
+      ],
+      "siehe_auch": [
+        "bussgeld-punkte",
+        "fahrverbot-einspruch"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "gebrauchtwagenkauf",
+      "kategorie": "kauf",
+      "titel": "Gebrauchtwagenkauf: Gewährleistung und Rückabwicklung",
+      "icon": "🔑",
+      "teaser": "Welche Rechte Sie beim Kauf eines Gebrauchtwagens vom Händler oder von Privat haben und wann Rücktritt möglich ist.",
+      "schlagworte": [
+        "Gebrauchtwagen",
+        "Gewährleistung",
+        "Sachmangel",
+        "Rücktritt",
+        "Beweislast",
+        "Händler",
+        "Privatverkauf",
+        "Verjährung"
+      ],
+      "kurz_html": "<p>Kaufen Sie einen Gebrauchtwagen bei einem Händler, haben Sie Gewährleistungsrechte. Zeigt sich innerhalb eines Jahres ab Übergabe ein Mangel, wird vermutet, dass er schon bei Übergabe da war. Ihre Mängelrechte verjähren in der Regel nach zwei Jahren ab Ablieferung.</p><p>Beim Kauf von Privat kann die Gewährleistung ausgeschlossen werden. Verschweigt der Verkäufer einen Mangel arglistig, hilft das dem Verkäufer nicht.</p>",
+      "schritte": [
+        {
+          "titel": "Mangel dokumentieren",
+          "text": "Fotos, Prüfbericht, Zeugen."
+        },
+        {
+          "titel": "Verkäufer anschreiben",
+          "text": "Beschreiben Sie den Mangel und setzen Sie eine angemessene Frist zur Nacherfüllung."
+        },
+        {
+          "titel": "Wahl der Rechte",
+          "text": "Nacherfüllung, Rücktritt, Minderung oder Schadensersatz je nach Fall."
+        },
+        {
+          "titel": "Schlichtung oder Anwalt",
+          "text": "Kfz-Schiedsstelle oder Rechtsberatung nutzen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "2 Jahre ab Ablieferung",
+          "was": "Verjährung von Mängelansprüchen im Regelfall",
+          "grundlage": "§ 438 BGB"
+        },
+        {
+          "wert": "1 Jahr ab Gefahrübergang",
+          "was": "Beweislastumkehr zugunsten des Verbrauchers",
+          "grundlage": "§ 477 BGB"
+        },
+        {
+          "wert": "mindestens 1 Jahr (gebraucht)",
+          "was": "Kürzung der Verjährung nur bei gesonderter, vorher mitgeteilter Vereinbarung",
+          "grundlage": "§ 476 BGB"
+        }
+      ],
+      "achtung": [
+        "Bei Händlerkauf ist ein Haftungsausschluss gegenüber Verbrauchern nicht möglich (Verbraucherzentrale/Suchtreffer). Die Kürzung der Verjährungsfrist ist begrenzt.",
+        "Der Rücktritt setzt in der Regel eine Fristsetzung zur Nacherfüllung voraus (§ 323 BGB) und scheidet bei unerheblicher Pflichtverletzung aus.",
+        "Garantie und Gewährleistung sind verschiedene Dinge. Garantiebedingungen im Volltext nicht geprüft.",
+        "Kauf im Fernabsatz: Widerruf möglich (§ 355 BGB). Beim Autokauf vor Ort besteht dieses Recht in der Regel nicht (nicht im Volltext geprüft)."
+      ],
+      "fach_html": "<h3>Verjährung und Beweislast</h3><p>§ 438 BGB: Mängelansprüche verjähren in zwei Jahren für alle übrigen Fälle (also auch bei Kfz), beginnend mit Ablieferung der Sache; bei arglistigem Verschweigen gilt die regelmäßige Verjährung. § 477 BGB: Zeigt sich innerhalb eines Jahres seit Gefahrübergang ein vom vertraglich Geschuldeten abweichender Zustand, wird vermutet, dass die Ware bereits bei Gefahrübergang mangelhaft war. § 476 BGB: Abweichende Vereinbarungen zum Nachteil des Verbrauchers gelten nicht; eine Verkürzung der Verjährung ist bei gebrauchten Waren nur auf mindestens ein Jahr möglich und nur bei ausdrücklicher, gesonderter Vereinbarung nach vorheriger Mitteilung.</p><h3>Rücktritt (§ 323 BGB)</h3><p>Bei Mangel: angemessene Frist zur Nacherfüllung. Entbehrlich unter anderem bei ernsthafter und endgültiger Verweigerung. Unerhebliche Pflichtverletzungen berechtigen nicht zum Rücktritt.</p><h3>Händler und Privat (Suchtreffer)</h3><p>Ein Gewährleistungsausschluss ist nur unter Privatleuten zulässig. Private Verkäufer haften dann für bekannte, arglistig verschwiegene Mängel.</p><h3>Nicht im Volltext geprüft</h3><p>§§ 434 und 437 BGB, Nutzungsersatz bei Rücktritt, Agenturgeschäft, Kaufvertragsformulare, Kilometerstand und Unfallfreiheit als vereinbarte Beschaffenheit, Anfechtung.</p>",
+      "zustaendig": [
+        "Kfz-Schiedsstelle (bei Händlern im Kfz-Gewerbe)",
+        "Verbraucherzentrale",
+        "Rechtsanwalt / Amtsgericht"
+      ],
+      "belege": [
+        "Bundesministerium der Justiz, BGB §§ 323, 355, 438, 476, 477, abgerufen 20.09.2026",
+        "Verbraucherzentrale, Gewährleistung und Garantie, nur Suchtreffer, abgerufen 20.09.2026",
+        "ADAC, Gebrauchtwagenkauf: Fahrzeugmängel, nur Suchtreffer, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "werkstatt-reparatur-rueckruf",
+        "finanzierung-leasing"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "werkstatt-reparatur-rueckruf",
+      "kategorie": "kauf",
+      "titel": "Werkstatt, Reparatur, Garantie und Rückruf",
+      "icon": "🛠️",
+      "teaser": "Ihre Rechte bei Reparaturmängeln, wie Kfz-Schiedsstellen helfen und was bei einem Rückruf gilt.",
+      "schlagworte": [
+        "Werkstatt",
+        "Reparatur",
+        "Mängelansprüche",
+        "Kfz-Schiedsstelle",
+        "Rückruf",
+        "KBA",
+        "Garantie"
+      ],
+      "kurz_html": "<p>Bei einer mangelhaften Reparatur haben Sie Ansprüche gegen die Werkstatt. Diese verjähren bei Wartung und Reparatur nach zwei Jahren ab Abnahme. Streit können Sie oft kostenlos bei einer Kfz-Schiedsstelle klären lassen.</p><p>Ordnet das Kraftfahrt-Bundesamt einen Rückruf an, ist die Teilnahme Pflicht. Ignorieren Sie den Rückruf, kann die Zulassungsbehörde den Betrieb untersagen.</p>",
+      "schritte": [
+        {
+          "titel": "Kostenvoranschlag verlangen",
+          "text": "Lassen Sie sich Preis und Umfang vor dem Auftrag schriftlich geben."
+        },
+        {
+          "titel": "Bei Abholung prüfen",
+          "text": "Ein Mangel sollte beim Abnehmen gerügt werden."
+        },
+        {
+          "titel": "Schiedsstelle",
+          "text": "Kfz-Schiedsstelle anrufen, wenn keine Einigung."
+        },
+        {
+          "titel": "Rückrufdatenbank",
+          "text": "Prüfen Sie beim KBA, ob Ihr Fahrzeug betroffen ist."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "2 Jahre ab Abnahme",
+          "was": "Verjährung von Mängelansprüchen bei Wartung, Reparatur und Veränderung einer Sache",
+          "grundlage": "§ 634a BGB"
+        },
+        {
+          "wert": "kostenlos (laut Kfz-Schiedsstellen)",
+          "was": "Verfahren vor der Kfz-Schiedsstelle, sofern ein Vertrag besteht",
+          "grundlage": "kfz-schiedsstellen.de, nur Suchtreffer"
+        }
+      ],
+      "achtung": [
+        "Bei arglistig verschwiegenem Mangel gilt die regelmäßige Verjährung statt der kurzen Frist (§ 634a BGB).",
+        "Ob Rückrufe für Sie kostenlos sind, wurde nicht im Volltext geprüft.",
+        "Herstellergarantie und gesetzliche Mängelrechte unterscheiden sich. Garantiebedingungen im Einzelfall lesen.",
+        "Werkstattrechte wie Pfandrecht, Kostenvoranschlagsregeln und Aufbewahrung wurden nicht geprüft."
+      ],
+      "fach_html": "<h3>Werkvertrag (§ 634a BGB)</h3><p>Mängelansprüche verjähren in zwei Jahren bei einem Werk, dessen Erfolg in der Herstellung, Wartung oder Veränderung einer Sache besteht, und beginnen mit der Abnahme. Bei arglistigem Verschweigen des Mangels gilt die regelmäßige Verjährungsfrist.</p><h3>Kfz-Schiedsstellen (nur Suchtreffer)</h3><p>Sie klären Streit zwischen Kunden und Kfz-Betrieben außergerichtlich, seit 1970, in der Regel ohne Verfahrenskosten. Besetzung: Vertreter des Kfz-Gewerbes und des ADAC sowie ein öffentlich bestellter Sachverständiger der DAT. Voraussetzung ist ein Vertrag mit dem Betrieb. Die Stellen sind nach Bundesländern auf kfz-schiedsstellen.de gelistet.</p><h3>Rückruf (KBA)</h3><p>Das Kraftfahrt-Bundesamt ordnet Rückrufe an, wenn Hersteller nicht selbst handeln. Hersteller nutzen die Halteradressen aus dem Zentralen Fahrzeugregister (ZFZR). Die Teilnahme ist laut KBA verpflichtend. Ignorieren Halter den Rückruf, informiert das KBA die Zulassungsbehörden, die den Betrieb untersagen können. Die Rückrufdatenbank ist laut KBA unter https://www.kba-online.de/rrdb/buerger/ erreichbar.</p><h3>Nicht geprüft</h3><p>Kosten der Rückrufreparatur, Garantiebedingungen, Rechte bei Abgasmanipulation (Dieselverfahren).</p>",
+      "zustaendig": [
+        "Kraftfahrt-Bundesamt (Rückrufe)",
+        "Kfz-Schiedsstelle (Bundesländer, siehe kfz-schiedsstellen.de)",
+        "Verbraucherzentrale"
+      ],
+      "belege": [
+        "Bundesministerium der Justiz, BGB § 634a, abgerufen 20.09.2026",
+        "Kraftfahrt-Bundesamt, Rückrufe, abgerufen 20.09.2026",
+        "Kfz-Schiedsstellen, Startseite und Suchtreffer (ZDK), abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "gebrauchtwagenkauf",
+        "hu-au-umweltzone"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "finanzierung-leasing",
+      "kategorie": "kauf",
+      "titel": "Autofinanzierung und Leasing: Widerruf",
+      "icon": "📑",
+      "teaser": "Wann Sie einen Autokredit oder Leasingvertrag widerrufen können und wie die Frist beginnt.",
+      "schlagworte": [
+        "Autokredit",
+        "Widerruf",
+        "Leasing",
+        "Verbraucherdarlehen",
+        "Finanzierungshilfe",
+        "Widerrufsfrist",
+        "Restwert"
+      ],
+      "kurz_html": "<p>Bei einem Autokredit für Privatpersonen können Sie den Vertrag in der Regel innerhalb von 14 Tagen widerrufen. Die Frist beginnt aber nicht, bevor Sie die Vertragsurkunde oder eine Abschrift erhalten. Fehlen Pflichtangaben, kann die Frist später beginnen.</p><p>Auch manche Leasingverträge sind Finanzierungshilfen, zum Beispiel wenn Sie zum Kauf verpflichtet sind oder für den Restwert einstehen müssen. Für sie gelten Verbraucherdarlehensregeln.</p>",
+      "schritte": [
+        {
+          "titel": "Vertragstyp klären",
+          "text": "Kredit, Ratenkauf oder Leasing mit Restwert- oder Kaufpflicht."
+        },
+        {
+          "titel": "Widerrufsbelehrung suchen",
+          "text": "Prüfen Sie Datum und Angaben."
+        },
+        {
+          "titel": "Widerruf erklären",
+          "text": "Erklären Sie ihn klar und nachweisbar."
+        },
+        {
+          "titel": "Rat holen",
+          "text": "Vor Widerruf Verbraucherzentrale oder Anwalt fragen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "14 Tage",
+          "was": "Widerrufsfrist bei Verbraucherdarlehen, ab Vertragsschluss und Erhalt der Urkunde",
+          "grundlage": "§ 495 in Verbindung mit § 355 BGB"
+        },
+        {
+          "wert": "Beginn frühestens mit Vertragsurkunde",
+          "was": "Frist startet erst nach Aushändigung der Urkunde, des Antrags oder einer Abschrift",
+          "grundlage": "§ 356b BGB"
+        },
+        {
+          "wert": "1 Monat",
+          "was": "Frist, wenn Pflichtangaben nachgeholt werden",
+          "grundlage": "§ 356b BGB"
+        }
+      ],
+      "achtung": [
+        "Ausnahmen vom Widerruf gibt es, zum Beispiel bei notariell beurkundeten Verträgen (§ 495 BGB).",
+        "Leasing ohne Kauf- oder Restwertpflicht wurde nicht im Volltext geprüft.",
+        "Rückabwicklung und Nutzungsersatz nach Widerruf: nicht geprüft.",
+        "Sogenannter ewiger Widerruf bei fehlerhafter Belehrung: Rechtslage nicht im Volltext geprüft."
+      ],
+      "fach_html": "<h3>Widerruf (§ 495 BGB, § 355 BGB)</h3><p>Dem Darlehensnehmer steht bei einem Verbraucherdarlehensvertrag ein Widerrufsrecht nach § 355 zu. Die Frist beträgt 14 Tage. § 495 nennt Ausnahmen, etwa Rückzahlungsvereinbarungen zur Ablösung einer Kündigung und notarielle Beurkundung.</p><h3>Fristbeginn (§ 356b BGB)</h3><p>Die Frist beginnt nicht, bevor der Darlehensgeber dem Darlehensnehmer eine für diesen bestimmte Vertragsurkunde, den schriftlichen Antrag oder eine Abschrift zur Verfügung gestellt hat. Fehlende Pflichtangaben führen dazu, dass die Frist erst nach Nachholung beginnt; dann beträgt die Widerrufsfrist einen Monat. Bei Immobiliardarlehen erlischt das Recht spätestens zwölf Monate und 14 Tage nach Vertragsschluss; dies ist für den Autokauf nicht die Regel.</p><h3>Leasing (§ 506 BGB)</h3><p>Verträge über die entgeltliche Nutzung eines Gegenstands gelten als Finanzierungshilfe, wenn sich der Verbraucher zum Erwerb oder zum Einstehen für einen Restwert verpflichtet. Dann sind die Vorschriften für Verbraucherdarlehen anwendbar. Kleine Finanzierungen sind ausgenommen.</p>",
+      "zustaendig": [
+        "Verbraucherzentrale",
+        "Rechtsanwalt",
+        "Amtsgericht / Landgericht bei Streit"
+      ],
+      "belege": [
+        "Bundesministerium der Justiz, BGB §§ 355, 356b, 495, 506, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "gebrauchtwagenkauf",
+        "beratung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "diebstahl-verlust",
+      "kategorie": "notfall",
+      "titel": "Autodiebstahl und Verlust von Fahrzeugpapieren",
+      "icon": "🚨",
+      "teaser": "Was Sie bei Diebstahl sofort tun müssen: Polizei, Versicherung, Abmeldung, und was bei Verlust der Papiere gilt.",
+      "schlagworte": [
+        "Autodiebstahl",
+        "Anzeige",
+        "Teilkasko",
+        "Abmeldung",
+        "Zulassungsbescheinigung",
+        "Verlust",
+        "Wiederfund"
+      ],
+      "kurz_html": "<p>Ist Ihr Auto weg, prüfen Sie zuerst, ob es abgeschleppt wurde. Dann erstatten Sie Anzeige bei der Polizei. Dafür brauchen Sie Ausweis und Zulassungsbescheinigung Teil I und II.</p><p>Melden Sie den Diebstahl sofort Ihrer Kaskoversicherung. Melden Sie das Fahrzeug zeitnah ab (ADAC empfiehlt 14 Tage), sonst können weiter Steuer und Versicherungsbeitrag anfallen. Wird das Auto gefunden, prüfen Sie die Fristen mit der Versicherung.</p>",
+      "schritte": [
+        {
+          "titel": "Abschleppen ausschließen",
+          "text": "Fragen Sie bei der Polizei nach."
+        },
+        {
+          "titel": "Anzeige erstatten",
+          "text": "Lassen Sie sich die Anzeige schriftlich bestätigen."
+        },
+        {
+          "titel": "Versicherung informieren",
+          "text": "Schadenformular ausfüllen, Anzeigebestätigung beifügen."
+        },
+        {
+          "titel": "Abmelden",
+          "text": "Zulassungsstelle kontaktieren und Fahrzeug abmelden."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "14 Tage (Empfehlung)",
+          "was": "Abmeldung bei der Zulassungsstelle nach Diebstahl; Empfehlung, keine gesetzliche Frist (laut ADAC)",
+          "grundlage": "ADAC, Autodiebstahl"
+        },
+        {
+          "wert": "1 Monat",
+          "was": "Wird das Fahrzeug innerhalb eines Monats ab Eingang der Schadenanzeige beim Versicherer gefunden, muss es zurückgenommen werden; danach geht das Eigentum auf den Versicherer über (Vertragsklausel, nicht Gesetz; laut ADAC)",
+          "grundlage": "ADAC, Autodiebstahl"
+        },
+        {
+          "wert": "unverzüglich",
+          "was": "Wiedergefundene Zulassungsbescheinigung bei der Behörde abgeben",
+          "grundlage": "§ 13 FZV"
+        }
+      ],
+      "achtung": [
+        "Teilkasko zahlt bei Diebstahl in der Regel den Wiederbeschaffungs- oder Marktwert. Ein fehlendes Lenkradschloss kann die Leistung mindern (laut ADAC).",
+        "Zeigen Sie den Diebstahl der Versicherung unverzüglich an. Prüfen Sie Ihre Vertragsbedingungen.",
+        "Nach ADAC: gestohlenes Handy und Bankkarten im Auto sperren lassen.",
+        "Die Meldefristen in den Versicherungsbedingungen (AKB) wurden nicht im Volltext geprüft."
+      ],
+      "fach_html": "<h3>Anzeige und Versicherung</h3><p>ADAC: Bei Diebstahl Polizei kontaktieren, Ausweis und beide Teile der Zulassungsbescheinigung mitbringen, schriftliche Anzeigebestätigung für die Versicherung verlangen. Die Kaskoversicherung erhält die Anzeigebestätigung und ein ausgefülltes Schadenformular. Suchtreffer nennen zusätzlich: alle Schlüssel, Abmeldebescheinigung, Rechnungsbelege.</p><h3>Abmeldung</h3><p>ADAC empfiehlt, das Fahrzeug innerhalb von 14 Tagen abzumelden (Empfehlung, keine gesetzliche Frist), um weitere Steuer und Versicherungsbeiträge zu vermeiden, falls es nicht bald gefunden wird.</p><h3>Wiederfund</h3><p>Nach ADAC muss ein binnen eines Monats gefundenes Fahrzeug zurückgenommen werden; die Monatsfrist läuft nach den AKB ab Eingang der Schadenanzeige beim Versicherer (Vertragsklausel, nicht Gesetz). Danach geht das Eigentum auf den Versicherer über; unter bestimmten Bedingungen kann es zurückerlangt werden.</p><h3>Papiere</h3><p>Ein wiedergefundenes Dokument muss der Halter unverzüglich bei der Zulassungsbehörde abgeben (§ 13 FZV). Vorgehen bei Verlust der Zulassungsbescheinigung und des Führerscheins: nicht im Volltext geprüft.</p>",
+      "zustaendig": [
+        "Polizei",
+        "Ihre Kaskoversicherung",
+        "Zulassungsbehörde (Abmeldung)"
+      ],
+      "belege": [
+        "ADAC, Auto gestohlen: Was Sie nun tun müssen, abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, FZV § 13, abgerufen 20.09.2026",
+        "Autodiebstahl und Versicherung, Suchtreffer (Allianz, RUV, Zurich), abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "kfz-versicherung",
+        "zulassung-an-ab-ummeldung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "beratung",
+      "kategorie": "notfall",
+      "titel": "Beratung und Anlaufstellen",
+      "icon": "🤝",
+      "teaser": "Bundesweit belegte Stellen für Kfz-Streit, Verbraucherfragen, Register und Rechtsrat.",
+      "schlagworte": [
+        "Beratung",
+        "Kfz-Schiedsstelle",
+        "Verbraucherzentrale",
+        "Anwaltsuche",
+        "KBA",
+        "Zulassungsstelle"
+      ],
+      "kurz_html": "<p>Wenn Sie nicht weiterwissen, gibt es bundesweit erreichbare Stellen. Bei Streit mit einer Werkstatt oder einem Händler im Kfz-Gewerbe hilft die Kfz-Schiedsstelle. Bei Verbraucherfragen berät die Verbraucherzentrale. Einen Anwalt finden Sie über die Deutsche Anwaltauskunft.</p><p>Fahrzeugpapiere und Führerschein regeln die Behörden vor Ort. Adressen und Telefonnummern nennen wir nicht, weil sie sich ändern. Suchen Sie sie auf den offiziellen Seiten Ihrer Stadt.</p>",
+      "schritte": [
+        {
+          "titel": "Unterlagen bereitlegen",
+          "text": "Bescheid, Vertrag, Fotos."
+        },
+        {
+          "titel": "Passende Stelle wählen",
+          "text": "Schiedsstelle bei Reparatur und Kauf, Anwalt bei Bußgeld und Führerschein."
+        },
+        {
+          "titel": "Fristen nennen",
+          "text": "Sagen Sie sofort, wann Ihr Bescheid zugestellt wurde."
+        },
+        {
+          "titel": "Schriftlich dokumentieren",
+          "text": "Halten Sie Gespräche kurz schriftlich fest."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "2 Wochen",
+          "was": "Einspruch gegen den Bußgeldbescheid; Rat frühzeitig holen",
+          "grundlage": "§ 67 OWiG"
+        }
+      ],
+      "achtung": [
+        "Beratung durch Verbände kann Mitgliedschaft oder Kosten voraussetzen. Prüfen Sie das vorab.",
+        "Wir nennen keine örtlichen Stellen, Adressen oder Telefonnummern.",
+        "Kfz-Schiedsstellen sind nur zuständig, wenn ein Vertrag mit einem Kfz-Betrieb besteht.",
+        "Auskunft zum Punktestand beim Kraftfahrt-Bundesamt: Verfahren nicht im Volltext geprüft."
+      ],
+      "fach_html": "<h3>Bundesweite Stellen (belegt)</h3><ul><li>Kfz-Schiedsstellen (Verzeichnis nach Bundesländern): kfz-schiedsstellen.de. Außergerichtliche Klärung von Streit mit Kfz-Betrieben, in der Regel kostenfrei (Suchtreffer).</li><li>Verbraucherzentrale: verbraucherzentrale.de (Themenseiten Gewährleistung und Garantie).</li><li>Deutsche Anwaltauskunft: anwaltauskunft.de (Anwaltsuche, bereits im Wegweiser Verkehrsunfallopfer genannt).</li><li>Kraftfahrt-Bundesamt: Rückrufdatenbank https://www.kba-online.de/rrdb/buerger/ (laut KBA-Seite); Fahreignungsregister-Auskunft (nicht geprüft, Seite nicht abrufbar).</li><li>Zollverwaltung: Kraftfahrzeugsteuer (Zoll online).</li></ul><h3>Behörden vor Ort</h3><p>Zulassungsbehörde, Fahrerlaubnisbehörde, Bußgeldstelle und Umweltamt sind kommunal oder Landessache. Eine bundesweite Liste wurde nicht erhoben.</p><h3>Nicht geprüft</h3><p>Rechtsschutzversicherung (Verkehrsrechtsschutz), Beratungshilfe und Prozesskostenhilfe, Versicherungsombudsmann.</p>",
+      "zustaendig": [
+        "Kfz-Schiedsstelle (kfz-schiedsstellen.de)",
+        "Verbraucherzentrale (verbraucherzentrale.de)",
+        "Deutsche Anwaltauskunft (anwaltauskunft.de)"
+      ],
+      "belege": [
+        "Kfz-Schiedsstellen, kfz-schiedsstellen.de (Suchtreffer), abgerufen 20.09.2026",
+        "Verbraucherzentrale, Gewährleistung und Garantie (Suchtreffer), abgerufen 20.09.2026",
+        "Kraftfahrt-Bundesamt, Rückrufe, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "ueberblick",
+        "fahrverbot-einspruch"
+      ],
+      "stand": "September 2026"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "titel": "Verbraucher",
+  "zusatz": "Verbraucher &middot; Rechte beim Kaufen und Vertragen",
+  "icon": "🛒",
+  "teaser": "Widerruf, Mängel, Abos, Werbeanrufe, Schufa, Energie, Konto und Kredite: verständlich erklärt, mit Rechtsgrundlagen und Fristen.",
+  "suche_placeholder": "Suchen: Widerruf, Mangel, Abo kündigen, Schufa, Fake-Shop …",
+  "meta_description": "Verbraucherrechte in Deutschland, Stand September 2026: Widerrufsbutton, Gewährleistung, Kündigungsbutton, Telefonwerbung, Schufa, Fluggastrechte, Basiskonto, Verbraucherkredite.",
+  "hinweis": "<p><strong>Rechtsstand September 2026.</strong> Bereits in Kraft: Widerrufsbutton (§ 356a BGB, seit 19.06.2026) und Recht auf Reparatur (Kaufverträge ab 31.07.2026). Noch aus: neue Verbraucherkreditregeln (Anwendung ab 20.11.2026) und EU-Reform der Fluggastrechte (Inkrafttreten voraussichtlich erst 2027). Information, keine Rechtsberatung. <a href=\"quellen.html\">Quellen und Grenzen</a></p>",
+  "haeufig": [
+    "widerrufsrecht",
+    "gewaehrleistung-maengel",
+    "abofallen-kuendigungsbutton",
+    "telefonwerbung",
+    "mahnung-inkasso-schufa",
+    "onlinekauf-betrug"
+  ],
+  "fusszeile": "Allgemeine Information zu Verbraucherrechten, Stand September 2026; keine Rechtsberatung.",
+  "beratung_id": "beratung-anlaufstellen",
+  "quellen_teaser": "<p>Alle Angaben stammen aus den unten genannten Quellen (abgerufen im September 2026). Unsichere Punkte sind offen benannt.</p>",
+  "quellen_abschnitte": [
+    {
+      "h": "Quellen",
+      "html": "<ol><li>gesetze-im-internet.de: BGB (§§ 286, 309, 312g, 312k, 355, 356, 357, 438, 439, 476, 477), UWG §§ 7, 7a, 20, TDDDG §§ 15, 28, EnWG §§ 20a, 41, ZKG §§ 31–37, 48, 49, InsO § 287, VSBG §§ 29–31, VDuG §§ 1, 46, RDG §§ 13a–13e; BGBl. 2026 I Nr. 28, 139, 212.</li><li>Bundesregierung: Richtlinie über Verbraucherkreditverträge umgesetzt.</li><li>Deutscher Bundestag: Textarchiv 2026 (Verbraucherkredite kw16; Recht auf Reparatur kw26); BGH-Pressemitteilung 233/2025.</li><li>Bundeskanzleramt Österreich: EU-Fluggastrechte werden vereinfacht, präzisiert und gestärkt.</li><li>Bundesnetzagentur: Telefonwerbung.</li><li>Verbraucherzentrale: Was tun bei einem Schufa-Eintrag?; Beratung bei den Verbraucherzentralen; Preisseiten der Landeszentralen.</li><li>Kanzleimitteilungen und Suchergebnisse (Noerr zum Widerrufsbutton und zur Verbraucherkreditrichtlinie u. a.).</li></ol>"
+    },
+    {
+      "h": "Unsichere Punkte",
+      "html": "<ul><li>Rückbuchung per Kreditkarte (120 Tage): keine gesetzliche Grundlage, folgt aus Regelwerk der Kartenorganisationen/Bank-AGB; PayPal-Frist (180 Tage) nach PayPal-Bedingungen.</li><li>Fluggastrechte-Reform: Zeitpunkt des Inkrafttretens (voraussichtlich erst 2027) und Einzelheiten wie Antragsfrist und Airline-Reaktionsfrist nur aus österreichischer Sekundärquelle; ungeprüft.</li><li>Beratungspreise der Verbraucherzentralen: je Landeszentrale unterschiedlich, nicht bundeseinheitlich.</li><li>Schufa-Löschfristen nach Verbraucherzentrale und BGH-Pressemitteilung; Restschuldbefreiung (6 Monate) nur nach Verbraucherzentrale.</li><li>Nicht behandelt/nicht geprüft: Pauschalreise, Art. 21 DSGVO, Abhilfeklage im Detail.</li><li>Belegt am Gesetzestext bzw. Bundesgesetzblatt: Widerrufsbutton, Recht auf Reparatur, Verbraucherkredit, § 475e, § 479, § 312j BGB, UWG, VSBG, VDuG.</li></ul>"
+    },
+    {
+      "h": "Was diese Plattform leistet – und was nicht",
+      "html": "<p>Diese Seiten geben verständliche Informationen zu Verbraucherrechten und nennen Rechtsgrundlagen, Fristen und bundesweite Anlaufstellen. Sie ersetzen keine Rechtsberatung nach dem Rechtsdienstleistungsgesetz und beurteilen keinen Einzelfall. Es werden keine personenbezogenen Daten gespeichert. Bei Streit, Fristen oder größeren Beträgen wenden Sie sich an die Verbraucherzentrale oder eine Rechtsanwältin oder einen Rechtsanwalt.</p>"
+    }
+  ]
+}

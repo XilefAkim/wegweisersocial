@@ -1,0 +1,531 @@
+{
+  "kategorien": [
+    {"id": "ueberblick", "titel": "Überblick", "icon": "🧭", "beschreibung": "Rechtsformen, Grundbegriffe und wo die wichtigsten Regeln stehen."},
+    {"id": "gruendung", "titel": "Gründung & Satzung", "icon": "📝", "beschreibung": "Vom Gründungstreffen zur Eintragung ins Vereinsregister und zur tauglichen Satzung."},
+    {"id": "organisation", "titel": "Vorstand & Mitglieder", "icon": "🏛️", "beschreibung": "Haftung des Vorstands, Versicherungen, Mitgliederversammlung und Beschlüsse."},
+    {"id": "steuern", "titel": "Gemeinnützigkeit & Steuern", "icon": "🧾", "beschreibung": "Steuerbegünstigung, Spenden, Freigrenzen und Steuererklärung, Stand nach dem Steueränderungsgesetz 2025."},
+    {"id": "geld-personal", "titel": "Geld, Förderung & Personal", "icon": "💶", "beschreibung": "Pauschalen, Fördermittel, Minijobs und Honorarkräfte."},
+    {"id": "pflichten", "titel": "Pflichten & Grenzen", "icon": "⚖️", "beschreibung": "Datenschutz, Transparenzregister, Buchführung, Auflösung und politische Betätigung."},
+    {"id": "beratung", "titel": "Beratung & Anlaufstellen", "icon": "🆘", "beschreibung": "Wo Vorstände und Engagierte belegte Unterstützung finden."}
+  ],
+  "seiten": [
+    {
+      "id": "ueberblick-vereins-ngo-recht",
+      "kategorie": "ueberblick",
+      "titel": "Überblick: Vereins- und NGO-Recht",
+      "icon": "🧭",
+      "teaser": "Vereinsrecht (BGB) und Gemeinnützigkeitsrecht (Abgabenordnung) sind zwei getrennte Regelkreise. Diese Seite zeigt, was wo geregelt ist und was 2026 neu ist.",
+      "schlagworte": ["Verein", "e.V.", "gGmbH", "Stiftung", "Gemeinnützigkeit", "Vereinsrecht", "Steueränderungsgesetz 2025", "NGO"],
+      "kurz_html": "<p>Ein Verein braucht zwei Dinge, die man leicht verwechselt. Das <strong>Vereinsrecht</strong> im Bürgerlichen Gesetzbuch (BGB) regelt Gründung, Vorstand und Mitgliederversammlung. Das <strong>Gemeinnützigkeitsrecht</strong> in der Abgabenordnung (AO) regelt, ob Sie Steuern sparen und Spendenquittungen ausstellen dürfen.</p><p>Ein eingetragener Verein (e.V.) ist nicht automatisch gemeinnützig. Umgekehrt gelten die Gemeinnützigkeitsregeln auch für gGmbH und Stiftungen.</p><p>Zum 1. Januar 2026 hat das Steueränderungsgesetz 2025 mehrere Grenzen angehoben, zum Beispiel die Übungsleiterpauschale auf 3.300 Euro und die Ehrenamtspauschale auf 960 Euro. Die übrigen Seiten erklären die einzelnen Themen.</p>",
+      "schritte": [
+        {"titel": "Rechtsform klären", "text": "Verein, gGmbH, Stiftung oder lose Initiative: Jede Form hat eigene Gründungs-, Haftungs- und Registerregeln."},
+        {"titel": "Zwei Ebenen trennen", "text": "Zivilrecht (BGB, Vereinsregister) und Steuerrecht (AO, Finanzamt) sind getrennte Verfahren mit getrennten Behörden."},
+        {"titel": "Aktuelle Grenzen prüfen", "text": "Viele Beträge sind zum 1. Januar 2026 gestiegen. Alte Ratgeber nennen oft noch die früheren Werte."},
+        {"titel": "Für Einzelfragen beraten lassen", "text": "Bei Satzung, Gemeinnützigkeit oder Haftung helfen Steuerberatung, Rechtsberatung und die Stellen auf der Beratungsseite."}
+      ],
+      "fristen": [
+        {"wert": "1. Januar 2026", "was": "Inkrafttreten der gemeinnützigkeitsrechtlichen Änderungen des Steueränderungsgesetzes 2025.", "grundlage": "Steueränderungsgesetz 2025, BGBl. 2025 I, verkündet am 23.12.2025"},
+        {"wert": "50.000 Euro", "was": "Neue Freigrenze für steuerpflichtige wirtschaftliche Geschäftsbetriebe (Einnahmen einschließlich Umsatzsteuer).", "grundlage": "§ 64 Abs. 3 AO"}
+      ],
+      "achtung": [
+        "Ein e.V. ist nicht automatisch gemeinnützig; die Anerkennung erteilt das Finanzamt, nicht das Vereinsregister.",
+        "Viele Online-Ratgeber und Vorlagen stammen aus der Zeit vor 2026 und nennen veraltete Beträge (zum Beispiel 3.000 und 840 Euro).",
+        "Die Regeln für Stiftungen und gGmbH weichen in Gründung und Aufsicht vom Vereinsrecht ab. Diese Plattform behandelt schwerpunktmäßig den Verein.",
+        "Landesrecht (zum Beispiel Stiftungsaufsicht, Förderrichtlinien) wird hier nicht im Einzelnen dargestellt."
+      ],
+      "fach_html": "<h3>Regelkreise</h3><p>Das Vereinsrecht steht in §§ 21 ff. BGB. Gesetzliche Vorschriften zur Steuerbegünstigung stehen in §§ 51 bis 68 AO. Beide sind für jeden Verein relevant, greifen aber unabhängig voneinander.</p><h3>Änderungen zum 1. Januar 2026</h3><p>Das Steueränderungsgesetz 2025 wurde nach Zustimmung des Bundesrats am 19. Dezember 2025 am 23. Dezember 2025 im Bundesgesetzblatt (Teil I) verkündet und ist am 1. Januar 2026 in Kraft getreten (Quellen: Bundestag, recht.bund.de; Kanzleiangaben). Für gemeinnützige Organisationen relevant: Freigrenze § 64 Abs. 3 AO 50.000 Euro (vorher 45.000), Ausnahme von der zeitnahen Mittelverwendung bis 100.000 Euro Jahreseinnahmen (§ 55 Abs. 1 Nr. 5 AO), Übungsleiterpauschale 3.300 Euro und Ehrenamtspauschale 960 Euro (§ 3 Nr. 26, 26a EStG), Haftungsprivileg 3.300 Euro (§§ 31a, 31b BGB). E-Sport ist nach dem Gesetzestext ausdrücklich als Sport genannt (§ 52 AO).</p><h3>Reformen, die nicht geltendes Recht sind</h3><p>Weitere Änderungswünsche von Verbänden (etwa zur politischen Betätigung) sind in den geprüften Quellen nicht als beschlossenes Recht belegt. Diese Plattform stellt sie nicht als geltend dar.</p>",
+      "zustaendig": ["Registergericht beim Amtsgericht (Vereinsregister)", "Zuständiges Finanzamt (Gemeinnützigkeit, Steuern)", "Stiftungsaufsicht des Landes (bei Stiftungen)"],
+      "belege": [
+        "Bundestag, „Bundestag verabschiedet das Steueränderungsgesetz 2025“, bundestag.de, abgerufen 20.09.2026",
+        "Bundesgesetzblatt Teil I 2025, recht.bund.de (über Suchergebnis nachgewiesen), abgerufen 20.09.2026",
+        "AO §§ 55, 64, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "Flick Gocke Schaumburg, „Steueränderungsgesetz 2025 – gemeinnützigkeitsrechtliche Neuerungen“, fgs.de, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": ["gemeinnuetzigkeit", "steuern-im-verein", "ehrenamts-und-uebungsleiterpauschale"],
+      "stand": "September 2026"
+    },
+    {
+      "id": "vereinsgruendung-und-eintragung",
+      "kategorie": "gruendung",
+      "titel": "Vereinsgründung und Eintragung ins Vereinsregister",
+      "icon": "🏗️",
+      "teaser": "Ein rechtsfähiger Verein entsteht erst mit der Eintragung ins Vereinsregister. Wer anmeldet, was mit muss und wie viele Mitglieder nötig sind.",
+      "schlagworte": ["Vereinsgründung", "Vereinsregister", "Mindestmitgliederzahl", "e.V.", "Anmeldung", "Notar", "Gründungsversammlung"],
+      "kurz_html": "<p>Ein Verein kann formlos beginnen. Rechtsfähig wird er aber erst mit der Eintragung ins Vereinsregister beim Amtsgericht und darf dann „e.V.“ im Namen führen.</p><p>Für die Eintragung sollen mindestens <strong>sieben</strong> Mitglieder vorhanden sein. Die Satzung soll von mindestens sieben Mitgliedern unterschrieben sein und das Gründungsdatum tragen. Der Vorstand meldet den Verein an. Die Unterschriften unter der Anmeldung müssen öffentlich beglaubigt sein, meist bei einem Notar.</p><p>Sinkt später die Zahl der Mitglieder unter drei, kann das Amtsgericht dem Verein die Rechtsfähigkeit entziehen.</p>",
+      "schritte": [
+        {"titel": "Gründungsversammlung abhalten", "text": "Die Gründer beschließen Satzung und wählen den Vorstand. Protokoll führen."},
+        {"titel": "Satzung unterschreiben", "text": "Mindestens sieben Mitglieder unterschreiben die Satzung mit Datum (§ 59 Abs. 3 BGB)."},
+        {"titel": "Anmeldung vorbereiten", "text": "Der Vorstand meldet an. Satzung und Nachweis der Vorstandsbestellung liegen bei (§ 59 Abs. 1, 2 BGB)."},
+        {"titel": "Unterschriften beglaubigen lassen", "text": "Öffentlich beglaubigte Erklärung, auch per Videokommunikation möglich (§ 77 BGB). Dann beim Amtsgericht einreichen."}
+      ],
+      "fristen": [
+        {"wert": "mindestens 7", "was": "Mitglieder, damit die Eintragung erfolgen soll.", "grundlage": "§ 56 BGB"},
+        {"wert": "unter 3", "was": "Sinkt die Mitgliederzahl darunter, entzieht das Amtsgericht auf Antrag des Vorstands (oder von Amts wegen nach drei Monaten ohne Antrag) die Rechtsfähigkeit.", "grundlage": "§ 73 BGB"}
+      ],
+      "achtung": [
+        "Vor der Eintragung haftet, wer im Namen des entstehenden Vereins handelt, unter Umständen persönlich. Verträge deshalb erst nach Eintragung oder mit klarer Regelung schließen.",
+        "„Soll“ in § 56 BGB heißt: Das Gericht prüft die Zahl von sieben Mitgliedern. Zum Zeitpunkt der Anmeldung sollte sie erfüllt sein.",
+        "Die Eintragung macht den Verein nicht gemeinnützig. Das klärt das Finanzamt separat.",
+        "Registergebühren und Notarkosten sind hier nicht belegt; Höhe beim zuständigen Amtsgericht und Notariat erfragen."
+      ],
+      "fach_html": "<h3>Rechtsfähigkeit</h3><p>Ein nichtwirtschaftlicher Verein erlangt Rechtsfähigkeit durch Eintragung ins Vereinsregister des zuständigen Amtsgerichts (§ 21 BGB). Wirtschaftliche Vereine benötigen staatliche Verleihung (§ 22 BGB). Diese Seite geht nur auf den nichtwirtschaftlichen Verein ein.</p><h3>Anmeldung</h3><p>Der Vorstand hat den Verein anzumelden (§ 59 Abs. 1 BGB). Der Anmeldung sind Satzung und Abschrift der Urkunden über die Bestellung des Vorstands beizufügen (§ 59 Abs. 2 BGB). Die Satzung soll von mindestens sieben Mitgliedern unterzeichnet sein und den Tag der Errichtung enthalten (§ 59 Abs. 3 BGB). Anmeldungen zum Vereinsregister werden von Vorstandsmitgliedern in öffentlich beglaubigter Form abgegeben (§ 77 BGB); die Beglaubigung mittels Videokommunikation ist nach dem Beurkundungsgesetz vorgesehen.</p><h3>Nichtrechtsfähiger Verein</h3><p>Ohne Eintragung bleibt der Verein nichtrechtsfähig. Für die Haftung im Außenverhältnis ist Beratung sinnvoll (nicht im Einzelnen abgerufen).</p>",
+      "zustaendig": ["Amtsgericht als Registergericht (Vereinsregister)", "Notariat (öffentliche Beglaubigung)"],
+      "belege": [
+        "BGB §§ 56, 59, 73, 77, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "BGB § 21, gesetze-im-internet.de (nur als bekannt vorausgesetzt, nicht separat abgerufen), abgerufen 20.09.2026"
+      ],
+      "siehe_auch": ["satzung-verein", "gemeinnuetzigkeit"],
+      "stand": "September 2026"
+    },
+    {
+      "id": "satzung-verein",
+      "kategorie": "gruendung",
+      "titel": "Satzung: Pflichtinhalt und steuerliche Anforderungen",
+      "icon": "📜",
+      "teaser": "Die Satzung muss zivilrechtlich bestimmte Punkte regeln und für die Gemeinnützigkeit die Vorgaben der Mustersatzung erfüllen.",
+      "schlagworte": ["Satzung", "Mustersatzung", "Vereinszweck", "Vermögensbindung", "Satzungsänderung", "§ 60 AO", "§ 58 BGB"],
+      "kurz_html": "<p>Die Satzung ist die „Verfassung“ des Vereins. Nach dem BGB soll sie regeln: Ein- und Austritt der Mitglieder, ob und welche Beiträge gezahlt werden, wie der Vorstand gebildet wird und wie die Mitgliederversammlung einberufen wird.</p><p>Wollen Sie gemeinnützig sein, muss sie außerdem den Zweck und die Art seiner Verwirklichung so genau nennen, dass das Finanzamt prüfen kann, ob die Voraussetzungen für Steuervergünstigungen vorliegen. Dafür gibt es eine amtliche Mustersatzung in der Abgabenordnung.</p><p>Vorstandsmitglieder sind nach dem Gesetz unentgeltlich tätig. Eine Vergütung braucht eine Grundlage in der Satzung.</p>",
+      "schritte": [
+        {"titel": "Zweck präzise formulieren", "text": "Zweck und Art der Verwirklichung so genau, dass das Finanzamt sie prüfen kann (§ 60 AO)."},
+        {"titel": "Mustersatzung abgleichen", "text": "Die Regelungen aus Anlage 1 zu § 60 AO müssen enthalten sein, vor allem Selbstlosigkeit und Vermögensbindung."},
+        {"titel": "Vorstand und Versammlung regeln", "text": "Bildung des Vorstands, Einberufung, Beurkundung der Beschlüsse (§ 58 BGB)."},
+        {"titel": "Vorab beim Finanzamt prüfen lassen", "text": "Auf Antrag kann das Finanzamt die satzungsmäßigen Voraussetzungen feststellen (§ 60a AO)."}
+      ],
+      "fristen": [
+        {"wert": "während des ganzen Jahres", "was": "Die Satzung muss die steuerlichen Voraussetzungen für Körperschaft- und Gewerbesteuer im gesamten Veranlagungszeitraum erfüllen.", "grundlage": "§ 60 Abs. 2 AO"}
+      ],
+      "achtung": [
+        "Eine Satzungsänderung, die den Zweck betrifft, muss vor dem Beschluss sinnvollerweise mit dem Finanzamt abgestimmt werden, sonst droht Verlust der Gemeinnützigkeit (Praxishinweis).",
+        "Nach § 27 Abs. 3 BGB sind Vorstandsmitglieder unentgeltlich tätig. Vergütung ohne Satzungsgrundlage ist riskant, auch steuerlich (§ 55 AO).",
+        "Satzungsänderungen werden erst mit Eintragung im Vereinsregister wirksam (§ 71 Abs. 1 BGB).",
+        "Muster aus dem Netz können veraltet sein. Zum Beispiel gab es 2026 Änderungen bei Vergütungsbeträgen und Haftung."
+      ],
+      "fach_html": "<h3>Mindest- und Sollinhalt (BGB)</h3><p>§ 58 BGB nennt als Sollinhalt: Eintritt und Austritt, Beiträge, Bildung des Vorstands sowie Voraussetzungen und Form der Berufung der Mitgliederversammlung und Beurkundung der Beschlüsse. Mindestinhalt nach § 57 Abs. 1 BGB sind Zweck, Name, Sitz und die Eintragungsabsicht. Satzungsänderungen werden erst mit Eintragung wirksam (§ 71 Abs. 1 BGB).</p><h3>Steuerliche Anforderungen</h3><p>Nach § 60 Abs. 1 AO müssen Satzungszwecke und Art ihrer Verwirklichung so genau bestimmt sein, dass geprüft werden kann, ob die satzungsmäßigen Voraussetzungen vorliegen; die Satzung muss die in Anlage 1 zur AO genannten Bestimmungen enthalten. Nach § 60a AO wird die Einhaltung der satzungsmäßigen Voraussetzungen gesondert festgestellt, auf Antrag oder von Amts wegen bei der Körperschaftsteueranmeldung; die Feststellung bindet Finanzverwaltung und Spender, endet aber bei Rechtsänderung und kann bei geänderten Verhältnissen aufgehoben werden.</p><h3>Vorstandsvergütung</h3><p>Nach § 27 Abs. 3 BGB sind Vorstandsmitglieder unentgeltlich tätig, sofern die Satzung nichts anderes bestimmt. Die Ehrenamtspauschale (§ 3 Nr. 26a EStG) ist steuerlich möglich, verlangt aber, dass die Satzung Vergütung nicht ausschließt.</p>",
+      "zustaendig": ["Registergericht (Eintragung von Satzungsänderungen)", "Zuständiges Finanzamt (Feststellung nach § 60a AO)"],
+      "belege": [
+        "BGB §§ 27, 58, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "AO § 60, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "AO § 60a, gesetze-im-internet.de, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": ["vereinsgruendung-und-eintragung", "gemeinnuetzigkeit"],
+      "stand": "September 2026"
+    },
+    {
+      "id": "gemeinnuetzigkeit",
+      "kategorie": "steuern",
+      "titel": "Gemeinnützigkeit (§§ 51 ff. AO) und Freistellungsbescheid",
+      "icon": "🏷️",
+      "teaser": "Was Gemeinnützigkeit voraussetzt, wie das Finanzamt sie prüft und was sich 2026 bei Mittelverwendung und Sport geändert hat.",
+      "schlagworte": ["Gemeinnützigkeit", "Freistellungsbescheid", "Selbstlosigkeit", "zeitnahe Mittelverwendung", "Anlage Gem", "§ 55 AO", "Finanzamt"],
+      "kurz_html": "<p>Gemeinnützig ist ein Verein, wenn er nach Satzung und tatsächlicher Arbeit selbstlos die Allgemeinheit fördert, zum Beispiel Bildung, Sport oder Bürgerengagement. Das Finanzamt erkennt das an. Dann sind Sie von Körperschaftsteuer und Gewerbesteuer befreit (nicht für den steuerpflichtigen wirtschaftlichen Geschäftsbetrieb, § 5 Abs. 1 Nr. 9 Satz 2 KStG) und dürfen Spendenquittungen ausstellen.</p><p>Selbstlos heißt: Mitglieder erhalten keine Gewinnanteile. Ihr Geld muss für die Zwecke verwendet werden. Grundsätzlich gilt dafür die Frist von zwei Jahren. Kleinkörperschaften sind seit 2021 ausgenommen (zunächst bis 45.000 Euro Einnahmen, seit 1. Januar 2026 bis 100.000 Euro; § 55 Abs. 1 Nr. 5 AO).</p><p>Die Prüfung geschieht in der Steuererklärung; in der Verwaltungspraxis meist im Turnus von drei Jahren (kein Drei-Jahres-Turnus im Gesetz, § 149 AO i. V. m. § 63 Abs. 5 AO).</p>",
+      "schritte": [
+        {"titel": "Satzung prüfen lassen", "text": "Mustersatzung und § 60a AO: Das Finanzamt kann die Satzung vorab feststellen."},
+        {"titel": "Steuererklärung mit Anlage Gem abgeben", "text": "Das Finanzamt prüft in der Körperschaftsteuererklärung, ob Satzung und Tätigkeit den Anforderungen entsprechen."},
+        {"titel": "Mittel zweckgerecht verwenden", "text": "Einnahmen für die Satzungszwecke einsetzen, keine überhöhten Vergütungen (§ 55 AO)."},
+        {"titel": "Aufzeichnungen führen", "text": "Einnahmen und Ausgaben nachweisbar dokumentieren."}
+      ],
+      "fristen": [
+        {"wert": "2 Kalender-/Wirtschaftsjahre", "was": "Zeitnahe Mittelverwendung: spätestens in den auf den Zufluss folgenden zwei Jahren.", "grundlage": "§ 55 Abs. 1 Nr. 5 AO"},
+        {"wert": "100.000 Euro", "was": "Bis zu diesen jährlichen Einnahmen gilt die Pflicht zur zeitnahen Mittelverwendung nicht.", "grundlage": "§ 55 Abs. 1 Nr. 5 AO (Stand 2026)"},
+        {"wert": "in der Praxis alle 3 Jahre", "was": "Prüfung der Gemeinnützigkeit über die Körperschaftsteuererklärung. Verwaltungspraxis, kein Drei-Jahres-Turnus im Gesetz.", "grundlage": "Verwaltungspraxis; § 149 AO i. V. m. § 63 Abs. 5 AO"}
+      ],
+      "achtung": [
+        "Überhöhte Vergütungen oder Vorteile für Mitglieder verletzen die Selbstlosigkeit (§ 55 AO).",
+        "Bei Auflösung muss das Vermögen an eine andere steuerbegünstigte Körperschaft gehen. Die Satzung muss das regeln.",
+        "Die 100.000-Euro-Grenze bezieht sich auf Jahreseinnahmen. Wer sie überschreitet, muss zeitnah verwenden.",
+        "Der „Freistellungsbescheid“ wird nicht gesondert beantragt, sondern folgt aus der Steuerveranlagung. Zur Geltungsdauer gibt es zwei Tatbestände: Freistellungsbescheid oder Anlage nicht älter als 5 Jahre; die Feststellung nach § 60a Abs. 1 AO nicht älter als 3 Kalenderjahre, solange noch kein Freistellungsbescheid vorliegt (§ 63 Abs. 5 AO)."
+      ],
+      "fach_html": "<h3>Voraussetzungen</h3><p>Gemeinnützig sind Körperschaften, die die Allgemeinheit selbstlos, ausschließlich und unmittelbar fördern (§§ 51 bis 57 AO). Die Selbstlosigkeit regelt § 55 AO: Mittel dürfen nur für satzungsmäßige Zwecke verwendet werden, Mitglieder erhalten keine Gewinnanteile, bei Ausscheiden nur eingezahlte Kapitalanteile zurück, keine unverhältnismäßig hohen Vergütungen, Vermögensbindung bei Auflösung.</p><h3>Zeitnahe Mittelverwendung ab 2026</h3><p>Nach § 55 Abs. 1 Nr. 5 AO müssen Mittel grundsätzlich spätestens in den auf den Zufluss folgenden zwei Kalender- oder Wirtschaftsjahren verwendet werden. Der Satz gilt nicht für Körperschaften mit jährlichen Einnahmen von nicht mehr als 100.000 Euro. Für Kleinkörperschaften gilt die Ausnahme seit 2021 (Jahressteuergesetz 2020) mit 45.000 Euro, seit 1. Januar 2026 mit 100.000 Euro.</p><h3>Neue Zwecke</h3><p>§ 52 AO nennt Sport ausdrücklich einschließlich Schach und E-Sport.</p><h3>Verfahren</h3><p>Die Körperschaftsteuerbefreiung wird im Veranlagungsverfahren geprüft (Anlage Gem). Der Dreijahresturnus ist Verwaltungspraxis (§ 149 AO i. V. m. § 63 Abs. 5 AO), nicht im Gesetz festgelegt. Die Befreiung gilt nicht für den steuerpflichtigen wirtschaftlichen Geschäftsbetrieb (§ 5 Abs. 1 Nr. 9 Satz 2 KStG). Verlässliche Fristen erfahren Sie vom Finanzamt.</p>",
+      "zustaendig": ["Zuständiges Finanzamt (Körperschaftsteuerstelle)", "Steuerberatung"],
+      "belege": [
+        "AO § 55, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "AO § 52, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "AO § 60a, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "Deutsche Stiftung Engagement und Ehrenamt, „Steueränderungsgesetz 2025“, deutsche-stiftung-engagement-und-ehrenamt.de, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": ["steuern-im-verein", "spenden-und-zuwendungsbestaetigung", "politische-betaetigung-und-gemeinnuetzigkeit"],
+      "stand": "September 2026"
+    },
+    {
+      "id": "vorstand-haftung-und-versicherung",
+      "kategorie": "organisation",
+      "titel": "Vorstand, Haftung und Versicherungen",
+      "icon": "🛡️",
+      "teaser": "Wann Vorstände und Mitglieder persönlich haften, wie sich das 2026 geändert hat und welche Versicherungen wofür gelten.",
+      "schlagworte": ["Vorstand", "Haftung", "§ 31a BGB", "§ 31b BGB", "Vereinshaftpflicht", "D&O", "Unfallversicherung Ehrenamt"],
+      "kurz_html": "<p>Der Vorstand vertritt den Verein und leitet ihn. Wer im Vorstand unentgeltlich arbeitet oder höchstens 3.300 Euro im Jahr erhält, haftet dem Verein nur bei Vorsatz oder grober Fahrlässigkeit. Bis 2025 lag die Grenze bei 840 Euro.</p><p>Wird ein solches Vorstandsmitglied von Dritten in Anspruch genommen, kann es vom Verein die Freistellung verlangen, außer bei Vorsatz oder grober Fahrlässigkeit. Dasselbe Privileg gilt für Mitglieder, die für den Verein handeln (§ 31b BGB).</p><p>Eine Vereinshaftpflichtversicherung schützt den Verein. Vorstände persönlich schützt eher eine D&O-Versicherung. Die Landes-Ehrenamtsversicherungen decken nach Auskunft von Engagementportalen Vorstände und Vereinsmitglieder meist nicht ab.</p>",
+      "schritte": [
+        {"titel": "Vergütung prüfen", "text": "Liegt sie über 3.300 Euro im Jahr, entfällt das Haftungsprivileg."},
+        {"titel": "Aufgaben und Beschlüsse dokumentieren", "text": "Sorgfältiges Protokoll hilft, Vorsatz oder grobe Fahrlässigkeit auszuschließen."},
+        {"titel": "Versicherungsbedarf klären", "text": "Vereinshaftpflicht, Unfallversicherung, gegebenenfalls D&O, Vermögensschaden."},
+        {"titel": "Gesetzliche Unfallversicherung prüfen", "text": "Ehrenamtsträger in gemeinnützigen Organisationen können sich freiwillig gesetzlich unfallversichern (§ 6 SGB VII)."}
+      ],
+      "fristen": [
+        {"wert": "3.300 Euro", "was": "Höchstvergütung pro Jahr, bis zu der Organmitglieder und besondere Vertreter nur bei Vorsatz/grober Fahrlässigkeit haften.", "grundlage": "§ 31a Abs. 1 BGB"},
+        {"wert": "3.300 Euro", "was": "Dieselbe Grenze für Vereinsmitglieder, die Aufgaben für den Verein übernehmen.", "grundlage": "§ 31b BGB"}
+      ],
+      "achtung": [
+        "Das Privileg gilt im Innenverhältnis. Gegenüber Dritten haftet der Vorstand nach allgemeinen Regeln; er kann aber Freistellung vom Verein verlangen.",
+        "Steuerliche Haftung des Vorstands (zum Beispiel für nicht abgeführte Lohnsteuer) ist ein eigenes Thema und hier nicht geprüft.",
+        "Vereinshaftpflicht und D&O sind verschiedene Produkte. Prüfen Sie, wer versichert ist und ob Vermögensschäden erfasst sind.",
+        "Länder-Sammelverträge sind Rückfalllösungen und decken Vorstände oft nicht. Aktuelle Bedingungen beim jeweiligen Land erfragen."
+      ],
+      "fach_html": "<h3>Haftungsprivileg</h3><p>Organmitglieder oder besondere Vertreter, die unentgeltlich tätig sind oder für ihre Tätigkeit eine Vergütung erhalten, die 3.300 Euro jährlich nicht übersteigt, haften dem Verein für einen bei der Wahrnehmung ihrer Pflichten verursachten Schaden nur bei Vorsatz oder grober Fahrlässigkeit; dies gilt auch gegenüber Vereinsmitgliedern. Die Beweislast trägt der Verein oder das betroffene Mitglied (§ 31a Abs. 1 BGB). Bei Schadensersatzpflicht gegenüber Dritten kann Befreiung von der Verbindlichkeit verlangt werden, es sei denn Vorsatz oder grobe Fahrlässigkeit (§ 31a Abs. 2 BGB). § 31b BGB überträgt das auf Vereinsmitglieder. Die Anhebung von 840 auf 3.300 Euro geht auf das Steueränderungsgesetz 2025 zurück (Kanzleiangaben).</p><h3>Gesetzliche Unfallversicherung</h3><p>§ 2 SGB VII führt bestimmte ehrenamtlich Tätige (unter anderem für öffentlich-rechtliche Körperschaften) als kraft Gesetzes versichert. § 6 Abs. 1 Nr. 3 SGB VII erlaubt gewählten oder beauftragten Ehrenamtsträgern in gemeinnützigen Organisationen die freiwillige Versicherung; den Antrag kann die Organisation stellen.</p><h3>Private Versicherungen</h3><p>Nach Angaben von Engagementportalen schützt die Vereinshaftpflicht den Verein, nicht den Vorstand bei persönlicher Haftung. Vermittlerseiten sind hier nur eingeschränkt neutral belegt.</p>",
+      "zustaendig": ["Berufsgenossenschaft/Unfallkasse (freiwillige Versicherung)", "Versicherer/Makler (private Verträge)", "Deutsche Stiftung für Engagement und Ehrenamt (Versicherungsberatung)"],
+      "belege": [
+        "BGB §§ 31a, 31b, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "SGB VII §§ 2, 6, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "Deutsche Stiftung für Engagement und Ehrenamt, „Versicherungsschutz-Beratung“, abgerufen 20.09.2026",
+        "Engagiert in NRW, „Versicherungsschutz“, engagiert-in-nrw.de, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": ["mitgliederversammlung-und-beschluesse", "ehrenamts-und-uebungsleiterpauschale"],
+      "stand": "September 2026"
+    },
+    {
+      "id": "mitgliederversammlung-und-beschluesse",
+      "kategorie": "organisation",
+      "titel": "Mitgliederversammlung und Beschlüsse",
+      "icon": "🗳️",
+      "teaser": "Wie Beschlüsse gefasst werden, ob digital oder hybrid getagt werden darf und wann eine Auflösung möglich ist.",
+      "schlagworte": ["Mitgliederversammlung", "Beschluss", "§ 32 BGB", "virtuelle Versammlung", "Textform", "Vorstandswahl", "Einberufung"],
+      "kurz_html": "<p>Die Mitgliederversammlung ist das oberste Organ. Sie entscheidet über alles, was nicht dem Vorstand zugewiesen ist. Bei der Einberufung muss der Gegenstand der Beschlussfassung benannt werden.</p><p>Die Versammlung darf auch digital oder hybrid stattfinden. Bei der Einladung muss stehen, wie die Mitglieder ihre Rechte elektronisch ausüben können.</p><p>Ein Beschluss ohne Versammlung ist gültig, wenn alle Mitglieder ihm in Textform zustimmen. Die Satzung kann weitere Regeln vorsehen.</p>",
+      "schritte": [
+        {"titel": "Einladung nach Satzung verschicken", "text": "Form und Frist stehen in der Satzung. Tagesordnungspunkte konkret benennen."},
+        {"titel": "Digitale Teilnahme regeln", "text": "Bei virtuellem oder hybridem Format in der Einladung erklären, wie Rechte ausgeübt werden."},
+        {"titel": "Beschlüsse protokollieren", "text": "Protokoll mit Datum, Ergebnis und Unterschrift anfertigen. Vorstandswahlen sind für das Register wichtig."},
+        {"titel": "Vorstandswechsel anmelden", "text": "Vorstandsänderungen sind dem Vereinsregister in öffentlich beglaubigter Form anzumelden (§§ 67, 77 BGB)."}
+      ],
+      "fristen": [
+        {"wert": "3/4 der abgegebenen Stimmen", "was": "Erforderliche Mehrheit für die Auflösung durch die Mitgliederversammlung, wenn die Satzung nichts anderes bestimmt.", "grundlage": "§ 41 BGB"},
+        {"wert": "Zustimmung aller Mitglieder", "was": "Beschluss ohne Versammlung nur bei Zustimmung aller in Textform.", "grundlage": "§ 32 BGB"}
+      ],
+      "achtung": [
+        "Digitale Formate erlauben Beschlüsse nur, wenn die Einladung den Ablauf richtig beschreibt. Fehler machen Beschlüsse anfechtbar.",
+        "Die Einladungsfrist ist hier nicht belegt; sie steht in der Satzung.",
+        "Beschlüsse über Satzungsänderungen und Auflösung haben höhere Mehrheitsanforderungen. Wortlaut der Satzung prüfen.",
+        "Beurkundung: Nach § 58 BGB soll die Satzung regeln, wie Beschlüsse beurkundet werden."
+      ],
+      "fach_html": "<h3>Zuständigkeit</h3><p>Nach § 32 Abs. 1 BGB werden die Angelegenheiten des Vereins, soweit sie nicht von Vorstand oder anderen Organen zu besorgen sind, durch Beschlussfassung in einer Versammlung der Mitglieder geordnet. Bei der Berufung ist der Gegenstand der Beschlussfassung zu bezeichnen.</p><h3>Digital und hybrid</h3><p>Die Versammlung kann virtuell oder hybrid stattfinden; die Einladung muss angeben, wie Mitglieder ihre Rechte elektronisch ausüben können. Ein Beschluss ist auch ohne Versammlung gültig, wenn alle Mitglieder in Textform zustimmen.</p><h3>Vorstand</h3><p>Sind mehrere Vorstandsmitglieder vorhanden, wird der Vorstand nach dem Gesetz durch Mehrheitsbeschluss der Mitglieder des Vorstands tätig; die Satzung kann die Vertretungsmacht mit Wirkung gegenüber Dritten beschränken, wenn dies eingetragen ist (§ 26 BGB). Zur Bestellung des Vorstands durch Beschluss der Mitgliederversammlung siehe § 27 BGB.</p><h3>Auflösung</h3><p>Der Verein kann durch Beschluss der Mitgliederversammlung aufgelöst werden; erforderlich ist eine Mehrheit von drei Vierteln der abgegebenen Stimmen, sofern die Satzung nichts anderes regelt (§ 41 BGB).</p>",
+      "zustaendig": ["Vorstand (Einberufung)", "Registergericht (Anmeldung von Änderungen)"],
+      "belege": [
+        "BGB § 32, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "BGB §§ 26, 27, 41, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "BGB § 58, gesetze-im-internet.de, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": ["vorstand-haftung-und-versicherung", "transparenzregister-buchfuehrung-aufloesung"],
+      "stand": "September 2026"
+    },
+    {
+      "id": "spenden-und-zuwendungsbestaetigung",
+      "kategorie": "steuern",
+      "titel": "Spenden und Zuwendungsbestätigung",
+      "icon": "🎁",
+      "teaser": "Wann Sie eine Zuwendungsbestätigung ausstellen dürfen, wann der Kontoauszug reicht und wofür Aussteller haften.",
+      "schlagworte": ["Spende", "Zuwendungsbestätigung", "Spendenquittung", "Kleinspende", "300 Euro", "Ausstellerhaftung", "§ 10b EStG"],
+      "kurz_html": "<p>Spender können Spenden und Mitgliedsbeiträge von der Steuer absetzen, wenn der Empfänger steuerbegünstigt ist. Den Nachweis führt in der Regel eine <strong>Zuwendungsbestätigung</strong> nach amtlichem Vordruck.</p><p>Bei Spenden bis 300 Euro genügt der Bareinzahlungsbeleg oder die Buchungsbestätigung der Bank.</p><p>Wer eine falsche Bestätigung ausstellt oder Spenden zweckwidrig verwendet, haftet: 30 Prozent des zugewendeten Betrags. Stellen Sie Bestätigungen deshalb nur aus, wenn die Voraussetzungen vorliegen.</p>",
+      "schritte": [
+        {"titel": "Gemeinnützigkeit sicherstellen", "text": "Ohne gültige Anerkennung dürfen Sie keine Bestätigungen ausstellen."},
+        {"titel": "Amtlichen Vordruck verwenden", "text": "Zuwendungsbestätigungen nach amtlichem Muster (§ 50 Abs. 1 EStDV)."},
+        {"titel": "Spendeneingang dokumentieren", "text": "Zahlung, Betrag, Datum, Zweck in der Buchhaltung belegen."},
+        {"titel": "Bis 300 Euro Beleg genügen lassen", "text": "Für Kleinspenden reicht der Bank- oder Einzahlungsbeleg (§ 50 Abs. 4 EStDV)."}
+      ],
+      "fristen": [
+        {"wert": "300 Euro", "was": "Bis zu dieser Höhe genügt als Nachweis der Bareinzahlungsbeleg oder die Buchungsbestätigung eines Kreditinstituts.", "grundlage": "§ 50 Abs. 4 EStDV"},
+        {"wert": "20 % / 4 Promille", "was": "Abzug beim Spender bis 20 Prozent des Gesamtbetrags der Einkünfte oder 4 Promille der Summe aus Umsätzen und Löhnen.", "grundlage": "§ 10b Abs. 1 EStG"},
+        {"wert": "30 %", "was": "Haftung bei unrichtiger Bestätigung oder Fehlverwendung: 30 Prozent des zugewendeten Betrags.", "grundlage": "§ 10b Abs. 4 EStG"}
+      ],
+      "achtung": [
+        "Der Abzugsausschluss für Mitgliedsbeiträge (§ 10b Abs. 1 Satz 8 EStG) trifft § 52 Abs. 2 Nr. 21 (Sport), Nr. 23 (u. a. Freizeitzwecke, Heimatpflege) und kulturelle Betätigungen in erster Linie der Freizeitgestaltung. Abziehbar sind Beiträge an Kunst- und Kulturkörperschaften nach § 52 Abs. 2 Nr. 5 AO.",
+        "Der Spender bewahrt Belege auf, wenn das Finanzamt sie anfordert (§ 50 EStDV).",
+        "Ob und wie sich Muster und Vereinfachungen 2026 verändert haben: In den geprüften Quellen wurden dazu keine Änderungen genannt (DSEE: Steueränderungsgesetz betrifft dies nicht).",
+        "Sachspenden und Aufwandsspenden haben zusätzliche Formalien, die hier nicht behandelt sind."
+      ],
+      "fach_html": "<h3>Nachweis</h3><p>Nach § 50 Abs. 1 EStDV setzt der Abzug von Zuwendungen grundsätzlich eine Zuwendungsbestätigung nach amtlich vorgeschriebenem Vordruck voraus; die Vorschrift verweist zusätzlich auf das Zuwendungsempfängerregister nach § 60b AO. § 50 Abs. 4 EStDV lässt bei Beträgen bis 300 Euro den Bareinzahlungsbeleg oder die Buchungsbestätigung des Kreditinstituts ausreichen; § 50 Abs. 8 EStDV regelt die Aufbewahrung beim Spender bis zum Ablauf eines Jahres nach Bekanntgabe der Steuerfestsetzung.</p><h3>Abzugsgrenzen und Haftung</h3><p>§ 10b Abs. 1 EStG erlaubt den Abzug von Zuwendungen für steuerbegünstigte Zwecke bis zu 20 Prozent des Gesamtbetrags der Einkünfte oder 4 Promille der Summe der gesamten Umsätze und der im Kalenderjahr aufgewendeten Löhne und Gehälter. Bei Ausstellung einer unrichtigen Bestätigung oder zweckwidriger Verwendung greift die Haftung von 30 Prozent des zugewendeten Betrags (§ 10b Abs. 4 EStG).</p><h3>Sonderfälle</h3><p>Zuwendungen in das Vermögen von Stiftungen können über den Höchstbetrag hinaus zusätzlich abgezogen werden: 1 Million Euro (Ehegatten 2 Millionen Euro) innerhalb von zehn Jahren (§ 10b Abs. 1a EStG).</p>",
+      "zustaendig": ["Zuständiges Finanzamt (Prüfung Zuwendungsbestätigungen)", "Steuerberatung"],
+      "belege": [
+        "EStDV § 50, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "EStG § 10b, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "Deutsche Stiftung Engagement und Ehrenamt, „Steueränderungsgesetz 2025“, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": ["gemeinnuetzigkeit", "steuern-im-verein"],
+      "stand": "September 2026"
+    },
+    {
+      "id": "steuern-im-verein",
+      "kategorie": "steuern",
+      "titel": "Steuern im Verein: Freigrenzen, Geschäftsbetrieb, Erklärung",
+      "icon": "💼",
+      "teaser": "Freigrenze 50.000 Euro, Körperschaftsteuer-Freibetrag, Kleinunternehmerregel und was Sie in der Steuererklärung angeben.",
+      "schlagworte": ["wirtschaftlicher Geschäftsbetrieb", "Freigrenze", "Körperschaftsteuer", "Umsatzsteuer", "Kleinunternehmer", "Zweckbetrieb", "Sphärenzuordnung"],
+      "kurz_html": "<p>Gemeinnützige Vereine sind grundsätzlich steuerbefreit. Das gilt aber nicht für Einnahmen aus einem <strong>wirtschaftlichen Geschäftsbetrieb</strong>, zum Beispiel ein Vereinsfest mit Verkauf, das kein Zweckbetrieb ist.</p><p>Seit 2026 gilt: Liegen die Einnahmen aus solchen steuerpflichtigen Betrieben zusammen bei höchstens 50.000 Euro im Jahr (einschließlich Umsatzsteuer), fallen dafür keine Körperschaft- und Gewerbesteuer an. Bis dahin waren es 45.000 Euro.</p><p>Bei Einnahmen bis 50.000 Euro entfällt die Prüfung der §§ 65 bis 68 AO (Zweckbetriebsvoraussetzungen), aber nur, wenn insgesamt ein Gewinn erzielt wird. Für die Umsatzsteuer gibt es getrennt davon die Kleinunternehmerregel (25.000 Euro im Vorjahr).</p>",
+      "schritte": [
+        {"titel": "Einnahmen nach Bereichen sortieren", "text": "Ideeller Bereich, Vermögensverwaltung, Zweckbetrieb, wirtschaftlicher Geschäftsbetrieb."},
+        {"titel": "Einnahmen des steuerpflichtigen Betriebs addieren", "text": "Alle Einnahmen einschließlich Umsatzsteuer zählen. Liegen sie bei höchstens 50.000 Euro?"},
+        {"titel": "Umsatzsteuer prüfen", "text": "Kleinunternehmerregelung: Vorjahr höchstens 25.000 Euro, laufendes Jahr höchstens 100.000 Euro."},
+        {"titel": "Steuererklärung fristgerecht abgeben", "text": "Elektronisch mit Anlage Gem, Turnus (Verwaltungspraxis) vom Finanzamt bestimmt."}
+      ],
+      "fristen": [
+        {"wert": "50.000 Euro", "was": "Freigrenze für steuerpflichtige wirtschaftliche Geschäftsbetriebe (Einnahmen einschließlich Umsatzsteuer). Überschreitung um einen Euro macht den gesamten Gewinn steuerpflichtig.", "grundlage": "§ 64 Abs. 3 AO"},
+        {"wert": "5.000 Euro", "was": "Freibetrag bei der Körperschaftsteuer, höchstens in Höhe des Einkommens.", "grundlage": "§ 24 KStG"},
+        {"wert": "25.000 / 100.000 Euro", "was": "Kleinunternehmergrenzen: Vorjahr 25.000 Euro nicht überschritten, laufendes Jahr höchstens 100.000 Euro.", "grundlage": "§ 19 Abs. 1 UStG"}
+      ],
+      "achtung": [
+        "Es ist eine Freigrenze, kein Freibetrag: Schon ein Euro darüber macht alles steuerpflichtig (Wortlaut „nicht 50.000 Euro übersteigen“).",
+        "Eine Aufspaltung in mehrere Körperschaften nur zur mehrfachen Nutzung der Freigrenze ist missbräuchlich (§ 64 Abs. 4 AO).",
+        "Sportliche Veranstaltungen sind Zweckbetrieb, wenn die Einnahmen insgesamt 50.000 Euro im Jahr nicht übersteigen (§ 67a Abs. 1 AO).",
+        "Umsatzsteuerliche Sonderregeln und Gewerbesteuerfreibetrag sind hier nicht im Einzelnen geprüft."
+      ],
+      "fach_html": "<h3>Steuerpflichtiger wirtschaftlicher Geschäftsbetrieb</h3><p>Nach § 64 Abs. 3 AO unterliegen Einnahmen einschließlich Umsatzsteuer aus wirtschaftlichen Geschäftsbetrieben, die keine Zweckbetriebe sind, nicht der Körperschaft- und Gewerbesteuer, wenn sie insgesamt 50.000 Euro im Jahr nicht übersteigen. Mehrere solcher Betriebe werden zusammengefasst (§ 64 Abs. 2 AO). Die Anhebung von 45.000 auf 50.000 Euro trat mit dem Steueränderungsgesetz 2025 zum 1. Januar 2026 in Kraft. Bei Einnahmen (Gesamtgrenze) bis 50.000 Euro entfällt nur die Prüfung der §§ 65 bis 68 AO, und nur wenn insgesamt ein Gewinn erzielt wird (§ 64 Abs. 3 Satz 2 AO).</p><h3>Pauschalgewinn</h3><p>§ 64 Abs. 6 AO erlaubt für bestimmte Betätigungen (Werbung für Betriebe, Totalisatoren, Blutspendedienst) pauschale Gewinnermittlung mit 15 Prozent der Einnahmen.</p><h3>Körperschaftsteuer und Umsatzsteuer</h3><p>Der Freibetrag nach § 24 KStG beträgt 5.000 Euro. Nach § 19 Abs. 1 UStG ist Kleinunternehmer, wer im Vorjahr 25.000 Euro nicht überschritten hat und im laufenden Jahr 100.000 Euro nicht überschreitet.</p><h3>Erklärung</h3><p>Gemeinnützige Vereine geben elektronisch Körperschaftsteuererklärung mit Anlage Gem ab. Der Turnus von drei Jahren ist Verwaltungspraxis (§ 149 AO i. V. m. § 63 Abs. 5 AO), nicht im Gesetz festgelegt; die Erstabgabe erfolgt im ersten Jahr nach Gründung.</p>",
+      "zustaendig": ["Zuständiges Finanzamt", "Steuerberatung"],
+      "belege": [
+        "AO § 64, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "KStG § 24, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "UStG § 19, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "Flick Gocke Schaumburg, Blog zum Steueränderungsgesetz 2025, fgs.de, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": ["gemeinnuetzigkeit", "transparenzregister-buchfuehrung-aufloesung"],
+      "stand": "September 2026"
+    },
+    {
+      "id": "ehrenamts-und-uebungsleiterpauschale",
+      "kategorie": "geld-personal",
+      "titel": "Ehrenamts- und Übungsleiterpauschale 2026",
+      "icon": "🤲",
+      "teaser": "3.300 Euro für Übungsleiter und 960 Euro für Ehrenamtliche pro Jahr, steuerfrei. Was das bedeutet und was es nicht deckt.",
+      "schlagworte": ["Übungsleiterpauschale", "Ehrenamtspauschale", "§ 3 Nr. 26 EStG", "§ 3 Nr. 26a EStG", "Aufwandsentschädigung", "steuerfrei", "Vergütung Vorstand"],
+      "kurz_html": "<p>Wer nebenberuflich für einen gemeinnützigen Verein arbeitet, kann bis zu einer Grenze steuerfrei Geld bekommen.</p><p>Seit 1. Januar 2026: <strong>Übungsleiterpauschale 3.300 Euro pro Jahr</strong> (zum Beispiel für Trainer, Kursleitung, Betreuung). <strong>Ehrenamtspauschale 960 Euro pro Jahr</strong> für sonstige ehrenamtliche Tätigkeit, etwa Vorstand oder Kassenwart. Vorher waren es 3.000 und 840 Euro.</p><p>Diese Beträge sind auch frei von Sozialversicherungsbeiträgen. Bei Vorstandsvergütung gilt: Ohne Satzungsgrundlage ist keine Vergütung erlaubt.</p>",
+      "schritte": [
+        {"titel": "Tätigkeit einordnen", "text": "Tätigkeit aus dem Katalog des § 3 Nr. 26 EStG (Übungsleiter, Ausbilder, Erzieher, Betreuer o. Ä., künstlerisch, Pflege) oder sonstiges Ehrenamt (Nr. 26a)?"},
+        {"titel": "Satzung prüfen", "text": "Vergütung für Vorstände braucht eine Satzungsgrundlage (§ 27 Abs. 3 BGB)."},
+        {"titel": "Vertrag oder Vereinbarung schriftlich festhalten", "text": "Tätigkeit, Höhe und Zeitraum nachvollziehbar dokumentieren."},
+        {"titel": "Bei Überschreitung Lohnabrechnung klären", "text": "Betrag über der Pauschale ist steuer- und beitragspflichtig, gegebenenfalls Minijob."}
+      ],
+      "fristen": [
+        {"wert": "3.300 Euro pro Jahr", "was": "Übungsleiterpauschale (Nebenberufliche Tätigkeit zur Förderung gemeinnütziger Zwecke).", "grundlage": "§ 3 Nr. 26 EStG"},
+        {"wert": "960 Euro pro Jahr", "was": "Allgemeiner Ehrenamtstatbestand für nebenberufliche Tätigkeit im Dienst einer juristischen Person des öffentlichen Rechts oder einer begünstigten Einrichtung.", "grundlage": "§ 3 Nr. 26a EStG"},
+        {"wert": "275 Euro / 80 Euro pro Monat", "was": "Orientierungswert der Minijob-Zentrale für die monatliche Verteilung (Sekundärquelle). Die Pauschalen sind Jahresbeträge, keine Monatsgrenzen.", "grundlage": "Minijob-Zentrale, Übungsleiter- und Ehrenamtspauschale 2026"}
+      ],
+      "achtung": [
+        "Die Übungsleiterpauschale (§ 3 Nr. 26 EStG) gilt nur für den Tätigkeitskatalog (Übungsleiter, Ausbilder, Erzieher, Betreuer o. Ä., künstlerische Tätigkeit, Pflege) im Dienst einer juristischen Person des öffentlichen Rechts oder einer begünstigten Einrichtung. Nr. 26a ist der allgemeine Ehrenamtstatbestand.",
+        "Für dieselbe Tätigkeit sind beide Pauschalen nicht nebeneinander nutzbar; für verschiedene Tätigkeiten ist die Kumulierung möglich (§ 3 Nr. 26a Satz 2 EStG).",
+        "Die Pauschale ersetzt keine Prüfung, ob eine Beschäftigung vorliegt (siehe Seite zu Beschäftigten).",
+        "Alte Vertragsvorlagen mit 3.000 oder 840 Euro anpassen."
+      ],
+      "fach_html": "<h3>Rechtsgrundlage</h3><p>§ 3 Nr. 26 EStG stellt Einnahmen aus nebenberuflichen Tätigkeiten als Übungsleiter, Ausbilder, Erzieher, Betreuer oder vergleichbar, aus künstlerischer Tätigkeit oder der Pflege alter, kranker oder behinderter Menschen im Dienst einer juristischen Person des öffentlichen Rechts oder einer begünstigten Einrichtung bis zu 3.300 Euro im Jahr steuerfrei; § 3 Nr. 26a EStG ist der allgemeine Ehrenamtstatbestand (bis 960 Euro im Jahr). Die Erhöhung auf 3.300 und 960 Euro wurde durch das Steueränderungsgesetz 2025 zum 1. Januar 2026 vorgenommen (Kanzleiangaben, zuvor 3.000 und 840 Euro).</p><h3>Sozialversicherung</h3><p>Nach der Minijob-Zentrale und Fachpresse bleiben steuerfreie Beträge nach Nr. 26 und 26a auch beitragsfrei in der Sozialversicherung. Sie werden nicht auf die Minijob-Verdienstgrenze angerechnet (Angabe der Minijob-Zentrale; die Minijob-Grenze betrug 538 Euro 2024, 556 Euro 2025 und beträgt 603 Euro 2026, § 8 Abs. 1a SGB IV).</p><h3>Anwendung</h3><p>Die Pauschalen sind Jahresbeträge; die Verteilung auf 275 Euro und 80 Euro pro Monat ist nur ein Orientierungswert (Minijob-Zentrale). Für dieselbe Tätigkeit ist eine Kumulierung ausgeschlossen, für verschiedene Tätigkeiten möglich (§ 3 Nr. 26a Satz 2 EStG). Abgrenzung und Nachweise mit Steuerberatung klären.</p>",
+      "zustaendig": ["Zuständiges Finanzamt (Steuer)", "Minijob-Zentrale / Krankenkasse (Sozialversicherung)", "Steuerberatung"],
+      "belege": [
+        "EStG § 3 Nr. 26, 26a, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "Minijob Magazin, „Übungsleiterpauschale und Ehrenamt: Was gilt ab 2026?“, magazin.minijob-zentrale.de, abgerufen 20.09.2026",
+        "Deutsche Stiftung Engagement und Ehrenamt, „Steueränderungsgesetz 2025“, abgerufen 20.09.2026",
+        "BGB § 27 Abs. 3, gesetze-im-internet.de, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": ["beschaeftigte-minijobs-honorarkraefte", "vorstand-haftung-und-versicherung"],
+      "stand": "September 2026"
+    },
+    {
+      "id": "foerdermittel-und-zuwendungen",
+      "kategorie": "geld-personal",
+      "titel": "Fördermittel und Zuwendungen",
+      "icon": "🏦",
+      "teaser": "Was ein Zuwendungsbescheid verlangt: Nebenbestimmungen, Verwendungsnachweis, Aufbewahrung, Vergaberecht in Kürze.",
+      "schlagworte": ["Fördermittel", "Zuwendungsbescheid", "Verwendungsnachweis", "ANBest-P", "Projektförderung", "Vergaberecht", "Rückforderung"],
+      "kurz_html": "<p>Öffentliche Fördermittel kommen mit Auflagen. Die wichtigsten stehen im <strong>Zuwendungsbescheid</strong> und in den dort einbezogenen Nebenbestimmungen (bei Projektförderung häufig ANBest-P).</p><p>Sie müssen nachweisen, wie das Geld verwendet wurde: Ein Zahlenteil mit Einnahmen und Ausgaben und ein Sachbericht. Unterlagen sind aufzubewahren. Die Behörde darf prüfen.</p><p>Ob Sie bei Einkäufen Vergaberegeln beachten müssen, steht im Bescheid. Vereine sind nicht automatisch öffentliche Auftraggeber, können aber durch Auflagen im Bescheid darauf verpflichtet werden.</p>",
+      "schritte": [
+        {"titel": "Bescheid und Nebenbestimmungen lesen", "text": "Zweck, Zeitraum, Kostenplan und Auflagen stehen dort, nicht in allgemeinen Ratgebern."},
+        {"titel": "Getrennt buchen", "text": "Einnahmen und Ausgaben des Projekts nachvollziehbar erfassen."},
+        {"titel": "Vergabe-Auflagen prüfen", "text": "Bei Einkäufen mit Fördergeld die vorgeschriebenen Schritte einhalten und dokumentieren."},
+        {"titel": "Verwendungsnachweis fristgerecht einreichen", "text": "Frist und Form aus dem Bescheid; Belege aufbewahren."}
+      ],
+      "fristen": [
+        {"wert": "5 Jahre", "was": "Aufbewahrung der Belege nach Vorlage des Verwendungsnachweises, so in der ANBest-P NRW, Nr. 6.8 (Beispiel; Land und Bescheid maßgeblich).", "grundlage": "ANBest-P NRW Nr. 6.8, Beispiel Bezirksregierung Düsseldorf"},
+        {"wert": "6 Monate", "was": "Verwendungsnachweis sechs Monate nach Erfüllung des Zuwendungszwecks, spätestens sechs Monate nach Ende des Bewilligungszeitraums; Zwischennachweis binnen vier Monaten nach Ablauf des Haushaltsjahres (ANBest-P NRW, Beispiel; Bescheid maßgeblich).", "grundlage": "ANBest-P NRW Nr. 6.1"},
+        {"wert": "2 Monate", "was": "Ausgezahlte Mittel binnen zwei Monaten verwenden, sonst Zinsen von 5 Prozentpunkten über dem Basiszinssatz (ANBest-P NRW, Beispiel; Bescheid maßgeblich).", "grundlage": "ANBest-P NRW Nr. 5.4, 8.3.1, 8.4, 8.5"},
+        {"wert": "laut Bescheid", "was": "Frist für den Verwendungsnachweis und Verwendungszeitraum stehen im Zuwendungsbescheid.", "grundlage": "Zuwendungsbescheid"}
+      ],
+      "achtung": [
+        "Nebenbestimmungen unterscheiden sich nach Bund, Land und EU. Immer den eigenen Bescheid lesen.",
+        "Nicht zweckgerecht oder nicht rechtzeitig nachgewiesene Mittel können zurückgefordert werden (nicht wörtlich aus Primärquelle geprüft).",
+        "Fördermittel sind nicht automatisch Zeitnahe-Verwendungs-Mittel im Sinne des Gemeinnützigkeitsrechts; die Regeln des Fördergebers gehen vor.",
+        "Vergaberechtliche Schwellenwerte sind hier nicht wiedergegeben. Bescheid und Fördergeber sind maßgeblich."
+      ],
+      "fach_html": "<h3>Zuwendungsrecht</h3><p>Die Allgemeinen Nebenbestimmungen für Zuwendungen zur Projektförderung (ANBest-P) sind, wenn nicht ausdrücklich anders bestimmt, Bestandteil des Zuwendungsbescheids. Im Verwendungsnachweis sind die tatsächlichen projektbezogenen Einnahmen und Ausgaben zahlenmäßig nachzuweisen und die zweckentsprechende Verwendung sowie der Projektfortschritt in einem Sachbericht darzustellen. Die Bewilligungsbehörde ist berechtigt, Bücher, Belege und sonstige Geschäftsunterlagen anzufordern und die Verwendung durch örtliche Prüfung zu prüfen. Beispiel ANBest-P NRW: Der Verwendungsnachweis ist sechs Monate nach Erfüllung des Zuwendungszwecks, spätestens sechs Monate nach Ende des Bewilligungszeitraums vorzulegen (Nr. 6.1); ein Zwischennachweis binnen vier Monaten nach Ablauf des Haushaltsjahres. Mittel sind binnen zwei Monaten nach Auszahlung zu verwenden, sonst fallen Zinsen von 5 Prozentpunkten über dem Basiszinssatz an (Nr. 5.4, 8.3.1, 8.4, 8.5). Die Belege sind fünf Jahre nach Vorlage des Verwendungsnachweises aufzubewahren (Nr. 6.8). Fassung des jeweiligen Fördergebers und Bescheid sind maßgeblich.</p><h3>Vergaberecht knapp</h3><p>Zuwendungsempfänger sind nicht automatisch öffentliche Auftraggeber; Vergabepflichten können aber über Nebenbestimmungen oder Bescheid auferlegt werden. Welche Regeln gelten, ergibt sich aus dem jeweiligen Bescheid und den Richtlinien des Fördergebers.</p><h3>Abgrenzung</h3><p>Fördergelder sind steuerlich meist echte Zuschüsse im ideellen Bereich, nicht Spenden. Eine Zuwendungsbestätigung darf für Zuschüsse der öffentlichen Hand nicht ausgestellt werden (im Einzelnen hier nicht geprüft; Steuerberatung).</p>",
+      "zustaendig": ["Bewilligungsbehörde laut Bescheid", "Zuwendungsgeber (Ministerium, Kommune, Stiftung)", "Steuerberatung"],
+      "belege": [
+        "Bezirksregierung Düsseldorf, ANBest-P (Sozialpolitik), brd.nrw.de, abgerufen 20.09.2026",
+        "ANBest-P, Landesbehörde Rheinland-Pfalz (ADD), add.rlp.de, abgerufen 20.09.2026",
+        "Ratija, „Vergaberecht und Zuwendungen“, ratija.de, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": ["steuern-im-verein", "transparenzregister-buchfuehrung-aufloesung"],
+      "stand": "September 2026"
+    },
+    {
+      "id": "beschaeftigte-minijobs-honorarkraefte",
+      "kategorie": "geld-personal",
+      "titel": "Beschäftigte, Minijobs und Honorarkräfte im Verein",
+      "icon": "👥",
+      "teaser": "Mindestlohn 13,90 Euro, Minijobgrenze 603 Euro, Scheinselbständigkeit: Was Vereine als Arbeitgeber beachten müssen.",
+      "schlagworte": ["Minijob", "Mindestlohn", "Honorarkraft", "Scheinselbständigkeit", "Statusfeststellung", "Arbeitgeber", "Übungsleiter"],
+      "kurz_html": "<p>Ein Verein kann Arbeitgeber sein. Dann gelten Mindestlohn und Sozialversicherungsrecht wie bei jedem Arbeitgeber.</p><p>2026: gesetzlicher Mindestlohn <strong>13,90 Euro</strong> pro Stunde; die Minijobgrenze liegt bei <strong>603 Euro</strong> im Monat (abgeleiteter Jahreswert: 7.236 Euro; das Gesetz nennt einen Monatsdurchschnitt).</p><p>Ab 1. Januar 2027 beträgt der Mindestlohn 14,60 Euro. Die Minijobgrenze steigt dann nach der gesetzlichen Formel auf 633 Euro (Jahreswert 7.596 Euro; ergibt sich aus § 8 Abs. 1a SGB IV (14,60 € × 130 ÷ 3, aufgerundet) und § 1 MiLoV5; Bekanntgabe des BMAS im Bundesanzeiger nicht geprüft).</p><p>Honorarkräfte sind nur dann selbständig, wenn sie es tatsächlich sind. Bei Zweifeln kann die Deutsche Rentenversicherung Bund im Statusfeststellungsverfahren entscheiden. Die Übungsleiter- und Ehrenamtspauschalen sind davon getrennt zu sehen.</p>",
+      "schritte": [
+        {"titel": "Beschäftigung prüfen", "text": "Weisungsgebundenheit, Eingliederung, feste Arbeitszeiten deuten auf Arbeitsverhältnis, nicht auf Honorar."},
+        {"titel": "Bei Zweifeln Status klären", "text": "Antrag an die Deutsche Rentenversicherung Bund (§ 7a SGB IV)."},
+        {"titel": "Mindestlohn einhalten", "text": "13,90 Euro pro Stunde ab 1. Januar 2026; 14,60 Euro ab 1. Januar 2027."},
+        {"titel": "Minijob anmelden", "text": "Bis 603 Euro im Monat: Anmeldung über die Minijob-Zentrale."}
+      ],
+      "fristen": [
+        {"wert": "13,90 Euro", "was": "Gesetzlicher Mindestlohn pro Stunde seit 1. Januar 2026 (vorher 12,82 Euro).", "grundlage": "Mindestlohnanpassungsverordnung nach § 11 MiLoG (13,90 Euro ab 1.1.2026, 14,60 Euro ab 1.1.2027)"},
+        {"wert": "603 Euro / Monat", "was": "Verdienstgrenze im Minijob 2026; ab 1. Januar 2027 633 Euro (Jahreswert 7.596 Euro; ergibt sich aus § 8 Abs. 1a SGB IV (14,60 € × 130 ÷ 3, aufgerundet) und § 1 MiLoV5; Bekanntgabe des BMAS im Bundesanzeiger nicht geprüft) (abgeleiteter Jahreswert 2026: 7.236 Euro; das Gesetz nennt einen Monatsdurchschnitt); Grenze wird aus dem Mindestlohn berechnet.", "grundlage": "§ 8 Abs. 1a SGB IV (603 Euro), Minijob-Zentrale"}
+      ],
+      "achtung": [
+        "Scheinselbständigkeit kann zu Nachforderungen von Sozialversicherungsbeiträgen führen (nicht im Einzelnen aus Primärquelle geprüft).",
+        "Der Mindestlohn gilt nicht für echte ehrenamtliche Tätigkeit. Ob eine Tätigkeit noch Ehrenamt ist, hängt von den Umständen ab.",
+        "Übungsleiter- und Ehrenamtspauschale sind steuer- und beitragsfrei, eine Überschreitung führt zu Abgaben.",
+        "Für Verpflichtungen als Arbeitgeber (Unfallversicherung, Meldungen) ist Steuerberatung oder Lohnbüro sinnvoll."
+      ],
+      "fach_html": "<h3>Mindestlohn und Minijob 2026</h3><p>Der gesetzliche Mindestlohn beträgt seit 1. Januar 2026 13,90 Euro pro Stunde (Angabe DRV und Minijob-Zentrale; vorher 12,82 Euro). Die Minijobgrenze wird nach der Formel Mindestlohn mal 130 geteilt durch 3 berechnet und beträgt aufgerundet 603 Euro monatlich, 7.236 Euro jährlich (Deutsche Rentenversicherung Baden-Württemberg, Pressemitteilung; Minijob-Zentrale).</p><p>Ab 1. Januar 2027 gilt nach § 1 der Fünften Mindestlohnanpassungsverordnung (BGBl. 2025 I Nr. 268) ein Mindestlohn von 14,60 Euro brutto je Zeitstunde. Nach der Formel des § 8 Abs. 1a SGB IV (Mindestlohn mal 130, geteilt durch 3, aufgerundet auf volle Euro) ergibt das 633 Euro (Jahreswert 7.596 Euro); Grundlage sind § 8 Abs. 1a SGB IV (14,60 € × 130 ÷ 3, aufgerundet) und § 1 MiLoV5; die Bekanntgabe des BMAS im Bundesanzeiger wurde nicht geprüft.</p><h3>Statusfeststellung</h3><p>Nach § 7a Abs. 1 SGB IV können die Beteiligten bei der Deutschen Rentenversicherung Bund schriftlich oder elektronisch beantragen, ob bei einem Auftragsverhältnis eine Beschäftigung oder eine selbständige Tätigkeit vorliegt.</p><h3>Abgrenzung zum Ehrenamt</h3><p>Die Freibeträge nach § 3 Nr. 26 und 26a EStG bleiben nach den geprüften Quellen auch sozialversicherungsfrei. Vergütungen über den Pauschalen sind grundsätzlich Arbeitsentgelt oder Honorar mit entsprechender Abgabepflicht.</p>",
+      "zustaendig": ["Minijob-Zentrale (Deutsche Rentenversicherung Knappschaft-Bahn-See)", "Deutsche Rentenversicherung Bund (Statusfeststellung)", "Zuständige Berufsgenossenschaft"],
+      "belege": [
+        "SGB IV § 7a, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "Minijob Magazin, „Neue Verdienstgrenze in 2026“, magazin.minijob-zentrale.de, abgerufen 20.09.2026",
+        "Deutsche Rentenversicherung Baden-Württemberg, „Minijob-Verdienstgrenze steigt 2026 auf 603 Euro“, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": ["ehrenamts-und-uebungsleiterpauschale", "vorstand-haftung-und-versicherung"],
+      "stand": "September 2026"
+    },
+    {
+      "id": "datenschutz-im-verein",
+      "kategorie": "pflichten",
+      "titel": "Datenschutz im Verein",
+      "icon": "🔐",
+      "teaser": "DSGVO gilt auch für Vereine: Verzeichnis, Datenschutzbeauftragter ab 20 Personen und Aufsicht durch die Landesbehörden.",
+      "schlagworte": ["Datenschutz", "DSGVO", "Verarbeitungsverzeichnis", "Datenschutzbeauftragter", "Mitgliederdaten", "Landesdatenschutz", "BDSG"],
+      "kurz_html": "<p>Ein Verein verarbeitet Namen, Adressen, Beiträge und oft Fotos. Dafür gilt die Datenschutz-Grundverordnung (DSGVO).</p><p>Ein <strong>Datenschutzbeauftragter</strong> ist nötig, wenn in der Regel mindestens 20 Personen ständig mit automatisierter Datenverarbeitung beschäftigt sind. Das gilt auch für Ehrenamtliche, die ständig mit Mitgliederdaten arbeiten (Auslegungsfrage, hier nicht abschließend geprüft).</p><p>Die Aufsicht über nichtöffentliche Stellen liegt grundsätzlich bei den Landesdatenschutzbehörden.</p>",
+      "schritte": [
+        {"titel": "Datenübersicht anlegen", "text": "Welche Daten, wozu, wer hat Zugriff, wann Löschung?"},
+        {"titel": "Verzeichnis prüfen", "text": "Ein Verzeichnis von Verarbeitungstätigkeiten kann auch für kleine Vereine Pflicht sein (Art. 30 DSGVO)."},
+        {"titel": "Zugriffe begrenzen", "text": "Nur so viele Personen wie nötig; Passwörter, verschlüsselte Geräte."},
+        {"titel": "Bei Fragen Aufsicht oder Beratung nutzen", "text": "Landesdatenschutzbehörde des Vereinssitzes."}
+      ],
+      "fristen": [
+        {"wert": "mindestens 20 Personen", "was": "Datenschutzbeauftragter, wenn in der Regel mindestens 20 Personen ständig mit automatisierter Verarbeitung personenbezogener Daten beschäftigt sind.", "grundlage": "§ 38 Abs. 1 BDSG"},
+        {"wert": "weniger als 250 Mitarbeiter (Ausnahme, entfällt bei nicht nur gelegentlicher Verarbeitung)", "was": "Ausnahme von der Verzeichnispflicht gilt nicht, wenn die Verarbeitung nicht nur gelegentlich erfolgt, Risiken birgt oder besondere Datenkategorien betrifft.", "grundlage": "Art. 30 Abs. 5 DSGVO"}
+      ],
+      "achtung": [
+        "Die Ausnahme von der Verzeichnispflicht greift bei regelmäßiger Mitgliederverwaltung praktisch selten (Auslegung, hier nicht durch Behördenquelle belegt).",
+        "Besondere Datenkategorien (zum Beispiel Gesundheit, Religion) unterliegen strengeren Regeln.",
+        "Fotos von Veranstaltungen und Veröffentlichungen im Netz brauchen eine tragfähige Rechtsgrundlage; hier nicht im Einzelnen geprüft.",
+        "Meldepflichten bei Datenpannen sind hier nicht dargestellt."
+      ],
+      "fach_html": "<h3>Datenschutzbeauftragter</h3><p>§ 38 Abs. 1 BDSG verpflichtet nichtöffentliche Stellen zur Benennung eines Datenschutzbeauftragten, soweit sie in der Regel mindestens 20 Personen ständig mit der automatisierten Verarbeitung personenbezogener Daten beschäftigen; außerdem bei Datenschutz-Folgenabschätzung oder geschäftsmäßiger Datenverarbeitung zur Übermittlung, anonymisierten Übermittlung oder Markt- und Meinungsforschung.</p><h3>Verzeichnis</h3><p>Nach Art. 30 Abs. 1 DSGVO führt der Verantwortliche ein Verzeichnis der Verarbeitungstätigkeiten. Die Ausnahme für Organisationen mit weniger als 250 Beschäftigten entfällt, wenn die Verarbeitung ein Risiko für die Rechte und Freiheiten birgt, nicht nur gelegentlich erfolgt oder besondere Datenkategorien betrifft (Art. 30 Abs. 5 DSGVO).</p><h3>Aufsicht</h3><p>Die Landesdatenschutzbehörden betreuen grundsätzlich auch den nichtöffentlichen Bereich (Angabe BfDI).</p>",
+      "zustaendig": ["Landesdatenschutzbehörde des Bundeslandes", "Datenschutzbeauftragter (falls benannt)"],
+      "belege": [
+        "BDSG § 38, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "DSGVO Art. 30, dsgvo-gesetz.de, abgerufen 20.09.2026",
+        "BfDI, Anschriften der Landesbehörden, bfdi.bund.de, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": ["mitgliederversammlung-und-beschluesse", "beratung-anlaufstellen-verein"],
+      "stand": "September 2026"
+    },
+    {
+      "id": "transparenzregister-buchfuehrung-aufloesung",
+      "kategorie": "pflichten",
+      "titel": "Transparenzregister, Buchführung, Rechnungslegung, Auflösung",
+      "icon": "📚",
+      "teaser": "Was ein e.V. dem Transparenzregister melden muss, wann Buchführungspflichten greifen und wie die Auflösung abläuft.",
+      "schlagworte": ["Transparenzregister", "wirtschaftlich Berechtigter", "Buchführung", "Einnahmenüberschussrechnung", "Auflösung", "Vermögensbindung", "Stiftungsregister"],
+      "kurz_html": "<p>Ein eingetragener Verein muss dem Transparenzregister seine wirtschaftlich Berechtigten melden. Bei einem e.V. trägt die registerführende Stelle die Angaben nach § 20a GwG automatisch ein; die Vorstandsmitglieder gelten als fiktiv wirtschaftlich Berechtigte. Eine eigene Mitteilung nach § 20 Abs. 1 GwG entfällt dann. Vorstandswechsel müssen deshalb sauber im Vereinsregister stehen.</p><p>Führen Sie nachvollziehbare Aufzeichnungen. Die Grenzen für die Buchführungspflicht (800.000 Euro Umsatz oder 80.000 Euro Gewinn) gelten für den steuerpflichtigen wirtschaftlichen Geschäftsbetrieb des Vereins. Daneben gilt die allgemeine Aufzeichnungspflicht nach § 63 Abs. 3 AO.</p><p>Die Auflösung braucht regelmäßig eine Dreiviertelmehrheit. Bei Gemeinnützigkeit muss das Vermögen an eine andere steuerbegünstigte Körperschaft gehen.</p>",
+      "schritte": [
+        {"titel": "Vorstandsdaten aktuell halten", "text": "Änderungen zum Vereinsregister anmelden, damit das Transparenzregister stimmt."},
+        {"titel": "Aufzeichnungen führen", "text": "Einnahmen und Ausgaben, Belege, Vermögen nachvollziehbar dokumentieren."},
+        {"titel": "Rechenschaft ablegen", "text": "Vorstand berichtet der Mitgliederversammlung; Kassenprüfung nach Satzung."},
+        {"titel": "Auflösung vorbereiten", "text": "Beschluss der Mitgliederversammlung, Liquidation, Vermögensverwendung nach Satzung."}
+      ],
+      "fristen": [
+        {"wert": "3/4 der abgegebenen Stimmen", "was": "Mehrheit für Auflösung, soweit die Satzung nichts anderes bestimmt.", "grundlage": "§ 41 BGB"},
+        {"wert": "800.000 Euro / 80.000 Euro", "was": "Buchführungsgrenzen (Umsatz bzw. Gewinn); für Vereine maßgeblich beim steuerpflichtigen wirtschaftlichen Geschäftsbetrieb.", "grundlage": "§ 141 Abs. 1 AO"}
+      ],
+      "achtung": [
+        "Ausnahmen nach § 20a Abs. 2 GwG: Erster Fall ist eine Vorstandsänderung, die nicht unverzüglich zum Vereinsregister angemeldet wurde. Dann muss der Verein selbst handeln; weitere Ausnahmen stehen in § 20a Abs. 2 GwG.",
+        "Die automatische Eintragung gilt seit 1. August 2021; die erstmalige Eintragung erfolgte spätestens zum 1. Januar 2023, danach anlassbezogen (§ 20a Abs. 3 GwG).",
+        "Stiftungsregister: Das Bundesamt für Justiz nennt den Start zum 1. Januar 2028 mit Anmeldefrist für bestehende Stiftungen bis 31. Dezember 2028; Kanzleien nannten 2026. Bundesamt für Justiz maßgeblich.",
+        "Die Vermögensbindung bei Auflösung ergibt sich aus § 55 AO; ihr Fehlen in der Satzung gefährdet die Gemeinnützigkeit."
+      ],
+      "fach_html": "<h3>Transparenzregister</h3><p>§ 20 Abs. 1 GwG verpflichtet juristische Personen des Privatrechts, Angaben zu wirtschaftlich Berechtigten einzuholen, aktuell zu halten und dem Transparenzregister mitzuteilen. Für den e.V. gilt § 20a GwG (seit 1. August 2021): Die registerführende Stelle übermittelt die Angaben automatisch, die Vorstandsmitglieder gelten als fiktiv wirtschaftlich Berechtigte, und die Mitteilungspflicht nach § 20 Abs. 1 GwG entfällt. Die erstmalige automatische Eintragung erfolgte spätestens zum 1. Januar 2023, danach anlassbezogen (§ 20a Abs. 3 GwG). Ausnahmen regelt § 20a Abs. 2 GwG; der erste Fall ist eine Vorstandsänderung, die nicht unverzüglich zum Vereinsregister angemeldet wurde.</p><h3>Buchführung und Rechnungslegung</h3><p>§ 141 Abs. 1 AO nennt Buchführungsgrenzen von 800.000 Euro Gesamtumsatz und 80.000 Euro Gewinn für gewerbliche Unternehmer und Land- und Forstwirte; sie gelten für den steuerpflichtigen wirtschaftlichen Geschäftsbetrieb des Vereins. Gemeinnützige Körperschaften müssen außerdem ordnungsgemäße Aufzeichnungen führen (§ 63 Abs. 3 AO). Die Rechenschaft des Vorstands ergibt sich aus dem Auftragsrecht (§ 27 Abs. 3 BGB) und der Satzung.</p><h3>Auflösung</h3><p>Beschluss der Mitgliederversammlung mit Dreiviertelmehrheit der abgegebenen Stimmen (§ 41 BGB). Bei Gemeinnützigkeit muss das Vermögen an steuerbegünstigte Körperschaften fallen (§ 55 AO).</p>",
+      "zustaendig": ["Registergericht (Vereinsregister)", "Bundesanzeiger Verlag (Transparenzregister)", "Zuständiges Finanzamt"],
+      "belege": [
+        "GwG §§ 20, 20a, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "Deutsche Stiftung Engagement und Ehrenamt, „Transparenzregister: Neue Regelungen in Kraft“, abgerufen 20.09.2026",
+        "AO § 141, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "Bundesamt für Justiz, „Stiftungsregister“, bundesjustizamt.de, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": ["mitgliederversammlung-und-beschluesse", "steuern-im-verein"],
+      "stand": "September 2026"
+    },
+    {
+      "id": "politische-betaetigung-und-gemeinnuetzigkeit",
+      "kategorie": "pflichten",
+      "titel": "Politische Betätigung und Gemeinnützigkeit",
+      "icon": "📢",
+      "teaser": "Wo die Grenze zwischen politischer Bildung und Einflussnahme verläuft, was der Bundesfinanzhof 2019 entschieden hat und was offen ist.",
+      "schlagworte": ["politische Betätigung", "Attac-Urteil", "BFH V R 60/17", "politische Bildung", "Demokratieförderung", "§ 52 AO", "Kampagne"],
+      "kurz_html": "<p>Ein gemeinnütziger Verein darf sich zu Themen äußern, die seinen Satzungszweck betreffen. Politische Einflussnahme ist aber kein eigener gemeinnütziger Zweck.</p><p>Nach dem Bundesfinanzhof (Urteil vom 10. Januar 2019, V R 60/17) darf ein Verein politisch tätig werden, wenn das der Verwirklichung eines der in § 52 Abs. 2 AO genannten Zwecke dient. Politische Bildung setzt „geistige Offenheit“ voraus und verliert ihre Anerkennung, wenn sie zur Durchsetzung eigener Auffassungen genutzt wird.</p><p>Das Gesetz nennt auch die allgemeine Förderung des demokratischen Staatswesens (§ 52 Abs. 2 Nr. 24 AO) und die Förderung des bürgerschaftlichen Engagements (Nr. 25).</p>",
+      "schritte": [
+        {"titel": "Satzungszweck als Maßstab nehmen", "text": "Jede politische Äußerung sollte dem satzungsmäßigen Zweck dienen."},
+        {"titel": "Bildung von Kampagnen trennen", "text": "Ausgewogene Information und Bildung bleiben unproblematischer als gezielte Forderungen an Parteien und Gesetzgeber."},
+        {"titel": "Parteipolitik meiden", "text": "Parteipolitische Neutralität wahren und dokumentieren."},
+        {"titel": "Bei Grenzfällen frühzeitig beraten lassen", "text": "Steuerberatung oder Fachberatung vor der Kampagne einbinden."}
+      ],
+      "fristen": [
+        {"wert": "10.01.2019", "was": "Urteil des Bundesfinanzhofs zu politischer Betätigung und Gemeinnützigkeit.", "grundlage": "BFH, V R 60/17"}
+      ],
+      "achtung": [
+        "Nur die Attac-Entscheidung (BFH V R 60/17) wurde direkt geprüft. Weitere Verfahren (etwa zu Campact) und mögliche Gesetzesänderungen nach 2019 wurden nicht als Primärquelle geprüft.",
+        "Die Abgrenzung erfolgt im Einzelfall durch das Finanzamt. Diese Seite ersetzt keine Beratung.",
+        "Aufrufe zu einzelnen politischen Forderungen (zum Beispiel bestimmte Steuern oder Gesetze) können die Gemeinnützigkeit gefährden, wenn sie nicht einem § 52-Zweck dienen.",
+        "Angekündigte Reformen zur politischen Betätigung sind hier nicht als geltendes Recht dargestellt."
+      ],
+      "fach_html": "<h3>Rechtsprechung</h3><p>Der Bundesfinanzhof hat im Urteil vom 10. Januar 2019 (V R 60/17) entschieden, dass die Einflussnahme auf die politische Willensbildung und die Gestaltung der öffentlichen Meinung keinen eigenständigen gemeinnützigen Zweck nach § 52 AO darstellt. Politische Tätigkeit ist nur zulässig, wenn sie der Verwirklichung eines der in § 52 Abs. 2 AO ausdrücklich genannten Zwecke dient. Politische Bildung erfolgt in geistiger Offenheit; sie verliert ihre Eignung, wenn sie eingesetzt wird, um die politische Willensbildung nach eigenen Vorstellungen zu beeinflussen. Kampagnen zu Finanztransaktionssteuer und Vermögensverteilung wurden dort als unzulässige politische Betätigung gewertet.</p><h3>Gesetzliche Zwecke</h3><p>§ 52 Abs. 2 Nr. 24 AO nennt die allgemeine Förderung des demokratischen Staatswesens im Geltungsbereich der AO (ohne Bestrebungen, die nur Einzelinteressen verfolgen oder auf kommunale Bereiche beschränkt sind). Nr. 25 nennt die Förderung des bürgerschaftlichen Engagements zugunsten gemeinnütziger, mildtätiger und kirchlicher Zwecke.</p><h3>Offene Punkte</h3><p>Die Reichweite im Einzelfall entscheidet das Finanzamt. Weitere Rechtsprechung und Verwaltungsanweisungen wurden nicht ausgewertet.</p>",
+      "zustaendig": ["Zuständiges Finanzamt", "Steuerberatung mit Gemeinnützigkeitsschwerpunkt"],
+      "belege": [
+        "BFH, Urteil vom 10.01.2019, V R 60/17, bundesfinanzhof.de, abgerufen 20.09.2026",
+        "AO § 52, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "Haufe, „NGOs unter Druck: auch Campact verliert Gemeinnützigkeitsstatus“, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": ["gemeinnuetzigkeit", "satzung-verein"],
+      "stand": "September 2026"
+    },
+    {
+      "id": "beratung-anlaufstellen-verein",
+      "kategorie": "beratung",
+      "titel": "Beratung und Anlaufstellen",
+      "icon": "🆘",
+      "teaser": "Belegte bundesweite und behördliche Stellen für Vereine, ohne erfundene Adressen.",
+      "schlagworte": ["Beratung", "Anlaufstellen", "Finanzamt", "Registergericht", "DSEE", "Landesdatenschutz", "Steuerberatung"],
+      "kurz_html": "<p>Diese Seite informiert allgemein und ersetzt keine Rechts- oder Steuerberatung.</p><p>Für bestimmte Fragen sind feste Stellen zuständig: das <strong>Amtsgericht</strong> (Registergericht) für das Vereinsregister, das <strong>Finanzamt</strong> für Gemeinnützigkeit und Steuern, die <strong>Landesdatenschutzbehörde</strong> für Datenschutz, die <strong>Deutsche Rentenversicherung Bund</strong> für die Statusfeststellung.</p><p>Die <strong>Deutsche Stiftung für Engagement und Ehrenamt (DSEE)</strong> bietet Beratung zu Versicherungsschutz, juristischen Fragen sowie Fundraising und Fördermitteln. Der Zugang läuft über ein Formular, die DSEE meldet sich dann.</p>",
+      "schritte": [
+        {"titel": "Frage einer Stelle zuordnen", "text": "Register, Steuer, Datenschutz, Sozialversicherung oder Förderung?"},
+        {"titel": "Unterlagen bereithalten", "text": "Satzung, Protokolle, Bescheide, Steuernummer."},
+        {"titel": "Zuständige Stelle kontaktieren", "text": "Finanzamt, Registergericht, Landesbehörde oder DSEE."},
+        {"titel": "Bei Haftung, Kündigung oder Streit Rechtsberatung nutzen", "text": "Rechtsanwaltschaft oder Steuerberatung, im Einzelfall."}
+      ],
+      "fristen": [
+        {"wert": "Beratung ohne Angebot", "was": "DSEE-Beratung startet über ein Anliegen-Formular; die DSEE meldet sich. Sie erstellt keine Angebote, prüft keine Verträge und empfiehlt keine Versicherer.", "grundlage": "DSEE, Beratungsseite"}
+      ],
+      "achtung": [
+        "Die DSEE erstellt keine Angebote, prüft keine Verträge und empfiehlt keine Versicherer.",
+        "Konkrete Adressen und Telefonnummern werden hier nicht genannt, weil sie nicht geprüft wurden. Ansprechpartner ergeben sich aus der Website der jeweiligen Behörde.",
+        "Ratgeber von Versicherern und Softwareanbietern sind Werbung; Aussagen dort gegenprüfen.",
+        "Für Streitigkeiten über die Gemeinnützigkeit gelten Einspruchsfristen im Bescheid. Diese Frist steht im Bescheid selbst."
+      ],
+      "fach_html": "<h3>Behördliche Zuständigkeiten</h3><p>Vereinsregister: Amtsgericht als Registergericht. Steuerliche Anerkennung der Gemeinnützigkeit: Finanzamt. Datenschutz im nichtöffentlichen Bereich: grundsätzlich Landesdatenschutzbehörden (Übersicht der 16 Behörden beim Bundesbeauftragten für den Datenschutz und die Informationsfreiheit). Statusfeststellung: Deutsche Rentenversicherung Bund (§ 7a SGB IV). Stiftungen: Stiftungsaufsicht des Landes und das Stiftungsregister des Bundesamts für Justiz (Start laut BfJ 2028).</p><h3>DSEE</h3><p>Die Deutsche Stiftung für Engagement und Ehrenamt nennt drei Beratungsbereiche: Versicherungsschutz, juristische Beratung sowie Fundraising und Fördermittel. Das Versicherungsangebot richtet sich an gemeinnützige Organisationen.</p><h3>Weitere</h3><p>Steuerberatung und Rechtsberatung für Einzelfälle. Öffentliche Landesportale zum Ehrenamt (zum Beispiel Engagiert in NRW) geben Orientierung; die Angebote unterscheiden sich je Bundesland.</p>",
+      "zustaendig": ["Deutsche Stiftung für Engagement und Ehrenamt (DSEE)", "Landesdatenschutzbehörde des Bundeslandes", "Zuständiges Finanzamt und Registergericht"],
+      "belege": [
+        "Deutsche Stiftung für Engagement und Ehrenamt, „Versicherungsschutz-Beratung“, abgerufen 20.09.2026",
+        "BfDI, Anschriften der Landesbehörden, bfdi.bund.de, abgerufen 20.09.2026",
+        "SGB IV § 7a, gesetze-im-internet.de, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": ["ueberblick-vereins-ngo-recht", "datenschutz-im-verein"],
+      "stand": "September 2026"
+    }
+  ]
+}

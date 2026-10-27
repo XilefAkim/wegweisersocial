@@ -1,0 +1,1167 @@
+{
+  "kategorien": [
+    {
+      "id": "ueberblick",
+      "titel": "Überblick",
+      "icon": "🧭",
+      "beschreibung": "Womit Sie es als Handwerksbetrieb rechtlich zu tun haben und wo Sie was nachlesen."
+    },
+    {
+      "id": "gruendung",
+      "titel": "Zugang & Gründung",
+      "icon": "🏗️",
+      "beschreibung": "Meisterpflicht, Handwerksrolle, Gewerbeanmeldung und die ersten Meldungen."
+    },
+    {
+      "id": "auftraege",
+      "titel": "Aufträge & Werkvertrag",
+      "icon": "📝",
+      "beschreibung": "Angebot, Vertrag, Abnahme, Mängel, Zahlungsverzug und Sicherheit für Ihre Vergütung."
+    },
+    {
+      "id": "geld",
+      "titel": "Rechnung & Steuern",
+      "icon": "🧾",
+      "beschreibung": "Rechnungen, E-Rechnung, Umsatzsteuer, Kleinunternehmerregelung und Gewerbesteuer."
+    },
+    {
+      "id": "absicherung",
+      "titel": "Absicherung",
+      "icon": "🛡️",
+      "beschreibung": "Haftpflicht, Versicherungen, Rentenversicherung und Krankenversicherung für Inhaber:innen."
+    },
+    {
+      "id": "betrieb",
+      "titel": "Betrieb & Team",
+      "icon": "👷",
+      "beschreibung": "Ausbildung, Einstellungen, Arbeitsschutz auf der Baustelle sowie Schwarzarbeit und Scheinselbstständigkeit."
+    },
+    {
+      "id": "beratung",
+      "titel": "Beratung & Anlaufstellen",
+      "icon": "🤝",
+      "beschreibung": "Wer im Handwerk berät und wohin Sie sich mit Fragen wenden können."
+    }
+  ],
+  "seiten": [
+    {
+      "id": "ueberblick-handwerksrecht",
+      "kategorie": "ueberblick",
+      "titel": "Überblick Handwerksrecht",
+      "icon": "🔨",
+      "teaser": "Die wichtigsten Rechtsgebiete für Handwerksbetriebe auf einen Blick: Zugang zum Handwerk, Aufträge, Geld, Absicherung, Team.",
+      "schlagworte": [
+        "Handwerksordnung",
+        "HwO",
+        "Handwerksrolle",
+        "Werkvertrag",
+        "Betriebsinhaber",
+        "Geselle",
+        "Handwerkskammer"
+      ],
+      "kurz_html": "<p>Als Handwerker:in arbeiten Sie unter mehreren Gesetzen zugleich. Das ist normal. Diese Seite zeigt, welche das sind.</p><ul><li><strong>Handwerksordnung (HwO):</strong> Wer darf einen Betrieb führen? Wer ist Mitglied der Handwerkskammer?</li><li><strong>Bürgerliches Gesetzbuch (BGB):</strong> Werkvertrag, Abnahme, Mängel, Zahlungsverzug.</li><li><strong>Steuerrecht:</strong> Rechnung, Umsatzsteuer, Gewerbesteuer.</li><li><strong>Sozialrecht:</strong> Rente, Krankenversicherung, Berufsgenossenschaft, Meldungen für Beschäftigte.</li><li><strong>Berufsbildungsgesetz (BBiG):</strong> Ausbildung im Betrieb.</li></ul><p>Rechte als Angestellte:r (Kündigung, Urlaub, Lohn) finden Sie im Baustein Arbeitnehmer. Hier geht es um die Sicht von Betrieb und Selbstständigen.</p><p>Diese Seite ist Information. Sie ersetzt keine Rechtsberatung.</p>",
+      "schritte": [
+        {
+          "titel": "Ihre Lage einordnen",
+          "text": "Prüfen Sie, ob Ihr Gewerbe zulassungspflichtig ist. Davon hängt ab, ob Sie einen Meisterbrief oder eine Ausnahme brauchen."
+        },
+        {
+          "titel": "Betrieb sauber anmelden",
+          "text": "Gewerbeanmeldung, Handwerksrolle, Finanzamt, Berufsgenossenschaft: Das sind die ersten Meldungen."
+        },
+        {
+          "titel": "Verträge und Rechnungen ordnen",
+          "text": "Schriftliche Angebote, Abnahme-Protokolle und formgerechte Rechnungen ersparen später Streit."
+        },
+        {
+          "titel": "Absichern",
+          "text": "Klären Sie Haftpflicht, Rente und Krankenversicherung, bevor etwas passiert."
+        },
+        {
+          "titel": "Hilfe holen",
+          "text": "Handwerkskammer, Innung und Kreishandwerkerschaft beraten Mitglieder oft kostenfrei oder günstig."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "53 Gewerbe",
+          "was": "In Anlage A der Handwerksordnung stehen 53 zulassungspflichtige Gewerbe.",
+          "grundlage": "Anlage A zur HwO"
+        },
+        {
+          "wert": "1 Woche",
+          "was": "Anzeige des Unternehmensbeginns beim Unfallversicherungsträger, wenn nicht über die Gewerbeanmeldung erledigt.",
+          "grundlage": "§ 192 Abs. 1 SGB VII"
+        }
+      ],
+      "achtung": [
+        "Ein Handwerk ohne Eintragung in die Handwerksrolle zu betreiben, obwohl es zulassungspflichtig ist, ist nicht erlaubt (§ 1 Abs. 1 HwO).",
+        "Rechtslage und Zahlen ändern sich jährlich (Mindestlohn, Beitragsgrenzen). Prüfen Sie das Datum der Quelle.",
+        "Diese Plattform ersetzt keine Beratung durch Kammer, Steuerberatung oder Rechtsanwält:in."
+      ],
+      "fach_html": "<h3>Struktur der Handwerksordnung</h3><p>Nach § 1 Abs. 1 HwO darf ein zulassungspflichtiges Handwerk als stehendes Gewerbe nur betreiben, wer in der Handwerksrolle eingetragen ist. Ein Gewerbebetrieb ist Handwerksbetrieb, wenn er handwerksmäßig betrieben wird und ein in Anlage A aufgeführtes Gewerbe vollständig umfasst oder wesentliche Tätigkeiten dieses Gewerbes ausgeübt werden (§ 1 Abs. 2 HwO). Tätigkeiten sind nicht wesentlich, wenn sie beispielsweise innerhalb von drei Monaten erlernt werden können.</p><h3>Kammerzugehörigkeit</h3><p>Nach § 90 HwO sind Inhaber:innen von Betrieben zulassungspflichtiger und zulassungsfreier Handwerke sowie handwerksähnlicher Gewerbe im Bezirk Mitglieder der Handwerkskammer, ebenso deren Gesellen, andere Arbeitnehmer mit Berufsausbildung und Lehrlinge.</p><h3>Weitere Rechtsgebiete</h3><p>Aufträge folgen dem Werkvertragsrecht des BGB (§§ 631 ff.), bei Bauleistungen ergänzt durch Bauvertragsrecht (§§ 650a ff. BGB) und, wenn vereinbart, die VOB/B. Rechnungen richten sich nach § 14 UStG. Für Beschäftigte gelten Sozialversicherungsrecht (SGB IV), Mindestlohn- und Arbeitsschutzrecht. In der Baubranche gelten zusätzliche Melde- und Mitführpflichten (§ 28a Abs. 4 SGB IV, § 2a SchwarzArbG).</p><h3>Aufbau dieses Bausteins</h3><p>Die 15 Seiten folgen dem Lebenslauf eines Betriebs: Zugang, Gründung, Aufträge, Geld, Absicherung, Team, Pflichten, Beratung.</p>",
+      "zustaendig": [
+        "Handwerkskammer des Bezirks",
+        "Innung bzw. Kreishandwerkerschaft",
+        "Finanzamt",
+        "Zuständiger Unfallversicherungsträger (z. B. BG BAU im Baubereich)"
+      ],
+      "belege": [
+        "§ 1 HwO, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "§ 90 HwO, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "Anlage A zur HwO, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "§ 192 SGB VII, gesetze-im-internet.de, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "meisterpflicht-handwerksrolle",
+        "betrieb-gruenden-anmelden",
+        "beratung-anlaufstellen"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "meisterpflicht-handwerksrolle",
+      "kategorie": "gruendung",
+      "titel": "Meisterpflicht, Handwerksrolle und zulassungsfreie Handwerke",
+      "icon": "🎓",
+      "teaser": "Wer darf einen Handwerksbetrieb führen? Meisterbrief, Ausnahmen wie die Altgesellenregelung und der Unterschied zu zulassungsfreien Handwerken.",
+      "schlagworte": [
+        "Meisterpflicht",
+        "Handwerksrolle",
+        "Anlage A",
+        "zulassungsfrei",
+        "Altgesellenregelung",
+        "§ 7b HwO",
+        "Betriebsleiter"
+      ],
+      "kurz_html": "<p>Für viele Handwerke gilt: Wer einen eigenen Betrieb gründen will, muss in die Handwerksrolle eingetragen sein. Dafür braucht man in der Regel die Meisterprüfung.</p><p>Es gibt Wege ohne eigenen Meisterbrief:</p><ul><li>Sie stellen einen Betriebsleiter ein, der die Voraussetzungen erfüllt.</li><li>Sie haben eine Gesellenprüfung und lange Berufserfahrung mit leitender Stellung (Altgesellenregelung). Ausgenommen sind Anlage A Nr. 12 (Schornsteinfeger) und Nr. 33 bis 37 (Augenoptiker, Hörakustiker, Orthopädietechniker, Orthopädieschuhmacher, Zahntechniker).</li><li>Andere Abschlüsse können gleichgestellt sein, etwa Ingenieur:innen oder ausländische Qualifikationen.</li></ul><p>In zulassungsfreien Handwerken und handwerksähnlichen Gewerben ist kein Meisterbrief nötig.</p><p>Ob Ihr Fall passt, prüft die Handwerkskammer. Fragen Sie dort vor der Gründung.</p>",
+      "schritte": [
+        {
+          "titel": "Gewerk prüfen",
+          "text": "Klären Sie, ob Ihre Tätigkeit zu einem der 53 Gewerbe der Anlage A gehört."
+        },
+        {
+          "titel": "Qualifikation prüfen",
+          "text": "Meisterprüfung, Betriebsleiter, Altgesellenregelung oder Gleichstellung: Wählen Sie den passenden Weg."
+        },
+        {
+          "titel": "Handwerkskammer fragen",
+          "text": "Lassen Sie sich vor der Gründung bestätigen, ob Sie eintragungsfähig sind."
+        },
+        {
+          "titel": "Eintragung beantragen",
+          "text": "Der Antrag geht an die Handwerkskammer, in deren Bezirk der Betrieb liegt."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "6 Jahre, davon 4 Jahre leitend",
+          "was": "Altgesellenregelung: Gesellenprüfung bestanden und insgesamt sechs Jahre im Beruf tätig, davon vier Jahre in leitender Stellung. Gilt nicht für Anlage A Nr. 12 (Schornsteinfeger) und Nr. 33 bis 37 (Augenoptiker, Hörakustiker, Orthopädietechniker, Orthopädieschuhmacher, Zahntechniker).",
+          "grundlage": "§ 7b HwO"
+        },
+        {
+          "wert": "3 Monate",
+          "was": "Tätigkeiten, die innerhalb von drei Monaten erlernt werden können, gelten nicht als wesentlich für ein Handwerk.",
+          "grundlage": "§ 1 Abs. 2 HwO"
+        },
+        {
+          "wert": "seit 14.02.2020",
+          "was": "Meisterpflicht wurde für zwölf Gewerke der früheren Anlage B1 wieder eingeführt, mit Bestandsschutz für vorhandene Betriebe.",
+          "grundlage": "Viertes Gesetz zur Änderung der HwO (laut Handwerkskammer Berlin)"
+        }
+      ],
+      "achtung": [
+        "Ohne Eintragung in die Handwerksrolle in einem zulassungspflichtigen Handwerk tätig zu sein, ist nicht zulässig.",
+        "Ob Ihre Tätigkeit „wesentlich“ ist, entscheidet im Einzelfall die Kammer. Holen Sie sich das schriftlich bestätigen.",
+        "Bestandsschutz gilt nur für schon bestehende Betriebe, nicht für Neugründungen."
+      ],
+      "fach_html": "<h3>Eintragungsvoraussetzungen</h3><p>Nach § 7 HwO wird eine natürliche oder juristische Person in die Handwerksrolle eingetragen, wenn der Betriebsleiter die Voraussetzungen mit dem zu betreibenden oder einem verwandten zulassungspflichtigen Handwerk erfüllt. Eintragung setzt in der Regel die bestandene Meisterprüfung voraus. Daneben nennt § 7 HwO weitere Wege: Ingenieur:innen und Hochschulabsolvent:innen (Abs. 2), gleichwertige ausländische Qualifikationen (Abs. 2a), Ausnahmebewilligungen (Abs. 3) sowie Ausübungsberechtigungen nach §§ 7a und 7b (Abs. 7).</p><h3>Altgesellenregelung</h3><p>§ 7b HwO verlangt eine bestandene Gesellenprüfung im Handwerk oder einem verwandten Handwerk, insgesamt sechs Jahre Tätigkeit, davon vier Jahre in leitender Stellung. Leitende Stellung liegt vor, wenn eigenverantwortliche Entscheidungsbefugnisse in einem Betrieb oder wesentlichen Betriebsteil übertragen waren. Nachweise sind zum Beispiel Arbeitszeugnisse oder Stellenbeschreibungen. Die Tätigkeit muss zumindest eine wesentliche Tätigkeit des Handwerks umfasst haben. Nach § 7b Abs. 1 HwO gilt die Regelung nicht für Anlage A Nr. 12 (Schornsteinfeger) und Nr. 33 bis 37 (Augenoptiker, Hörakustiker, Orthopädietechniker, Orthopädieschuhmacher, Zahntechniker).</p><h3>Zulassungsfrei und handwerksähnlich</h3><p>Anlage A führt 53 zulassungspflichtige Gewerbe. Zulassungsfreie Handwerke (Anlage B1) und handwerksähnliche Gewerbe (Anlage B2) können ohne Meisterbrief betrieben werden. Die Zuordnung Ihrer konkreten Tätigkeit sollten Sie bei der Kammer klären. Die genaue Liste der Anlagen B1 und B2 wurde hier nicht wörtlich ausgewertet.</p><h3>Verwaltungspraxis</h3><p>Die Handwerkskammer führt die Handwerksrolle (§ 6 HwO). Einzelauskünfte an Personen mit berechtigtem Interesse sind zulässig; Wohnanschrift und elektronische Kontaktdaten sind ausgenommen.</p>",
+      "zustaendig": [
+        "Handwerkskammer des Betriebssitzes (Handwerksrolle)",
+        "Beratung der Handwerkskammer zu Betriebsführung und Gründung"
+      ],
+      "belege": [
+        "§ 1 HwO, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "§ 6 HwO, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "§ 7 HwO, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "§ 7b HwO, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "Handwerkskammer Berlin: Meisterpflicht für zwölf Gewerke seit 14.02.2020 (hwk-berlin.de), abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "betrieb-gruenden-anmelden",
+        "ausbildung-im-betrieb"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "betrieb-gruenden-anmelden",
+      "kategorie": "gruendung",
+      "titel": "Betrieb gründen und anmelden",
+      "icon": "📋",
+      "teaser": "Gewerbeanmeldung, Handwerksrolle, Finanzamt und Berufsgenossenschaft: Welche Meldungen beim Start eines Handwerksbetriebs anstehen.",
+      "schlagworte": [
+        "Gewerbeanmeldung",
+        "Handwerkskammer",
+        "Berufsgenossenschaft",
+        "Finanzamt",
+        "Betriebsnummer",
+        "Gründung",
+        "Anzeige"
+      ],
+      "kurz_html": "<p>Beim Start eines Handwerksbetriebs müssen mehrere Stellen informiert werden. Die Reihenfolge hilft, nichts zu vergessen.</p><ul><li><strong>Handwerkskammer:</strong> Eintragung in die Handwerksrolle, wenn Ihr Handwerk zulassungspflichtig ist.</li><li><strong>Gewerbeamt:</strong> Gewerbeanmeldung.</li><li><strong>Finanzamt:</strong> steuerliche Erfassung.</li><li><strong>Berufsgenossenschaft:</strong> Anmeldung binnen einer Woche nach Beginn, wenn dies nicht schon über die Gewerbeanmeldung läuft.</li></ul><p>Wer später Beschäftigte hat, braucht außerdem eine Betriebsnummer bei der Bundesagentur für Arbeit für die Meldungen zur Sozialversicherung.</p><p>Lassen Sie sich bei der Kammer zur Gründung beraten. Das ist für Mitglieder in der Regel angeboten.</p>",
+      "schritte": [
+        {
+          "titel": "Voraussetzungen klären",
+          "text": "Meisterpflicht oder Ausnahme, Rechtsform, Standort, Kapitalbedarf."
+        },
+        {
+          "titel": "Handwerksrolle",
+          "text": "Eintragung bei der Handwerkskammer, wenn zulassungspflichtig."
+        },
+        {
+          "titel": "Gewerbe anmelden",
+          "text": "Anzeige nach § 14 Gewerbeordnung bei der zuständigen Stelle der Gemeinde."
+        },
+        {
+          "titel": "Finanzamt und Unfallversicherung",
+          "text": "Steuerliche Erfassung; Anzeige an den Unfallversicherungsträger."
+        },
+        {
+          "titel": "Bei Personal: Betriebsnummer",
+          "text": "Vor der ersten Meldung eines Beschäftigten Betriebsnummer bei der Agentur für Arbeit einholen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "1 Woche",
+          "was": "Unternehmer müssen den Beginn des Unternehmens dem Unfallversicherungsträger anzeigen, spätestens eine Woche nach Beginn. Eine Anzeige nach § 14 GewO innerhalb derselben Frist genügt.",
+          "grundlage": "§ 192 Abs. 1 SGB VII"
+        },
+        {
+          "wert": "24.500 Euro",
+          "was": "Freibetrag beim Gewerbeertrag natürlicher Personen und Personengesellschaften (siehe Steuerseite).",
+          "grundlage": "§ 11 Abs. 1 GewStG"
+        }
+      ],
+      "achtung": [
+        "Beginnen Sie erst mit der Arbeit als Handwerker:in, wenn die Eintragung in die Handwerksrolle vorliegt (bei zulassungspflichtigem Handwerk).",
+        "Melde- und Anzeigepflichten bestehen parallel bei mehreren Stellen. Verlassen Sie sich nicht darauf, dass eine Stelle die anderen informiert.",
+        "Ob Ihre Gemeinde Gewerbeanmeldung online anbietet, ist örtlich verschieden."
+      ],
+      "fach_html": "<h3>Eintragung und Kammermitgliedschaft</h3><p>Die Eintragung in die Handwerksrolle richtet sich nach §§ 1, 6, 7 HwO. Mit Eintragung besteht Mitgliedschaft in der Handwerkskammer (§ 90 HwO). Wer nicht in der Rolle steht, aber als Selbstständiger in zulassungsfreien oder handwerksähnlichen Gewerben tätig ist, kann nach § 90 Abs. 3 und 4 HwO trotzdem Mitglied sein, wenn bestimmte Voraussetzungen erfüllt sind (Gesellenprüfung im Handwerk, Tätigkeit als Schwerpunkt).</p><h3>Anzeige beim Unfallversicherungsträger</h3><p>§ 192 Abs. 1 SGB VII verlangt Angaben zu Art und Gegenstand des Unternehmens, Zahl der Versicherten und Eröffnungstag oder Tag der vorbereitenden Arbeiten. Frist: eine Woche nach Beginn. Die Pflicht gilt als erfüllt durch eine Anzeige nach §§ 14, 55c GewO innerhalb derselben Frist.</p><h3>Steuerliche Erfassung</h3><p>Die steuerliche Erfassung erfolgt über das Finanzamt; das Verfahren (elektronischer Fragebogen) wurde hier nicht aus der Primärquelle geprüft. Entscheidungen zur Kleinunternehmerregelung und zur Umsatzsteuer werden beim Start getroffen (siehe Seite Steuern).</p><h3>Betriebsnummer</h3><p>Ohne Betriebsnummer keine Meldungen zur Sozialversicherung. Die Zuständigkeit liegt bei der Bundesagentur für Arbeit; Details wurden hier nicht aus der Primärquelle geprüft.</p>",
+      "zustaendig": [
+        "Handwerkskammer (Handwerksrolle)",
+        "Gewerbeamt der Gemeinde",
+        "Finanzamt",
+        "Zuständiger Unfallversicherungsträger"
+      ],
+      "belege": [
+        "§ 192 SGB VII, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "§ 90 HwO, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "§ 11 GewStG, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "§ 7 HwO, gesetze-im-internet.de, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "meisterpflicht-handwerksrolle",
+        "steuern-kleinunternehmer",
+        "altersvorsorge-krankenversicherung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "werkvertrag-angebot",
+      "kategorie": "auftraege",
+      "titel": "Werkvertrag, Angebot und Kostenvoranschlag",
+      "icon": "📝",
+      "teaser": "Was im Werkvertrag steht, wie verbindlich ein Kostenvoranschlag ist und was bei Verbraucher:innen zusätzlich gilt.",
+      "schlagworte": [
+        "Werkvertrag",
+        "Kostenanschlag",
+        "Angebot",
+        "VOB/B",
+        "Verbraucherbauvertrag",
+        "Widerrufsrecht",
+        "Bauvertrag"
+      ],
+      "kurz_html": "<p>Ein Handwerksauftrag ist meist ein Werkvertrag: Sie schulden ein fertiges Ergebnis, nicht nur Arbeitsstunden.</p><ul><li>Halten Sie Leistung, Preis und Zeitplan schriftlich fest.</li><li>Ein Kostenvoranschlag ist eine Schätzung, wenn Sie den Preis nicht garantieren. Wird eine große Überschreitung sichtbar, müssen Sie das der Kundschaft sofort mitteilen.</li><li>Bei größeren Bauvorhaben für Privatleute gelten Sonderregeln. Kund:innen können den Vertrag widerrufen, wenn er nicht notariell beurkundet wurde.</li><li>Die VOB/B gilt nur, wenn sie vereinbart wurde.</li></ul>",
+      "schritte": [
+        {
+          "titel": "Leistung genau beschreiben",
+          "text": "Schreiben Sie Umfang, Material, Preis und Fristen auf. Unklare Leistungen sind die häufigste Streitquelle."
+        },
+        {
+          "titel": "Kostenvoranschlag richtig kennzeichnen",
+          "text": "Schreiben Sie, ob der Preis verbindlich oder geschätzt ist."
+        },
+        {
+          "titel": "Überschreitung sofort melden",
+          "text": "Wenn absehbar ist, dass der Anschlag wesentlich überschritten wird, informieren Sie unverzüglich."
+        },
+        {
+          "titel": "Bei Verbraucher:innen Widerruf beachten",
+          "text": "Beim Verbraucherbauvertrag Widerrufsbelehrung nicht vergessen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "„unverzüglich“",
+          "was": "Anzeige an die Kundschaft, wenn eine wesentliche Überschreitung des Kostenanschlags zu erwarten ist.",
+          "grundlage": "§ 649 Abs. 2 BGB"
+        },
+        {
+          "wert": "14 Tage",
+          "was": "Widerrufsfrist beim Verbraucherbauvertrag (§ 355 Abs. 2 BGB). Fristbeginn und Erlöschen regelt § 356e BGB: Ohne Belehrung erlischt das Widerrufsrecht spätestens 12 Monate und 14 Tage nach Vertragsschluss. Kein Widerruf bei notarieller Beurkundung.",
+          "grundlage": "§ 650l, § 355 Abs. 2, § 356e BGB"
+        }
+      ],
+      "achtung": [
+        "Ohne Widerrufsbelehrung beginnt die Frist nicht; das Widerrufsrecht erlischt spätestens 12 Monate und 14 Tage nach Vertragsschluss (§ 356e BGB). Prüfen Sie die Belehrungspflicht (Art. 249 § 3 EGBGB).",
+        "Ein nicht garantierter Kostenanschlag schützt die Kundschaft: Bei wesentlicher Überschreitung kann sie kündigen (§ 649 BGB).",
+        "Die VOB/B verändert Fristen und Rechte. Vereinbaren Sie sie nur bewusst."
+      ],
+      "fach_html": "<h3>Kostenanschlag</h3><p>§ 649 BGB regelt den nicht garantierten Kostenanschlag: Kann das Werk nicht ohne wesentliche Überschreitung ausgeführt werden und kündigt der Besteller deshalb, ist der Anspruch des Unternehmers auf die Rechtsfolge des § 645 Abs. 1 BGB beschränkt. Ist eine solche Überschreitung zu erwarten, hat der Unternehmer dem Besteller unverzüglich Anzeige zu machen (§ 649 Abs. 2 BGB).</p><h3>Verbraucherbauvertrag</h3><p>Nach § 650l BGB steht Verbraucher:innen ein Widerrufsrecht gemäß § 355 BGB zu, es sei denn, der Vertrag wurde notariell beurkundet. Die Widerrufsfrist beträgt 14 Tage (§ 355 Abs. 2 BGB); Fristbeginn und Erlöschen regelt § 356e BGB (spätestens 12 Monate und 14 Tage ohne Belehrung). Der Unternehmer muss über das Widerrufsrecht nach Art. 249 § 3 EGBGB informieren. Weitere Pflichten des Verbraucherbauvertrags (§§ 650i ff. BGB), etwa Baubeschreibung, wurden hier nicht im Einzelnen ausgewertet.</p><h3>Einbeziehung der VOB/B</h3><p>Die VOB/B ist ein Klauselwerk, das nur durch Vereinbarung Vertragsinhalt wird. Sie verkürzt zum Beispiel die Verjährung von Mängelansprüchen bei Bauwerken auf vier Jahre (§ 13 Abs. 4 VOB/B, Fassung 2016, wenn keine andere Frist vereinbart ist; für feuerberührte und abgasdämmende Teile von industriellen Feuerungsanlagen beträgt sie ein Jahr). Ob und wie sich die Einbeziehung gegenüber Verbraucher:innen auswirkt, ist im Einzelfall zu prüfen; hier keine Aussage.</p><h3>Praxis</h3><p>Ein schriftliches Angebot mit Leistungsbeschreibung, Preisart (Pauschale oder Einheitspreis), Ausführungszeitraum und Zahlungsbedingungen reduziert Streit. Das ist Praxisempfehlung, keine gesetzliche Pflicht.</p>",
+      "zustaendig": [
+        "Handwerkskammer (Rechtsberatung für Mitglieder)",
+        "Innung bzw. Kreishandwerkerschaft",
+        "Rechtsanwält:innen für Bau- und Werkvertragsrecht"
+      ],
+      "belege": [
+        "§ 649 BGB, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "§ 650l BGB, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "§ 13 VOB/B 2016 (lxgesetze.de, Suchtreffer), abgerufen 20.09.2026",
+        "§§ 355, 356e BGB, gesetze-im-internet.de, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "abnahme-gewaehrleistung",
+        "zahlungsverzug-bausicherung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "abnahme-gewaehrleistung",
+      "kategorie": "auftraege",
+      "titel": "Abnahme und Gewährleistung",
+      "icon": "✅",
+      "teaser": "Was die Abnahme rechtlich bewirkt, wann sie als erfolgt gilt und wie lange Mängelansprüche bestehen: 2 oder 5 Jahre nach BGB, 4 Jahre nach VOB/B.",
+      "schlagworte": [
+        "Abnahme",
+        "Gewährleistung",
+        "Mängelansprüche",
+        "Verjährung",
+        "§ 634a BGB",
+        "§ 640 BGB",
+        "VOB/B"
+      ],
+      "kurz_html": "<p>Mit der Abnahme sagt die Kundschaft: „Das Werk ist im Wesentlichen vertragsgemäß.“ Ab dann läuft die Verjährungsfrist für Mängelansprüche.</p><ul><li>Bei Bauwerken beträgt sie nach BGB fünf Jahre.</li><li>Bei anderen Werken, etwa Wartung oder Veränderung einer Sache, zwei Jahre.</li><li>Ist die VOB/B vereinbart und nichts anderes bestimmt, gelten für Bauwerke vier Jahre.</li></ul><p>Lassen Sie die Abnahme in einem Protokoll festhalten. Reagiert die Kundschaft auf eine gesetzte Frist nicht, kann die Abnahme als erfolgt gelten. Bei Verbraucher:innen muss vorher ein Hinweis erfolgen.</p>",
+      "schritte": [
+        {
+          "titel": "Fertigstellung mitteilen",
+          "text": "Teilen Sie schriftlich mit, dass das Werk fertig ist, und bieten Sie einen Abnahmetermin an."
+        },
+        {
+          "titel": "Abnahmeprotokoll führen",
+          "text": "Halten Sie Datum, Beteiligte und Mängel schriftlich fest."
+        },
+        {
+          "titel": "Frist zur Abnahme setzen",
+          "text": "Nur so kann die Abnahme bei Schweigen als erfolgt gelten."
+        },
+        {
+          "titel": "Bei Verbraucher:innen Hinweis geben",
+          "text": "Weisen Sie auf die Folgen der Fristsetzung in Textform hin."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "2 Jahre",
+          "was": "Verjährung bei einem Werk, dessen Erfolg in Herstellung, Wartung oder Veränderung einer Sache besteht.",
+          "grundlage": "§ 634a Abs. 1 Nr. 1 BGB"
+        },
+        {
+          "wert": "5 Jahre",
+          "was": "Verjährung bei einem Bauwerk und bei Planungs- oder Überwachungsleistungen dafür.",
+          "grundlage": "§ 634a Abs. 1 Nr. 2 BGB"
+        },
+        {
+          "wert": "3 Jahre",
+          "was": "Regelfrist für alle anderen Fälle.",
+          "grundlage": "§ 634a Abs. 1 Nr. 3 BGB, § 195 BGB"
+        },
+        {
+          "wert": "4 Jahre",
+          "was": "Bauwerke, wenn VOB/B vereinbart und keine andere Frist bestimmt ist (2 Jahre für sonstige Werke; 1 Jahr für feuerberührte und abgasdämmende Teile industrieller Feuerungsanlagen).",
+          "grundlage": "§ 13 Abs. 4 VOB/B (Fassung 2016)"
+        }
+      ],
+      "achtung": [
+        "Die Verjährung beginnt mit der Abnahme (§ 634a Abs. 2 BGB). Ohne dokumentierte Abnahme ist der Beginn streitig.",
+        "Bei arglistigem Verschweigen eines Mangels gilt die Regelfrist, bei Bauwerken mindestens fünf Jahre (§ 634a Abs. 3 BGB).",
+        "Wer einen bekannten Mangel abnimmt, behält Rechte nur bei ausdrücklichem Vorbehalt (§ 640 Abs. 3 BGB)."
+      ],
+      "fach_html": "<h3>Abnahme</h3><p>Nach § 640 BGB ist der Besteller verpflichtet, das vertragsmäßig hergestellte Werk abzunehmen. Wegen unwesentlicher Mängel darf die Abnahme nicht verweigert werden. Die Abnahme gilt als erfolgt, wenn der Unternehmer dem Besteller nach Fertigstellung eine angemessene Frist zur Abnahme gesetzt hat und der Besteller die Abnahme nicht innerhalb dieser Frist unter Angabe mindestens eines Mangels verweigert hat. Ist der Besteller Verbraucher, muss der Unternehmer ihn vorher in Textform auf die Folgen hingewiesen haben.</p><h3>Verjährung der Mängelansprüche</h3><p>§ 634a BGB unterscheidet zwei Jahre (Herstellung, Wartung, Veränderung einer Sache), fünf Jahre (Bauwerk, Planungs- oder Überwachungsleistung) und die Regelfrist von drei Jahren (§ 195 BGB) für sonstige Fälle. Die Verjährung beginnt mit der Abnahme. Bei Arglist tritt die Regelfrist ein, bei Bauwerken gilt mindestens fünf Jahre.</p><h3>VOB/B</h3><p>Wird die VOB/B vereinbart, beträgt die Verjährungsfrist für Bauwerke nach § 13 Abs. 4 VOB/B vier Jahre, für andere Werke zwei Jahre, sofern keine Frist im Vertrag vereinbart ist. Für feuerberührte und abgasdämmende Teile von industriellen Feuerungsanlagen beträgt sie ein Jahr. Für Nachbesserungsleistungen beginnt laut Suchtreffer eine neue Zweijahresfrist mit Abnahme, die nicht vor Ablauf der Hauptfrist endet. Die Quelle bezieht sich auf die Fassung 2016; ob eine neuere Fassung gilt, wurde nicht geprüft.</p><h3>Mängelrechte der Kundschaft</h3><p>§ 634 BGB nennt Nacherfüllung, Selbstvornahme, Rücktritt, Minderung und Schadensersatz. Details zu Reihenfolge und Voraussetzungen wurden hier nicht im Einzelnen ausgewertet.</p>",
+      "zustaendig": [
+        "Handwerkskammer (Rechtsauskunft)",
+        "Gutachter:innen (öffentlich bestellt und vereidigt) über die Kammer",
+        "Rechtsanwält:innen für Bau- und Werkvertragsrecht"
+      ],
+      "belege": [
+        "§ 634a BGB, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "§ 640 BGB, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "§ 195 BGB, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "§ 13 VOB/B 2016 (lxgesetze.de und Fachartikel, Suchtreffer), abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "werkvertrag-angebot",
+        "zahlungsverzug-bausicherung",
+        "betriebshaftpflicht-versicherungen"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "zahlungsverzug-bausicherung",
+      "kategorie": "auftraege",
+      "titel": "Zahlungsverzug und Bauhandwerkersicherung",
+      "icon": "💶",
+      "teaser": "Wenn die Kundschaft nicht zahlt: Verzugszinsen, 40-Euro-Pauschale, Sicherheit nach § 650f BGB und Mahnverfahren.",
+      "schlagworte": [
+        "Zahlungsverzug",
+        "Verzugszinsen",
+        "§ 650f BGB",
+        "Bauhandwerkersicherung",
+        "Mahnverfahren",
+        "Verzugspauschale",
+        "Forderung"
+      ],
+      "kurz_html": "<p>Zahlt die Kundschaft nicht, haben Sie Rechte.</p><ul><li><strong>Zinsen:</strong> Bei Geschäftskund:innen 9 Prozentpunkte über dem Basiszinssatz, bei Privatleuten 5 Prozentpunkte.</li><li><strong>Pauschale:</strong> 40 Euro, wenn Ihre Kundschaft kein Verbraucher ist.</li><li><strong>Sicherheit:</strong> Bei Bauleistungen können Sie eine Sicherheit für die noch offene Vergütung verlangen. Nach erfolgloser Frist dürfen Sie die Arbeit einstellen oder kündigen. Das gilt nicht gegenüber Verbraucher:innen bei Verbraucherbauverträgen nicht gegenüber juristischen Personen des öffentlichen Rechts und öffentlich-rechtlichen Sondervermögen, über deren Vermögen ein Insolvenzverfahren unzulässig ist, und nicht bei Bauträgerverträgen (§ 650u BGB).</li><li><strong>Mahnverfahren:</strong> Bei Nichtzahlung trotz Mahnung ist der gerichtliche Weg möglich.</li></ul>",
+      "schritte": [
+        {
+          "titel": "Rechnung und Zahlungsziel dokumentieren",
+          "text": "Nur mit nachweisbarer Rechnung lässt sich Verzug belegen."
+        },
+        {
+          "titel": "Mahnen",
+          "text": "Schreiben Sie schriftlich und setzen Sie eine Frist."
+        },
+        {
+          "titel": "Sicherheit verlangen",
+          "text": "Bei Bauleistungen kann eine Sicherheit nach § 650f BGB gefordert werden."
+        },
+        {
+          "titel": "Gerichtlich vorgehen",
+          "text": "Mahnbescheid oder Klage; lassen Sie sich vorher beraten."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "9 Prozentpunkte",
+          "was": "Verzugszins über dem Basiszinssatz für Entgeltforderungen, wenn kein Verbraucher beteiligt ist.",
+          "grundlage": "§ 288 Abs. 2 BGB"
+        },
+        {
+          "wert": "5 Prozentpunkte",
+          "was": "Verzugszins über dem Basiszinssatz bei Verbraucher:innen.",
+          "grundlage": "§ 288 Abs. 1 BGB"
+        },
+        {
+          "wert": "40 Euro",
+          "was": "Pauschale bei Verzug eines Schuldners, der kein Verbraucher ist.",
+          "grundlage": "§ 288 Abs. 5 BGB"
+        },
+        {
+          "wert": "10 % / 2 % / 5 %",
+          "was": "Sicherheit umfasst Nebenforderungen mit 10 Prozent; übliche Sicherungskosten trägt der Unternehmer bis 2 Prozent pro Jahr; bei Kündigung nach Fristablauf 5 Prozent der auf den nicht erbrachten Teil entfallenden Vergütung.",
+          "grundlage": "§ 650f BGB"
+        }
+      ],
+      "achtung": [
+        "§ 650f BGB gilt nicht für Verbraucher bei Verbraucherbauverträgen nicht gegenüber juristischen Personen des öffentlichen Rechts und öffentlich-rechtlichen Sondervermögen, über deren Vermögen ein Insolvenzverfahren unzulässig ist (§ 650f Abs. 6 Nr. 1 BGB) und nicht bei Bauträgerverträgen (§ 650u BGB; Abs. 6 Nr. 2). Abweichende Vereinbarungen sind unwirksam.",
+        "Die 40-Euro-Pauschale gilt nur, wenn der Schuldner kein Verbraucher ist.",
+        "Einwendungen der Kundschaft (Mängel) verändern die Lage. Prüfen Sie vor Einstellung der Arbeit, ob die Voraussetzungen erfüllt sind."
+      ],
+      "fach_html": "<h3>Verzugszinsen und Pauschale</h3><p>§ 288 BGB: Der Verzugszinssatz beträgt für das Jahr fünf Prozentpunkte über dem Basiszinssatz. Bei Rechtsgeschäften, an denen ein Verbraucher nicht beteiligt ist, beträgt der Zinssatz für Entgeltforderungen neun Prozentpunkte über dem Basiszinssatz. Bei Verzug eines Schuldners, der kein Verbraucher ist, kann der Gläubiger eine Pauschale von 40 Euro verlangen. Vereinbarungen, die Zinsen oder Pauschale ausschließen oder beschränken, sind im Grundsatz unwirksam (§ 288 Abs. 6 BGB). Der aktuelle Basiszinssatz wird von der Deutschen Bundesbank veröffentlicht; er wurde hier nicht abgefragt. Voraussetzungen des Verzugs (§ 286 BGB, Mahnung oder 30-Tage-Regel) wurden hier nicht wörtlich geprüft.</p><h3>Bauhandwerkersicherung</h3><p>Nach § 650f BGB kann der Unternehmer eines Bauwerks Sicherheit für die vereinbarte und noch nicht gezahlte Vergütung verlangen. Nebenforderungen werden mit 10 Prozent des zu sichernden Anspruchs angesetzt. Als Sicherheit kommen Kaution, Bankgarantie oder Garantie eines Kreditinstituts oder Kreditversicherers in Betracht. Übliche Sicherungskosten trägt der Unternehmer bis 2 Prozent pro Jahr, außer bei unbegründeten Einwendungen des Bestellers. Leistet der Besteller nach Fristsetzung nicht, kann der Unternehmer die Leistung verweigern oder kündigen und erhält bei Kündigung 5 Prozent der auf den nicht erbrachten Teil entfallenden Vergütung. Nach § 650f Abs. 6 BGB gilt die Vorschrift nicht gegenüber juristischen Personen des öffentlichen Rechts und öffentlich-rechtlichen Sondervermögen, über deren Vermögen ein Insolvenzverfahren unzulässig ist (Nr. 1), außerdem nicht bei Bauträgerverträgen nach § 650u BGB (Nr. 2) und nicht gegenüber Verbraucher:innen bei Verbraucherbauverträgen.</p><h3>Gerichtliches Mahnverfahren</h3><p>Das Mahnverfahren wird bei Amtsgerichten geführt; Zuständigkeit und Ablauf wurden hier nicht aus einer Primärquelle geprüft. Dazu bieten Kammern und Rechtsanwält:innen Auskunft.</p><h3>Verjährung der Forderung</h3><p>Die Regelverjährung beträgt drei Jahre (§ 195 BGB). Zum Beginn (§ 199 BGB) siehe Gesetz; nicht im Einzelnen ausgewertet.</p>",
+      "zustaendig": [
+        "Handwerkskammer (Rechtsauskunft für Mitglieder)",
+        "Rechtsanwält:innen",
+        "Amtsgericht bzw. zentrales Mahngericht"
+      ],
+      "belege": [
+        "§ 288 BGB, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "§ 650f BGB, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "§ 195 BGB, gesetze-im-internet.de, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "abnahme-gewaehrleistung",
+        "rechnung-e-rechnung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "rechnung-e-rechnung",
+      "kategorie": "geld",
+      "titel": "Rechnungsstellung und E-Rechnung",
+      "icon": "🧾",
+      "teaser": "Seit 2025 müssen Unternehmen E-Rechnungen empfangen. Für das Ausstellen gelten Übergangsfristen bis Ende 2026, für kleinere Betriebe bis Ende 2027.",
+      "schlagworte": [
+        "E-Rechnung",
+        "§ 14 UStG",
+        "Rechnung",
+        "Kleinbetragsrechnung",
+        "XRechnung",
+        "ZUGFeRD",
+        "Übergangsfrist"
+      ],
+      "kurz_html": "<p>Seit 1. Januar 2025 müssen alle Unternehmen im Inland E-Rechnungen empfangen können. Eine PDF-Datei per E-Mail ist keine E-Rechnung im Sinne des Gesetzes, sondern eine „sonstige Rechnung“.</p><ul><li><strong>Bis 31. Dezember 2026:</strong> Alle dürfen noch sonstige Rechnungen ausstellen.</li><li><strong>Bis 31. Dezember 2027:</strong> Gilt, wenn Ihr Gesamtumsatz im vorangegangenen Kalenderjahr (2026) höchstens 800.000 Euro betrug.</li><li><strong>Ab 2028:</strong> Pflicht zur E-Rechnung für alle Betriebe im Geschäft mit anderen Unternehmen (B2B).</li></ul><p>Für Privatkund:innen (B2C) gilt keine E-Rechnungspflicht. Kleinbeträge bis 250 Euro haben vereinfachte Anforderungen.</p><p>Sprechen Sie Ihre Steuerberatung oder Ihre Software-Anbieter an. Beide müssen sich mit der Umstellung auskennen.</p>",
+      "schritte": [
+        {
+          "titel": "Empfang klären",
+          "text": "Richten Sie eine E-Mail-Adresse für eingehende E-Rechnungen ein."
+        },
+        {
+          "titel": "Software prüfen",
+          "text": "Klären Sie, ob Ihre Rechnungssoftware das strukturierte Format erzeugen kann."
+        },
+        {
+          "titel": "Vorjahresumsatz prüfen",
+          "text": "Der Umsatz des Vorjahrs entscheidet über die längere Übergangsfrist."
+        },
+        {
+          "titel": "Aufbewahren",
+          "text": "Bewahren Sie E-Rechnungen elektronisch auf; sie dürfen nicht nur ausgedruckt werden."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "seit 01.01.2025",
+          "was": "Pflicht zum Empfang von E-Rechnungen für inländische B2B-Umsätze.",
+          "grundlage": "§ 14 UStG in der Fassung des Wachstumschancengesetzes; BMF-Schreiben vom 15.10.2024 und 15.10.2025"
+        },
+        {
+          "wert": "bis 31.12.2026",
+          "was": "Alle Rechnungsaussteller dürfen noch sonstige Rechnungen ausstellen.",
+          "grundlage": "§ 27 Abs. 38 Nr. 1 UStG"
+        },
+        {
+          "wert": "bis 31.12.2027",
+          "was": "Längere Übergangsfrist, wenn der Gesamtumsatz (§ 19 Abs. 2 UStG) im vorangegangenen Kalenderjahr (2026) höchstens 800.000 Euro betrug.",
+          "grundlage": "§ 27 Abs. 38 Nr. 2 UStG"
+        },
+        {
+          "wert": "bis 31.12.2027 (EDI)",
+          "was": "Rechnungen im Wege des elektronischen Datenaustauschs (EDI) dürfen bis Ende 2027 in dem bisherigen Verfahren übermittelt werden.",
+          "grundlage": "§ 27 Abs. 38 Nr. 3 UStG"
+        },
+        {
+          "wert": "6 Monate",
+          "was": "Rechnung soll innerhalb von sechs Monaten nach Ausführung der Leistung ausgestellt werden (unter den Voraussetzungen von § 14 Abs. 2).",
+          "grundlage": "§ 14 Abs. 2 Satz 2 UStG"
+        }
+      ],
+      "achtung": [
+        "Die Übergangsfristen gelten nur für das Ausstellen. Empfangen müssen Sie seit 2025.",
+        "Die Fristen stehen in § 27 Abs. 38 UStG; die Verwaltungsauffassung in den BMF-Schreiben vom 15.10.2024 und 15.10.2025.",
+        "Für Kleinbetragsrechnungen und Kleinunternehmer:innen bestehen Sonderregeln. Details wurden nicht aus der Primärquelle geprüft."
+      ],
+      "fach_html": "<h3>Definition</h3><p>§ 14 Abs. 1 UStG definiert die elektronische Rechnung als Rechnung, die in einem strukturierten elektronischen Format ausgestellt, übermittelt und empfangen wird und eine elektronische Verarbeitung ermöglicht. Die Ausstellungsfrist von sechs Monaten nach Ausführung steht in § 14 Abs. 2 Satz 2 UStG unter den dort genannten Voraussetzungen.</p><h3>Pflichtstufen nach § 27 Abs. 38 UStG</h3><p>Mit dem Wachstumschancengesetz wurden die Regeln zur Rechnungsausstellung für nach dem 31. Dezember 2024 ausgeführte Umsätze neu gefasst. Ab dem 1. Januar 2025 ist bei Umsätzen zwischen inländischen Unternehmern regelmäßig eine E-Rechnung zu verwenden. Nach § 27 Abs. 38 UStG gilt: Nr. 1: Für bis 31. Dezember 2026 ausgeführte Umsätze dürfen alle Aussteller stattdessen eine sonstige Rechnung ausstellen. Nr. 2: Für 2027 ausgeführte Umsätze gilt das weiter, wenn der Gesamtumsatz (§ 19 Abs. 2 UStG) im vorangegangenen Kalenderjahr (2026) 800.000 Euro nicht überschritten hat. Nr. 3: Rechnungen im elektronischen Datenaustausch (EDI) sind bis 31. Dezember 2027 im bisherigen Verfahren möglich. Alle inländischen Unternehmer müssen seit 2025 E-Rechnungen empfangen können. Die Verwaltungsauffassung steht in den BMF-Schreiben vom 15. Oktober 2024 und 15. Oktober 2025. Das Bundesfinanzministerium hat FAQ zur E-Rechnung veröffentlicht.</p><h3>Kleinbetragsrechnung</h3><p>Eine Rechnung, deren Gesamtbetrag 250 Euro nicht übersteigt, unterliegt vereinfachten Anforderungen (§ 33 UStDV).</p><h3>Nicht geprüft</h3><p>Ausnahmen für Kleinunternehmer:innen, zulässige Formate im Einzelnen und Aufbewahrungsfristen wurden hier nicht aus der Primärquelle ausgewertet.</p>",
+      "zustaendig": [
+        "Steuerberatung",
+        "Finanzamt",
+        "Handwerkskammer (Betriebsberatung)",
+        "Anbieter Ihrer Rechnungssoftware"
+      ],
+      "belege": [
+        "§ 14 UStG, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "§ 33 UStDV, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "§ 27 Abs. 38 UStG, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "BMF-Schreiben vom 15.10.2024 und vom 15.10.2025 zur E-Rechnung (bundesfinanzministerium.de)"
+      ],
+      "siehe_auch": [
+        "steuern-kleinunternehmer",
+        "zahlungsverzug-bausicherung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "steuern-kleinunternehmer",
+      "kategorie": "geld",
+      "titel": "Steuern und Kleinunternehmerregelung",
+      "icon": "📊",
+      "teaser": "Kleinunternehmergrenzen 25.000 und 100.000 Euro, Gewerbesteuer-Freibetrag 24.500 Euro und die Umkehr der Steuerschuld bei Bauleistungen.",
+      "schlagworte": [
+        "Kleinunternehmer",
+        "§ 19 UStG",
+        "Gewerbesteuer",
+        "Umsatzsteuer",
+        "§ 13b UStG",
+        "Reverse Charge",
+        "Freibetrag"
+      ],
+      "kurz_html": "<p>Die wichtigsten Steuern im Handwerk: Einkommensteuer, Umsatzsteuer und Gewerbesteuer.</p><ul><li><strong>Kleinunternehmer:</strong> Sie zahlen keine Umsatzsteuer, wenn Ihr Umsatz im Vorjahr höchstens 25.000 Euro und im laufenden Jahr höchstens 100.000 Euro war.</li><li><strong>Verzicht:</strong> Sie können auf die Regelung verzichten. Die Erklärung ist unwiderruflich und bindet Sie fünf Kalenderjahre.</li><li><strong>Gewerbesteuer:</strong> Für Einzelunternehmen und Personengesellschaften gibt es einen Freibetrag von 24.500 Euro.</li><li><strong>Bauabzugsteuer:</strong> Private Auftraggeber sind ausgenommen. Unternehmer als Auftraggeber müssen bei Bauleistungen 15 Prozent einbehalten, außer Sie legen eine Freistellungsbescheinigung vor.</li><li><strong>Bauleistungen:</strong> Für Aufträge von anderen Bauunternehmen schuldet oft die Auftraggeberin die Umsatzsteuer.</li></ul><p>Lassen Sie sich von einer Steuerberatung helfen.</p>",
+      "schritte": [
+        {
+          "titel": "Umsatz einschätzen",
+          "text": "Schätzen Sie Umsatz des ersten Jahres und prüfen Sie die Grenzen für Kleinunternehmer."
+        },
+        {
+          "titel": "Entscheiden",
+          "text": "Kleinunternehmer ohne Umsatzsteuer oder Regelbesteuerung mit Vorsteuerabzug: Beides hat Vor- und Nachteile."
+        },
+        {
+          "titel": "Bauleistungen prüfen",
+          "text": "Klären Sie bei Aufträgen von Bauunternehmen, ob die Steuerschuld auf die Auftraggeberin übergeht."
+        },
+        {
+          "titel": "Gewerbesteuer im Blick",
+          "text": "Prüfen Sie, ob Ihr Gewerbeertrag den Freibetrag übersteigt."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "25.000 Euro / 100.000 Euro",
+          "was": "Umsatzgrenzen: Vorjahr höchstens 25.000 Euro, laufendes Jahr höchstens 100.000 Euro.",
+          "grundlage": "§ 19 Abs. 1 UStG"
+        },
+        {
+          "wert": "5 Kalenderjahre",
+          "was": "Bindung nach Verzicht auf die Kleinunternehmerregelung; danach Widerruf mit Wirkung zum Beginn eines Folgejahres möglich.",
+          "grundlage": "§ 19 Abs. 3 UStG"
+        },
+        {
+          "wert": "24.500 Euro",
+          "was": "Freibetrag beim Gewerbeertrag natürlicher Personen und Personengesellschaften.",
+          "grundlage": "§ 11 Abs. 1 GewStG"
+        },
+        {
+          "wert": "3,5 %",
+          "was": "Steuermesszahl auf den Gewerbeertrag.",
+          "grundlage": "§ 11 Abs. 2 GewStG"
+        },
+        {
+          "wert": "letzter Tag Februar des zweiten Folgejahres",
+          "was": "Späteste Abgabe von Verzichtserklärung oder Widerruf beim Finanzamt.",
+          "grundlage": "§ 19 Abs. 3 UStG"
+        },
+        {
+          "wert": "15 %",
+          "was": "Abzug bei Bauleistungen an Unternehmer; keine Abzugspflicht bei Freistellungsbescheinigung oder wenn die Gegenleistung im Kalenderjahr voraussichtlich 5.000 Euro nicht übersteigt (15.000 Euro, wenn der Auftraggeber nur steuerfreie Vermietungsumsätze ausführt).",
+          "grundlage": "§ 48 EStG; Freistellungsbescheinigung § 48b EStG"
+        }
+      ],
+      "achtung": [
+        "Als Kleinunternehmer:in dürfen Sie keine Umsatzsteuer ausweisen und haben keinen Vorsteuerabzug.",
+        "Bei überschrittener 100.000-Euro-Grenze im laufenden Jahr entfällt die Befreiung. Beobachten Sie Ihren Umsatz laufend.",
+        "Die Verzichtserklärung ist unwiderruflich (§ 19 Abs. 3 UStG) und bindet fünf Kalenderjahre; danach ist ein Widerruf zum Beginn eines Folgejahres möglich. Erklärung und Widerruf sind bis zum letzten Tag Februar des zweiten Folgejahres möglich.",
+        "Bauabzugsteuer (§ 48 EStG): Als Auftraggeber (Unternehmer) behalten Sie bei Bauleistungen 15 Prozent der Gegenleistung ein und führen sie ans Finanzamt ab. Fordern Sie bei Ihren Auftragnehmern die Freistellungsbescheinigung nach § 48b EStG."
+      ],
+      "fach_html": "<h3>Kleinunternehmerregelung</h3><p>§ 19 Abs. 1 UStG: Umsätze sind steuerfrei, wenn der Gesamtumsatz des vorangegangenen Kalenderjahres 25.000 Euro nicht überschritten hat und der Gesamtumsatz des laufenden Kalenderjahres 100.000 Euro nicht überschreitet. Ein Unternehmer kann unwiderruflich auf die Steuerbefreiung verzichten; der Verzicht bindet fünf Kalenderjahre und kann danach nur mit Wirkung zum Beginn eines Folgejahres widerrufen werden (§ 19 Abs. 3 UStG). Verzichtserklärung und Widerruf sind bis zum letzten Tag des Februars des zweiten Folgejahres möglich.</p><h3>Bauleistungen und Steuerschuldnerschaft</h3><p>Nach § 13b Abs. 2 Nr. 4 UStG unterliegen Bauleistungen der Steuerschuldnerschaft des Leistungsempfängers. Nach Abs. 5 schuldet der Empfänger die Steuer, wenn er Unternehmer ist, der selbst nachhaltig Bauleistungen erbringt. Dies wird vermutet, wenn das Finanzamt eine Bescheinigung ausgestellt hat, die höchstens drei Jahre gültig ist. Die Rechnung enthält in diesem Fall keine Umsatzsteuer. Die Einzelheiten (Hinweis auf Steuerschuldnerschaft auf der Rechnung) wurden nicht geprüft.</p><h3>Bauabzugsteuer</h3><p>§ 48 EStG: Erbringt jemand im Inland eine Bauleistung an einen Unternehmer oder an eine juristische Person des öffentlichen Rechts, hat der Leistungsempfänger 15 Prozent der Gegenleistung einzubehalten und abzuführen. Der Abzug entfällt, wenn eine Freistellungsbescheinigung nach § 48b EStG vorliegt oder die Gegenleistung im laufenden Kalenderjahr voraussichtlich 5.000 Euro nicht übersteigt. Die Grenze beträgt 15.000 Euro, wenn der Leistungsempfänger ausschließlich steuerfreie Vermietungsumsätze ausführt (§ 48 Abs. 2 EStG).</p><h3>Gewerbesteuer</h3><p>Der Gewerbeertrag wird bei natürlichen Personen und Personengesellschaften um einen Freibetrag von 24.500 Euro gekürzt (§ 11 Abs. 1 Nr. 1 GewStG). Die Steuermesszahl beträgt 3,5 Prozent (§ 11 Abs. 2 GewStG). Den Hebesatz legt die Gemeinde fest; er wurde hier nicht abgefragt.</p><h3>Einkommensteuer</h3><p>Zu Einkommensteuer, Vorauszahlungen und Gewinnermittlung (Einnahmen-Überschuss-Rechnung, Bilanzierung) enthält diese Seite keine Angaben. Bitte Steuerberatung einschalten.</p>",
+      "zustaendig": [
+        "Finanzamt",
+        "Steuerberatung",
+        "Handwerkskammer (Betriebsberatung)"
+      ],
+      "belege": [
+        "§ 19 UStG, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "§ 13b UStG, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "§ 11 GewStG, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "§ 48 EStG, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "§ 48b EStG, gesetze-im-internet.de, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "rechnung-e-rechnung",
+        "betrieb-gruenden-anmelden"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "betriebshaftpflicht-versicherungen",
+      "kategorie": "absicherung",
+      "titel": "Betriebshaftpflicht und Versicherungen",
+      "icon": "🛡️",
+      "teaser": "Wofür ein Handwerksbetrieb haftet, welche Versicherungen üblich sind und wo gesetzliche Pflichten liegen.",
+      "schlagworte": [
+        "Betriebshaftpflicht",
+        "Haftung",
+        "Berufsgenossenschaft",
+        "Bauleistungsversicherung",
+        "Unfallversicherung",
+        "Versicherung"
+      ],
+      "kurz_html": "<p>Wenn Sie beim Kunden etwas beschädigen oder ein Mangel Folgeschäden verursacht, haften Sie. Mit dem Betrieb haften Einzelunternehmer:innen auch mit dem Privatvermögen.</p><ul><li><strong>Betriebshaftpflicht:</strong> Sie deckt Personen-, Sach- und Vermögensschäden Dritter ab. Sie ist im Handwerk üblich; eine allgemeine gesetzliche Pflicht dafür wurde hier nicht festgestellt. Auftraggeber verlangen sie oft.</li><li><strong>Gesetzliche Unfallversicherung:</strong> Für Beschäftigte über die Berufsgenossenschaft.</li><li><strong>Weitere:</strong> Inhalts-, Maschinen-, Bauleistungs- und Betriebsunterbrechungsversicherung sind freiwillig.</li></ul><p>Fragen Sie bei der Handwerkskammer oder der Innung nach Rahmenverträgen.</p>",
+      "schritte": [
+        {
+          "titel": "Risiko erfassen",
+          "text": "Welche Arbeiten, welche Schäden, welche Summen? Notieren Sie das vor dem Angebot einer Versicherung."
+        },
+        {
+          "titel": "Betriebshaftpflicht abschließen",
+          "text": "Achten Sie auf Deckungssumme, Tätigkeitsbeschreibung und Ausschlüsse."
+        },
+        {
+          "titel": "Unfallversicherung klären",
+          "text": "Fragen Sie beim zuständigen Unfallversicherungsträger, wer versichert ist und ob Sie sich selbst absichern können."
+        },
+        {
+          "titel": "Regelmäßig prüfen",
+          "text": "Melden Sie Änderungen (neue Gewerke, mehr Personal) der Versicherung."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "5 Jahre / 2 Jahre",
+          "was": "Länge der Mängelverjährung bestimmt, wie lange Sie für Bauwerke bzw. andere Werke haften; die Versicherungsdeckung sollte dazu passen.",
+          "grundlage": "§ 634a BGB"
+        },
+        {
+          "wert": "1 Woche",
+          "was": "Anzeige des Unternehmensbeginns beim Unfallversicherungsträger.",
+          "grundlage": "§ 192 Abs. 1 SGB VII"
+        }
+      ],
+      "achtung": [
+        "Eine Betriebshaftpflicht deckt nicht alles: Ausschlüsse (zum Beispiel bestimmte Tätigkeiten) stehen in den Bedingungen.",
+        "Ob die Betriebshaftpflicht für Ihr Gewerk gesetzlich oder von Kammer/Berufsrecht vorgeschrieben ist, wurde hier nicht geprüft.",
+        "Ob Unternehmer:innen selbst in der Berufsgenossenschaft pflichtversichert sind, richtet sich nach Satzung des Trägers. Bitte dort fragen."
+      ],
+      "fach_html": "<h3>Haftungsgrundlagen</h3><p>Die Mängelhaftung des Unternehmers ergibt sich aus §§ 633 ff. BGB, die Verjährung aus § 634a BGB (zwei Jahre, fünf Jahre bei Bauwerken, Regelfrist drei Jahre). Für Schäden Dritter kommt Deliktsrecht in Betracht (§ 823 BGB, nicht im Einzelnen ausgewertet). Kapitalgesellschaften beschränken die Haftung auf das Gesellschaftsvermögen, Einzelunternehmer:innen und Personengesellschaften haften grundsätzlich mit dem Privatvermögen.</p><h3>Gesetzliche Unfallversicherung</h3><p>Der Unternehmer muss den Beginn des Unternehmens dem zuständigen Unfallversicherungsträger anzeigen (§ 192 Abs. 1 SGB VII). Im Baugewerbe ist dies regelmäßig die BG BAU; die Zuständigkeit für Ihr Gewerk sollten Sie beim Träger erfragen. Die Beitragshöhe und die freiwillige Versicherung von Unternehmer:innen wurden hier nicht aus der Primärquelle ausgewertet.</p><h3>Freiwillige Versicherungen</h3><p>Betriebshaftpflicht, Inhalts-, Maschinen-, Bauleistungs- und Betriebsunterbrechungsversicherung sind übliche Angebote am Markt. Vergleichen Sie Bedingungen, nicht nur Prämien. Konkrete Produkte und Preise nennt diese Seite nicht.</p>",
+      "zustaendig": [
+        "Zuständiger Unfallversicherungsträger (z. B. BG BAU)",
+        "Handwerkskammer bzw. Innung (Rahmenverträge, Beratung)",
+        "Versicherungsmakler:innen oder Verbraucherberatung für Betriebe"
+      ],
+      "belege": [
+        "§ 634a BGB, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "§ 192 SGB VII, gesetze-im-internet.de, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "abnahme-gewaehrleistung",
+        "arbeitsschutz-bg-bau-baustelle"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "altersvorsorge-krankenversicherung",
+      "kategorie": "absicherung",
+      "titel": "Altersvorsorge und Krankenversicherung",
+      "icon": "👴",
+      "teaser": "Handwerker:innen, die die Eintragungsvoraussetzungen in ihrer Person erfüllen, sind rentenversicherungspflichtig. Befreiung ist nach 18 Jahren Pflichtbeiträgen möglich.",
+      "schlagworte": [
+        "Handwerkerpflichtversicherung",
+        "§ 2 SGB VI",
+        "Rentenversicherung",
+        "Befreiung",
+        "18 Jahre",
+        "Krankenversicherung",
+        "Beitragssatz"
+      ],
+      "kurz_html": "<p>Wer in die Handwerksrolle eingetragen ist und dafür in der eigenen Person die Eintragungsvoraussetzungen erfüllt (z. B. Meisterprüfung), muss in die gesetzliche Rentenversicherung einzahlen. Das nennt man Handwerkerpflichtversicherung. Bei Personengesellschaften trifft das den qualifizierten Gesellschafter. Inhaber:innen mit angestelltem Betriebsleiter sind daher nicht pflichtversichert.</p><ul><li>Sie können sich befreien lassen, wenn für Sie mindestens 18 Jahre lang Pflichtbeiträge gezahlt worden sind.</li><li>Der Antrag muss innerhalb von drei Monaten gestellt werden, damit die Befreiung rückwirkend wirkt.</li><li>Der Beitragssatz in der Rentenversicherung beträgt 2026 18,6 Prozent.</li></ul><p>Für die Krankenversicherung gilt: Sie brauchen als Selbstständige:r einen Versicherungsschutz. Sie wählen zwischen gesetzlicher und privater Versicherung. Beratung ist wichtig, denn der Wechsel ist oft schwer umkehrbar.</p>",
+      "schritte": [
+        {
+          "titel": "Versicherungspflicht klären",
+          "text": "Sind Sie in der Handwerksrolle eingetragen? Dann besteht in der Regel Pflicht zur Rentenversicherung."
+        },
+        {
+          "titel": "Beitragsjahre zählen",
+          "text": "Fordern Sie bei der Rentenversicherung Ihren Versicherungsverlauf an."
+        },
+        {
+          "titel": "Befreiung prüfen",
+          "text": "Nach 18 Jahren Pflichtbeiträgen können Sie sie beantragen. Beachten Sie die Dreimonatsfrist."
+        },
+        {
+          "titel": "Krankenversicherung wählen",
+          "text": "Vergleichen Sie gesetzliche und private Krankenversicherung mit Beratung."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "18 Jahre",
+          "was": "Befreiung für Gewerbetreibende in Handwerksbetrieben, wenn für sie mindestens 18 Jahre lang Pflichtbeiträge gezahlt worden sind.",
+          "grundlage": "§ 6 Abs. 1 Satz 1 Nr. 4 SGB VI"
+        },
+        {
+          "wert": "3 Monate",
+          "was": "Befreiung wirkt ab Vorliegen der Voraussetzungen, wenn sie innerhalb von drei Monaten beantragt wird, sonst ab Antragseingang.",
+          "grundlage": "§ 6 Abs. 4 SGB VI"
+        },
+        {
+          "wert": "18,6 %",
+          "was": "Beitragssatz der allgemeinen Rentenversicherung 2026; Beitragsbemessungsgrenze 8.450 Euro monatlich (101.400 Euro jährlich).",
+          "grundlage": "SVBezGrV 2026 (Kabinettsbeschluss 08.10.2025)"
+        }
+      ],
+      "achtung": [
+        "Die Befreiung ist nicht rückgängig zu machen, ohne dass es neue Versicherungsentscheidungen braucht. Prüfen Sie, wie Sie danach absichern.",
+        "Ob Gesellschafter-Geschäftsführer:innen einer Handwerks-GmbH anders behandelt werden, wurde hier nicht geprüft.",
+        "Zur Höhe der Beiträge für Handwerker:innen (Mindest-/Regelbeitrag) enthält diese Seite keine gesicherten Zahlen."
+      ],
+      "fach_html": "<h3>Versicherungspflicht</h3><p>§ 2 SGB VI regelt, welche Selbstständigen versicherungspflichtig sind. Dazu gehören laut Nr. 8 Handwerker, die in die Handwerksrolle eingetragen sind und in ihrer Person die dafür erforderlichen Voraussetzungen erfüllen. Inhaber:innen mit angestelltem Betriebsleiter sind daher nicht pflichtversichert; bei Personengesellschaften gilt die Pflicht für den qualifizierten Gesellschafter. Selbstständige mit im Wesentlichen nur einem Auftraggeber sind unter den Voraussetzungen des § 2 Nr. 9 SGB VI ebenfalls pflichtversichert; das kann bei nicht eingetragenen Handwerker:innen eine Rolle spielen (Details nicht geprüft).</p><h3>Befreiung</h3><p>§ 6 Abs. 1 Satz 1 Nr. 4 SGB VI: Auf Antrag werden Gewerbetreibende in Handwerksbetrieben von der Versicherungspflicht befreit, wenn für sie mindestens 18 Jahre lang Pflichtbeiträge gezahlt worden sind. Nach § 6 Abs. 4 SGB VI wirkt die Befreiung vom Vorliegen der Voraussetzungen an, wenn sie innerhalb von drei Monaten beantragt wird; sonst ab Antragseingang.</p><h3>Zahlen 2026</h3><p>Der Beitragssatz in der allgemeinen Rentenversicherung bleibt 2026 bei 18,6 Prozent. Die Beitragsbemessungsgrenze steigt auf 8.450 Euro monatlich (101.400 Euro jährlich) und gilt bundeseinheitlich. Grundlage ist die Sozialversicherungs-Rechengrößenverordnung 2026 (SVBezGrV 2026, gesetze-im-internet.de/svbezgrv_2026; Kabinettsbeschluss 08.10.2025).</p><h3>Krankenversicherung</h3><p>Zur Krankenversicherung von Selbstständigen (Versicherungspflicht, freiwillige gesetzliche Versicherung, private Krankenversicherung, Beitragsberechnung) wurden hier keine Primärquellen ausgewertet. Auskunft geben Krankenkassen und unabhängige Beratung. Prüfen Sie Beitragsberechnung und Wechselmöglichkeiten vor der Entscheidung.</p><h3>Ab 1. Januar 2027 (Krankenversicherung)</h3><p>Beitragsbemessungsgrenze (Kranken- und Pflegeversicherung): Nach dem GKV-Beitragssatzstabilisierungsgesetz (Gesetz vom 24.7.2026, BGBl. 2026 I Nr. 228, ausgegeben 29.7.2026; Art. 1 Nr. 5 (§ 6 SGB V) gilt ab 1.1.2027; Art. 1 Nr. 61 (§ 223 SGB V) seit 30.7.2026, wirkt für das Jahr 2027) wird die Jahresarbeitsentgeltgrenze für 2027 zusätzlich um 3.600 Euro erhöht (§ 6 Abs. 6 SGB V neu), und die Beitragsbemessungsgrenze 2027 entspricht der um 3.600 Euro erhöhten Jahresarbeitsentgeltgrenze nach § 6 Abs. 7 SGB V (§ 223 Abs. 4 SGB V neu); 3.600 Euro im Jahr entsprechen 300 Euro im Monat. Die Bundesregierung setzt die Beträge in der Rechtsverordnung nach § 160 SGB VI fest; diese Verordnung lag nicht vor, daher werden hier keine 2027-Zahlen genannt. Für privat Vollversicherte, die am 31.12.2026 wegen Überschreitens der Grenze versicherungsfrei waren, wird die Jahresarbeitsentgeltgrenze 2027 nicht erhöht (§ 6 Abs. 8; die Ausnahme gilt kumulativ: am 31.12.2026 versicherungsfrei wegen Überschreitens der Jahresarbeitsentgeltgrenze und bei einem privaten Krankenversicherungsunternehmen substitutiv versichert). Die oben genannte Beitragsbemessungsgrenze der Rentenversicherung (8.450 Euro) betrifft die Rentenversicherung; die 2027-Werte dafür stehen erst in der Rechengrößenverordnung und werden hier nicht genannt.</p>",
+      "zustaendig": [
+        "Deutsche Rentenversicherung (Beratung und Befreiungsantrag)",
+        "Krankenkassen",
+        "Unabhängige Beratung (z. B. Verbraucherzentrale)"
+      ],
+      "belege": [
+        "§ 2 SGB VI, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "§ 6 SGB VI, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "Sozialversicherungs-Rechengrößenverordnung 2026 (SVBezGrV 2026), gesetze-im-internet.de/svbezgrv_2026, Kabinettsbeschluss 08.10.2025", "Bundesgesetzblatt 2026 I Nr. 228 (GKV-Beitragssatzstabilisierungsgesetz), recht.bund.de, abgerufen 21.09.2026"
+      ],
+      "siehe_auch": [
+        "betrieb-gruenden-anmelden",
+        "steuern-kleinunternehmer"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "ausbildung-im-betrieb",
+      "kategorie": "betrieb",
+      "titel": "Ausbildung im Betrieb",
+      "icon": "🎓",
+      "teaser": "Wer ausbilden darf, was der Ausbildungsvertrag enthalten muss und wie hoch die Mindestvergütung 2026 ist.",
+      "schlagworte": [
+        "Ausbildung",
+        "Ausbilder-Eignung",
+        "Ausbildungsvertrag",
+        "BBiG",
+        "Mindestausbildungsvergütung",
+        "Lehrling",
+        "AEVO"
+      ],
+      "kurz_html": "<p>Wer ausbildet, muss persönlich geeignet sein. Wer selbst ausbildet, muss auch fachlich geeignet sein. Sie dürfen auch andere geeignete Ausbilder:innen benennen.</p><ul><li>Der Ausbildungsvertrag muss schriftlich (in Textform) festgehalten werden, spätestens vor Beginn der Ausbildung.</li><li>Sie brauchen eine Vergütung mindestens in Höhe der Mindestausbildungsvergütung.</li><li>Die Handwerkskammer ist Ansprechpartner für Eintragung und Beratung.</li></ul><p>Eine Ausbildung ist auch eine Chance für Ihren Betrieb. Fragen Sie bei Kammer oder Innung nach Unterstützung und Förderung.</p>",
+      "schritte": [
+        {
+          "titel": "Eignung prüfen",
+          "text": "Persönliche und fachliche Eignung klären; sonst geeignete Ausbilder:innen benennen."
+        },
+        {
+          "titel": "Vertrag aufsetzen",
+          "text": "Nutzen Sie die Vertragsmuster der Handwerkskammer und halten Sie alle Pflichtangaben fest."
+        },
+        {
+          "titel": "Vergütung festlegen",
+          "text": "Mindestens die Mindestausbildungsvergütung des Beginnjahrs, tarifliche Sätze können höher sein."
+        },
+        {
+          "titel": "Vertrag eintragen lassen",
+          "text": "Reichen Sie den Vertrag bei der zuständigen Handwerkskammer ein."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "724 Euro",
+          "was": "Mindestausbildungsvergütung im ersten Ausbildungsjahr bei Ausbildungsbeginn 2026 (zweites Jahr 854 Euro, drittes 977 Euro, viertes 1.014 Euro).",
+          "grundlage": "§ 17 BBiG; Bekanntmachung im BGBl. vom 10.10.2025; BIBB"
+        },
+        {
+          "wert": "vor Ausbildungsbeginn",
+          "was": "Vertragsniederschrift in Textform unverzüglich nach Abschluss, spätestens vor Beginn der Ausbildung.",
+          "grundlage": "§ 11 BBiG"
+        },
+        {
+          "wert": "3 Jahre",
+          "was": "Nachweis des Empfangs und Niederschrift aufbewahren, bis drei Jahre nach Ablauf des Kalenderjahres, in dem das Ausbildungsverhältnis endete.",
+          "grundlage": "§ 11 BBiG"
+        }
+      ],
+      "achtung": [
+        "Die Mindestvergütung gilt nach dem Jahr des Ausbildungsbeginns. Jahrgänge haben unterschiedliche Sätze.",
+        "Ohne persönliche und fachliche Eignung dürfen Sie nicht ausbilden, es sei denn, Sie bestellen geeignete Ausbilder:innen (§ 28 BBiG).",
+        "Die Eintragung ins Verzeichnis der Berufsausbildungsverhältnisse (§ 34 BBiG) und Details zur Probezeit wurden hier nicht aus der Primärquelle geprüft."
+      ],
+      "fach_html": "<h3>Eignung</h3><p>§ 28 BBiG: Auszubildende darf nur einstellen, wer persönlich geeignet ist. Ausbilden darf nur, wer persönlich und fachlich geeignet ist. Wer nicht fachlich geeignet ist oder nicht selbst ausbildet, darf nur einstellen, wenn er persönlich und fachlich geeignete Ausbilder:innen bestellt. Ausbildungsinhalte dürfen auch digital vermittelt werden, sofern die Qualität gleichwertig ist und Erreichbarkeit zu betriebsüblichen Zeiten besteht. Wie Meisterprüfung und Ausbildereignung (AEVO) im Handwerk zusammenspielen, sollten Sie bei der Kammer erfragen; hier nicht geprüft.</p><h3>Ausbildungsvertrag</h3><p>§ 11 BBiG verlangt die Niederschrift des wesentlichen Vertragsinhalts in Textform unverzüglich nach Abschluss, spätestens vor Beginn. Zu den zwölf Angaben zählen unter anderem Beteiligte, Ausbildungsberuf, Dauer und Beginn, Ausbildungsstätte, tägliche Arbeitszeit, Probezeit, Vergütung, Urlaub, Kündigungsvoraussetzungen und anwendbare Tarifverträge. Die Niederschrift ist den Auszubildenden und gesetzlichen Vertreter:innen auszuhändigen. Nachweise sind bis drei Jahre nach Ablauf des Kalenderjahres, in dem das Ausbildungsverhältnis endete, aufzubewahren.</p><h3>Mindestvergütung</h3><p>Nach § 17 BBiG gilt eine Mindestausbildungsvergütung. Für Ausbildungen mit Beginn 2026 beträgt sie 724 Euro im ersten, 854 Euro im zweiten, 977 Euro im dritten und 1.014 Euro im vierten Ausbildungsjahr (Bekanntmachung der Mindestausbildungsvergütung im Bundesgesetzblatt vom 10.10.2025; BIBB-Pressemitteilung). Das zweite bis vierte Jahr ergibt sich aus Zuschlägen von 18, 35 und 40 Prozent auf den Betrag des ersten Jahres (§ 17 Abs. 2 BBiG). Tarifverträge können höhere Sätze vorsehen.</p>",
+      "zustaendig": [
+        "Handwerkskammer (Ausbildungsberatung, Verzeichnis der Ausbildungsverhältnisse)",
+        "Innung",
+        "Agentur für Arbeit (Beratung zu Ausbildungsförderung)"
+      ],
+      "belege": [
+        "§ 11 BBiG, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "§ 28 BBiG, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "Bekanntmachung der Mindestausbildungsvergütung im Bundesgesetzblatt vom 10.10.2025; BIBB-Pressemitteilung (724 Euro im Jahr 2026); Zuschläge 18/35/40 % nach § 17 Abs. 2 BBiG"
+      ],
+      "siehe_auch": [
+        "gesellen-fachkraefte-einstellen",
+        "beratung-anlaufstellen"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "gesellen-fachkraefte-einstellen",
+      "kategorie": "betrieb",
+      "titel": "Gesellen und Fachkräfte einstellen",
+      "icon": "🧰",
+      "teaser": "Mindestlohn 13,90 Euro, Minijob-Grenze 603 Euro und was bei der Arbeitnehmerüberlassung im Bau gilt.",
+      "schlagworte": [
+        "Mindestlohn",
+        "Minijob",
+        "Geselle einstellen",
+        "Tarifvertrag",
+        "Arbeitnehmerüberlassung",
+        "Leiharbeit",
+        "Baugewerbe"
+      ],
+      "kurz_html": "<p>Wenn Sie Personal einstellen, gelten der gesetzliche Mindestlohn und die Regeln der Sozialversicherung.</p><ul><li><strong>Mindestlohn:</strong> 13,90 Euro pro Stunde seit 1. Januar 2026; 14,60 Euro ab 1. Januar 2027.</li><li><strong>Minijob:</strong> Bis 603 Euro im Monat im Durchschnitt (2026). Ab Januar 2027 633 Euro.</li><li><strong>Tarifverträge:</strong> In manchen Handwerken gelten höhere Mindestlöhne. Fragen Sie bei Innung oder Kammer.</li><li><strong>Leiharbeit im Bau:</strong> Sie ist stark eingeschränkt.</li></ul><p>Die Rechte Ihrer Beschäftigten (Urlaub, Kündigung, Lohnfortzahlung) stehen im Baustein Arbeitnehmer.</p>",
+      "schritte": [
+        {
+          "titel": "Stelle und Vergütung festlegen",
+          "text": "Vergütung mindestens in Höhe von Mindestlohn oder Tarif."
+        },
+        {
+          "titel": "Schriftlichen Vertrag schließen",
+          "text": "Halten Sie die Arbeitsbedingungen fest."
+        },
+        {
+          "titel": "Betriebsnummer und Meldungen",
+          "text": "Ohne Betriebsnummer keine Anmeldung zur Sozialversicherung."
+        },
+        {
+          "titel": "Im Bau: Sofortmeldung",
+          "text": "Meldung spätestens bei Beschäftigungsbeginn (siehe Seite Schwarzarbeit)."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "13,90 Euro",
+          "was": "Gesetzlicher Mindestlohn seit 1. Januar 2026; 14,60 Euro ab 1. Januar 2027.",
+          "grundlage": "Fünfte Mindestlohnanpassungsverordnung (MiLoV5) vom 5.11.2025, BGBl. 2025 I Nr. 268 (ausgegeben 7.11.2025); Beschluss der Mindestlohnkommission vom 27.06.2025 (bmas.de)"
+        },
+        {
+          "wert": "603 Euro",
+          "was": "Minijob-Grenze 2026 (monatlich im Durchschnitt; ab Januar 2027 633 Euro).",
+          "grundlage": "§ 8 Abs. 1a SGB IV (Mindestlohn × 130 ÷ 3, aufgerundet)"
+        },
+        {
+          "wert": "3 Jahre",
+          "was": "Arbeitnehmerüberlassung zwischen Baubetrieben nur, wenn der Verleiher seit mindestens drei aufeinanderfolgenden Jahren an denselben Rahmen- und Sozialkassentarifverträgen teilnimmt.",
+          "grundlage": "§ 1b AÜG"
+        }
+      ],
+      "achtung": [
+        "Arbeitnehmerüberlassung in Betriebe des Baugewerbes für Arbeiten, die üblicherweise von Arbeitern erledigt werden, ist grundsätzlich unzulässig (§ 1b AÜG). Ausnahmen sind eng.",
+        "Branchenmindestlöhne nach AEntG 2026 (Quelle: DGB): Dachdecker 14,96 Euro ungelernt und 16,60 Euro Geselle, Elektrohandwerk 14,93 Euro, Maler-Geselle 15,55 Euro (ab 01.07.2026 16,13 Euro). Bauhauptgewerbe ca. 15,86 Euro (LG 1) und 17,34 Euro (LG 2): nur Sekundärquelle, ungeprüft; vor Übernahme im Tarifvertrag Mindestlohn Bau (Zoll) prüfen.",
+        "Beim Minijob gelten weitere Pflichten (Meldung, Pauschalabgaben). Diese wurden hier nicht aus der Primärquelle geprüft."
+      ],
+      "fach_html": "<h3>Mindestlohn</h3><p>Der gesetzliche Mindestlohn beträgt seit 1. Januar 2026 13,90 Euro und steigt zum 1. Januar 2027 auf 14,60 Euro. Grundlage ist die Fünfte Mindestlohnanpassungsverordnung (MiLoV5) vom 5. November 2025, verkündet in BGBl. 2025 I Nr. 268 (ausgegeben 7. November 2025), auf Basis des Beschlusses der Mindestlohnkommission vom 27. Juni 2025 (bmas.de). Höhere Branchen- oder Tarifmindestlöhne gehen vor. Branchenmindestlöhne nach AEntG 2026 (Quelle: DGB): Dachdecker 14,96 Euro ungelernt und 16,60 Euro Geselle, Elektrohandwerk 14,93 Euro, Maler-Geselle 15,55 Euro (ab 01.07.2026 16,13 Euro). Bauhauptgewerbe ca. 15,86 Euro (LG 1) und 17,34 Euro (LG 2): nur Sekundärquelle, ungeprüft; vor Übernahme im Tarifvertrag Mindestlohn Bau (Zoll) prüfen.</p><h3>Minijobs</h3><p>Die Verdienstgrenze für Minijobs liegt 2026 bei 603 Euro monatlich im Jahresdurchschnitt. Sie wird nach § 8 Abs. 1a SGB IV berechnet: Mindestlohn × 130 ÷ 3, aufgerundet auf volle Euro (13,90 × 130 ÷ 3 = 602,33, also 603 Euro; 14,60 ergibt 632,67, also 633 Euro). Ab Januar 2027 beträgt sie 633 Euro. Nähere Pflichten des Arbeitgebers wurden hier nicht ausgewertet.</p><h3>Arbeitnehmerüberlassung im Baugewerbe</h3><p>§ 1b AÜG erklärt Überlassung in Betriebe des Baugewerbes für Arbeiten, die üblicherweise von Arbeitern verrichtet werden, für unzulässig. Ausnahmen: zwischen Baubetrieben und anderen Betrieben, wenn Tarifverträge dies für zulässig erklären, sowie zwischen Baubetrieben, wenn der Verleiher seit mindestens drei aufeinanderfolgenden Jahren von denselben Rahmen- und Sozialkassentarifverträgen erfasst wird. Für EWR-Betriebe gelten Sonderregeln.</p><h3>Arbeitnehmerrechte</h3><p>Rechte der Beschäftigten werden hier nicht wiederholt; sie stehen im Baustein Arbeitnehmer.</p>",
+      "zustaendig": [
+        "Innung bzw. Arbeitgeberverband (Tarifverträge)",
+        "Minijob-Zentrale",
+        "Agentur für Arbeit (Betriebsnummer)",
+        "Zoll (Finanzkontrolle Schwarzarbeit)"
+      ],
+      "belege": [
+        "Fünfte Mindestlohnanpassungsverordnung (MiLoV5) vom 5.11.2025, BGBl. 2025 I Nr. 268 (ausgegeben 7.11.2025); Beschluss der Mindestlohnkommission 27.06.2025 (bmas.de Pressemitteilung), abgerufen 20.09.2026",
+        "§ 8 Abs. 1a SGB IV, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "§ 1b AÜG, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "DGB: Branchenmindestlöhne 2026 nach AEntG (Sekundärquelle), abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "schwarzarbeit-sofortmeldung",
+        "ausbildung-im-betrieb"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "arbeitsschutz-bg-bau-baustelle",
+      "kategorie": "betrieb",
+      "titel": "Arbeitsschutz, BG BAU und Baustellenrecht",
+      "icon": "⛑️",
+      "teaser": "Pflichten für Sicherheit auf der Baustelle: Berufsgenossenschaft, Vorankündigung bei großen Baustellen und Unfallmeldung.",
+      "schlagworte": [
+        "Arbeitsschutz",
+        "BG BAU",
+        "Baustellenverordnung",
+        "Vorankündigung",
+        "Unfallversicherung",
+        "Baustelle",
+        "Gefährdungsbeurteilung"
+      ],
+      "kurz_html": "<p>Als Betriebsinhaber:in sind Sie für die Sicherheit Ihrer Beschäftigten verantwortlich. Die Berufsgenossenschaft (im Bau meist BG BAU) berät dazu und überwacht.</p><ul><li>Melden Sie Ihr Unternehmen dem Unfallversicherungsträger.</li><li>Bei großen Baustellen gilt zusätzlich die Baustellenverordnung: Vorankündigung an die zuständige Behörde.</li><li>Dokumentieren Sie Gefährdungen und Unterweisungen.</li></ul><p>Bei Fragen zur Sicherheit auf der Baustelle: Fragen Sie den Unfallversicherungsträger. Die Beratung ist Teil seiner Aufgaben.</p>",
+      "schritte": [
+        {
+          "titel": "Unternehmen melden",
+          "text": "Beginn dem Unfallversicherungsträger anzeigen (eine Woche)."
+        },
+        {
+          "titel": "Gefährdungen erfassen",
+          "text": "Dokumentieren Sie Risiken je Tätigkeit und legen Sie Schutzmaßnahmen fest."
+        },
+        {
+          "titel": "Beschäftigte unterweisen",
+          "text": "Halten Sie Unterweisungen schriftlich fest."
+        },
+        {
+          "titel": "Große Baustellen prüfen",
+          "text": "Vorankündigung nach Baustellenverordnung, wenn die Schwellen erreicht sind."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "> 30 Arbeitstage und > 20 Beschäftigte",
+          "was": "Vorankündigung nötig, wenn die Arbeiten voraussichtlich mehr als 30 Arbeitstage dauern und mehr als 20 Beschäftigte gleichzeitig tätig sind, oder wenn der Umfang voraussichtlich 500 Personentage überschreitet.",
+          "grundlage": "§ 2 Abs. 2 BaustellV"
+        },
+        {
+          "wert": "2 Wochen",
+          "was": "Vorankündigung spätestens zwei Wochen vor Einrichtung der Baustelle.",
+          "grundlage": "§ 2 Abs. 2 BaustellV"
+        },
+        {
+          "wert": "1 Woche",
+          "was": "Anzeige des Unternehmensbeginns beim Unfallversicherungsträger.",
+          "grundlage": "§ 192 Abs. 1 SGB VII"
+        }
+      ],
+      "achtung": [
+        "Die Vorankündigung muss sichtbar auf der Baustelle ausgehängt und bei wesentlichen Änderungen angepasst werden.",
+        "Die Pflichten des Arbeitsschutzgesetzes (Gefährdungsbeurteilung, Unterweisung) und die Meldepflicht bei Arbeitsunfällen wurden hier nicht aus der Primärquelle geprüft.",
+        "Verantwortlich für die Vorankündigung ist bei Bauherren die Person, die die Baustelle einrichtet bzw. beauftragte Dritte. Klären Sie Zuständigkeiten vertraglich."
+      ],
+      "fach_html": "<h3>Baustellenverordnung</h3><p>§ 2 Abs. 2 BaustellV verlangt eine Vorankündigung für Baustellen, bei denen die voraussichtliche Dauer der Arbeiten mehr als 30 Arbeitstage beträgt und mehr als 20 Beschäftigte gleichzeitig tätig werden, oder bei denen der Umfang der Arbeiten voraussichtlich 500 Personentage überschreitet. Sie ist spätestens zwei Wochen vor Einrichtung der Baustelle an die zuständige Behörde zu übermitteln, sichtbar auszuhängen und bei wesentlichen Änderungen anzupassen. Weitere Pflichten der Verordnung (Koordinator, Sicherheits- und Gesundheitsschutzplan) wurden hier nicht ausgewertet.</p><h3>Gesetzliche Unfallversicherung</h3><p>Unternehmer müssen den Beginn dem zuständigen Unfallversicherungsträger anzeigen (§ 192 SGB VII). Dieser berät und überwacht zur Unfallverhütung; Inhalte und Vorschriften der BG BAU wurden hier nicht im Einzelnen ausgewertet.</p><h3>Arbeitsschutzgesetz</h3><p>Die Grundpflichten des Arbeitgebers ergeben sich aus dem Arbeitsschutzgesetz. Diese Seite gibt dazu keine Einzelheiten. Fragen Sie den Träger der gesetzlichen Unfallversicherung.</p>",
+      "zustaendig": [
+        "BG BAU bzw. der für Ihr Gewerk zuständige Unfallversicherungsträger",
+        "Zuständige Arbeitsschutzbehörde des Landes (Vorankündigung)",
+        "Handwerkskammer"
+      ],
+      "belege": [
+        "§ 2 BaustellV, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "§ 192 SGB VII, gesetze-im-internet.de, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "betriebshaftpflicht-versicherungen",
+        "schwarzarbeit-sofortmeldung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "schwarzarbeit-sofortmeldung",
+      "kategorie": "betrieb",
+      "titel": "Schwarzarbeit, Scheinselbstständigkeit und Sofortmeldung",
+      "icon": "🚫",
+      "teaser": "Im Bau gilt die Sofortmeldung bei Beschäftigungsbeginn. Beschäftigte müssen Ausweispapiere mitführen. Bei Zweifeln zum Status hilft die Statusfeststellung.",
+      "schlagworte": [
+        "Sofortmeldung",
+        "Schwarzarbeit",
+        "Scheinselbstständigkeit",
+        "Statusfeststellung",
+        "§ 28a SGB IV",
+        "§ 7a SGB IV",
+        "Ausweispflicht"
+      ],
+      "kurz_html": "<p>Im Baugewerbe gelten besonders strenge Regeln, um Schwarzarbeit zu verhindern.</p><ul><li><strong>Sofortmeldung:</strong> Als Arbeitgeber im Baugewerbe müssen Sie Beschäftigte spätestens bei Beschäftigungsbeginn an die Rentenversicherung melden.</li><li><strong>Ausweis mitführen:</strong> Beschäftigte müssen ihre Personaldokumente bei sich haben. Darauf müssen Sie sie schriftlich hinweisen.</li><li><strong>Scheinselbstständigkeit:</strong> Wer als Selbstständige:r arbeitet, aber tatsächlich abhängig beschäftigt ist, kann Nachzahlungen auslösen. Mit einer Statusfeststellung lässt sich das klären.</li></ul><p>Bei Zweifeln vorher Rat holen: bei der Rentenversicherung, der Kammer oder einer Rechtsberatung.</p>",
+      "schritte": [
+        {
+          "titel": "Betriebsnummer haben",
+          "text": "Sie brauchen sie für jede Meldung."
+        },
+        {
+          "titel": "Sofortmeldung abgeben",
+          "text": "Spätestens bei Beschäftigungsbeginn an die Datenstelle der Rentenversicherung."
+        },
+        {
+          "titel": "Hinweis auf Ausweispflicht",
+          "text": "Weisen Sie Beschäftigte vor Arbeitsbeginn nachweislich schriftlich darauf hin und bewahren Sie den Nachweis auf."
+        },
+        {
+          "titel": "Status klären",
+          "text": "Bei Zweifeln, ob jemand selbstständig oder beschäftigt ist: Antrag auf Statusfeststellung."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "spätestens bei Beschäftigungsbeginn",
+          "was": "Sofortmeldung im Baugewerbe an die Datenstelle der Rentenversicherung: Name, Versicherungsnummer (oder Geburtsdaten und Anschrift), Betriebsnummer, Tag der Aufnahme.",
+          "grundlage": "§ 28a Abs. 4 SGB IV"
+        },
+        {
+          "wert": "1 Monat",
+          "was": "Antrag auf Statusfeststellung binnen eines Monats nach Aufnahme der Tätigkeit: Die Versicherungspflicht tritt erst mit Bekanntgabe der Entscheidung ein, wenn die beschäftigte Person zustimmt und für den Zwischenzeitraum eine Absicherung gegen Krankheit und für das Alter besteht.",
+          "grundlage": "§ 7a Abs. 5 SGB IV"
+        }
+      ],
+      "achtung": [
+        "Das Baugewerbe ist die erste von elf Branchen, für die die Sofortmeldung gilt.",
+        "Beschäftigte im Baugewerbe müssen Personaldokumente mitführen und dem Zoll auf Verlangen vorlegen (§ 2a SchwarzArbG). Arbeitgeber müssen darauf schriftlich hinweisen.",
+        "Vorschriften und Bußgelder zu Schwarzarbeit und Scheinselbstständigkeit wurden hier nicht im Einzelnen ausgewertet. Lassen Sie sich beraten.",
+        "Teile von § 7a SGB IV (Abs. 2 Satz 2 und 3, Abs. 4a bis 4c, Abs. 6 Satz 2) treten mit Ablauf des 30.06.2027 außer Kraft."
+      ],
+      "fach_html": "<h3>Sofortmeldung</h3><p>§ 28a Abs. 4 SGB IV: Arbeitgeber in den dort genannten elf Branchen, darunter zuerst das Baugewerbe, haben den Beschäftigungsbeginn spätestens bei dessen Aufnahme an die Datenstelle der Rentenversicherung zu melden. Anzugeben sind Name, Versicherungsnummer (oder Geburtsdaten und Anschrift), Betriebsnummer und Tag der Aufnahme. Weitere Branchen sind unter anderem Gaststätten, Speditionen, Gebäudereinigung, Fleischwirtschaft und Wach- und Sicherheitsgewerbe.</p><h3>Mitführungspflicht</h3><p>§ 2a SchwarzArbG verpflichtet Beschäftigte in den genannten elf Branchen, ihre Personaldokumente mitzuführen und den Prüfbehörden auf Verlangen vorzulegen. Der Arbeitgeber muss sie vor Beginn der Tätigkeit nachweislich und schriftlich darauf hinweisen und den Nachweis aufbewahren.</p><h3>Statusfeststellung</h3><p>Nach § 7a SGB IV entscheidet die Deutsche Rentenversicherung Bund auf Antrag, ob bei einem Auftragsverhältnis eine Beschäftigung oder eine selbstständige Tätigkeit vorliegt. Das Verfahren ist schriftlich oder elektronisch möglich. Wird der Antrag innerhalb eines Monats nach Aufnahme der Tätigkeit gestellt, tritt die Versicherungspflicht nach Abs. 5 erst mit Bekanntgabe der Entscheidung ein, wenn die beschäftigte Person zustimmt und für den Zwischenzeitraum eine Absicherung gegen das Risiko der Krankheit und zur Altersvorsorge besteht. Abs. 4a ermöglicht eine Entscheidung schon vor Tätigkeitsbeginn. Andere Versicherungsträger sind an die Entscheidungen der Deutschen Rentenversicherung Bund gebunden. Teile des § 7a (Abs. 2 Satz 2 und 3, Abs. 4a bis 4c, Abs. 6 Satz 2) treten mit Ablauf des 30. Juni 2027 außer Kraft.</p><h3>Abgrenzung</h3><p>Welche Merkmale für Scheinselbstständigkeit sprechen (Weisungsgebundenheit, Eingliederung), wurde hier nicht aus Rechtsprechung oder Verwaltungsvorschriften ausgewertet.</p>",
+      "zustaendig": [
+        "Deutsche Rentenversicherung Bund (Statusfeststellung, Datenstelle)",
+        "Zoll, Finanzkontrolle Schwarzarbeit (Prüfung)",
+        "Handwerkskammer und Rechtsberatung"
+      ],
+      "belege": [
+        "§ 28a SGB IV, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "§ 2a SchwarzArbG, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "§ 7a SGB IV, gesetze-im-internet.de, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "gesellen-fachkraefte-einstellen",
+        "arbeitsschutz-bg-bau-baustelle"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "beratung-anlaufstellen",
+      "kategorie": "beratung",
+      "titel": "Beratung und Anlaufstellen",
+      "icon": "🤝",
+      "teaser": "Wo Handwerker:innen Rat bekommen: Handwerkskammer, Innung, Kreishandwerkerschaft, Unfallversicherung, Rentenversicherung, Finanzamt, Rechtsberatung.",
+      "schlagworte": [
+        "Handwerkskammer",
+        "Innung",
+        "Kreishandwerkerschaft",
+        "Beratung",
+        "BG BAU",
+        "Rentenversicherung",
+        "Rechtsberatung"
+      ],
+      "kurz_html": "<p>Sie müssen nicht alles allein klären. Diese Stellen helfen weiter.</p><ul><li><strong>Handwerkskammer:</strong> Ihr Betrieb ist Mitglied. Dort bekommen Sie Beratung zu Gründung, Recht, Betriebsführung und Ausbildung.</li><li><strong>Innung und Kreishandwerkerschaft:</strong> Vertreten Ihr Gewerk vor Ort und beraten oft zu Tarif- und Vertragsfragen.</li><li><strong>Unfallversicherungsträger (z. B. BG BAU):</strong> Arbeitsschutz und Unfallverhütung.</li><li><strong>Deutsche Rentenversicherung:</strong> Rente, Befreiung, Statusfeststellung.</li><li><strong>Finanzamt und Steuerberatung:</strong> Steuern.</li><li><strong>Rechtsanwält:innen:</strong> bei Streit ums Geld oder Mängel.</li></ul><p>Suchen Sie die Kontaktdaten Ihres Bezirks auf den Internetseiten der jeweiligen Stelle. Diese Seite nennt keine Adressen oder Telefonnummern.</p>",
+      "schritte": [
+        {
+          "titel": "Zuerst Kammer",
+          "text": "Die Handwerkskammer Ihres Bezirks ist meist die erste Adresse."
+        },
+        {
+          "titel": "Innung fragen",
+          "text": "Für gewerkspezifische Fragen und Tarifverträge."
+        },
+        {
+          "titel": "Fachstellen nutzen",
+          "text": "Unfallversicherung, Rentenversicherung, Finanzamt für Spezialfragen."
+        },
+        {
+          "titel": "Bei Streit: Rechtsberatung",
+          "text": "Vor Mahnbescheid, Kündigung oder Klage anwaltlich prüfen lassen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "Mitgliedschaft",
+          "was": "Inhaber:innen von Handwerksbetrieben und deren Gesellen, Arbeitnehmer mit Berufsausbildung und Lehrlinge sind Mitglieder der Handwerkskammer.",
+          "grundlage": "§ 90 Abs. 2 HwO"
+        }
+      ],
+      "achtung": [
+        "Handwerkskammern sind Körperschaften des öffentlichen Rechts (§ 90 HwO). Ihre Beratung ist Information, keine Rechtsvertretung.",
+        "Innungen und Kreishandwerkerschaften werden hier nur genannt; ihre Rechtsgrundlagen und Leistungen wurden nicht aus der Primärquelle geprüft.",
+        "Für Ihren Fall gibt es keine Erfolgsgarantie. Diese Plattform ersetzt keine Beratung."
+      ],
+      "fach_html": "<h3>Handwerkskammern</h3><p>Nach § 90 HwO sind Handwerkskammern Körperschaften des öffentlichen Rechts zur Vertretung der Interessen des Handwerks. Mitglieder sind Inhaber:innen von Betrieben zulassungspflichtiger und zulassungsfreier Handwerke und handwerksähnlicher Gewerbe im Bezirk sowie deren Gesellen, andere Arbeitnehmer mit Berufsausbildung und Lehrlinge. Die Kammern werden von den Ländern eingerichtet und decken in der Regel bestimmte Verwaltungsbezirke ab.</p><h3>Weitere Stellen</h3><p>Der Zentralverband des Deutschen Handwerks (ZDH) ist der Dachverband; er berät Betriebe nicht im Einzelfall. Innungen und Kreishandwerkerschaften sind örtliche Organisationen des Handwerks. Für Arbeitsschutz ist der Unfallversicherungsträger zuständig, für Rente die Deutsche Rentenversicherung, für Steuern das Finanzamt, für Schwarzarbeitsprüfungen der Zoll.</p><h3>Rechtsberatung</h3><p>Rechtsberatung im Einzelfall dürfen Rechtsanwält:innen geben. Diese Plattform ist eine allgemeine Information und keine Rechtsberatung im Sinne des Rechtsdienstleistungsgesetzes.</p><h3>Lücke</h3><p>Konkrete Kontaktdaten, kostenlose Beratungsangebote einzelner Kammern und Gründungsförderprogramme wurden bewusst nicht aufgenommen, weil sie hier nicht belegt sind.</p>",
+      "zustaendig": [
+        "Handwerkskammer des Betriebssitzes",
+        "Innung bzw. Kreishandwerkerschaft vor Ort",
+        "Zuständiger Unfallversicherungsträger und Deutsche Rentenversicherung",
+        "Rechtsanwält:innen und Steuerberatung"
+      ],
+      "belege": [
+        "§ 90 HwO, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "§ 1 HwO, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "§ 192 SGB VII, gesetze-im-internet.de, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "ueberblick-handwerksrecht",
+        "meisterpflicht-handwerksrolle"
+      ],
+      "stand": "September 2026"
+    }
+  ]
+}

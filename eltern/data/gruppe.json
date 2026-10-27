@@ -1,0 +1,34 @@
+{
+ "titel": "Eltern & Familien",
+ "zusatz": "Eltern &amp; Familien &middot; Rechte und Leistungen für Ihr Kind",
+ "icon": "👨‍👩‍👧",
+ "teaser": "Kindergeld, Kinderzuschlag, Kita, Schule, Kinderkrankentage, Jugendamt und Rechte des Kindes: verständliche Antworten für Eltern schulpflichtiger Kinder.",
+ "suche_placeholder": "Suchen: Kindergeld, Kita, Kinderkrankentage, Jugendamt, Schulbedarf …",
+ "meta_description": "Wegweiser für Eltern: Kindergeld 259 Euro, Kinderzuschlag, Bildung und Teilhabe, Kita-Anspruch, Schulpflicht, Kinderkrankentage, Sorgerecht, Jugendamt, Kinderrechte, Jugendschutz und Beratung. Rechtsstand September 2026.",
+ "hinweis": "<p><strong>Rechtsstand: September 2026.</strong> Geprüft sind Einkommensteuergesetz, Bundeskindergeldgesetz, SGB II, V, VIII, XII, BGB und Jugendschutzgesetz nach gesetze-im-internet.de sowie Seiten der Bundesagentur für Arbeit. Die Kinderkrankentage-Sonderregel (15/30 Tage) gilt nur für 2026; Stand 20.09.2026 gibt es keine Regel für 2027, dann gelten wieder 10/20 bzw. 25/50 Tage. Landesrecht sind nicht nur Kita- und Schulgebühren, sondern auch Schulpflichtdauer, Einschulung, Schulwahl, Lernmittel, Schülerbeförderung, Bußgelder, sonderpädagogischer Förderbedarf und die Ausgestaltung des Ganztags. Geprüft sind nur Bayern, Nordrhein-Westfalen und Berlin; 13 weitere Länder nicht. Quellen und offene Punkte: <a href=\"quellen.html\">Quellen und Grenzen</a>. Information, keine Rechtsberatung.</p>",
+ "haeufig": [
+  "kindergeld",
+  "kinderzuschlag",
+  "kita-anspruch",
+  "kinderkrankentage",
+  "kinderschutz-jugendamt",
+  "beratung"
+ ],
+ "fusszeile": "Wegweiser Eltern & Familien: Information zu Familienleistungen und Kinderrechten, keine Rechtsberatung; Stand September 2026.",
+ "beratung_id": "beratung",
+ "quellen_teaser": "<p>Alle Angaben stammen aus Gesetzestexten und Seiten von Behörden oder Trägern. Unsichere Punkte sind unten offen benannt.</p>",
+ "quellen_abschnitte": [
+  {
+   "h": "Quellenliste",
+   "html": "<ol><li>Bundesministerium der Justiz, Gesetze im Internet: § 66 EStG, § 32 EStG, §§ 1, 2, 6a und 6b BKGG, §§ 63, 64 EStG, § 3 AsylbLG, § 28 SGB II, § 34 SGB XII, § 45 SGB V, §§ 8, 8a, 8b, 24, 27, 36 SGB VIII, §§ 1603, 1610, 1626a, 1631, 1666 BGB, § 14 JuSchG. Abgerufen 20.09.2026.</li><li>Bundesagentur für Arbeit: Kindergeld steigt ab Januar 2026 (Presseinfo Nr. 53 vom 04.12.2025); Kinderzuschlag: Anspruch, Höhe, Dauer; Kinderzuschlag verstehen. Abgerufen 20.09.2026.</li><li>Familienportal des Bundes: Bildung und Teilhabe; Krisentelefone und Anlaufstellen in Notlagen. Abgerufen 20.09.2026.</li><li>Kultusministerkonferenz: Bildungswege und Abschlüsse in Deutschland. Abgerufen 20.09.2026.</li><li>Nummer gegen Kummer e. V. (nummergegenkummer.de); Hilfe-Portal Sexueller Missbrauch (hilfe-portal-missbrauch.de); Oberlandesgericht Düsseldorf, Pressemitteilung vom 01.12.2025 zur Düsseldorfer Tabelle 2026; Gesetz vom 22.12.2025 (Pflege-Bürokratieabbau, § 45 Abs. 2a SGB V). Abgerufen 20.09.2026.</li><li>Landesrecht (BY, NRW, BE): Bayerisches Erziehungs- und Unterrichtsgesetz (BayEUG), Schulgesetz NRW (SchulG NRW), Schulgesetz Berlin (SchulG Bln), Bayerisches Schulfinanzierungsgesetz (BaySchFG), Bayerisches Kinderbildungs- und -betreuungsgesetz (BayKiBiG), Kinderbildungsgesetz NRW (KiBiz), Tagesbetreuungskostenbeitragsfreiheitsgesetz Berlin (TKBG). Mit \"nicht im Volltext geprüft\" markierte Punkte stammen aus Sekundärquellen.</li></ol>"
+  },
+  {
+   "h": "Unsichere und offene Punkte",
+   "html": "<ul><li>Kinderkrankentage: Die Sonderregel 15/30 Tage gilt nur für 2026; Stand 20.09.2026 gibt es keine Regel für 2027. Privat Versicherte sind nicht behandelt.</li><li>Kinderzuschlag: Die Einkommensanrechnung ist nicht vertieft.</li><li>Kindergeld: Kinderfreibetrag ist nicht vertieft.</li><li>Ganztagsanspruch: Klassen 2 bis 4 haben 2026/2027 noch keinen Anspruch, volle Abdeckung erst 2029/2030. Kita-Gebühren und Schulrecht sind Landesrecht.</li><li>Landesrecht: nur BY, NRW, BE geprüft (Schulpflichtdauer, Einschulung, Schulwahl, Lernmittel, Beförderung, Bußgelder, Förderbedarf, Ganztag-Ausgestaltung); 13 weitere Länder nicht. Sekundär gestützte Punkte sind im Text markiert.</li><li>Unterhalt: Kindergeldanrechnung, Selbstbehalte und BAföG sind nicht behandelt.</li><li>Sorgerecht: Eine mögliche Reform des Kindschaftsrechts wurde nicht geprüft; es gilt der abgerufene Gesetzestext.</li><li>Jugendmedienschutz: Jugendmedienschutz-Staatsvertrag, Altersgrenzen sozialer Netzwerke und neue Regeln 2026 sind nicht behandelt.</li></ul>"
+  },
+  {
+   "h": "Was diese Plattform leistet – und was nicht",
+   "html": "<p>Der Wegweiser erklärt Familienrecht und Familienleistungen in einfacher Sprache und nennt Rechtsgrundlagen, Fristen und Zahlen aus den genannten Quellen. Er ersetzt keine Rechtsberatung und keine Prüfung Ihres Einzelfalls. Er nennt keine örtlichen Beratungsstellen, Adressen oder Telefonnummern außer bundesweit belegten Stellen. Es werden keine personenbezogenen Daten gespeichert. Alleinerziehende, Schwangerschaft und Elternzeit, Trennung und Scheidung sowie Careleaver haben eigene Wegweiser.</p>"
+  }
+ ]
+}

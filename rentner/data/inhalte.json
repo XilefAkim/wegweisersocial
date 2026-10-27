@@ -1,0 +1,480 @@
+{
+ "kategorien": [
+  {"id": "ueberblick", "titel": "Überblick und Grundlagen", "icon": "🧭", "beschreibung": "Was im Rentenalter finanziell zählt und wo Sie welche Vertiefung finden."},
+  {"id": "rentenart", "titel": "Rentenart und Antrag", "icon": "📄", "beschreibung": "Altersrentenarten, Abschläge, Antrag, Rentenauskunft, Bescheid prüfen."},
+  {"id": "hoehe", "titel": "Rentenhöhe und Hinzuverdienst", "icon": "📈", "beschreibung": "Rentenanpassung 2026, Reformstand, Aktivrente."},
+  {"id": "steuern-kv", "titel": "Steuern und Krankenversicherung", "icon": "🧾", "beschreibung": "Besteuerung der Rente, Steuererklärung, KVdR und Beiträge."},
+  {"id": "zusatzhilfen", "titel": "Grundsicherung, Wohngeld, Hinterbliebene", "icon": "🏠", "beschreibung": "Wenn die Rente nicht reicht, und Leistungen nach einem Todesfall."},
+  {"id": "vorsorge-schutz", "titel": "Zusatzrenten, Ausland, Schutz", "icon": "🛡️", "beschreibung": "Betriebsrente, Riester, Rente im Ausland, Betrug."},
+  {"id": "beratung", "titel": "Beratung und Anlaufstellen", "icon": "🤝", "beschreibung": "Kostenlose und geprüfte Anlaufstellen bundesweit."}
+ ],
+ "seiten": [
+  {
+   "id": "ueberblick-rentner",
+   "kategorie": "ueberblick",
+   "titel": "Überblick: Geld im Rentenalter",
+   "icon": "🧭",
+   "teaser": "Gesetzliche Rente, Steuer, Krankenversicherung, Grundsicherung, Wohngeld: Diese Seite zeigt, was im Rentenalter beim Geld wichtig ist und wo Sie weiterlesen.",
+   "schlagworte": ["Rente", "Rentenalter", "Grundsicherung", "Wohngeld", "Rentenbesteuerung", "Aktivrente", "Überblick"],
+   "kurz_html": "<p>Im Rentenalter kommen viele Geldthemen zusammen. Die Rente muss beantragt werden. Sie kann steuerpflichtig sein. Die Krankenversicherung wird von der Rente bezahlt. Wenn das Geld nicht reicht, gibt es Grundsicherung im Alter oder Wohngeld.</p><p>Diese Seite ist ein Wegweiser. Sie ersetzt keine persönliche Beratung.</p><p><strong>Wichtig 2026:</strong> Die Renten steigen am 1. Juli 2026 um 4,24 Prozent. Die Aktivrente gilt seit 1. Januar 2026. Viele andere Reformen sind erst Vorschläge oder Entwürfe und gelten noch nicht. Lesen Sie dazu die Seite zur Rentenanpassung.</p><p>Vertiefungen zu Pflege, Erbrecht, Vorsorgevollmacht und digitalen Themen finden Sie in der Wegweiser-Gruppe Senioren, zur Erwerbsminderungsrente in der Gruppe Berufsunfähigkeit (eine eigene Gruppe Erwerbsgeminderte ist geplant). Hier geht es um das Geld.</p>",
+   "schritte": [
+    {"titel": "Situation klären", "text": "Sind Sie schon in Rente, kurz davor oder Hinterbliebene? Danach richtet sich die passende Seite."},
+    {"titel": "Rentenauskunft und Konto prüfen", "text": "Lesen Sie die Seiten zu Rentenart, Antrag und Rentenauskunft, damit der Rentenbeginn passt."},
+    {"titel": "Netto prüfen", "text": "Steuer und Krankenversicherung mindern die Rente. Prüfen Sie beides."},
+    {"titel": "Bei knappem Geld Leistungen prüfen", "text": "Grundsicherung im Alter und Wohngeld sind zwei mögliche Leistungen."},
+    {"titel": "Beratung nutzen", "text": "Die Rentenversicherung berät kostenlos. Sozialverbände beraten oft für Mitglieder."}
+   ],
+   "fristen": [
+    {"wert": "1 Monat", "was": "Widerspruch gegen einen Bescheid, ab Bekanntgabe (Ausland: 3 Monate)", "grundlage": "§ 84 SGG"},
+    {"wert": "3 Kalendermonate", "was": "Rentenantrag nach Erfüllung der Voraussetzungen, damit die Rente rückwirkend ab dem Anspruchsmonat gezahlt wird", "grundlage": "§ 99 Abs. 1 SGB VI"},
+    {"wert": "4,24 %", "was": "Rentenanpassung zum 1. Juli 2026", "grundlage": "Deutsche Rentenversicherung, Meldung zur Rentenanpassung 2026"}
+   ],
+   "achtung": [
+    "Vorschläge der Alterssicherungskommission (Bericht Juni 2026) sind noch kein Gesetz. Bis zu einem Gesetz gilt nach Angabe der Deutschen Rentenversicherung nur das bestehende Rentenrecht.",
+    "Die Rente wird nicht automatisch gezahlt, sie muss beantragt werden.",
+    "Die Rentenversicherung fordert nie per Telefon, E-Mail oder SMS zur Nennung von Zahlungsdaten auf (siehe Seite zu Betrug).",
+    "Gilt für Deutschland. Im Ausland wohnende Rentner: siehe eigene Seite."
+   ],
+   "fach_html": "<h3>Aufbau dieser Gruppe</h3><p>Die Seiten folgen dem Lebenslauf: Rentenart und Abschläge (§§ 35 ff. SGB VI), Antrag und Rentenauskunft, Rentenbescheid und Widerspruch, Rentenanpassung 2026, Hinzuverdienst und Aktivrente (§ 3 Nr. 21 EStG), Besteuerung, Kranken- und Pflegeversicherung, Grundsicherung im Alter (SGB XII), Wohngeld, Hinterbliebenenrente und Versorgungsausgleich, Betriebsrente/Riester/Rürup, Auslandsrente, Betrug, Beratung.</p><h3>Abgrenzung</h3><p>Erwerbsminderungsrente wird hier nur erwähnt (§ 34 Abs. 2 SGB VI regelt, dass nach einer bewilligten Altersrente kein Wechsel in eine Rente wegen verminderter Erwerbsfähigkeit möglich ist). Die Rentenarten der Erwerbsminderung erklärt die Gruppe Berufsunfähigkeit.</p><h3>Rechtsstand</h3><p>September 2026. Angekündigte, aber noch nicht verabschiedete Vorhaben sind auf den Einzelseiten ausdrücklich als solche gekennzeichnet.</p>",
+   "zustaendig": ["Deutsche Rentenversicherung (Bund und Regionalträger)", "Sozialamt bzw. Grundsicherungsstelle", "Wohngeldbehörde der Gemeinde, Stadt oder Kreisverwaltung", "Finanzamt"],
+   "belege": ["Deutsche Rentenversicherung, Rentenanpassung 2026 (Meldung vom 05.03.2026), abgerufen 21.09.2026", "§ 99 SGB VI, gesetze-im-internet.de, abgerufen 21.09.2026", "§ 84 SGG, gesetze-im-internet.de, abgerufen 21.09.2026", "Deutsche Rentenversicherung, Alterssicherungskommission: Was die Vorschläge bedeuten würden, abgerufen 21.09.2026"],
+   "siehe_auch": ["rentenanpassung-reformstand", "beratung-rentner"],
+   "stand": "September 2026"
+  },
+  {
+   "id": "altersrentenarten-abschlaege",
+   "kategorie": "rentenart",
+   "titel": "Renteneintrittsalter, Altersrentenarten und Abschläge",
+   "icon": "🎂",
+   "teaser": "Ab wann Sie in Rente gehen können, hängt von Ihrem Jahrgang und Ihren Versicherungsjahren ab. Früher gehen kostet dauerhaft Prozente.",
+   "schlagworte": ["Regelaltersgrenze", "Regelaltersrente", "Altersrente für langjährig Versicherte", "besonders langjährig Versicherte", "Abschlag", "Zugangsfaktor", "Rente mit 63"],
+   "kurz_html": "<p>Es gibt mehrere Altersrenten. Für jede gelten ein Alter und eine Zahl an Versicherungsjahren (Wartezeit).</p><ul><li><strong>Regelaltersrente:</strong> mit 67 Jahren und 5 Jahren Wartezeit.</li><li><strong>Für langjährig Versicherte:</strong> mit 67 Jahren und 35 Jahren Wartezeit. Früher ab 63, dann mit Abschlag.</li><li><strong>Für besonders langjährig Versicherte:</strong> 45 Jahre Wartezeit. Für Jahrgang 1964 und später ab 65.</li><li><strong>Für schwerbehinderte Menschen:</strong> 65 Jahre und 35 Jahre Wartezeit, früher ab 62 möglich.</li></ul><p>Wer früher in Rente geht, bekommt für jeden Monat 0,3 Prozent weniger, dauerhaft. Wer später geht, bekommt 0,5 Prozent mehr je Monat.</p><p>Für Jahrgänge vor 1964 gelten Übergangsregeln. Ihr genaues Alter nennt die Rentenauskunft oder die Rentenversicherung.</p>",
+   "schritte": [
+    {"titel": "Jahrgang und Versicherungsjahre klären", "text": "Schauen Sie in Ihre Rentenauskunft, wie viele Jahre für die Wartezeit zählen."},
+    {"titel": "Möglichen Rentenbeginn suchen", "text": "Prüfen Sie, welche Rentenart mit welchem frühesten Alter für Sie gilt."},
+    {"titel": "Abschlag ausrechnen lassen", "text": "Lassen Sie sich die Rentenhöhe für verschiedene Beginn-Termine berechnen."},
+    {"titel": "Beratung wahrnehmen", "text": "Die Deutsche Rentenversicherung berät kostenlos zu Rentenart und Beginn."}
+   ],
+   "fristen": [
+    {"wert": "67 Jahre", "was": "Regelaltersgrenze (Jahrgang 1964 und später); Wartezeit 5 Jahre", "grundlage": "§ 35, § 235 SGB VI"},
+    {"wert": "63 Jahre", "was": "frühester Beginn der Altersrente für langjährig Versicherte (mit Abschlag); Wartezeit 35 Jahre", "grundlage": "§ 36 SGB VI"},
+    {"wert": "0,3 % je Monat", "was": "Abschlag je Monat vorzeitigen Rentenbezugs; 0,5 % Zuschlag je Monat späterer Inanspruchnahme", "grundlage": "§ 77 SGB VI"},
+    {"wert": "65 Jahre / 45 Jahre", "was": "Altersrente für besonders langjährig Versicherte (Wartezeit 45 Jahre)", "grundlage": "§ 38 SGB VI"}
+   ],
+   "achtung": [
+    "Abschläge sind dauerhaft. Sie gelten ein Leben lang, auch bei späteren Rentenanpassungen.",
+    "Nach Bewilligung einer Altersrente ist ein Wechsel in eine andere Altersrente nach § 34 Abs. 2 SGB VI grundsätzlich ausgeschlossen (Ausnahme für rechtswidrig bewilligte Renten: Wechsel in die Regelaltersrente).",
+    "Ein Jahrgang-Übergang gilt für vor 1964 Geborene. Die Tabelle steht in § 235 und § 236b SGB VI. Nicht im Volltext geprüft: Zwischenwerte einzelner Jahrgänge.",
+    "Vorschläge, das Renteneintrittsalter an die Lebenserwartung zu koppeln oder die abschlagsfreie Rente nach 45 Jahren abzuschaffen, sind Empfehlungen und kein geltendes Recht."
+   ],
+   "fach_html": "<h3>Regelaltersrente, § 35 und § 235 SGB VI</h3><p>Anspruch hat, wer die Regelaltersgrenze erreicht und die allgemeine Wartezeit erfüllt hat. Die Regelaltersgrenze ist mit Vollendung des 67. Lebensjahres erreicht (§ 35 SGB VI). Für vor 1964 Geborene gilt § 235 SGB VI: Vor dem 1. Januar 1947 Geborene erreichen die Grenze mit 65; danach steigt sie stufenweise (laut Gesetzestext um 1 Monat für 1947 bis 22 Monate für 1963, jeweils über 65).</p><h3>Altersrente für langjährig Versicherte, § 36 SGB VI</h3><p>Voraussetzung: 67. Lebensjahr vollendet und Wartezeit von 35 Jahren. Die vorzeitige Inanspruchnahme ist nach Vollendung des 63. Lebensjahres möglich.</p><h3>Altersrente für besonders langjährig Versicherte, § 38 und § 236b SGB VI</h3><p>Für ab 1964 Geborene: 65. Lebensjahr und 45 Jahre Wartezeit (§ 38). Für vor 1964 Geborene gilt § 236b: Wartezeit 45 Jahre; die Altersgrenze liegt bei 63 für vor 1953 Geborene und steigt laut Tabelle auf 63 Jahre 2 Monate (Jahrgang 1953) bis 64 Jahre 10 Monate (Jahrgang 1963).</p><h3>Altersrente für schwerbehinderte Menschen, § 37 SGB VI</h3><p>65. Lebensjahr vollendet, bei Rentenbeginn als schwerbehindert anerkannt (Definition SGB IX), Wartezeit 35 Jahre. Vorzeitig nach Vollendung des 62. Lebensjahres. Ab Jahrgang 1964 gilt direkt nach § 37 SGB VI die Altersgrenze 65 (vorzeitig ab 62); die Tabelle in § 236a SGB VI gilt nur für vor 1964 Geborene.</p><h3>Zugangsfaktor, § 77 SGB VI</h3><p>Bei Rentenbeginn zur Regelaltersgrenze beträgt der Zugangsfaktor 1,0. Bei vorzeitigem Bezug sinkt er je Kalendermonat um 0,003, bei späterem Bezug steigt er je Kalendermonat um 0,005. Rechenbeispiel: 48 Monate vorzeitig entsprechen 48 × 0,3 % = 14,4 % Abschlag (eigene Rechnung).</p><h3>Nicht im Volltext geprüft</h3><p>Die genaue Zählung der Wartezeiten (§§ 50, 51 SGB VI) und die Regelungen zu Teilrenten wurden nicht im Volltext geprüft.</p>",
+   "zustaendig": ["Deutsche Rentenversicherung (Bund oder Regionalträger)", "Versichertenberater und Versichertenälteste der Rentenversicherung (Bestehen und Ort: bei der DRV erfragen)"],
+   "belege": ["§ 35 SGB VI, gesetze-im-internet.de, abgerufen 21.09.2026", "§ 36 SGB VI, gesetze-im-internet.de, abgerufen 21.09.2026", "§ 37, § 38 SGB VI, gesetze-im-internet.de, abgerufen 21.09.2026", "§ 235, § 236b SGB VI, gesetze-im-internet.de, abgerufen 21.09.2026", "§ 77, § 34 SGB VI, gesetze-im-internet.de, abgerufen 21.09.2026"],
+   "siehe_auch": ["rentenantrag-rentenauskunft", "hinzuverdienst-aktivrente", "rentenanpassung-reformstand"],
+   "stand": "September 2026"
+  },
+  {
+   "id": "rentenantrag-rentenauskunft",
+   "kategorie": "rentenart",
+   "titel": "Rentenantrag, Fristen und Rentenauskunft",
+   "icon": "✍️",
+   "teaser": "Ohne Antrag keine Rente. Wer die Frist von drei Kalendermonaten kennt, verliert kein Geld. Die Rentenauskunft zeigt vorher, was Sie erwarten können.",
+   "schlagworte": ["Rentenantrag", "Rentenbeginn", "Rentenauskunft", "Renteninformation", "Kontenklärung", "Versicherungsverlauf", "§ 99 SGB VI"],
+   "kurz_html": "<p>Die Rente wird nicht von allein gezahlt. Sie müssen sie bei der Deutschen Rentenversicherung beantragen.</p><p>Wenn Sie den Antrag spät stellen, kann Geld verloren gehen. Die Rente wird rückwirkend ab dem Monat gezahlt, in dem Sie die Voraussetzungen erfüllen, wenn Sie den Antrag bis zum Ende des dritten Kalendermonats danach stellen.</p><p>Ab 55 Jahren bekommen Sie alle drei Jahre eine Rentenauskunft. Prüfen Sie dort Ihre Zeiten. Fehlen Zeiten, lassen Sie Ihr Konto klären. Das geht am besten früh.</p>",
+   "schritte": [
+    {"titel": "Rentenauskunft lesen", "text": "Prüfen Sie Beschäftigungszeiten, Kindererziehungszeiten, Ausbildungszeiten und Wartezeit."},
+    {"titel": "Konto klären lassen", "text": "Wenn Zeiten fehlen, die Rentenversicherung um Klärung des Versicherungskontos bitten und Nachweise beilegen."},
+    {"titel": "Beratung nutzen", "text": "Kostenloser Service der Rentenversicherung: 0800 1000 4800 (Mo–Do 8:00–19:00, Fr 8:00–15:30)."},
+    {"titel": "Antrag rechtzeitig stellen", "text": "Stellen Sie den Antrag bevor Sie in Rente gehen wollen. Wie und wo: bei der Rentenversicherung erfragen."},
+    {"titel": "Bescheid prüfen", "text": "Vergleichen Sie den Bescheid mit der Rentenauskunft und prüfen Sie ihn auf Fehler."}
+   ],
+   "fristen": [
+    {"wert": "3 Kalendermonate", "was": "Rente wird ab dem Monat gezahlt, in dem die Voraussetzungen erfüllt sind, wenn der Antrag bis zum Ende des dritten Kalendermonats nach Ablauf des Monats gestellt wird; sonst ab Antragsmonat", "grundlage": "§ 99 Abs. 1 SGB VI"},
+    {"wert": "alle 3 Jahre", "was": "Rentenauskunft ab dem 55. Lebensjahr", "grundlage": "§ 109 SGB VI"}
+   ],
+   "achtung": [
+    "Die Renteninformation und die Rentenauskunft enden mit dem Rentenbezug, spätestens bei Erreichen der Regelaltersgrenze.",
+    "Kontenklärung ist keine Rentenberechnung: Zeiten werden erst bei der Leistungsfeststellung bewertet (§ 149 SGB VI).",
+    "Für Daten, die länger als sechs Jahre zurückliegen, kann ein Feststellungsbescheid ergehen. Widersprechen Sie, wenn er falsch ist (Frist von sechs Kalendermonaten: nur aus Zusammenfassung des Gesetzestexts, nicht im Volltext geprüft).",
+    "Wegen möglicher Auslands- oder Sonderfälle vor dem Antrag beraten lassen."
+   ],
+   "fach_html": "<h3>Rentenbeginn, § 99 Abs. 1 SGB VI</h3><p>Eine Rente aus eigener Versicherung wird von dem Kalendermonat an geleistet, zu dessen Beginn die Anspruchsvoraussetzungen erfüllt sind, wenn die Rente bis zum Ende des dritten Kalendermonats nach Ablauf des Monats beantragt wird, in dem die Voraussetzungen erfüllt sind. Bei späterem Antrag beginnt die Rente mit dem Antragsmonat.</p><h3>Renteninformation und Rentenauskunft, § 109 SGB VI</h3><p>Ab dem 27. Lebensjahr jährlich eine Renteninformation. Ab dem 55. Lebensjahr wird sie durch eine Rentenauskunft ersetzt, die alle drei Jahre übermittelt wird. Inhalt: rentenrechtliche Zeiten, persönliche Entgeltpunkte, Rentenhöhen bei voller Erwerbsminderung, Tod oder Erreichen der Regelaltersgrenze, Prognose der Altersrente, Hinweise zu Abschlägen und Zuschlägen.</p><h3>Versicherungskonto und Kontenklärung, § 149 SGB VI</h3><p>Der Träger informiert über die gespeicherten Daten (Versicherungsverlauf). Nach Kontenklärung oder wenn innerhalb von sechs Kalendermonaten nicht widersprochen wird, erstellt der Träger einen Feststellungsbescheid für Daten, die länger als sechs Jahre zurückliegen (Abs. 5; nur als Zusammenfassung geprüft).</p><h3>Nicht im Volltext geprüft</h3><p>Formulare, Online-Antragswege und der Zeitpunkt für die Antragstellung vor Rentenbeginn wurden nicht im Volltext geprüft. Fragen Sie die Rentenversicherung.</p>",
+   "zustaendig": ["Deutsche Rentenversicherung (Bund oder Regionalträger)", "Service-Telefon der Deutschen Rentenversicherung: 0800 1000 4800"],
+   "belege": ["§ 99 Abs. 1 SGB VI, gesetze-im-internet.de, abgerufen 21.09.2026", "§ 109 SGB VI, gesetze-im-internet.de, abgerufen 21.09.2026", "§ 149 SGB VI, gesetze-im-internet.de, abgerufen 21.09.2026", "Deutsche Rentenversicherung, Warnung vor Betrugsversuchen (Hotline-Zeiten), abgerufen 21.09.2026"],
+   "siehe_auch": ["altersrentenarten-abschlaege", "rentenbescheid-widerspruch", "beratung-rentner"],
+   "stand": "September 2026"
+  },
+  {
+   "id": "rentenbescheid-widerspruch",
+   "kategorie": "rentenart",
+   "titel": "Rentenbescheid prüfen und Widerspruch",
+   "icon": "🔍",
+   "teaser": "Der Rentenbescheid kann Fehler enthalten. Sie haben einen Monat Zeit für den Widerspruch.",
+   "schlagworte": ["Rentenbescheid", "Widerspruch", "Widerspruchsfrist", "§ 84 SGG", "Bescheid prüfen", "Überprüfungsantrag", "Klage"],
+   "kurz_html": "<p>Lesen Sie den Rentenbescheid in Ruhe. Prüfen Sie: Sind alle Zeiten drin? Stimmt der Rentenbeginn? Stimmen Abschläge und Rentenart?</p><p>Sind Sie nicht einverstanden, legen Sie Widerspruch ein. Die Frist ist kurz: ein Monat ab Bekanntgabe des Bescheids. Wohnen Sie im Ausland, sind es drei Monate.</p><p>Schreiben Sie den Widerspruch an die Behörde, die den Bescheid erlassen hat. Sie können ihn auch bei anderen inländischen Behörden abgeben, die ihn weiterleiten müssen. Bewahren Sie Belege auf.</p>",
+   "schritte": [
+    {"titel": "Bescheid und Versicherungsverlauf vergleichen", "text": "Fehlen Zeiten? Sind Kindererziehungs- oder Ausbildungszeiten berücksichtigt?"},
+    {"titel": "Frist notieren", "text": "Ein Monat ab Bekanntgabe. Datum des Bescheids und Zugang festhalten."},
+    {"titel": "Widerspruch schriftlich einlegen", "text": "Kurz und mit Ihrer Rentennummer (Versicherungsnummer). Begründung darf nachgereicht werden."},
+    {"titel": "Beratung holen", "text": "Rentenversicherung, Sozialverband oder Rentenberater fragen."}
+   ],
+   "fristen": [
+    {"wert": "1 Monat", "was": "Widerspruch, ab Bekanntgabe des Verwaltungsakts", "grundlage": "§ 84 SGG"},
+    {"wert": "3 Monate", "was": "Widerspruch bei Bekanntgabe außerhalb Deutschlands", "grundlage": "§ 84 SGG"}
+   ],
+   "achtung": [
+    "Nach Ablauf der Frist wird der Bescheid bindend. Ein späterer Antrag auf Überprüfung ist nur eingeschränkt möglich (§ 44 SGB X: nicht im Volltext geprüft).",
+    "Die Frist für eine Klage nach dem Widerspruchsbescheid steht im Bescheid (Rechtsbehelfsbelehrung). § 87 SGG wurde nicht im Volltext geprüft.",
+    "Sozialverbände und Rentenberater dürfen im Rahmen ihrer Erlaubnis beraten. Umfang und Kosten vorher erfragen (nicht im Volltext geprüft).",
+    "Verschieben Sie den Widerspruch nicht, weil Sie auf Unterlagen warten. Legen Sie ihn ein und reichen Sie nach."
+   ],
+   "fach_html": "<h3>Widerspruchsfrist, § 84 SGG</h3><p>Der Widerspruch ist binnen eines Monats, nachdem der Verwaltungsakt dem Beschwerten bekanntgegeben worden ist, schriftlich oder zur Niederschrift bei der Stelle einzureichen, die den Verwaltungsakt erlassen hat. Die Frist beträgt drei Monate, wenn die Bekanntgabe im Ausland erfolgt. Die Frist ist auch gewahrt, wenn der Widerspruch bei einer anderen inländischen Behörde, einem Versicherungsträger oder einer deutschen Konsularbehörde eingeht (die ihn unverzüglich weiterzuleiten haben).</p><h3>Was prüfen</h3><ul><li>Vollständigkeit des Versicherungsverlaufs (siehe Rentenauskunft, § 109, § 149 SGB VI)</li><li>Rentenart, Rentenbeginn (§ 99 SGB VI), Zugangsfaktor (§ 77 SGB VI)</li><li>Anrechnung von Einkommen bei Hinterbliebenenrenten (§ 97 SGB VI)</li></ul><h3>Nicht im Volltext geprüft</h3><p>Klagefrist, Überprüfungsantrag nach § 44 SGB X, Kosten des Widerspruchs- und Klageverfahrens.</p>",
+   "zustaendig": ["Deutsche Rentenversicherung (Bund oder Regionalträger)", "Sozialgericht (bei Klage)", "Sozialverbände (VdK, SoVD) und Rentenberater"],
+   "belege": ["§ 84 SGG, gesetze-im-internet.de, abgerufen 21.09.2026", "§ 99 SGB VI, gesetze-im-internet.de, abgerufen 21.09.2026", "§ 149 SGB VI, gesetze-im-internet.de, abgerufen 21.09.2026"],
+   "siehe_auch": ["rentenantrag-rentenauskunft", "hinterbliebenenrente", "beratung-rentner"],
+   "stand": "September 2026"
+  },
+  {
+   "id": "rentenanpassung-reformstand",
+   "kategorie": "hoehe",
+   "titel": "Rentenanpassung 2026 und Reformstand",
+   "icon": "📈",
+   "teaser": "Am 1. Juli 2026 stiegen die Renten um 4,24 Prozent. Was gilt schon, was ist nur geplant?",
+   "schlagworte": ["Rentenanpassung 2026", "aktueller Rentenwert", "4,24 Prozent", "Haltelinie", "Rentenpaket 2025", "Mütterrente", "Alterssicherungskommission", "Frühstartrente"],
+   "kurz_html": "<p><strong>Was schon gilt:</strong> Die Renten steigen zum 1. Juli 2026 um 4,24 Prozent. Der aktuelle Rentenwert steigt von 40,79 Euro auf 42,52 Euro. Aus 1.000 Euro werden 1.042,40 Euro. Die Bescheide kamen zwischen Mitte Juni und Ende Juli 2026.</p><p><strong>Was schon beschlossen ist:</strong> Das Rentenpaket 2025 hat das Rentenniveau von 48 Prozent bis 2031 festgeschrieben (Haltelinie). Das Gesetz hat am 19. Dezember 2025 den Bundesrat passiert.</p><p><strong>Was noch nicht gilt:</strong> Die Vorschläge der Alterssicherungskommission (Bericht vom Juni 2026), die Frühstartrente (Gesetzentwurf) und die Wohngeldreform (Entwurf). Sie sind kein geltendes Recht.</p>",
+   "schritte": [
+    {"titel": "Rentenanpassungsmitteilung lesen", "text": "Prüfen Sie den neuen Betrag ab 1. Juli 2026 und den Zahlbetrag nach Abzug der Beiträge."},
+    {"titel": "Zahlbetrag prüfen", "text": "Steuer und Krankenversicherung sind darin unterschiedlich enthalten (siehe eigene Seiten)."},
+    {"titel": "Bei Grundsicherung oder Wohngeld melden", "text": "Rentenerhöhung kann Leistungen verändern. Teilen Sie sie dem Amt mit."},
+    {"titel": "Nur amtliche Quellen nutzen", "text": "Vorschläge und Entwürfe nicht als geltende Regeln behandeln."}
+   ],
+   "fristen": [
+    {"wert": "4,24 %", "was": "Rentenerhöhung zum 1. Juli 2026; aktueller Rentenwert 40,79 € auf 42,52 €", "grundlage": "Deutsche Rentenversicherung, Meldung 05.03.2026; Rentenwertbestimmungsverordnung 2026"},
+    {"wert": "48 % bis 2031", "was": "Haltelinie Rentenniveau", "grundlage": "Rentenpaket 2025 (BMAS)"},
+    {"wert": "1. Januar 2027", "was": "Zuschlag 0,5 persönliche Entgeltpunkte je vor 1992 geborenem Kind ab 1.1.2027 (§ 307d SGB VI) für Renten mit Beginn bis 31.12.2027; 36 Monate Kindererziehungszeit (§ 249 Abs. 1 SGB VI) erst für Rentenbeginn ab 1.1.2028; wegen technischer Umsetzung der DRV verzögert sich die Auszahlung bis 2028, für 2027 folgt eine Nachzahlung", "grundlage": "BMAS, Rentenreform 2025"}
+   ],
+   "achtung": [
+    "Alterssicherungskommission: 33 Empfehlungen (u. a. Anhebung Regelaltersgrenze nach 2031 an die Lebenserwartung). Nach Angabe der DRV gilt bis zu einer gesetzlichen Umsetzung nur das bestehende Recht. Es gibt kein Gesetz. Der Koalitionsausschuss will am 2. Juli 2026 alle 33 Empfehlungen umsetzen; ein Gesetzentwurf steht (Stand September 2026) aus. Laut Empfehlungen frühestens: Kapitalrente 2028, Kopplung der Regelaltersgrenze an die Lebenserwartung ab 2031, Nachhaltigkeitsfaktor ab 2032.",
+    "Frühstartrente: Kabinettsentwurf vom 12. August 2026, Inkrafttreten 1. Januar 2027 vorgesehen; Start rückwirkend zum 1. Januar 2026 mit Geburtsjahrgang 2020, erste Einzahlungen und Auszahlungen ab 2027. Erste Lesung im Bundestag am 25. September 2026 (Stand Medienmeldungen), nicht verabschiedet.",
+    "Aktivrente gilt seit 1. Januar 2026 (siehe eigene Seite).",
+    "Die Zahl 77,85 Euro Anstieg der Standardrente stammt aus einer Suchergebnis-Zusammenfassung und wurde nicht im Volltext geprüft."
+   ],
+   "fach_html": "<h3>Rentenanpassung 2026</h3><p>Nach Angabe der Deutschen Rentenversicherung steigt der aktuelle Rentenwert zum 1. Juli 2026 um 4,24 Prozent von 40,79 auf 42,52 Euro. Lohnfaktor 1,0425; Nettoquotenfaktor 0,9999 (mindert die Anpassung um 0,01 Prozentpunkte); Nachhaltigkeits- und Beitragssatzfaktor unter den geltenden Regeln bis 2031 nicht angewendet. Der Bundesrat stimmte laut Medienberichten am 12. Juni 2026 der Verordnung zu (Kabinett 29. April 2026; Bundesrat-Datum nicht im Volltext der Primärquelle geprüft).</p><h3>Rentenpaket 2025</h3><p>Haltelinie 48 Prozent bis 2031; Mütterrente III (Zuschlag 0,5 persönliche Entgeltpunkte je vor 1992 geborenem Kind ab 1. Januar 2027 für Renten mit Beginn bis 31. Dezember 2027; 36 Monate Kindererziehungszeit erst für Rentenbeginn ab 1. Januar 2028; Auszahlung wegen technischer Umsetzung der DRV bis 2028 verzögert, für 2027 Nachzahlung); Aktivrente ab 2026; Betriebsrentenstärkungsgesetz II. Bundestag 5. Dezember 2025, Bundesrat 19. Dezember 2025 (nach BMAS-Meldungen und Bundestag).</p><h3>Nicht geltendes Recht</h3><p>Die Alterssicherungskommission hat am 23. Juni 2026 ihren Bericht vorgelegt. Die DRV stellt fest: „Bis entsprechende Gesetze verabschiedet sind, gilt ausschließlich das bestehende Rentenrecht.“ Weitere angekündigte Reformen (Frühstartrente, Wohngeldreform) sind Entwürfe. Frühstartrente: Kabinett 12. August 2026, erste Lesung 25. September 2026; Inkrafttreten 1. Januar 2027, Start rückwirkend zum 1. Januar 2026 mit Geburtsjahrgang 2020, erste Einzahlungen und Auszahlungen ab 2027.</p><h3>Regelbedarfe</h3><p>Die Regelbedarfe der Grundsicherung im Alter wurden 2026 nicht erhöht (siehe Seite Grundsicherung).</p><h3>Mütterrente III ab 1. Januar 2027 (Primärquelle geprüft)</h3><p>Nach dem Gesetz zur Stabilisierung des Rentenniveaus und zur vollständigen Gleichstellung der Kindererziehungszeiten (BGBl. 2025 I Nr. 362): § 249 Abs. 1 SGB VI wird von 30 auf 36 Kalendermonate geändert, in Kraft ab 1. Januar 2028 (Artikel 1 Nr. 7 Buchst. a). Für Renten, die schon vor 2028 bestehen oder beginnen, sieht § 307d SGB VI ab 1. Januar 2027 einen Zuschlag von 0,5 persönlichen Entgeltpunkten je vor 1992 geborenem Kind vor: Abs. 1b gilt für Rentenbeginn 1. Januar 2019 bis 31. Dezember 2026, Abs. 1c für Rentenbeginn 2027 (frühestens ab Rentenbeginn). Der Zuschlag folgt auch aus Abs. 1 Satz 4 (Rentenbestand am 30. Juni 2014) und Abs. 1a Satz 3 (Rentenbeginn 1. Juli 2014 bis 31. Dezember 2018). Voraussetzung im Gesetz: Berücksichtigungszeit „angerechnet oder wegen § 57 Satz 2 nicht angerechnet“; kein Anspruch nach §§ 294, 294a. Knappschaftlich gilt Abs. 2 (Zuschlag × 0,75). § 291c: Der Bund erstattet die Mehraufwendungen für 2027, die im Jahr 2028 entstehen, im Jahr 2028. Die verzögerte Auszahlung ist gesetzlich gestützt durch § 307d Abs. 6 (kein Prüfanspruch vor Ablauf des 31. Dezember 2027), § 291c Satz 2 (Mehraufwendungen 2027 entstehen 2028) und Art. 2 (§ 114 Abs. 7 SGB IV); BGBl. 2025 I Nr. 362. Voraussetzungen im Einzelfall nicht abschließend geprüft.</p>",
+   "zustaendig": ["Deutsche Rentenversicherung (Bund oder Regionalträger)", "Bundesministerium für Arbeit und Soziales (Information)"],
+   "belege": ["Deutsche Rentenversicherung, Rentenanpassung 2026 (Meldung vom 05.03.2026), abgerufen 21.09.2026", "BMAS, Rentenreform 2025, abgerufen 21.09.2026", "Deutsche Rentenversicherung, Alterssicherungskommission: Was die Vorschläge bedeuten würden, abgerufen 21.09.2026", "Bundesregierung, Renten steigen zum 1. Juli 2026 (Suchtreffer, Volltext nicht abgerufen), abgerufen 21.09.2026", "BMF, Kabinett beschließt Frühstartrente (Suchtreffer, Volltext nicht abgerufen), abgerufen 21.09.2026", "Bundesgesetzblatt 2025 I Nr. 362 (Rentenniveau/Kindererziehungszeiten), recht.bund.de, abgerufen 21.09.2026"],
+   "siehe_auch": ["hinzuverdienst-aktivrente", "betriebsrente-riester-ruerup", "grundsicherung-alter"],
+   "stand": "September 2026"
+  },
+  {
+   "id": "hinzuverdienst-aktivrente",
+   "kategorie": "hoehe",
+   "titel": "Hinzuverdienst und Aktivrente",
+   "icon": "💼",
+   "teaser": "Wer eine Altersrente bezieht, darf unbegrenzt hinzuverdienen. Seit 2026 bleiben bis zu 2.000 Euro Arbeitslohn im Monat steuerfrei (Aktivrente).",
+   "schlagworte": ["Hinzuverdienst", "Aktivrente", "§ 3 Nr. 21 EStG", "2.000 Euro", "Regelaltersgrenze", "Minijob", "Rentner arbeiten"],
+   "kurz_html": "<p><strong>Hinzuverdienst:</strong> Seit 1. Januar 2023 gibt es bei Altersrenten keine Hinzuverdienstgrenze mehr. Ihre Rente wird nicht gekürzt, wenn Sie arbeiten.</p><p><strong>Aktivrente:</strong> Wer die Regelaltersgrenze erreicht hat und weiter sozialversicherungspflichtig angestellt arbeitet, bekommt seit 2026 bis zu 2.000 Euro Arbeitslohn im Monat steuerfrei. Der Arbeitgeber setzt das direkt um. Sozialversicherungsbeiträge fallen weiter an.</p><p>Nicht erfasst: Selbstständige, Minijobs und Beamte.</p>",
+   "schritte": [
+    {"titel": "Rentenart prüfen", "text": "Altersrente: unbegrenzt hinzuverdienen. Rente wegen Erwerbsminderung: eigene Regeln (siehe Gruppe Berufsunfähigkeit)."},
+    {"titel": "Regelaltersgrenze prüfen", "text": "Aktivrente gilt erst nach Erreichen der Regelaltersgrenze."},
+    {"titel": "Arbeitgeber informieren", "text": "Der Arbeitgeber berücksichtigt die Steuerbefreiung beim Lohnsteuerabzug."},
+    {"titel": "Lohnabrechnung und Steuer prüfen", "text": "Kontrollieren Sie, ob die 2.000 Euro angewendet wurden."}
+   ],
+   "fristen": [
+    {"wert": "2.000 €/Monat", "was": "steuerfreier Arbeitslohn (Aktivrente)", "grundlage": "§ 3 Nr. 21 EStG; BMF-FAQ zur Aktivrente"},
+    {"wert": "ab 1.1.2026", "was": "Aktivrente gilt", "grundlage": "BMF-FAQ zur Aktivrente"},
+    {"wert": "seit 1.1.2023", "was": "keine Hinzuverdienstgrenzen bei vorgezogenen Altersrenten", "grundlage": "Deutsche Rentenversicherung"}
+   ],
+   "achtung": [
+    "Aktivrente ist eine Steuerbefreiung, keine Rente. Sozialversicherungsbeiträge (Kranken- und Pflegeversicherung) fallen weiter an.",
+    "Nicht erfasst sind laut BMF-FAQ Selbstständige, Minijobber, Beamte und Bezieher nur freiwilliger Rentenzahlungen.",
+    "Nicht auf mehrere Arbeitgeber aufteilbar, nicht übertragbar in andere Monate.",
+    "Abfindungen sind grundsätzlich ausgeschlossen. Genaue Einzelfälle: Lohnsteuerhilfe oder Finanzamt fragen."
+   ],
+   "fach_html": "<h3>Hinzuverdienst bei Altersrenten</h3><p>Seit 1. Januar 2023 können Altersrenten unabhängig von der Höhe eines Hinzuverdienstes in voller Höhe bezogen werden. Nach Angabe der DRV muss die Aufnahme einer Beschäftigung bei Altersrenten nicht mehr gemeldet werden. Für Erwerbsminderungsrenten gelten dynamische Hinzuverdienstgrenzen (Betrag nicht im Volltext geprüft).</p><h3>Aktivrente, § 3 Nr. 21 EStG</h3><p>Steuerfrei sind laut Bundesfinanzministerium monatlich bis zu 2.000 Euro Arbeitslohn aus einer regulären, sozialversicherungspflichtigen Beschäftigung nach Erreichen der Regelaltersgrenze. Der Arbeitgeber mindert den steuerpflichtigen Arbeitslohn beim Lohnsteuerabzug. Die Befreiung erscheint in der elektronischen Lohnsteuerbescheinigung; eine gesonderte Steuererklärung ist danach in der Regel nicht nötig (BMF-FAQ). Übersteigender Lohn wird normal besteuert.</p><h3>Beitragspflicht</h3><p>Kranken- und Pflegeversicherungsbeiträge sind wie üblich zu zahlen. Die Auswirkung auf Rentenversicherungsbeiträge und Rentenzuschläge wurde nicht im Volltext geprüft.</p><h3>Aufschub</h3><p>Wer über die Regelaltersgrenze hinaus keine Rente bezieht, erhält je Monat einen Zuschlag von 0,5 Prozent (§ 77 SGB VI).</p>",
+   "zustaendig": ["Arbeitgeber (Lohnsteuerabzug)", "Finanzamt", "Deutsche Rentenversicherung (Hinzuverdienstfragen)"],
+   "belege": ["BMF, Fragen und Antworten zur Aktivrente, abgerufen 21.09.2026", "Deutsche Rentenversicherung, Änderung bei den Hinzuverdienstgrenzen seit 1. Januar 2023 (Suchtreffer, Volltext nicht abgerufen), abgerufen 21.09.2026", "§ 77 SGB VI, gesetze-im-internet.de, abgerufen 21.09.2026", "BMAS, Rentenreform 2025, abgerufen 21.09.2026"],
+   "siehe_auch": ["altersrentenarten-abschlaege", "rentenbesteuerung", "kv-pv-rentner"],
+   "stand": "September 2026"
+  },
+  {
+   "id": "rentenbesteuerung",
+   "kategorie": "steuern-kv",
+   "titel": "Rente und Steuern: Besteuerungsanteil, Grundfreibetrag, Steuererklärung",
+   "icon": "🧾",
+   "teaser": "Renten sind steuerpflichtig, aber nicht zu 100 Prozent. Wer 2026 neu in Rente geht, versteuert 84 Prozent. Steuern zahlen viele trotzdem nicht.",
+   "schlagworte": ["Rentenbesteuerung", "Besteuerungsanteil", "Rentenfreibetrag", "Grundfreibetrag", "Steuererklärung", "Rentenbezugsmitteilung", "nachgelagerte Besteuerung", "Kohortenprinzip"],
+   "kurz_html": "<p>Ihre Rente wird nach dem Jahr des Rentenbeginns besteuert (Kohortenprinzip). Wer 2026 in Rente geht, muss 84 Prozent der Rente versteuern. 16 Prozent bleiben als Rentenfreibetrag steuerfrei, dauerhaft. Jedes Jahr steigt der Anteil für neue Rentner um 0,5 Prozentpunkte. Ab 2058 sind es 100 Prozent.</p><p>Steuern fallen erst an, wenn Ihr zu versteuerndes Einkommen über dem Grundfreibetrag liegt: 12.348 Euro im Jahr 2026 (Alleinstehende).</p><p>Die Rentenversicherung meldet Ihre Rente dem Finanzamt. Das ersetzt aber keine Steuererklärung, wenn Sie zur Abgabe verpflichtet sind.</p>",
+   "schritte": [
+    {"titel": "Rentenbeginn-Jahr notieren", "text": "Es bestimmt Ihren Besteuerungsanteil."},
+    {"titel": "Jahreseinkommen überschlagen", "text": "Rente (steuerpflichtiger Anteil) plus andere Einkünfte, zum Beispiel Mieteinnahmen oder Betriebsrente."},
+    {"titel": "Prüfen, ob eine Steuererklärung nötig ist", "text": "Liegen die Einkünfte über dem Grundfreibetrag, müssen Sie in der Regel abgeben."},
+    {"titel": "Hilfe holen", "text": "Finanzamt oder Lohnsteuerhilfe fragen, wenn Sie unsicher sind."}
+   ],
+   "fristen": [
+    {"wert": "84 %", "was": "Besteuerungsanteil bei Rentenbeginn 2026 (16 % Rentenfreibetrag)", "grundlage": "§ 22 EStG; DRV-Meldung vom 16.02.2026"},
+    {"wert": "12.348 €", "was": "Grundfreibetrag 2026 (Alleinstehende)", "grundlage": "§ 32a EStG"},
+    {"wert": "2058", "was": "Besteuerungsanteil erreicht 100 %", "grundlage": "§ 22 EStG; DRV-Meldung"}
+   ],
+   "achtung": [
+    "Maßgeblich für die Steuererklärungspflicht ist nicht die Brutto-Rente, sondern der steuerpflichtige Teil zuzüglich anderer Einkünfte, abzüglich Abzugsbeträgen (Sonderausgaben und Ähnliches: nicht im Volltext geprüft).",
+    "Der Rentenfreibetrag wird nach DRV-Angabe aus der ersten vollen Jahresbruttorente ermittelt und bleibt dann als fester Eurobetrag (Sekundärquellen; Wortlaut § 22 EStG nicht im Volltext geprüft).",
+    "Abgabefristen der Steuererklärung wurden nicht im Volltext geprüft. Fragen Sie das Finanzamt oder nutzen Sie ELSTER.",
+    "Renten aus dem Ausland und Doppelbesteuerungsabkommen wurden nicht geprüft."
+   ],
+   "fach_html": "<h3>Besteuerungsanteil, § 22 Nr. 1 Satz 3 Buchst. a Doppelbuchst. aa EStG</h3><p>Der Besteuerungsanteil richtet sich nach dem Jahr des Rentenbeginns. Für Renten, die 2025 begannen, beträgt er 83,5 Prozent. Nach der Meldung der Deutschen Rentenversicherung vom 16. Februar 2026 gilt für Rentenbeginn 2026: 84 Prozent, 16 Prozent bleiben steuerfrei. Der Anteil steigt je Jahr um 0,5 Prozentpunkte; für Rentenbeginn 2058 gilt 100 Prozent. Bestandsrentner sind nicht betroffen, ihr Freibetrag bleibt unverändert. Das gilt für Alters-, Erwerbsminderungs- und Hinterbliebenenrenten.</p><h3>Grundfreibetrag, § 32a EStG</h3><p>2026: 12.348 Euro; darüber Progressionsformeln (12.349–17.799 €, 17.800–69.878 €, 69.879–277.825 € mit 42 %, ab 277.826 € 45 %). Für Verheiratete bei Zusammenveranlagung gilt das Splittingverfahren (Grundfreibetrag doppelt: 24.696 €, nach Sekundärquelle).</p><h3>Rentenbezugsmitteilung</h3><p>Die Rentenversicherung übermittelt Rentenbeträge an die Finanzverwaltung. Nach DRV-Hinweis befreit das nicht von der Steuererklärungspflicht.</p><h3>Nicht im Volltext geprüft</h3><p>Rechtsgrundlage der Steuererklärungspflicht (§ 25 EStG, § 56 EStDV), Abgabefrist, Krankenversicherungsbeiträge als Sonderausgaben, Werbungskostenpauschale, Aktivrente-Wechselwirkung.</p>",
+   "zustaendig": ["Finanzamt", "Deutsche Rentenversicherung (Rentenbezugsmitteilung, Broschüre „Versicherte und Rentner: Informationen zum Steuerrecht“)", "Lohnsteuerhilfevereine und Steuerberater (Angebot und Kosten: nicht geprüft)"],
+   "belege": ["§ 32a EStG, gesetze-im-internet.de, abgerufen 21.09.2026", "§ 22 EStG, gesetze-im-internet.de, abgerufen 21.09.2026", "Deutsche Rentenversicherung, Steueranteil für Neu-Rentner liegt 2026 bei 84 Prozent (Meldung 16.02.2026), abgerufen 21.09.2026", "Suchergebnis-Zusammenfassungen zu Steuererklärungspflicht (Sekundärquellen, Volltext nicht abgerufen), abgerufen 21.09.2026"],
+   "siehe_auch": ["hinzuverdienst-aktivrente", "kv-pv-rentner", "betriebsrente-riester-ruerup"],
+   "stand": "September 2026"
+  },
+  {
+   "id": "kv-pv-rentner",
+   "kategorie": "steuern-kv",
+   "titel": "Kranken- und Pflegeversicherung der Rentner (KVdR)",
+   "icon": "🩺",
+   "teaser": "Rentner sind oft in der Krankenversicherung der Rentner (KVdR) pflichtversichert. Die Rentenversicherung trägt die Hälfte des Beitrags.",
+   "schlagworte": ["KVdR", "Krankenversicherung der Rentner", "9/10-Regel", "Zusatzbeitrag", "Pflegeversicherung", "Betriebsrente Beitrag", "Freibetrag 197,75"],
+   "kurz_html": "<p>Wer Rente bezieht und lange genug gesetzlich krankenversichert war, ist in der Krankenversicherung der Rentner (KVdR) pflichtversichert. Die Faustregel: In der zweiten Hälfte des Erwerbslebens mussten Sie mindestens neun Zehntel der Zeit in der gesetzlichen Krankenversicherung sein (9/10-Regel).</p><p>Der Beitrag wird von Ihrer Rente abgezogen. Die Rentenversicherung zahlt die Hälfte des allgemeinen Beitrags.</p><p>Den Pflegeversicherungsbeitrag tragen Rentner allein; die Rentenversicherung zahlt keinen Anteil. Kinderlose zahlen 2026 einen Zuschlag von 0,6 Prozentpunkten (insgesamt 4,2 Prozent der Bruttorente).</p><p>Auch Betriebsrenten sind beitragspflichtig, aber ein Freibetrag gilt: 2026 sind es 197,75 Euro im Monat.</p>",
+   "schritte": [
+    {"titel": "Versicherungsstatus klären", "text": "Fragen Sie bei Ihrer Krankenkasse nach, ob Sie KVdR-Pflichtmitglied sind."},
+    {"titel": "Beitragsabzug im Rentenbescheid prüfen", "text": "Dort stehen Kranken- und Pflegeversicherung als Abzüge."},
+    {"titel": "Zusatzbeitrag Ihrer Kasse kennen", "text": "Er ist je Kasse verschieden und kann sich ändern."},
+    {"titel": "Betriebsrente melden", "text": "Melden Sie Betriebsrenten der Kasse, damit der Freibetrag richtig berücksichtigt wird."}
+   ],
+   "fristen": [
+    {"wert": "9/10", "was": "Vorversicherungszeit: Mitglied oder familienversichert in mindestens neun Zehnteln der zweiten Hälfte des Zeitraums seit erster Erwerbstätigkeit bis zur Rentenantragstellung", "grundlage": "§ 5 Abs. 1 Nr. 11 SGB V"},
+    {"wert": "197,75 €/Monat", "was": "Freibetrag für Versorgungsbezüge (Betriebsrente) in der KVdR 2026; 1/20 der Bezugsgröße 3.955 €", "grundlage": "§ 226 Abs. 2 SGB V; Sekundärquelle"},
+    {"wert": "14,6 % + Zusatzbeitrag", "was": "allgemeiner Beitragssatz plus durchschnittlicher Zusatzbeitrag 2,9 % (2026); DRV trägt jeweils die Hälfte", "grundlage": "Krankenkassen-/Verbandsquellen, nicht im Volltext geprüft"}
+   ],
+   "achtung": [
+    "Wer die 9/10-Regel nicht erfüllt, ist nicht in der KVdR, sondern gegebenenfalls freiwillig versichert und zahlt auf alle Einnahmen Beiträge.",
+    "Der Freibetrag von 197,75 Euro gilt nur für KVdR-Pflichtversicherte, nicht für freiwillig Versicherte, und nicht in der Pflegeversicherung (dort gilt eine Freigrenze).",
+    "Beitragssätze, Zusatzbeitrag und Pflegeversicherung (3,6 % allgemein) stammen aus Sekundärquellen. Prüfen Sie beim Träger.",
+    "Pflegeversicherung: Ermäßigungen (zum Beispiel für Eltern mehrerer Kinder) wurden nicht geprüft."
+   ],
+   "fach_html": "<h3>Versicherungspflicht, § 5 Abs. 1 Nr. 11 SGB V</h3><p>Pflichtversichert sind Personen, die die Voraussetzungen für den Rentenbezug erfüllen und die Rente beantragt haben, wenn sie seit der erstmaligen Aufnahme einer Erwerbstätigkeit bis zur Stellung des Rentenantrags mindestens neun Zehntel der zweiten Hälfte dieses Zeitraums Mitglied oder nach § 10 familienversichert waren.</p><h3>Beitragshöhe</h3><p>Nach Verbands- und Krankenkassenangaben: allgemeiner Beitragssatz 14,6 Prozent, durchschnittlicher Zusatzbeitrag 2,9 Prozent (2026), die Rentenversicherung trägt die Hälfte von beiden. Der kassenindividuelle Zusatzbeitrag kann abweichen. Pflegeversicherung 3,6 Prozent der Bruttorente allgemeiner Satz (Sekundärquelle; § 249a SGB V und § 55 SGB XI nicht im Volltext geprüft).</p><p>Den Pflegeversicherungsbeitrag tragen Rentner allein (kein Trägeranteil der DRV). Kinderlose zahlen 2026 einen Zuschlag von 0,6 Prozentpunkten, insgesamt 4,2 Prozent der Bruttorente.</p><h3>Versorgungsbezüge</h3><p>Betriebsrenten sind beitragspflichtig. Nach Sekundärquellen: Freibetrag nach § 226 Abs. 2 Satz 2 SGB V 2026 in Höhe von 1/20 der monatlichen Bezugsgröße (3.955 €), also 197,75 €.</p><h3>Nicht im Volltext geprüft</h3><p>Familienversicherung Ehepartner, Beitragspflicht sonstiger Einnahmen (Mieten, Kapital), Beitragsbemessungsgrenze.</p>",
+   "zustaendig": ["Krankenkasse", "Pflegekasse", "Deutsche Rentenversicherung (Beitragsabzug)"],
+   "belege": ["§ 5 SGB V, gesetze-im-internet.de, abgerufen 21.09.2026", "Bundesregierung, Beitragsbemessungsgrenzen 2026 (Suchtreffer, Volltext nicht abgerufen), abgerufen 21.09.2026", "Krankenkassen- und Verbandsquellen zu Freibetrag § 226 SGB V (Suchergebnis-Zusammenfassung), abgerufen 21.09.2026"],
+   "siehe_auch": ["betriebsrente-riester-ruerup", "rentenbesteuerung", "hinzuverdienst-aktivrente"],
+   "stand": "September 2026"
+  },
+  {
+   "id": "grundsicherung-alter",
+   "kategorie": "zusatzhilfen",
+   "titel": "Grundsicherung im Alter (SGB XII) und Grundrentenzuschlag",
+   "icon": "🧮",
+   "teaser": "Reicht die Rente nicht zum Leben, gibt es Grundsicherung im Alter. Der Regelsatz für Alleinstehende ist 2026 unverändert 563 Euro.",
+   "schlagworte": ["Grundsicherung im Alter", "SGB XII", "Regelsatz 2026", "Regelbedarfsstufe 1", "Vermögen 10.000 Euro", "Altersvorsorge Freibetrag", "Grundrentenzuschlag", "Sozialamt"],
+   "kurz_html": "<p>Grundsicherung im Alter bekommt, wer die Regelaltersgrenze erreicht hat, in Deutschland lebt und den Lebensunterhalt nicht selbst bezahlen kann. Sie beantragen sie beim Sozialamt.</p><p>Der Regelsatz für Alleinstehende beträgt 2026 <strong>563 Euro</strong>, für Partner je 506 Euro. Er wurde 2026 nicht erhöht. Andere Kosten, zum Beispiel für die Wohnung, kommen hinzu (Einzelheiten nicht im Volltext geprüft).</p><p>Eigenes Vermögen müssen Sie zuerst einsetzen. Ein Betrag von 10.000 Euro (Paare 20.000 Euro) und das selbst bewohnte Haus bleiben laut Rentenversicherung geschützt. Kinder müssen nur zahlen, wenn ihr Jahreseinkommen 100.000 Euro übersteigt.</p><p>Wer lange gearbeitet hat und wenig Rente bekommt, erhält oft automatisch den Grundrentenzuschlag. Dafür ist kein Antrag nötig.</p>",
+   "schritte": [
+    {"titel": "Einkommen zusammenrechnen", "text": "Rente, Betriebsrente, Unterhalt, Kindergeld, Miete. Die Rentenversicherung nennt als Richtwert 1.148 Euro (von der DRV genannt, ohne Jahresangabe)."},
+    {"titel": "Antrag beim Sozialamt stellen", "text": "Leistung beginnt laut DRV am Ersten des Antragsmonats. Antrag daher früh im Monat stellen."},
+    {"titel": "Nachweise bereithalten", "text": "Rentenbescheid, Kontoauszüge, Mietvertrag, Vermögensnachweise."},
+    {"titel": "Bescheid prüfen", "text": "Bei Fehlern Widerspruch innerhalb eines Monats (§ 84 SGG)."},
+    {"titel": "Änderungen mitteilen", "text": "Rentenerhöhung, Umzug oder Vermögensänderung dem Amt melden."}
+   ],
+   "fristen": [
+    {"wert": "563 € / 506 €", "was": "Regelbedarfsstufe 1 (Alleinstehende) und Stufe 2 (Partner je) 2026, unverändert (Nullrunde wegen Besitzschutz)", "grundlage": "Bundesregierung, Regelbedarfe 2026"},
+    {"wert": "10.000 € / 20.000 €", "was": "geschütztes Barvermögen laut DRV (Alleinstehende / Paare)", "grundlage": "Deutsche Rentenversicherung, Grundsicherung; § 90 SGB XII"},
+    {"wert": "100.000 €", "was": "Jahreseinkommen der Kinder oder Eltern, ab dem Unterhalt berücksichtigt wird", "grundlage": "Deutsche Rentenversicherung, Grundsicherung"},
+    {"wert": "100 € + 30 %", "was": "Freibetrag bei zusätzlicher Altersvorsorge (Betriebsrente, Riester, Rürup), höchstens 50 % der Regelbedarfsstufe 1", "grundlage": "§ 82 Abs. 4 SGB XII"}
+   ],
+   "achtung": [
+    "Die Regelsatz-Berechnung wird ab 2027 gesetzlich neu geregelt (Gesetzentwurf des Kabinetts vom 6. Juli 2026, dem Bundesrat zugeleitet). Ob der Regelsatz 2027 steigt, ist offen. Nicht verbindlich.",
+    "Die Vermögensgrenze steht nach DRV bei 10.000 €. Die Verordnung zu § 90 Abs. 2 Nr. 9 SGB XII wurde nicht im Volltext geprüft.",
+    "Die Grundsicherung im Alter ist nicht das neue „Grundsicherungsgeld“ der Nachfolge des Bürgergelds (SGB II). Es sind verschiedene Leistungen.",
+    "Ausschluss: Wer in den letzten zehn Jahren die Hilfebedürftigkeit vorsätzlich oder grob fahrlässig herbeigeführt hat, hat keinen Anspruch (§ 41 SGB XII)."
+   ],
+   "fach_html": "<h3>Berechtigte, § 41 SGB XII</h3><p>Personen mit Wohnsitz in Deutschland, die ihren Lebensunterhalt nicht selbst bestreiten können und die Altersgrenze erreicht haben. Die Altersgrenze beträgt 65 für vor 1947 Geborene und steigt gestaffelt auf 67 für ab 1964 Geborene.</p><h3>Regelbedarfe 2026</h3><p>Nach Angabe der Bundesregierung bleiben die Regelbedarfe 2026 unverändert: Alleinstehende 563 Euro, Partner je 506 Euro, Kinder unter 6 Jahren 357 Euro, 14–17-Jährige 471 Euro. Die Berechnung hätte 557 Euro ergeben; eine Besitzschutzregel verhindert die Absenkung. Das Kabinett nahm die Verordnung am 10. September 2025 zur Kenntnis; der Bundesrat stimmte der Regelbedarfsstufen-Fortschreibungsverordnung 2026 am 17. Oktober 2025 zu (BR-Drs. 471/25); verkündet im BGBl. 2025 Nr. 243 vom 22. Oktober 2025.</p><h3>Einkommen und Vermögen, §§ 82, 90 SGB XII; § 43 SGB XII</h3><p>Für Einkommen §§ 82 bis 84, für Vermögen §§ 90 und 91 SGB XII. Zusätzliche Altersvorsorge (Betriebsrente, zertifizierte Verträge): 100 Euro plus 30 Prozent des übersteigenden Betrags, höchstens 50 Prozent der Regelbedarfsstufe 1 (§ 82 Abs. 4, 5). Erträge aus Kapital bis 26 Euro jährlich sind absetzbar (§ 43; Zusammenfassung). Schonvermögen nach § 90 unter anderem angemessener Hausrat, angemessenes Wohnhaus, kleinere Barbeträge, angemessenes Kraftfahrzeug.</p><h3>Unterhaltsrückgriff</h3><p>Nach DRV: Unterhalt von Kindern oder Eltern wird nur berücksichtigt, wenn deren Jahreseinkommen 100.000 Euro übersteigt (Norm: § 94 Abs. 1a SGB XII).</p><h3>Grundrentenzuschlag</h3><p>Voraussetzung mindestens 33 Jahre Grundrentenzeiten, volle Höhe ab 35 Jahren. Die Rentenversicherung prüft automatisch, ein Antrag ist nicht nötig (Quelle: DRV-Seite, Suchtreffer).</p><h3>Abgrenzung</h3><p>Grundsicherung bei Erwerbsminderung siehe Gruppe Berufsunfähigkeit; Vertiefung Senioren dort.</p>",
+   "zustaendig": ["Sozialamt (Träger der Grundsicherung)", "Deutsche Rentenversicherung (Beratung)", "Sozialverbände (Antragshilfe)"],
+   "belege": ["Bundesregierung, Regelbedarfe 2026, abgerufen 21.09.2026", "Bundesrat, Zustimmung zur Regelbedarfsstufen-Fortschreibungsverordnung 2026 am 17.10.2025 (BR-Drs. 471/25); BGBl. 2025 Nr. 243 vom 22.10.2025", "Deutsche Rentenversicherung, Grundsicherung, abgerufen 21.09.2026", "§§ 41, 43, 82, 90 SGB XII, gesetze-im-internet.de (Zusammenfassungen der Abrufe), abgerufen 21.09.2026", "Deutsche Rentenversicherung, Grundrentenzuschlag (Suchtreffer, Volltext nicht abgerufen), abgerufen 21.09.2026"],
+   "siehe_auch": ["wohngeld-rentner", "betriebsrente-riester-ruerup", "rentenanpassung-reformstand"],
+   "stand": "September 2026"
+  },
+  {
+   "id": "wohngeld-rentner",
+   "kategorie": "zusatzhilfen",
+   "titel": "Wohngeld für Rentner",
+   "icon": "🏠",
+   "teaser": "Wohngeld ist ein Zuschuss zur Miete oder zu den Wohnkosten. 2027 sind Kürzungen geplant, noch nicht beschlossen.",
+   "schlagworte": ["Wohngeld", "Wohngeld Plus", "Wohngeldstelle", "Mietzuschuss", "Wohngeldreform 2027", "Heizkostenkomponente", "Rente Miete"],
+   "kurz_html": "<p>Wohngeld hilft bei den Wohnkosten, wenn Ihr Einkommen niedrig ist, Sie aber keine Grundsicherung bekommen. Sie beantragen es bei der Wohngeldbehörde Ihrer Gemeinde, Stadt oder Kreisverwaltung.</p><p>2026 wurde das Wohngeld nicht erhöht. Es wird alle zwei Jahre angepasst, das nächste Mal zum 1. Januar 2027.</p><p><strong>Geplant, aber noch nicht beschlossen:</strong> Das Kabinett hat am 6. Juli 2026 einen Gesetzentwurf beschlossen. Er sieht vor, die Anpassung zum 1. Januar 2027 auszusetzen, die Heizkostenkomponente zu halbieren und die Formel zu ändern. Manche Haushalte würden den Anspruch verlieren. Das Gesetz ist noch nicht verabschiedet.</p>",
+   "schritte": [
+    {"titel": "Prüfen, ob Grundsicherung oder Wohngeld passt", "text": "Beides zusammen gibt es in der Regel nicht (Regel nicht im Volltext geprüft). Fragen Sie das Amt."},
+    {"titel": "Wohngeldbehörde suchen", "text": "Zuständig ist die Gemeinde-, Stadt- oder Kreisverwaltung. Oft sitzt sie im Sozialamt."},
+    {"titel": "Antrag stellen und Unterlagen mitbringen", "text": "Mietvertrag, Rentenbescheid, Kontoauszüge."},
+    {"titel": "Änderungen mitteilen", "text": "Rentenerhöhung, Umzug, Änderung der Miete."}
+   ],
+   "fristen": [
+    {"wert": "1. Januar 2027", "was": "geplanter Beginn der Wohngeldreform (Entwurf, nicht beschlossen)", "grundlage": "Bundesregierung, Im Kabinett: Wohngeld wird neu geordnet"},
+    {"wert": "6. Juli 2026", "was": "Kabinettsbeschluss des Gesetzentwurfs", "grundlage": "Bundesregierung"}
+   ],
+   "achtung": [
+    "Angaben zu Zahlen der betroffenen Haushalte (zum Beispiel 163.000 oder 400.000) wechseln je Quelle und wurden nicht geprüft. Hier deshalb nicht als Tatsache angegeben.",
+    "Bundesrat am 25. September 2026: erster Durchgang (Stellungnahme) zu BR-Drs. 474/26. Die Ausschüsse empfehlen laut BR-Drs. 474/1/26 (11. September 2026), den ganzen Entwurf abzulehnen. Im Entwurf zudem vorgesehen: kein Anspruch bei einem errechneten Monatsbetrag unter 15 Euro. Danach folgen Beratungen im Bundestag.",
+    "Ob Sie Wohngeld oder Grundsicherung bekommen, entscheiden die Behörden. Ein Grundsicherungsbezug schließt Wohngeld nach Sekundärquellen aus (§ 7 WoGG nicht im Volltext geprüft).",
+    "Höhe des Wohngeldes und Einkommensgrenzen: bei der Wohngeldbehörde oder mit dem Wohngeldrechner des Bundes erfragen. Beträge wurden hier nicht angegeben."
+   ],
+   "fach_html": "<h3>Geltendes Recht</h3><p>Nach Berichten wurde das Wohngeld 2026 nicht erhöht; nach dem Gesetz erfolgt die Anpassung alle zwei Jahre, das nächste Mal zum 1. Januar 2027 (Sekundärquelle, Wohngeldgesetz nicht im Volltext geprüft).</p><h3>Gesetzentwurf zur Vereinfachung und Fortentwicklung des Wohngeldgesetzes</h3><p>Nach Angabe der Bundesregierung (Kabinett 6. Juli 2026): Aussetzung der Fortschreibung, Halbierung der Heizkostenkomponente, Änderung der Berechnungsformel, Verwaltungsvereinfachung; Inkrafttreten 1. Januar 2027 vorgesehen; Der Entwurf befindet sich im Gesetzgebungsverfahren und gilt nicht, solange er nicht in Kraft ist. Der Bundestag hat am 12. Juni 2026 zwei Oppositionsanträge zum Wohngeld beraten und an den Ausschuss überwiesen (Bundestag).</p><h3>Nicht im Volltext geprüft</h3><p>Anspruchsvoraussetzungen (WoGG), Tabellenwerte, Ausschluss bei Transferleistungen, Antragsfristen, Bewilligungszeitraum.</p>",
+   "zustaendig": ["Wohngeldbehörde (Gemeinde, Stadt, Kreisverwaltung)", "Sozialamt"],
+   "belege": ["Bundesregierung, Im Kabinett: Wohngeld wird neu geordnet, abgerufen 21.09.2026", "Deutscher Bundestag, Wohngeld (Debatte 12.06.2026), abgerufen 21.09.2026", "Suchergebnisse zu Wohngeld 2026 (Sekundärquellen), abgerufen 21.09.2026"],
+   "siehe_auch": ["grundsicherung-alter", "rentenanpassung-reformstand", "beratung-rentner"],
+   "stand": "September 2026"
+  },
+  {
+   "id": "hinterbliebenenrente",
+   "kategorie": "zusatzhilfen",
+   "titel": "Witwenrente, Witwerrente und Versorgungsausgleich",
+   "icon": "🕊️",
+   "teaser": "Nach dem Tod des Ehepartners gibt es unter Bedingungen eine Witwen- oder Witwerrente. Bei Scheidung werden Rentenanwartschaften geteilt.",
+   "schlagworte": ["Witwenrente", "Witwerrente", "große Witwenrente", "Sterbevierteljahr", "Einkommensanrechnung", "Versorgungsausgleich", "Hinterbliebenenrente", "Ehezeit"],
+   "kurz_html": "<p>Stirbt Ihr Ehe- oder Lebenspartner, können Sie eine Witwen- oder Witwerrente bekommen. Sie müssen sie beantragen.</p><p>Die <strong>große</strong> Rente beträgt nach neuem Recht 55 Prozent der Rente des Verstorbenen, in Altfällen 60 Prozent (§ 255 SGB VI). Sie gibt es, wenn Sie ein Kind erziehen, das 46. Lebensjahr und 6 Monate vollendet haben (bei Tod im Jahr 2026; die Grenze steigt bis 2029 auf 47, § 242a Abs. 5 SGB VI) oder erwerbsgemindert sind. Die <strong>kleine</strong> Rente beträgt 25 Prozent und höchstens 24 Monate; in Altfällen (§ 242a Abs. 1 SGB VI) gilt die Begrenzung auf 24 Monate nicht.</p><p>In den ersten drei Kalendermonaten nach dem Tod wird die volle Rente des Verstorbenen gezahlt (Sterbevierteljahr).</p><p>Eigenes Einkommen kann angerechnet werden, wenn es über einem Freibetrag liegt. Im Rahmen einer Scheidung teilt der Versorgungsausgleich die in der Ehe erworbenen Rentenanteile hälftig.</p>",
+   "schritte": [
+    {"titel": "Sterbeurkunde bereitlegen", "text": "Dokumente zur Ehe und zur Rente des Verstorbenen sammeln."},
+    {"titel": "Antrag bei der Deutschen Rentenversicherung stellen", "text": "Möglichst sofort, damit nichts verloren geht."},
+    {"titel": "Eigenes Einkommen angeben", "text": "Es kann die Hinterbliebenenrente mindern (§ 97 SGB VI)."},
+    {"titel": "Bescheid prüfen", "text": "Widerspruch binnen eines Monats (§ 84 SGG)."}
+   ],
+   "fristen": [
+    {"wert": "55 % / 25 %", "was": "große / kleine Witwen- oder Witwerrente (Rentenartfaktor nach dem Sterbevierteljahr)", "grundlage": "§ 67 SGB VI"},
+    {"wert": "3 Kalendermonate", "was": "Sterbevierteljahr: Rentenartfaktor 1,0, danach 0,55 bzw. 0,25", "grundlage": "§ 67 SGB VI"},
+    {"wert": "24 Monate", "was": "Höchstdauer der kleinen Witwenrente (nicht in Altfällen, § 242a Abs. 1 SGB VI)", "grundlage": "§ 46 SGB VI"},
+    {"wert": "55 % / 60 %", "was": "große Witwen- oder Witwerrente: 55 % nach neuem Recht; 60 % in Altfällen (Ehegatte vor dem 1.1.2002 verstorben, oder Ehe vor dem 1.1.2002 geschlossen und ein Ehegatte vor dem 2.1.1962 geboren)", "grundlage": "§ 255 SGB VI"},
+    {"wert": "1.122,53 € + 40 %", "was": "Freibetrag (26,4-facher Rentenwert 42,52 €, rechnerisch); 40 % des übersteigenden Nettoeinkommens werden angerechnet", "grundlage": "§ 97 SGB VI (eigene Rechnung)"}
+   ],
+   "achtung": [
+    "Voraussetzung ist grundsätzlich eine Ehe von mindestens einem Jahr, Ausnahmen möglich. Wiederheirat beendet den Anspruch, es sei denn, die neue Ehe wird aufgelöst (§ 46 SGB VI).",
+    "Altersgrenze der großen Witwenrente: 46 Jahre und 6 Monate bei Tod im Jahr 2026; sie steigt bis 2029 auf 47 (§ 242a Abs. 5 SGB VI).",
+    "Der Freibetrag pro Kind (5,6-facher Rentenwert, rechnerisch 238,11 €) folgt aus § 97 SGB VI, Berechnung eigene.",
+    "Steuer: Hinterbliebenenrenten sind steuerpflichtig wie andere Renten (DRV-Meldung); Einzelfälle prüfen."
+   ],
+   "fach_html": "<h3>Witwenrente, § 46 SGB VI</h3><p>Kleine Witwenrente: nicht wiederverheiratete Witwen oder Witwer nach dem Tod des versicherten Ehegatten (wenn dieser die allgemeine Wartezeit erfüllte), höchstens 24 Kalendermonate nach dem Tod; die Begrenzung gilt nicht in Altfällen (§ 242a Abs. 1 SGB VI: Tod oder Ehe vor 2002 mit vor dem 2. Januar 1962 geborenem Ehegatten). Große Witwenrente: Kindererziehung (Kind unter 18 oder behindert), Vollendung des 47. Lebensjahres (bei Tod im Jahr 2026: 46 Jahre und 6 Monate; Anhebung bis 2029, § 242a Abs. 5 SGB VI) oder Erwerbsminderung. Mindestens ein Jahr Ehe, Ausnahmen möglich; eingetragene Lebenspartnerschaften werden gleichgestellt.</p><h3>Rentenhöhe, § 67 SGB VI</h3><p>Rentenartfaktor kleine Witwenrente 1,0 in den ersten drei Kalendermonaten, danach 0,25; große Witwenrente 1,0, danach 0,55 (nach neuem Recht) bzw. 0,6 in Altfällen (§ 255 SGB VI); Halbwaisen 10 %, Vollwaisen 20 %.</p><h3>Einkommensanrechnung, § 97 SGB VI</h3><p>Nicht angerechnet wird Einkommen bis zum 26,4-fachen des aktuellen Rentenwerts, erhöht um das 5,6-fache je Kind. Vom übersteigenden Einkommen werden 40 Prozent angerechnet. Bei aktuellem Rentenwert 42,52 Euro ergibt das rechnerisch 1.122,53 Euro (eigene Rechnung; Sekundärquelle gleicher Wert).</p><h3>Versorgungsausgleich, § 1 VersAusglG</h3><p>Im Versorgungsausgleich sind die in der Ehezeit erworbenen Anteile von Anrechten jeweils zur Hälfte zwischen den geschiedenen Ehegatten zu teilen. Nähere Regelungen (Ausschluss, Kurze Ehe) nicht im Volltext geprüft.</p>",
+   "zustaendig": ["Deutsche Rentenversicherung (Bund oder Regionalträger)", "Familiengericht (Versorgungsausgleich bei Scheidung)"],
+   "belege": ["§ 46 SGB VI, gesetze-im-internet.de, abgerufen 21.09.2026", "§ 67 SGB VI, gesetze-im-internet.de, abgerufen 21.09.2026", "§ 97 SGB VI, gesetze-im-internet.de, abgerufen 21.09.2026", "§ 1 VersAusglG, gesetze-im-internet.de, abgerufen 21.09.2026", "Deutsche Rentenversicherung, Rentenanpassung 2026 (aktueller Rentenwert 42,52 €), abgerufen 21.09.2026"],
+   "siehe_auch": ["rentenbescheid-widerspruch", "rentenbesteuerung", "beratung-rentner"],
+   "stand": "September 2026"
+  },
+  {
+   "id": "betriebsrente-riester-ruerup",
+   "kategorie": "vorsorge-schutz",
+   "titel": "Betriebsrente, Riester, Rürup und die Reform 2026/2027",
+   "icon": "🏦",
+   "teaser": "Betriebsrente, Riester und Rürup sind Zusatzrenten. 2026 hat der Gesetzgeber das Betriebsrentenrecht und die Riester-Förderung geändert.",
+   "schlagworte": ["Betriebsrente", "Riester", "Rürup", "Basisrente", "Altersvorsorgedepot", "Betriebsrentenstärkungsgesetz II", "Frühstartrente", "Altersvorsorgereformgesetz"],
+   "kurz_html": "<p>Betriebsrente, Riester und Rürup sind zusätzliche Renten neben der gesetzlichen Rente. Sie können Steuer und Krankenversicherungsbeiträge auslösen.</p><p><strong>Was schon gilt:</strong> Das Zweite Betriebsrentenstärkungsgesetz ist am 22. Januar 2026 in Kraft getreten. Das Altersvorsorgereformgesetz wurde am 29. Mai 2026 verkündet. Zum 1. Januar 2027 tritt das Altersvorsorgedepot neben die bisherige Riester-Förderung; auch ab 2027 sind zertifizierte Garantie-Altersvorsorgeverträge möglich (§ 1 Abs. 1 Nr. 3 AltZertG n. F.; Zusage mindestens 80 bzw. 100 % der eingezahlten Beiträge).</p><p><strong>Für bestehende Riester-Verträge:</strong> Sie werden nicht automatisch gekündigt oder umgewandelt. Das alte Recht gilt nur für Bestandsverträge (vor dem 1. Januar 2027 abgeschlossen) weiter.</p><p><strong>Noch nicht beschlossen:</strong> Die Frühstartrente (10 Euro monatlich für Kinder von 6 bis 18) ist ein Gesetzentwurf.</p>",
+   "schritte": [
+    {"titel": "Verträge und Bescheide sammeln", "text": "Betriebsrente, Riester- und Rürup-Verträge auflisten."},
+    {"titel": "Steuer und Beiträge prüfen", "text": "Betriebsrente: Krankenversicherung (Freibetrag) und Steuer."},
+    {"titel": "Bei Grundsicherung Freibetrag beachten", "text": "100 Euro plus 30 Prozent bleiben anrechnungsfrei (§ 82 Abs. 4 SGB XII)."},
+    {"titel": "Vor einem Wechsel neutral beraten lassen", "text": "Ein Wechsel von Riester ins neue System ist möglich. Die Deutsche Rentenversicherung empfiehlt neutrale Beratung."}
+   ],
+   "fristen": [
+    {"wert": "22. Januar 2026", "was": "Inkrafttreten des Zweiten Betriebsrentenstärkungsgesetzes (verkündet 21. Januar 2026); einzelne Teile 1. Juli 2026 und 1. Januar 2027", "grundlage": "Bundesgesetzblatt (laut Fachmeldungen)"},
+    {"wert": "1. Januar 2027", "was": "Start Altersvorsorgedepot; altes Recht gilt nur für Bestandsverträge weiter", "grundlage": "Altersvorsorgereformgesetz (verkündet 29.05.2026)"},
+    {"wert": "8. Mai 2026", "was": "Bundesrat stimmt Altersvorsorgereformgesetz zu", "grundlage": "Deutsche Rentenversicherung, Meldung"}
+   ],
+   "achtung": [
+    "Beiträge Krankenversicherung: Freibetrag 197,75 € nur in der KVdR-Pflichtversicherung (siehe Seite KVdR).",
+    "Rürup-Rente (Basisrente): nicht im Volltext geprüft, insbesondere Besteuerung und Regeln nach 2027.",
+    "Förderbeträge betreffen Sparer, nicht Rentner: Grundzulage 50 Cent je Euro Eigenbeitrag bis 360 Euro und weitere 25 Cent je Euro bis 1.800 Euro Eigenbeitrag (Rechenergebnis 540 Euro im Jahr: 180 + 360, kein ausdrücklich geprüfter Höchstbetrag); Höchstgrenze 175 Euro für mittelbar Zulageberechtigte (§ 79 Satz 2 EStG); Mindesteigenbeitrag 120 Euro ab Beitragsjahr 2027 (§ 86 EStG n. F.); Kinderzulage 1 Euro je Euro Eigenbeitrag bis 300 Euro je Kind; Berufseinsteigerbonus einmalig 200 Euro.",
+    "Frühstartrente: Kabinett 12. August 2026, erste Lesung im Bundestag 25. September 2026, nicht Gesetz; Inkrafttreten 1. Januar 2027, Start rückwirkend zum 1. Januar 2026 mit Geburtsjahrgang 2020, erste Einzahlungen und Auszahlungen ab 2027."
+   ],
+   "fach_html": "<h3>Zweites Betriebsrentenstärkungsgesetz</h3><p>Nach Fachmeldungen im Bundesgesetzblatt am 21. Januar 2026 verkündet; Inkrafttreten am 22. Januar 2026, mit Ausnahmen (§ 6 BetrAVG und § 100 EStG am 1. Januar 2027, Versicherungsvertragsgesetz am 1. Juli 2026). Nach BMAS erweitert es den Zugang zur Betriebsrente über Tarifverträge und ermöglicht automatische Entgeltumwandlung bei Arbeitgeberzuschuss.</p><h3>Altersvorsorgereformgesetz</h3><p>Nach der DRV-Meldung vom 8. Mai 2026 stimmt der Bundesrat einer neuen staatlich geförderten Altersvorsorge zum Januar 2027 zu: Altersvorsorgedepots ohne Garantie, Standardprodukt mit Kostendeckel 1,0 Prozent jährlich, Auszahlplan ab 65 über 20 Jahre. Grundzulage 50 Cent je Euro Eigenbeitrag bis 360 Euro und weitere 25 Cent je Euro bis 1.800 Euro Eigenbeitrag (Grundzulage rechnerisch 540 Euro im Jahr, nicht als Höchstbetrag geprüft); Höchstgrenze 175 Euro für mittelbar Zulageberechtigte (§ 79 Satz 2 EStG); Mindesteigenbeitrag 120 Euro ab Beitragsjahr 2027 (§ 86 EStG n. F.); Kinderzulage 1 Euro je Euro Eigenbeitrag bis 300 Euro je Kind; Berufseinsteigerbonus 200 Euro einmalig. Bestehende Riester-Verträge bleiben; Wechsel möglich, bisherige Zulagen müssen nicht zurückgezahlt werden. Verkündung 29. Mai 2026 (nach Fachmeldungen). Ab 2027 auch Selbstständige förderberechtigt.</p><h3>Frühstartrente</h3><p>Laut BMF: Kabinettsentwurf am 12. August 2026; 10 Euro monatlich für Kinder vom 6. bis 18. Lebensjahr ins Altersvorsorgedepot; Inkrafttreten 1. Januar 2027 vorgesehen; Start rückwirkend zum 1. Januar 2026 mit Geburtsjahrgang 2020, erste Einzahlungen und Auszahlungen ab 2027; erste Lesung im Bundestag 25. September 2026; Gesetzgebungsverfahren steht aus.</p><h3>Nicht im Volltext geprüft</h3><p>Steuerliche Behandlung der Leistungen (§ 22 Nr. 5 EStG), Rürup-Besteuerung, Auszahlungsphase Altverträge.</p><h3>Ab 1. Januar 2027 (Altersvorsorgereformgesetz, Primärquelle geprüft)</h3><p>Nach dem Text im Bundesgesetzblatt (BGBl. 2026 I Nr. 156, Ausfertigung 26.05.2026) treten die Artikel 2, 6, 9 und 11 bis 13 am 1. Januar 2027 in Kraft, die Artikel 3, 4, 7 und 10 am 1. Januar 2028 (Artikel 14). Artikel 6 fügt dem Altersvorsorgeverträge-Zertifizierungsgesetz den Altersvorsorgedepot-Vertrag als Altersvorsorgevertrag ein (§ 1 Abs. 1b). Für zertifizierte Altersvorsorgeverträge, die vor dem 1. Januar 2027 abgeschlossen wurden (Bestandsvertrag), gelten §§ 10a, 79, 82, 84, 85 Abs. 1, 86, 89 und 91 EStG in der bis 31.12.2026 geltenden Fassung bis zum Beginn der Auszahlungsphase weiter (§ 52 Abs. 50a EStG neu; Einzelaufzählung der Vorschriften nicht im Volltext gegengelesen); der Zulageberechtigte kann unwiderruflich das neue Recht für alle Bestandsverträge wählen. Wer nach dem 31. Dezember 2026 einen zertifizierten Altersvorsorgevertrag abschließt, für den gilt einheitlich für alle seine Altersvorsorgeverträge das neue Recht. Die Zulagenhöhen und Einzelheiten des Depots wurden nicht im Volltext geprüft (Angaben oben nach DRV-Meldung).</p>",
+   "zustaendig": ["Arbeitgeber und Versorgungsträger (Betriebsrente)", "Anbieter des Riester- oder Rürup-Vertrags", "Verbraucherzentrale (unabhängige Beratung, Angebot nicht im Volltext geprüft)"],
+   "belege": ["Deutsche Rentenversicherung, Reform der privaten Altersvorsorge: Bundesrat beschließt Riester-Nachfolge (08.05.2026), abgerufen 21.09.2026", "BMAS, Rentenreform 2025 (Betriebsrentenstärkungsgesetz II, Frühstart-Rente), abgerufen 21.09.2026", "§ 82 SGB XII, gesetze-im-internet.de, abgerufen 21.09.2026", "BMF und Fachmeldungen zu Frühstartrente und BRSG II (Suchtreffer, Volltext nicht abgerufen), abgerufen 21.09.2026", "Bundesgesetzblatt 2026 I Nr. 156 (Altersvorsorgereformgesetz), recht.bund.de, abgerufen 21.09.2026"],
+   "siehe_auch": ["kv-pv-rentner", "grundsicherung-alter", "rentenbesteuerung"],
+   "stand": "September 2026"
+  },
+  {
+   "id": "rente-im-ausland",
+   "kategorie": "vorsorge-schutz",
+   "titel": "Rente im Ausland und Lebensnachweis",
+   "icon": "🌍",
+   "teaser": "Deutsche Renten werden weltweit gezahlt. Wer im Ausland lebt, muss einmal im Jahr einen Lebensnachweis erbringen.",
+   "schlagworte": ["Auslandsrente", "Lebensnachweis", "Lebensbescheinigung", "Rente Ausland", "Renten Service", "digitaler Lebensnachweis", "Wohnsitz Ausland"],
+   "kurz_html": "<p>Die Deutsche Rentenversicherung zahlt Renten in viele Länder. Die Auszahlung übernimmt die Deutsche Post AG, Renten Service.</p><p>Wenn Sie im Ausland wohnen, müssen Sie einmal im Jahr zeigen, dass Sie leben (Lebensnachweis). Die Unterlagen kommen im Juni und Juli. Reagieren Sie nicht, kann die Rente eingestellt werden.</p><p>Für einige Länder (zum Beispiel Österreich, Italien, Spanien, Australien) läuft der Nachweis automatisch. Seit 2024 gibt es weltweit einen digitalen Lebensnachweis mit QR-Code, gültigem Ausweis und PostIdent-App, kostenlos von zu Hause.</p>",
+   "schritte": [
+    {"titel": "Adresse und Bankverbindung aktuell halten", "text": "Melden Sie Umzug und neue Konten der Rentenversicherung."},
+    {"titel": "Post im Juni und Juli beachten", "text": "Das Schreiben zum Lebensnachweis nicht übersehen."},
+    {"titel": "Nachweis erbringen", "text": "Digital (PostIdent) oder per Formular, je nach Land."},
+    {"titel": "Beratung fragen", "text": "Bei Umzug ins Ausland vorher Rente, Krankenversicherung und Steuer klären."}
+   ],
+   "fristen": [
+    {"wert": "1 x jährlich", "was": "Lebensnachweis bei Wohnsitz im Ausland, Versand im Juni und Juli", "grundlage": "Deutsche Rentenversicherung, Faktencheck (Meldung 31.07.2025)"},
+    {"wert": "3 Monate", "was": "Widerspruchsfrist bei Bekanntgabe im Ausland", "grundlage": "§ 84 SGG"},
+    {"wert": "ca. 1,7 Mio. / 1,2 Mio.", "was": "Renten ins Ausland / davon automatischer Nachweis", "grundlage": "Deutsche Rentenversicherung, Faktencheck"}
+   ],
+   "achtung": [
+    "Rentner in Deutschland müssen grundsätzlich keinen Lebensnachweis erbringen. Eine Ausnahme bei Auslandskonto wurde nicht verifiziert.",
+    "Wer nicht reagiert, kann die Rente verlieren (Zahlung wird eingestellt).",
+    "Besteuerung, Krankenversicherung und Doppelbesteuerungsabkommen bei Auslandsrenten wurden nicht im Volltext geprüft. Bitte Finanzamt und Krankenkasse fragen.",
+    "Ansprüche auf Grundsicherung im Alter setzen nach § 41 SGB XII einen Wohnsitz in Deutschland voraus."
+   ],
+   "fach_html": "<h3>Zahlung ins Ausland</h3><p>Nach Angabe der Deutschen Rentenversicherung zahlen die Rentenversicherungsträger Renten an Berechtigte weltweit über die Deutsche Post AG, Renten Service.</p><h3>Lebensnachweis</h3><p>Nach der DRV-Meldung „Faktencheck: Ohne Lebensnachweis keine Rente?“ vom 31. Juli 2025 müssen Rentner mit Wohnsitz im Ausland einmal jährlich einen Lebensnachweis erbringen; die Unterlagen werden im Juni und Juli versendet. Für rund 1,2 Millionen von 1,7 Millionen Auslandsrenten erfolgt die Verifikation automatisch über Datenaustausch (zum Beispiel Österreich, Italien, Spanien). Digitaler Lebensnachweis seit 2024 weltweit über QR-Code, Ausweis und PostIdent-App.</p><h3>Nicht im Volltext geprüft</h3><p>Sozialversicherungsabkommen, EU-Koordinierung, Besteuerung von Auslandsrenten und Wegzugsfolgen, Krankenversicherung im Ausland.</p>",
+   "zustaendig": ["Deutsche Rentenversicherung (Bund oder Regionalträger)", "Deutsche Post AG, Renten Service (Auszahlung, Lebensnachweis)", "Finanzamt"],
+   "belege": ["Deutsche Rentenversicherung, Faktencheck: Ohne Lebensnachweis keine Rente? (31.07.2025), abgerufen 21.09.2026", "Deutsche Rentenversicherung, Lebensnachweis für Rentner im Ausland (Suchtreffer), abgerufen 21.09.2026", "§ 84 SGG und § 41 SGB XII, gesetze-im-internet.de, abgerufen 21.09.2026"],
+   "siehe_auch": ["rentenbesteuerung", "grundsicherung-alter", "beratung-rentner"],
+   "stand": "September 2026"
+  },
+  {
+   "id": "rentenbetrug",
+   "kategorie": "vorsorge-schutz",
+   "titel": "Rentenbetrug und Fake-Nachrichten erkennen",
+   "icon": "🚨",
+   "teaser": "Betrüger geben sich als Rentenversicherung aus. Die Deutsche Rentenversicherung fragt nie nach Zahlungsdaten per Telefon, E-Mail oder SMS.",
+   "schlagworte": ["Rentenbetrug", "Phishing", "Fake-Mail", "Trickbetrug", "Berechtigungsbescheinigung", "Rentenversicherung Warnung", "Betrug Telefon", "falsche Briefe"],
+   "kurz_html": "<p>Betrüger schicken Mails, rufen an, schreiben Briefe oder kommen an die Tür. Sie tun so, als kämen sie von der Rentenversicherung.</p><p>Die Rentenversicherung fordert Sie <strong>nie</strong> per Telefon, E-Mail oder SMS auf, persönliche Daten oder Zahlungsdaten zu nennen.</p><p>Klicken Sie keine Links an. Antworten Sie nicht. Rufen Sie stattdessen die offizielle Nummer an: <strong>0800 1000 4800</strong> (Mo–Do 8:00–19:00, Fr 8:00–15:30).</p><p>Schreiben mit dem Titel „Berechtigungsbescheinigung – Ihre Rente“ stammen nicht von der Rentenversicherung.</p>",
+   "schritte": [
+    {"titel": "Nichts anklicken, nichts überweisen", "text": "Reagieren Sie nicht auf Druck oder Fristen in der Nachricht."},
+    {"titel": "Absender prüfen", "text": "Achten Sie auf die Mail-Adresse. Fremde Domains sind ein Warnzeichen."},
+    {"titel": "Offizielle Nummer anrufen", "text": "0800 1000 4800, nicht die Nummer aus der verdächtigen Nachricht."},
+    {"titel": "Daten sichern und Hilfe holen", "text": "Haben Sie Daten oder Geld preisgegeben, sofort Bank und Polizei einbinden (Vorgehen nicht im Volltext geprüft)."}
+   ],
+   "fristen": [
+    {"wert": "0800 1000 4800", "was": "Kostenloses Servicetelefon der Deutschen Rentenversicherung: Mo–Do 8:00–19:00, Fr 8:00–15:30", "grundlage": "Deutsche Rentenversicherung, Warnung vor Betrugsversuchen"},
+    {"wert": "nie", "was": "DRV fordert nie telefonisch, per E-Mail oder SMS zur Preisgabe von Zahlungsdaten auf", "grundlage": "Deutsche Rentenversicherung, Warnung vor Phishing-Mails (13.02.2026)"}
+   ],
+   "achtung": [
+    "Typische Vorwände (DRV): Sicherheitsupdate der Digitalen Rentenübersicht, Versand der Renteninformation, angebliche Fehlbuchung mit Beitragserstattung.",
+    "Betrügerische Briefe „Berechtigungsbescheinigung – Ihre Rente“ und gefälschte Internetseiten, die Gebühren verlangen, sind aktuell verbreitet.",
+    "Ob die Rentenversicherung persönlich an der Haustür auftritt, wurde nicht im Volltext geprüft. Fragen Sie im Zweifel vorher unter der Servicenummer nach.",
+    "Sie müssen für Rentenauskunft und Kontenklärung nichts zahlen (DRV-Hinweis auf kostenlose Unterlagen, Wortlaut nicht im Volltext geprüft)."
+   ],
+   "fach_html": "<h3>Warnhinweise der Deutschen Rentenversicherung</h3><p>Die DRV warnt vor Phishing-Mails im DRV-Design, Telefonbetrug mit falschen DRV-Mitarbeitern, betrügerischen Briefen und gefälschten Websites. Als Erkennungsmerkmal nennt sie die Absender-Mail-Adresse. Die DRV empfiehlt, verdächtige Kontaktversuche nicht zu beantworten und die offizielle Hotline zu nutzen.</p><h3>Verhalten</h3><ul><li>Keine Links anklicken und keine in der E-Mail genannten Aktionen ausführen.</li><li>Keine persönlichen Daten oder Zahlungsdaten herausgeben.</li></ul><h3>Nicht im Volltext geprüft</h3><p>Strafanzeige, Bankenhaftung, Meldestellen der Verbraucherzentralen. Allgemeine Betrugsmaschen gegen Senioren: siehe Wegweiser-Gruppe Senioren.</p>",
+   "zustaendig": ["Deutsche Rentenversicherung, Servicetelefon 0800 1000 4800", "Polizei (Anzeige)", "Bank oder Sparkasse (bei Abbuchungen)"],
+   "belege": ["Deutsche Rentenversicherung, Warnung vor Betrugsversuchen, abgerufen 21.09.2026", "Deutsche Rentenversicherung, Warnung vor Phishing-Mails im Stil der DRV (13.02.2026, Suchtreffer), abgerufen 21.09.2026"],
+   "siehe_auch": ["rentenantrag-rentenauskunft", "beratung-rentner"],
+   "stand": "September 2026"
+  },
+  {
+   "id": "beratung-rentner",
+   "kategorie": "beratung",
+   "titel": "Beratung und Anlaufstellen für Rentner",
+   "icon": "🤝",
+   "teaser": "Deutsche Rentenversicherung, Sozialamt, Wohngeldbehörde, Finanzamt und Sozialverbände beraten. Diese Seite sagt, wer wofür zuständig ist.",
+   "schlagworte": ["Rentenberatung", "Deutsche Rentenversicherung", "VdK", "SoVD", "Sozialamt", "Wohngeldbehörde", "Finanzamt", "Beratung Rente"],
+   "kurz_html": "<p>Für jede Frage gibt es eine passende Stelle.</p><ul><li><strong>Rente, Rentenauskunft, Antrag, Bescheid:</strong> Deutsche Rentenversicherung, kostenlos, Telefon <strong>0800 1000 4800</strong> (Mo–Do 8:00–19:00, Fr 8:00–15:30).</li><li><strong>Grundsicherung im Alter:</strong> Sozialamt.</li><li><strong>Wohngeld:</strong> Wohngeldbehörde Ihrer Gemeinde, Stadt oder Ihres Kreises.</li><li><strong>Steuer:</strong> Finanzamt.</li><li><strong>Krankenversicherung:</strong> Ihre Krankenkasse.</li><li><strong>Widerspruch und Klage:</strong> Sozialverbände wie VdK oder SoVD.</li></ul><p>Bringen Sie zu jedem Termin Ihren Rentenbescheid und Ihre Rentenauskunft mit.</p>",
+   "schritte": [
+    {"titel": "Thema einordnen", "text": "Rente, Steuer, Krankenkasse, Wohnkosten: passende Stelle wählen."},
+    {"titel": "Unterlagen sammeln", "text": "Bescheide, Rentenauskunft, Kontoauszüge, Mietvertrag."},
+    {"titel": "Termin vereinbaren", "text": "Telefonisch oder online bei der zuständigen Stelle."},
+    {"titel": "Fristen im Blick halten", "text": "Widerspruch: ein Monat (§ 84 SGG)."}
+   ],
+   "fristen": [
+    {"wert": "0800 1000 4800", "was": "Kostenloses Servicetelefon der Deutschen Rentenversicherung: Mo–Do 8:00–19:00, Fr 8:00–15:30", "grundlage": "Deutsche Rentenversicherung, Warnung vor Betrugsversuchen"},
+    {"wert": "1 Monat", "was": "Widerspruchsfrist gegen Bescheide", "grundlage": "§ 84 SGG"}
+   ],
+   "achtung": [
+    "Sozialverbände (VdK, SoVD) beraten meist Mitglieder. Ob und zu welchen Bedingungen, klären Sie dort. Kosten und Angebote wurden nicht im Volltext geprüft.",
+    "Rentenberater sind Rechtsdienstleister mit Zulassung. Zulassung und Honorare nicht im Volltext geprüft.",
+    "Bei angeblichen Anrufen der Rentenversicherung immer selbst die offizielle Nummer anrufen.",
+    "Diese Plattform ersetzt keine Rechtsberatung (RDG)."
+   ],
+   "fach_html": "<h3>Deutsche Rentenversicherung</h3><p>Die Deutsche Rentenversicherung nennt als kostenlose Servicetelefonnummer 0800 1000 4800 (Mo–Do 8:00–19:00, Fr 8:00–15:30). Regionalträger und Beratungsstellen: Adressen der Rentenversicherung entnehmen (hier nicht aufgeführt, nicht im Volltext geprüft).</p><h3>Sozialamt</h3><p>Zuständig für Grundsicherung im Alter (SGB XII). Antrag dort; die Leistung beginnt laut DRV am Ersten des Antragsmonats.</p><h3>Wohngeldbehörde</h3><p>Gemeinde-, Stadt- oder Kreisverwaltung; oft im Sozialamt angesiedelt.</p><h3>Finanzamt</h3><p>Zuständig für Einkommensteuer und Steuererklärung.</p><h3>Sozialverbände</h3><p>VdK und SoVD sind bekannte Sozialverbände mit Sozialrechtsberatung. Adressen, Mitgliedsbeiträge und Umfang der Vertretung wurden nicht geprüft.</p><h3>Gruppen in diesem Wegweiser</h3><p>Zur Pflege, Erbrecht und Vorsorge siehe Wegweiser Senioren, zur Erwerbsminderungsrente Wegweiser Berufsunfähigkeit, zu Einkommen und Verbindlichkeiten Wegweiser Armut.</p>",
+   "zustaendig": ["Deutsche Rentenversicherung, 0800 1000 4800", "Sozialamt", "Wohngeldbehörde", "Finanzamt"],
+   "belege": ["Deutsche Rentenversicherung, Warnung vor Betrugsversuchen (Hotline), abgerufen 21.09.2026", "Deutsche Rentenversicherung, Grundsicherung (Sozialamt, Antragsbeginn), abgerufen 21.09.2026", "Bundesregierung, Im Kabinett: Wohngeld wird neu geordnet, abgerufen 21.09.2026", "§ 84 SGG, gesetze-im-internet.de, abgerufen 21.09.2026"],
+   "siehe_auch": ["ueberblick-rentner", "rentenbescheid-widerspruch", "rentenbetrug"],
+   "stand": "September 2026"
+  }
+ ]
+}

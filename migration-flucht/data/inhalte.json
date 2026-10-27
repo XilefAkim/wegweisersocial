@@ -1,0 +1,1336 @@
+{
+ "kategorien": [
+  {
+   "id": "grundlagen",
+   "titel": "Überblick",
+   "icon": "📌",
+   "beschreibung": "Was Sie selbst tun können, Fristen, Formen."
+  },
+  {
+   "id": "aufenthalt-arbeit",
+   "titel": "Aufenthalt, Arbeit, Staatsangehörigkeit",
+   "icon": "🪪",
+   "beschreibung": "Beschäftigungserlaubnis, Einbürgerung, Verlängerung, Wohnsitz."
+  },
+  {
+   "id": "familie-abschluesse",
+   "titel": "Familie und Abschlüsse",
+   "icon": "👨‍👩‍👧",
+   "beschreibung": "Familiennachzug, Anerkennung ausländischer Abschlüsse."
+  },
+  {
+   "id": "behoerde-untaetig",
+   "titel": "Wenn die Behörde nicht handelt",
+   "icon": "⏳",
+   "beschreibung": "Untätigkeitsklage gegen Ausländerbehörde, Auslandsvertretung, BAMF."
+  },
+  {
+   "id": "akten-daten",
+   "titel": "Akten und Daten",
+   "icon": "🔎",
+   "beschreibung": "AZR-Auskunft, Akteneinsicht, DSGVO."
+  },
+  {
+   "id": "leistungen-kosten-hilfe",
+   "titel": "Leistungen, Kosten und Hilfe",
+   "icon": "🧭",
+   "beschreibung": "AsylbLG-Kürzung, Prozesskostenhilfe, Beratung."
+  }
+ ],
+ "seiten": [
+  {
+   "id": "ueberblick-selbst-handeln",
+   "kategorie": "grundlagen",
+   "titel": "Verfahren, die Sie selbst führen können",
+   "icon": "🧭",
+   "teaser": "Viele Anträge, Auskünfte und sogar Klagen im Ausländer- und Asylrecht können Sie ohne Anwalt führen – wenn Sie Form und Fristen kennen.",
+   "schlagworte": [
+    "Selbst handeln",
+    "Vertretungszwang",
+    "Fristen",
+    "Rechtsantragstelle",
+    "Verwaltungsgericht",
+    "Sozialgericht",
+    "Untätigkeitsklage",
+    "Antrag"
+   ],
+   "kurz_html": "<p>Viele Verfahren im Ausländer- und Asylrecht können Sie selbst führen – ohne Anwalt oder Anwältin. Das gilt für Anträge, Auskunftsersuchen, Widersprüche und bestimmte Klagen.</p><p>Vor Gericht brauchen Sie in erster Instanz meist keine Vertretung. Ein Anwaltszwang gilt erst vor dem Oberverwaltungsgericht oder dem Bundesverwaltungsgericht, im Sozialrecht erst vor dem Bundessozialgericht.</p><p>Für eine Klage gibt es zwei Wege: schriftlich einreichen oder zu Protokoll der sogenannten Rechtsantragstelle bei Gericht erklären. Das ist kostenlos, ersetzt aber keine inhaltliche Beratung.</p><p>Fristen sind im Ausländer- und Asylrecht oft kurz: manchmal nur eine Woche oder zwei Wochen, sonst ein Monat. Verpassen Sie eine Frist, kann Ihr Anliegen abgelehnt werden, ohne dass der Inhalt geprüft wird.</p><p>Auf den folgenden 14 Seiten dieser Gruppe finden Sie einzelne Verfahren im Detail: von der Arbeitserlaubnis über die Einbürgerung bis zur Untätigkeitsklage gegen Behörden.</p>",
+   "schritte": [
+    {
+     "titel": "Bescheid oder Schreiben genau lesen",
+     "text": "Suchen Sie nach dem Datum der Zustellung und einer Rechtsbehelfsbelehrung. Sie bestimmt Frist und zuständiges Gericht."
+    },
+    {
+     "titel": "Zuständiges Gericht klären",
+     "text": "Ausländer- und Asylrecht gehört vor das Verwaltungsgericht, Sozialleistungen (zum Beispiel AsylbLG, Bürgergeld) vor das Sozialgericht."
+    },
+    {
+     "titel": "Form wählen",
+     "text": "Reichen Sie schriftlich ein oder gehen Sie zur Rechtsantragstelle des Gerichts und lassen Sie Ihr Anliegen zu Protokoll nehmen (§ 81 VwGO, § 90 SGG)."
+    },
+    {
+     "titel": "Frist nicht verstreichen lassen",
+     "text": "Notieren Sie das Fristende. Im Zweifel lieber zu früh als zu spät handeln."
+    },
+    {
+     "titel": "Passende Seite in dieser Übersicht suchen",
+     "text": "Für Ihr konkretes Anliegen finden Sie auf den folgenden Seiten Schritt-für-Schritt-Anleitungen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "1 Woche",
+     "was": "Verkürzte Klagefrist im Asylverfahren in bestimmten, gesetzlich benannten Fällen (unter anderem bei Eilanträgen nach § 80 Abs. 5 VwGO).",
+     "grundlage": "§ 74 Abs. 1 AsylG n. F."
+    },
+    {
+     "wert": "2 Wochen",
+     "was": "Regelfrist für die Klage gegen Entscheidungen nach dem Asylgesetz.",
+     "grundlage": "§ 74 Abs. 1 AsylG n. F."
+    },
+    {
+     "wert": "1 Monat",
+     "was": "Klagefrist im allgemeinen Verwaltungsrecht (Anfechtungs- und Verpflichtungsklage) nach Zustellung des Bescheids oder Widerspruchsbescheids.",
+     "grundlage": "§ 74 Abs. 1 und 2 VwGO"
+    },
+    {
+     "wert": "3 Monate",
+     "was": "Frühester Zeitpunkt für eine Untätigkeitsklage nach Widerspruch oder Antrag ohne Entscheidung.",
+     "grundlage": "§ 75 VwGO"
+    }
+   ],
+   "achtung": [
+    "Die Zwei-Wochen-Frist bei Asylklagen gilt seit der GEAS-Reform ausdrücklich im Einklang mit Art. 67 Abs. 7 der Verordnung (EU) 2024/1348; prüfen Sie im Einzelfall, ob nicht die kürzere Wochenfrist gilt.",
+    "Formlose E-Mails reichen für eine Klage nicht. Nötig ist Schriftform oder eine Erklärung zu Protokoll der Rechtsantragstelle.",
+    "Die Rechtsantragstelle nimmt Ihre Erklärung nur auf – sie berät nicht inhaltlich und vertritt Sie nicht.",
+    "Vertretungszwang gilt vor dem Verwaltungsgericht und dem Sozialgericht nicht, wohl aber vor Oberverwaltungsgericht/Bundesverwaltungsgericht (§ 67 VwGO) beziehungsweise vor dem Bundessozialgericht (§ 73 SGG)."
+   ],
+   "fach_html": "<h3>Vertretungszwang</h3><p>Vor dem Verwaltungsgericht und dem Sozialgericht können Sie sich selbst vertreten; ein Anwaltszwang besteht in erster Instanz grundsätzlich nicht. Erst vor dem Oberverwaltungsgericht und dem Bundesverwaltungsgericht müssen sich Beteiligte durch Prozessbevollmächtigte vertreten lassen, außer im Prozesskostenhilfeverfahren (§ 67 VwGO). Im Sozialrecht gilt dieser Zwang erst vor dem Bundessozialgericht (§ 73 SGG).</p><h3>Formvorschriften</h3><p>Eine Klage vor dem Verwaltungsgericht ist schriftlich zu erheben oder zu Protokoll des Urkundsbeamten der Geschäftsstelle (§ 81 VwGO). Vor dem Sozialgericht gilt dasselbe: schriftlich oder zu Protokoll der Geschäftsstelle (§ 90 SGG). Diese Möglichkeit, eine Klage mündlich bei der sogenannten Rechtsantragstelle zu Protokoll zu geben, ist kostenlos und ersetzt weder eine juristische Prüfung noch eine Beratung.</p><h3>Fristen im Ausländer- und Asylrecht</h3><p>Seit der GEAS-Reform (in Kraft seit 12. Juni 2026) beträgt die Klagefrist gegen Entscheidungen nach dem Asylgesetz im Regelfall zwei Wochen nach Zustellung; in bestimmten, im Gesetz benannten Fällen – etwa wenn ein Antrag nach § 80 Abs. 5 VwGO innerhalb einer Woche zu stellen ist – verkürzt sich die Frist auf eine Woche (§ 74 Abs. 1 AsylG n. F. in Verbindung mit Art. 67 Abs. 7 der Verordnung (EU) 2024/1348). Im allgemeinen Verwaltungsrecht gilt für Anfechtungs- und Verpflichtungsklagen eine Frist von einem Monat nach Zustellung des Bescheids oder Widerspruchsbescheids (§ 74 Abs. 1 und 2 VwGO). Bleibt eine Behörde ohne zureichenden Grund untätig, ist eine Klage frühestens drei Monate nach Antragstellung oder Widerspruch möglich (§ 75 VwGO); im Sozialrecht gelten sechs Monate nach Antragstellung beziehungsweise drei Monate nach Widerspruch (§ 88 SGG).</p><h3>Übersicht der Themen dieser Gruppe</h3><p>Die folgenden 14 Seiten behandeln einzelne Verfahren im Detail: Arbeits- und Beschäftigungserlaubnis, Einbürgerung, Verlängerung des Aufenthaltstitels und Fiktionsbescheinigung, Wohnsitzauflage und Umverteilung, Familiennachzug, Anerkennung ausländischer Abschlüsse, Untätigkeitsklagen gegen Ausländerbehörde, Visumstelle und BAMF, Auskunft aus dem Ausländerzentralregister, Akteneinsicht, Widerspruch gegen Leistungskürzungen nach dem AsylbLG, Prozesskosten- und Beratungshilfe sowie Beratungsstellen.</p><h3>Selbst machen oder Anwalt?</h3><p>Anträge, Auskunftsersuchen und die meisten Klagen vor dem Verwaltungs- oder Sozialgericht können Sie ohne anwaltliche Vertretung führen; ein Vertretungszwang besteht erst vor Oberverwaltungsgericht, Bundesverwaltungsgericht oder Bundessozialgericht (§ 67 VwGO, § 73 SGG). Kosten trägt im Verwaltungsprozess grundsätzlich die unterliegende Partei (§ 154 Abs. 1 VwGO); Streitigkeiten nach dem Asylgesetz sind gerichtskostenfrei (§ 83b AsylG); im sozialgerichtlichen Verfahren sind Betroffene meist gerichtskostenfrei gestellt (§ 183 SGG). Anwaltliche Hilfe ist sinnvoll, wenn der Sachverhalt komplex ist, mehrere Rechtsgebiete zusammentreffen, eine Frist bereits knapp wird oder es um existenzielle Fragen wie den Schutzstatus selbst geht; bei geringem Einkommen kann Prozesskostenhilfe oder Beratungshilfe die Kosten übernehmen.</p>",
+   "zustaendig": [
+    "Verwaltungsgericht (Ausländer- und Asylrecht)",
+    "Sozialgericht (Sozialleistungen, zum Beispiel AsylbLG)",
+    "Rechtsantragstelle beim jeweiligen Gericht (Erklärung zu Protokoll)",
+    "Ausländerbehörde, BAMF oder Jobcenter/Sozialamt je nach Verfahren"
+   ],
+   "belege": [
+    "§ 67 VwGO, gesetze-im-internet.de, abgerufen 24.09.2026",
+    "§ 73 SGG, gesetze-im-internet.de, abgerufen 24.09.2026",
+    "§ 81 VwGO und § 90 SGG, gesetze-im-internet.de, abgerufen 24.09.2026",
+    "§ 74 AsylG und § 74 VwGO, gesetze-im-internet.de, abgerufen 24.09.2026",
+    "§ 75 VwGO, gesetze-im-internet.de, abgerufen 24.09.2026"
+   ],
+   "siehe_auch": [
+    "untaetigkeitsklage-auslaenderbehoerde",
+    "akteneinsicht-auslaenderakte",
+    "prozesskostenhilfe-beratungshilfe"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "arbeitserlaubnis-beschaeftigungserlaubnis",
+   "kategorie": "aufenthalt-arbeit",
+   "titel": "Arbeitserlaubnis und Beschäftigungserlaubnis",
+   "icon": "💼",
+   "teaser": "Seit der GEAS-Reform gilt meist eine Wartezeit von 3 statt 6 Monaten. Wer sofort arbeiten darf, wer länger warten muss und wann Arbeit ganz ausgeschlossen ist.",
+   "schlagworte": [
+    "Arbeitserlaubnis",
+    "Beschäftigungserlaubnis",
+    "Wartefrist",
+    "Duldung",
+    "Aufenthaltsgestattung",
+    "Bundesagentur für Arbeit",
+    "Ausbildungsduldung",
+    "Beschäftigungsduldung"
+   ],
+   "kurz_html": "<p>Ob Sie arbeiten dürfen, hängt von Ihrem Aufenthaltspapier ab. Ein allgemeines Recht auf Arbeit gibt es nicht – Sie brauchen für jede Stelle eine eigene Erlaubnis.</p><p>Seit der Reform vom 12. Juni 2026 gilt für die meisten Asylsuchenden: Sie dürfen <strong>3 Monate nach der Registrierung</strong> Ihres Asylantrags arbeiten, wenn die Bundesagentur für Arbeit zustimmt. Das gilt auch, wenn Sie in einer Aufnahmeeinrichtung wohnen müssen.</p><p>Ausnahmen: Läuft ein Dublin-Verfahren gegen Sie oder haben Sie bereits in einem anderen EU-Land Schutz erhalten, warten Sie 6 Monate. Kommen Sie aus einem sicheren Herkunftsstaat oder läuft Ihr Verfahren im beschleunigten Verfahren, bleibt Arbeit während des ganzen Asylverfahrens verboten.</p><p>Haben Sie eine Duldung? Dann gilt meist eine Wartezeit von 6 Monaten. Nur bei einer Ausbildungsduldung oder mit geklärter Identität durch einen gültigen Pass sind es 3 Monate.</p><p>Sind Sie als Flüchtling oder subsidiär schutzberechtigt anerkannt, dürfen Sie ohne Einschränkung arbeiten, auch selbstständig.</p><p>Den Antrag auf Beschäftigungserlaubnis stellen Sie bei der Ausländerbehörde – mit einem konkreten Stellenangebot.</p>",
+   "schritte": [
+    {
+     "titel": "Aufenthaltspapier prüfen",
+     "text": "Aufenthaltsgestattung, Duldung nach § 60a AufenthG oder Aufenthaltserlaubnis nach Anerkennung – der Status entscheidet über Ihre Wartefrist."
+    },
+    {
+     "titel": "Wartefrist berechnen",
+     "text": "Bei Aufenthaltsgestattung zählen Sie ab der Registrierung des Asylantrags, bei Duldung ab deren Beginn."
+    },
+    {
+     "titel": "Ausschlussgründe prüfen",
+     "text": "Sicherer Herkunftsstaat oder beschleunigtes Verfahren schließen Arbeit unabhängig von der Wartefrist aus."
+    },
+    {
+     "titel": "Stellenangebot einholen",
+     "text": "Ohne konkretes Angebot mit Stellenbeschreibung gibt es keine Erlaubnis."
+    },
+    {
+     "titel": "Antrag bei der Ausländerbehörde stellen",
+     "text": "Die Behörde beteiligt die Bundesagentur für Arbeit, wenn deren Zustimmung nötig ist."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "3 Monate nach Registrierung des Asylantrags",
+     "was": "Wartefrist bis zur möglichen Beschäftigung für Asylsuchende, unabhängig davon, ob eine Wohnpflicht in einer Aufnahmeeinrichtung besteht.",
+     "grundlage": "§ 61 Abs. 1 und Abs. 2 AsylG n. F. (seit 12.06.2026)"
+    },
+    {
+     "wert": "6 Monate",
+     "was": "Verlängerte Wartefrist bei Dublin-/Aufnahme- oder Wiederaufnahmeverfahren oder wenn bereits in einem anderen EU-Mitgliedstaat internationaler Schutz zuerkannt wurde.",
+     "grundlage": "§ 61 Abs. 1 Satz 3 AsylG n. F."
+    },
+    {
+     "wert": "6 Monate Duldung",
+     "was": "Regelfrist bis zur möglichen Beschäftigung für Geduldete.",
+     "grundlage": "§ 61 Abs. 1 Satz 6 AsylG n. F."
+    },
+    {
+     "wert": "3 Monate Duldung",
+     "was": "Verkürzte Frist bei Geduldeten, wenn die Voraussetzungen für eine Ausbildungsduldung vorliegen oder die Identität durch einen anerkannten und gültigen Pass geklärt ist.",
+     "grundlage": "§ 61 Abs. 1 Satz 7 AsylG n. F. in Verbindung mit § 60c Abs. 1 Satz 1 Nr. 2 AufenthG"
+    }
+   ],
+   "achtung": [
+    "Es gibt keine allgemeine Arbeitserlaubnis: Sie gilt jeweils nur für eine bestimmte Stelle bei einer bestimmten Firma.",
+    "Sichere Herkunftsstaaten (§§ 29a, 29b AsylG) und das beschleunigte Verfahren schließen die Beschäftigung während des gesamten Asylverfahrens aus – die verkürzten Fristen gelten hier nicht.",
+    "Bei der sogenannten Duldung light nach § 60b AufenthG wird die Arbeitserlaubnis versagt.",
+    "Die Beschäftigungsduldung nach § 60d AufenthG setzt unter anderem eine Einreise bis zum 31. Dezember 2022 voraus – für seither neu eingereiste Personen kommt dieser Weg nicht mehr in Betracht.",
+    "Was bei Geduldeten genau als 'geklärte Identität' für die 3-Monats-Ausnahme zählt, ist nicht abschließend geklärt; der Gesetzestext verlangt konkret einen anerkannten und gültigen Pass oder Passersatz."
+   ],
+   "fach_html": "<h3>Asylsuchende: einheitliche Wartefrist von drei Monaten</h3><p>Seit dem GEAS-Anpassungsgesetz (in Kraft seit 12. Juni 2026) ist Asylsuchenden die Beschäftigung drei Monate nach der Registrierung des Asylantrags zu erlauben – unabhängig davon, ob eine Wohnpflicht in einer Aufnahmeeinrichtung besteht (§ 61 Abs. 1 und 2 AsylG n. F.). Voraussetzung ist, dass das Asylverfahren noch nicht unanfechtbar abgeschlossen ist und die Bundesagentur für Arbeit zugestimmt hat oder die Beschäftigung zustimmungsfrei ist. Läuft ein Dublin-/Aufnahme- oder Wiederaufnahmeverfahren oder wurde bereits in einem anderen EU-Mitgliedstaat internationaler Schutz zuerkannt, gilt stattdessen eine Wartefrist von sechs Monaten (§ 61 Abs. 1 Satz 3 AsylG n. F.). Für Personen aus sicheren Herkunftsstaaten und im beschleunigten Verfahren wird die Erlaubnis während des gesamten Verfahrens nicht erteilt (§ 61 Abs. 2 AsylG n. F., § 61 Abs. 1 Satz 5 AsylG n. F.).</p><h3>Geduldete: Arbeitsverbote nach § 60a Abs. 6 AufenthG</h3><p>Für Geduldete soll die Beschäftigung nach sechs Monaten Duldung erlaubt werden, es sei denn, konkrete Maßnahmen zur Aufenthaltsbeendigung stehen unmittelbar bevor, etwa eine angeordnete ärztliche Untersuchung zur Reisefähigkeit oder die Buchung von Transportmitteln (§ 61 Abs. 1 Satz 6 AsylG n. F.). Die Frist verkürzt sich auf drei Monate, wenn die Voraussetzungen einer Ausbildungsduldung vorliegen oder die Identität durch einen anerkannten und gültigen Pass oder Passersatz geklärt ist (§ 61 Abs. 1 Satz 7 AsylG n. F.). Die Behörde darf die Beschäftigung nicht erlauben, wenn die Person eingereist ist, um Leistungen nach dem Asylbewerberleistungsgesetz zu erhalten, wenn sie eine Aufenthaltsbeendigung selbst zu vertreten hat – etwa durch Täuschung über Identität oder Staatsangehörigkeit –, oder wenn sie aus einem sicheren Herkunftsstaat stammt und nach dem 31. August 2015 einen abgelehnten oder zurückgenommenen Asylantrag hat (§ 60a Abs. 6 AufenthG).</p><h3>Verfahren: Zustimmung der Bundesagentur für Arbeit</h3><p>Die Ausländerbehörde erteilt die Beschäftigungserlaubnis für eine konkrete Stelle; die Zustimmung der Bundesagentur für Arbeit richtet sich nach §§ 39, 40, 41, 42 AufenthG. Zustimmungsfrei sind unter anderem Praktika, Berufsausbildungen und – nach vier Jahren (48 Monaten) ununterbrochenem erlaubtem, geduldetem oder gestattetem Aufenthalt – jede Beschäftigung (§ 32 BeschV). Eine Vorrangprüfung findet seit 2020 nicht mehr statt.</p><h3>Wege in einen gesicherten Status</h3><p>Die Ausbildungsduldung (§ 60c AufenthG) sichert den Aufenthalt für die Dauer einer qualifizierten Berufsausbildung; der Antrag ist frühestens sieben Monate vor Ausbildungsbeginn möglich. Die Beschäftigungsduldung (§ 60d AufenthG) gewährt für 30 Monate einen gesicherten Status, setzt aber unter anderem eine Einreise bis zum 31. Dezember 2022, mindestens zwölf Monate sozialversicherungspflichtige Beschäftigung mit mindestens 20 Wochenstunden und gesicherten Lebensunterhalt voraus – wegen der festen Einreisefrist kommt dieser Weg für seither eingereiste Personen nicht mehr in Betracht.</p><h3>Selbst machen oder Anwalt?</h3><p>Den Antrag auf Beschäftigungserlaubnis stellen Sie selbst bei der Ausländerbehörde; ein Vertretungszwang besteht hierfür nicht. Wird die Erlaubnis abgelehnt, ist außerhalb der Aufnahmeeinrichtung seit der Reform meist ein gebundener Anspruch betroffen (kein reines Ermessen mehr), sodass sich eine Klage vor dem Verwaltungsgericht lohnen kann – auch dort ist keine anwaltliche Vertretung nötig (§ 67 VwGO gilt erst ab dem Oberverwaltungsgericht). Kosten des Verwaltungsverfahrens trägt in der Regel die unterliegende Seite (§ 154 Abs. 1 VwGO); der Streitwert wird mangels anderer Anhaltspunkte häufig mit dem Auffangwert von 5.000 Euro angesetzt (Streitwertkatalog 2025 Nr. 8.4). Beruht die Erlaubnis auf § 61 AsylG, können Gerichtskosten nach § 83b AsylG entfallen (Einordnung in der Rechtsprechung nicht einheitlich); der Streitwert ist dann nur für Anwaltsgebühren relevant. Anwaltliche Hilfe empfiehlt sich, wenn die Zustimmung der Bundesagentur für Arbeit streitig ist oder mehrere Ablehnungsgründe zusammentreffen.</p>",
+   "zustaendig": [
+    "Ausländerbehörde (Erteilung und Versagung der Beschäftigungserlaubnis)",
+    "Bundesagentur für Arbeit (Zustimmung zur Beschäftigung)",
+    "Agentur für Arbeit / Jobcenter (Vermittlung, nicht für die Erlaubnis zuständig)",
+    "Verwaltungsgericht (bei Ablehnung oder Untätigkeit)"
+   ],
+   "belege": [
+    "§ 61 AsylG in der seit 12.06.2026 geltenden Fassung, gesetze-im-internet.de, abgerufen 24.09.2026",
+    "§ 60a, § 60c, § 60d AufenthG, gesetze-im-internet.de, abgerufen 24.09.2026",
+    "§ 39 AufenthG, gesetze-im-internet.de, abgerufen 24.09.2026",
+    "§ 32 BeschV, gesetze-im-internet.de, abgerufen 24.09.2026",
+    "GEAS-Anpassungsgesetz vom 23.04.2026, BGBl. 2026 I Nr. 111, ausgegeben 28.04.2026, abgerufen 24.09.2026"
+   ],
+   "siehe_auch": [
+    "aufenthaltstitel-verlaengerung-fiktionsbescheinigung",
+    "untaetigkeitsklage-auslaenderbehoerde",
+    "ueberblick-selbst-handeln"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "einbuergerung-antrag",
+   "kategorie": "aufenthalt-arbeit",
+   "titel": "Einbürgerung beantragen",
+   "icon": "📜",
+   "teaser": "Nach 5 Jahren rechtmäßigem Aufenthalt können Sie die deutsche Staatsangehörigkeit beantragen. Die Einbürgerung nach 3 Jahren wurde zum 30. Oktober 2025 abgeschafft.",
+   "schlagworte": [
+    "Einbürgerung",
+    "Staatsangehörigkeit",
+    "StAG",
+    "5 Jahre",
+    "Mehrstaatigkeit",
+    "B1",
+    "Einbürgerungstest",
+    "Untätigkeitsklage"
+   ],
+   "kurz_html": "<p>Nach einigen Jahren können Sie deutsche Staatsangehörige oder deutscher Staatsangehöriger werden. Das nennt man Einbürgerung.</p><p>Die Wartezeit beträgt <strong>5 Jahre</strong> rechtmäßigen gewöhnlichen Aufenthalts. Die Zeit eines früheren Asylverfahrens wird mitgerechnet, wenn Sie als Asylberechtigte oder Asylberechtigter anerkannt wurden oder internationalen Schutz (Flüchtlingseigenschaft oder subsidiären Schutz) erhalten haben – bei einem bloßen Abschiebungsverbot zählt diese Zeit nicht mit.</p><p>Eine schnellere Einbürgerung nach nur 3 Jahren gab es zwischenzeitlich; sie wurde zum 30. Oktober 2025 wieder abgeschafft. Es gilt seither nur noch die Frist von 5 Jahren.</p><p>Weitere Voraussetzungen: gesicherter Lebensunterhalt, Deutschkenntnisse in der Regel auf Niveau B1, ein bestandener Einbürgerungstest, keine einschlägigen Verurteilungen und ein Bekenntnis zur freiheitlichen demokratischen Grundordnung. Ihre bisherige Staatsangehörigkeit dürfen Sie in der Regel behalten.</p><p>Die Einbürgerung kostet 255 Euro für Erwachsene, 51 Euro für Kinder, die zusammen mit einem Elternteil eingebürgert werden. Machen Sie im Antrag keine falschen Angaben: Seit Ende Dezember 2025 führt eine festgestellte Täuschung zu einer zehnjährigen Sperre.</p>",
+   "schritte": [
+    {
+     "titel": "Wartezeit berechnen",
+     "text": "Zählen Sie ab dem Beginn Ihres rechtmäßigen gewöhnlichen Aufenthalts; die Zeit eines anerkannten Asylverfahrens zählt mit."
+    },
+    {
+     "titel": "Sprachzertifikat und Einbürgerungstest",
+     "text": "Legen Sie ein Zertifikat über Niveau B1 vor und bestehen Sie den Einbürgerungstest, meist bei der Volkshochschule."
+    },
+    {
+     "titel": "Lebensunterhalt nachweisen",
+     "text": "Sammeln Sie Arbeitsvertrag, Lohnabrechnungen und Kontoauszüge."
+    },
+    {
+     "titel": "Antrag bei der Einbürgerungsbehörde stellen",
+     "text": "Fragen Sie bei Ihrer Stadt oder Ihrem Landkreis nach der zuständigen Stelle; mancherorts läuft der Antrag online."
+    },
+    {
+     "titel": "Bearbeitungsstand nachfragen",
+     "text": "Fragen Sie nach vier bis sechs Monaten aktiv nach, wenn sich nichts tut."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "5 Jahre",
+     "was": "Rechtmäßiger gewöhnlicher Aufenthalt als Wartezeit für die Einbürgerung – seit Abschaffung der Drei-Jahres-Schiene die einzige reguläre Frist.",
+     "grundlage": "§ 10 Abs. 1 Satz 1 StAG"
+    },
+    {
+     "wert": "255 Euro / 51 Euro",
+     "was": "Gebühr für die Einbürgerung Erwachsener beziehungsweise für Kinder, die zusammen mit einem Elternteil eingebürgert werden.",
+     "grundlage": "§ 38 StAG"
+    },
+    {
+     "wert": "30. Oktober 2025",
+     "was": "Inkrafttreten der Abschaffung der Einbürgerung nach drei Jahren; seither gilt einheitlich die Fünfjahresfrist.",
+     "grundlage": "Gesetz vom 27.10.2025, BGBl. 2025 I Nr. 256"
+    },
+    {
+     "wert": "10 Jahre",
+     "was": "Sperrfrist für eine Einbürgerung, wenn arglistige Täuschung, Drohung, Bestechung oder vorsätzlich unrichtige oder unvollständige Angaben zu wesentlichen Voraussetzungen festgestellt werden.",
+     "grundlage": "§ 35a StAG (in Kraft seit 24.12.2025)"
+    }
+   ],
+   "achtung": [
+    "Die Einbürgerung nach drei Jahren gibt es nicht mehr; sie wurde zum 30. Oktober 2025 abgeschafft. Ältere Ratgeber sind an diesem Punkt überholt.",
+    "Die Zeit des Asylverfahrens zählt nur mit, wenn Sie als Asylberechtigte oder Asylberechtigter anerkannt wurden oder internationalen Schutz erhalten haben – bei einem bloßen Abschiebungsverbot nach § 60 Abs. 5 oder 7 AufenthG greift § 55 Abs. 3 AsylG nicht.",
+    "Machen Sie keine falschen oder unvollständigen Angaben: Seit dem 24. Dezember 2025 führt eine festgestellte Täuschung zu einer zehnjährigen Sperrfrist; die Feststellung ist sofort vollziehbar, Widerspruch und Klage haben keine aufschiebende Wirkung.",
+    "Mit der Einbürgerung erlischt Ihr Schutzstatus automatisch – das ist die normale gesetzliche Folge, keine Sanktion.",
+    "Bundesweite amtliche Zahlen zur Bearbeitungsdauer liegen nicht vor; regionale Schätzungen schwanken erheblich – das ist eine Lücke in den ausgewerteten Quellen."
+   ],
+   "fach_html": "<h3>Anspruchseinbürgerung nach § 10 StAG</h3><p>Voraussetzung ist ein seit fünf Jahren rechtmäßiger gewöhnlicher Aufenthalt im Inland bei geklärter Identität und Staatsangehörigkeit (§ 10 Abs. 1 Satz 1 StAG). Hinzu kommen: ein Aufenthaltstitel, der nicht ausdrücklich ausgenommen ist – ein Titel nach § 25 Abs. 1 oder 2 AufenthG (Asylberechtigung, Flüchtlingseigenschaft, subsidiärer Schutz) genügt, ein Titel wegen eines Abschiebungsverbots (§ 25 Abs. 3 bis 5 AufenthG) genügt nicht (§ 10 Abs. 1 Satz 1 Nr. 2 StAG) –, gesicherter Lebensunterhalt ohne Leistungen nach SGB II oder SGB XII (mit Ausnahmen bei Vollzeiterwerbstätigkeit), keine einschlägigen Verurteilungen, in der Regel Deutschkenntnisse auf Niveau B1 sowie der bestandene Einbürgerungstest und ein glaubhaftes Bekenntnis zur freiheitlichen demokratischen Grundordnung.</p><h3>Mehrstaatigkeit und Gebühren</h3><p>Seit dem 27. Juni 2024 ist die doppelte Staatsangehörigkeit allgemein zulässig; die bisherige Staatsangehörigkeit muss grundsätzlich nicht mehr aufgegeben werden. Die Gebühr beträgt 255 Euro für eine erwachsene Person und 51 Euro für Kinder, die zusammen mit einem Elternteil eingebürgert werden (§ 38 StAG).</p><h3>Anrechnung der Asylverfahrensdauer</h3><p>Nach § 55 Abs. 3 AsylG wird die Dauer eines Asylverfahrens auf die Einbürgerungs-Wartezeit nur angerechnet, wenn die Person als Asylberechtigte anerkannt ist oder internationalen Schutz – Flüchtlingseigenschaft oder subsidiären Schutz – erhalten hat. Bei einem bloßen nationalen Abschiebungsverbot gilt diese Anrechnung nicht.</p><h3>Neue Sperrfrist bei Täuschung</h3><p>Seit dem 24. Dezember 2025 schließt § 35a StAG die Einbürgerung für zehn Jahre aus, wenn eine frühere Einbürgerung unanfechtbar zurückgenommen wurde oder die Behörde im Verfahren arglistige Täuschung, Drohung, Bestechung oder vorsätzlich unrichtige oder unvollständige Angaben zu wesentlichen Voraussetzungen feststellt (Wortlaut nach der Berichtigung in BGBl. 2026 I Nr. 49, rückwirkend zum 24. Dezember 2025). Die Feststellung ist sofort vollziehbar.</p><h3>Bei langer Bearbeitungsdauer: Untätigkeitsklage</h3><p>Reagiert die Einbürgerungsbehörde über Monate nicht, kommt eine Untätigkeitsklage nach § 75 VwGO in Betracht (frühestens drei Monate nach Antragstellung). Details dazu, einschließlich Musteraufbau und Kosten, finden Sie auf der eigenen Seite zur Untätigkeitsklage gegen die Ausländerbehörde.</p><h3>Selbst machen oder Anwalt?</h3><p>Den Einbürgerungsantrag können Sie ohne anwaltliche Hilfe stellen; ein Vertretungszwang besteht nicht. Auch eine Untätigkeitsklage vor dem Verwaltungsgericht können Sie ohne Anwalt einreichen, da der Vertretungszwang nach § 67 VwGO erst vor Oberverwaltungsgericht und Bundesverwaltungsgericht gilt. Kosten des Verwaltungsverfahrens sind die Gebühr nach § 38 StAG; im Klageverfahren trägt die unterliegende Seite die Gerichtskosten (§ 154 Abs. 1 VwGO), der Streitwert wird für Einbürgerungsklagen nach dem Streitwertkatalog 2025 (Nr. 42.1) meist mit 10.000 Euro pro Person angesetzt, bei reiner Bescheidungsklage mindestens die Hälfte (Nr. 1.4). Anwaltliche Hilfe empfiehlt sich, wenn eine Sperrfrist nach § 35a StAG droht, Zweifel an der Bewertung von Straftaten bestehen oder mehrere Rechtsfragen zusammentreffen.</p>",
+   "zustaendig": [
+    "Einbürgerungsbehörde der Stadt oder des Landkreises",
+    "Volkshochschulen und andere Prüfungsstellen (Sprachzertifikat, Einbürgerungstest)",
+    "Verwaltungsgericht (bei Untätigkeit oder Ablehnung)"
+   ],
+   "belege": [
+    "§ 10 StAG, gesetze-im-internet.de, abgerufen 24.09.2026",
+    "§ 38 StAG, gesetze-im-internet.de, abgerufen 24.09.2026",
+    "§ 35a StAG i. d. F. der Berichtigung BGBl. 2026 I Nr. 49, gesetze-im-internet.de, abgerufen 24.09.2026",
+    "§ 55 Abs. 3 AsylG, gesetze-im-internet.de, abgerufen 24.09.2026",
+    "Gesetz vom 27.10.2025, BGBl. 2025 I Nr. 256 (Abschaffung der Drei-Jahres-Schiene), abgerufen 24.09.2026"
+   ],
+   "siehe_auch": [
+    "untaetigkeitsklage-auslaenderbehoerde",
+    "aufenthaltstitel-verlaengerung-fiktionsbescheinigung",
+    "ueberblick-selbst-handeln"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "aufenthaltstitel-verlaengerung-fiktionsbescheinigung",
+   "kategorie": "aufenthalt-arbeit",
+   "titel": "Aufenthaltstitel verlängern und Fiktionsbescheinigung",
+   "icon": "📄",
+   "teaser": "Wer die Verlängerung rechtzeitig beantragt, bleibt bis zur Entscheidung rechtmäßig im Land – fordern Sie dafür aktiv eine Fiktionsbescheinigung ein.",
+   "schlagworte": [
+    "Fortgeltungsfiktion",
+    "Fiktionsbescheinigung",
+    "Aufenthaltstitel verlängern",
+    "Niederlassungserlaubnis",
+    "§ 81 AufenthG",
+    "§ 26 AufenthG"
+   ],
+   "kurz_html": "<p>Ihr Aufenthaltstitel läuft irgendwann ab. Beantragen Sie die Verlängerung rechtzeitig, bevor er abläuft – das ist wichtig.</p><p>Stellen Sie den Antrag noch während Ihr Titel gültig ist, gilt er automatisch weiter, bis die Ausländerbehörde entschieden hat. Das nennt man Fortgeltungsfiktion.</p><p>Verlangen Sie dafür eine <strong>Fiktionsbescheinigung</strong>. Sie ist kein neuer Aufenthaltstitel, sondern der Nachweis, dass Ihr alter Titel bis zur Entscheidung weitergilt.</p><p>Haben Sie Flüchtlingsschutz oder Asylberechtigung, können Sie nach 5 Jahren (bei besonders guter Integration schon nach 3 Jahren) eine Niederlassungserlaubnis beantragen – einen unbefristeten Aufenthaltstitel. Bei subsidiärem Schutz geht das frühestens nach 5 Jahren, mit strengeren Voraussetzungen.</p><p>Bekommen Sie keinen Termin bei der Ausländerbehörde, bevor Ihr Titel abläuft? Bewahren Sie jeden Nachweis auf – Termin-Buchungsbestätigungen, E-Mails, Anrufprotokolle. Das kann später wichtig werden.</p>",
+   "schritte": [
+    {
+     "titel": "Ablaufdatum im Kalender eintragen",
+     "text": "Notieren Sie sich das Datum rechtzeitig, am besten mit Vorlauf von mehreren Wochen."
+    },
+    {
+     "titel": "Termin bei der Ausländerbehörde buchen",
+     "text": "Beantragen Sie die Verlängerung so früh wie möglich, noch während der Titel gültig ist."
+    },
+    {
+     "titel": "Fiktionsbescheinigung einfordern",
+     "text": "Verlangen Sie aktiv eine Bescheinigung über die Fortgeltung Ihres Titels."
+    },
+    {
+     "titel": "Bei Terminproblemen Nachweise sammeln",
+     "text": "Speichern Sie Buchungsbestätigungen und Kontaktversuche, falls kein Termin vor Ablauf verfügbar ist."
+    },
+    {
+     "titel": "Niederlassungserlaubnis prüfen",
+     "text": "Prüfen Sie nach den ersten Jahren, ob Sie die Voraussetzungen für einen unbefristeten Titel erfüllen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "rechtzeitig vor Ablauf",
+     "was": "Die Fortgeltungsfiktion setzt voraus, dass der Antrag noch vor Ablauf des bisherigen Titels gestellt wird; das Gesetz nennt keine feste Zahl von Tagen, verlangt aber Rechtzeitigkeit.",
+     "grundlage": "§ 81 Abs. 4 AufenthG"
+    },
+    {
+     "wert": "5 Jahre",
+     "was": "Regelweg zur Niederlassungserlaubnis für Inhaber einer Aufenthaltserlaubnis nach § 25 Abs. 1 oder 2 Satz 1 AufenthG (Asylberechtigte, Flüchtlinge, bestimmte Familienangehörige); die Asylverfahrenszeit wird angerechnet.",
+     "grundlage": "§ 26 Abs. 3 Satz 1 AufenthG n. F."
+    },
+    {
+     "wert": "3 Jahre",
+     "was": "Verkürzter Weg zur Niederlassungserlaubnis bei fortgeschrittener Integration (Lebensunterhalt weit überwiegend gesichert, Deutschkenntnisse).",
+     "grundlage": "§ 26 Abs. 3 Satz 3 AufenthG n. F."
+    },
+    {
+     "wert": "5 Jahre und 60 Monate Rentenbeiträge",
+     "was": "Frühester Antrag auf Niederlassungserlaubnis bei subsidiärem oder humanitärem Schutz; zusätzlich sind mindestens 60 Monate Beiträge zur Rentenversicherung nachzuweisen.",
+     "grundlage": "§ 26 Abs. 4 AufenthG in Verbindung mit § 9 Abs. 2 AufenthG"
+    }
+   ],
+   "achtung": [
+    "Die Fortgeltungsfiktion gilt nur bei rechtzeitiger Antragstellung, solange der bisherige Titel noch gültig ist. Nach Ablauf hilft nur noch eine Ausnahmeentscheidung der Behörde zur Vermeidung einer unbilligen Härte.",
+    "Die Fiktionsbescheinigung ist kein neuer Aufenthaltstitel. Fordern Sie sie aktiv ein und bewahren Sie sie zusammen mit dem alten Titel auf.",
+    "Bekommen Sie keinen rechtzeitigen Termin bei überlasteten Ausländerbehörden, dokumentieren Sie jeden Kontaktversuch – das kann später als Nachweis der rechtzeitigen Bemühung dienen.",
+    "Eine Mitteilung des BAMF über ein laufendes Entzugs-, Widerrufs- oder Rücknahmeverfahren sperrt die Erteilung der Niederlassungserlaubnis.",
+    "Für den verkürzten Drei-Jahres-Weg zur Niederlassungserlaubnis nennt der Gesetzestext bislang nur Widerruf und Rücknahme als Sperrgrund, nicht ausdrücklich den neuen Oberbegriff 'Entzug' – ob ein laufendes Entzugsverfahren auch hier sperrt, ist nach dem Wortlaut nicht abschließend geklärt."
+   ],
+   "fach_html": "<h3>Fortgeltungsfiktion (§ 81 Abs. 4 AufenthG)</h3><p>Beantragt eine Person rechtzeitig die Verlängerung ihres Aufenthaltstitels oder einen anderen Aufenthaltstitel, gilt der bisherige Titel vom Zeitpunkt seines Ablaufs bis zur Entscheidung der Ausländerbehörde als fortbestehend (§ 81 Abs. 4 Satz 1 AufenthG). Das ermöglicht die Fortsetzung von Arbeit, Aufenthalt und Sozialleistungsbezug während des laufenden Verfahrens. Bei einer verspäteten Antragstellung kann die Behörde die Fortgeltung zur Vermeidung einer unbilligen Härte anordnen; ein Anspruch darauf besteht aber nicht in gleicher Weise wie bei rechtzeitiger Antragstellung.</p><h3>Fiktionsbescheinigung (§ 81 Abs. 5 AufenthG)</h3><p>Der Person ist eine Bescheinigung über die Wirkung ihrer Antragstellung auszustellen (Fiktionsbescheinigung, § 81 Abs. 5 AufenthG). Nur bei künftigen Titeln zu Ausbildungs- oder Erwerbszwecken (Kapitel 2 Abschnitt 3 und 4 AufenthG) gilt die dort vorgesehene Erwerbstätigkeit schon während des Verfahrens als erlaubt und ist in die Fiktionsbescheinigung aufzunehmen (§ 81 Abs. 5a AufenthG). Für Schutzberechtigte ergibt sich die Arbeitserlaubnis aus dem fortgeltenden bisherigen Titel. Fordern Sie dieses Dokument aktiv ein, wenn die Behörde es nicht von sich aus ausstellt.</p><h3>Niederlassungserlaubnis für Schutzberechtigte (§ 26 Abs. 3 und 4 AufenthG)</h3><p>Für Asylberechtigte, anerkannte Flüchtlinge und bestimmte Familienangehörige mit einer Aufenthaltserlaubnis nach § 25 Abs. 1 oder 2 Satz 1 AufenthG ist die Niederlassungserlaubnis nach fünf Jahren möglich, wenn der Lebensunterhalt überwiegend gesichert ist und hinreichende Deutschkenntnisse sowie die weiteren allgemeinen Voraussetzungen des § 9 Abs. 2 AufenthG vorliegen (§ 26 Abs. 3 Satz 1 AufenthG n. F.); bei weit überwiegend gesichertem Lebensunterhalt und Beherrschung der deutschen Sprache verkürzt sich die Frist auf drei Jahre (§ 26 Abs. 3 Satz 3 AufenthG n. F.). Subsidiär und humanitär Schutzberechtigte haben keinen privilegierten Zugang: Für sie gilt § 26 Abs. 4 AufenthG in Verbindung mit § 9 AufenthG, das heißt frühestens nach fünf Jahren, mit vollständig gesichertem Lebensunterhalt, ausreichendem Wohnraum und mindestens 60 Monaten Rentenversicherungsbeiträgen. In beiden Fällen wird die Dauer des Asylverfahrens angerechnet. Die Erteilung ist gesperrt, solange das BAMF der Ausländerbehörde eine Mitteilung über ein laufendes Entzugs-, Widerrufs- oder Rücknahmeverfahren gemacht hat (§ 73b Abs. 3 AsylG n. F.).</p><h3>Terminprobleme und Nachweis der Antragstellung</h3><p>Überlastete Ausländerbehörden, ausgebuchte Online-Terminsysteme und technische Ausfälle können dazu führen, dass ein Termin erst nach Ablauf des Titels verfügbar ist. Bewahren Sie deshalb jeden Nachweis eines rechtzeitigen Kontaktversuchs auf – Buchungsbestätigungen, E-Mails, Anrufprotokolle – und legen Sie ihn bei einer möglichen Härtefallprüfung nach § 81 Abs. 4 Satz 3 AufenthG vor.</p><h3>Selbst machen oder Anwalt?</h3><p>Verlängerungsantrag, Einforderung der Fiktionsbescheinigung und Antrag auf Niederlassungserlaubnis können Sie selbst bei der Ausländerbehörde stellen; ein Vertretungszwang besteht nicht. Wird ein Antrag abgelehnt oder bleibt die Behörde untätig, ist eine Klage vor dem Verwaltungsgericht ohne Anwalt möglich (§ 67 VwGO gilt erst ab dem Oberverwaltungsgericht). Kosten trägt im Klageverfahren die unterliegende Seite (§ 154 Abs. 1 VwGO), der Streitwert liegt bei befristeten Titeln meist beim Auffangwert von 5.000 Euro (Streitwertkatalog 2025 Nr. 8.1.2), bei der Niederlassungserlaubnis beim Eineinhalbfachen, also 7.500 Euro (Nr. 8.1.1). Anwaltliche Hilfe ist ratsam, wenn eine Sperrwirkung durch ein BAMF-Verfahren im Raum steht oder die Auslegung von 'überwiegend gesichertem Lebensunterhalt' streitig ist.</p>",
+   "zustaendig": [
+    "Ausländerbehörde am Wohnort",
+    "BAMF (Mitteilung über laufendes Entzugs-, Widerrufs- oder Rücknahmeverfahren)",
+    "Deutsche Rentenversicherung (Auskunft über Beitragszeiten bei subsidiärem Schutz)",
+    "Verwaltungsgericht (bei Ablehnung oder Untätigkeit)"
+   ],
+   "belege": [
+    "§ 81 AufenthG, gesetze-im-internet.de, abgerufen 24.09.2026",
+    "§ 26 AufenthG, gesetze-im-internet.de, abgerufen 24.09.2026",
+    "§ 9 AufenthG, gesetze-im-internet.de, abgerufen 24.09.2026",
+    "§ 73b AsylG, gesetze-im-internet.de, abgerufen 24.09.2026",
+    "GEAS-Anpassungsgesetz vom 23.04.2026, BGBl. 2026 I Nr. 111, ausgegeben 28.04.2026, abgerufen 24.09.2026"
+   ],
+   "siehe_auch": [
+    "wohnsitzauflage-umverteilung",
+    "einbuergerung-antrag",
+    "untaetigkeitsklage-auslaenderbehoerde"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "wohnsitzauflage-umverteilung",
+   "kategorie": "aufenthalt-arbeit",
+   "titel": "Wohnsitzauflage, Residenzpflicht und Umverteilung",
+   "icon": "📍",
+   "teaser": "Drei verschiedene Regeln bestimmen, wo Sie wohnen oder sich aufhalten dürfen – und wie Sie eine Aufhebung oder Umverteilung selbst beantragen.",
+   "schlagworte": [
+    "Wohnsitzauflage",
+    "§ 12a AufenthG",
+    "Umverteilung",
+    "Residenzpflicht",
+    "Wohnsitzregelung",
+    "Duldung"
+   ],
+   "kurz_html": "<p>Es gibt drei unterschiedliche Regeln, die oft verwechselt werden: die räumliche Beschränkung ('Residenzpflicht') am Anfang des Asylverfahrens, die Wohnsitzauflage während des Verfahrens und die Wohnsitzregelung nach der Anerkennung.</p><p><strong>Räumliche Beschränkung:</strong> Sie dürfen den Bezirk Ihrer Ausländerbehörde nicht ohne Erlaubnis verlassen. Diese Beschränkung endet in der Regel nach 3 Monaten, bleibt aber bestehen, solange Sie in der Erstaufnahme wohnen müssen.</p><p><strong>Wohnsitzregelung nach Anerkennung:</strong> Sind Sie als Flüchtling oder subsidiär schutzberechtigt anerkannt, dürfen Sie zwar überall in Deutschland hinreisen, müssen aber meist für bis zu <strong>3 Jahre</strong> in dem Bundesland wohnen, in dem Ihr Asylverfahren lief (§ 12a AufenthG).</p><p>Die Auflage entfällt zum Beispiel, wenn Sie an einem anderen Ort mindestens 15 Stunden pro Woche sozialversicherungspflichtig arbeiten und dabei mindestens so viel verdienen wie der monatliche Bedarf nach dem Bürgergeld beziehungsweise Grundsicherungsgeld, wenn Sie dort eine Ausbildung oder ein Studium aufnehmen, wenn dort Ihre Familie lebt, oder aus anderen Härtegründen.</p><p>Auch Geduldete können eine Wohnsitzauflage haben. Und wer noch im Asylverfahren ist, kann bei zwingenden Gründen einen Antrag auf länderübergreifende Umverteilung stellen – etwa wegen einer Erkrankung, die die Nähe zu einer bestimmten Klinik erfordert.</p>",
+   "schritte": [
+    {
+     "titel": "Klären, welche Regel für Sie gilt",
+     "text": "Fragen Sie bei der Ausländerbehörde, ob für Sie noch die räumliche Beschränkung, eine Wohnsitzauflage im Verfahren oder die Wohnsitzregelung nach § 12a AufenthG gilt."
+    },
+    {
+     "titel": "Ausnahme- oder Aufhebungsgrund prüfen",
+     "text": "Arbeit ab 15 Wochenstunden mit ausreichendem Einkommen, Ausbildung, Studium, Familie oder Härtefall können die Auflage entfallen lassen."
+    },
+    {
+     "titel": "Nachweise sammeln",
+     "text": "Arbeitsvertrag mit Stundenzahl und Einkommen, Ausbildungs- oder Studienplatzzusage, Heiratsurkunde, Geburtsurkunden."
+    },
+    {
+     "titel": "Antrag schriftlich stellen",
+     "text": "Stellen Sie den Antrag auf Aufhebung, Änderung oder länderübergreifende Umverteilung schriftlich bei der zuständigen Stelle."
+    },
+    {
+     "titel": "Nicht eigenmächtig umziehen",
+     "text": "Ein Umzug ohne Aufhebung der Auflage kann zum Verlust der Sozialleistungen am neuen Ort führen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "höchstens 3 Jahre",
+     "was": "Verpflichtung, nach der Anerkennung im Bundesland (in mehreren Ländern zusätzlich an einem zugewiesenen Wohnort) zu wohnen.",
+     "grundlage": "§ 12a Abs. 1 bis 3 AufenthG"
+    },
+    {
+     "wert": "mindestens 15 Stunden wöchentlich",
+     "was": "Sozialversicherungspflichtige Beschäftigung mit Einkommen mindestens in Höhe des monatlichen durchschnittlichen Bedarfs nach SGB II, ab der die Wohnsitzverpflichtung entfällt.",
+     "grundlage": "§ 12a Abs. 1 Satz 2 AufenthG"
+    },
+    {
+     "wert": "3 Monate",
+     "was": "Erlöschen der räumlichen Beschränkung ('Residenzpflicht') im frühen Asylverfahren, sofern keine Wohnpflicht in der Aufnahmeeinrichtung mehr besteht.",
+     "grundlage": "§ 59a Abs. 1 AsylG"
+    },
+    {
+     "wert": "6 Monate, verlängerbar um weitere 6 Monate",
+     "was": "Zeitraum, in dem Personen ohne angemessenen Wohnraum nach der Anerkennung einem bestimmten Ort zugewiesen werden können.",
+     "grundlage": "§ 12a Abs. 2 AufenthG"
+    }
+   ],
+   "achtung": [
+    "Die Wohnsitzregelung beschränkt nicht die Bewegungsfreiheit: Reisen innerhalb Deutschlands sind für Anerkannte jederzeit ohne Erlaubnis möglich. Beschränkt ist nur der Wohnsitz.",
+    "Solange eine Wohnsitzverpflichtung besteht, werden Sozialleistungen nur in der jeweiligen Kommune gewährt; ein eigenmächtiger Umzug kann den Leistungsbezug gefährden.",
+    "Ein Antrag auf länderübergreifende Umverteilung während des Asylverfahrens hat nur bei zwingenden Gründen Erfolg – bloße Vorlieben genügen nicht.",
+    "Die bundesweite Erstverteilung nach dem EASY-System ist kein individuell anfechtbarer Verwaltungsakt; die landesinterne Zuweisung an eine Kommune ergeht dagegen schriftlich mit Rechtsbehelfsbelehrung.",
+    "Seit dem 12. Juni 2026 verweist § 12a Abs. 1 AufenthG für den erfassten Personenkreis auf den internationalen Schutz nach der Verordnung (EU) 2024/1347; ob nach Art. 16a GG Asylberechtigte weiterhin ausdrücklich erfasst sind, ist nach den ausgewerteten Quellen nicht eindeutig geklärt."
+   ],
+   "fach_html": "<h3>Wohnsitzregelung nach § 12a AufenthG</h3><p>Wer internationalen Schutz erhalten hat oder erstmals eine Aufenthaltserlaubnis nach §§ 22, 23, 24 Abs. 1 oder 25 Abs. 3 AufenthG (zum Beispiel wegen eines Abschiebungsverbots) bekommen hat, muss für höchstens drei Jahre ihren Wohnsitz in dem Bundesland nehmen, in dem das Asylverfahren durchgeführt wurde (§ 12a Abs. 1 AufenthG); in mehreren Ländern kann zusätzlich ein bestimmter Wohnort zugewiesen werden (§ 12a Abs. 2 und 3 AufenthG); ob ein Land davon Gebrauch macht, richtet sich nach Landesrecht. Die Verpflichtung entfällt bereits kraft Gesetzes, wenn die Person an einem anderen Ort mindestens 15 Stunden wöchentlich sozialversicherungspflichtig beschäftigt ist und ein Einkommen mindestens in Höhe des monatlichen durchschnittlichen Bedarfs nach dem Zweiten Buch Sozialgesetzbuch erzielt, bei Berufsausbildung oder Studium, oder wenn ein am Wohnort nicht verfügbarer Integrations- oder Berufssprachkurs den Umzug erfordert (§ 12a Abs. 1 Satz 2 AufenthG). Nach § 12a Abs. 5 AufenthG kann die Auflage zudem aufgehoben werden bei sozialversicherungspflichtiger Beschäftigung oder überwiegend gesichertem Einkommen, bei Verfügbarkeit von Integrations- oder Weiterbildungsangeboten, bei familiärer Zusammenführung oder zur Vermeidung eines Härtefalls.</p><h3>Wohnsitzauflage bei Duldung</h3><p>Wer vollziehbar ausreisepflichtig ist und den Lebensunterhalt nicht gesichert hat, ist kraft Gesetzes verpflichtet, an einem bestimmten Ort seinen gewöhnlichen Aufenthalt zu nehmen (Wohnsitzauflage, § 61 Abs. 1d AufenthG). Maßgeblich ist in der Regel der Wohnort zum Zeitpunkt der Duldungsentscheidung; die Ausländerbehörde kann die Auflage von Amts wegen oder auf Antrag ändern und muss dabei die Haushaltsgemeinschaft von Familienangehörigen oder sonstige humanitäre Gründe berücksichtigen. Der festgelegte Ort darf ohne Erlaubnis vorübergehend verlassen werden.</p><h3>Umverteilung und länderübergreifende Verteilung im Asylverfahren</h3><p>Die Erstverteilung erfolgt zunächst auf ein Bundesland (EASY-Verfahren, § 46 AsylG) und dort auf eine Kommune (§ 50 AsylG). Ist eine Person nicht mehr zum Wohnen in einer Aufnahmeeinrichtung verpflichtet, ist der Haushaltsgemeinschaft von Familienangehörigen im Sinne des § 26 Abs. 1 bis 3 AsylG oder sonstigen humanitären Gründen von vergleichbarem Gewicht auch durch länderübergreifende Verteilung Rechnung zu tragen (§ 51 Abs. 1 AsylG). Die Verteilung erfolgt auf Antrag; über den Antrag entscheidet die zuständige Behörde des Landes, für das der weitere Aufenthalt beantragt wird (§ 51 Abs. 2 AsylG).</p><h3>Residenzpflicht (§ 56 AsylG)</h3><p>Die Aufenthaltsgestattung ist zunächst räumlich auf den Bezirk der zuständigen Ausländerbehörde beschränkt (§ 56 Abs. 1 AsylG). Diese Beschränkung erlischt grundsätzlich, wenn sich die Person seit drei Monaten ununterbrochen erlaubt, geduldet oder gestattet im Bundesgebiet aufhält; sie bleibt aber bestehen, solange die Wohnpflicht in der Aufnahmeeinrichtung fortdauert (§ 59a Abs. 1 AsylG).</p><h3>Selbst machen oder Anwalt?</h3><p>Anträge auf Aufhebung oder Änderung einer Wohnsitzauflage sowie auf länderübergreifende Umverteilung stellen Sie selbst schriftlich bei der zuständigen Stelle; ein Vertretungszwang besteht nicht. Wird ein Antrag abgelehnt, ist eine Klage vor dem Verwaltungsgericht ohne Anwalt möglich (§ 67 VwGO gilt erst ab dem Oberverwaltungsgericht). Klagen zur Umverteilung oder räumlichen Beschränkung nach dem AsylG sind gerichtskostenfrei (§ 83b AsylG); für eine Wohnsitzauflage zum Aufenthaltstitel trägt die unterliegende Seite die Kosten (§ 154 Abs. 1 VwGO), der Streitwertkatalog 2025 (Nr. 8.3) empfiehlt den halben Wert des Titels, meist 2.500 Euro. Anwaltliche Hilfe ist sinnvoll, wenn Härtegründe schwer zu belegen sind oder Sozialleistungen wegen eines eigenmächtigen Umzugs bereits eingestellt wurden.</p>",
+   "zustaendig": [
+    "Ausländerbehörde (Wohnsitzauflage, Aufhebung, Änderung)",
+    "Landesaufnahmebehörde, Regierungspräsidium oder Zentrale Ausländerbehörde (Zuweisung und Umverteilungsanträge, je nach Bundesland)",
+    "Jobcenter oder Sozialamt (Leistungen, gebunden an die Wohnsitzkommune)",
+    "Verwaltungsgericht (bei Ablehnung)"
+   ],
+   "belege": [
+    "§ 12a AufenthG, gesetze-im-internet.de, abgerufen 24.09.2026",
+    "§ 61 AufenthG, gesetze-im-internet.de, abgerufen 24.09.2026",
+    "§§ 50, 51 AsylG, gesetze-im-internet.de, abgerufen 24.09.2026",
+    "§ 56, § 59a AsylG, gesetze-im-internet.de, abgerufen 24.09.2026"
+   ],
+   "siehe_auch": [
+    "ueberblick-selbst-handeln",
+    "aufenthaltstitel-verlaengerung-fiktionsbescheinigung",
+    "untaetigkeitsklage-auslaenderbehoerde"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "familiennachzug-antrag",
+   "kategorie": "familie-abschluesse",
+   "titel": "Familiennachzug beantragen",
+   "icon": "👨‍👩‍👧",
+   "teaser": "Anerkannte Flüchtlinge können Ehepartner und Kinder nachholen – mit wichtiger 3-Monats-Frist. Für subsidiär Schutzberechtigte ist der Nachzug bis 23. Juli 2027 ausgesetzt.",
+   "schlagworte": [
+    "Familiennachzug",
+    "Familienzusammenführung",
+    "fristwahrende Anzeige",
+    "subsidiärer Schutz",
+    "Visum",
+    "Elternnachzug",
+    "Härtefall",
+    "Auslandsvertretung"
+   ],
+   "kurz_html": "<p>Sie sind als Flüchtling oder Asylberechtigter anerkannt? Dann können Ihr Ehepartner und Ihre minderjährigen, ledigen Kinder zu Ihnen kommen. Auch Ihre Eltern können kommen, wenn Sie selbst minderjährig sind und kein sorgeberechtigter Elternteil in Deutschland ist.</p><p><strong>Wichtig ist die Frist von drei Monaten.</strong> Sie beginnt, wenn Ihre Anerkennung nicht mehr angefochten werden kann. Wenn Sie in dieser Zeit den Nachzug anzeigen, müssen Sie später meistens kein eigenes Einkommen und keinen ausreichenden Wohnraum nachweisen.</p><p>Die Familie beantragt ein Visum bei der deutschen Botschaft oder dem Konsulat. Viele Visa kann man online über das Auslandsportal beantragen. Ein Termin vor Ort bleibt nötig.</p><p><strong>Subsidiärer Schutz:</strong> Der Nachzug ist bis zum 23. Juli 2027 ausgesetzt. Nur in Härtefällen gibt es Ausnahmen.</p><p>Diese Seite informiert allgemein. Sie ersetzt keine Rechtsberatung.</p>",
+   "schritte": [
+    {
+     "titel": "Datum der Anerkennung klären",
+     "text": "Ab wann ist Ihr Bescheid unanfechtbar? Ab dann laufen drei Monate. Notieren Sie das Datum."
+    },
+    {
+     "titel": "Fristwahrende Anzeige machen",
+     "text": "Innerhalb der drei Monate den Nachzug anzeigen, z. B. über das Webportal des Auswärtigen Amts zum Familiennachzug. Ausdruck und Bestätigung aufheben."
+    },
+    {
+     "titel": "Visum beantragen",
+     "text": "Die Familie stellt den Visumantrag bei der zuständigen deutschen Auslandsvertretung, wo möglich online über das Auslandsportal."
+    },
+    {
+     "titel": "Unterlagen sammeln",
+     "text": "Pässe, Heirats- und Geburtsurkunden, Ihren Anerkennungsbescheid und Ihren Aufenthaltstitel. Welche Unterlagen genau nötig sind, sagt die jeweilige Auslandsvertretung."
+    },
+    {
+     "titel": "Bei langem Warten reagieren",
+     "text": "Wird über den Antrag lange nicht entschieden, ist eine Untätigkeitsklage beim Verwaltungsgericht Berlin möglich (siehe eigene Seite)."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "3 Monate",
+     "was": "Antrag bzw. fristwahrende Anzeige nach unanfechtbarer Anerkennung; dann wird auf Lebensunterhalt und Wohnraum verzichtet (weitere Voraussetzungen).",
+     "grundlage": "§ 29 Abs. 2 Satz 2 Nr. 1, Satz 3 AufenthG"
+    },
+    {
+     "wert": "bis 23.07.2027",
+     "was": "Familiennachzug zu subsidiär Schutzberechtigten nach § 36a wird nicht gewährt; §§ 22, 23 bleiben unberührt.",
+     "grundlage": "§ 104 Abs. 14 AufenthG"
+    },
+    {
+     "wert": "1.000 Visa pro Monat",
+     "was": "Kontingent für den Nachzug zu subsidiär Schutzberechtigten (derzeit wegen Aussetzung ohne Wirkung).",
+     "grundlage": "§ 36a Abs. 2 Satz 3 AufenthG"
+    },
+    {
+     "wert": "1 Monat",
+     "was": "Klagefrist gegen eine Visumablehnung (ab Bekanntgabe), laut Auswärtigem Amt „typischerweise“; maßgeblich ist die Rechtsbehelfsbelehrung.",
+     "grundlage": "§ 74 VwGO"
+    }
+   ],
+   "achtung": [
+    "Die Frist von drei Monaten ist kurz. Wird sie verpasst, gelten meist die strengeren allgemeinen Voraussetzungen (Lebensunterhalt, Wohnraum).",
+    "Die Frist wird auch gewahrt, wenn die Person in Deutschland den Antrag rechtzeitig stellt (§ 29 Abs. 2 Satz 3 AufenthG).",
+    "Die Privilegierung gilt nicht, wenn die Familie in einem Nicht-EU-Staat zusammenleben kann, zu dem eine besondere Bindung besteht (§ 29 Abs. 2 Satz 2 Nr. 2 AufenthG).",
+    "Seit 1. Juli 2025 gibt es gegen abgelehnte Visa keine Remonstration mehr. Es bleibt die Klage beim Verwaltungsgericht Berlin oder ein neuer Antrag.",
+    "Härtefallanzeigen für Angehörige subsidiär Schutzberechtigter laufen nach Angaben des Auswärtigen Amts über die IOM; das ist kein Rechtsanspruch."
+   ],
+   "fach_html": "<h3>Privilegierter Nachzug zu Asylberechtigten und Flüchtlingen</h3><p>Nach § 29 Abs. 2 Satz 1 AufenthG kann beim Ehegatten und minderjährigen ledigen Kind von Schutzberechtigten von der Sicherung des Lebensunterhalts (§ 5 Abs. 1 Nr. 1) und ausreichendem Wohnraum (§ 29 Abs. 1 Nr. 2) abgesehen werden. Nach Satz 2 ist davon abzusehen, wenn der Antrag „innerhalb von drei Monaten nach unanfechtbarer Anerkennung als Asylberechtigter oder unanfechtbarer Zuerkennung der Flüchtlingseigenschaft […]“ gestellt wird (der Wortlaut nennt auch den subsidiären Schutz und § 23 Abs. 4; für subsidiär Schutzberechtigte läuft die Frist wegen § 104 Abs. 14 AufenthG derzeit ins Leere) und die Lebensgemeinschaft nicht in einem Nicht-EU-Staat mit besonderer Bindung möglich ist. Satz 3: Die Frist „wird auch durch die rechtzeitige Antragstellung des Ausländers gewahrt“. Das Auswärtige Amt verweist für Verfahren, fristwahrende Anzeige und Formulare auf sein Webportal zum Familiennachzug (fap.diplo.de).</p><h3>Eltern minderjähriger Schutzberechtigter</h3><p>§ 36 Abs. 1 AufenthG: Den Eltern eines minderjährigen Schutzberechtigten „ist abweichend von § 5 Absatz 1 Nummer 1 und § 29 Absatz 1 Satz 1 Nummer 2 eine Aufenthaltserlaubnis zu erteilen, wenn sich kein personensorgeberechtigter Elternteil im Bundesgebiet aufhält“. Maßgeblich ist die Minderjährigkeit des Kindes; wie sich ein Volljährigwerden während des Verfahrens auswirkt, ist hier nicht dargestellt.</p><h3>Subsidiär Schutzberechtigte: Aussetzung bis 23. Juli 2027</h3><p>§ 36a AufenthG erlaubt den Nachzug von Ehegatten, minderjährigen ledigen Kindern und Eltern Minderjähriger nur „aus humanitären Gründen“; ein Anspruch besteht nicht, monatlich können 1.000 Visa erteilt werden. Das Gesetz zur Aussetzung des Familiennachzugs zu subsidiär Schutzberechtigten vom 17.07.2025 (BGBl. 2025 I Nr. 173, verkündet am 23.07.2025) ist nach Angaben des Auswärtigen Amts am 24. Juli 2025 in Kraft getreten. § 104 Abs. 14 AufenthG: „Bis zum Ablauf des 23. Juli 2027 wird ein Familiennachzug nach § 36a […] nicht gewährt. Die §§ 22 und 23 bleiben unberührt.“ Härtefälle (§ 22 AufenthG, völkerrechtliche oder dringende humanitäre Gründe) können laut Auswärtigem Amt seit dem 26.07.2025 angezeigt werden. Ob die Aussetzung verlängert wird, ist offen.</p><h3>Visumverfahren</h3><p>Das Visum wird bei der zuständigen Auslandsvertretung beantragt. Über das Auslandsportal des Auswärtigen Amts sind laut Auswärtigem Amt (Stand 15.06.2026) Visumanträge „für 28 verschiedene Aufenthaltszwecke im Bereich von Langzeitvisa“ online möglich, darunter Familienzusammenführung; nicht jede Antragsart ist an jeder Vertretung verfügbar. Beim Vor-Ort-Termin werden Originale geprüft, biometrische Daten erfasst und die Gebühr gezahlt. Das Remonstrationsverfahren wurde „zum 1. Juli 2025 weltweit“ abgeschafft; gegen Ablehnungen bleibt die Klage beim VG Berlin, die Klagefrist beträgt laut Auswärtigem Amt „typischerweise einen (1) Monat ab Bekanntgabe“. Wartezeiten auf Termine sind je Vertretung sehr unterschiedlich; belastbare aktuelle Zahlen liegen hier nicht vor.</p><h3>Selbst machen oder Anwalt?</h3><p>Anzeige und Visumantrag stellen Sie selbst, ohne Anwalt. Eine Klage beim Verwaltungsgericht Berlin können Sie ebenfalls selbst führen (§ 67 Abs. 1 VwGO); Vertretungszwang besteht erst vor OVG und BVerwG (§ 67 Abs. 4 VwGO). Visagebühren zahlt die antragstellende Person; ein Gerichtsverfahren kostet Gerichtsgebühren nach dem GKG (siehe Seite zur Visum-Untätigkeitsklage). Anwaltliche Hilfe oder eine Beratungsstelle ist ratsam bei knapper oder verpasster Drei-Monats-Frist, bei Härtefällen, bei Zweifeln an Urkunden oder Identität und bei einer Ablehnung.</p>",
+   "zustaendig": [
+    "Deutsche Auslandsvertretung (Botschaft/Generalkonsulat) im Herkunfts- oder Aufenthaltsstaat",
+    "Ausländerbehörde am Wohnort der Person in Deutschland",
+    "Auswärtiges Amt (Webportal Familiennachzug, Auslandsportal)",
+    "Verwaltungsgericht Berlin (Klagen in Visumsachen)"
+   ],
+   "belege": [
+    "Gesetze im Internet, §§ 29, 36, 36a AufenthG, abgerufen 24.09.2026",
+    "Gesetze im Internet, § 104 Abs. 14 AufenthG; recht.bund.de, BGBl. 2025 I Nr. 173, abgerufen 24.09.2026",
+    "Auswärtiges Amt, Wichtige Information: Aussetzung des Familiennachzugs zu subsidiär Schutzberechtigten, abgerufen 24.09.2026",
+    "Auswärtiges Amt, Familiennachzug zum Schutzberechtigten (FAQ) und Auslandsportal (Stand 15.06.2026), abgerufen 24.09.2026",
+    "Auswärtiges Amt (Deutsche Vertretungen in Italien), Abschaffung des Remonstrationsverfahrens zum 1. Juli 2025, abgerufen 24.09.2026"
+   ],
+   "siehe_auch": [
+    "visum-untaetigkeitsklage",
+    "beratung-anlaufstellen",
+    "prozesskostenhilfe-beratungshilfe"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "anerkennung-abschluesse",
+   "kategorie": "familie-abschluesse",
+   "titel": "Ausländische Abschlüsse anerkennen lassen",
+   "icon": "🎓",
+   "teaser": "Berufsabschluss oder Studium aus dem Ausland? Die zuständige Stelle muss in der Regel innerhalb von drei Monaten über die Gleichwertigkeit entscheiden. Für Kosten gibt es Zuschüsse.",
+   "schlagworte": [
+    "Anerkennung",
+    "BQFG",
+    "Gleichwertigkeit",
+    "Zeugnisbewertung",
+    "ZAB",
+    "Anerkennungszuschuss",
+    "reglementierter Beruf",
+    "Qualifikationsanalyse"
+   ],
+   "kurz_html": "<p>Sie haben im Ausland einen Beruf gelernt oder studiert? Dann können Sie prüfen lassen, ob Ihr Abschluss einem deutschen Abschluss entspricht. Das heißt <strong>Anerkennung</strong>.</p><p>Bei manchen Berufen brauchen Sie die Anerkennung, um überhaupt arbeiten zu dürfen, zum Beispiel in Gesundheitsberufen. Diese Berufe heißen <strong>reglementiert</strong>. Bei anderen Berufen ist sie freiwillig, hilft aber bei der Jobsuche.</p><p>Sie können den Antrag auch aus dem Ausland stellen. Die Stelle muss den Eingang innerhalb eines Monats bestätigen. Wenn alle Unterlagen da sind, muss sie in der Regel innerhalb von drei Monaten entscheiden.</p><p>Das Verfahren kostet Gebühren. Mit geringem Einkommen können Sie vorher einen Zuschuss beantragen.</p><p>Die Hotline „Arbeiten und Leben in Deutschland“ hilft: +49 30 1815-1111.</p>",
+   "schritte": [
+    {
+     "titel": "Zuständige Stelle finden",
+     "text": "Welche Stelle zuständig ist, hängt vom Beruf und oft vom Bundesland ab. Das Portal „Anerkennung in Deutschland“ und die Hotline helfen dabei."
+    },
+    {
+     "titel": "Zuschuss zuerst beantragen",
+     "text": "Wer den Anerkennungszuschuss möchte, muss ihn vor dem Anerkennungsantrag beantragen. Kosten werden nicht rückwirkend übernommen."
+    },
+    {
+     "titel": "Unterlagen vorbereiten",
+     "text": "Lebenslauf in Tabellenform auf Deutsch, Identitätsnachweis, Zeugnisse, Nachweise über Berufserfahrung, Übersetzungen durch vereidigte Übersetzer."
+    },
+    {
+     "titel": "Antrag stellen und Frist beobachten",
+     "text": "Eingangsbestätigung abwarten (1 Monat). Ab vollständigen Unterlagen läuft die 3-Monats-Frist."
+    },
+    {
+     "titel": "Fehlen Unterlagen: Qualifikationsanalyse",
+     "text": "Wenn Sie Zeugnisse unverschuldet nicht vorlegen können, kann die Stelle Ihre Fähigkeiten anders prüfen, etwa mit Arbeitsproben oder Fachgesprächen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "1 Monat",
+     "was": "Eingangsbestätigung durch die zuständige Stelle, mit Hinweis auf fehlende Unterlagen.",
+     "grundlage": "§ 6 Abs. 2 BQFG (reglementierte Berufe: § 13 Abs. 2 BQFG)"
+    },
+    {
+     "wert": "3 Monate",
+     "was": "Entscheidung über die Gleichwertigkeit ab Eingang der vollständigen Unterlagen; einmal angemessen verlängerbar.",
+     "grundlage": "§ 6 Abs. 3 BQFG (reglementierte Berufe: § 13 Abs. 3 BQFG)"
+    },
+    {
+     "wert": "bis 600 €",
+     "was": "Anerkennungszuschuss für Verfahrenskosten, Übersetzungen u. a. (Qualifizierung bis 3.000 €); Aufnahmeanträge letztmalig am 30.06.2027.",
+     "grundlage": "Förderrichtlinie Anerkennungszuschuss, fortgesetzt ab 01.01.2025"
+    },
+    {
+     "wert": "208 €",
+     "was": "Gebühr der ZAB für eine Zeugnisbewertung ausländischer Hochschulqualifikationen; Zahlungsfrist regulär 3 Wochen.",
+     "grundlage": "Gebührenangabe der ZAB (Gebührenverordnung zuletzt Juni 2024 angepasst)"
+    }
+   ],
+   "achtung": [
+    "Die 3-Monats-Frist beginnt erst, wenn alle Unterlagen vollständig vorliegen (§ 6 Abs. 3 Satz 2 BQFG).",
+    "Wer außerhalb von EU, EWR und Schweiz wohnt, muss durch Unterlagen darlegen, in Deutschland arbeiten zu wollen (§ 5 Abs. 6, § 12 Abs. 6 BQFG).",
+    "Das BQFG gilt für bundesrechtlich geregelte Berufe. Für Landesberufe gelten die Anerkennungsgesetze der Länder.",
+    "Den Anerkennungszuschuss nur beantragen, bevor Sie den Anerkennungsantrag stellen – sonst keine Förderung.",
+    "Die ZAB-Zeugnisbewertung ist keine Anerkennung für reglementierte Berufe."
+   ],
+   "fach_html": "<h3>Anspruch und Verfahren nach dem BQFG</h3><p>§ 6 Abs. 1 BQFG: „Antragsberechtigt ist jede Person, die im Ausland einen Ausbildungsnachweis im Sinne des § 3 Absatz 2 erworben hat.“ Ein Wohnsitz in Deutschland ist nicht vorausgesetzt; Antragstellende müssen aber „durch geeignete Unterlagen darlegen, im Inland eine Erwerbstätigkeit ausüben zu wollen“ (§ 5 Abs. 6, § 12 Abs. 6 BQFG). Für Wohnsitz oder Staatsangehörigkeit in EU, EWR oder Schweiz ist diese Darlegung nach § 12 Abs. 6 entbehrlich, „sofern keine besonderen Gründe gegen eine entsprechende Absicht sprechen“.</p><h3>Fristen</h3><p>Die Stelle bestätigt „innerhalb eines Monats den Eingang des Antrags“ und teilt fehlende Unterlagen mit (§ 6 Abs. 2 BQFG). Nach § 6 Abs. 3 BQFG muss sie „innerhalb von drei Monaten über die Gleichwertigkeit entscheiden. Die Frist beginnt mit Eingang der vollständigen Unterlagen. Sie kann einmal angemessen verlängert werden“; die Verlängerung ist zu begründen und rechtzeitig mitzuteilen. Für reglementierte Berufe gilt nach § 13 Abs. 3 BQFG dieselbe Drei-Monats-Frist. Die Frist ist gehemmt bei Nachforderungen nach § 5 Abs. 4 und 5 und während eines Verfahrens nach § 14 (§ 6 Abs. 4). Bleibt die Stelle untätig, kommt eine Untätigkeitsklage nach § 75 VwGO in Betracht.</p><h3>Qualifikationsanalyse (§ 14 BQFG)</h3><p>Können Nachweise „aus nicht selbst zu vertretenden Gründen nicht oder nur teilweise“ vorgelegt werden, stellt die Stelle die Fähigkeiten „durch sonstige geeignete Verfahren“ fest, „insbesondere Arbeitsproben, Fachgespräche, praktische und theoretische Prüfungen sowie Gutachten von Sachverständigen“. Das ist für Geflüchtete ohne vollständige Unterlagen zentral.</p><h3>Zeugnisbewertung und Kosten</h3><p>Für ausländische Hochschulabschlüsse in nicht reglementierten Berufen stellt die Zentralstelle für ausländisches Bildungswesen (ZAB) bei der Kultusministerkonferenz Zeugnisbewertungen aus: „Die Zeugnisbewertung kostet 208 Euro“, Zahlungsfrist „regulär 3 Wochen“. Die Gebühren der übrigen Anerkennungsstellen legt jede Stelle nach eigenem Gebührenrecht fest; eine belegte bundesweite Spanne liegt hier nicht vor. Der Anerkennungszuschuss erstattet laut Portal „Anerkennung in Deutschland“ Kosten von 100 bis höchstens 600 Euro (Qualifizierungsmaßnahmen bis 3.000 Euro je Person). Einkommensgrenzen: 32.000 Euro brutto für Alleinstehende, 50.000 Euro für Verheiratete bzw. Lebenspartnerschaften. Voraussetzung sind gewöhnlicher Aufenthalt in Deutschland seit mindestens drei Monaten und Antrag vor dem Anerkennungsantrag. Nicht gefördert werden u. a. Sprachkurse und Kosten, die Arbeitsagentur oder Jobcenter übernehmen. Anträge auf Aufnahme in die Förderung sind laut IQ Brandenburg „letztmalig am 30. Juni 2027“ möglich, Auszahlungsanträge bis 30. September 2028.</p><h3>Beratung</h3><p>Die Hotline „Arbeiten und Leben in Deutschland“ (BAMF und Bundesagentur für Arbeit) ist unter +49 30 1815-1111 erreichbar (Mo–Do 9–16 Uhr, Fr 9–12 Uhr). Das Förderprogramm „Integration durch Qualifizierung (IQ)“ (BMAS, ESF Plus) bietet Anerkennungs- und Qualifizierungsberatung über regionale Stellen an.</p><h3>Selbst machen oder Anwalt?</h3><p>Den Anerkennungsantrag stellen Sie selbst; ein Anwalt ist nicht nötig. Die Gebühren tragen Sie, soweit kein Zuschuss, Jobcenter oder Arbeitsagentur sie übernimmt. Gegen einen ablehnenden Bescheid oder bei Untätigkeit ist der Verwaltungsrechtsweg eröffnet; vor dem Verwaltungsgericht besteht kein Anwaltszwang (§ 67 Abs. 1 VwGO). Anwaltliche Hilfe ist sinnvoll bei Ablehnung in einem reglementierten Beruf (z. B. Approbation) oder wenn Ausgleichsmaßnahmen strittig sind.</p>",
+   "zustaendig": [
+    "Zuständige Anerkennungsstelle je nach Beruf und Land (z. B. Kammern, Landesbehörden)",
+    "ZAB bei der Kultusministerkonferenz (Zeugnisbewertung Hochschulabschlüsse)",
+    "Hotline „Arbeiten und Leben in Deutschland“ (BAMF/BA)",
+    "Beratungsstellen des Förderprogramms IQ"
+   ],
+   "belege": [
+    "Gesetze im Internet, §§ 5, 6, 12, 13, 14 BQFG, abgerufen 24.09.2026",
+    "ZAB/Kultusministerkonferenz, Gebühren der Zeugnisbewertung, abgerufen 24.09.2026",
+    "Anerkennung in Deutschland (BMBFSFJ), Recognition grant / Anerkennungszuschuss, abgerufen 24.09.2026",
+    "IQ Brandenburg, Anerkennungszuschuss bis 2027 verlängert (14.01.2025), abgerufen 24.09.2026",
+    "BAMF, Hotline Arbeiten und Leben in Deutschland, abgerufen 24.09.2026"
+   ],
+   "siehe_auch": [
+    "arbeitserlaubnis-beschaeftigungserlaubnis",
+    "untaetigkeitsklage-auslaenderbehoerde",
+    "beratung-anlaufstellen"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "untaetigkeitsklage-auslaenderbehoerde",
+   "kategorie": "behoerde-untaetig",
+   "titel": "Untätigkeitsklage gegen Ausländer- oder Einbürgerungsbehörde",
+   "icon": "⏳",
+   "teaser": "Keine Entscheidung über Ihren Aufenthaltstitel oder Ihre Einbürgerung? Nach drei Monaten können Sie beim Verwaltungsgericht klagen – auch ohne Anwalt.",
+   "schlagworte": [
+    "Untätigkeitsklage",
+    "§ 75 VwGO",
+    "Ausländerbehörde",
+    "Einbürgerung",
+    "Niederlassungserlaubnis",
+    "Verwaltungsgericht",
+    "Rechtsantragstelle",
+    "Gerichtskosten"
+   ],
+   "kurz_html": "<p>Sie haben einen Antrag gestellt, zum Beispiel auf Verlängerung, Niederlassungserlaubnis oder Einbürgerung. Die Behörde entscheidet aber nicht.</p><p>Dann können Sie eine <strong>Untätigkeitsklage</strong> beim Verwaltungsgericht erheben. Das geht frühestens <strong>drei Monate</strong> nach Ihrem Antrag. Voraussetzung: Die Behörde hat keinen guten Grund für die Verzögerung.</p><p>Sie brauchen dafür keinen Anwalt. Sie können die Klage schriftlich schicken oder beim Gericht aufschreiben lassen (Rechtsantragstelle).</p><p>Die Klage kostet Gerichtsgebühren. Entscheidet die Behörde nach der Klage und durften Sie mit einer früheren Entscheidung rechnen, trägt die Behörde die Kosten.</p><p>Diese Seite informiert allgemein. Sie ersetzt keine Rechtsberatung.</p>",
+   "schritte": [
+    {
+     "titel": "Antrag belegen",
+     "text": "Kopie des Antrags, Eingangsbestätigung oder Nachweis der Online-Antragstellung sichern. Das Datum ist wichtig."
+    },
+    {
+     "titel": "Erinnern und Frist setzen",
+     "text": "Schriftlich nach dem Stand fragen und eine Frist nennen, zum Beispiel zwei Wochen. Kopie aufheben."
+    },
+    {
+     "titel": "Drei Monate abwarten",
+     "text": "Frühestens drei Monate nach dem Antrag ist die Klage zulässig, außer bei besonderen Umständen."
+    },
+    {
+     "titel": "Klage erheben",
+     "text": "Beim Verwaltungsgericht, in dessen Bezirk die zuständige Behörde ihren Sitz hat (meist das Gericht Ihres Wohnorts; im Zweifel dort nachfragen): schriftlich, elektronisch über ein sicheres Postfach oder zu Protokoll bei der Rechtsantragstelle. Keine einfache E-Mail."
+    },
+    {
+     "titel": "Nach der Entscheidung reagieren",
+     "text": "Entscheidet die Behörde, das Verfahren für erledigt erklären. Wird abgelehnt, zeitnah Rat einholen, wie die Klage weitergeführt wird."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "3 Monate",
+     "was": "Frühester Zeitpunkt der Untätigkeitsklage seit Antragstellung (früher nur bei besonderen Umständen).",
+     "grundlage": "§ 75 Satz 2 VwGO"
+    },
+    {
+     "wert": "5.000 €",
+     "was": "Auffangstreitwert; laut Streitwertkatalog 2025 für befristete Aufenthaltstitel pro Person, das Eineinhalbfache für unbefristete, das Doppelte für Einbürgerung.",
+     "grundlage": "§ 52 Abs. 2 GKG; Streitwertkatalog 2025 Nr. 8.1, 42.1"
+    },
+    {
+     "wert": "3,0 Gebühren",
+     "was": "Gerichtsgebühr für das Verfahren; bei 5.000 € Streitwert 3 × 170,50 € = 511,50 €, fällig mit Einreichung der Klage.",
+     "grundlage": "KV GKG Nr. 5110, Anlage 2 GKG, § 6 Abs. 1 Nr. 5 GKG"
+    },
+    {
+     "wert": "1,0 Gebühr",
+     "was": "Ermäßigung u. a. bei Klagerücknahme oder Erledigungserklärungen ohne streitige Kostenentscheidung; bei 5.000 € Streitwert 170,50 €.",
+     "grundlage": "KV GKG Nr. 5111"
+    }
+   ],
+   "achtung": [
+    "Drei Monate sind die Untergrenze, kein Automatismus: Hat die Behörde einen zureichenden Grund, setzt das Gericht aus und gibt ihr eine Frist (§ 75 Satz 3 VwGO).",
+    "Die Kostenregel zugunsten der Kläger (§ 161 Abs. 3 VwGO) greift nur, wenn Sie mit einer Entscheidung vor der Klage rechnen durften – vollständige Unterlagen und Mitwirkung sind wichtig.",
+    "Klage per einfacher E-Mail ist nicht wirksam.",
+    "Klagegegner ist grundsätzlich der Rechtsträger der Behörde (Land, Kommune); in manchen Ländern die Behörde selbst (§ 78 VwGO).",
+    "Bei drohendem Verlust des Aufenthaltsrechts ist nicht die Untätigkeitsklage, sondern Eilrechtsschutz das richtige Mittel – dann schnell Rat holen."
+   ],
+   "fach_html": "<h3>Voraussetzungen (§ 75 VwGO)</h3><p>Ist über einen Antrag auf Vornahme eines Verwaltungsakts „ohne zureichenden Grund in angemessener Frist sachlich nicht entschieden“ worden, ist die Klage ohne Vorverfahren zulässig. Sie kann „nicht vor Ablauf von drei Monaten seit […] dem Antrag auf Vornahme des Verwaltungsakts erhoben werden, außer wenn wegen besonderer Umstände des Falles eine kürzere Frist geboten ist“. Liegt ein zureichender Grund vor, setzt das Gericht das Verfahren bis zum Ablauf einer von ihm bestimmten Frist aus; wird dem Antrag innerhalb dieser Frist entsprochen, ist die Hauptsache für erledigt zu erklären. Ob etwa Personalmangel oder Antragsstau ein zureichender Grund ist, beurteilen die Gerichte im Einzelfall; eine allgemeine Regel ist hier nicht belegt. Typische Fälle: Verlängerung oder Erteilung einer Aufenthaltserlaubnis, Niederlassungserlaubnis, Einbürgerung, Beschäftigungserlaubnis.</p><h3>Form und Inhalt der Klage</h3><p>Die Klage ist „schriftlich zu erheben“; beim Verwaltungsgericht „auch zu Protokoll des Urkundsbeamten der Geschäftsstelle“ (§ 81 Abs. 1 VwGO), also bei der Rechtsantragstelle. Sie „muß den Kläger, den Beklagten und den Gegenstand des Klagebegehrens bezeichnen“ (§ 82 Abs. 1 VwGO) und soll einen bestimmten Antrag enthalten. Üblicher Aufbau: Adressat (Verwaltungsgericht), Kläger mit Anschrift, Beklagter (nach § 78 Abs. 1 Nr. 1 VwGO der Bund, das Land oder die Körperschaft, deren Behörde den Verwaltungsakt unterlassen hat; nach Landesrecht ggf. die Behörde selbst), Antrag (die Behörde zu verpflichten, den beantragten Titel zu erteilen, hilfsweise über den Antrag zu entscheiden), Sachverhalt mit Datum des Antrags und aller Erinnerungen, Anlagen (Antrag, Eingangsbestätigung, Schriftwechsel). Eine einfache E-Mail genügt nicht; elektronisch nur über die zugelassenen sicheren Übermittlungswege.</p><h3>Erledigung und Kosten</h3><p>Entscheidet die Behörde während des Verfahrens positiv, erklären die Beteiligten den Rechtsstreit für erledigt; das Gericht entscheidet dann nach billigem Ermessen über die Kosten (§ 161 Abs. 2 VwGO). Nach § 161 Abs. 3 VwGO fallen „in den Fällen des § 75 […] die Kosten stets dem Beklagten zur Last, wenn der Kläger mit seiner Bescheidung vor Klageerhebung rechnen durfte“. Streitwert: Fehlen Anhaltspunkte, „ist ein Streitwert von 5 000 Euro anzunehmen“ (§ 52 Abs. 2 GKG). Der Streitwertkatalog 2025 (Empfehlung, Fassung 21.02.2025) nennt für befristete Aufenthaltstitel den Auffangwert pro Person (Nr. 8.1.2), für unbefristete den eineinhalbfachen (Nr. 8.1.1), für Einbürgerung den doppelten Auffangwert pro Person (Nr. 42.1); wird nur Bescheidung beantragt, mindestens die Hälfte (Nr. 1.4). Gerichtsgebühr: 3,0 nach KV GKG Nr. 5110; Ermäßigung auf 1,0 nach Nr. 5111 u. a. bei Klagerücknahme oder bei Erledigungserklärungen nach § 161 Abs. 2 VwGO, wenn keine Kostenentscheidung ergeht oder sie einer mitgeteilten Einigung bzw. Kostenübernahmeerklärung folgt. Eine Gebühr beträgt nach Anlage 2 GKG bei Streitwert bis 5.000 € 170,50 €, bis 8.000 € 238,00 €, bis 10.000 € 283,00 €. Daraus ergeben sich rechnerisch 511,50 € (Aufenthaltserlaubnis), 714,00 € (Niederlassungserlaubnis, 7.500 €) und 849,00 € (Einbürgerung, 10.000 €) bei voller Gebühr; der Streitwert wird aber vom Gericht festgesetzt.</p><h3>Selbst machen oder Anwalt?</h3><p>Vor dem Verwaltungsgericht können Sie „den Rechtsstreit selbst führen“ (§ 67 Abs. 1 VwGO); Anwaltszwang gilt erst vor OVG und BVerwG (§ 67 Abs. 4). Kosten: Gerichtsgebühren wie oben, die bei Erfolg oder nach § 161 Abs. 3 VwGO die Behörde trägt; eigene Anwaltskosten richten sich nach dem RVG (Beträge hier nicht belegt). Prozesskostenhilfe ist möglich (siehe eigene Seite). Anwaltliche Hilfe ist ratsam, wenn die Behörde während des Verfahrens ablehnt, wenn die Aufenthaltserlaubnis abläuft oder bei Einbürgerungen mit Sicherheits- oder Identitätsfragen.</p>",
+   "zustaendig": [
+    "Verwaltungsgericht am Wohnort bzw. Sitz der Behörde (Rechtsantragstelle)",
+    "Ausländerbehörde oder Einbürgerungsbehörde (Erinnerung, Sachstandsanfrage)",
+    "Rechtsanwältin/Rechtsanwalt für Migrationsrecht",
+    "Beratungsstellen, Beratungshilfe beim Amtsgericht"
+   ],
+   "belege": [
+    "Gesetze im Internet, §§ 67, 75, 78, 81, 82, 161 VwGO, abgerufen 24.09.2026",
+    "Gesetze im Internet, § 52 und § 6 GKG, Anlage 1 (KV Nr. 5110, 5111) und Anlage 2 GKG (BGBl. 2025 I Nr. 109), abgerufen 24.09.2026",
+    "Bundesverwaltungsgericht, Streitwertkatalog 2025 (Fassung 21.02.2025), abgerufen 24.09.2026",
+    "Verwaltungsgericht Berlin, Merkblatt Visa-Verfahren (Rechtsantragstelle, kein Anwaltszwang, keine Klage per E-Mail), abgerufen 24.09.2026"
+   ],
+   "siehe_auch": [
+    "aufenthaltstitel-verlaengerung-fiktionsbescheinigung",
+    "einbuergerung-antrag",
+    "prozesskostenhilfe-beratungshilfe"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "visum-untaetigkeitsklage",
+   "kategorie": "behoerde-untaetig",
+   "titel": "Visum: Untätigkeitsklage beim Verwaltungsgericht Berlin",
+   "icon": "✈️",
+   "teaser": "Die Botschaft entscheidet nicht über Ihren Visumantrag? Klagen gegen die Bundesrepublik in Visumsachen gehen immer an das Verwaltungsgericht Berlin.",
+   "schlagworte": [
+    "Visum",
+    "Untätigkeitsklage",
+    "Verwaltungsgericht Berlin",
+    "Auswärtiges Amt",
+    "Botschaft",
+    "Terminvergabe",
+    "Remonstration",
+    "Familiennachzug"
+   ],
+   "kurz_html": "<p>Sie oder Ihre Familie haben ein Visum beantragt, zum Beispiel für den Familiennachzug oder für Arbeit. Die deutsche Botschaft entscheidet aber lange nicht.</p><p>Dann ist eine <strong>Untätigkeitsklage</strong> möglich. Sie geht immer an das <strong>Verwaltungsgericht Berlin</strong>, egal wo die Botschaft ist. Sie richtet sich gegen die Bundesrepublik Deutschland.</p><p>Die Klage ist in der Regel frühestens drei Monate nach dem Antrag möglich. Wichtig: Es muss schon einen Antrag geben. Wer nur auf einen Termin wartet, hat es vor Gericht schwerer.</p><p>Das Verfahren ist auf Deutsch. Einen Anwalt brauchen Sie nicht, aber es kostet Gerichtsgebühren.</p><p>Wird das Visum abgelehnt, gibt es seit Juli 2025 keine Remonstration mehr. Dann bleibt nur die Klage (meist 1 Monat Frist) oder ein neuer Antrag.</p>",
+   "schritte": [
+    {
+     "titel": "Antrag nachweisen",
+     "text": "Bestätigung der Antragstellung sichern, zum Beispiel aus dem Auslandsportal oder vom Termin. Datum notieren."
+    },
+    {
+     "titel": "Nachfragen",
+     "text": "Schriftlich bei der Auslandsvertretung nach dem Stand fragen und eine Frist setzen. Antworten aufheben."
+    },
+    {
+     "titel": "Klage vorbereiten",
+     "text": "Kläger mit Anschrift, Beklagte: Bundesrepublik Deutschland (Auswärtiges Amt), Antrag, kurzer Sachverhalt, Kopien von Antrag und Schriftwechsel."
+    },
+    {
+     "titel": "Klage einreichen",
+     "text": "Beim Verwaltungsgericht Berlin, Kirchstraße 7, 10557 Berlin: schriftlich, über sicheren elektronischen Weg (nicht per E-Mail) oder bei der Rechtsantragstelle (laut VG Berlin nur nach telefonischer Terminvereinbarung)."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "3 Monate",
+     "was": "Frühester Zeitpunkt der Untätigkeitsklage nach Antragstellung, außer bei besonderen Umständen.",
+     "grundlage": "§ 75 VwGO"
+    },
+    {
+     "wert": "1 Monat",
+     "was": "Klagefrist gegen eine Visumablehnung ab Bekanntgabe („typischerweise“ laut Auswärtigem Amt; maßgeblich ist die Rechtsbehelfsbelehrung).",
+     "grundlage": "§ 74 VwGO"
+    },
+    {
+     "wert": "01.07.2025",
+     "was": "Remonstrationsverfahren gegen Visumablehnungen weltweit abgeschafft (für ab diesem Tag ausgestellte Bescheide).",
+     "grundlage": "Auswärtiges Amt"
+    },
+    {
+     "wert": "511,50 €",
+     "was": "Rechnerische Gerichtsgebühr (3,0 × 170,50 €) bei einem Streitwert von 5.000 €; Ermäßigung auf 1,0 u. a. bei Rücknahme.",
+     "grundlage": "KV GKG Nr. 5110/5111, Anlage 2 GKG, § 52 Abs. 2 GKG"
+    }
+   ],
+   "achtung": [
+    "Zuständig ist immer das VG Berlin (§ 52 Nr. 2 Satz 5 VwGO), nicht das Gericht am Wohnort der Familie in Deutschland.",
+    "Wartezeiten auf einen Vorsprachetermin haben Gerichte teils als zumutbar angesehen, weil die persönliche Vorsprache der Identitätsklärung dient.",
+    "Das Gericht erteilt kein Visum selbst und gibt keine Rechtsberatung; die Rechtsantragstelle nimmt nur Klagen und Eilanträge auf.",
+    "Das Verfahren ist gerichtskostenpflichtig; bei Bedürftigkeit Prozesskostenhilfe beantragen.",
+    "Beim Nachzug zu subsidiär Schutzberechtigten ist der Nachzug bis 23.07.2027 ausgesetzt – eine Klage ändert daran nichts, außer im Härtefall."
+   ],
+   "fach_html": "<h3>Zuständigkeit und Beklagte</h3><p>§ 52 Nr. 2 Satz 5 VwGO: „Für Klagen gegen den Bund auf Gebieten, die in die Zuständigkeit der diplomatischen und konsularischen Auslandsvertretungen der Bundesrepublik Deutschland fallen, auf dem Gebiet der Visumangelegenheiten auch, wenn diese in die Zuständigkeit des Bundesamts für Auswärtige Angelegenheiten fallen, ist das Verwaltungsgericht örtlich zuständig, in dessen Bezirk die Bundesregierung ihren Sitz hat.“ Das ist das Verwaltungsgericht Berlin (Kirchstraße 7, 10557 Berlin). Die Klage richtet sich nach § 78 Abs. 1 Nr. 1 VwGO gegen den Bund, also die Bundesrepublik Deutschland, für die das Auswärtige Amt handelt. Hinweis: In älteren Darstellungen wird die Norm mit anderer Satznummer zitiert; in der aktuellen Fassung ist es Satz 5.</p><h3>Untätigkeitsklage und „Terminklage“</h3><p>§ 75 VwGO setzt einen gestellten Antrag voraus, über den „ohne zureichenden Grund in angemessener Frist sachlich nicht entschieden“ wurde; die Klage ist frühestens nach drei Monaten zulässig. Laut Informationsverbund Asyl &amp; Migration hat die Rechtsprechung bei Klagen auf Terminvergabe „die Notwendigkeit der persönlichen Vorsprache aus Gründen der Identitätsklärung als ‚zureichenden Grund‘“ anerkannt und etwa „zweijährige Wartezeiten auf einen Vorsprachetermin“ für zumutbar befunden. Seit Einführung des Auslandsportals können viele Langzeitvisa online beantragt werden; ob und ab wann ein Online-Antrag die Frist des § 75 VwGO auslöst, ist hier nicht durch Rechtsprechung belegt. Belastbare amtliche Zahlen zur Verfahrensdauer in Visumverfahren oder beim VG Berlin liegen hier nicht vor; das Gericht selbst sagt: „Die Verfahrensdauer kann nicht vorhergesagt werden“.</p><h3>Ablehnung statt Untätigkeit</h3><p>Das Remonstrationsverfahren wurde „zum 1. Juli 2025 weltweit“ abgeschafft; es betrifft Schengen- und nationale Visa mit Ablehnung ab 01.07.2025. Möglich sind ein neuer, kostenpflichtiger Antrag oder die Klage beim VG Berlin; „Die Frist zur Klageerhebung beträgt typischerweise einen (1) Monat ab Bekanntgabe“ (§ 74 VwGO). Entscheidet die Auslandsvertretung während einer Untätigkeitsklage ablehnend, stellt sich die Frage, wie die Klage fortgeführt wird; dazu ist Rat einzuholen.</p><h3>Was das Gericht erreichen kann</h3><p>Das Gericht kann den Bund verpflichten, das Visum zu erteilen oder über den Antrag zu entscheiden; hat die Behörde einen zureichenden Grund, setzt es aus und setzt eine Frist (§ 75 Satz 3 VwGO). Wie oft Klagen zu einer schnelleren Entscheidung führen, ist amtlich nicht belegt. Kosten: Auffangstreitwert 5.000 € (§ 52 Abs. 2 GKG; Streitwertkatalog 2025 Nr. 8.1.2 für befristete Aufenthaltstitel, pro Person), Gerichtsgebühr 3,0 (KV Nr. 5110), bei 5.000 € rechnerisch 511,50 €; Ermäßigung auf 1,0 (170,50 €) nach KV Nr. 5111. Durfte der Kläger vor Klageerhebung mit einer Entscheidung rechnen, trägt der Bund die Kosten (§ 161 Abs. 3 VwGO).</p><h3>Selbst machen oder Anwalt?</h3><p>Laut VG Berlin „herrscht kein Anwaltszwang“ (§ 67 Abs. 1 VwGO). Die Klageschrift muss die Parteien mit vollständiger Anschrift nennen, den Klagegrund angeben und begründet sein; eine Einreichung per E-Mail „ist nicht möglich“, elektronisch nur über EGVP bzw. sichere Übermittlungswege. Das Verfahren ist auf Deutsch zu führen. Gerichtskosten trägt zunächst die klagende Seite; bei Bedürftigkeit ist Prozesskostenhilfe möglich. Anwaltliche Hilfe ist ratsam bei Ablehnung, bei Identitäts- oder Urkundenfragen, bei Härtefällen im Familiennachzug und wenn Angehörige im Ausland keinen Zugang zu deutschsprachigen Schriftsätzen haben.</p>",
+   "zustaendig": [
+    "Verwaltungsgericht Berlin, Kirchstraße 7, 10557 Berlin (Rechtsantragstelle)",
+    "Deutsche Auslandsvertretung, bei der der Antrag gestellt wurde",
+    "Auswärtiges Amt / Bundesamt für Auswärtige Angelegenheiten",
+    "Rechtsanwältin/Rechtsanwalt für Migrationsrecht, Beratungsstellen"
+   ],
+   "belege": [
+    "Gesetze im Internet, §§ 52, 67, 74, 75, 78, 161 VwGO, abgerufen 24.09.2026",
+    "Verwaltungsgericht Berlin, Visaverfahren und Merkblatt Visa-Verfahren, abgerufen 24.09.2026",
+    "Auswärtiges Amt (Deutsche Vertretungen in Italien), Abschaffung des Remonstrationsverfahrens zum 1. Juli 2025, abgerufen 24.09.2026",
+    "Informationsverbund Asyl & Migration, familie.asyl.net: Interventionsmöglichkeiten & Rechtsmittel, abgerufen 24.09.2026",
+    "Gesetze im Internet, GKG § 52, Anlage 1 (KV 5110/5111), Anlage 2; BVerwG Streitwertkatalog 2025, abgerufen 24.09.2026"
+   ],
+   "siehe_auch": [
+    "familiennachzug-antrag",
+    "untaetigkeitsklage-auslaenderbehoerde",
+    "prozesskostenhilfe-beratungshilfe"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "bamf-verfahrensdauer-untaetigkeit",
+   "kategorie": "behoerde-untaetig",
+   "titel": "Asylverfahren dauert lange: Nachfragen und Untätigkeitsklage gegen das BAMF",
+   "icon": "📂",
+   "teaser": "Das BAMF entscheidet nicht über Ihren Asylantrag? Sie können nachfragen und nach drei Monaten eine Untätigkeitsklage erheben. Gerichtskosten fallen dafür nicht an.",
+   "schlagworte": [
+    "BAMF",
+    "Asylverfahren",
+    "Verfahrensdauer",
+    "Untätigkeitsklage",
+    "§ 83b AsylG",
+    "Asylverfahrensverordnung",
+    "GEAS",
+    "Anhörung"
+   ],
+   "kurz_html": "<p>Sie warten schon lange auf eine Entscheidung über Ihren Asylantrag? Dann können Sie beim Bundesamt für Migration und Flüchtlinge (BAMF) schriftlich nachfragen.</p><p>Für Asylanträge ab dem 12. Juni 2026 gilt das neue europäische Asylrecht (GEAS). Danach soll das BAMF in der Regel innerhalb von <strong>sechs Monaten</strong> entscheiden. Die Frist kann verlängert werden. Ältere Anträge bearbeitet das BAMF nach den alten Vorschriften weiter.</p><p>Wenn nichts passiert, ist eine <strong>Untätigkeitsklage</strong> beim Verwaltungsgericht möglich, frühestens drei Monate nach dem Antrag. Das Gericht verpflichtet das BAMF meist nur, zu entscheiden. Es entscheidet nicht selbst über Ihren Schutz.</p><p><strong>Gerichtskosten gibt es in Asylsachen nicht.</strong> Einen Anwalt brauchen Sie nicht, er kann aber helfen.</p><p>Diese Seite informiert allgemein. Sie ersetzt keine Rechtsberatung.</p>",
+   "schritte": [
+    {
+     "titel": "Daten sammeln",
+     "text": "Datum der Asylantragstellung, Aktenzeichen, Datum der Anhörung (falls es eine gab) notieren."
+    },
+    {
+     "titel": "Beim BAMF nachfragen",
+     "text": "Schriftlich nach dem Stand fragen und um Mitteilung bitten, wann entschieden wird. Kopie aufheben."
+    },
+    {
+     "titel": "Beratung holen",
+     "text": "Mit einer Asylverfahrensberatung besprechen, ob eine Klage sinnvoll ist. Eine schnelle Ablehnung kann auch ein Nachteil sein."
+    },
+    {
+     "titel": "Klage erheben",
+     "text": "Beim Verwaltungsgericht, das für Ihren zugewiesenen Wohnort zuständig ist: schriftlich oder bei der Rechtsantragstelle."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "6 Monate",
+     "was": "Regelfrist für den Abschluss der Prüfung ab Einreichung des Antrags; Verlängerung um höchstens sechs weitere Monate möglich.",
+     "grundlage": "Art. 35 Abs. 4 und 5 VO (EU) 2024/1348"
+    },
+    {
+     "wert": "3 Monate",
+     "was": "Frühester Zeitpunkt der Untätigkeitsklage nach Antragstellung (außer bei besonderen Umständen).",
+     "grundlage": "§ 75 VwGO"
+    },
+    {
+     "wert": "0 € Gerichtskosten",
+     "was": "In Streitigkeiten nach dem Asylgesetz werden Gerichtskosten (Gebühren und Auslagen) nicht erhoben.",
+     "grundlage": "§ 83b AsylG"
+    },
+    {
+     "wert": "11,9 Monate",
+     "was": "Durchschnittliche Verfahrensdauer der Erst- und Folgeanträge 2026 (bis August) bei Antragstellung vor dem 12. Juni 2026 laut BAMF.",
+     "grundlage": "BAMF, Asylzahlen August 2026 (Meldung vom 16.09.2026)"
+    }
+   ],
+   "achtung": [
+    "Für Asylanträge ab dem 12.06.2026 ist § 24 AsylG weggefallen. Wurde der Antrag vor dem 12.06.2026 förmlich gestellt, bearbeitet das BAMF ihn nach den alten Verfahrensvorschriften; dann gilt auch der Mitteilungsanspruch nach sechs Monaten (§ 24 Abs. 4 AsylG alte Fassung) weiter.",
+    "Die Klage führt meist nur zur Pflicht des BAMF, zu entscheiden – nicht automatisch zu Schutz.",
+    "Eine beschleunigte Entscheidung kann auch eine Ablehnung sein; dann laufen kurze Klagefristen (1 bzw. 2 Wochen, § 74 AsylG).",
+    "Laut BAMF gelten für Anträge, die vor dem 12.06.2026 gestellt wurden, weiter die alten Verfahrensvorschriften; die Fristen des Art. 35 der Verordnung (EU) 2024/1348 betreffen Anträge ab dem 12.06.2026.",
+    "Keine Gerichtskosten heißt nicht kostenlos: Eigene Anwaltskosten können anfallen."
+   ],
+   "fach_html": "<h3>Rechtslage seit GEAS (12.06.2026)</h3><p>§ 24 AsylG ist durch das GEAS-Anpassungsgesetz vom 23.04.2026 (BGBl. 2026 I Nr. 111) mit Wirkung zum 12.06.2026 weggefallen; damit auch der frühere Mitteilungsanspruch nach Abs. 4. Für Anträge, die vor dem 12.06.2026 förmlich gestellt wurden, wendet das BAMF nach eigener Auskunft weiter die alten Verfahrensvorschriften an (§§ 24, 25 AsylG alte Fassung). Für Anträge ab dem 12.06.2026 ist maßgeblich Art. 35 der Asylverfahrensverordnung (EU) 2024/1348: Die Asylbehörde stellt sicher, dass das Verfahren „so schnell wie möglich, spätestens jedoch innerhalb von sechs Monaten nach dem Zeitpunkt der Einreichung des Antrags abgeschlossen wird“ (Abs. 4). Sie kann diese Frist „um höchstens sechs weitere Monate verlängern“, etwa bei unverhältnismäßig vielen gleichzeitigen Anträgen oder komplexen Sach- und Rechtsfragen (Abs. 5). Beschleunigte Verfahren sind „spätestens jedoch innerhalb von drei Monaten“ abzuschließen (Abs. 3). Bei vorübergehend ungewisser Lage im Herkunftsland kann der Abschluss aufgeschoben werden; die Antragsteller sind über die Gründe zu unterrichten, das Verfahren ist „in jedem Fall innerhalb von 21 Monaten nach der Einreichung des Antrags“ abzuschließen (Abs. 7). Die Absatznummern konnten nicht am Amtsblatt-Text geprüft werden (EUR-Lex bei Abruf nicht erreichbar); die Fristen selbst sind durch Sekundärquellen bestätigt. Ob Gerichte diese Fristen als Maßstab für die „angemessene Frist“ in § 75 VwGO heranziehen, ist noch nicht durch Rechtsprechung belegt.</p><h3>Untätigkeitsklage gegen das BAMF</h3><p>Die Klage richtet sich gegen die Bundesrepublik Deutschland (BAMF) und ist nach § 75 VwGO frühestens drei Monate nach Antragstellung zulässig. Örtlich zuständig ist in Asylstreitigkeiten grundsätzlich das Verwaltungsgericht, „in dessen Bezirk der Ausländer nach dem Asylgesetz seinen Aufenthalt zu nehmen hat“ (§ 52 Nr. 2 Satz 3 VwGO). Das BVerwG (Urteil vom 11.07.2018, 1 C 18.17) bejaht ein Rechtsschutzbedürfnis für eine Klage „mit dem Ziel, das Bundesamt für Migration und Flüchtlinge zur Bescheidung seines Antrages zu verpflichten“, jedenfalls wenn noch keine Anhörung stattgefunden hat; offen blieb, ob auch direkt auf Schutzgewährung geklagt werden kann. Praktisch erreicht die Klage daher meist eine Entscheidungspflicht.</p><h3>Kosten</h3><p>§ 83b AsylG: „Gerichtskosten (Gebühren und Auslagen) werden in Streitigkeiten nach diesem Gesetz nicht erhoben.“ Für Anwaltsgebühren beträgt der Gegenstandswert nach § 30 Abs. 1 RVG „in Klageverfahren nach dem Asylgesetz […] 5 000 Euro“. Durfte der Kläger vor Klageerhebung mit einer Entscheidung rechnen, trägt der Bund die außergerichtlichen Kosten (§ 161 Abs. 3 VwGO).</p><h3>Verfahrensdauer laut BAMF</h3><p>Laut BAMF (Asylzahlen August 2026, Meldung vom 16.09.2026) betrug die Verfahrensdauer der Erst- und Folgeanträge 2026 für Verfahren mit Antragstellung vor dem 12. Juni 2026 im Durchschnitt 11,9 Monate. Für Anträge ab dem 12. Juni 2026 liegen noch keine verlässlichen Angaben vor. Ende August 2026 waren 54.917 Verfahren anhängig.</p><h3>Sonderfall Zuständigkeitsverfahren</h3><p>Ist ein anderer EU-Staat zuständig, gelten seit 12.06.2026 statt der Dublin-III-Verordnung die Regeln der Verordnung (EU) 2024/1351 mit eigenen Fristen; diese sind hier nicht dargestellt.</p><h3>Selbst machen oder Anwalt?</h3><p>Vor dem Verwaltungsgericht besteht kein Anwaltszwang (§ 67 Abs. 1 VwGO); die Klage kann schriftlich oder zu Protokoll der Rechtsantragstelle erhoben werden (§ 81 Abs. 1 VwGO). Gerichtskosten fallen nicht an (§ 83b AsylG); eigene Anwaltskosten trägt, wer unterliegt oder wem sie auferlegt werden. Anwaltliche Hilfe oder Asylverfahrensberatung ist wichtig, weil eine erzwungene schnelle Entscheidung negativ ausfallen kann und dann sehr kurze Klagefristen gelten, sowie bei Dublin- bzw. Zuständigkeitsfällen.</p>",
+   "zustaendig": [
+    "Bundesamt für Migration und Flüchtlinge (Außenstelle, die das Verfahren führt)",
+    "Verwaltungsgericht am zugewiesenen Aufenthaltsort",
+    "Asylverfahrensberatung, Rechtsanwältin/Rechtsanwalt für Asylrecht"
+   ],
+   "belege": [
+    "Gesetze im Internet, § 83b AsylG und § 24 AsylG (weggefallen); dejure.org zu § 24 AsylG (GEAS-Anpassungsgesetz, BGBl. 2026 I Nr. 111), abgerufen 24.09.2026",
+    "Verordnung (EU) 2024/1348, Art. 35 (Textausgabe HRRF, Stand 1. März 2026), abgerufen 24.09.2026",
+    "Gesetze im Internet, §§ 52, 67, 75, 81, 161 VwGO und § 30 RVG, abgerufen 24.09.2026",
+    "BVerwG, Urteil vom 11.07.2018 – 1 C 18.17 (Leitsätze), abgerufen 24.09.2026",
+    "BAMF, Asylzahlen August 2026 (Meldung vom 16.09.2026) und BAMF, Altverfahren (Anträge vor dem 12.06.2026), abgerufen 24.09.2026"
+   ],
+   "siehe_auch": [
+    "akteneinsicht-auslaenderakte",
+    "beratung-anlaufstellen",
+    "ueberblick-selbst-handeln"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "azr-auskunft",
+   "kategorie": "akten-daten",
+   "titel": "Auskunft aus dem Ausländerzentralregister (AZR)",
+   "icon": "📇",
+   "teaser": "Sie können kostenlos erfahren, welche Daten das Ausländerzentralregister über Sie gespeichert hat – und falsche Angaben berichtigen lassen.",
+   "schlagworte": [
+    "AZR",
+    "Ausländerzentralregister",
+    "Selbstauskunft",
+    "Bundesverwaltungsamt",
+    "§ 34 AZRG",
+    "Berichtigung",
+    "Löschung",
+    "Visadatei"
+   ],
+   "kurz_html": "<p>Das Ausländerzentralregister (AZR) ist eine Datenbank, in der deutsche Behörden Angaben zu Ausländerinnen und Ausländern speichern – etwa zu Aufenthaltstitel, Asylverfahren und Voraufenthalten. Sie können jederzeit kostenlos erfahren, welche Daten dort über Sie gespeichert sind.</p><p>Zuständig ist das Bundesverwaltungsamt (BVA) in Köln. Sie können die Auskunft online über das Bundesportal beantragen (mit Personalausweis oder elektronischem Aufenthaltstitel) oder schriftlich mit einem Formular.</p><p>Bei einem schriftlichen Antrag muss Ihre Identität nachgewiesen werden. Im Inland reicht meist eine beglaubigte Unterschrift oder das persönliche Erscheinen mit amtlichem Ausweis beim Bundesverwaltungsamt in Köln (nur nach vorheriger Terminvereinbarung); im Ausland eine Beglaubigung durch die deutsche Auslandsvertretung.</p><p>Finden Sie einen Fehler, können Sie die Berichtigung oder Löschung der Daten verlangen. Das ist zum Beispiel wichtig, wenn Sie sich später einbürgern lassen wollen: Die im AZR gespeicherten Zeiten zählen bei der Prüfung Ihrer Voraufenthalte mit.</p>",
+   "schritte": [
+    {
+     "titel": "Antrag stellen",
+     "text": "Online über das Bundesportal oder schriftlich beim Bundesverwaltungsamt in Köln."
+    },
+    {
+     "titel": "Identität nachweisen",
+     "text": "Im Inland durch beglaubigte Unterschrift oder persönliches Erscheinen mit amtlichem Ausweis in Köln (nur mit Termin); im Ausland über die Auslandsvertretung."
+    },
+    {
+     "titel": "Auskunft prüfen",
+     "text": "Kontrollieren Sie Name, Geburtsdaten, Aufenthaltsstatus und gespeicherte Voraufenthaltszeiten auf Fehler."
+    },
+    {
+     "titel": "Berichtigung oder Löschung beantragen",
+     "text": "Bei falschen oder unzulässig gespeicherten Daten beim Bundesverwaltungsamt."
+    },
+    {
+     "titel": "Bei Ablehnung Datenschutzbeauftragte einschalten",
+     "text": "Die oder der Bundesbeauftragte für den Datenschutz kann die Ablehnung überprüfen, soweit keine Sicherheitsbedenken entgegenstehen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "kostenlos",
+     "was": "Anspruch auf Auskunft über die zur eigenen Person im AZR gespeicherten Daten.",
+     "grundlage": "Art. 15 i. V. m. Art. 12 Abs. 5 DSGVO; § 34 AZRG"
+    },
+    {
+     "wert": "1 Monat",
+     "was": "Frist für die Auskunft ab Eingang des Antrags; verlängerbar um bis zu zwei weitere Monate. § 34 AZRG ändert daran nichts.",
+     "grundlage": "Art. 12 Abs. 3 DSGVO"
+    },
+    {
+     "wert": "5 Jahre",
+     "was": "Aufbewahrungsfrist der schriftlich festgehaltenen Gründe, wenn eine Auskunft abgelehnt wird.",
+     "grundlage": "§ 34 Abs. 4 AZRG"
+    }
+   ],
+   "achtung": [
+    "Die Auskunft kann verweigert werden, wenn sie die ordnungsgemäße Erfüllung behördlicher Aufgaben gefährden, die öffentliche Sicherheit beeinträchtigen oder Geheimhaltungsvorschriften verletzen würde (§ 34 Abs. 2 AZRG).",
+    "Stammen Daten von Sicherheitsbehörden, Polizei oder Staatsanwaltschaft, ist eine Auskunft über deren Herkunft nur mit deren Einwilligung zulässig (§ 34 Abs. 3 AZRG).",
+    "Eine Ablehnung muss Ihnen gegenüber nicht begründet werden, wenn die Begründung den Zweck der Ablehnung gefährden würde; intern muss die Behörde die Gründe trotzdem schriftlich festhalten (§ 34 Abs. 4 AZRG).",
+    "Ob und wie sich die Selbstauskunft auch auf die gesondert geführte Visadatei (Kapitel 3 AZRG) erstreckt, war in den ausgewerteten Quellen nicht abschließend zu klären – im Zweifel beim Bundesverwaltungsamt nachfragen.",
+    "Prüfen Sie gespeicherte Voraufenthaltszeiten frühzeitig vor einem Einbürgerungsantrag, damit Fehler nicht zu Verzögerungen führen."
+   ],
+   "fach_html": "<h3>Inhalt des Registers</h3><p>Das AZR speichert nach § 3 AZRG unter anderem Grundpersonalien (Familienname, Geburtsname, Vornamen, Geburtsdatum, Geburtsort, Staatsangehörigkeiten), Angaben zu Ausweisdokumenten, aufenthaltsrechtlichem Status, frühere und gegenwärtige Wohnanschriften sowie – je nach Fallgruppe – Entscheidungen der Bundesagentur für Arbeit und Angaben zu Integrationsmaßnahmen. Bei Asylsuchenden werden zusätzlich unter anderem Fingerabdruckdaten mit Referenznummern gespeichert. Für Unionsbürgerinnen und Unionsbürger gilt ein reduzierter Datenkatalog (§ 3 Abs. 4 AZRG).</p><h3>Selbstauskunft nach § 34 AZRG</h3><p>Jede betroffene Person hat Anspruch auf kostenlose Auskunft über die zu ihrer Person gespeicherten Daten (Art. 15 i. V. m. Art. 12 Abs. 5 DSGVO). § 34 Abs. 1 AZRG verlangt dafür nur, dass der Antrag die Grundpersonalien nennt; die Auskunft ist binnen eines Monats zu erteilen, verlängerbar um bis zu zwei Monate (Art. 12 Abs. 3 DSGVO). Die Auskunft kann online über das Bundesportal (Identifikation mit Personalausweis oder elektronischem Aufenthaltstitel) oder schriftlich mit dem Formular des Bundesverwaltungsamts beantragt werden. Eine Anfrage wird nur beantwortet, wenn die Identität der betroffenen Person nachgewiesen ist; im Inland genügt in der Regel die Beglaubigung der Unterschrift auf dem Antrag oder das persönliche Erscheinen mit amtlichem Ausweis beim Bundesverwaltungsamt in Köln nach vorheriger Terminvereinbarung, im Ausland die Beglaubigung durch eine deutsche Auslandsvertretung oder notariell mit beglaubigter Übersetzung.</p><h3>Grenzen des Auskunftsanspruchs</h3><p>Nach § 34 Abs. 2 AZRG entfällt der Anspruch, soweit die Auskunft die ordnungsgemäße Erfüllung behördlicher Aufgaben gefährden, die öffentliche Sicherheit oder Ordnung beeinträchtigen oder sonst dem Wohl des Bundes oder eines Landes Nachteile bereiten würde, oder soweit Geheimhaltungsvorschriften entgegenstehen. Bei Daten, die von Sicherheitsbehörden, der Polizei oder Staatsanwaltschaften stammen, ist eine Auskunft über deren Herkunft nur mit deren Einwilligung zulässig (§ 34 Abs. 3 AZRG). Wird eine Auskunft abgelehnt, muss dies gegenüber der betroffenen Person nicht begründet werden, wenn die Begründung den mit der Ablehnung verfolgten Zweck gefährden würde; die Gründe für die Ablehnung sind aber schriftlich niederzulegen und fünf Jahre aufzubewahren (§ 34 Abs. 4 AZRG). Bei einer Ablehnung ist die betroffene Person darauf hinzuweisen, dass sie sich an die oder den Bundesbeauftragten für den Datenschutz und die Informationsfreiheit (BfDI) wenden kann (§ 34 Abs. 4 Satz 4 AZRG). Auf ihr Verlangen ist die Auskunft der BfDI zu erteilen, außer die oberste Bundesbehörde stellt bei Daten von Sicherheitsbehörden eine Gefährdung der Sicherheit fest (§ 34 Abs. 5 AZRG).</p><h3>Berichtigung, Löschung, Einschränkung der Verarbeitung</h3><p>Sind gespeicherte Daten unrichtig, muss die Registerbehörde sie nach § 35 AZRG berichtigen. Daten sind nach § 36 Abs. 1 AZRG spätestens mit Ablauf der jeweiligen Frist zu löschen; wurde die Speicherung unzulässig vorgenommen, hat die Löschung unverzüglich zu erfolgen. Erwirbt eine im Register geführte Person die deutsche Staatsangehörigkeit, wird ihr Datensatz nach § 36 Abs. 2 AZRG unverzüglich gelöscht. Statt einer Löschung kann in bestimmten Fällen die Einschränkung der Verarbeitung verlangt werden (Art. 18 DSGVO); § 37 AZRG regelt ergänzend die Sperrung von Daten, die nur zur Datensicherung oder Datenschutzkontrolle gespeichert sind.</p><h3>Selbst machen oder Anwalt?</h3><p>Die Selbstauskunft nach § 34 AZRG ist ein einfacher, formularbasierter Verwaltungsantrag ohne Vertretungszwang; er lässt sich ohne anwaltliche Hilfe stellen, ebenso ein Antrag auf Berichtigung oder Löschung. Kosten entstehen dafür nicht. Erst wenn das Bundesverwaltungsamt eine Auskunft, Berichtigung oder Löschung ablehnt und der Streit vor das Verwaltungsgericht geht, gilt: Vor dem Verwaltungsgericht besteht kein Vertretungszwang (§ 67 Abs. 1 VwGO), erst vor Oberverwaltungsgericht und Bundesverwaltungsgericht müssen sich Beteiligte durch eine Rechtsanwältin oder einen Rechtsanwalt vertreten lassen (§ 67 Abs. 4 VwGO). Anwaltliche Hilfe ist vor allem dann sinnvoll, wenn falsch gespeicherte Daten Auswirkungen auf ein laufendes Einbürgerungs- oder Aufenthaltsverfahren haben und schnell korrigiert werden müssen.</p>",
+   "zustaendig": [
+    "Bundesverwaltungsamt (BVA), Köln – Selbstauskunft, Berichtigung, Löschung",
+    "Bundesbeauftragte oder Bundesbeauftragter für den Datenschutz und die Informationsfreiheit – bei Ablehnung der Auskunft",
+    "Verwaltungsgericht – bei Streit über Auskunft, Berichtigung oder Löschung"
+   ],
+   "belege": [
+    "Gesetze im Internet, § 3 AZRG, abgerufen 24.09.2026",
+    "Gesetze im Internet, § 34 AZRG; Verordnung (EU) 2016/679 (DSGVO), Art. 12, 15, 18, abgerufen 24.09.2026",
+    "Gesetze im Internet, §§ 35, 36, 37 AZRG, abgerufen 24.09.2026",
+    "Bundesverwaltungsamt, Auskunft an den Betroffenen (§ 34 AZRG), abgerufen 24.09.2026"
+   ],
+   "siehe_auch": [
+    "akteneinsicht-auslaenderakte",
+    "einbuergerung-antrag",
+    "ueberblick-selbst-handeln"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "akteneinsicht-auslaenderakte",
+   "kategorie": "akten-daten",
+   "titel": "Akteneinsicht bei Ausländerbehörde, BAMF und Gericht",
+   "icon": "🗄️",
+   "teaser": "Als Beteiligte oder Beteiligter dürfen Sie Ihre Ausländer- oder Asylakte einsehen – bei der Behörde, per DSGVO-Auskunft oder im Gerichtsverfahren.",
+   "schlagworte": [
+    "Akteneinsicht",
+    "Ausländerakte",
+    "BAMF-Akte",
+    "§ 29 VwVfG",
+    "§ 100 VwGO",
+    "Art. 15 DSGVO",
+    "Anhörungsprotokoll",
+    "Kopien"
+   ],
+   "kurz_html": "<p>Sie sind Beteiligte oder Beteiligter eines Verfahrens bei der Ausländerbehörde oder beim BAMF? Dann dürfen Sie grundsätzlich in Ihre Akte schauen, soweit Sie das für die Wahrnehmung Ihrer Rechte brauchen.</p><p>Fragen Sie schriftlich bei der Behörde an, die Ihre Akte führt. Nennen Sie Ihr Aktenzeichen und den Zweck – etwa die Vorbereitung eines Widerspruchs oder einer Klage.</p><p>Die Behörde kann die Einsicht in bestimmten Fällen beschränken oder verweigern, etwa wenn ihre Aufgabenerfüllung beeinträchtigt würde, dem Bund oder einem Land Nachteile drohen oder Vorgänge wegen berechtigter Interessen Dritter geheim bleiben müssen.</p><p>Läuft bereits ein Gerichtsverfahren, gilt ein eigenes, weitergehendes Recht auf Akteneinsicht beim Gericht. Zusätzlich können Sie über eine Auskunft nach der Datenschutz-Grundverordnung (DSGVO) erfahren, welche personenbezogenen Daten über Sie gespeichert sind – darauf muss die Behörde in der Regel innerhalb eines Monats antworten.</p><p>Auch das Protokoll Ihrer Anhörung beim BAMF gehört zur Akte. Sie haben das Recht, es rechtzeitig vor der Entscheidung einzusehen.</p>",
+   "schritte": [
+    {
+     "titel": "Zuständige Stelle bestimmen",
+     "text": "Ausländerbehörde, BAMF oder – bei laufendem Klageverfahren – das Verwaltungsgericht."
+    },
+    {
+     "titel": "Antrag stellen",
+     "text": "Schriftlich, mit Aktenzeichen und Zweck der Einsichtnahme."
+    },
+    {
+     "titel": "Einsicht wahrnehmen",
+     "text": "Vor Ort bei der Behörde oder – im Gerichtsverfahren – auch durch Übersendung an eine bevollmächtigte Person."
+    },
+    {
+     "titel": "Kopien anfordern",
+     "text": "Auszüge selbst fertigen oder gegen Kostenersatz Ablichtungen verlangen."
+    },
+    {
+     "titel": "Bei Verweigerung Alternativen prüfen",
+     "text": "DSGVO-Auskunft nach Art. 15 DSGVO beantragen oder anwaltliche Hilfe für eine gerichtliche Durchsetzung einholen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "keine gesetzliche Frist im Wortlaut genannt",
+     "was": "Anspruch auf Akteneinsicht bei der Behörde, soweit zur Geltendmachung oder Verteidigung rechtlicher Interessen erforderlich.",
+     "grundlage": "§ 29 Abs. 1 VwVfG"
+    },
+    {
+     "wert": "1 Monat ab Antragseingang, verlängerbar um bis zu 2 weitere Monate",
+     "was": "Frist für die Behörde, eine DSGVO-Auskunft zu erteilen.",
+     "grundlage": "Art. 12 Abs. 3 DSGVO"
+    },
+    {
+     "wert": "rechtzeitig vor der Entscheidung",
+     "was": "Zugang zur Niederschrift der Anhörung für Antragstellende, ihre Vertretung und Rechtsberatung.",
+     "grundlage": "Art. 14 Verordnung (EU) 2024/1348 (AsylVfVO), für Anträge ab 12.06.2026"
+    }
+   ],
+   "achtung": [
+    "Die Behörde darf die Einsicht verweigern oder beschränken, wenn die Aufgabenerfüllung der Behörde beeinträchtigt würde, dem Wohl des Bundes oder eines Landes Nachteile drohen oder die Vorgänge nach einem Gesetz oder ihrem Wesen nach, namentlich wegen berechtigter Interessen Beteiligter oder Dritter, geheim gehalten werden müssen (§ 29 Abs. 2 VwVfG).",
+    "Entwürfe zu Entscheidungen und die Arbeiten zu ihrer unmittelbaren Vorbereitung sind bis zum Abschluss des Verfahrens von der Einsicht ausgenommen.",
+    "Im Gerichtsverfahren besteht ein weitergehendes Akteneinsichtsrecht nach § 100 VwGO; auch hier sind Urteils- und Beschlussentwürfe sowie Abstimmungsunterlagen ausgenommen (§ 100 Abs. 4 VwGO).",
+    "Kopien können kostenpflichtig sein; die genaue Höhe der Gebühren regelt jedes Bundesland beziehungsweise die jeweilige Behörde unterschiedlich – hier nicht abschließend geprüft.",
+    "Die Regeln der Asylverfahrensverordnung zur Niederschrift und Tonaufzeichnung gelten für Anträge ab dem 12.06.2026; für ältere Anträge gilt das alte Verfahrensrecht."
+   ],
+   "fach_html": "<h3>Akteneinsicht im Verwaltungsverfahren</h3><p>Nach § 29 Abs. 1 VwVfG hat die Behörde den Beteiligten Einsicht in die das Verfahren betreffenden Akten zu gestatten, soweit deren Kenntnis zur Geltendmachung oder Verteidigung ihrer rechtlichen Interessen erforderlich ist. Beim BAMF gilt § 29 VwVfG des Bundes; bei der Ausländerbehörde die gleichlautende Vorschrift des Verwaltungsverfahrensgesetzes des jeweiligen Landes. Bis zum Abschluss des Verfahrens gilt das nicht für Entwürfe zu Entscheidungen und die Arbeiten zu ihrer unmittelbaren Vorbereitung. Nach § 29 Abs. 2 VwVfG kann die Behörde die Einsicht ablehnen, wenn sie die ordnungsgemäße Erfüllung ihrer Aufgaben beeinträchtigen würde, dem Wohl des Bundes oder eines Landes Nachteile bereitete, Vorgänge nach einer Rechtsvorschrift geheim gehalten werden müssen oder berechtigte Interessen der Beteiligten oder Dritter entgegenstehen.</p><h3>Akteneinsicht im gerichtlichen Verfahren</h3><p>Läuft ein Klage- oder Eilverfahren vor dem Verwaltungsgericht, gilt § 100 VwGO: Beteiligte dürfen die Gerichtsakten und die dem Gericht vorgelegten Akten einsehen und sich auf eigene Kosten durch die Geschäftsstelle Ausfertigungen, Auszüge, Ausdrucke und Abschriften erteilen lassen (§ 100 Abs. 1 VwGO). Bei elektronischen Akten erfolgt die Einsicht durch Abruf oder sichere Übermittlung; bevollmächtigte Personen können nach Ermessen des Gerichts die Akten auch mitnehmen (§ 100 Abs. 2 und 3 VwGO). Ausgenommen bleiben Entwürfe zu Urteilen, Beschlüssen und Verfügungen sowie die Arbeiten zu ihrer Vorbereitung und Dokumente, die Abstimmungen betreffen (§ 100 Abs. 4 VwGO).</p><h3>Auskunft nach Art. 15 DSGVO</h3><p>Unabhängig von der Akteneinsicht nach VwVfG oder VwGO können Sie von jeder Behörde, die Daten über Sie verarbeitet, eine Auskunft über diese Daten und eine Kopie davon verlangen (Art. 15 DSGVO). Die Behörde muss grundsätzlich innerhalb eines Monats nach Eingang des Antrags antworten; diese Frist kann bei komplexen oder zahlreichen Anträgen um bis zu zwei weitere Monate verlängert werden, wenn die betroffene Person innerhalb der ersten Monatsfrist über die Verlängerung und deren Gründe informiert wird (Art. 12 Abs. 3 DSGVO).</p><h3>Das Anhörungsprotokoll</h3><p>Das Protokoll der Anhörung beim BAMF ist Teil der Asylakte. Für Anträge ab dem 12.06.2026 gewährt das BAMF nach Art. 14 der Verordnung (EU) 2024/1348 (AsylVfVO) der antragstellenden Person, ihrer Vertretung und ihrer Rechtsberatung ausdrücklich Zugang zur Niederschrift rechtzeitig vor der Entscheidung. Die Anhörung wird zusätzlich mit Ton aufgezeichnet (Art. 14 AsylVfVO). Die genauen Absatznummern konnten nicht am Amtsblatt-Text geprüft werden (EUR-Lex bei Abruf nicht erreichbar); wie der Zugang zur Aufzeichnung praktisch abläuft, ist nicht belegt. Für ältere Anträge gilt das alte Verfahrensrecht.</p><h3>Kosten</h3><p>Für die Akteneinsicht selbst sieht das Gesetz keine Gebühr vor; Kopien können jedoch kostenpflichtig sein. Die konkrete Höhe der Kopierkosten und etwaiger Verwaltungsgebühren regeln Bund und Länder in eigenen Kostenverzeichnissen unterschiedlich; eine bundeseinheitliche Zahl liegt in den ausgewerteten Quellen nicht vor.</p><h3>Selbst machen oder Anwalt?</h3><p>Ein Antrag auf Akteneinsicht bei der Behörde oder eine DSGVO-Auskunft können Sie ohne anwaltliche Hilfe stellen; es besteht kein Vertretungszwang. Auch im Klageverfahren vor dem Verwaltungsgericht ist keine anwaltliche Vertretung vorgeschrieben (§ 67 Abs. 1 VwGO); nur vor dem Oberverwaltungsgericht und dem Bundesverwaltungsgericht müssen sich Beteiligte durch eine Rechtsanwältin oder einen Rechtsanwalt vertreten lassen (§ 67 Abs. 4 VwGO). Kosten entstehen in der Regel nur für Kopien. Anwaltliche Hilfe ist vor allem dann sinnvoll, wenn die Behörde die Einsicht verweigert und die Akte für ein laufendes oder bevorstehendes Widerspruchs- oder Klageverfahren wichtig ist.</p>",
+   "zustaendig": [
+    "Die aktenführende Behörde (Ausländerbehörde oder BAMF)",
+    "Verwaltungsgericht – Akteneinsicht im Klage- oder Eilverfahren (§ 100 VwGO)",
+    "Datenschutz-Aufsichtsbehörde (Beschwerde nach Art. 77 DSGVO): für das BAMF die BfDI, für die Ausländerbehörde die oder der Landesdatenschutzbeauftragte"
+   ],
+   "belege": [
+    "Gesetze im Internet, § 29 VwVfG, abgerufen 24.09.2026",
+    "Gesetze im Internet, § 100 VwGO, abgerufen 24.09.2026",
+    "Verordnung (EU) 2016/679 (DSGVO), Art. 12, 15, abgerufen 24.09.2026",
+    "Verordnung (EU) 2024/1348 (AsylVfVO), Art. 14, abgerufen 24.09.2026"
+   ],
+   "siehe_auch": [
+    "azr-auskunft",
+    "prozesskostenhilfe-beratungshilfe",
+    "untaetigkeitsklage-auslaenderbehoerde"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "leistungskuerzung-asylblg-widerspruch",
+   "kategorie": "leistungen-kosten-hilfe",
+   "titel": "Leistungskürzung nach dem AsylbLG: Widerspruch und Eilantrag",
+   "icon": "📉",
+   "teaser": "Wann Leistungen nach § 1a AsylbLG gekürzt werden dürfen – und wie Sie sich mit Widerspruch und Eilantrag beim Sozialgericht dagegen wehren.",
+   "schlagworte": [
+    "AsylbLG",
+    "§ 1a AsylbLG",
+    "Leistungskürzung",
+    "Bezahlkarte",
+    "Widerspruch",
+    "Eilantrag",
+    "Sozialgericht",
+    "Existenzminimum"
+   ],
+   "kurz_html": "<p>Ihre Leistungen nach dem Asylbewerberleistungsgesetz (AsylbLG) können in bestimmten, im Gesetz genau benannten Fällen gekürzt werden – etwa wenn Sie nicht am Asylverfahren mitwirken, eine Wohnsitz- oder Meldepflicht verletzen oder die Ordnung in der Unterkunft schwer stören.</p><p>Bei einer Kürzung bekommen Sie nur noch Leistungen für Ernährung, Unterkunft, Heizung sowie Körper- und Gesundheitspflege, meist als Sachleistung. Ärztliche Behandlung bleibt bestehen.</p><p>Eine Kürzung wird zunächst auf 6 Monate befristet und fortgesetzt, wenn der Grund weiter besteht; wegen einer schweren Störung der Unterkunftsordnung gilt sie höchstens 1 Monat.</p><p>Sind Sie mit dem Bescheid nicht einverstanden, prüfen Sie zuerst, auf welche Vorschrift er sich stützt. Legen Sie – wo vorgesehen – Widerspruch ein und stellen Sie, wenn Sie sofort Geld oder Essen brauchen, zusätzlich einen Eilantrag beim Sozialgericht. Das Verfahren dort ist für Sie kostenfrei, und Sie brauchen keine Anwältin und keinen Anwalt.</p>",
+   "schritte": [
+    {
+     "titel": "Vorschrift im Bescheid prüfen",
+     "text": "Steht dort § 1a AsylbLG (mit Absatz), handelt es sich um eine Kürzung; bei § 1 Abs. 4 AsylbLG um einen vollständigen Leistungsausschluss."
+    },
+    {
+     "titel": "Frist notieren",
+     "text": "Die Frist für einen Widerspruch beträgt einen Monat ab Bekanntgabe des Bescheids (§ 84 Abs. 1 SGG); die Rechtsbehelfsbelehrung am Ende des Bescheids nennt sie."
+    },
+    {
+     "titel": "Beratungsstelle aufsuchen",
+     "text": "Gehen Sie sofort mit Bescheid und Unterlagen zu einer Beratungsstelle oder Sozialberatung."
+    },
+    {
+     "titel": "Widerspruch einlegen",
+     "text": "Schriftlich bei der Stelle, die den Bescheid erlassen hat (§ 78 Abs. 1, § 84 SGG)."
+    },
+    {
+     "titel": "Eilantrag beim Sozialgericht stellen",
+     "text": "Bei akutem Bedarf einstweiligen Rechtsschutz nach § 86b SGG beantragen – gerichtskostenfrei und ohne Anwaltszwang."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "6 Monate, verlängerbar",
+     "was": "Eine Anspruchseinschränkung nach § 1a AsylbLG ist zunächst auf sechs Monate zu befristen (§ 14 Abs. 1); besteht die Pflichtverletzung fort und liegen die Voraussetzungen weiter vor, wird sie fortgesetzt (§ 14 Abs. 2).",
+     "grundlage": "§ 14 Abs. 1 und 2 AsylbLG"
+    },
+    {
+     "wert": "höchstens 1 Monat",
+     "was": "Kürzung bei schwerwiegender Störung der Ordnung in der Unterkunft, Bedrohung oder gewalttätigem Verhalten.",
+     "grundlage": "§ 1a Abs. 7 AsylbLG"
+    },
+    {
+     "wert": "455 Euro / Monat",
+     "was": "Grundleistung 2026 für alleinstehende Erwachsene in einer Wohnung (Bedarfsstufe 1): 202 Euro persönlicher Bedarf (§ 3a Abs. 1 Nr. 1) plus 253 Euro notwendiger Bedarf (§ 3a Abs. 2 Nr. 1); weitere Beträge nach Alter und Wohnform. Streitig, ob wegen Besitzstand die höheren Sätze 2024 (460 Euro) weitergelten.",
+     "grundlage": "Bekanntmachung über die Höhe der Leistungssätze nach § 3a Absatz 4 AsylbLG für die Zeit ab 1. Januar 2026, BGBl. 2025 I Nr. 251"
+    },
+    {
+     "wert": "1 Monat",
+     "was": "Widerspruchsfrist ab Bekanntgabe des Bescheids; bei Bekanntgabe im Ausland 3 Monate. Vor der Klage ist grundsätzlich ein Widerspruchsverfahren durchzuführen (§ 78 Abs. 1 SGG).",
+     "grundlage": "§ 84 Abs. 1 SGG"
+    }
+   ],
+   "achtung": [
+    "Kürzung (§ 1a AsylbLG) und vollständiger Ausschluss (§ 1 Abs. 4 AsylbLG) sind unterschiedliche Eingriffe – prüfen Sie zuerst, auf welche Vorschrift sich der Bescheid stützt.",
+    "Die Kürzungsgründe des § 1a AsylbLG sind im Gesetz abschließend aufgezählt; eine Kürzung aus einem anderen Grund ist rechtswidrig.",
+    "Ärztliche Behandlung nach § 4 AsylbLG bleibt auch bei einer Kürzung bestehen; ein Widerspruch allein verschafft aber kein Geld – bei akuter Not brauchen Sie zusätzlich einen Eilantrag beim Sozialgericht.",
+    "Widerspruch und Klage gegen eine Kürzung nach § 1a AsylbLG haben keine aufschiebende Wirkung (§ 11 Abs. 4 AsylbLG); die Kürzung gilt also weiter, bis das Sozialgericht im Eilverfahren anders entscheidet.",
+    "Die konkrete Ausgestaltung der Bezahlkarte, etwa der monatlich abhebbare Bargeldbetrag, legt jedes Bundesland beziehungsweise jede Kommune eigenständig fest; ein bundeseinheitlicher Betrag existiert nicht."
+   ],
+   "fach_html": "<h3>Zwei getrennte Instrumente</h3><p>Das AsylbLG unterscheidet zwei unterschiedliche Eingriffe: § 1a AsylbLG regelt die Kürzung auf einen reduzierten Leistungsumfang; die betroffene Person bleibt leistungsberechtigt. § 1 Abs. 4 AsylbLG regelt den vollständigen Ausschluss aus dem Leistungssystem, bei dem nur noch zeitlich eng begrenzte Überbrückungsleistungen verbleiben. Jeder Bescheid ist deshalb zunächst darauf zu prüfen, auf welche Vorschrift und welchen Absatz er sich stützt.</p><h3>Kürzungsgründe nach § 1a AsylbLG</h3><p>Die Kürzungsgründe sind abschließend aufgezählt. Sie betreffen unter anderem: vollziehbar Ausreisepflichtige, bei denen aufenthaltsbeendende Maßnahmen aus von ihnen selbst zu vertretenden Gründen nicht vollzogen werden können (Abs. 3), Personen nach Zustellung einer Überstellungsentscheidung nach der Verordnung (EU) 2024/1351, wenn eine Abschiebungsanordnung vorliegt (Abs. 9), bestimmte Fallgruppen der EU-Verteilung (Abs. 4), die Verletzung von Mitwirkungspflichten wie das Nichtvorlegen von Pass oder Dokumenten oder das Verweigern von Angaben zu Identität oder Staatsangehörigkeit (Abs. 5, mit Verweis auf § 15 Abs. 2 AsylG), die Verletzung der Pflicht, Angaben zum Vermögen zu machen (Abs. 6), die schwerwiegende Störung der Ordnung in der Unterkunft, Bedrohung oder gewalttätiges Verhalten (Abs. 7), sowie Verstöße gegen Wohnsitz- oder Meldeanordnungen (Abs. 8). Bei einer Kürzung werden nur noch Leistungen zur Deckung des Bedarfs an Ernährung und Unterkunft einschließlich Heizung sowie Körper- und Gesundheitspflege gewährt, vorrangig als Sachleistung (§ 1a Abs. 1 AsylbLG); Gesundheitsleistungen nach § 4 AsylbLG bleiben unberührt. Kürzungen sind grundsätzlich auf 6 Monate zu befristen, bei Störung der Unterkunftsordnung auf höchstens 1 Monat; danach ist zu überprüfen, ob der Grund fortbesteht (§ 14 Abs. 1 und 2 AsylbLG).</p><h3>Leistungssätze und Bezahlkarte 2026</h3><p>Die Regelbedarfe nach § 3a AsylbLG wurden mit Bekanntmachung vom 23.10.2025 (BGBl. 2025 I Nr. 251) für die Zeit ab dem 1. Januar 2026 festgesetzt: für alleinstehende Erwachsene in einer Wohnung (Bedarfsstufe 1) 202 Euro notwendiger persönlicher Bedarf (§ 3a Abs. 1 Nr. 1) und 253 Euro notwendiger Bedarf (§ 3a Abs. 2 Nr. 1), zusammen 455 Euro monatlich. Streitig ist, ob wegen Besitzstands die höheren Sätze von 2024 (460 Euro) weitergelten. Grundleistungen können auch über eine Bezahlkarte ausgegeben werden (§ 3 Abs. 2 AsylbLG); ob und in welcher Höhe davon Bargeld abgehoben werden kann, legen die Bundesländer beziehungsweise Kommunen unterschiedlich fest – ein bundeseinheitlicher Betrag ist in den ausgewerteten Quellen nicht belegt.</p><h3>Widerspruch</h3><p>Vor einer Klage gegen einen Kürzungsbescheid ist grundsätzlich ein Widerspruchsverfahren durchzuführen (§ 78 Abs. 1 SGG). Der Widerspruch ist innerhalb eines Monats nach Bekanntgabe des Bescheids bei der Behörde einzulegen, die ihn erlassen hat; bei Bekanntgabe im Ausland beträgt die Frist drei Monate (§ 84 Abs. 1 SGG). Maßgeblich ist die Rechtsbehelfsbelehrung im Bescheid. Widerspruch und Klage gegen eine Kürzung nach § 1a AsylbLG haben keine aufschiebende Wirkung (§ 11 Abs. 4 AsylbLG); deshalb ist bei akuter Not zusätzlich der Eilantrag nach § 86b Abs. 1 SGG nötig.</p><h3>Eilantrag und Klage beim Sozialgericht</h3><p>Wenn eine Kürzung das Existenzminimum unmittelbar betrifft, ist der Eilantrag auf einstweiligen Rechtsschutz nach § 86b SGG der praktisch wichtigste Rechtsbehelf, weil ein Hauptsacheverfahren zu lange dauert. Das Gericht kann danach die aufschiebende Wirkung eines Widerspruchs oder einer Klage anordnen oder eine einstweilige Anordnung treffen, wenn die Verwirklichung eines Rechts sonst vereitelt oder wesentlich erschwert würde (§ 86b Abs. 1 und 2 SGG). Das Verfahren vor dem Sozialgericht ist für Leistungsempfängerinnen und Leistungsempfänger gerichtskostenfrei (§ 183 SGG), und es besteht kein Anwaltszwang: Beteiligte können den Rechtsstreit vor Sozialgericht und Landessozialgericht selbst führen (§ 73 Abs. 1 SGG); erst vor dem Bundessozialgericht müssen sie sich vertreten lassen (§ 73 Abs. 4 SGG).</p><h3>Selbst machen oder Anwalt?</h3><p>Widerspruch und Klage vor dem Sozialgericht können Sie ohne anwaltliche Vertretung führen (§ 73 Abs. 1 SGG); erst vor dem Bundessozialgericht besteht Vertretungszwang (§ 73 Abs. 4 SGG). Das Verfahren vor dem Sozialgericht ist für Leistungsberechtigte gerichtskostenfrei (§ 183 SGG); eigene Anwaltskosten trägt bei Bedürftigkeit gegebenenfalls die Prozesskostenhilfe. Weil bei Leistungskürzungen oft sehr kurzfristig gehandelt werden muss und die Rechtslage streitig sein kann, ist der Gang zu einer Beratungsstelle, einer Refugee Law Clinic oder einer im Sozialrecht erfahrenen Anwältin oder einem Anwalt trotzdem sinnvoll, insbesondere für den Eilantrag.</p>",
+   "zustaendig": [
+    "Sozialamt der zugewiesenen Stadt oder des Landkreises – Kürzungsbescheid, Widerspruch, Überprüfung",
+    "Sozialgericht – Eilantrag und Klage, für Leistungsberechtigte gerichtskostenfrei",
+    "Beratungsstellen und Flüchtlingsräte – Prüfung des Bescheids, Unterstützung beim Widerspruch"
+   ],
+   "belege": [
+    "Gesetze im Internet, § 1a, § 3, § 3a, § 14 AsylbLG, abgerufen 24.09.2026",
+    "Bekanntmachung über die Höhe der Leistungssätze nach § 3a Absatz 4 AsylbLG für die Zeit ab 1. Januar 2026, BGBl. 2025 I Nr. 251, abgerufen 24.09.2026",
+    "Gesetze im Internet, § 73, § 78, § 86b, § 183 SGG, abgerufen 24.09.2026"
+   ],
+   "siehe_auch": [
+    "untaetigkeitsklage-auslaenderbehoerde",
+    "prozesskostenhilfe-beratungshilfe",
+    "beratung-anlaufstellen"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "prozesskostenhilfe-beratungshilfe",
+   "kategorie": "leistungen-kosten-hilfe",
+   "titel": "Prozesskostenhilfe und Beratungshilfe",
+   "icon": "🤝",
+   "teaser": "Wenig Geld für Anwalt oder Klage? Beratungshilfe und Prozesskostenhilfe übernehmen die Kosten ganz oder teilweise.",
+   "schlagworte": [
+    "Prozesskostenhilfe",
+    "PKH",
+    "Beratungshilfe",
+    "Berechtigungsschein",
+    "Amtsgericht",
+    "Freibeträge",
+    "Erfolgsaussicht",
+    "§ 83b AsylG"
+   ],
+   "kurz_html": "<p>Beratungshilfe deckt Rat und, wenn nötig, Vertretung außerhalb eines Gerichtsverfahrens ab – auch gegenüber der Ausländerbehörde oder dem BAMF. Sie beantragen sie beim Amtsgericht Ihres Wohnorts.</p><p>Der Eigenanteil beträgt 15 Euro und kann erlassen werden.</p><p>Für ein Gerichtsverfahren gibt es Prozesskostenhilfe (PKH). Voraussetzung: Sie können die Kosten nicht oder nur in Raten aufbringen, und die Klage hat hinreichende Aussicht auf Erfolg und ist nicht mutwillig.</p><p>Im Asylverfahren selbst werden ohnehin keine Gerichtskosten erhoben. Prozesskostenhilfe kann dort trotzdem wichtig sein, um die Kosten für eine Anwältin oder einen Anwalt zu decken.</p>",
+   "schritte": [
+    {
+     "titel": "Voraussetzungen prüfen",
+     "text": "Einkommen, Vermögen und ob eine andere zumutbare Hilfe zur Verfügung steht."
+    },
+    {
+     "titel": "Beratungshilfe beantragen",
+     "text": "Beim Amtsgericht, formlos oder mit Formular; Sie erhalten einen Berechtigungsschein für eine Anwältin oder einen Anwalt."
+    },
+    {
+     "titel": "Oder zuerst zur Anwältin oder zum Anwalt gehen",
+     "text": "Der Antrag auf nachträgliche Beratungshilfe muss dann spätestens vier Wochen nach Beginn der Tätigkeit gestellt werden."
+    },
+    {
+     "titel": "PKH im Gerichtsverfahren beantragen",
+     "text": "Formular „Erklärung über die persönlichen und wirtschaftlichen Verhältnisse” beim Prozessgericht einreichen."
+    },
+    {
+     "titel": "Bewilligung abwarten",
+     "text": "Das Gericht prüft Bedürftigkeit und Erfolgsaussicht der Klage, bevor es entscheidet."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "15 Euro",
+     "was": "Eigenanteil bei Beratungshilfe, kann erlassen werden.",
+     "grundlage": "Nr. 2500 VV RVG (Anlage 1 zum RVG)"
+    },
+    {
+     "wert": "4 Wochen",
+     "was": "Antrag auf nachträgliche Beratungshilfe nach Beginn der Tätigkeit der Beratungsperson.",
+     "grundlage": "§ 6 Abs. 2 BerHG"
+    },
+    {
+     "wert": "619 Euro",
+     "was": "Grundfreibetrag 2026 für die antragstellende Person, Ehegattin, Ehegatten oder Lebenspartnerin/-partner bei der PKH-Einkommensberechnung (Bund; regional höhere Werte für Fürstenfeldbruck und München).",
+     "grundlage": "Prozesskostenhilfebekanntmachung 2026 (PKHB 2026) vom 19.12.2025, BGBl. 2025 I Nr. 360"
+    },
+    {
+     "wert": "keine Gerichtskosten",
+     "was": "Im Asylverfahren werden für Streitigkeiten nach dem AsylG keine Gerichtskosten erhoben.",
+     "grundlage": "§ 83b AsylG"
+    }
+   ],
+   "achtung": [
+    "Beratungshilfe und PKH setzen Bedürftigkeit voraus; falsche Angaben zu Einkommen und Vermögen können Folgen haben.",
+    "Fristen im Widerspruchs- und Klageverfahren laufen weiter, auch wenn Beratungshilfe oder PKH beantragt sind – ein PKH-Antrag hemmt keine Klagefrist. Wer innerhalb der Frist einen vollständigen PKH-Antrag stellt, kann nach der Bewilligung Wiedereinsetzung in den vorigen Stand beantragen.",
+    "PKH kann mit Ratenzahlung verbunden sein, wenn Einkommen oder Vermögen dies zulassen.",
+    "In Bremen und Hamburg tritt eine öffentliche Rechtsberatung an die Stelle der Beratungshilfe, in Berlin besteht ein Wahlrecht (§ 12 BerHG).",
+    "Im Verwaltungsverfahren beim BAMF selbst besteht kein Anspruch auf kostenlose anwaltliche Vertretung; PKH betrifft nur das gerichtliche Verfahren."
+   ],
+   "fach_html": "<h3>Beratungshilfe</h3><p>Nach § 1 Abs. 1 BerHG wird Beratungshilfe gewährt, wenn Rechtsuchende die erforderlichen Mittel nach ihren persönlichen und wirtschaftlichen Verhältnissen nicht aufbringen können, keine andere zumutbare Hilfe zur Verfügung steht und die Inanspruchnahme nicht mutwillig erscheint. Sie umfasst Beratung und, soweit erforderlich, Vertretung in allen rechtlichen Angelegenheiten – auch gegenüber Ausländerbehörde und BAMF (§ 2 BerHG). Der Eigenanteil von 15 Euro (Gebühr Nr. 2500 VV RVG) kann erlassen werden. Nach § 6 BerHG stellt das Amtsgericht einen Berechtigungsschein aus; wendet sich die rechtsuchende Person zuerst an eine Beratungsperson, ist der Antrag spätestens vier Wochen nach Beginn der Beratungshilfetätigkeit zu stellen. In Bremen und Hamburg tritt öffentliche Rechtsberatung an die Stelle der Beratungshilfe, in Berlin besteht ein Wahlrecht (§ 12 BerHG).</p><h3>Prozesskostenhilfe</h3><p>Nach § 114 Abs. 1 ZPO erhält eine Partei, die nach ihren persönlichen und wirtschaftlichen Verhältnissen die Kosten der Prozessführung nicht, nur zum Teil oder nur in Raten aufbringen kann, auf Antrag Prozesskostenhilfe, wenn die Rechtsverfolgung hinreichende Aussicht auf Erfolg bietet und nicht mutwillig erscheint. Im Verwaltungsgerichtsverfahren gilt dies über § 166 VwGO, im Sozialgerichtsverfahren über § 73a SGG jeweils mit Verweis auf die Vorschriften der ZPO. Für die Erklärung über die persönlichen und wirtschaftlichen Verhältnisse ist das amtliche Formular nach der Prozesskostenhilfeformularverordnung (PKHFV) zu verwenden, online abrufbar über das Justizportal des Bundes und der Länder (service.justiz.de/prozesskostenhilfe).</p><h3>Freibeträge 2026</h3><p>Für die Einkommensberechnung bei der PKH legt die Prozesskostenhilfebekanntmachung 2026 (PKHB 2026) vom 19.12.2025 (BGBl. 2025 I Nr. 360) unter anderem folgende monatliche Freibeträge fest (bundeseinheitlicher Wert, mit höheren Werten für Fürstenfeldbruck, München Stadt und Landkreis): Erwerbstätigenfreibetrag 282 Euro; Freibetrag für die antragstellende Person, Ehegattin/Ehegatten oder Lebenspartnerin/Lebenspartner 619 Euro; für unterhaltsberechtigte Erwachsene 496 Euro; für Jugendliche vom Beginn des 15. bis zur Vollendung des 18. Lebensjahres 518 Euro; für Kinder vom Beginn des 7. bis zur Vollendung des 14. Lebensjahres 429 Euro; für Kinder bis zur Vollendung des 6. Lebensjahres 393 Euro.</p><h3>Kosten im Asylverfahren</h3><p>Für Streitigkeiten nach dem Asylgesetz werden keine Gerichtskosten (Gebühren und Auslagen) erhoben (§ 83b AsylG). Prozesskostenhilfe ist dort trotzdem relevant, weil sie die eigenen Anwaltskosten abdecken kann, wenn eine anwaltliche Vertretung nötig ist.</p><h3>Selbst machen oder Anwalt?</h3><p>Den Antrag auf Beratungshilfe oder Prozesskostenhilfe können Sie selbst stellen; ein Vertretungszwang besteht dafür nicht. Ob im anschließenden Gerichtsverfahren eine anwaltliche Vertretung vorgeschrieben ist, richtet sich nach der Gerichtsbarkeit: Vor dem Verwaltungsgericht (§ 67 Abs. 1 VwGO) und vor dem Sozialgericht (§ 73 Abs. 1 SGG) besteht kein Vertretungszwang; erst vor Oberverwaltungsgericht, Bundesverwaltungsgericht (§ 67 Abs. 4 VwGO) und Bundessozialgericht (§ 73 Abs. 4 SGG) müssen sich Beteiligte vertreten lassen. Wird PKH bewilligt, trägt die Staatskasse die Gerichts- und die beigeordnete Anwaltsvergütung ganz oder in Raten; im Asylverfahren fallen ohnehin keine Gerichtskosten an (§ 83b AsylG). Anwaltliche Hilfe ist vor allem dann sinnvoll, wenn die Erfolgsaussicht der Klage rechtlich schwer einzuschätzen ist oder ein Eilverfahren neben der Klage nötig wird.</p>",
+   "zustaendig": [
+    "Amtsgericht am Wohnort – Beratungshilfe, Berechtigungsschein",
+    "Prozessgericht (Verwaltungsgericht, Sozialgericht) – Prozesskostenhilfe im jeweiligen Verfahren",
+    "Justizportal des Bundes und der Länder (service.justiz.de) – amtliches PKH-Formular"
+   ],
+   "belege": [
+    "Gesetze im Internet, § 1, § 2, § 6, § 12 BerHG, abgerufen 24.09.2026",
+    "Gesetze im Internet, § 114 ZPO, § 166 VwGO, § 73a SGG, § 83b AsylG, abgerufen 24.09.2026",
+    "Prozesskostenhilfebekanntmachung 2026 (PKHB 2026) vom 19.12.2025, BGBl. 2025 I Nr. 360, abgerufen 24.09.2026",
+    "Justizportal des Bundes und der Länder, amtliches PKH-Formular, abgerufen 24.09.2026"
+   ],
+   "siehe_auch": [
+    "untaetigkeitsklage-auslaenderbehoerde",
+    "leistungskuerzung-asylblg-widerspruch",
+    "beratung-anlaufstellen"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "beratung-anlaufstellen",
+   "kategorie": "leistungen-kosten-hilfe",
+   "titel": "Beratung und Anlaufstellen",
+   "icon": "📞",
+   "teaser": "Wer bei welchem Anliegen hilft – von der kostenlosen Asylverfahrensberatung über Migrationsberatung bis zur Anwaltssuche.",
+   "schlagworte": [
+    "Asylverfahrensberatung",
+    "§ 12a AsylG",
+    "§ 12b AsylG",
+    "Migrationsberatung",
+    "Jugendmigrationsdienst",
+    "Flüchtlingsrat",
+    "Refugee Law Clinic",
+    "Anwaltssuche"
+   ],
+   "kurz_html": "<p>Sie müssen Ihre Fragen nicht allein klären. Es gibt kostenlose Beratung, teils auch in mehreren Sprachen.</p><p>Für Fragen zum Asylverfahren haben Sie seit der GEAS-Reform zwei Angebote: einen individuellen Anspruch auf kostenlose Rechtsauskunft beim BAMF selbst (§ 12b AsylG, für Anträge ab dem 12.06.2026; für ältere Anträge gilt das alte Verfahrensrecht) und zusätzlich die unabhängige, freiwillige Asylverfahrensberatung durch Wohlfahrtsverbände (§ 12a AsylG).</p><p>Für Fragen zum Alltag gibt es die Migrationsberatung für erwachsene Zuwanderer (MBE) und für junge Menschen den Jugendmigrationsdienst (JMD).</p><p>Für rechtliche Unterstützung außerhalb der Beratungsangebote können Sie über die Rechtsanwaltskammern oder den Deutschen Anwaltverein eine spezialisierte Anwältin oder einen Anwalt suchen; bei geringem Einkommen prüfen Sie Beratungshilfe und Prozesskostenhilfe.</p><p>Haben Sie einen Bescheid vom BAMF bekommen? Gehen Sie möglichst am selben Tag zu einer Beratungsstelle – die Klagefrist kann sehr kurz sein.</p>",
+   "schritte": [
+    {
+     "titel": "Anliegen klären",
+     "text": "Geht es um das Asylverfahren, den Aufenthalt, Geld, Anerkennung oder ein Gerichtsverfahren? Danach richtet sich, welche Stelle passt."
+    },
+    {
+     "titel": "Kostenlose Rechtsauskunft beim BAMF verlangen",
+     "text": "Individueller Anspruch nach § 12b AsylG für Anträge ab dem 12.06.2026; ein formloses Ersuchen reicht."
+    },
+    {
+     "titel": "Unabhängige Asylverfahrensberatung suchen",
+     "text": "In der Unterkunft, beim Sozialdienst oder beim Flüchtlingsrat des Bundeslandes nach der Beratung nach § 12a AsylG fragen, möglichst vor der Anhörung."
+    },
+    {
+     "titel": "Migrationsberatung oder Jugendmigrationsdienst kontaktieren",
+     "text": "Für Fragen zu Sprache, Wohnen, Arbeit, Schule und einfache rechtliche Fragen im Alltag."
+    },
+    {
+     "titel": "Bei Bedarf Anwältin oder Anwalt suchen",
+     "text": "Über die Anwaltssuche der Rechtsanwaltskammern oder des Deutschen Anwaltvereins; Beratungshilfe und Prozesskostenhilfe bei geringem Einkommen prüfen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "keine feste Frist, jederzeit im Verwaltungsverfahren auf Ersuchen",
+     "was": "Unentgeltliche Rechtsauskunft (auRA) durch das BAMF.",
+     "grundlage": "§ 12b AsylG"
+    },
+    {
+     "wert": "möglichst vor der Anhörung",
+     "was": "Zeitpunkt, zu dem die unabhängige Asylverfahrensberatung nach Möglichkeit stattfinden soll.",
+     "grundlage": "§ 12a Abs. 2 AsylG"
+    },
+    {
+     "wert": "am selben Tag nach Erhalt eines Bescheids",
+     "was": "Empfohlener Zeitpunkt, um wegen kurzer Klagefristen im Asylverfahren eine Beratungsstelle aufzusuchen.",
+     "grundlage": "Praxisempfehlung, keine gesetzliche Frist"
+    }
+   ],
+   "achtung": [
+    "§ 12a AsylG ist ein Förderauftrag an den Bund, kein individueller Anspruch auf eine bestimmte Beratungsstelle vor Ort.",
+    "Im Verwaltungsverfahren beim BAMF besteht kein Anspruch auf kostenlose anwaltliche Vertretung; fragen Sie bei Bedarf nach Beratungshilfe und Prozesskostenhilfe.",
+    "Der Zugang von Rechtsberatung und Organisationen zu Aufnahmeeinrichtungen ist im EU-Recht vorgesehen und darf nur aus Sicherheitsgründen beschränkt werden (bisher Art. 18 Abs. 2 Buchst. c Richtlinie 2013/33/EU; die Nachfolgenorm der Richtlinie (EU) 2024/1346 wurde hier nicht geprüft). Verlangen Sie die Beratung ausdrücklich und beauftragen Sie die Stelle.",
+    "Adressen und Telefonnummern einzelner Beratungsstellen ändern sich häufig; diese Seite nennt deshalb nur zentrale, bundesweite Verzeichnisse, keine erfundenen Kontaktdaten vor Ort.",
+    "Zur genauen Zahl der MBE-Beratungsstellen, Jugendmigrationsdienste und psychosozialen Zentren bundesweit liegt in den ausgewerteten Quellen keine aktuelle amtlich verifizierte Zahl für 2026 vor."
+   ],
+   "fach_html": "<h3>Asylverfahren: zwei getrennte Angebote</h3><p>Seit der GEAS-Reform gibt es zwei unterschiedliche Beratungsangebote im Asylverfahren. Das Bundesamt für Migration und Flüchtlinge (BAMF) gewährt auf Ersuchen der antragstellenden Person unentgeltlich Rechtsauskunft nach Art. 16 der Verordnung (EU) 2024/1348 und nach Art. 21 der Verordnung (EU) 2024/1351 (§ 12b Abs. 1 AsylG, seit 12.06.2026); Ausnahmen bestehen in den dort genannten Fällen (§ 12b Abs. 2 AsylG). Daneben unterstützt der Bund eine behördenunabhängige, ergebnisoffene, unentgeltliche, individuelle und freiwillige Asylverfahrensberatung durch anerkannte Träger (§ 12a Abs. 1 AsylG); diese Beratung soll die besonderen Bedürfnisse der Antragstellenden berücksichtigen und nach Möglichkeit bereits vor der Anhörung beginnen (§ 12a Abs. 2 AsylG). Träger dürfen personenbezogene Daten zu besonderen Bedürfnissen nur mit vorheriger Zustimmung der betroffenen Person an Bundesamt und Landesbehörden weitergeben (§ 12a Abs. 3 AsylG).</p><h3>Alltag, Sprache, Arbeit</h3><p>Für Erwachsene steht die Migrationsberatung für erwachsene Zuwanderer (MBE) zur Verfügung, für junge Menschen der Jugendmigrationsdienst (JMD). Beide beraten zu Sprache, Wohnen, Arbeit, Gesundheit, Kinderbetreuung, Schule und einfachen rechtlichen Fragen. Für die Anerkennung ausländischer Berufsabschlüsse informiert das Portal „Anerkennung in Deutschland” des Bundesinstituts für Berufsbildung.</p><h3>Unabhängige Interessenvertretung</h3><p>Die Flüchtlingsräte der 16 Bundesländer bieten unabhängige Beratung und rechtliche Einschätzung; sie sind in der Bundesweiten Arbeitsgemeinschaft für Flüchtlinge PRO ASYL vernetzt. Refugee Law Clinics Deutschland e. V. bündelt studentische Rechtsberatungsstellen zu Asyl-, Aufenthalts- und Sozialrecht an zahlreichen Hochschulstandorten; eine bundesweite Übersicht der Standorte führt der Verein auf seiner Website.</p><h3>Anwaltssuche</h3><p>Über das Bundesweite Amtliche Anwaltsverzeichnis der Bundesrechtsanwaltskammer (BRAK) lässt sich prüfen, ob eine Person in Deutschland als Rechtsanwältin oder Rechtsanwalt zugelassen ist. Der Deutsche Anwaltverein (DAV) bietet über anwaltauskunft.de eine Suche nach spezialisierten Anwältinnen und Anwälten, unter anderem für Migrationsrecht. Bei geringem Einkommen kommen Beratungshilfe und Prozesskostenhilfe in Betracht.</p><h3>Verträge und Verbraucherfragen</h3><p>Für Fragen zu Verträgen im Alltag – etwa Miete, Handy oder Onlinekäufe – beraten die Verbraucherzentralen der Länder unter dem Dach des Verbraucherzentrale Bundesverbands (vzbv).</p><h3>Selbst machen oder Anwalt?</h3><p>Die genannten Beratungsangebote – Asylverfahrensberatung, Rechtsauskunft des BAMF, Migrationsberatung, Flüchtlingsräte und Refugee Law Clinics – sind kostenlos und ohne Anwaltszwang nutzbar; sie ersetzen aber keine anwaltliche Vertretung vor Gericht. Vor dem Verwaltungsgericht (§ 67 Abs. 1 VwGO) und vor dem Sozialgericht (§ 73 Abs. 1 SGG) können Sie einen Rechtsstreit selbst führen; erst vor Oberverwaltungsgericht, Bundesverwaltungsgericht (§ 67 Abs. 4 VwGO) und Bundessozialgericht (§ 73 Abs. 4 SGG) besteht Vertretungszwang. Anwaltskosten trägt bei Bedürftigkeit gegebenenfalls die Beratungs- oder Prozesskostenhilfe; im Asylverfahren selbst fallen keine Gerichtskosten an (§ 83b AsylG). Ziehen Sie eine Anwältin oder einen Anwalt hinzu, wenn eine Frist sehr kurz ist, die Rechtslage streitig ist oder ein Eilverfahren neben der Klage nötig wird.</p>",
+   "zustaendig": [
+    "BAMF – unentgeltliche Rechtsauskunft (§ 12b AsylG)",
+    "Unabhängige Träger und Flüchtlingsräte – Asylverfahrensberatung (§ 12a AsylG) und allgemeine Beratung",
+    "Migrationsberatung für erwachsene Zuwanderer (MBE) und Jugendmigrationsdienst (JMD) – Alltagsfragen",
+    "Rechtsanwaltskammern und Deutscher Anwaltverein – Anwaltssuche"
+   ],
+   "belege": [
+    "Gesetze im Internet, § 12a, § 12b AsylG, abgerufen 24.09.2026",
+    "Bundesrechtsanwaltskammer, Bundesweites Amtliches Anwaltsverzeichnis, abgerufen 24.09.2026",
+    "Deutscher Anwaltverein, anwaltauskunft.de, abgerufen 24.09.2026",
+    "Refugee Law Clinics Deutschland e. V., Standorte, abgerufen 24.09.2026",
+    "Die Landesflüchtlingsräte / PRO ASYL, fluechtlingsrat.de, abgerufen 24.09.2026"
+   ],
+   "siehe_auch": [
+    "prozesskostenhilfe-beratungshilfe",
+    "untaetigkeitsklage-auslaenderbehoerde",
+    "ueberblick-selbst-handeln"
+   ],
+   "stand": "September 2026"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "familiennachzug-antrag",
+  "kategorie": "familie-abschluesse",
+  "titel": "Familiennachzug beantragen",
+  "icon": "👨‍👩‍👧",
+  "teaser": "Anerkannte Flüchtlinge können Ehepartner und Kinder nachholen – mit wichtiger 3-Monats-Frist. Für subsidiär Schutzberechtigte ist der Nachzug bis 23. Juli 2027 ausgesetzt.",
+  "schlagworte": [
+    "Familiennachzug",
+    "Familienzusammenführung",
+    "fristwahrende Anzeige",
+    "subsidiärer Schutz",
+    "Visum",
+    "Elternnachzug",
+    "Härtefall",
+    "Auslandsvertretung"
+  ],
+  "kurz_html": "<p>Sie sind als Flüchtling oder Asylberechtigter anerkannt? Dann können Ihr Ehepartner und Ihre minderjährigen, ledigen Kinder zu Ihnen kommen. Auch Ihre Eltern können kommen, wenn Sie selbst minderjährig sind und kein sorgeberechtigter Elternteil in Deutschland ist.</p><p><strong>Wichtig ist die Frist von drei Monaten.</strong> Sie beginnt, wenn Ihre Anerkennung nicht mehr angefochten werden kann. Wenn Sie in dieser Zeit den Nachzug anzeigen, müssen Sie später meistens kein eigenes Einkommen und keinen ausreichenden Wohnraum nachweisen.</p><p>Die Familie beantragt ein Visum bei der deutschen Botschaft oder dem Konsulat. Viele Visa kann man online über das Auslandsportal beantragen. Ein Termin vor Ort bleibt nötig.</p><p><strong>Subsidiärer Schutz:</strong> Der Nachzug ist bis zum 23. Juli 2027 ausgesetzt. Nur in Härtefällen gibt es Ausnahmen.</p><p>Diese Seite informiert allgemein. Sie ersetzt keine Rechtsberatung.</p>",
+  "schritte": [
+    {
+      "titel": "Datum der Anerkennung klären",
+      "text": "Ab wann ist Ihr Bescheid unanfechtbar? Ab dann laufen drei Monate. Notieren Sie das Datum."
+    },
+    {
+      "titel": "Fristwahrende Anzeige machen",
+      "text": "Innerhalb der drei Monate den Nachzug anzeigen, z. B. über das Webportal des Auswärtigen Amts zum Familiennachzug. Ausdruck und Bestätigung aufheben."
+    },
+    {
+      "titel": "Visum beantragen",
+      "text": "Die Familie stellt den Visumantrag bei der zuständigen deutschen Auslandsvertretung, wo möglich online über das Auslandsportal."
+    },
+    {
+      "titel": "Unterlagen sammeln",
+      "text": "Pässe, Heirats- und Geburtsurkunden, Ihren Anerkennungsbescheid und Ihren Aufenthaltstitel. Welche Unterlagen genau nötig sind, sagt die jeweilige Auslandsvertretung."
+    },
+    {
+      "titel": "Bei langem Warten reagieren",
+      "text": "Wird über den Antrag lange nicht entschieden, ist eine Untätigkeitsklage beim Verwaltungsgericht Berlin möglich (siehe eigene Seite)."
+    }
+  ],
+  "fristen": [
+    {
+      "wert": "3 Monate",
+      "was": "Antrag bzw. fristwahrende Anzeige nach unanfechtbarer Anerkennung; dann wird auf Lebensunterhalt und Wohnraum verzichtet (weitere Voraussetzungen).",
+      "grundlage": "§ 29 Abs. 2 Satz 2 Nr. 1, Satz 3 AufenthG"
+    },
+    {
+      "wert": "bis 23.07.2027",
+      "was": "Familiennachzug zu subsidiär Schutzberechtigten nach § 36a wird nicht gewährt; §§ 22, 23 bleiben unberührt.",
+      "grundlage": "§ 104 Abs. 14 AufenthG"
+    },
+    {
+      "wert": "1.000 Visa pro Monat",
+      "was": "Kontingent für den Nachzug zu subsidiär Schutzberechtigten (derzeit wegen Aussetzung ohne Wirkung).",
+      "grundlage": "§ 36a Abs. 2 Satz 3 AufenthG"
+    },
+    {
+      "wert": "1 Monat",
+      "was": "Klagefrist gegen eine Visumablehnung (ab Bekanntgabe), laut Auswärtigem Amt „typischerweise“; maßgeblich ist die Rechtsbehelfsbelehrung.",
+      "grundlage": "§ 74 VwGO"
+    }
+  ],
+  "achtung": [
+    "Die Frist von drei Monaten ist kurz. Wird sie verpasst, gelten meist die strengeren allgemeinen Voraussetzungen (Lebensunterhalt, Wohnraum).",
+    "Die Frist wird auch gewahrt, wenn die Person in Deutschland den Antrag rechtzeitig stellt (§ 29 Abs. 2 Satz 3 AufenthG).",
+    "Die Privilegierung gilt nicht, wenn die Familie in einem Nicht-EU-Staat zusammenleben kann, zu dem eine besondere Bindung besteht (§ 29 Abs. 2 Satz 2 Nr. 2 AufenthG).",
+    "Seit 1. Juli 2025 gibt es gegen abgelehnte Visa keine Remonstration mehr. Es bleibt die Klage beim Verwaltungsgericht Berlin oder ein neuer Antrag.",
+    "Härtefallanzeigen für Angehörige subsidiär Schutzberechtigter laufen nach Angaben des Auswärtigen Amts über die IOM; das ist kein Rechtsanspruch."
+  ],
+  "fach_html": "<h3>Privilegierter Nachzug zu Asylberechtigten und Flüchtlingen</h3><p>Nach § 29 Abs. 2 Satz 1 AufenthG kann beim Ehegatten und minderjährigen ledigen Kind von Schutzberechtigten von der Sicherung des Lebensunterhalts (§ 5 Abs. 1 Nr. 1) und ausreichendem Wohnraum (§ 29 Abs. 1 Nr. 2) abgesehen werden. Nach Satz 2 ist davon abzusehen, wenn der Antrag „innerhalb von drei Monaten nach unanfechtbarer Anerkennung als Asylberechtigter oder unanfechtbarer Zuerkennung der Flüchtlingseigenschaft […]“ gestellt wird (der Wortlaut nennt auch den subsidiären Schutz und § 23 Abs. 4; für subsidiär Schutzberechtigte läuft die Frist wegen § 104 Abs. 14 AufenthG derzeit ins Leere) und die Lebensgemeinschaft nicht in einem Nicht-EU-Staat mit besonderer Bindung möglich ist. Satz 3: Die Frist „wird auch durch die rechtzeitige Antragstellung des Ausländers gewahrt“. Das Auswärtige Amt verweist für Verfahren, fristwahrende Anzeige und Formulare auf sein Webportal zum Familiennachzug (fap.diplo.de).</p><h3>Eltern minderjähriger Schutzberechtigter</h3><p>§ 36 Abs. 1 AufenthG: Den Eltern eines minderjährigen Schutzberechtigten „ist abweichend von § 5 Absatz 1 Nummer 1 und § 29 Absatz 1 Satz 1 Nummer 2 eine Aufenthaltserlaubnis zu erteilen, wenn sich kein personensorgeberechtigter Elternteil im Bundesgebiet aufhält“. Maßgeblich ist die Minderjährigkeit des Kindes; wie sich ein Volljährigwerden während des Verfahrens auswirkt, ist hier nicht dargestellt.</p><h3>Subsidiär Schutzberechtigte: Aussetzung bis 23. Juli 2027</h3><p>§ 36a AufenthG erlaubt den Nachzug von Ehegatten, minderjährigen ledigen Kindern und Eltern Minderjähriger nur „aus humanitären Gründen“; ein Anspruch besteht nicht, monatlich können 1.000 Visa erteilt werden. Das Gesetz zur Aussetzung des Familiennachzugs zu subsidiär Schutzberechtigten vom 17.07.2025 (BGBl. 2025 I Nr. 173, verkündet am 23.07.2025) ist nach Angaben des Auswärtigen Amts am 24. Juli 2025 in Kraft getreten. § 104 Abs. 14 AufenthG: „Bis zum Ablauf des 23. Juli 2027 wird ein Familiennachzug nach § 36a […] nicht gewährt. Die §§ 22 und 23 bleiben unberührt.“ Härtefälle (§ 22 AufenthG, völkerrechtliche oder dringende humanitäre Gründe) können laut Auswärtigem Amt seit dem 26.07.2025 angezeigt werden. Ob die Aussetzung verlängert wird, ist offen.</p><h3>Visumverfahren</h3><p>Das Visum wird bei der zuständigen Auslandsvertretung beantragt. Über das Auslandsportal des Auswärtigen Amts sind laut Auswärtigem Amt (Stand 15.06.2026) Visumanträge „für 28 verschiedene Aufenthaltszwecke im Bereich von Langzeitvisa“ online möglich, darunter Familienzusammenführung; nicht jede Antragsart ist an jeder Vertretung verfügbar. Beim Vor-Ort-Termin werden Originale geprüft, biometrische Daten erfasst und die Gebühr gezahlt. Das Remonstrationsverfahren wurde „zum 1. Juli 2025 weltweit“ abgeschafft; gegen Ablehnungen bleibt die Klage beim VG Berlin, die Klagefrist beträgt laut Auswärtigem Amt „typischerweise einen (1) Monat ab Bekanntgabe“. Wartezeiten auf Termine sind je Vertretung sehr unterschiedlich; belastbare aktuelle Zahlen liegen hier nicht vor.</p><h3>Selbst machen oder Anwalt?</h3><p>Anzeige und Visumantrag stellen Sie selbst, ohne Anwalt. Eine Klage beim Verwaltungsgericht Berlin können Sie ebenfalls selbst führen (§ 67 Abs. 1 VwGO); Vertretungszwang besteht erst vor OVG und BVerwG (§ 67 Abs. 4 VwGO). Visagebühren zahlt die antragstellende Person; ein Gerichtsverfahren kostet Gerichtsgebühren nach dem GKG (siehe Seite zur Visum-Untätigkeitsklage). Anwaltliche Hilfe oder eine Beratungsstelle ist ratsam bei knapper oder verpasster Drei-Monats-Frist, bei Härtefällen, bei Zweifeln an Urkunden oder Identität und bei einer Ablehnung.</p>",
+  "zustaendig": [
+    "Deutsche Auslandsvertretung (Botschaft/Generalkonsulat) im Herkunfts- oder Aufenthaltsstaat",
+    "Ausländerbehörde am Wohnort der Person in Deutschland",
+    "Auswärtiges Amt (Webportal Familiennachzug, Auslandsportal)",
+    "Verwaltungsgericht Berlin (Klagen in Visumsachen)"
+  ],
+  "belege": [
+    "Gesetze im Internet, §§ 29, 36, 36a AufenthG, abgerufen 24.09.2026",
+    "Gesetze im Internet, § 104 Abs. 14 AufenthG; recht.bund.de, BGBl. 2025 I Nr. 173, abgerufen 24.09.2026",
+    "Auswärtiges Amt, Wichtige Information: Aussetzung des Familiennachzugs zu subsidiär Schutzberechtigten, abgerufen 24.09.2026",
+    "Auswärtiges Amt, Familiennachzug zum Schutzberechtigten (FAQ) und Auslandsportal (Stand 15.06.2026), abgerufen 24.09.2026",
+    "Auswärtiges Amt (Deutsche Vertretungen in Italien), Abschaffung des Remonstrationsverfahrens zum 1. Juli 2025, abgerufen 24.09.2026"
+  ],
+  "siehe_auch": [
+    "visum-untaetigkeitsklage",
+    "beratung-anlaufstellen",
+    "prozesskostenhilfe-beratungshilfe"
+  ],
+  "stand": "September 2026"
+}

@@ -1,0 +1,1042 @@
+{
+  "kategorien": [
+    {
+      "id": "grundlagen",
+      "titel": "Grundlagen",
+      "icon": "📋",
+      "beschreibung": "Überblick, Aufklärung, Einwilligung, Patientenverfügung und Akteneinsicht."
+    },
+    {
+      "id": "fehler",
+      "titel": "Behandlungsfehler",
+      "icon": "⚖️",
+      "beschreibung": "Fehler erkennen, Beweislast, Gutachten, Schmerzensgeld und Verjährung."
+    },
+    {
+      "id": "kasse",
+      "titel": "Krankenkasse und Kosten",
+      "icon": "💶",
+      "beschreibung": "Unterstützung der Kasse, Kostenerstattung, Ablehnung und IGeL."
+    },
+    {
+      "id": "versorgung",
+      "titel": "Versorgung",
+      "icon": "🏥",
+      "beschreibung": "Zweitmeinung und Entlassmanagement im Krankenhaus."
+    },
+    {
+      "id": "hilfe",
+      "titel": "Hilfe",
+      "icon": "🤝",
+      "beschreibung": "Beratung, Beschwerde und Anlaufstellen."
+    }
+  ],
+  "seiten": [
+    {
+      "id": "ueberblick",
+      "kategorie": "grundlagen",
+      "titel": "Überblick: Ihre Patientenrechte",
+      "icon": "🩺",
+      "teaser": "Was der Behandlungsvertrag bedeutet und welche Rechte Sie als Patient haben. Ein Einstieg mit Verweisen auf alle Themen.",
+      "schlagworte": [
+        "Patientenrechte",
+        "Behandlungsvertrag",
+        "630a",
+        "Facharztstandard",
+        "Behandelnder",
+        "Pflichten"
+      ],
+      "kurz_html": "<p>Wenn Sie zu einer Ärztin oder einem Arzt gehen, schließen Sie einen Behandlungsvertrag. Das gilt auch ohne Papier.</p><p>Die Behandlung muss nach den allgemein anerkannten fachlichen Standards erfolgen. Das steht im Gesetz.</p><p>Sie haben Rechte: Sie müssen verständlich informiert werden. Sie müssen der Behandlung zustimmen. Sie dürfen Ihre Akte einsehen. Bei Fehlern gibt es Wege zu Hilfe und Entschädigung.</p><p>Auf dieser Plattform finden Sie zu jedem Thema eine eigene Seite. Die Rechte gelten für Behandelnde allgemein, zum Beispiel Ärzte und Krankenhäuser.</p>",
+      "schritte": [
+        {
+          "titel": "Rechte kennen",
+          "text": "Lesen Sie die Seiten zu Aufklärung und Akteneinsicht."
+        },
+        {
+          "titel": "Nachfragen",
+          "text": "Fragen Sie bei Unklarheiten, bis Sie es verstanden haben."
+        },
+        {
+          "titel": "Unterlagen sammeln",
+          "text": "Bewahren Sie Befunde, Rechnungen und Formulare auf."
+        },
+        {
+          "titel": "Hilfe holen",
+          "text": "Bei Verdacht auf einen Fehler: siehe Seite Behandlungsfehler erkennen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "10 Jahre",
+          "was": "So lange muss die Behandlungsakte nach Abschluss der Behandlung aufbewahrt werden",
+          "grundlage": "§ 630f Abs. 3 BGB"
+        },
+        {
+          "wert": "3 Jahre",
+          "was": "Regelmäßige Verjährungsfrist für Ansprüche",
+          "grundlage": "§ 195 BGB"
+        }
+      ],
+      "achtung": [
+        "Dieser Wegweiser ist Information und keine Rechtsberatung.",
+        "Fristen bei Schadensersatz sind streng. Lesen Sie die Seite Verjährung früh.",
+        "Rechte gegenüber der Krankenkasse und gegenüber dem Arzt sind verschiedene Themen."
+      ],
+      "fach_html": "<h3>Behandlungsvertrag (§ 630a BGB)</h3><p>Nach § 630a BGB verpflichtet sich der Behandelnde zur „Leistung der versprochenen Behandlung“. Der Patient ist zur „Gewährung der vereinbarten Vergütung“ verpflichtet, soweit nicht ein Dritter zur Zahlung verpflichtet ist. Die Behandlung muss „nach den zum Zeitpunkt der Behandlung bestehenden, allgemein anerkannten fachlichen Standards“ erfolgen, soweit nichts anderes vereinbart ist.</p><h3>Anwendbares Recht (§ 630b BGB)</h3><p>Auf das Behandlungsverhältnis sind nach § 630b BGB die Vorschriften über das Dienstverhältnis anzuwenden, soweit die §§ 630a ff. nichts anderes bestimmen. Der Behandelnde schuldet also die sorgfältige Behandlung, nicht einen Heilerfolg.</p><h3>Die Patientenrechte im Überblick</h3><p>Die zentralen Vorschriften sind § 630c (Informationspflichten), § 630d (Einwilligung), § 630e (Aufklärung), § 630f (Dokumentation), § 630g (Einsichtnahme) und § 630h (Beweislast). Sie werden auf den folgenden Seiten erläutert.</p>",
+      "zustaendig": [
+        "Behandelnde (Ärzte, Krankenhäuser)",
+        "Krankenkasse",
+        "Stiftung Unabhängige Patientenberatung Deutschland"
+      ],
+      "belege": [
+        "Gesetze im Internet, BGB § 630a und § 630b, abgerufen 20.09.2026",
+        "Gesetze im Internet, BGB §§ 630c bis 630h, abgerufen 20.09.2026",
+        "Gesetze im Internet, BGB § 195, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "aufklaerung-einwilligung",
+        "akteneinsicht",
+        "behandlungsfehler-erkennen"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "aufklaerung-einwilligung",
+      "kategorie": "grundlagen",
+      "titel": "Aufklärung und Einwilligung",
+      "icon": "🗣️",
+      "teaser": "Ohne Ihre Einwilligung darf grundsätzlich nicht behandelt werden. Voraussetzung ist eine verständliche und rechtzeitige Aufklärung.",
+      "schlagworte": [
+        "Aufklärung",
+        "Einwilligung",
+        "630d",
+        "630e",
+        "Risiken",
+        "Widerruf",
+        "Alternativen"
+      ],
+      "kurz_html": "<p>Vor einer Behandlung müssen Sie zustimmen. Die Ärztin oder der Arzt muss Sie vorher aufklären.</p><p>Die Aufklärung muss mündlich sein. Sie muss verständlich sein. Sie muss so früh kommen, dass Sie in Ruhe entscheiden können.</p><p>Sie erhalten Kopien der Unterlagen, die Sie unterschreiben.</p><p>Sie können Ihre Zustimmung jederzeit zurücknehmen. Dafür brauchen Sie keinen Grund. Es geht formlos.</p><p>Bei einem Notfall gelten Ausnahmen.</p>",
+      "schritte": [
+        {
+          "titel": "Zuhören und fragen",
+          "text": "Fragen Sie nach Risiken, Nutzen und Alternativen."
+        },
+        {
+          "titel": "Zeit nehmen",
+          "text": "Unterschreiben Sie nicht unter Druck. Sie dürfen um Bedenkzeit bitten."
+        },
+        {
+          "titel": "Kopie verlangen",
+          "text": "Lassen Sie sich Kopien der unterschriebenen Unterlagen geben."
+        },
+        {
+          "titel": "Bei Zweifeln",
+          "text": "Holen Sie eine Zweitmeinung ein, wenn ein Eingriff geplant ist."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "rechtzeitig",
+          "was": "Aufklärung muss so rechtzeitig sein, dass Sie wohlüberlegt entscheiden können (keine feste Tagesfrist im Gesetz)",
+          "grundlage": "§ 630e Abs. 2 BGB"
+        }
+      ],
+      "achtung": [
+        "Ein Formular allein ersetzt das Gespräch nicht: Aufklärung muss mündlich erfolgen.",
+        "Aufklärung am Vorabend oder unmittelbar vor dem Eingriff kann zu spät sein. Ob das der Fall ist, hängt vom Einzelfall ab.",
+        "Bei unaufschiebbaren Maßnahmen oder Verzicht kann die Aufklärung entfallen."
+      ],
+      "fach_html": "<h3>Einwilligung (§ 630d BGB)</h3><p>Vor Durchführung einer medizinischen Maßnahme ist der Behandelnde verpflichtet, die Einwilligung des Patienten einzuholen. Ist der Patient einwilligungsunfähig, ist die Einwilligung eines Berechtigten einzuholen, soweit nicht eine Patientenverfügung nach § 1827 Abs. 1 Satz 1 BGB die Maßnahme gestattet oder untersagt. In Notfällen darf die Maßnahme ohne Einwilligung durchgeführt werden, wenn sie dem mutmaßlichen Willen des Patienten entspricht. Die Einwilligung setzt eine Aufklärung nach § 630e Abs. 1 bis 4 BGB voraus und kann nach § 630d Abs. 3 BGB „jederzeit und ohne Angabe von Gründen formlos widerrufen werden“.</p><h3>Inhalt der Aufklärung (§ 630e Abs. 1 BGB)</h3><p>Aufzuklären ist über „Art, Umfang, Durchführung, zu erwartende Folgen und Risiken der Maßnahme sowie ihre Notwendigkeit, Dringlichkeit, Eignung und Erfolgsaussichten“. Bestehen mehrere medizinisch gleichermaßen indizierte und übliche Methoden mit wesentlich unterschiedlichen Belastungen, Risiken oder Heilungschancen, sind auch die Alternativen zu nennen.</p><h3>Form und Ausnahmen (§ 630e Abs. 2 und 3 BGB)</h3><p>Die Aufklärung muss mündlich durch den Behandelnden oder eine Person mit der notwendigen Ausbildung erfolgen, so rechtzeitig, dass der Patient seine Entscheidung wohlüberlegt treffen kann, und für den Patienten verständlich sein. Unterlagen, die der Patient unterzeichnet hat, sind ihm in Kopie auszuhändigen. Die Aufklärung ist ausnahmsweise entbehrlich, insbesondere wenn die Maßnahme unaufschiebbar ist oder der Patient ausdrücklich verzichtet hat. Nach § 630e Abs. 5 BGB ist bei allen einwilligungsunfähigen Patienten (nicht nur Minderjährigen) der Patient entsprechend seinem Verständnis und Entwicklungsstand einzubeziehen, soweit dies seinem Wohl nicht zuwiderläuft.</p><h3>Bedeutung bei Streit</h3><p>Nach § 630h Abs. 2 BGB muss der Behandelnde beweisen, dass er eine Einwilligung eingeholt und ordnungsgemäß aufgeklärt hat (siehe Seite Beweislast).</p>",
+      "zustaendig": [
+        "Behandelnder Arzt",
+        "Krankenhaus",
+        "Stiftung Unabhängige Patientenberatung Deutschland"
+      ],
+      "belege": [
+        "Gesetze im Internet, BGB § 630d, abgerufen 20.09.2026",
+        "Gesetze im Internet, BGB § 630e, abgerufen 20.09.2026",
+        "Gesetze im Internet, BGB § 630h, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "patientenverfuegung",
+        "beweislast",
+        "zweitmeinung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "patientenverfuegung",
+      "kategorie": "grundlagen",
+      "titel": "Patientenverfügung und Einwilligungsunfähigkeit",
+      "icon": "📝",
+      "teaser": "Wenn Sie selbst nicht mehr entscheiden können: Eine Patientenverfügung kann Behandlungen gestatten oder untersagen.",
+      "schlagworte": [
+        "Patientenverfügung",
+        "1827",
+        "Einwilligungsunfähigkeit",
+        "Betreuer",
+        "mutmaßlicher Wille",
+        "Notfall"
+      ],
+      "kurz_html": "<p>Manchmal können Sie nicht selbst entscheiden, zum Beispiel bei Bewusstlosigkeit. Dann kann eine Patientenverfügung helfen.</p><p>In der Patientenverfügung legen Sie schriftlich fest, welche Behandlungen Sie wollen und welche nicht.</p><p>Sie muss schriftlich sein. Sie muss auf die Situation passen. Sie kann jederzeit formlos widerrufen werden.</p><p>Gibt es keine passende Verfügung, wird Ihr Wille aus Ihren Wünschen und Überzeugungen erschlossen.</p>",
+      "schritte": [
+        {
+          "titel": "Nachdenken",
+          "text": "Überlegen Sie, welche Behandlungen Sie in welcher Lage wollen."
+        },
+        {
+          "titel": "Schriftlich festhalten",
+          "text": "Formulieren Sie die Verfügung schriftlich und konkret."
+        },
+        {
+          "titel": "Informieren",
+          "text": "Sagen Sie Angehörigen und Ärzten, dass es sie gibt und wo sie liegt."
+        },
+        {
+          "titel": "Beratung nutzen",
+          "text": "Lassen Sie sich zu Formulierungen beraten. Eine Beratungsstelle dafür nennt diese Seite nicht."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "schriftlich",
+          "was": "Die Patientenverfügung muss schriftlich sein; Widerruf ist jederzeit formlos möglich",
+          "grundlage": "§ 1827 Abs. 1 BGB"
+        }
+      ],
+      "achtung": [
+        "Zu allgemeine Formulierungen können im Ernstfall nicht passen.",
+        "Nur Volljährige, die einwilligungsfähig sind, können eine Patientenverfügung errichten.",
+        "Vorsorgevollmacht und Betreuungsverfügung sind eigene Themen und hier nicht behandelt."
+      ],
+      "fach_html": "<h3>Gesetzliche Grundlage (§ 1827 BGB)</h3><p>Hat ein einwilligungsfähiger Volljähriger für den Fall seiner Einwilligungsunfähigkeit schriftlich festgelegt, ob er in bestimmte, zum Zeitpunkt der Festlegung noch nicht unmittelbar bevorstehende Untersuchungen seines Gesundheitszustands, Heilbehandlungen oder ärztliche Eingriffe einwilligt oder sie untersagt (Patientenverfügung), hat der Betreuer zu prüfen, ob diese Festlegungen auf die aktuelle Lebens- und Behandlungssituation zutreffen. Ist das der Fall, hat er dem Willen des Betreuten Ausdruck und Geltung zu verschaffen. Eine Patientenverfügung kann jederzeit formlos widerrufen werden.</p><h3>Ohne passende Verfügung (§ 1827 Abs. 2 BGB)</h3><p>Liegt keine Patientenverfügung vor oder passen die Festlegungen nicht, hat der Betreuer die Behandlungswünsche oder den mutmaßlichen Willen des Betreuten festzustellen und darauf gestützt zu entscheiden. Der mutmaßliche Wille ist aufgrund konkreter Anhaltspunkte zu ermitteln, etwa früherer Äußerungen, ethischer oder religiöser Überzeugungen und sonstiger persönlicher Wertvorstellungen.</p><h3>Bezug zum Behandlungsvertrag (§ 630d Abs. 1 BGB)</h3><p>Ist der Patient einwilligungsunfähig, gilt die Verfügung nach § 630d Abs. 1 Satz 2 BGB, wenn sie die Maßnahme gestattet oder untersagt. Im Notfall ohne Einwilligungsmöglichkeit darf nach dem mutmaßlichen Willen behandelt werden.</p>",
+      "zustaendig": [
+        "Behandelnder Arzt",
+        "Betreuer oder Bevollmächtigter",
+        "Stiftung Unabhängige Patientenberatung Deutschland"
+      ],
+      "belege": [
+        "Gesetze im Internet, BGB § 1827, abgerufen 20.09.2026",
+        "Gesetze im Internet, BGB § 630d, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "aufklaerung-einwilligung",
+        "beratung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "akteneinsicht",
+      "kategorie": "grundlagen",
+      "titel": "Akteneinsicht und Kopie der Behandlungsakte",
+      "icon": "📁",
+      "teaser": "Sie dürfen Ihre vollständige Behandlungsakte einsehen. Die erste Abschrift ist kostenlos. Die Akte muss zehn Jahre aufbewahrt werden.",
+      "schlagworte": [
+        "Akteneinsicht",
+        "Behandlungsakte",
+        "Patientenakte",
+        "630g",
+        "630f",
+        "Kopie",
+        "Dokumentation",
+        "Erben"
+      ],
+      "kurz_html": "<p>Sie haben das Recht, Ihre Behandlungsakte zu sehen. Das gilt für die vollständige Akte.</p><p>Sie können Abschriften verlangen. Die erste Abschrift muss kostenlos sein.</p><p>Die Einsicht muss unverzüglich gewährt werden. Nur bei erheblichen therapeutischen Gründen oder Rechten Dritter kann sie abgelehnt werden. Dann müssen die Gründe genannt werden.</p><p>Ärzte müssen die Akte zehn Jahre nach Ende der Behandlung aufbewahren.</p>",
+      "schritte": [
+        {
+          "titel": "Schriftlich anfragen",
+          "text": "Bitten Sie die Praxis oder Klinik schriftlich um Einsicht und Kopie."
+        },
+        {
+          "titel": "Vollständigkeit fordern",
+          "text": "Fragen Sie nach der ganzen Akte, auch Befunden und Bildern."
+        },
+        {
+          "titel": "Eingang notieren",
+          "text": "Notieren Sie Datum Ihrer Anfrage und Antwort."
+        },
+        {
+          "titel": "Bei Ablehnung",
+          "text": "Verlangen Sie die Begründung und holen Sie Rat."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "unverzüglich",
+          "was": "Einsicht in die vollständige Behandlungsakte auf Verlangen",
+          "grundlage": "§ 630g Abs. 1 BGB"
+        },
+        {
+          "wert": "10 Jahre",
+          "was": "Aufbewahrungsdauer der Akte nach Abschluss der Behandlung",
+          "grundlage": "§ 630f Abs. 3 BGB"
+        }
+      ],
+      "achtung": [
+        "Ablehnung ist nur bei erheblichen therapeutischen Gründen oder erheblichen Rechten Dritter zulässig und muss begründet werden.",
+        "Fehlende Dokumentation wichtiger Maßnahmen kann sich zu Ihren Gunsten auswirken (siehe Beweislast).",
+        "Nach dem Tod eines Patienten haben Erben und Nahestehende eingeschränkte Rechte und tragen die Kosten (§ 630g Abs. 3 BGB); der Wille des Patienten kann entgegenstehen."
+      ],
+      "fach_html": "<h3>Dokumentationspflicht (§ 630f BGB)</h3><p>Der Behandelnde ist verpflichtet, „in unmittelbarem zeitlichen Zusammenhang mit der Behandlung eine Behandlungsakte in Papierform oder elektronisch zu führen“. Berichtigungen und Änderungen müssen erkennbar bleiben. Aufzuzeichnen sind sämtliche aus fachlicher Sicht für die derzeitige und künftige Behandlung wesentlichen Maßnahmen und Ergebnisse, insbesondere Anamnese, Diagnosen, Untersuchungen, Therapien und Einwilligungen. Die Akte ist zehn Jahre nach Abschluss der Behandlung aufzubewahren, soweit nicht andere Vorschriften längere Fristen vorsehen.</p><h3>Einsichtnahme in die Behandlungsakte (§ 630g BGB)</h3><p>Seit dem 06.02.2026 (Gesetz vom 03.02.2026, BGBl. 2026 I Nr. 28) heißt es im Gesetz „Behandlungsakte“ statt „Patientenakte“; § 630g ist in vier Absätze gegliedert. Dem Patienten ist auf Verlangen unverzüglich Einsicht in die vollständige, ihn betreffende Behandlungsakte zu gewähren. Er kann elektronische Abschriften verlangen; die erste Abschrift ist unentgeltlich. Die Einsicht kann nur abgelehnt werden, soweit erhebliche therapeutische Gründe oder sonstige erhebliche Rechte Dritter entgegenstehen; die Ablehnung ist zu begründen.</p><h3>Nach dem Tod und Datenschutz</h3><p>Nach dem Tod des Patienten stehen die Rechte zur Wahrnehmung vermögensrechtlicher Interessen den Erben zu, zur Wahrnehmung ideeller Interessen den nächsten Angehörigen; sie sind ausgeschlossen, soweit die Einsicht dem ausdrücklichen oder mutmaßlichen Willen des Patienten widerspricht. Nach § 630g Abs. 3 BGB tragen Erben und Angehörige, die Einsicht oder Abschriften verlangen, die Kosten. Nach Abs. 4 bleiben datenschutzrechtliche Ansprüche unberührt; eine unentgeltliche datenschutzrechtliche Auskunft wird auf den Anspruch auf die erste Abschrift angerechnet.</p>",
+      "zustaendig": [
+        "Behandelnder Arzt oder Krankenhaus",
+        "Datenschutzaufsicht (bei Streit über Auskunft; nicht näher geprüft)",
+        "Stiftung Unabhängige Patientenberatung Deutschland"
+      ],
+      "belege": [
+        "Gesetze im Internet, BGB § 630f, abgerufen 20.09.2026",
+        "Gesetze im Internet, BGB § 630g, abgerufen 20.09.2026",
+        "Gesetze im Internet, BGB § 630h, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "behandlungsfehler-erkennen",
+        "beweislast"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "behandlungsfehler-erkennen",
+      "kategorie": "fehler",
+      "titel": "Behandlungsfehler erkennen und erste Schritte",
+      "icon": "🔍",
+      "teaser": "Wann liegt ein Behandlungsfehler vor, was muss der Arzt Ihnen sagen, und wie gehen Sie vor, wenn Sie einen Fehler vermuten?",
+      "schlagworte": [
+        "Behandlungsfehler",
+        "Verdacht",
+        "Informationspflicht",
+        "Gedächtnisprotokoll",
+        "Facharztstandard",
+        "Arzthaftung"
+      ],
+      "kurz_html": "<p>Ein Behandlungsfehler liegt vor, wenn nicht nach den anerkannten fachlichen Standards behandelt wurde. Nicht jedes schlechte Ergebnis ist ein Fehler.</p><p>Wenn der Arzt einen Fehler erkennt, muss er Sie auf Nachfrage informieren. Er muss es auch tun, wenn Sie sonst gesundheitlich gefährdet wären.</p><p>Bei Verdacht: Ruhe bewahren. Sammeln Sie Unterlagen. Fordern Sie Ihre Akte an. Holen Sie Hilfe.</p>",
+      "schritte": [
+        {
+          "titel": "Aufschreiben",
+          "text": "Notieren Sie, was wann passiert ist. Am besten bald nach den Ereignissen."
+        },
+        {
+          "titel": "Akte anfordern",
+          "text": "Fordern Sie die Behandlungsakte an."
+        },
+        {
+          "titel": "Kasse und Beratung",
+          "text": "Fragen Sie Ihre Krankenkasse und eine Patientenberatung."
+        },
+        {
+          "titel": "Nächsten Weg wählen",
+          "text": "Gutachten, Schlichtung oder Klage: siehe die folgenden Seiten."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "3 Jahre",
+          "was": "Verjährung nach Kenntnis, gerechnet ab Jahresende",
+          "grundlage": "§§ 195, 199 Abs. 1 BGB"
+        },
+        {
+          "wert": "30 Jahre",
+          "was": "Höchstfrist bei Verletzung von Körper oder Gesundheit",
+          "grundlage": "§ 199 Abs. 2 BGB"
+        }
+      ],
+      "achtung": [
+        "Ein schlechter Ausgang allein beweist keinen Fehler. Es gibt bekannte Risiken.",
+        "Die Verjährung läuft. Warten Sie nicht zu lange.",
+        "Vertrauen Sie nicht nur mündlichen Aussagen. Halten Sie Gespräche schriftlich fest."
+      ],
+      "fach_html": "<h3>Maßstab</h3><p>Nach § 630a Abs. 2 BGB muss die Behandlung nach den zum Zeitpunkt der Behandlung bestehenden, allgemein anerkannten fachlichen Standards erfolgen. Ein Behandlungsfehler wird daran gemessen. Fehler können in Diagnose, Therapie, Organisation oder Aufklärung liegen; die Aufklärung wird auf der Seite Aufklärung behandelt.</p><h3>Informationspflicht bei Fehlern (§ 630c Abs. 2 Satz 2 BGB)</h3><p>Sind für den Behandelnden Umstände erkennbar, die die Annahme eines Behandlungsfehlers begründen, hat er den Patienten „auf Nachfrage oder zur Abwendung gesundheitlicher Gefahren“ zu informieren. Das Gesetz enthält hierzu weitere Regelungen zur Verwendung solcher Angaben in Straf- oder Bußgeldverfahren; sie wurden nicht näher geprüft.</p><h3>Ausmaß in der Praxis</h3><p>Der Medizinische Dienst hat nach seiner Jahresstatistik 2024 bundesweit 12.304 fachärztliche Gutachten zu vermuteten Behandlungsfehlern erstellt. In 3.301 Fällen (etwa jeder vierte) stellten die Gutachter einen Behandlungsfehler mit Schaden fest, in 2.825 Fällen (etwa 23 Prozent) war der Fehler ursächlich für den Schaden (Suchauszug, nicht Volltext).</p>",
+      "zustaendig": [
+        "Krankenkasse (Unterstützung nach § 66 SGB V)",
+        "Ärztekammer, Gutachterkommission oder Schlichtungsstelle",
+        "Stiftung Unabhängige Patientenberatung Deutschland"
+      ],
+      "belege": [
+        "Gesetze im Internet, BGB § 630a und § 630c, abgerufen 20.09.2026",
+        "Gesetze im Internet, BGB §§ 195, 199, abgerufen 20.09.2026",
+        "Medizinischer Dienst Bund, Jahresstatistik Behandlungsfehler 2024 (Suchauszug), abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "beweislast",
+        "gutachten-schlichtung",
+        "verjaehrung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "beweislast",
+      "kategorie": "fehler",
+      "titel": "Beweislast bei Behandlungsfehlern",
+      "icon": "⚖️",
+      "teaser": "Wer muss was beweisen? § 630h BGB erleichtert Ihnen den Nachweis in bestimmten Fällen, etwa bei groben Fehlern oder fehlender Dokumentation.",
+      "schlagworte": [
+        "Beweislast",
+        "630h",
+        "grober Behandlungsfehler",
+        "Dokumentation",
+        "voll beherrschbares Risiko",
+        "Kausalität"
+      ],
+      "kurz_html": "<p>Im Streit müssen Tatsachen bewiesen werden. Wer beweisen muss, ist wichtig.</p><p>Das Gesetz erleichtert Ihnen den Nachweis in bestimmten Fällen. Es vermutet dann zu Ihren Gunsten einen Fehler oder den Zusammenhang mit dem Schaden.</p><p>Der Arzt muss beweisen, dass er aufgeklärt hat und dass Sie eingewilligt haben.</p><p>Fehlt eine wichtige Eintragung in der Akte, wird vermutet, dass die Maßnahme nicht durchgeführt wurde.</p>",
+      "schritte": [
+        {
+          "titel": "Akte prüfen",
+          "text": "Lassen Sie prüfen, ob wichtige Maßnahmen fehlen oder Einträge nachträglich geändert wurden."
+        },
+        {
+          "titel": "Aufklärung klären",
+          "text": "Notieren Sie, was Ihnen erklärt wurde."
+        },
+        {
+          "titel": "Unterlagen sichern",
+          "text": "Behalten Sie Kopien aller Formulare."
+        },
+        {
+          "titel": "Fachrat",
+          "text": "Lassen Sie den Fall von einer Beratungsstelle oder einem Anwalt einschätzen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "Vermutung",
+          "was": "Bei groben Behandlungsfehlern wird der ursächliche Zusammenhang mit dem Schaden vermutet",
+          "grundlage": "§ 630h Abs. 5 BGB"
+        }
+      ],
+      "achtung": [
+        "Die Vermutungen gelten nur in den im Gesetz genannten Fällen.",
+        "Ob ein Fehler „grob“ ist, ist eine Wertung, die im Streit oft von Gutachtern abhängt.",
+        "Ohne solche Ausnahmen liegt die Beweislast im Grundsatz beim Anspruchsteller (siehe unsichere Punkte)."
+      ],
+      "fach_html": "<h3>Die Regeln des § 630h BGB</h3><p>Abs. 1: Ein Fehler des Behandelnden wird vermutet, wenn sich ein allgemeines Behandlungsrisiko verwirklicht hat, das für den Behandelnden voll beherrschbar war und das zur Verletzung des Lebens, des Körpers oder der Gesundheit des Patienten geführt hat. Abs. 2: Der Behandelnde hat zu beweisen, dass er eine Einwilligung eingeholt und entsprechend den Anforderungen des § 630e aufgeklärt hat; genügt die Aufklärung nicht, kann er sich darauf berufen, dass der Patient auch bei ordnungsgemäßer Aufklärung eingewilligt hätte.</p><h3>Dokumentation, Befähigung, grober Fehler</h3><p>Abs. 3: Hat der Behandelnde eine medizinisch gebotene wesentliche Maßnahme nicht in der Behandlungsakte aufgezeichnet oder die Akte nicht aufbewahrt, wird vermutet, dass er die Maßnahme nicht getroffen hat. Abs. 4: War der Behandelnde für die Behandlung nicht befähigt, wird vermutet, dass mangelnde Befähigung ursächlich für den Schaden war. Abs. 5: Liegt ein grober Behandlungsfehler vor und ist er grundsätzlich geeignet, eine Verletzung der tatsächlich eingetretenen Art herbeizuführen, wird vermutet, dass der Fehler ursächlich war; dies gilt auch bei einem Verstoß gegen die Pflicht zur Erhebung oder Sicherung medizinisch gebotener Befunde in bestimmten Fällen.</p><h3>Grundregel</h3><p>Dass der Patient im Übrigen grundsätzlich Behandlungsfehler, Schaden und Zusammenhang darlegen und beweisen muss, ist hier aus der Systematik der Norm abgeleitet. Dies wurde nicht aus einer eigenen Rechtsprechungsquelle belegt.</p>",
+      "zustaendig": [
+        "Gericht (Zivilgericht)",
+        "Fachanwalt für Medizinrecht (Rechtsanwaltskammer; keine Empfehlung einzelner)",
+        "Gutachterkommission oder Schlichtungsstelle"
+      ],
+      "belege": [
+        "Gesetze im Internet, BGB § 630h, abgerufen 20.09.2026",
+        "Gesetze im Internet, BGB § 630f, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "akteneinsicht",
+        "gutachten-schlichtung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "gutachten-schlichtung",
+      "kategorie": "fehler",
+      "titel": "Gutachten: Medizinischer Dienst und Schlichtungsstelle",
+      "icon": "🧾",
+      "teaser": "Zwei Wege zu einer fachlichen Prüfung: das Gutachten des Medizinischen Dienstes über Ihre Krankenkasse und das Verfahren bei der Ärztekammer.",
+      "schlagworte": [
+        "Gutachten",
+        "Medizinischer Dienst",
+        "Schlichtungsstelle",
+        "Gutachterkommission",
+        "Ärztekammer",
+        "kostenfrei",
+        "Behandlungsfehler"
+      ],
+      "kurz_html": "<p>Wenn Sie einen Fehler vermuten, kann ein Gutachten helfen.</p><p>Erster Weg: Ihre Krankenkasse kann den Medizinischen Dienst um ein Gutachten bitten. Sie brauchen dafür Ihre Zustimmung.</p><p>Zweiter Weg: Die Ärztekammern haben Gutachterkommissionen und Schlichtungsstellen. Das Verfahren ist für Patienten kostenfrei und meist schriftlich. Es dauert durchschnittlich etwa 15 Monate.</p><p>Sie können danach trotzdem vor Gericht gehen.</p>",
+      "schritte": [
+        {
+          "titel": "Zuständige Stelle finden",
+          "text": "Zuständig ist die Stelle, in deren Bereich behandelt wurde. Die Adresse erfahren Sie bei der Landesärztekammer."
+        },
+        {
+          "titel": "Antrag stellen",
+          "text": "Stellen Sie den Antrag schriftlich mit Ihrer Schilderung und Unterlagen."
+        },
+        {
+          "titel": "Kasse einbeziehen",
+          "text": "Fragen Sie Ihre Krankenkasse nach einem Gutachten des Medizinischen Dienstes."
+        },
+        {
+          "titel": "Ergebnis prüfen",
+          "text": "Lassen Sie das Ergebnis beraten. Klage bleibt möglich."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "ca. 15 Monate",
+          "was": "Durchschnittliche Dauer des Verfahrens bei der Schlichtungsstelle (Angabe der Stellen)",
+          "grundlage": "aerztekammern-schlichten.de, Verfahren"
+        },
+        {
+          "wert": "kostenfrei",
+          "was": "Das Verfahren ist für Patienten kostenfrei; eigene Kosten und Anwaltskosten trägt jede Seite selbst",
+          "grundlage": "aerztekammern-schlichten.de, Verfahren"
+        }
+      ],
+      "achtung": [
+        "Das Ergebnis bindet Sie nicht. Sie können weiterhin klagen.",
+        "Ein Antrag bei der Schlichtungsstelle der Ärztekammer hemmt die Verjährung (§ 204 Abs. 1 Nr. 4 BGB; siehe Seite Verjährung).",
+        "Nicht jede Ärztekammer verfährt gleich; die Verfahren richten sich nach Landesrecht.",
+        "Das Verfahren ist freiwillig; alle Beteiligten müssen zustimmen. Manche Kammern schließen laufende Gerichtsverfahren, Strafanzeigen oder zu alte Fälle aus. Prüfen Sie das bei der zuständigen Kammer."
+      ],
+      "fach_html": "<h3>Gutachten des Medizinischen Dienstes (§ 66 SGB V)</h3><p>Nach § 66 SGB V sollen Krankenkassen Versicherte bei der Verfolgung von Schadensersatzansprüchen unterstützen, die aus Behandlungsfehlern entstanden sind. Dazu gehört unter anderem die sozialmedizinische Begutachtung durch den Medizinischen Dienst. Daten, die mit Einwilligung des Versicherten erhoben werden, dürfen ausschließlich zur Unterstützung bei Behandlungsfehlern verarbeitet werden. Der Medizinische Dienst erstellte 2024 nach seiner Statistik 12.304 solcher Gutachten. In 3.301 Fällen wurde ein Fehler mit Schaden festgestellt (etwa jeder vierte Fall), in 2.825 Fällen zudem ein ursächlicher Zusammenhang (etwa jeder fünfte Fall).</p><h3>Gutachterkommissionen und Schlichtungsstellen der Ärztekammern</h3><p>Nach den Angaben der Stellen prüfen unabhängige Ärzte und Juristen anhand der Behandlungsunterlagen, ob ein Behandlungsfehler vorliegt, ob er dem Arzt zuzurechnen ist und ob der Patient dadurch einen Gesundheitsschaden erlitten hat. Das Verfahren wird regelmäßig schriftlich durchgeführt und ist für Patienten kostenfrei. Örtlich zuständig ist die Stelle, in deren Bereich die Behandlung stattfand. Die Beteiligten erhalten schriftlich Mitteilung, ob ein Fehler mit Anspruch vorliegt. Der Rechtsweg bleibt unabhängig vom Ergebnis offen.</p><h3>Voraussetzungen und Verjährung</h3><p>Das Verfahren ist freiwillig; alle Beteiligten müssen zustimmen. Manche Kammern schließen laufende Gerichtsverfahren, Strafanzeigen oder zu alte Fälle aus. Bitte prüfen Sie dies bei der zuständigen Ärztekammer. Der Antrag hemmt die Verjährung nach § 204 Abs. 1 Nr. 4 BGB (siehe Seite Verjährung).</p>",
+      "zustaendig": [
+        "Landesärztekammer (Gutachterkommission oder Schlichtungsstelle)",
+        "Krankenkasse",
+        "Medizinischer Dienst"
+      ],
+      "belege": [
+        "Gutachterkommissionen und Schlichtungsstellen der Ärztekammern, Seite Verfahren, abgerufen 20.09.2026",
+        "Gesetze im Internet, SGB V § 66, abgerufen 20.09.2026",
+        "Medizinischer Dienst Bund, Jahresstatistik Behandlungsfehler 2024, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "krankenkasse-unterstuetzung",
+        "verjaehrung",
+        "schmerzensgeld"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "schmerzensgeld",
+      "kategorie": "fehler",
+      "titel": "Schmerzensgeld und Schadensersatz",
+      "icon": "💰",
+      "teaser": "Bei einer Verletzung von Körper oder Gesundheit kann neben Vermögensschäden auch eine billige Entschädigung in Geld verlangt werden.",
+      "schlagworte": [
+        "Schmerzensgeld",
+        "Schadensersatz",
+        "253",
+        "immaterieller Schaden",
+        "Haftpflicht",
+        "Klage"
+      ],
+      "kurz_html": "<p>Wenn ein Behandlungsfehler Sie verletzt hat, können Sie Schadensersatz verlangen. Das gilt für Kosten und Verdienstausfall.</p><p>Zusätzlich kann es Schmerzensgeld geben. Das ist eine Entschädigung für Schmerzen und andere nicht in Geld messbare Folgen.</p><p>Die Höhe hängt vom Einzelfall ab. Diese Plattform nennt keine Beträge.</p><p>Meist zahlt die Haftpflichtversicherung des Arztes. Oft wird zuerst außergerichtlich verhandelt.</p>",
+      "schritte": [
+        {
+          "titel": "Schaden dokumentieren",
+          "text": "Sammeln Sie Belege: Rechnungen, Atteste, Verdienstnachweise."
+        },
+        {
+          "titel": "Fehler klären",
+          "text": "Nutzen Sie Gutachten von Kasse oder Schlichtungsstelle."
+        },
+        {
+          "titel": "Forderung erheben",
+          "text": "Lassen Sie sich beraten, wie Sie den Anspruch geltend machen."
+        },
+        {
+          "titel": "Frist beachten",
+          "text": "Beachten Sie die Verjährung."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "3 Jahre",
+          "was": "Regelmäßige Verjährungsfrist",
+          "grundlage": "§ 195 BGB"
+        },
+        {
+          "wert": "30 Jahre",
+          "was": "Höchstfrist bei Verletzung von Körper oder Gesundheit",
+          "grundlage": "§ 199 Abs. 2 BGB"
+        }
+      ],
+      "achtung": [
+        "Beträge hängen vom Einzelfall ab. Vergleichszahlen aus dem Internet sind kein Anspruch.",
+        "Vorschnelle Vergleiche können weitere Ansprüche ausschließen. Lassen Sie sich vorher beraten.",
+        "Krankenkassen können eigene Ansprüche haben; das ist hier nicht behandelt."
+      ],
+      "fach_html": "<h3>Rechtsgrundlage für Schmerzensgeld (§ 253 BGB)</h3><p>Nach § 253 Abs. 1 BGB kann wegen eines Schadens, der nicht Vermögensschaden ist, Entschädigung in Geld nur in den durch das Gesetz bestimmten Fällen gefordert werden. Nach Abs. 2 kann, wenn wegen einer Verletzung des Körpers, der Gesundheit, der Freiheit oder der sexuellen Selbstbestimmung Schadensersatz zu leisten ist, auch wegen des Schadens, der nicht Vermögensschaden ist, eine billige Entschädigung in Geld gefordert werden.</p><h3>Anspruchsvoraussetzungen</h3><p>Der Anspruch setzt einen Behandlungs- oder Aufklärungsfehler, einen Schaden und den Zusammenhang voraus (siehe Seite Beweislast). Die Anspruchsgrundlagen im Einzelnen (Vertrag und unerlaubte Handlung) wurden hier nicht vertieft geprüft.</p><h3>Höhe</h3><p>Zur Höhe wurden keine Beträge oder Tabellen geprüft. Die Höhe ist eine Einzelfallentscheidung.</p>",
+      "zustaendig": [
+        "Zivilgericht",
+        "Haftpflichtversicherer des Behandelnden (kein Ansprechpartner benannt)",
+        "Fachanwalt für Medizinrecht"
+      ],
+      "belege": [
+        "Gesetze im Internet, BGB § 253, abgerufen 20.09.2026",
+        "Gesetze im Internet, BGB §§ 195, 199, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "verjaehrung",
+        "beweislast"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "verjaehrung",
+      "kategorie": "fehler",
+      "titel": "Verjährung von Ansprüchen",
+      "icon": "⏳",
+      "teaser": "Regelmäßig drei Jahre ab Ende des Jahres, in dem Sie Kenntnis erlangten. Verhandlungen und bestimmte Verfahren hemmen die Frist.",
+      "schlagworte": [
+        "Verjährung",
+        "195",
+        "199",
+        "Hemmung",
+        "Klage",
+        "Verhandlungen",
+        "Frist"
+      ],
+      "kurz_html": "<p>Ansprüche können verjähren. Dann können Sie sie nicht mehr durchsetzen, wenn die andere Seite sich darauf beruft.</p><p>Die übliche Frist beträgt drei Jahre. Sie beginnt am Ende des Jahres, in dem der Anspruch entstanden ist und Sie von den Umständen erfuhren.</p><p>Bei Verletzung von Körper oder Gesundheit gilt zusätzlich eine Höchstfrist von 30 Jahren.</p><p>Während Verhandlungen und bei einer Klage kann die Frist gehemmt sein. Holen Sie Rat, bevor Sie darauf vertrauen.</p>",
+      "schritte": [
+        {
+          "titel": "Datum klären",
+          "text": "Wann haben Sie vom Fehler und vom Verantwortlichen erfahren?"
+        },
+        {
+          "titel": "Fristende berechnen",
+          "text": "Rechnen Sie drei Jahre ab dem Ende dieses Jahres."
+        },
+        {
+          "titel": "Früh handeln",
+          "text": "Lassen Sie sich früh beraten."
+        },
+        {
+          "titel": "Hemmung klären",
+          "text": "Fragen Sie, ob Verhandlungen oder Verfahren die Frist hemmen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "3 Jahre",
+          "was": "Regelmäßige Verjährungsfrist, Beginn mit Schluss des Jahres der Kenntnis",
+          "grundlage": "§§ 195, 199 Abs. 1 BGB"
+        },
+        {
+          "wert": "30 Jahre",
+          "was": "Höchstfrist bei Verletzung von Leben, Körper, Gesundheit oder Freiheit",
+          "grundlage": "§ 199 Abs. 2 BGB"
+        },
+        {
+          "wert": "frühestens 3 Monate nach Ende der Hemmung",
+          "was": "Bei Verhandlungen über den Anspruch tritt Verjährung frühestens drei Monate nach dem Ende der Hemmung ein",
+          "grundlage": "§ 203 BGB"
+        }
+      ],
+      "achtung": [
+        "Wann Sie „Kenntnis“ haben, kann im Streit schwierig sein; „grob fahrlässige Unkenntnis“ steht der Kenntnis gleich.",
+        "Ein Antrag bei der Schlichtungsstelle der Ärztekammer hemmt die Verjährung (§ 204 Abs. 1 Nr. 4 BGB); die Hemmung endet sechs Monate nach Verfahrensende.",
+        "Klageerhebung hemmt die Verjährung; sie muss in der Praxis rechtzeitig erfolgen."
+      ],
+      "fach_html": "<h3>Regelfrist (§§ 195, 199 Abs. 1 BGB)</h3><p>Die regelmäßige Verjährungsfrist beträgt drei Jahre (§ 195 BGB). Sie beginnt nach § 199 Abs. 1 BGB mit dem Schluss des Jahres, in dem der Anspruch entstanden ist und der Gläubiger von den den Anspruch begründenden Umständen und der Person des Schuldners Kenntnis erlangt oder ohne grobe Fahrlässigkeit erlangen müsste.</p><h3>Höchstfrist (§ 199 Abs. 2 BGB)</h3><p>Schadensersatzansprüche, die auf der Verletzung des Lebens, des Körpers, der Gesundheit oder der Freiheit beruhen, verjähren ohne Rücksicht auf Entstehung und Kenntnis in 30 Jahren von der Begehung der Handlung, der Pflichtverletzung oder dem sonstigen schadensauslösenden Ereignis an. Abweichende Angaben, die in manchen Ratgebern zu zehn Jahren zu finden sind, betreffen § 199 Abs. 3 BGB für sonstige Schäden.</p><h3>Hemmung (§§ 203, 204 BGB)</h3><p>Schweben Verhandlungen über den Anspruch oder die ihn begründenden Umstände, ist die Verjährung nach § 203 BGB gehemmt, bis eine Seite die Fortsetzung verweigert; die Verjährung tritt frühestens drei Monate nach dem Ende der Hemmung ein. Nach § 204 Abs. 1 Nr. 1 BGB hemmt die Erhebung der Klage, nach Nr. 4 die Bekanntgabe eines Antrags bei einer staatlichen oder staatlich anerkannten Streitbeilegungsstelle oder, im Einvernehmen mit dem Gegner, bei einer anderen Streitbeilegungsstelle. Die Hemmung endet nach Abs. 2 sechs Monate nach der rechtskräftigen Entscheidung oder anderweitigen Beendigung des Verfahrens. Für Verfahren vor Schlichtungsstellen der Ärztekammern gilt: Nach BGH, Urteil vom 17.01.2017 – VI ZR 239/15, wird das Einvernehmen des Gegners unwiderleglich vermutet; eine spätere Ablehnung hindert die Hemmung nicht. Die Hemmung wirkt auf den Antragseingang zurück, wenn der Antrag „demnächst“ bekanntgegeben wird. Sie endet sechs Monate nach Verfahrensende (§ 204 Abs. 2 Satz 1 BGB).</p>",
+      "zustaendig": [
+        "Zivilgericht",
+        "Fachanwalt für Medizinrecht",
+        "Stiftung Unabhängige Patientenberatung Deutschland"
+      ],
+      "belege": [
+        "Gesetze im Internet, BGB § 195, abgerufen 20.09.2026",
+        "Gesetze im Internet, BGB § 199, abgerufen 20.09.2026",
+        "Gesetze im Internet, BGB §§ 203, 204, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "schmerzensgeld",
+        "gutachten-schlichtung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "krankenkasse-unterstuetzung",
+      "kategorie": "kasse",
+      "titel": "Unterstützung durch die Krankenkasse (§ 66 SGB V)",
+      "icon": "🏛️",
+      "teaser": "Ihre Krankenkasse soll Sie bei Schadensersatzansprüchen nach Behandlungsfehlern unterstützen, etwa durch Prüfung der Unterlagen und ein Gutachten.",
+      "schlagworte": [
+        "Krankenkasse",
+        "66 SGB V",
+        "Behandlungsfehler",
+        "Unterlagen",
+        "Medizinischer Dienst",
+        "Einwilligung",
+        "Unterstützung"
+      ],
+      "kurz_html": "<p>Ihre gesetzliche Krankenkasse soll Ihnen helfen, wenn Sie einen Behandlungsfehler vermuten.</p><p>Sie kann Unterlagen auf Vollständigkeit prüfen. Sie kann weitere Unterlagen bei Ärzten anfordern, wenn Sie zustimmen. Sie kann den Medizinischen Dienst um ein Gutachten bitten.</p><p>Ihre Daten dürfen dafür nur mit Ihrer Einwilligung verwendet werden.</p><p>Die Hilfe ist eine Unterstützung. Sie ersetzt keinen Anwalt.</p>",
+      "schritte": [
+        {
+          "titel": "Kasse ansprechen",
+          "text": "Schildern Sie den Verdacht Ihrer Krankenkasse."
+        },
+        {
+          "titel": "Zustimmen",
+          "text": "Erteilen Sie Ihre Einwilligung, damit Unterlagen angefordert werden."
+        },
+        {
+          "titel": "Ergebnis erfragen",
+          "text": "Lassen Sie sich das Gutachten erklären."
+        },
+        {
+          "titel": "Weitere Schritte",
+          "text": "Entscheiden Sie, ob Sie Schlichtung oder Klage wählen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "Unterstützung",
+          "was": "Krankenkassen sollen Versicherte bei Schadensersatzansprüchen unterstützen (Soll-Vorschrift; keine feste Frist im Gesetz)",
+          "grundlage": "§ 66 SGB V"
+        }
+      ],
+      "achtung": [
+        "Die Krankenkasse kann selbst Ansprüche haben; ihre Interessen müssen nicht Ihren entsprechen. Lassen Sie sich unabhängig beraten.",
+        "Die Verjährung läuft weiter, während die Kasse prüft.",
+        "Privatversicherte: Für die private Krankenversicherung wurde nichts geprüft."
+      ],
+      "fach_html": "<h3>Inhalt der Unterstützung</h3><p>§ 66 SGB V sieht vor, dass die Krankenkassen die Versicherten bei der Verfolgung von Schadensersatzansprüchen, die bei der Inanspruchnahme von Versicherungsleistungen aus Behandlungsfehlern entstanden sind, unterstützen sollen. Die Unterstützung kann die Prüfung von Unterlagen auf Vollständigkeit und Plausibilität, die Anforderung weiterer Unterlagen bei Leistungserbringern (mit Zustimmung des Versicherten), die sozialmedizinische Begutachtung durch den Medizinischen Dienst und eine Gesamtbewertung umfassen.</p><h3>Datenschutz</h3><p>Daten, die mit Einwilligung des Versicherten erhoben werden, dürfen ausschließlich zum Zweck der Unterstützung bei Behandlungsfehlern verarbeitet werden.</p><h3>Praxis</h3><p>Der Medizinische Dienst erstellte 2024 nach seiner Jahresstatistik 12.304 Gutachten zu vermuteten Behandlungsfehlern (Suchauszug). Ob und in welchem Umfang einzelne Kassen unterstützen, wurde nicht geprüft.</p>",
+      "zustaendig": [
+        "Ihre Krankenkasse",
+        "Medizinischer Dienst",
+        "Stiftung Unabhängige Patientenberatung Deutschland"
+      ],
+      "belege": [
+        "Gesetze im Internet, SGB V § 66, abgerufen 20.09.2026",
+        "Medizinischer Dienst Bund, Jahresstatistik Behandlungsfehler 2024 (Suchauszug), abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "gutachten-schlichtung",
+        "behandlungsfehler-erkennen"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "kostenerstattung-ablehnung",
+      "kategorie": "kasse",
+      "titel": "Kostenerstattung und Ablehnung durch die Kasse",
+      "icon": "📨",
+      "teaser": "Ihre Kasse muss über einen Antrag zügig entscheiden, in der Regel binnen drei Wochen, mit Gutachten binnen fünf. Bei Ablehnung gilt eine Widerspruchsfrist.",
+      "schlagworte": [
+        "Kostenerstattung",
+        "Ablehnung",
+        "13 SGB V",
+        "Genehmigungsfiktion",
+        "Widerspruch",
+        "selbstbeschaffte Leistung",
+        "Fristen"
+      ],
+      "kurz_html": "<p>Sie stellen bei Ihrer Krankenkasse einen Antrag auf eine Leistung. Die Kasse muss zügig entscheiden.</p><p>Die Frist beträgt drei Wochen. Wird ein Gutachten eingeholt, zum Beispiel vom Medizinischen Dienst, sind es fünf Wochen.</p><p>Teilt die Kasse keinen hinreichenden Grund für eine Verzögerung mit, gilt die Leistung nach Ablauf der Frist als genehmigt.</p><p>Wird abgelehnt, können Sie Widerspruch einlegen. Dafür haben Sie einen Monat ab Bekanntgabe.</p>",
+      "schritte": [
+        {
+          "titel": "Antrag dokumentieren",
+          "text": "Reichen Sie den Antrag schriftlich ein und notieren Sie das Datum."
+        },
+        {
+          "titel": "Frist beobachten",
+          "text": "Notieren Sie das Ende von drei beziehungsweise fünf Wochen."
+        },
+        {
+          "titel": "Widerspruch einlegen",
+          "text": "Legen Sie bei Ablehnung Widerspruch ein. Begründen Sie ihn ärztlich."
+        },
+        {
+          "titel": "Vor Selbstbeschaffung Rat holen",
+          "text": "Kaufen Sie teure Leistungen nicht ohne Rat selbst."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "3 Wochen",
+          "was": "Entscheidung der Kasse nach Antragseingang",
+          "grundlage": "§ 13 Abs. 3a SGB V"
+        },
+        {
+          "wert": "5 Wochen",
+          "was": "Entscheidung, wenn ein Gutachten, insbesondere des Medizinischen Dienstes, eingeholt wird",
+          "grundlage": "§ 13 Abs. 3a SGB V"
+        },
+        {
+          "wert": "1 Monat",
+          "was": "Widerspruch gegen den Bescheid ab Bekanntgabe",
+          "grundlage": "§ 84 Abs. 1 SGG"
+        },
+        {
+          "wert": "6 Wochen",
+          "was": "Entscheidung im zahnärztlichen Gutachterverfahren",
+          "grundlage": "§ 13 Abs. 3a Satz 4 SGB V"
+        }
+      ],
+      "achtung": [
+        "Ohne Nachweis der Fristen ist die Genehmigungsfiktion schwer durchzusetzen. Führen Sie Protokoll.",
+        "Die Genehmigungsfiktion gibt keinen Anspruch auf die Sachleistung selbst, nur auf Kostenerstattung, wenn Sie die Leistung selbst beschaffen (BSG 26.05.2020). Reha ist ausgenommen; dort gelten §§ 14 bis 24 SGB IX.",
+        "Kostenerstattung für selbstbeschaffte Leistungen setzt voraus, dass die Leistung notwendig war; bei Ablehnung zu Unrecht oder nicht rechtzeitiger Erbringung.",
+        "Die Widerspruchsfrist ist kurz. Versäumen Sie sie nicht."
+      ],
+      "fach_html": "<h3>Fristen der Kasse (§ 13 Abs. 3a SGB V)</h3><p>Die Krankenkasse hat über einen Antrag auf Leistungen zügig, spätestens bis zum Ablauf von drei Wochen nach Antragseingang oder in Fällen, in denen eine gutachtliche Stellungnahme, insbesondere des Medizinischen Dienstes, eingeholt wird, innerhalb von fünf Wochen nach Antragseingang zu entscheiden. Erfolgt keine Mitteilung eines hinreichenden Grundes, gilt die Leistung nach Ablauf der Frist als genehmigt. Beschaffen sich Leistungsberechtigte nach Ablauf der Frist eine erforderliche Leistung selbst, ist die Krankenkasse zur Erstattung der hierdurch entstandenen Kosten verpflichtet. Nach BSG, Urteil vom 26.05.2020 – B 1 KR 9/18 R, begründet die Genehmigungsfiktion keinen Sachleistungsanspruch, sondern nur einen Anspruch auf Kostenerstattung für die selbstbeschaffte Leistung. Für Leistungen zur Rehabilitation gilt § 13 Abs. 3a nicht (Satz 9); dort gelten §§ 14 bis 24 SGB IX. Im zahnärztlichen Gutachterverfahren entscheidet die Kasse binnen sechs Wochen (Satz 4).</p><h3>Erstattung bei Selbstbeschaffung (§ 13 Abs. 3 SGB V)</h3><p>Konnte die Krankenkasse eine unaufschiebbare Leistung nicht rechtzeitig erbringen oder hat sie eine Leistung zu Unrecht abgelehnt und sind dadurch Versicherten für die selbstbeschaffte Leistung Kosten entstanden, sind diese in der entstandenen Höhe zu erstatten, soweit die Leistung notwendig war.</p><h3>Widerspruch (§ 84 SGG)</h3><p>Der Widerspruch ist binnen eines Monats, nachdem der Verwaltungsakt dem Beschwerten bekanntgegeben worden ist, schriftlich, elektronisch oder zur Niederschrift bei der Behörde einzureichen, die den Verwaltungsakt erlassen hat. Bei Bekanntgabe im Ausland beträgt die Frist drei Monate.</p>",
+      "zustaendig": [
+        "Ihre Krankenkasse",
+        "Sozialgericht (nach Widerspruchsverfahren)",
+        "Stiftung Unabhängige Patientenberatung Deutschland"
+      ],
+      "belege": [
+        "Gesetze im Internet, SGB V § 13, abgerufen 20.09.2026",
+        "Gesetze im Internet, SGG § 84, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "igel",
+        "beratung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "igel",
+      "kategorie": "kasse",
+      "titel": "IGeL: Selbst zu zahlende Leistungen",
+      "icon": "🧾",
+      "teaser": "Individuelle Gesundheitsleistungen zahlen Sie selbst. Sie haben Anspruch auf Aufklärung, schriftlichen Vertrag, Kostenangabe und Bedenkzeit.",
+      "schlagworte": [
+        "IGeL",
+        "Selbstzahler",
+        "Behandlungsvertrag",
+        "Kostenvoranschlag",
+        "Bedenkzeit",
+        "IGeL-Monitor",
+        "630c"
+      ],
+      "kurz_html": "<p>IGeL sind Leistungen, die Ihre gesetzliche Krankenkasse nicht bezahlt. Sie zahlen selbst.</p><p>Vor der Leistung brauchen Sie einen schriftlichen Vertrag, eine Kosteninformation und nach der Leistung eine Rechnung.</p><p>Sie haben Anspruch auf Aufklärung über Nutzen, Risiken und Kosten. Sie dürfen sich Bedenkzeit nehmen. Nur der Arzt selbst soll aufklären, nicht das Personal.</p><p>Es gibt keinen Zwang. Eine Kassenleistung darf nicht davon abhängen, dass Sie eine IGeL kaufen.</p>",
+      "schritte": [
+        {
+          "titel": "Nachfragen",
+          "text": "Fragen Sie, warum die Leistung nötig ist und ob es eine Kassenleistung gibt."
+        },
+        {
+          "titel": "Bedenkzeit nehmen",
+          "text": "Entscheiden Sie nicht an der Anmeldung."
+        },
+        {
+          "titel": "Schriftlich klären",
+          "text": "Verlangen Sie Vertrag und Kostenangabe schriftlich."
+        },
+        {
+          "titel": "Bewertung nachlesen",
+          "text": "Informieren Sie sich beim IGeL-Monitor über Nutzen und Schaden."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "vor Beginn",
+          "was": "Kosteninformation in Textform, wenn die Kostenübernahme durch Dritte nicht gesichert ist",
+          "grundlage": "§ 630c Abs. 3 BGB"
+        }
+      ],
+      "achtung": [
+        "Bezahlte IGeL erstattet die Kasse nicht nachträglich.",
+        "Sie müssen keine Ablehnungserklärung unterschreiben, wenn Sie eine IGeL ablehnen (Angabe der Verbraucherzentrale).",
+        "Ohne schriftliche Vereinbarung dürfen Sie die Zahlung verweigern. Abrechnung nach GOÄ mit Einzelleistungen; Pauschal- und Erfolgshonorare sind unzulässig (Verbraucherzentrale)."
+      ],
+      "fach_html": "<h3>Kosteninformation (§ 630c Abs. 3 BGB)</h3><p>Weiß der Behandelnde, dass die vollständige Übernahme der Behandlungskosten durch einen Dritten nicht gesichert ist, oder ergeben sich hierfür nach den Umständen hinreichende Anhaltspunkte, muss er den Patienten vor Beginn der Behandlung über die voraussichtlichen Kosten der Behandlung in Textform informieren. Weitergehende Formanforderungen bleiben unberührt.</p><h3>Angaben der Verbraucherzentrale</h3><p>Nach der Verbraucherzentrale sind vor Abrechnung von IGeL ein schriftlicher Behandlungsvertrag und eine Rechnung erforderlich. Sie nennt als Rechte die umfassende Aufklärung über Nutzen, Risiken und Kosten sowie ausreichend Bedenkzeit. Nur der Arzt, nicht Praxispersonal, soll beraten. Besteht eine von der gesetzlichen Krankenversicherung übernommene Alternative, ist darauf hinzuweisen. Zur Bewertung des Nutzens verweist sie auf den IGeL-Monitor.</p><h3>Vertrag und Abrechnung</h3><p>Nach der Verbraucherzentrale dürfen Sie die Zahlung verweigern, wenn keine schriftliche Vereinbarung vorliegt. Abgerechnet wird nach der Gebührenordnung für Ärzte (GOÄ) mit Einzelleistungen; Pauschal- und Erfolgshonorare sind unzulässig.</p><h3>Grenzen</h3><p>Die Rechtsgrundlage des schriftlichen Vertrags (Bundesmantelvertrag) wurde nicht im Wortlaut geprüft.</p>",
+      "zustaendig": [
+        "Behandelnder Arzt",
+        "Verbraucherzentrale",
+        "Ihre Krankenkasse (zur Frage der Kostenübernahme)"
+      ],
+      "belege": [
+        "Gesetze im Internet, BGB § 630c, abgerufen 20.09.2026",
+        "Verbraucherzentrale, IGeL: Ihre Rechte als Patient:in, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "kostenerstattung-ablehnung",
+        "aufklaerung-einwilligung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "zweitmeinung",
+      "kategorie": "versorgung",
+      "titel": "Zweitmeinung vor einer Operation",
+      "icon": "👥",
+      "teaser": "Bei bestimmten planbaren Eingriffen haben Sie Anspruch auf eine ärztliche Zweitmeinung. Zweitmeiner finden Sie über 116117.de.",
+      "schlagworte": [
+        "Zweitmeinung",
+        "27b SGB V",
+        "planbarer Eingriff",
+        "G-BA",
+        "Operation",
+        "116117",
+        "Alternativen"
+      ],
+      "kurz_html": "<p>Vor manchen geplanten Operationen dürfen Sie eine zweite ärztliche Meinung einholen. Das steht im Gesetz.</p><p>Der Gemeinsame Bundesausschuss legt fest, für welche Eingriffe der Anspruch gilt. Die Liste wird erweitert.</p><p>Geeignete Ärzte finden Sie über die Seite 116117.de.</p><p>Auch ohne gesetzlichen Anspruch können Sie andere Ärzte fragen.</p>",
+      "schritte": [
+        {
+          "titel": "Prüfen",
+          "text": "Fragen Sie, ob Ihr Eingriff in der Liste der Zweitmeinungs-Eingriffe steht."
+        },
+        {
+          "titel": "Zweitmeiner suchen",
+          "text": "Suchen Sie auf 116117.de nach einem berechtigten Arzt."
+        },
+        {
+          "titel": "Unterlagen mitnehmen",
+          "text": "Bringen Sie Befunde und Bilder mit."
+        },
+        {
+          "titel": "Entscheiden",
+          "text": "Sprechen Sie das Ergebnis mit Ihrem Arzt durch."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "Anspruch",
+          "was": "Auf Zweitmeinung bei einem planbaren Eingriff, bei dem die Gefahr einer Indikationsausweitung nicht auszuschließen ist",
+          "grundlage": "§ 27b SGB V"
+        },
+        {
+          "wert": "mind. 10 bzw. 15 Arbeitstage",
+          "was": "Aufklärung über das Zweitmeinungsrecht in der Regel mindestens 10 Arbeitstage vor dem Eingriff, bei Eingriffen nach der G-BA-Liste (Abs. 3 Satz 2) mindestens 15 Arbeitstage; in jedem Fall so rechtzeitig, dass Sie wohlüberlegt entscheiden können",
+          "grundlage": "§ 27b Abs. 6 SGB V"
+        }
+      ],
+      "achtung": [
+        "Die Liste der Eingriffe wird fortgeschrieben; den aktuellen Stand nennt der G-BA.",
+        "Der Anspruch gilt für Versicherte der gesetzlichen Krankenversicherung nach § 27b SGB V; anderes wurde nicht geprüft.",
+        "Manche Kassen bieten zusätzliche Zweitmeinungen an; das wurde nicht geprüft."
+      ],
+      "fach_html": "<h3>Rechtsgrundlage (§ 27b SGB V)</h3><p>Der Anspruch besteht bei einem planbaren Eingriff, bei dem insbesondere im Hinblick auf die zahlenmäßige Entwicklung seiner Durchführung die Gefahr einer Indikationsausweitung nicht auszuschließen ist. Der Gemeinsame Bundesausschuss bestimmt, für welche Eingriffe der Anspruch gilt, und soll jährlich mindestens zwei weitere Eingriffe bestimmen. Zweitmeiner müssen unter anderem eine langjährige fachärztliche Tätigkeit im maßgeblichen Fachgebiet und Kenntnisse über den aktuellen Stand der wissenschaftlichen Forschung nachweisen. Nach dem Gesetz kann ab 2027 die Vergütung für bestimmte Eingriffe entfallen, wenn vor dem Eingriff kein Nachweis über eine eingeholte Zweitmeinung vorliegt; Einzelheiten wurden nicht geprüft.</p><h3>Aufklärung und Frist (§ 27b Abs. 6 SGB V)</h3><p>Der Arzt muss über das Recht auf Zweitmeinung aufklären, in der Regel mindestens 10 Arbeitstage vor dem Eingriff, bei Eingriffen nach Abs. 3 Satz 2 mindestens 15 Arbeitstage; in jedem Fall so rechtzeitig, dass der Patient seine Entscheidung wohlüberlegt treffen kann.</p><h3>Eingriffe nach dem G-BA</h3><p>Die G-BA-Liste umfasst 13 Eingriffe, u. a. Aortenaneurysma, Halsschlagader, Prostatakarzinom (lokal begrenzt), Hüftgelenkersatz, Herzschrittmacher und Defibrillator, ferner Amputation beim diabetischen Fußsyndrom, Mandel- und Rachenmandeleingriffe, Gebärmutterentfernung, Schulterarthroskopie, Kniegelenkersatz, Wirbelsäuleneingriffe und Gallenblasenentfernung. Neu 2026: Linksherzkatheter bei chronischer koronarer Herzkrankheit. Die aktuelle Liste und die Suche nach Zweitmeinungsgebern (116117.de) finden Sie beim G-BA.</p><h3>Bezug zur Aufklärung</h3><p>Die Zweitmeinung ergänzt die Aufklärung nach § 630e BGB, die auch Alternativen umfasst.</p>",
+      "zustaendig": [
+        "Behandelnder Arzt",
+        "116117.de (Zweitmeinungsgeber-Suche)",
+        "Gemeinsamer Bundesausschuss (Informationen)"
+      ],
+      "belege": [
+        "Gesetze im Internet, SGB V § 27b, abgerufen 20.09.2026",
+        "Gemeinsamer Bundesausschuss, Zweitmeinung bei planbaren Eingriffen, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "aufklaerung-einwilligung",
+        "entlassmanagement"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "entlassmanagement",
+      "kategorie": "versorgung",
+      "titel": "Entlassmanagement im Krankenhaus",
+      "icon": "🏥",
+      "teaser": "Beim Übergang aus dem Krankenhaus in die weitere Versorgung hilft das Entlassmanagement. Es darf nur mit Ihrer Einwilligung erfolgen.",
+      "schlagworte": [
+        "Entlassmanagement",
+        "39 SGB V",
+        "Krankenhaus",
+        "Entlassung",
+        "Medikamente",
+        "Arbeitsunfähigkeit",
+        "Anschlussversorgung"
+      ],
+      "kurz_html": "<p>Vor der Entlassung soll das Krankenhaus die weitere Versorgung vorbereiten. Das nennt man Entlassmanagement.</p><p>Es darf nur mit Ihrer Einwilligung geschehen. Sie müssen vorher informiert werden.</p><p>Das Krankenhaus kann Medikamente in der kleinsten Packungsgröße (N1) verordnen, also eine Packung. Für häusliche Krankenpflege, Heil- und Hilfsmittel, Soziotherapie und die Feststellung der Arbeitsunfähigkeit gilt eine Grenze von bis zu sieben Tagen.</p><p>Fragen Sie vor der Entlassung, was Sie zu Hause brauchen.</p>",
+      "schritte": [
+        {
+          "titel": "Früh ansprechen",
+          "text": "Sprechen Sie das Entlassmanagement schon bei der Aufnahme an."
+        },
+        {
+          "titel": "Bedarf nennen",
+          "text": "Sagen Sie, was Sie zu Hause brauchen, zum Beispiel Pflege oder Hilfsmittel."
+        },
+        {
+          "titel": "Unterlagen mitnehmen",
+          "text": "Lassen Sie sich Entlassbrief und Verordnungen geben."
+        },
+        {
+          "titel": "Bei Problemen",
+          "text": "Wenden Sie sich an Ihre Krankenkasse."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "1 Packung (N1)",
+          "was": "Verordnung von Arzneimitteln durch das Krankenhaus: eine Packung mit dem kleinsten Packungsgrößenkennzeichen; keine Sieben-Tage-Regel",
+          "grundlage": "§ 39 Abs. 1a SGB V"
+        },
+        {
+          "wert": "bis zu 7 Tage",
+          "was": "Verordnung häuslicher Krankenpflege, von Heil- und Hilfsmitteln und Soziotherapie (Leistungen nach § 92 Abs. 1 Satz 2 Nr. 6 SGB V) sowie Feststellung der Arbeitsunfähigkeit durch das Krankenhaus",
+          "grundlage": "§ 39 Abs. 1a SGB V"
+        }
+      ],
+      "achtung": [
+        "Sie können dem Entlassmanagement widersprechen; es setzt Ihre Einwilligung voraus.",
+        "Anschlussversorgung (Reha, Pflege) hat eigene Anträge und Fristen; sie sind hier nicht behandelt.",
+        "Prüfen Sie Rezepte und Bescheinigungen vor der Entlassung."
+      ],
+      "fach_html": "<h3>Inhalt (§ 39 Abs. 1a SGB V)</h3><p>Die Krankenhausbehandlung umfasst ein Entlassmanagement zur Unterstützung einer sektorenübergreifenden Versorgung der Versicherten beim Übergang in die Versorgung nach Krankenhausbehandlung. Das Entlassmanagement umfasst alle erforderlichen Leistungen, unter anderem nach §§ 37b, 38, 39c sowie Leistungen des Elften Buches (Pflegeversicherung).</p><h3>Verordnungen</h3><p>Das Krankenhaus kann Arzneimittel verordnen, und zwar eine Packung mit dem kleinsten Packungsgrößenkennzeichen (N1); eine Sieben-Tage-Grenze gilt hierfür nicht. Die Sieben-Tage-Grenze gilt für die übrigen Leistungen nach § 92 Abs. 1 Satz 2 Nr. 6 SGB V (häusliche Krankenpflege, Heil- und Hilfsmittel, Soziotherapie) sowie für die Feststellung der Arbeitsunfähigkeit; sie können verordnet werden, soweit dies für die Versorgung unmittelbar nach der Entlassung erforderlich ist.</p><h3>Einwilligung</h3><p>Das Entlassmanagement darf nur mit Einwilligung und nach vorheriger Information des Versicherten erfolgen. Die Einwilligung ist schriftlich oder elektronisch zu erteilen. Der Rahmenvertrag der Selbstverwaltung und Einzelheiten der Umsetzung wurden nicht geprüft.</p>",
+      "zustaendig": [
+        "Krankenhaus (Sozialdienst; nicht näher geprüft)",
+        "Ihre Krankenkasse",
+        "Stiftung Unabhängige Patientenberatung Deutschland"
+      ],
+      "belege": [
+        "Gesetze im Internet, SGB V § 39, abgerufen 20.09.2026",
+        "Gesetze im Internet, BGB § 630c, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "zweitmeinung",
+        "beratung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "beratung",
+      "kategorie": "hilfe",
+      "titel": "Beratung, Beschwerde und Anlaufstellen",
+      "icon": "🤝",
+      "teaser": "Die Stiftung Unabhängige Patientenberatung Deutschland berät kostenfrei. Dazu Kammern, Kassen und Verbraucherschutz.",
+      "schlagworte": [
+        "Beratung",
+        "UPD",
+        "Patientenberatung",
+        "Beschwerde",
+        "Ärztekammer",
+        "Verbraucherzentrale",
+        "Beratungstelefon"
+      ],
+      "kurz_html": "<p>Sie müssen nicht allein klären, was Ihnen zusteht.</p><p>Die Stiftung Unabhängige Patientenberatung Deutschland berät kostenfrei und unabhängig. Das gilt für gesetzlich, privat und nicht versicherte Menschen. Das Beratungstelefon lautet 0800 011 77 22.</p><p>Beschwerden über Ärzte können Sie an die zuständige Ärztekammer richten. Zu Fehlern gibt es Gutachterkommissionen und Schlichtungsstellen. Ihre Krankenkasse hilft nach § 66 SGB V.</p><p>Bei IGeL hilft auch die Verbraucherzentrale.</p>",
+      "schritte": [
+        {
+          "titel": "Beratung anrufen",
+          "text": "Rufen Sie das kostenfreie Beratungstelefon der UPD an oder nutzen Sie die schriftliche Beratung."
+        },
+        {
+          "titel": "Unterlagen bereithalten",
+          "text": "Halten Sie Akte, Bescheide und Notizen bereit."
+        },
+        {
+          "titel": "Beschwerde formulieren",
+          "text": "Schreiben Sie sachlich, was passiert ist und was Sie erwarten."
+        },
+        {
+          "titel": "Rechtsrat holen",
+          "text": "Bei Schadensersatz lassen Sie sich anwaltlich beraten."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "0800 011 77 22",
+          "was": "Kostenfreies Beratungstelefon der Stiftung UPD; aus dem Ausland +49 30 340 484 70",
+          "grundlage": "patientenberatung.de, Telefonische Beratung"
+        },
+        {
+          "wert": "Mo bis Fr",
+          "was": "Beratungszeiten laut Seite: Mo/Di 9:00-12:00 und 14:30-17:00, Mi 9:00-14:00, Do 9:00-12:00 und 14:00-18:00, Fr 9:30-14:00",
+          "grundlage": "patientenberatung.de, Telefonische Beratung"
+        }
+      ],
+      "achtung": [
+        "Beratungszeiten können sich ändern; prüfen Sie die Seite der Stiftung.",
+        "Beratung ist keine Rechtsvertretung. Für Klagen brauchen Sie in der Regel einen Anwalt.",
+        "Örtliche Stellen und Beschwerdestellen der Länder wurden hier nicht recherchiert."
+      ],
+      "fach_html": "<h3>Stiftung Unabhängige Patientenberatung Deutschland (UPD)</h3><p>Die Stiftung UPD ist nach ihren Angaben eine gemeinnützige Institution, die kostenfrei und unabhängig informiert und berät. Das Angebot besteht telefonisch, vor Ort und schriftlich über ein gesichertes Onlineportal und steht gesetzlich, privat und nicht Versicherten offen. Telefon 0800 011 77 22 (kostenfrei); Internetseite patientenberatung.de. Zum Aufgabenbereich gehören Fragen zu Patientenrechten, Arzneimitteln sowie Kranken- und Pflegeversicherung.</p><h3>Beschwerde und Fehlerprüfung</h3><p>Die Ärztekammern betreiben Gutachterkommissionen und Schlichtungsstellen (aerztekammern-schlichten.de); die Adresse der zuständigen Stelle erfahren Sie bei der Landesärztekammer. Berufsrechtliche Beschwerden bei der Ärztekammer, die Beschwerdestellen von Kliniken und Kassenärztlichen Vereinigungen sowie die Rolle der Patientenbeauftragten wurden nicht im Einzelnen geprüft.</p><h3>Weitere Stellen</h3><p>Die Krankenkasse unterstützt nach § 66 SGB V. Die Verbraucherzentrale informiert zu IGeL. Zweitmeiner sind über 116117.de zu finden. Für Schadensersatzklagen kommt anwaltliche Vertretung in Betracht; die Rechtsanwaltskammern und Anwaltvereine führen Fachanwaltslisten (hier nicht geprüft).</p>",
+      "zustaendig": [
+        "Stiftung Unabhängige Patientenberatung Deutschland (patientenberatung.de)",
+        "Landesärztekammer",
+        "Krankenkasse",
+        "Verbraucherzentrale"
+      ],
+      "belege": [
+        "Stiftung Unabhängige Patientenberatung Deutschland, Telefonische Beratung, abgerufen 20.09.2026",
+        "Gutachterkommissionen und Schlichtungsstellen der Ärztekammern, abgerufen 20.09.2026",
+        "Gesetze im Internet, SGB V § 66, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "gutachten-schlichtung",
+        "krankenkasse-unterstuetzung",
+        "igel"
+      ],
+      "stand": "September 2026"
+    }
+  ]
+}

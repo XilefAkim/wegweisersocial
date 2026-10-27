@@ -1,0 +1,1066 @@
+{
+  "kategorien": [
+    {
+      "id": "erste-schritte",
+      "titel": "Erste Schritte",
+      "icon": "🧭",
+      "beschreibung": "Überblick und Schuldnerberatung als Einstieg."
+    },
+    {
+      "id": "forderungen",
+      "titel": "Forderungen und Mahnverfahren",
+      "icon": "📬",
+      "beschreibung": "Mahnbescheid, Vollstreckungsbescheid und Verjährung."
+    },
+    {
+      "id": "pfaendung",
+      "titel": "Pfändung und Vollstreckung",
+      "icon": "🔒",
+      "beschreibung": "Lohnpfändung, P-Konto, Gerichtsvollzieher und Vermögensauskunft."
+    },
+    {
+      "id": "entschuldung",
+      "titel": "Entschuldung",
+      "icon": "🪜",
+      "beschreibung": "Einigung mit Gläubigern, Verbraucherinsolvenz, Restschuldbefreiung und Kosten."
+    },
+    {
+      "id": "lebenslagen",
+      "titel": "Besondere Lebenslagen",
+      "icon": "🏠",
+      "beschreibung": "Wohnung, Selbstständigkeit und Schufa."
+    },
+    {
+      "id": "hilfe",
+      "titel": "Hilfe",
+      "icon": "🤝",
+      "beschreibung": "Beratung und Anlaufstellen."
+    }
+  ],
+  "seiten": [
+    {
+      "id": "ueberblick",
+      "kategorie": "erste-schritte",
+      "titel": "Überblick: Schulden und Wege heraus",
+      "icon": "🧭",
+      "teaser": "Welche Stationen es bei Schulden gibt: Mahnung, Pfändung, Einigung oder Verbraucherinsolvenz mit Restschuldbefreiung nach 3 Jahren.",
+      "schlagworte": [
+        "Schulden",
+        "Privatinsolvenz",
+        "Restschuldbefreiung",
+        "Pfändung",
+        "Mahnbescheid",
+        "Schuldnerberatung"
+      ],
+      "kurz_html": "<p>Wer Schulden nicht mehr zahlen kann, hat mehrere Möglichkeiten. Wichtig ist: nicht abwarten und Post von Gericht oder Gerichtsvollzieher nicht liegen lassen.</p><p>Der übliche Weg: Sie holen sich Beratung, versuchen eine Einigung mit den Gläubigern und stellen bei Scheitern einen Antrag auf Verbraucherinsolvenz. Am Ende kann die Restschuldbefreiung stehen. Die Abtretungsfrist beträgt in der Regel 3 Jahre.</p><p>Diese Seiten geben Information, keine Rechtsberatung.</p>",
+      "schritte": [
+        {
+          "titel": "Post öffnen und Fristen notieren",
+          "text": "Besonders Mahnbescheid und Vollstreckungsbescheid haben kurze Fristen von je zwei Wochen."
+        },
+        {
+          "titel": "Schuldnerberatung aufsuchen",
+          "text": "Anerkannte Beratungsstellen helfen bei Übersicht, Einigung und Insolvenzantrag."
+        },
+        {
+          "titel": "Konto und Einkommen schützen",
+          "text": "Ein P-Konto schützt einen Grundbetrag vor Pfändung; bei Lohnpfändung gelten Freigrenzen."
+        },
+        {
+          "titel": "Entschuldung planen",
+          "text": "Außergerichtliche Einigung, dann bei Scheitern Verbraucherinsolvenz mit Restschuldbefreiung."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "3 Jahre",
+          "was": "Regelmäßige Abtretungsfrist bis zur Restschuldbefreiung, gerechnet ab Eröffnung des Insolvenzverfahrens.",
+          "grundlage": "§ 287 Abs. 2 Satz 1 InsO"
+        },
+        {
+          "wert": "2 Wochen",
+          "was": "Widerspruch gegen den Mahnbescheid.",
+          "grundlage": "§ 692 Abs. 1 Nr. 3 ZPO"
+        }
+      ],
+      "achtung": [
+        "Fristen bei Gerichtspost laufen ab Zustellung; verpasste Fristen können zum Vollstreckungsbescheid führen.",
+        "Bestimmte Schulden bleiben von der Restschuldbefreiung ausgenommen, etwa Verbindlichkeiten aus vorsätzlich begangener unerlaubter Handlung, Unterhaltsrückstände und Geldstrafen (§ 302 InsO).",
+        "Wer erneut Restschuldbefreiung will, kann gesperrt sein, wenn sie in den letzten elf Jahren erteilt wurde (§ 287a InsO).",
+        "Angebote „Schulden weg gegen Vorkasse“ sind mit Vorsicht zu behandeln; anerkannte Beratungsstellen der Wohlfahrtsverbände sind in der Regel kostenfrei."
+      ],
+      "fach_html": "<h3>Stufenweg</h3><p>Gläubiger können ihre Forderung im Mahnverfahren titulieren lassen (§§ 688 ff. ZPO) und dann vollstrecken. Schuldner können den Weg über einen außergerichtlichen Einigungsversuch und das Verbraucherinsolvenzverfahren (§§ 304 ff. InsO) gehen.</p><h3>Restschuldbefreiung</h3><p>Die Restschuldbefreiung setzt einen Antrag voraus (§ 287 Abs. 1 InsO). Der Schuldner tritt pfändbare Bezüge für die Abtretungsfrist an einen Treuhänder ab; sie beträgt 3 Jahre nach Verfahrenseröffnung (§ 287 Abs. 2 InsO). Wurde zuvor auf einen Antrag nach dem 30. September 2020 bereits Restschuldbefreiung erteilt, beträgt sie im erneuten Verfahren 5 Jahre (§ 287 Abs. 2 Satz 2 InsO).</p><h3>Ausnahmen</h3><p>§ 302 InsO nennt nicht befreite Forderungen: Verbindlichkeiten aus vorsätzlich begangener unerlaubter Handlung, Unterhaltsrückstände, bestimmte Steuerschulden nach Verurteilung, Geldstrafen und zinslose Darlehen zur Verfahrenskostendeckung.</p>",
+      "zustaendig": [
+        "Schuldner- und Insolvenzberatungsstellen (Verbraucherzentrale, Wohlfahrtsverbände, Kommunen)",
+        "Amtsgericht – Vollstreckungsgericht",
+        "Amtsgericht – Insolvenzgericht"
+      ],
+      "belege": [
+        "Gesetze im Internet, InsO §§ 287, 287a, 302, abgerufen 20.09.2026",
+        "Gesetze im Internet, ZPO § 692, abgerufen 20.09.2026",
+        "Bundesarbeitsgemeinschaft Schuldnerberatung, bag-sb.de, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "schuldnerberatung",
+        "verbraucherinsolvenz",
+        "beratung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "schuldnerberatung",
+      "kategorie": "erste-schritte",
+      "titel": "Schuldnerberatung: der erste Schritt",
+      "icon": "🗂️",
+      "teaser": "Was eine Schuldnerberatung leistet, was Sie mitbringen sollten und warum sie für die Verbraucherinsolvenz gebraucht wird.",
+      "schlagworte": [
+        "Schuldnerberatung",
+        "Beratungsstelle",
+        "geeignete Stelle",
+        "Bescheinigung",
+        "Gläubigerliste",
+        "kostenlos"
+      ],
+      "kurz_html": "<p>Eine Schuldnerberatung sortiert mit Ihnen Einnahmen, Ausgaben und Schulden. Sie hilft bei Briefen an Gläubiger, bei Einigungsversuchen und beim Insolvenzantrag.</p><p>Beratung bei staatlichen und gemeinnützigen Stellen ist in der Regel kostenlos. Wenn Kosten anfallen, muss die Stelle Sie zu Beginn informieren.</p>",
+      "schritte": [
+        {
+          "titel": "Unterlagen sammeln",
+          "text": "Mahnungen, Bescheide, Verträge, Kontoauszüge und Einkommensnachweise vollständig bereithalten."
+        },
+        {
+          "titel": "Gläubigerliste anlegen",
+          "text": "Wer, wie viel, seit wann, ob Titel vorliegt."
+        },
+        {
+          "titel": "Termin bei anerkannter Stelle suchen",
+          "text": "Über die Beratungsstellensuche von meine-schulden.de finden Sie Stellen in Ihrer Nähe."
+        },
+        {
+          "titel": "Termine und Fristen weitergeben",
+          "text": "Bei Gerichts- oder Pfändungspost sofort in der Beratung Bescheid geben."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "6 Monate",
+          "was": "Der außergerichtliche Einigungsversuch, den die Bescheinigung bestätigt, darf nicht länger als sechs Monate zurückliegen.",
+          "grundlage": "§ 305 Abs. 1 Nr. 1 InsO"
+        }
+      ],
+      "achtung": [
+        "Wartezeiten bei Beratungsstellen können lang sein; bei akuter Pfändung oder Fristablauf sofort melden.",
+        "Zahlen Sie nicht an dubiose Vermittler Vorkasse; anerkannte Stellen sind bei Wohlfahrtsverbänden und öffentlichen Trägern.",
+        "Falsche oder unvollständige Angaben in Verzeichnissen können die Restschuldbefreiung gefährden (§ 290 Abs. 1 Nr. 6 InsO)."
+      ],
+      "fach_html": "<h3>Geeignete Person oder Stelle</h3><p>Für den Eröffnungsantrag verlangt § 305 Abs. 1 Nr. 1 InsO eine Bescheinigung einer geeigneten Person oder Stelle. Sie muss auf persönlicher Beratung und eingehender Prüfung der Einkommens- und Vermögensverhältnisse beruhen und bestätigen, dass in den letzten sechs Monaten vor dem Antrag eine außergerichtliche Einigung versucht wurde und gescheitert ist.</p><h3>Beratungsangebot</h3><p>Nach Angaben der Bundesarbeitsgemeinschaft Schuldnerberatung gibt es über 1.400 Schuldner- und Insolvenzberatungsstellen in Deutschland; die Beratung bei staatlichen und gemeinnützigen Trägern ist in der Regel kostenlos. Suche: meine-schulden.de.</p>",
+      "zustaendig": [
+        "Anerkannte Schuldner- und Insolvenzberatungsstellen",
+        "Bundesarbeitsgemeinschaft Schuldnerberatung e. V. (Beratungsstellensuche über meine-schulden.de)"
+      ],
+      "belege": [
+        "Gesetze im Internet, InsO § 305, abgerufen 20.09.2026",
+        "Bundesarbeitsgemeinschaft Schuldnerberatung, bag-sb.de und meine-schulden.de, abgerufen 20.09.2026",
+        "Gesetze im Internet, InsO § 290, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "aussergerichtliche-einigung",
+        "beratung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "mahnbescheid",
+      "kategorie": "forderungen",
+      "titel": "Mahnbescheid und Vollstreckungsbescheid",
+      "icon": "📬",
+      "teaser": "Welche zwei Wochen Sie für Widerspruch und Einspruch haben und was passiert, wenn Sie nichts tun.",
+      "schlagworte": [
+        "Mahnbescheid",
+        "Vollstreckungsbescheid",
+        "Widerspruch",
+        "Einspruch",
+        "Zustellung",
+        "Mahnverfahren"
+      ],
+      "kurz_html": "<p>Ein Mahnbescheid ist ein Schreiben vom Amtsgericht (gelber Umschlag). Er sagt: Jemand behauptet, Sie schulden Geld. Das Gericht prüft die Forderung nicht.</p><p>Sie haben zwei Wochen ab Zustellung Zeit, dem Gericht mitzuteilen, ob Sie widersprechen. Wenn Sie nichts tun, kann der Gläubiger einen Vollstreckungsbescheid beantragen. Dann haben Sie noch einmal zwei Wochen für einen Einspruch.</p><p>Bezahlen Sie nur, wenn die Forderung berechtigt ist. Bei Zweifel: Beratung suchen.</p>",
+      "schritte": [
+        {
+          "titel": "Zustelldatum notieren",
+          "text": "Die Frist beginnt mit der Zustellung, nicht mit dem Datum auf dem Brief."
+        },
+        {
+          "titel": "Forderung prüfen",
+          "text": "Stimmen Betrag, Gläubiger, Rechnungsgrundlage und Nebenkosten?"
+        },
+        {
+          "titel": "Widerspruch einlegen, wenn nötig",
+          "text": "Mit dem beigefügten Vordruck, ganz oder teilweise."
+        },
+        {
+          "titel": "Beratung nutzen",
+          "text": "Schuldner- oder Verbraucherberatung klärt, ob Widerspruch sinnvoll ist."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "2 Wochen",
+          "was": "Widerspruch gegen den Mahnbescheid, ab Zustellung.",
+          "grundlage": "§ 692 Abs. 1 Nr. 3 ZPO"
+        },
+        {
+          "wert": "2 Wochen (Notfrist)",
+          "was": "Einspruch gegen den Vollstreckungsbescheid, ab Zustellung. Er steht einem Versäumnisurteil gleich (§ 700 Abs. 1 ZPO); die Einspruchsfrist ist eine Notfrist.",
+          "grundlage": "§ 339 Abs. 1 ZPO; § 700 Abs. 1 ZPO"
+        }
+      ],
+      "achtung": [
+        "Ohne Widerspruch und Einspruch wird der Vollstreckungsbescheid zum Titel; danach sind Pfändungen möglich.",
+        "Rechtskräftig festgestellte Ansprüche und vollstreckbare Titel verjähren erst in 30 Jahren (§ 197 Abs. 1 Nr. 3–6 BGB).",
+        "Das Gericht prüft im Mahnverfahren nicht, ob die Forderung berechtigt ist.",
+        "Die Einspruchsfrist ist eine Notfrist; Fristversäumnis lässt sich kaum nachträglich heilen."
+      ],
+      "fach_html": "<h3>Widerspruch</h3><p>Der Mahnbescheid enthält die Aufforderung, innerhalb von zwei Wochen seit Zustellung dem Gericht mitzuteilen, ob und in welchem Umfang dem Anspruch widersprochen wird (§ 692 Abs. 1 Nr. 3 ZPO).</p><h3>Einspruch</h3><p>Nach § 339 Abs. 1 ZPO beträgt die Einspruchsfrist zwei Wochen, ist eine Notfrist und beginnt mit der Zustellung. Der Vollstreckungsbescheid steht einem für vorläufig vollstreckbar erklärten Versäumnisurteil gleich (§ 700 Abs. 1 ZPO); deshalb gilt dieselbe Einspruchsfrist.</p><h3>Folgen</h3><p>Ein Vollstreckungsbescheid ermöglicht Zwangsvollstreckung. Titulierte Ansprüche verjähren in 30 Jahren (§ 197 Abs. 1 Nr. 3–6 BGB).</p>",
+      "zustaendig": [
+        "Amtsgericht / zentrales Mahngericht (Absender des Bescheids)",
+        "Schuldner- oder Verbraucherberatung"
+      ],
+      "belege": [
+        "Gesetze im Internet, ZPO § 692, abgerufen 20.09.2026",
+        "Gesetze im Internet, ZPO § 339, abgerufen 20.09.2026",
+        "Gesetze im Internet, ZPO § 700, BGB § 197, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "verjaehrung",
+        "gerichtsvollzieher-vermoegensauskunft"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "verjaehrung",
+      "kategorie": "forderungen",
+      "titel": "Verjährung von Schulden",
+      "icon": "⏳",
+      "teaser": "Regelfrist 3 Jahre, bei Titeln 30 Jahre: Wann Schulden verjähren und was Verjährung bedeutet.",
+      "schlagworte": [
+        "Verjährung",
+        "Verjährungsfrist",
+        "30 Jahre",
+        "Titel",
+        "Einrede",
+        "Jahresende"
+      ],
+      "kurz_html": "<p>Die normale Verjährungsfrist beträgt drei Jahre. Sie beginnt in der Regel am Ende des Jahres, in dem die Forderung entstanden ist und der Gläubiger davon wusste.</p><p>Wenn ein Gericht die Forderung festgestellt hat oder ein Vollstreckungsbescheid vorliegt, verjährt sie erst nach 30 Jahren. Verjährung tritt nicht von selbst ein: Sie müssen sich darauf berufen.</p>",
+      "schritte": [
+        {
+          "titel": "Entstehung der Forderung klären",
+          "text": "Wann wurde die Leistung erbracht, wann fällig?"
+        },
+        {
+          "titel": "Prüfen, ob ein Titel vorliegt",
+          "text": "Mahn- oder Vollstreckungsbescheid, Urteil oder vollstreckbare Urkunde verlängern die Frist."
+        },
+        {
+          "titel": "Gläubiger schriftlich auf Verjährung hinweisen",
+          "text": "Nur mit Beratung; die Wirkung ist eine Einrede, keine automatische Tilgung."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "3 Jahre",
+          "was": "Regelmäßige Verjährungsfrist; Beginn nach § 199 Abs. 1 BGB zum Jahresende.",
+          "grundlage": "§ 195 BGB"
+        },
+        {
+          "wert": "30 Jahre",
+          "was": "Rechtskräftig festgestellte Ansprüche, Ansprüche aus vollstreckbaren Vergleichen oder Urkunden und Kosten der Zwangsvollstreckung.",
+          "grundlage": "§ 197 Abs. 1 Nr. 3–6 BGB"
+        }
+      ],
+      "achtung": [
+        "Ein Anerkenntnis oder eine Teilzahlung kann die Verjährung neu beginnen lassen; nicht vorschnell zahlen oder unterschreiben.",
+        "Gerichtliche Verfahren und Verhandlungen können die Verjährung hemmen; Einzelheiten sind komplex.",
+        "Bei wiederkehrenden Leistungen aus Titeln gilt die Regelfrist statt der 30 Jahre (§ 197 Abs. 2 BGB)."
+      ],
+      "fach_html": "<h3>Regelfrist</h3><p>Nach § 195 BGB beträgt die regelmäßige Verjährungsfrist drei Jahre; der Beginn richtet sich nach § 199 Abs. 1 BGB (Ende des Jahres der Entstehung und Kenntnis des Gläubigers).</p><h3>30 Jahre</h3><p>§ 197 Abs. 1 Nr. 3–6 BGB nennt u. a. rechtskräftig festgestellte Ansprüche, Ansprüche aus vollstreckbaren Vergleichen oder Urkunden, Ansprüche, die durch das Insolvenzverfahren vollstreckbar geworden sind, sowie Kosten der Zwangsvollstreckung; für künftig fällig werdende wiederkehrende Leistungen gilt die Regelfrist (§ 197 Abs. 2 BGB).</p><h3>Grenzen dieser Seite</h3><p>Hemmung, Neubeginn und Ausnahmen (Anerkenntnis, Teilzahlung) sind hier nicht im Wortlaut geprüft.</p>",
+      "zustaendig": [
+        "Schuldner- und Verbraucherberatung",
+        "Amtsgericht (bei Titel)"
+      ],
+      "belege": [
+        "Gesetze im Internet, BGB § 195, abgerufen 20.09.2026",
+        "Gesetze im Internet, BGB § 197, abgerufen 20.09.2026",
+        "Gesetze im Internet, BGB § 199, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "mahnbescheid"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "pfaendung-lohn",
+      "kategorie": "pfaendung",
+      "titel": "Lohnpfändung und Pfändungsfreigrenzen",
+      "icon": "💼",
+      "teaser": "Wie viel Ihres Einkommens seit 1. Juli 2026 unpfändbar ist: Grundfreibetrag 1.587,40 Euro und Zuschläge für Unterhalt.",
+      "schlagworte": [
+        "Lohnpfändung",
+        "Pfändungsfreigrenze",
+        "Pfändungstabelle",
+        "Grundfreibetrag",
+        "Unterhaltspflicht",
+        "Arbeitgeber"
+      ],
+      "kurz_html": "<p>Wenn ein Gläubiger einen Titel hat, kann er Ihren Lohn pfänden lassen. Ihr Arbeitgeber zahlt dann den pfändbaren Teil an den Gläubiger.</p><p>Ein Teil bleibt immer frei. Ab 1. Juli 2026 liegt der Grundfreibetrag bei 1.587,40 Euro netto im Monat. Für die erste unterhaltsberechtigte Person kommen 597,42 Euro dazu, für jede weitere bis zur fünften 332,83 Euro. Über 4.866,30 Euro netto ist der Rest voll pfändbar.</p>",
+      "schritte": [
+        {
+          "titel": "Pfändungs- und Überweisungsbeschluss prüfen",
+          "text": "Ist er vom Gericht, wer ist Gläubiger, wie hoch ist die Forderung?"
+        },
+        {
+          "titel": "Unterhaltspflichten dem Arbeitgeber melden",
+          "text": "Sie erhöhen den unpfändbaren Betrag."
+        },
+        {
+          "titel": "Pfändungstabelle nutzen",
+          "text": "Der Arbeitgeber berechnet den pfändbaren Betrag nach der Tabelle zur aktuellen Bekanntmachung."
+        },
+        {
+          "titel": "Beratung einschalten",
+          "text": "Schuldnerberatung hilft bei Einigung und Insolvenzweg."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "1.587,40 Euro",
+          "was": "Unpfändbarer Grundfreibetrag monatlich, gültig ab 1. Juli 2026 (zuvor 1.555,00 Euro).",
+          "grundlage": "Pfändungsfreigrenzenbekanntmachung 2026 vom 19.03.2026, BGBl. 2026 I Nr. 80 (zu § 850c ZPO)"
+        },
+        {
+          "wert": "597,42 Euro / 332,83 Euro",
+          "was": "Zusätzlich für die erste unterhaltsberechtigte Person bzw. für jede weitere bis zur fünften.",
+          "grundlage": "§ 850c Abs. 2 ZPO in Verbindung mit der Bekanntmachung 2026 (BGBl. 2026 I Nr. 80)"
+        },
+        {
+          "wert": "4.866,30 Euro",
+          "was": "Nettoeinkommen, über dem der Mehrbetrag voll pfändbar ist.",
+          "grundlage": "§ 850c Abs. 3 Satz 3 ZPO in Verbindung mit der Bekanntmachung 2026 (BGBl. 2026 I Nr. 80)"
+        }
+      ],
+      "achtung": [
+        "Die Beträge werden jährlich zum 1. Juli angepasst (§ 850c Abs. 4 ZPO); prüfen Sie stets die aktuelle Tabelle.",
+        "Im Gesetzestext stehen ältere Beträge (etwa 1.178,59 Euro); maßgeblich ist die jährliche Bekanntmachung.",
+        "Unterhaltsberechtigte müssen dem Arbeitgeber gemeldet werden, sonst wird zu viel einbehalten."
+      ],
+      "fach_html": "<h3>Gesetzliche Grundlage</h3><p>§ 850c ZPO legt fest, welches Arbeitseinkommen unpfändbar ist. Die Grenzen werden jährlich zum 1. Juli an die Entwicklung des steuerlichen Grundfreibetrags angepasst (§ 850c Abs. 4 ZPO). Maßgeblich ist die Pfändungsfreigrenzenbekanntmachung 2026 vom 19. März 2026 (BGBl. 2026 I Nr. 80); sie gilt vom 1. Juli 2026 bis 30. Juni 2027.</p><h3>Beträge ab 1. Juli 2026</h3><ul><li>Grundfreibetrag: 1.587,40 Euro monatlich (vorher 1.555,00 Euro)</li><li>Erste unterhaltsberechtigte Person: 597,42 Euro (vorher 585,23 Euro)</li><li>Weitere Personen bis zur fünften: je 332,83 Euro (vorher 326,04 Euro)</li><li>Volle Pfändbarkeit ab: 4.866,30 Euro netto (vorher 4.766,99 Euro)</li></ul><h3>Wochen- und Tagessätze</h3><ul><li>Grundfreibetrag: 365,33 Euro pro Woche, 73,06 Euro pro Tag</li><li>Erste unterhaltsberechtigte Person: 137,50 Euro pro Woche, 27,50 Euro pro Tag</li><li>Weitere Personen bis zur fünften: je 76,60 Euro pro Woche, 15,32 Euro pro Tag</li><li>Volle Pfändbarkeit ab: 1.119,90 Euro pro Woche, 223,99 Euro pro Tag</li></ul><h3>Über der Grenze</h3><p>Oberhalb der Grenze ist der Mehrbetrag voll pfändbar (Obergrenze, § 850c Abs. 3 Satz 3 ZPO). Vom Mehrverdienst darunter bleibt nach § 850c Abs. 3 ZPO ein Teil unpfändbar (nach dem Gesetzestext drei Zehntel, mit Unterhaltspflichten weitere Anteile); die konkreten Beträge ergeben sich aus der Pfändungstabelle.</p>",
+      "zustaendig": [
+        "Arbeitgeber (Berechnung und Abführung)",
+        "Amtsgericht – Vollstreckungsgericht",
+        "Schuldnerberatung"
+      ],
+      "belege": [
+        "Pfändungsfreigrenzenbekanntmachung 2026 vom 19.03.2026, BGBl. 2026 I Nr. 80",
+        "Gesetze im Internet, ZPO § 850c, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "p-konto",
+        "gerichtsvollzieher-vermoegensauskunft"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "p-konto",
+      "kategorie": "pfaendung",
+      "titel": "Pfändungsschutzkonto (P-Konto)",
+      "icon": "🏦",
+      "teaser": "So schützt das P-Konto einen Grundbetrag pro Monat vor Pfändung und was Sie beachten müssen.",
+      "schlagworte": [
+        "P-Konto",
+        "Pfändungsschutzkonto",
+        "Kontopfändung",
+        "Freibetrag",
+        "Guthabenkonto",
+        "Bank"
+      ],
+      "kurz_html": "<p>Ein P-Konto schützt einen Grundbetrag Ihres Guthabens vor Pfändung. Sie können Ihr Girokonto bei Ihrer Bank in ein P-Konto umwandeln lassen, auch wenn es überzogen ist.</p><p>Jede Person darf nur ein P-Konto haben. Es wird nur auf Guthabenbasis geführt.</p>",
+      "schritte": [
+        {
+          "titel": "Umwandlung bei der Bank beantragen",
+          "text": "Sie können sie jederzeit verlangen."
+        },
+        {
+          "titel": "Erklären, dass Sie kein weiteres P-Konto haben",
+          "text": "Die Erklärung ist Pflicht."
+        },
+        {
+          "titel": "Bei höherem Bedarf Bescheinigung besorgen",
+          "text": "Zum Beispiel wegen Unterhalt; Bescheinigung von geeigneter Stelle."
+        },
+        {
+          "titel": "Beratung nutzen",
+          "text": "Schuldnerberatung erklärt Übertrag und Nachweise."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "1.590,00 Euro",
+          "was": "Grundfreibetrag monatlich ab 1. Juli 2026: der Betrag nach § 850c ZPO (1.587,40 Euro) wird auf volle 10 Euro aufgerundet.",
+          "grundlage": "§ 899 Abs. 1 ZPO"
+        },
+        {
+          "wert": "mindestens 4 Geschäftstage zum Ende eines Monats",
+          "was": "Frist, mit der die Umwandlung zurück in ein normales Konto verlangt werden kann.",
+          "grundlage": "§ 850k Abs. 5 ZPO"
+        },
+        {
+          "wert": "4. Geschäftstag",
+          "was": "Ist das Konto schon gepfändet, wird die Umwandlung zum Beginn des vierten Geschäftstags nach dem Verlangen wirksam.",
+          "grundlage": "§ 850k Abs. 2 ZPO"
+        },
+        {
+          "wert": "6 Monate",
+          "was": "Einwendungen gegen die Berechnung des geschützten Betrags der Bank mitteilen.",
+          "grundlage": "§ 899 Abs. 2 ZPO"
+        }
+      ],
+      "achtung": [
+        "Nur ein P-Konto pro Person (Ein-Konto-Gebot, § 850k Abs. 3 ZPO); bei mehreren Konten bestimmt auf Antrag das Vollstreckungsgericht das geschützte Konto (§ 850k Abs. 4 ZPO).",
+        "Ein P-Konto wird ausschließlich auf Guthabenbasis geführt (§ 850k Abs. 1 Satz 2 ZPO).",
+        "Auch mit P-Konto sind bestimmte Forderungen (etwa Unterhalt) unter Umständen nicht geschützt.",
+        "Nicht verbrauchtes Guthaben ist in den drei Folgemonaten zusätzlich geschützt (§ 899 Abs. 2 ZPO).",
+        "Erhöhungsbeträge gibt es etwa für Unterhalt, Kindergeld und Sozialleistungen (§ 902 ZPO); dafür ist eine Bescheinigung nach § 903 ZPO nötig."
+      ],
+      "fach_html": "<h3>Umwandlung</h3><p>Nach § 850k ZPO kann eine natürliche Person jederzeit von ihrem Kreditinstitut verlangen, ein Girokonto als Pfändungsschutzkonto zu führen, auch bei negativem Kontostand. Das Konto darf ausschließlich auf Guthabenbasis geführt werden (§ 850k Abs. 1 Satz 2 ZPO). Ist das Konto bereits gepfändet, wird die Umwandlung zum Beginn des vierten Geschäftstags nach dem Verlangen wirksam (§ 850k Abs. 2 ZPO). Jede Person darf nur ein Pfändungsschutzkonto haben und muss der Bank erklären, dass kein weiteres besteht (Ein-Konto-Gebot, § 850k Abs. 3 ZPO). Bei mehreren Konten wählt das Vollstreckungsgericht das geschützte aus (§ 850k Abs. 4 ZPO).</p><h3>Freibetrag</h3><p>Der Grundfreibetrag ergibt sich aus § 899 Abs. 1 ZPO in Verbindung mit § 850c ZPO. Der Betrag wird auf volle 10 Euro aufgerundet (§ 899 Abs. 1 Satz 2 ZPO): ab 1. Juli 2026 sind es 1.590,00 Euro (statt 1.587,40 Euro). Nicht verbrauchtes Guthaben ist in den drei Folgemonaten zusätzlich geschützt. Einwendungen gegen die Berechnung teilen Sie der Bank binnen sechs Monaten mit (§ 899 Abs. 2 ZPO).</p><h3>Erhöhungsbeträge</h3><p>Für Unterhalt, Kindergeld und bestimmte Sozialleistungen erhöht sich der Freibetrag (§ 902 ZPO). Die Bank verlangt dafür eine Bescheinigung nach § 903 ZPO.</p><h3>Rückumwandlung</h3><p>Die Rückumwandlung in ein normales Konto kann mit einer Frist von mindestens vier Geschäftstagen zum Ende eines Monats verlangt werden (§ 850k Abs. 5 ZPO).</p>",
+      "zustaendig": [
+        "Kreditinstitut (Umwandlung)",
+        "Amtsgericht – Vollstreckungsgericht",
+        "Schuldnerberatung (Bescheinigungen)"
+      ],
+      "belege": [
+        "Gesetze im Internet, ZPO §§ 850k, 899, 902, 903, abgerufen 20.09.2026",
+        "Gesetze im Internet, ZPO § 850c, abgerufen 20.09.2026",
+        "IHK Hannover, Neue Pfändungsfreigrenzen ab dem 1. Juli 2026, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "pfaendung-lohn",
+        "schuldnerberatung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "gerichtsvollzieher-vermoegensauskunft",
+      "kategorie": "pfaendung",
+      "titel": "Gerichtsvollzieher und Vermögensauskunft",
+      "icon": "⚖️",
+      "teaser": "Wann der Gerichtsvollzieher Auskunft über Ihr Vermögen verlangen darf und was Sie angeben müssen.",
+      "schlagworte": [
+        "Gerichtsvollzieher",
+        "Vermögensauskunft",
+        "eidesstattliche Versicherung",
+        "Zahlungsaufforderung",
+        "Vollstreckung",
+        "Termin"
+      ],
+      "kurz_html": "<p>Der Gerichtsvollzieher vollstreckt Forderungen von Gläubigern mit Titel. Er fordert Sie zuerst zur Zahlung auf.</p><p>Zahlen Sie nicht, kann er nach zwei Wochen einen Termin zur Vermögensauskunft ansetzen. Dort müssen Sie Ihr Vermögen angeben und die Angaben an Eides statt versichern.</p>",
+      "schritte": [
+        {
+          "titel": "Zahlungsaufforderung ernst nehmen",
+          "text": "Zwei Wochen nach der Aufforderung darf der Termin folgen."
+        },
+        {
+          "titel": "Unterlagen zum Termin mitbringen",
+          "text": "Der Termin sieht die Vorlage von Nachweisen vor."
+        },
+        {
+          "titel": "Angaben vollständig und richtig machen",
+          "text": "Sie versichern an Eides statt."
+        },
+        {
+          "titel": "Beratung nutzen",
+          "text": "Auch Ratenzahlung oder Insolvenz können geprüft werden."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "2 Wochen",
+          "was": "Mindestens vergangene Zeit seit der Zahlungsaufforderung, bevor die Vermögensauskunft verlangt werden darf.",
+          "grundlage": "§ 802f Abs. 1 ZPO"
+        },
+        {
+          "wert": "1 Woche",
+          "was": "Frist, um die Bestimmung anderer Orte für die Auskunft (Wohnung, anderer Ort, Videoübertragung) anzufechten.",
+          "grundlage": "§ 802f Abs. 4 ZPO"
+        },
+        {
+          "wert": "2 Jahre",
+          "was": "Keine erneute Vermögensauskunft, außer bei wesentlicher Änderung der Vermögensverhältnisse.",
+          "grundlage": "§ 802d Abs. 1 ZPO"
+        },
+        {
+          "wert": "3 Jahre",
+          "was": "Löschung des Eintrags im Schuldnerverzeichnis ab Eintragungsanordnung; vorzeitig bei Befriedigung des Gläubigers.",
+          "grundlage": "§ 882e Abs. 1 ZPO"
+        }
+      ],
+      "achtung": [
+        "Falsche oder unvollständige Angaben in Verzeichnissen können später die Restschuldbefreiung gefährden.",
+        "Bei Nichterscheinen oder Verweigerung drohen nach der Ladungsbelehrung Folgen; Einzelheiten im Ladungsschreiben.",
+        "Eintrag in das Schuldnerverzeichnis ist möglich (§ 882c ZPO); er wird nach 3 Jahren ab Eintragungsanordnung gelöscht, vorzeitig bei Befriedigung (§ 882e Abs. 1 ZPO).",
+        "Bei Ratenzahlungsangeboten Rat einholen, bevor Sie unterschreiben."
+      ],
+      "fach_html": "<h3>Voraussetzungen</h3><p>Der Gerichtsvollzieher darf die Vermögensauskunft erst einholen, wenn er den Schuldner zuvor zur Zahlung aufgefordert hat, seit der Aufforderung zwei Wochen vergangen sind und die Schuld nicht bezahlt wurde (§ 802f Abs. 1 ZPO). Der Termin kann in seinen Räumen, in der Wohnung, an einem anderen geeigneten Ort oder per Bild- und Tonübertragung stattfinden; gegen die Bestimmung des Ortes ist binnen einer Woche Widerspruch möglich (§ 802f Abs. 4 ZPO). Wer die Auskunft schon in den letzten zwei Jahren abgegeben hat, muss sie außer bei wesentlicher Änderung der Vermögensverhältnisse nicht erneut abgeben (§ 802d Abs. 1 ZPO). Videoanhörungen dürfen nicht aufgezeichnet werden.</p><h3>Inhalt</h3><p>Nach § 802c ZPO sind alle Vermögensgegenstände anzugeben (Gegenstände nach § 811 ZPO grundsätzlich nicht, § 802c Abs. 1 Satz 2 ZPO), bei Forderungen Grund und Beweismittel, entgeltliche Veräußerungen an nahestehende Personen der letzten zwei Jahre sowie unentgeltliche Leistungen der letzten vier Jahre (ausgenommen geringwertige Gelegenheitsgeschenke). Der Schuldner versichert an Eides statt, die Angaben nach bestem Wissen und Gewissen vollständig gemacht zu haben.</p><h3>Schuldnerverzeichnis</h3><p>Der Eintrag ins Schuldnerverzeichnis richtet sich nach § 882c ZPO. Er wird nach drei Jahren ab dem Tag der Eintragungsanordnung gelöscht, vorzeitig bei Befriedigung des Gläubigers (§ 882e Abs. 1 ZPO).</p>",
+      "zustaendig": [
+        "Gerichtsvollzieher beim Amtsgericht",
+        "Amtsgericht – Vollstreckungsgericht",
+        "Schuldnerberatung"
+      ],
+      "belege": [
+        "Gesetze im Internet, ZPO §§ 802d, 802f, 882c, 882e, abgerufen 20.09.2026",
+        "Gesetze im Internet, ZPO § 802c, abgerufen 20.09.2026",
+        "Gesetze im Internet, InsO § 290, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "pfaendung-lohn",
+        "p-konto",
+        "mahnbescheid"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "aussergerichtliche-einigung",
+      "kategorie": "entschuldung",
+      "titel": "Außergerichtliche Einigung mit Gläubigern",
+      "icon": "🤝",
+      "teaser": "Der Versuch, sich mit den Gläubigern zu einigen, ist Voraussetzung für die Verbraucherinsolvenz.",
+      "schlagworte": [
+        "außergerichtliche Einigung",
+        "Schuldenbereinigungsplan",
+        "Vergleich",
+        "Gläubiger",
+        "Bescheinigung",
+        "Ratenzahlung"
+      ],
+      "kurz_html": "<p>Bevor Sie die Verbraucherinsolvenz beantragen, müssen Sie versucht haben, sich mit den Gläubigern zu einigen. Dafür entsteht ein Plan, zum Beispiel mit Raten oder einem Teilerlass.</p><p>Eine geeignete Stelle, zum Beispiel eine Schuldnerberatung, berät Sie und bescheinigt später das Scheitern des Versuchs.</p>",
+      "schritte": [
+        {
+          "titel": "Einkommen und Schulden prüfen",
+          "text": "Was können Sie realistisch monatlich zahlen?"
+        },
+        {
+          "titel": "Plan mit Beratung erstellen",
+          "text": "Vorschlag für alle Gläubiger, möglichst gleich behandelt."
+        },
+        {
+          "titel": "Gläubiger anschreiben",
+          "text": "Frist zur Antwort setzen."
+        },
+        {
+          "titel": "Bei Scheitern Bescheinigung erhalten",
+          "text": "Sie dient als Nachweis für den Insolvenzantrag."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "6 Monate",
+          "was": "Der bescheinigte Einigungsversuch darf in den letzten sechs Monaten vor dem Antrag liegen.",
+          "grundlage": "§ 305 Abs. 1 Nr. 1 InsO"
+        }
+      ],
+      "achtung": [
+        "Ein Plan gilt nur, wenn die Gläubiger zustimmen; Stillhalten ist nicht garantiert.",
+        "Gläubiger dürfen in dieser Phase weiter pfänden; Schutz durch P-Konto und Freigrenzen bleibt wichtig.",
+        "Zahlen Sie nicht bevorzugt an einzelne Gläubiger; das kann später zur Versagung führen (Gleichbehandlung, vgl. § 295 InsO).",
+        "Eine gemeinsame Bescheinigung setzt persönliche Beratung und Prüfung der Verhältnisse voraus."
+      ],
+      "fach_html": "<h3>Voraussetzung des Antrags</h3><p>§ 305 Abs. 1 Nr. 1 InsO verlangt mit dem Antrag die Bescheinigung einer geeigneten Person oder Stelle über einen erfolglosen außergerichtlichen Einigungsversuch in den letzten sechs Monaten, den Plan und die Gründe des Scheiterns.</p><h3>Weitere Unterlagen</h3><p>Erforderlich sind außerdem ein Vermögensverzeichnis, eine Vermögensübersicht, ein Gläubigerverzeichnis und eine Forderungsaufstellung, jeweils mit Erklärung über die Richtigkeit, sowie die Erklärung, ob Restschuldbefreiung beantragt wird. Unvollständige Formulare führen zur Aufforderung zur Ergänzung binnen eines Monats (in bestimmten Fällen drei Monate).</p>",
+      "zustaendig": [
+        "Anerkannte Schuldner- und Insolvenzberatungsstelle",
+        "Rechtsanwälte mit Insolvenzberatung",
+        "Insolvenzgericht (bei Antrag)"
+      ],
+      "belege": [
+        "Gesetze im Internet, InsO § 305, abgerufen 20.09.2026",
+        "Gesetze im Internet, InsO § 295, abgerufen 20.09.2026",
+        "Bundesarbeitsgemeinschaft Schuldnerberatung, bag-sb.de, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "schuldnerberatung",
+        "verbraucherinsolvenz"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "verbraucherinsolvenz",
+      "kategorie": "entschuldung",
+      "titel": "Verbraucherinsolvenz und Restschuldbefreiung",
+      "icon": "🪜",
+      "teaser": "Wie das Verfahren abläuft, welche Voraussetzungen gelten und warum die Restschuldbefreiung in der Regel nach 3 Jahren möglich ist.",
+      "schlagworte": [
+        "Verbraucherinsolvenz",
+        "Privatinsolvenz",
+        "Restschuldbefreiung",
+        "Insolvenzantrag",
+        "Versagung",
+        "Sperrfrist"
+      ],
+      "kurz_html": "<p>Die Verbraucherinsolvenz ist ein gerichtliches Verfahren für Privatpersonen. Am Ende kann die Restschuldbefreiung stehen: Verbleibende Schulden werden erlassen.</p><p>Sie müssen die Restschuldbefreiung beantragen. Sie tritt Ihr pfändbares Einkommen für die Abtretungsfrist ab. Diese beträgt in der Regel 3 Jahre nach Eröffnung des Verfahrens.</p><p>Bestimmte Schulden sind ausgenommen, etwa Geldstrafen und Verbindlichkeiten aus vorsätzlich begangener unerlaubter Handlung.</p>",
+      "schritte": [
+        {
+          "titel": "Einigungsversuch dokumentieren",
+          "text": "Bescheinigung einer geeigneten Stelle einholen."
+        },
+        {
+          "titel": "Antrag mit Verzeichnissen stellen",
+          "text": "Vermögens-, Gläubiger- und Forderungsverzeichnis vollständig ausfüllen."
+        },
+        {
+          "titel": "Antrag auf Restschuldbefreiung stellen",
+          "text": "Zusammen mit dem Antrag oder innerhalb von zwei Wochen nach Hinweis nach § 20 Abs. 2 InsO."
+        },
+        {
+          "titel": "Abtretung an Treuhänder erklären",
+          "text": "Pfändbares Einkommen geht für 3 Jahre an den Treuhänder."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "3 Jahre",
+          "was": "Abtretungsfrist nach Eröffnung des Insolvenzverfahrens.",
+          "grundlage": "§ 287 Abs. 2 InsO"
+        },
+        {
+          "wert": "2 Wochen",
+          "was": "Antrag auf Restschuldbefreiung mit dem Insolvenzantrag oder binnen zwei Wochen nach Hinweis nach § 20 Abs. 2 InsO.",
+          "grundlage": "§ 287 Abs. 1 InsO"
+        },
+        {
+          "wert": "11 Jahre",
+          "was": "Sperre, wenn in den letzten elf Jahren vor dem Antrag Restschuldbefreiung erteilt wurde.",
+          "grundlage": "§ 287a InsO"
+        }
+      ],
+      "achtung": [
+        "Fünf Jahre statt drei gelten im erneuten Verfahren, wenn schon einmal Restschuldbefreiung auf einen Antrag nach dem 30. September 2020 erteilt wurde (§ 287 Abs. 2 Satz 2 InsO).",
+        "Wichtige Versagungsgründe: Verurteilung nach §§ 283–283c StGB, falsche Angaben, Verletzung von Auskunfts- oder Mitwirkungspflichten (§ 290 InsO).",
+        "Nach Versagung nach § 297 gilt eine Sperre von fünf Jahren, nach § 290 Abs. 1 Nr. 5–7 oder § 296 drei Jahre (§ 287a InsO).",
+        "Ausgenommene Forderungen bleiben bestehen (§ 302 InsO)."
+      ],
+      "fach_html": "<h3>Anwendungsbereich</h3><p>§ 304 InsO regelt das Verbraucherinsolvenzverfahren für natürliche Personen ohne selbstständige wirtschaftliche Tätigkeit. Wer selbstständig tätig ist oder war, fällt darunter, wenn die Vermögensverhältnisse überschaubar sind (weniger als 20 Gläubiger) und keine Forderungen aus Arbeitsverhältnissen bestehen.</p><h3>Restschuldbefreiung</h3><p>Die Restschuldbefreiung setzt einen Antrag voraus. Der Antrag ist mit dem Insolvenzantrag oder binnen zwei Wochen nach Hinweis nach § 20 Abs. 2 InsO zu stellen (§ 287 Abs. 1 InsO). Der Schuldner muss erklären, pfändbare Bezüge für die Abtretungsfrist abzutreten. Sie beträgt 3 Jahre nach Eröffnung (§ 287 Abs. 2 InsO). Das Gericht entscheidet nach Ablauf der Frist nach Anhörung (§ 300 InsO); bei Versagung stehen Rechtsmittel offen.</p><h3>Versagung und Sperrfristen</h3><p>Gründe: § 290 InsO. Sperrfristen: § 287a InsO (11 Jahre bei früherer Erteilung; 5 Jahre nach Versagung nach § 297; 3 Jahre nach Versagung nach § 290 Abs. 1 Nr. 5–7 oder § 296).</p>",
+      "zustaendig": [
+        "Amtsgericht – Insolvenzgericht",
+        "Anerkannte Schuldner- und Insolvenzberatungsstelle",
+        "Treuhänder"
+      ],
+      "belege": [
+        "Gesetze im Internet, InsO § 287, abgerufen 20.09.2026",
+        "Gesetze im Internet, InsO §§ 287a, 290, 300, 302, abgerufen 20.09.2026",
+        "Gesetze im Internet, InsO §§ 304, 305, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "wohlverhaltensphase",
+        "kosten-stundung",
+        "aussergerichtliche-einigung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "wohlverhaltensphase",
+      "kategorie": "entschuldung",
+      "titel": "Wohlverhaltensphase und Treuhänder",
+      "icon": "📋",
+      "teaser": "Welche Pflichten Sie während der Abtretungsfrist haben: Arbeit suchen, Erbschaft und Wohnsitzwechsel melden, nur an den Treuhänder zahlen.",
+      "schlagworte": [
+        "Wohlverhaltensphase",
+        "Obliegenheiten",
+        "Treuhänder",
+        "Erbschaft",
+        "Erwerbstätigkeit",
+        "Abtretungsfrist"
+      ],
+      "kurz_html": "<p>In der Abtretungsfrist müssen Sie sich an bestimmte Pflichten halten. Sonst kann das Gericht die Restschuldbefreiung versagen.</p><p>Sie müssen eine angemessene Arbeit ausüben oder sich um Arbeit bemühen. Erbschaften und Schenkungen geben Sie zur Hälfte an den Treuhänder, Lotteriegewinne ganz. Umzug oder Arbeitgeberwechsel melden Sie sofort. Zahlungen an Gläubiger leisten Sie nur an den Treuhänder.</p>",
+      "schritte": [
+        {
+          "titel": "Arbeit ausüben oder aktiv suchen",
+          "text": "Bewerbungen dokumentieren."
+        },
+        {
+          "titel": "Änderungen sofort melden",
+          "text": "Wohnsitz oder Arbeitsstelle beim Gericht und Treuhänder."
+        },
+        {
+          "titel": "Vermögenszuflüsse anzeigen",
+          "text": "Erbschaft, Schenkung oder Gewinn nicht verschweigen."
+        },
+        {
+          "titel": "Nur an den Treuhänder zahlen",
+          "text": "Keine Bevorzugung einzelner Gläubiger."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "3 Jahre",
+          "was": "Dauer der Abtretungsfrist, in der die Obliegenheiten gelten.",
+          "grundlage": "§ 287 Abs. 2 InsO"
+        },
+        {
+          "wert": "50 %",
+          "was": "Anteil von Erbschaft oder Schenkung, der an den Treuhänder herauszugeben ist.",
+          "grundlage": "§ 295 InsO"
+        }
+      ],
+      "achtung": [
+        "Verstöße gegen Obliegenheiten können zur Versagung der Restschuldbefreiung führen (§ 296 InsO wird in § 300 genannt).",
+        "Geringfügige Geschenke und Preise von geringem Wert sind ausgenommen (§ 295 InsO).",
+        "Lotteriegewinne sind vollständig herauszugeben.",
+        "Verschweigen von Einnahmen ist ein typischer Versagungsgrund."
+      ],
+      "fach_html": "<h3>Obliegenheiten</h3><p>§ 295 InsO verpflichtet den Schuldner, eine angemessene Erwerbstätigkeit auszuüben und, wenn er ohne Beschäftigung ist, sich um eine solche zu bemühen. Erwerb von Todes wegen und Schenkungen sind zur Hälfte des Wertes herauszugeben, Lotteriegewinne voll; geringfügige Zuwendungen sind ausgenommen. Wohnsitz- oder Beschäftigungswechsel sind unverzüglich anzuzeigen; auf Verlangen sind Auskünfte über Bemühungen, Einkünfte und Vermögen zu geben. Zahlungen zur Befriedigung von Insolvenzgläubigern gehen nur an den Treuhänder; keine unangemessenen Verbindlichkeiten.</p><h3>Entscheidung</h3><p>Nach § 300 InsO entscheidet das Insolvenzgericht nach Ablauf der Abtretungsfrist nach Anhörung von Gläubigern, Verwalter und Schuldner über die Restschuldbefreiung; Versagungsanträge nach §§ 290, 296, 297, 297a sind möglich, und die Entscheidung wird öffentlich bekanntgemacht.</p>",
+      "zustaendig": [
+        "Treuhänder",
+        "Amtsgericht – Insolvenzgericht",
+        "Schuldnerberatung"
+      ],
+      "belege": [
+        "Gesetze im Internet, InsO § 295, abgerufen 20.09.2026",
+        "Gesetze im Internet, InsO § 300, abgerufen 20.09.2026",
+        "Gesetze im Internet, InsO § 287, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "verbraucherinsolvenz",
+        "selbststaendige"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "kosten-stundung",
+      "kategorie": "entschuldung",
+      "titel": "Kosten des Verfahrens und Stundung",
+      "icon": "🧾",
+      "teaser": "Wenn Sie die Verfahrenskosten nicht bezahlen können, kann das Gericht sie stunden (§ 4a InsO).",
+      "schlagworte": [
+        "Kostenstundung",
+        "Verfahrenskosten",
+        "§ 4a InsO",
+        "Rechtsanwalt beiordnen",
+        "Restschuldbefreiung",
+        "Treuhändervergütung"
+      ],
+      "kurz_html": "<p>Ein Insolvenzverfahren kostet Geld. Wenn Ihr Vermögen dafür voraussichtlich nicht reicht, können Sie beantragen, dass das Gericht die Kosten stundet.</p><p>Voraussetzung: Sie sind Privatperson und haben Restschuldbefreiung beantragt. Auf Antrag kann ein Rechtsanwalt beigeordnet werden, wenn eine Vertretung nötig ist.</p>",
+      "schritte": [
+        {
+          "titel": "Antrag auf Stundung stellen",
+          "text": "Zusammen mit dem Insolvenz- und Restschuldbefreiungsantrag, mit Nachweisen zu Einkommen und Vermögen."
+        },
+        {
+          "titel": "Kein Versagungsgrund vorliegen",
+          "text": "Kein Ausschluss nach § 290 Abs. 1 Nr. 1 InsO."
+        },
+        {
+          "titel": "Beratung zur Höhe klären",
+          "text": "Über Raten und Rückzahlung beraten Stellen und Gericht; feste Beträge nennt diese Seite nicht."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "Kein fester Betrag genannt",
+          "was": "Stundung, wenn das Vermögen voraussichtlich nicht ausreicht, die Verfahrenskosten zu decken; Rückzahlung nur auf gerichtliche Anordnung.",
+          "grundlage": "§ 4a Abs. 1 und 3 InsO"
+        }
+      ],
+      "achtung": [
+        "Die Stundung schließt die Pflicht zur späteren Rückzahlung nach gerichtlicher Anordnung nicht aus (§ 4a Abs. 3 InsO).",
+        "Zinslose Darlehen zur Deckung der Verfahrenskosten sind von der Restschuldbefreiung ausgenommen (§ 302 InsO).",
+        "Nach Aufhebung des Verfahrens kann das Gericht die Stundung verlängern und Ratenzahlung anordnen; die Raten können später angepasst werden (§ 4b InsO).",
+        "Wer eine Restschuldbefreiung nicht beantragt, kann die Stundung nicht nutzen.",
+        "Beratungshilfe nach § 1 BerHG: Eigenanteil 15 Euro (Nr. 2500 VV RVG), nur soweit keine andere zumutbare Hilfe besteht (§ 1 Abs. 1 Nr. 2 BerHG). Bei kostenfreier Schuldnerberatung ist das meist der Fall."
+      ],
+      "fach_html": "<h3>Voraussetzungen</h3><p>Nach § 4a Abs. 1 InsO wird die Stundung gewährt, wenn der Schuldner eine natürliche Person ist, Restschuldbefreiung beantragt hat und sein Vermögen voraussichtlich nicht ausreicht, die Verfahrenskosten zu decken; sie ist ausgeschlossen bei einem Versagungsgrund nach § 290 Abs. 1 Nr. 1 InsO.</p><h3>Beiordnung</h3><p>Nach § 4a Abs. 2 InsO kann auf Antrag ein zur Vertretung bereiter Rechtsanwalt beigeordnet werden, wenn anwaltliche Vertretung erforderlich erscheint.</p><h3>Wirkung</h3><p>Die Staatskasse und der beigeordnete Rechtsanwalt können Ansprüche auf Vergütung gegen den Schuldner nur nach gerichtlicher Anordnung geltend machen (§ 4a Abs. 3 InsO).</p><h3>Nach Aufhebung des Verfahrens</h3><p>Nach der Aufhebung des Insolvenzverfahrens kann die Stundung verlängert werden; das Gericht ordnet dann Ratenzahlung an und kann sie später anpassen (§ 4b InsO).</p><h3>Beratungshilfe</h3><p>Beratungshilfe richtet sich nach § 1 BerHG. Der Eigenanteil beträgt 15 Euro (Nr. 2500 VV RVG). Sie wird nur gewährt, soweit keine andere zumutbare Hilfe besteht (§ 1 Abs. 1 Nr. 2 BerHG); bei kostenfreier Schuldnerberatung ist das meist der Fall.</p>",
+      "zustaendig": [
+        "Amtsgericht – Insolvenzgericht",
+        "Anerkannte Schuldnerberatungsstelle"
+      ],
+      "belege": [
+        "Gesetze im Internet, InsO §§ 4a, 4b, BerHG § 1, abgerufen 20.09.2026",
+        "Gesetze im Internet, InsO § 302, abgerufen 20.09.2026",
+        "Gesetze im Internet, InsO § 290, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "verbraucherinsolvenz"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "wohnung-mietschulden",
+      "kategorie": "lebenslagen",
+      "titel": "Wohnung und Mietschulden",
+      "icon": "🏠",
+      "teaser": "Wann der Vermieter wegen Mietschulden fristlos kündigen darf und wie die Schonfrist von zwei Monaten die Kündigung unwirksam machen kann.",
+      "schlagworte": [
+        "Mietschulden",
+        "fristlose Kündigung",
+        "Schonfrist",
+        "Räumungsklage",
+        "Zahlungsverzug",
+        "Wohnungsverlust"
+      ],
+      "kurz_html": "<p>Wenn Sie mit der Miete im Rückstand sind, kann der Vermieter fristlos kündigen. Das ist möglich bei Verzug mit zwei aufeinanderfolgenden Zahlungsterminen oder bei Rückstand von zwei Monatsmieten über einen längeren Zeitraum.</p><p>Wenn Sie nach einer Räumungsklage innerhalb von zwei Monaten alles Ausstehende zahlen, wird die fristlose Kündigung unwirksam (Schonfrist). Wenden Sie sich früh an Beratung und, falls möglich, an das Jobcenter oder Sozialamt.</p>",
+      "schritte": [
+        {
+          "titel": "Nicht abwarten",
+          "text": "Sprechen Sie früh mit dem Vermieter und einer Beratung."
+        },
+        {
+          "titel": "Kündigung und Klage prüfen",
+          "text": "Datum der Zustellung der Räumungsklage notieren."
+        },
+        {
+          "titel": "Rückstand innerhalb der Frist ausgleichen",
+          "text": "Miete und Nutzungsentschädigung binnen zwei Monaten nach Rechtshängigkeit."
+        },
+        {
+          "titel": "Hilfe prüfen lassen",
+          "text": "Ob Behörden Mietschulden übernehmen, klärt die Beratung im Einzelfall."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "2 aufeinanderfolgende Termine",
+          "was": "Fristlose Kündigung wegen Zahlungsverzugs; alternativ Rückstand von zwei Monatsmieten über längeren Zeitraum.",
+          "grundlage": "§ 543 Abs. 2 Nr. 3 BGB"
+        },
+        {
+          "wert": "2 Monate",
+          "was": "Nach Eintritt der Rechtshängigkeit des Räumungsanspruchs muss der Rückstand beglichen sein, damit die Kündigung unwirksam wird.",
+          "grundlage": "§ 569 Abs. 3 Nr. 2 BGB"
+        }
+      ],
+      "achtung": [
+        "Die Schonfrist gilt nicht, wenn in den letzten zwei Jahren schon eine Kündigung nach dieser Regel durch Zahlung unwirksam wurde.",
+        "Die Schonfrist bezieht sich auf die fristlose Kündigung; bei ordentlicher Kündigung gilt das nicht ohne weiteres.",
+        "Mietschulden in der Insolvenz: Einzelheiten zu Kündigungssperre und Insolvenzverfahren hier nicht geprüft.",
+        "Ein Räumungstitel kann vollstreckt werden; Fristen unbedingt einhalten.",
+        "Ein Rückstand ist nur erheblich, wenn er mehr als eine Monatsmiete beträgt (§ 569 Abs. 3 Nr. 1 BGB).",
+        "Wird der Vermieter vor Zugang der Kündigung befriedigt, entfällt sie; ebenso ist sie unwirksam bei unverzüglicher Aufrechnung durch den Mieter (§ 543 Abs. 2 Satz 2 und 3 BGB)."
+      ],
+      "fach_html": "<h3>Kündigung</h3><p>Nach § 543 Abs. 2 Nr. 3 BGB liegt ein wichtiger Grund vor, wenn der Mieter für zwei aufeinanderfolgende Termine mit der Entrichtung der Miete oder eines nicht unerheblichen Teils in Verzug ist oder in einem Zeitraum, der sich über mehr als zwei Termine erstreckt, mit einem Betrag in Höhe von zwei Monatsmieten. Ein Rückstand ist nur erheblich, wenn er die Miete für einen Monat übersteigt (§ 569 Abs. 3 Nr. 1 BGB). Die Kündigung entfällt, wenn der Vermieter vor Zugang der Kündigung befriedigt wird, und ist unwirksam, wenn sich der Mieter unverzüglich auf eine Aufrechnung beruft (§ 543 Abs. 2 Satz 2 und 3 BGB).</p><h3>Schonfrist</h3><p>Nach § 569 Abs. 3 Nr. 2 BGB wird die Kündigung unwirksam, wenn der Vermieter spätestens bis zum Ablauf von zwei Monaten nach Eintritt der Rechtshängigkeit des Räumungsanspruchs hinsichtlich der fälligen Miete und der fälligen Entschädigung nach § 546a Abs. 1 befriedigt wird. Das gilt nicht, wenn der Kündigung eine andere, wegen Zahlung unwirksam gewordene Kündigung vorausgegangen ist (innerhalb von zwei Jahren).</p>",
+      "zustaendig": [
+        "Amtsgericht (Räumungsklage)",
+        "Mieterverein und Schuldnerberatung",
+        "Jobcenter oder Sozialamt (Prüfung der Übernahme, Einzelfall)"
+      ],
+      "belege": [
+        "Gesetze im Internet, BGB § 543, abgerufen 20.09.2026",
+        "Gesetze im Internet, BGB § 569, abgerufen 20.09.2026",
+        "Bundesarbeitsgemeinschaft Schuldnerberatung, bag-sb.de, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "schuldnerberatung",
+        "beratung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "selbststaendige",
+      "kategorie": "lebenslagen",
+      "titel": "Schulden bei Selbstständigen",
+      "icon": "🧰",
+      "teaser": "Welche Sonderregeln gelten, wenn Sie selbstständig sind oder waren: Verfahrensart und Zahlungspflicht an den Treuhänder.",
+      "schlagworte": [
+        "Selbstständige",
+        "Regelinsolvenz",
+        "Verbraucherinsolvenz",
+        "20 Gläubiger",
+        "Treuhänder",
+        "Angemessenes Dienstverhältnis"
+      ],
+      "kurz_html": "<p>Auch Selbstständige können Restschuldbefreiung erhalten. Welches Verfahren gilt, hängt von Ihrer Lage ab: Wer aktuell selbstständig ist, ist nur bei überschaubaren Verhältnissen im vereinfachten Verfahren.</p><p>Voraussetzung dafür: weniger als 20 Gläubiger und keine Forderungen aus Arbeitsverhältnissen. Als Selbstständiger müssen Sie in der Wohlverhaltensphase so viel an den Treuhänder zahlen, als hätten Sie ein angemessenes Dienstverhältnis.</p>",
+      "schritte": [
+        {
+          "titel": "Gläubiger und Forderungen zählen",
+          "text": "Weniger als 20 Gläubiger? Gibt es Forderungen von Beschäftigten?"
+        },
+        {
+          "titel": "Verfahrensart klären",
+          "text": "Beratung oder Gericht ordnet ein, ob vereinfachtes oder Regelverfahren gilt."
+        },
+        {
+          "titel": "Zahlungspflicht vorbereiten",
+          "text": "Jährlich bis 31. Januar für das Vorjahr, soweit § 295a InsO gilt."
+        },
+        {
+          "titel": "Einkommen belegen",
+          "text": "Nachweis zum erzielbaren Einkommen in angemessener Anstellung."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "weniger als 20 Gläubiger",
+          "was": "Voraussetzung für das vereinfachte Verfahren bei früher oder derzeit Selbstständigen; zusätzlich keine Forderungen aus Arbeitsverhältnissen.",
+          "grundlage": "§ 304 Abs. 1 InsO"
+        },
+        {
+          "wert": "31. Januar",
+          "was": "Zahlungen des selbstständigen Schuldners an den Treuhänder jährlich bis zum 31. Januar des Folgejahres.",
+          "grundlage": "§ 295a InsO"
+        }
+      ],
+      "achtung": [
+        "Bei 20 oder mehr Gläubigern oder Forderungen aus Arbeitsverhältnissen gilt das Regelverfahren; Einzelheiten hier nicht behandelt.",
+        "Sie müssen belegen, welches Einkommen Sie in einem angemessenen Dienstverhältnis erzielen könnten.",
+        "Vor Festsetzung werden Treuhänder und Gläubiger angehört; Beschwerde ist möglich.",
+        "Steuer- und Sozialversicherungsschulden können besondere Regeln haben; hier nicht geprüft."
+      ],
+      "fach_html": "<h3>Verfahrensart</h3><p>§ 304 InsO: Wer eine selbstständige wirtschaftliche Tätigkeit ausübt oder ausgeübt hat, ist nur dann im vereinfachten Verfahren, wenn die Vermögensverhältnisse überschaubar sind (weniger als 20 Gläubiger) und keine Forderungen aus Arbeitsverhältnissen bestehen. Andernfalls gelten die allgemeinen Vorschriften.</p><h3>Zahlungen an den Treuhänder</h3><p>Nach § 295a InsO hat der selbstständig tätige Schuldner die Insolvenzgläubiger so zu stellen, als wäre er ein angemessenes Dienstverhältnis eingegangen. Zahlungen sind jährlich bis zum 31. Januar des Folgejahres zu leisten; der Schuldner hat das erzielbare Einkommen darzulegen. Treuhänder und Gläubiger werden vor der gerichtlichen Festsetzung gehört; Schuldner und Gläubiger können den Beschluss anfechten.</p>",
+      "zustaendig": [
+        "Amtsgericht – Insolvenzgericht",
+        "Treuhänder",
+        "Insolvenz- und Schuldnerberatung, ggf. Kammern und Verbände (Selbstständigenberatung)"
+      ],
+      "belege": [
+        "Gesetze im Internet, InsO § 304, abgerufen 20.09.2026",
+        "Gesetze im Internet, InsO § 295a, abgerufen 20.09.2026",
+        "Gesetze im Internet, InsO § 295, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "verbraucherinsolvenz",
+        "wohlverhaltensphase"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "schufa",
+      "kategorie": "lebenslagen",
+      "titel": "Schufa und Auskunfteien",
+      "icon": "📊",
+      "teaser": "Wie lange Zahlungsstörungen und Restschuldbefreiung bei Auskunfteien gespeichert werden.",
+      "schlagworte": [
+        "Schufa",
+        "Auskunftei",
+        "Speicherfrist",
+        "Löschung",
+        "Restschuldbefreiung",
+        "100-Tage-Regel"
+      ],
+      "kurz_html": "<p>Auskunfteien wie die Schufa speichern Daten zu Zahlungsstörungen. Erledigte Zahlungsausfälle bleiben in der Regel drei Jahre nach Begleichung gespeichert.</p><p>Nach den neuen Verhaltensregeln seit 1. Januar 2025 kann die Frist auf 18 Monate sinken, wenn die Forderung innerhalb von 100 Tagen erledigt wurde und keine weiteren Negativdaten vorliegen. Einen Restschuldbefreiungs-Eintrag löscht die Schufa seit 28. März 2023 sechs Monate nach Erteilung.</p>",
+      "schritte": [
+        {
+          "titel": "Selbstauskunft einholen",
+          "text": "So sehen Sie, welche Einträge gespeichert sind."
+        },
+        {
+          "titel": "Forderungen schnell erledigen",
+          "text": "Erledigung binnen 100 Tagen kann die Frist auf 18 Monate verkürzen."
+        },
+        {
+          "titel": "Falsche Einträge korrigieren lassen",
+          "text": "Bei fehlerhaften Daten Berichtigung verlangen."
+        },
+        {
+          "titel": "Beratung nutzen",
+          "text": "Bei Streit um Löschung oder Wirkung auf Kredit und Miete."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "3 Jahre",
+          "was": "Regelspeicherfrist nach Erledigung einer Zahlungsstörung nach den Verhaltensregeln, seit 1. Januar 2025.",
+          "grundlage": "BGH, Pressemitteilung zu I ZR 97/25 vom 18.12.2025"
+        },
+        {
+          "wert": "18 Monate",
+          "was": "Verkürzte Frist, wenn keine weiteren Negativdaten, keine öffentlichen Registerdaten und Erledigung binnen 100 Tagen.",
+          "grundlage": "BGH, I ZR 97/25"
+        },
+        {
+          "wert": "6 Monate",
+          "was": "Löschung von Restschuldbefreiungs-Einträgen bei der Schufa, sechs Monate nach Erteilung (seit 28. März 2023); Anknüpfung an die Bekanntmachungsdauer nach § 3 InsoBekV. Andere Auskunfteien handhaben es überwiegend gleich, eine Rechtspflicht besteht nicht.",
+          "grundlage": "SCHUFA-Newsroom; § 3 InsoBekV"
+        }
+      ],
+      "achtung": [
+        "Der BGH hat am 18.12.2025 entschieden, dass eingemeldete Daten nicht sofort nach Forderungsausgleich gelöscht werden müssen.",
+        "Andere Auskunfteien handhaben die 6-Monats-Löschung überwiegend gleich, dazu besteht aber keine Rechtspflicht; Fristen können abweichen.",
+        "Einträge können Kredite und Mietverträge erschweren.",
+        "BGH 18.12.2025 (I ZR 97/25, Pressemitteilung 233/2025): Das Berufungsurteil wurde aufgehoben und an das OLG Köln zurückverwiesen; der BGH hält die typisierten Speicherfristen der Verhaltensregeln für zulässig."
+      ],
+      "fach_html": "<h3>BGH-Entscheidung</h3><p>Nach der Pressemitteilung des Bundesgerichtshofs zu I ZR 97/25 vom 18.12.2025 müssen von Vertragspartnern eingemeldete Zahlungsstörungen nicht sofort nach dem Forderungsausgleich gelöscht werden. Nach den vom Hessischen Datenschutzbeauftragten genehmigten Verhaltensregeln beträgt die Regelspeicherdauer drei Jahre nach Erledigung; 18 Monate gelten, wenn keine weiteren Negativdaten gemeldet wurden, keine Angaben aus öffentlichen Registern vorliegen und die Erledigung binnen 100 Tagen erfolgte. Der BGH hielt diese typisierten Speicherfristen für zulässig; er hob das Berufungsurteil auf und verwies die Sache an das OLG Köln zurück.</p><h3>Restschuldbefreiung</h3><p>Die SCHUFA löscht Einträge zur Restschuldbefreiung seit dem 28. März 2023 sechs Monate nach Erteilung (SCHUFA-Newsroom); das knüpft an die Bekanntmachungsdauer nach § 3 InsoBekV an. Andere Auskunfteien handhaben es überwiegend gleich; eine Rechtspflicht dazu besteht nicht.</p>",
+      "zustaendig": [
+        "Auskunfteien (Selbstauskunft, Berichtigung)",
+        "Datenschutzaufsicht",
+        "Verbraucherzentrale und Schuldnerberatung"
+      ],
+      "belege": [
+        "Bundesgerichtshof, Pressemitteilung zu I ZR 97/25 vom 18.12.2025, abgerufen 20.09.2026",
+        "SCHUFA Newsroom, SCHUFA löscht Restschuldbefreiung nach 6 Monaten, abgerufen 20.09.2026",
+        "Bundesarbeitsgemeinschaft Schuldnerberatung, bag-sb.de, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "verbraucherinsolvenz"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "beratung",
+      "kategorie": "hilfe",
+      "titel": "Beratung und Anlaufstellen",
+      "icon": "🤝",
+      "teaser": "Wo Sie bundesweit Schuldnerberatung finden und was Beratung kostet.",
+      "schlagworte": [
+        "Beratungsstelle",
+        "meine-schulden.de",
+        "BAG-SB",
+        "Schuldnerberatung",
+        "Beratungsstellensuche",
+        "kostenlos"
+      ],
+      "kurz_html": "<p>Schuldnerberatung finden Sie bundesweit über die Beratungsstellensuche von meine-schulden.de, dem Portal der Bundesarbeitsgemeinschaft Schuldnerberatung.</p><p>Beratung bei staatlichen und gemeinnützigen Trägern ist in der Regel kostenlos. Wenn Kosten anfallen, informiert die Stelle Sie zu Beginn. Es gibt über 1.400 Stellen in Deutschland.</p><p>Adressen und Telefonnummern einzelner Stellen nennt dieser Wegweiser nicht; nutzen Sie die Suche.</p>",
+      "schritte": [
+        {
+          "titel": "Beratungsstellensuche nutzen",
+          "text": "meine-schulden.de öffnen und Ihren Ort eingeben."
+        },
+        {
+          "titel": "Termin vereinbaren",
+          "text": "Bei Fristen oder Pfändung darauf hinweisen."
+        },
+        {
+          "titel": "Unterlagen mitbringen",
+          "text": "Schuldenübersicht, Bescheide, Einkommensnachweise."
+        },
+        {
+          "titel": "Kosten vorab klären",
+          "text": "Bei Kosten informiert die Stelle Sie zu Beginn."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "über 1.400",
+          "was": "Schuldner- und Insolvenzberatungsstellen in Deutschland laut BAG-SB.",
+          "grundlage": "Bundesarbeitsgemeinschaft Schuldnerberatung, bag-sb.de"
+        }
+      ],
+      "achtung": [
+        "Wartezeiten sind möglich; bei Frist oder Pfändung sofort melden.",
+        "Zahlen Sie keine Vorkasse an Vermittler, die Schuldenfreiheit versprechen.",
+        "Für die Bescheinigung im Insolvenzverfahren braucht es eine geeignete Person oder Stelle (§ 305 InsO).",
+        "Dieser Wegweiser ersetzt keine Rechtsberatung.",
+        "Beratungshilfe (§ 1 BerHG, Eigenanteil 15 Euro) gibt es nur, soweit keine andere zumutbare Hilfe besteht (§ 1 Abs. 1 Nr. 2 BerHG); bei kostenfreier Schuldnerberatung ist das meist der Fall."
+      ],
+      "fach_html": "<h3>Bundesweite Stellen</h3><p>Die Bundesarbeitsgemeinschaft Schuldnerberatung e. V. (BAG-SB) ist der Fachverband der Schuldner- und Insolvenzberatung und aktiv seit 1986. Die offizielle Beratungsstellensuche findet sich unter meine-schulden.de; Informationen unter bag-sb.de.</p><h3>Bescheinigung</h3><p>Die Bescheinigung nach § 305 Abs. 1 Nr. 1 InsO stellt eine geeignete Person oder Stelle aus; sie beruht auf persönlicher Beratung und eingehender Prüfung der Einkommens- und Vermögensverhältnisse.</p><h3>Grenzen</h3><p>Einzelne Stellen, Adressen und Telefonnummern werden hier nicht aufgeführt, weil sie sich ändern und nicht aus Primärquellen geprüft wurden.</p>",
+      "zustaendig": [
+        "Bundesarbeitsgemeinschaft Schuldnerberatung e. V. (bag-sb.de, meine-schulden.de)",
+        "Anerkannte Schuldner- und Insolvenzberatungsstellen",
+        "Verbraucherzentralen"
+      ],
+      "belege": [
+        "Bundesarbeitsgemeinschaft Schuldnerberatung, bag-sb.de, abgerufen 20.09.2026",
+        "meine-schulden.de, Beratungsstellensuche, abgerufen 20.09.2026",
+        "Gesetze im Internet, InsO § 305, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "schuldnerberatung",
+        "ueberblick"
+      ],
+      "stand": "September 2026"
+    }
+  ]
+}

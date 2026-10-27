@@ -1,0 +1,1000 @@
+{
+ "kategorien": [
+  {
+   "id": "ueberblick",
+   "titel": "Überblick und Grundlagen",
+   "icon": "🧭",
+   "beschreibung": "Einstieg: was Wohnungslosigkeit rechtlich bedeutet."
+  },
+  {
+   "id": "unterbringung",
+   "titel": "Unterbringung und Notfallhilfe",
+   "icon": "🏚️",
+   "beschreibung": "Ordnungsrechtliche Unterbringung, Kältehilfe, Wohnungsverlust vermeiden."
+  },
+  {
+   "id": "leistungen",
+   "titel": "Sozialleistungen und Wohnung",
+   "icon": "💶",
+   "beschreibung": "Grundsicherungsgeld ohne festen Wohnsitz, eigene Wohnung finden."
+  },
+  {
+   "id": "dokumente",
+   "titel": "Dokumente und Behörden",
+   "icon": "🪪",
+   "beschreibung": "Postadresse, Melderecht und Personalausweis ohne Wohnsitz."
+  },
+  {
+   "id": "gesundheit",
+   "titel": "Gesundheit",
+   "icon": "🩺",
+   "beschreibung": "Krankenversicherung und medizinische Versorgung ohne Wohnsitz."
+  },
+  {
+   "id": "rechtsschutz",
+   "titel": "Rechtsschutz und öffentlicher Raum",
+   "icon": "⚖️",
+   "beschreibung": "Schulden, Räumung, Platzverweis und Betteln."
+  },
+  {
+   "id": "familie",
+   "titel": "Familie und Arbeit",
+   "icon": "👨‍👩‍👧",
+   "beschreibung": "Kinder in Wohnungsnot, Gewaltschutz, Jobsuche."
+  },
+  {
+   "id": "beratung",
+   "titel": "Beratung und Anlaufstellen",
+   "icon": "📞",
+   "beschreibung": "Fachberatungsstellen, Straßensozialarbeit, Tagesaufenthalte."
+  }
+ ],
+ "seiten": [
+  {
+   "id": "ueberblick-rechte-wohnungslose",
+   "kategorie": "ueberblick",
+   "titel": "Rechte im Überblick: wohnungslos und obdachlos",
+   "icon": "🧭",
+   "teaser": "Wohnungslosigkeit ist in Deutschland Ländersache: Es gibt kein bundeseinheitliches „Wohnungslosengesetz“, sondern ein Zusammenspiel aus kommunalem Ordnungsrecht und Sozialleistungen nach SGB II/SGB XII.",
+   "schlagworte": [
+    "Wohnungslosigkeit",
+    "Obdachlosigkeit",
+    "Ordnungsrecht",
+    "Landesrecht",
+    "SGB XII",
+    "BAG Wohnungslosenhilfe",
+    "Wohnungslosenberichterstattungsgesetz"
+   ],
+   "kurz_html": "\n<p>„Wohnungslos“ und „obdachlos“ werden oft gleichgesetzt, meinen aber Unterschiedliches: <strong>Wohnungslos</strong> ist, wer keinen eigenen Mietvertrag hat, etwa weil die Wohnung gekündigt wurde – auch wer vorübergehend bei Freunden, in einer Einrichtung oder in einer Notunterkunft lebt, gilt als wohnungslos. <strong>Obdachlos</strong> ist im engeren Sinn, wer ganz ohne jede Unterkunft ist, etwa auf der Straße lebt. Diese Unterscheidung ist wichtig, weil sich daran unterschiedliche Ansprüche anschließen.</p>\n<p>Für die <strong>Unterbringung</strong> ist – anders als bei Rente oder Grundsicherungsgeld – kein Bundesgesetz zuständig, sondern das jeweilige Landesrecht (Polizei- und Ordnungsrecht) und die Praxis Ihrer Kommune. Für die <strong>Existenzsicherung</strong> gelten dagegen bundesweit SGB II (Grundsicherungsgeld, vormals Bürgergeld) bzw. SGB XII (Sozialhilfe) – unabhängig davon, ob Sie eine feste Adresse haben.</p>\n",
+   "schritte": [
+    {
+     "titel": "Akute Notlage einschätzen",
+     "text": "Sind Sie heute Nacht ohne Unterkunft? Dann ist der erste Schritt das örtliche Ordnungsamt oder – außerhalb der Bürozeiten – die Polizei bzw. eine Notdienst-Nummer für Wohnungslosenhilfe."
+    },
+    {
+     "titel": "Ordnungsamt kontaktieren",
+     "text": "Bei unfreiwilliger Obdachlosigkeit besteht ein Anspruch auf vorübergehende Unterbringung nach Landesrecht (siehe „Ordnungsrechtliche Unterbringung“)."
+    },
+    {
+     "titel": "Sozialleistungen sichern",
+     "text": "Ein Antrag auf Grundsicherungsgeld/Bürgergeld (SGB II) oder Sozialhilfe (SGB XII) ist auch ohne festen Wohnsitz möglich."
+    },
+    {
+     "titel": "Fachberatung aufsuchen",
+     "text": "Fachberatungsstellen für Wohnungsnotfälle (§§ 67 ff. SGB XII) unterstützen bei allen weiteren Schritten, von Anträgen bis zur Wohnungssuche."
+    },
+    {
+     "titel": "Dokumente sichern",
+     "text": "Bewahren Sie Ausweis und wichtige Unterlagen an einem sicheren Ort auf und richten Sie möglichst eine c/o-Adresse für Post ein."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "unverzüglich",
+     "was": "Bei akuter, unfreiwilliger Obdachlosigkeit soll das Ordnungsamt zeitnah reagieren – eine bundeseinheitliche Frist gibt es dafür nicht, es handelt sich um kommunale Praxis auf Grundlage des jeweiligen Landesrechts.",
+     "grundlage": "Landes-Polizei-/Ordnungsrecht"
+    },
+    {
+     "wert": "31. Januar",
+     "was": "Amtlicher Stichtag der jährlichen Wohnungslosenstatistik nach dem Wohnungslosenberichterstattungsgesetz.",
+     "grundlage": "§ 2 WoBerichtsG"
+    }
+   ],
+   "achtung": [
+    "Ein bundesweit einheitliches „Wohnungslosengesetz“ gibt es nicht – die Regelungen zur Unterbringung unterscheiden sich von Bundesland zu Bundesland und teils von Kommune zu Kommune.",
+    "Die Begriffe „wohnungslos“ und „obdachlos“ werden in Alltag und manchen Statistiken uneinheitlich verwendet – das führt leicht zu falschen Erwartungen an Leistungen.",
+    "Ein Rechtsanspruch auf eine bestimmte Unterkunftsqualität oder -lage besteht nicht; es geht um das sogenannte „zivilisatorische Minimum“ (Wetterschutz, sanitäre Grundversorgung), nicht um eine komfortable Unterkunft.",
+    "Der Bezug von Sozialleistungen setzt keine feste Wohnadresse voraus – lassen Sie sich von Behörden nicht mit dem Argument abweisen, es fehle eine Meldeadresse."
+   ],
+   "fach_html": "\n<h3>Kompetenzordnung: warum es kein Bundesgesetz gibt</h3>\n<p>Die Abwehr von Gefahren – dazu zählt nach überwiegender Auffassung auch der Schutz vor unfreiwilliger Obdachlosigkeit – ist nach der grundgesetzlichen Kompetenzordnung (Art. 30, 70 GG) grundsätzlich Sache der Länder. Es existiert daher kein Bundesgesetz, das eine Unterbringungspflicht regelt; stattdessen greifen die allgemeinen Generalklauseln der Landespolizei- und Ordnungsgesetze (siehe „Ordnungsrechtliche Unterbringung“). Für die soziale Existenzsicherung (Regelbedarf, Kosten der Unterkunft) gelten dagegen die Bundesgesetze SGB II und SGB XII unverändert.</p>\n<h3>Statistik: zwei Zahlen, zwei Methoden</h3>\n<p>Zwei Zahlen kursieren zur Wohnungslosigkeit in Deutschland, die häufig verwechselt werden: Die <strong>Bundesarbeitsgemeinschaft Wohnungslosenhilfe (BAG W)</strong> veröffentlicht eine Hochrechnung, die auch nicht amtlich erfasste Personen (z. B. bei Freunden/Familie untergekommene Menschen) einschließt und für 2024 rund 1.029.000 wohnungslose Menschen in Deutschland ausweist (ein Anstieg gegenüber rund 928.000 für 2023 laut BAG W). Die <strong>amtliche Statistik</strong> nach dem Wohnungslosenberichterstattungsgesetz (WoBerichtsG) erfasst dagegen nur Personen, die zum Stichtag in einer von Kommunen oder Trägern vermittelten Unterkunft untergebracht waren, und wies für den Stichtag 31.01.2026 rund 452.900 Personen aus (Destatis) – ein Rückgang gegenüber rund 474.700 zum 31.01.2025. Beide Zahlen sind methodisch nicht direkt vergleichbar: Die BAG-W-Zahl ist eine Schätzung des Fachverbands über alle Formen der Wohnungslosigkeit, die amtliche Zahl erfasst nur die untergebrachten Personen.</p>\n<h3>Ein „Recht auf Obdach“?</h3>\n<p>Ein ausdrücklich als solches kodifiziertes „Recht auf Obdach“ existiert im deutschen Recht nicht; die Verpflichtung der Kommunen zur Unterbringung wird in Fachliteratur und ständiger verwaltungsgerichtlicher Praxis aus den ordnungsrechtlichen Generalklauseln der Länder hergeleitet, letztlich mit Bezug zur Menschenwürde (Art. 1 Abs. 1 GG) und zum Recht auf körperliche Unversehrtheit (Art. 2 Abs. 2 GG). Eine einzelne höchstrichterliche Leitentscheidung des Bundesverwaltungsgerichts, die diese Pflicht bundesweit einheitlich begründet, ließ sich in dieser Recherche nicht zweifelsfrei belegen – maßgeblich sind Instanzrechtsprechung und Landesrecht.</p>\n",
+   "zustaendig": [
+    "Ordnungsamt der Kommune (Unterbringung, nach Landesrecht)",
+    "Jobcenter bzw. Sozialamt (Sozialleistungen)",
+    "Fachberatungsstellen der Wohnungslosenhilfe"
+   ],
+   "belege": [
+    "Wohnungslosenberichterstattungsgesetz – WoBerichtsG (gesetze-im-internet.de)",
+    "Statistisches Bundesamt, Pressemitteilung zur Wohnungslosenstatistik 2026 (destatis.de)",
+    "BAG Wohnungslosenhilfe, Hochrechnung Wohnungslosigkeit 2024 (bagw.de)",
+    "Art. 30, 70 Grundgesetz (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "ordnungsrechtliche-unterbringung",
+    "buergergeld-ohne-festen-wohnsitz",
+    "beratung-anlaufstellen-wohnungslose"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "ordnungsrechtliche-unterbringung",
+   "kategorie": "unterbringung",
+   "titel": "Ordnungsrechtliche Unterbringung",
+   "icon": "🏛️",
+   "teaser": "Bei unfreiwilliger Obdachlosigkeit ist Ihre Kommune nach dem jeweiligen Landesrecht zur vorübergehenden Unterbringung verpflichtet – das ist Gefahrenabwehr, kein Mietverhältnis.",
+   "schlagworte": [
+    "Ordnungsrechtliche Unterbringung",
+    "Einweisungsverfügung",
+    "Gefahrenabwehr",
+    "Landesrecht",
+    "Art. 7 LStVG",
+    "§ 14 OBG NRW",
+    "Zivilisatorisches Minimum"
+   ],
+   "kurz_html": "\n<p>Wer sich unfreiwillig ohne Unterkunft wiederfindet, kann von der Kommune vorübergehend in eine Notunterkunft eingewiesen werden. Rechtsgrundlage ist nicht ein Bundesgesetz, sondern das jeweilige <strong>Landes-Polizei- oder Ordnungsrecht</strong> – zum Beispiel Art. 7 Abs. 2 Nr. 3 Landesstraf- und Verordnungsgesetz (LStVG) in Bayern oder § 14 Ordnungsbehördengesetz (OBG) in Nordrhein-Westfalen. Die Einweisung erfolgt durch Verwaltungsakt (Einweisungs- verfügung) und begründet in der Regel kein Mietverhältnis nach dem Bürgerlichen Gesetzbuch, sondern ein öffentlich-rechtliches Nutzungsverhältnis.</p>\n",
+   "schritte": [
+    {
+     "titel": "Beim Ordnungsamt melden",
+     "text": "Melden Sie sich persönlich beim Ordnungsamt Ihrer Kommune; außerhalb der Bürozeiten sind vielerorts Notdienste oder die Polizei erreichbar."
+    },
+    {
+     "titel": "Unfreiwilligkeit glaubhaft machen",
+     "text": "Der Anspruch besteht nur bei unfreiwilliger Obdachlosigkeit – schildern Sie Ihre Situation möglichst konkret."
+    },
+    {
+     "titel": "Einweisungsverfügung erhalten",
+     "text": "Die Unterbringung erfolgt meist kurzfristig und oft formlos oder mündlich; ein schriftlicher Bescheid kann nachträglich verlangt werden."
+    },
+    {
+     "titel": "Hausordnung beachten",
+     "text": "In der Unterkunft gilt die Nutzungs-/Hausordnung der Kommune, nicht das Mietrecht des BGB."
+    },
+    {
+     "titel": "Bei Ablehnung Rechtsschutz suchen",
+     "text": "Wird die Unterbringung abgelehnt, kann Widerspruch eingelegt und wegen der Eilbedürftigkeit einstweiliger Rechtsschutz beim Verwaltungsgericht (§ 123 VwGO) beantragt werden."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "unverzüglich",
+     "was": "Das Ordnungsamt soll bei akuter unfreiwilliger Obdachlosigkeit ohne schuldhaftes Zögern reagieren – eine feste gesetzliche Frist hierfür ist nicht bundeseinheitlich geregelt.",
+     "grundlage": "jeweiliges Landes-Ordnungsrecht"
+    },
+    {
+     "wert": "keine feste Höchstdauer",
+     "was": "Die Unterbringung ist als vorübergehende Maßnahme gedacht, bis eigener Wohnraum gefunden ist; eine bundesweit einheitliche Höchstdauer gibt es nicht.",
+     "grundlage": "jeweiliges Landes-Ordnungsrecht"
+    }
+   ],
+   "achtung": [
+    "Es gibt keine bundeseinheitliche Anspruchsgrundlage – die genaue Rechtsgrundlage und Verwaltungspraxis hängt vom jeweiligen Bundesland und oft von der einzelnen Kommune ab.",
+    "Ein Anspruch besteht nur bei UNFREIWILLIGER Obdachlosigkeit; wer eine zumutbare Unterkunft ablehnt, hat regelmäßig keinen Anspruch auf eine andere.",
+    "Die Unterbringung begründet in der Regel kein Mietverhältnis nach BGB, sondern ein öffentlich-rechtliches Nutzungsverhältnis nach kommunaler Benutzungssatzung – die üblichen Mieterschutzrechte gelten grundsätzlich nicht.",
+    "Eine höchstrichterliche (BVerwG-)Leitentscheidung zur Unterbringungspflicht ließ sich in dieser Recherche nicht zweifelsfrei belegen; die Pflicht wird in Fachliteratur und ständiger Instanzrechtsprechung der Verwaltungsgerichte hergeleitet."
+   ],
+   "fach_html": "\n<h3>Rechtsgrundlagen der Länder</h3>\n<p>Da Gefahrenabwehr Ländersache ist (Art. 30, 70 GG), stützt sich die ordnungsrechtliche Unterbringung auf die allgemeinen Generalklauseln der jeweiligen Landes-Polizei- und Ordnungsgesetze, nicht auf eine spezialgesetzliche Norm zur Obdachlosigkeit. Beispiele: Art. 7 Abs. 2 Nr. 3 Landesstraf- und Verordnungsgesetz (LStVG) Bayern, § 14 Ordnungsbehördengesetz (OBG) Nordrhein-Westfalen, die Generalklausel des Niedersächsischen Polizei- und Ordnungsbehördengesetzes (NPOG) sowie die Generalklausel des Berliner Allgemeinen Sicherheits- und Ordnungsgesetzes (ASOG). Da es sich um Generalklauseln handelt, ist die Unterbringung Obdachloser eine von mehreren Anwendungsfällen der allgemeinen Gefahrenabwehr, nicht ein eigens benannter Leistungstatbestand.</p>\n<h3>Rechtsnatur der Einweisung</h3>\n<p>Die Einweisung in eine Notunterkunft erfolgt durch Verwaltungsakt (häufig als Einweisungsverfügung, bei generellen Notunterkunftsregelungen auch als Allgemeinverfügung). Es entsteht dadurch ein öffentlich-rechtliches Nutzungsverhältnis, keine Miete im Sinne des BGB – eine zwangsweise Einweisung ist auch ohne Zustimmung der betroffenen Person möglich und primär auf Überbrückung angelegt.</p>\n<h3>Umfang des Anspruchs</h3>\n<p>Nach herrschender Auffassung reduziert sich das Ermessen der Behörde bei unfreiwilliger Obdachlosigkeit auf null – die Kommune muss tätig werden. Der Anspruch bezieht sich jedoch nur auf das sogenannte „zivilisatorische Minimum“ (Wetterschutz, sanitäre Grundversorgung), nicht auf eine bestimmte Unterkunftsqualität oder Lage. Praxisquellen gehen davon aus, dass der Anspruch ganztägig gilt, also nicht auf eine reine Nachtunterkunft beschränkt ist.</p>\n<h3>Rechtsschutz</h3>\n<p>Eine Ablehnung der Unterbringung ist anfechtbar. Wegen der typischen Eilbedürftigkeit erfolgt der Rechtsschutz in der Praxis meist über einen Antrag auf einstweiligen Rechtsschutz beim zuständigen Verwaltungsgericht (§ 123 VwGO), nicht über das reguläre Widerspruchsverfahren.</p>\n",
+   "zustaendig": [
+    "Ordnungsamt der Gemeinde/Stadt (nach dem jeweiligen Landesrecht)"
+   ],
+   "belege": [
+    "Art. 7 Abs. 2 Nr. 3 LStVG Bayern",
+    "§ 14 OBG Nordrhein-Westfalen",
+    "BAG Wohnungslosenhilfe, Fachtexte zu Rechtsgrundlagen der ordnungsrechtlichen Unterbringung (bagw.de)",
+    "Deutscher Verein für öffentliche und private Fürsorge, Empfehlungen DV 1/24 (2024)"
+   ],
+   "siehe_auch": [
+    "notuebernachtung-kaeltehilfe",
+    "wohnungsverlust-vermeiden",
+    "rechte-im-oeffentlichen-raum"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "notuebernachtung-kaeltehilfe",
+   "kategorie": "unterbringung",
+   "titel": "Notübernachtung und Kältehilfe",
+   "icon": "❄️",
+   "teaser": "Kältehilfe und Notschlafstellen sind meist freiwillige, karitative Angebote – sie ergänzen, ersetzen aber nicht die ganzjährige ordnungsrechtliche Unterbringungspflicht Ihrer Kommune.",
+   "schlagworte": [
+    "Kältehilfe",
+    "Notschlafstelle",
+    "Notunterkunft",
+    "Freiwillige Leistung",
+    "Winterhilfe",
+    "Tagesaufenthalt"
+   ],
+   "kurz_html": "\n<p>Notschlafstellen und „Kältehilfe“-Programme werden meist von Wohlfahrtsverbänden (Diakonie, Caritas, DRK, Stadtmission) oder Kommunen organisiert und sind in der Regel <strong>freiwillige, oft saisonale</strong> Zusatzangebote – anders als die ordnungsrechtliche Unterbringung, auf die grundsätzlich ganzjährig ein Anspruch besteht. Kältehilfe ergänzt diese Pflicht vor allem in den Wintermonaten mit zusätzlichen Plätzen, Kältebussen und Tagesaufenthalten.</p>\n",
+   "schritte": [
+    {
+     "titel": "Örtliches Verzeichnis nutzen",
+     "text": "Kältehilfe-Verzeichnisse oder Beratungsstellen vor Ort informieren über Notschlafstellen, Kältebusse und deren Öffnungszeiten – meist mit erweiterter Kapazität im Winter."
+    },
+    {
+     "titel": "Bei Gefahr Notruf wählen",
+     "text": "Bei Anzeichen von Unterkühlung oder Erfrierung nicht auf den nächsten Kältebus warten, sondern den Rettungsdienst (112) rufen."
+    },
+    {
+     "titel": "Ordnungsamt parallel kontaktieren",
+     "text": "Der Anspruch auf ordnungsrechtliche Unterbringung gilt ganzjährig, nicht nur bei Kälte – ergänzend zum Kältehilfe-Angebot ansprechen."
+    },
+    {
+     "titel": "Tagesaufenthalt nutzen",
+     "text": "Tagesaufenthaltsstätten bieten tagsüber Aufwärmen, Duschen und oft eine Postadresse."
+    }
+   ],
+   "fristen": [],
+   "achtung": [
+    "Kältehilfe ist meist eine freiwillige, saisonale Zusatzleistung – kein einklagbarer Anspruch, anders als die ordnungsrechtliche Unterbringung.",
+    "Warten Sie bei akuter gesundheitlicher Gefahr nicht auf einen Kältebus – rufen Sie den Rettungsdienst.",
+    "Die Verfügbarkeit von Notschlafstellen und Kältebussen (Öffnungszeiten, Kapazität, Voranmeldung) ist von Kommune zu Kommune sehr unterschiedlich – vor Ort erfragen."
+   ],
+   "fach_html": "\n<h3>Kältehilfe vs. ordnungsrechtliche Pflicht</h3>\n<p>Eine bundesweite gesetzliche Pflicht speziell zu „Kälteschutz“ existiert nicht. Was in vielen Städten als „Kältehilfe“ bekannt ist, ist organisatorisch meist ein freiwilliges Zusammenspiel von Kommune und Wohlfahrtsverbänden, das zusätzliche, oft niedrigschwellige Plätze schafft. Die ordnungsrechtliche Unterbringungspflicht (siehe „Ordnungsrechtliche Unterbringung“) besteht davon unabhängig ganzjährig und leitet sich aus den Generalklauseln des jeweiligen Landesrechts ab.</p>\n<h3>Ganztägiger Charakter des Anspruchs</h3>\n<p>Nach in der Fachpraxis vertretener Auffassung erschöpft sich der ordnungsrechtliche Unterbringungsanspruch nicht in einer reinen Übernachtungsmöglichkeit, sondern erstreckt sich – anders als eine reine Notschlafstelle – grundsätzlich auf eine ganztägige Unterkunft. In der Praxis wird dies jedoch nicht überall einheitlich umgesetzt; viele klassische Notschlafstellen sind organisatorisch nur nachts geöffnet, sodass ergänzend Tagesaufenthaltsstätten nötig sind.</p>\n",
+   "zustaendig": [
+    "Wohlfahrtsverbände (Diakonie, Caritas, DRK u. a.) und Kommunen (Kältehilfe, freiwillig)",
+    "Ordnungsamt (ganzjährige Unterbringungspflicht)"
+   ],
+   "belege": [
+    "BAG Wohnungslosenhilfe, Fachtexte zu ganztägiger Unterbringung (bagw.de)",
+    "Kommunale Kältehilfe-Verzeichnisse (Beispiel: örtliche Wohlfahrtsverbände)"
+   ],
+   "siehe_auch": [
+    "ordnungsrechtliche-unterbringung",
+    "beratung-anlaufstellen-wohnungslose"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "wohnungsverlust-vermeiden",
+   "kategorie": "unterbringung",
+   "titel": "Wohnungsverlust vermeiden: Mietschulden und Räumung",
+   "icon": "🏠",
+   "teaser": "Die meisten Fälle von Wohnungslosigkeit beginnen mit Mietschulden. Wer sofort nach einer Kündigung handelt, kann die Wohnung oft noch retten – etwa über die Übernahme der Schulden durch Jobcenter oder Sozialamt.",
+   "schlagworte": [
+    "Mietschulden",
+    "Räumungsklage",
+    "Schonfristzahlung",
+    "§ 22 SGB II",
+    "§ 36 SGB XII",
+    "§ 569 BGB",
+    "§ 721 ZPO"
+   ],
+   "kurz_html": "\n<p>Wohnungsverlust beginnt fast immer mit Mietschulden, die zu einer Kündigung und im schlimmsten Fall zu einer Räumungsklage führen. § 22 Abs. 8 SGB II (bzw. § 36 SGB XII für Sozialhilfeempfänger) erlaubt es Jobcenter und Sozialamt, Mietschulden zu übernehmen, wenn dies zur Sicherung der Wohnung gerechtfertigt und notwendig ist. Entscheidend ist: <strong>sofort handeln</strong>, sobald eine Kündigung oder Klage eintrifft – nicht erst kurz vor der Räumung.</p>\n",
+   "schritte": [
+    {
+     "titel": "Sofort reagieren",
+     "text": "Handeln Sie unmittelbar nach Erhalt einer Kündigung wegen Mietschulden – nicht abwarten."
+    },
+    {
+     "titel": "Behörde informieren",
+     "text": "Beantragen Sie beim Jobcenter (SGB II) oder Sozialamt (SGB XII) die Übernahme der Mietschulden nach § 22 Abs. 8 SGB II bzw. § 36 SGB XII."
+    },
+    {
+     "titel": "Schonfristzahlung nutzen",
+     "text": "Bei einer fristlosen Kündigung heilt eine Zahlung oder die Verpflichtungserklärung einer „öffentlichen Stelle“ (z. B. des Jobcenters) binnen zwei Monaten nach Zustellung der Räumungsklage die Kündigung (§ 569 Abs. 3 Nr. 2 BGB)."
+    },
+    {
+     "titel": "Nicht nur auf das Gericht verlassen",
+     "text": "Amtsgerichte müssen Jobcenter/Sozialamt bei Räumungsklagen zwar informieren (§ 22 Abs. 9 SGB II bzw. § 36 Abs. 2 SGB XII) – werden Sie trotzdem selbst aktiv."
+    },
+    {
+     "titel": "Räumungsfrist beantragen",
+     "text": "Bei drohender Räumung kann beim Gericht eine Räumungsfrist von bis zu einem Jahr beantragt werden (§ 721 ZPO)."
+    },
+    {
+     "titel": "Schuldnerberatung einschalten",
+     "text": "Eine parallele Schuldnerberatung hilft, die Gesamtsituation zu ordnen (siehe „Schulden und Wohnungslosigkeit“)."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "2 Monate",
+     "was": "Die Schonfristzahlung heilt die fristlose Kündigung, wenn sie innerhalb von zwei Monaten nach Zustellung (Rechtshängigkeit) der Räumungsklage erfolgt.",
+     "grundlage": "§ 569 Abs. 3 Nr. 2 BGB"
+    },
+    {
+     "wert": "1× in 2 Jahren",
+     "was": "Die Schonfristzahlung kann nur einmal innerhalb von zwei Jahren genutzt werden.",
+     "grundlage": "§ 569 Abs. 3 Nr. 2 BGB"
+    },
+    {
+     "wert": "bis zu 1 Jahr",
+     "was": "Maximale Räumungsfrist, die das Gericht auf Antrag gewähren kann.",
+     "grundlage": "§ 721 ZPO"
+    }
+   ],
+   "achtung": [
+    "Die Schonfristzahlung heilt NUR die fristlose (außerordentliche) Kündigung, nicht eine gleichzeitig ausgesprochene ordentliche (fristgerechte) Kündigung – ein häufiger Irrtum, der trotz Nachzahlung zum Verlust der Wohnung führen kann.",
+    "Stellen Sie den Antrag auf Mietschuldenübernahme sofort nach Zustellung der Kündigung oder Klage – Behördenverfahren dauern oft länger als die Zwei-Monats-Frist der Schonfristzahlung.",
+    "Die Übernahme von Mietschulden ist im SGB II vorrangig ein Darlehen, kein Zuschuss; im SGB XII kann sie auch als Beihilfe (Zuschuss) gewährt werden – die genaue Form liegt im Ermessen der Behörde.",
+    "Die gerichtliche Mitteilungspflicht an Jobcenter/Sozialamt ersetzt nicht den eigenen Antrag – verlassen Sie sich nicht allein darauf."
+   ],
+   "fach_html": "\n<h3>§ 22 Abs. 8 SGB II / § 36 SGB XII: Mietschuldenübernahme</h3>\n<p>Schulden, die zur Sicherung der Unterkunft gerechtfertigt sind, weil sonst Wohnungslosigkeit droht, und deren Übernahme notwendig ist, sollen übernommen werden – vorrangig als Darlehen. Vorhandenes eigenes Vermögen ist grundsätzlich vorrangig einzusetzen. Die parallele Regelung für Sozialhilfeempfänger findet sich in § 36 SGB XII.</p>\n<h3>Mitteilungspflicht der Gerichte</h3>\n<p>Erhebt eine Vermieterin oder ein Vermieter Räumungsklage wegen Zahlungsverzugs, sollen die Amtsgerichte das zuständige Jobcenter bzw. Sozialamt informieren (§ 22 Abs. 9 SGB II, § 36 Abs. 2 SGB XII), damit die Behörde von sich aus tätig werden kann. Diese Mitteilungspflicht ersetzt aber keinen eigenen Antrag der betroffenen Person und garantiert kein rechtzeitiges Handeln der Behörde.</p>\n<h3>Schonfristzahlung (§ 569 Abs. 3 Nr. 2 BGB)</h3>\n<p>Eine fristlose Kündigung wegen Zahlungsverzugs wird unwirksam, wenn der Vermieter spätestens zwei Monate nach Eintritt der Rechtshängigkeit der Räumungsklage hinsichtlich der fälligen Miete und der fälligen Entschädigung befriedigt wird oder sich eine öffentliche Stelle zur Befriedigung verpflichtet. Diese Möglichkeit kann nur einmal innerhalb von zwei Jahren genutzt werden und heilt ausdrücklich nur die außerordentliche Kündigung, nicht eine zusätzlich ausgesprochene ordentliche Kündigung.</p>\n<h3>Räumungsfrist (§ 721 ZPO)</h3>\n<p>Auf Antrag kann das Gericht dem Schuldner bzw. der Schuldnerin bei der Verurteilung zur Räumung von Wohnraum eine angemessene Räumungsfrist bewilligen, die bis zu einem Jahr betragen kann. Der Antrag muss rechtzeitig im Prozess gestellt werden.</p>\n",
+   "zustaendig": [
+    "Jobcenter (SGB II) bzw. Sozialamt (SGB XII)",
+    "Amtsgericht (Räumungsklage)",
+    "Schuldnerberatungsstellen"
+   ],
+   "belege": [
+    "§ 22 SGB II (gesetze-im-internet.de)",
+    "§ 36 SGB XII (gesetze-im-internet.de)",
+    "§ 569 BGB (gesetze-im-internet.de)",
+    "§ 721 ZPO (gesetze-im-internet.de)",
+    "Deutscher Verein für öffentliche und private Fürsorge, Empfehlung DV 17/14 (2015)"
+   ],
+   "siehe_auch": [
+    "ordnungsrechtliche-unterbringung",
+    "schulden-und-wohnungslosigkeit",
+    "buergergeld-ohne-festen-wohnsitz"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "buergergeld-ohne-festen-wohnsitz",
+   "kategorie": "leistungen",
+   "titel": "Grundsicherungsgeld (Bürgergeld) ohne festen Wohnsitz",
+   "icon": "📝",
+   "teaser": "Fehlender fester Wohnsitz ist kein Ausschlussgrund für Grundsicherungsgeld/Bürgergeld: Zuständig ist das Jobcenter am tatsächlichen Aufenthaltsort.",
+   "schlagworte": [
+    "Grundsicherungsgeld",
+    "Bürgergeld",
+    "§ 36 SGB II",
+    "Tatsächlicher Aufenthalt",
+    "c/o-Adresse",
+    "Örtliche Zuständigkeit"
+   ],
+   "kurz_html": "\n<p>Auch ohne eigene Wohnung können Sie Grundsicherungsgeld (bis 30. Juni 2026 „Bürgergeld“) beantragen. Lässt sich kein gewöhnlicher Aufenthalt feststellen, ist nach § 36 SGB II das Jobcenter am <strong>tatsächlichen Aufenthaltsort</strong> zuständig. In der Praxis werden c/o-Adressen von Beratungsstellen oder Tagesstätten verbreitet als Zustelladresse akzeptiert, auch wenn dies nicht bundeseinheitlich in einer Norm geregelt ist.</p>\n",
+   "schritte": [
+    {
+     "titel": "Jobcenter am Aufenthaltsort aufsuchen",
+     "text": "Gehen Sie zum Jobcenter, in dessen Bereich Sie sich tatsächlich aufhalten – eine vorherige Klärung der Zuständigkeit ist nicht nötig."
+    },
+    {
+     "titel": "Formlosen Antrag stellen",
+     "text": "Ein Antrag kann formlos gestellt werden; das Fehlen einer Meldeadresse ist kein Ausschlussgrund."
+    },
+    {
+     "titel": "c/o-Adresse angeben",
+     "text": "Geben Sie die c/o-Adresse einer Beratungsstelle, Tagesstätte oder ähnlichen Einrichtung als Postanschrift an, sofern Sie keine eigene haben."
+    },
+    {
+     "titel": "Erreichbarkeit sicherstellen",
+     "text": "Sorgen Sie für Erreichbarkeit, etwa durch regelmäßige persönliche Vorsprache, wenn Post oder Telefon nicht zuverlässig funktionieren."
+    },
+    {
+     "titel": "Bei Ablehnung Widerspruch einlegen",
+     "text": "Lehnt ein Jobcenter allein wegen fehlender Meldeadresse ab, verweisen Sie auf § 36 SGB II und legen Sie Widerspruch ein."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "1 Monat",
+     "was": "Widerspruchsfrist gegen ablehnende Bescheide des Jobcenters.",
+     "grundlage": "§ 84 SGG"
+    }
+   ],
+   "achtung": [
+    "Ein Jobcenter darf einen Antrag nicht allein deshalb ablehnen, weil keine Meldeadresse vorliegt.",
+    "Die Akzeptanz von c/o-Adressen und die genauen Anforderungen an die Erreichbarkeit sind nicht bundeseinheitlich geregelt und unterscheiden sich in der Praxis von Jobcenter zu Jobcenter – im Zweifel vorher mit einer Fachberatungsstelle klären.",
+    "Ohne Bankkonto ist die Auszahlung erschwert; ein Anspruch auf ein Basiskonto ergibt sich aus dem Zahlungskontengesetz (ZKG), nicht aus dem Sozialrecht."
+   ],
+   "fach_html": "\n<h3>§ 36 SGB II: örtliche Zuständigkeit</h3>\n<p>Grundsätzlich ist das Jobcenter am gewöhnlichen Aufenthaltsort zuständig. Lässt sich ein gewöhnlicher Aufenthalt nicht feststellen – wie es bei Menschen ohne feste Unterkunft häufig der Fall ist –, ist nach § 36 SGB II das Jobcenter zuständig, in dessen Bezirk sich die Person tatsächlich aufhält. Diese Auffangregelung stellt sicher, dass fehlende Meldeverhältnisse nicht zum Leistungsausschluss führen.</p>\n<h3>Postzustellung in der Verwaltungspraxis</h3>\n<p>Die Nutzung von c/o-Adressen bei Beratungsstellen, Tagesstätten oder Bahnhofsmissionen ist verbreitete Verwaltungspraxis, aber nicht durch eine bundeseinheitliche Rechtsnorm ausdrücklich geregelt. Die genaue Handhabung – etwa wie oft persönlich vorgesprochen werden muss, wenn keine zuverlässige Postzustellung möglich ist – variiert zwischen den Jobcentern.</p>\n",
+   "zustaendig": [
+    "Jobcenter am tatsächlichen Aufenthaltsort"
+   ],
+   "belege": [
+    "§ 36 SGB II (gesetze-im-internet.de)",
+    "§ 84 SGG (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "postadresse-und-behoerdenkontakt",
+    "ausweisdokumente-ohne-wohnsitz",
+    "eigene-wohnung-finden"
+   ],
+   "stand": "Stand: September 2026 (Rechtsstand seit 1. Juli 2026, 13. SGB-II-Änderungsgesetz, BGBl. 2026 I Nr. 107)."
+  },
+  {
+   "id": "postadresse-und-behoerdenkontakt",
+   "kategorie": "dokumente",
+   "titel": "Postadresse und Behördenkontakt ohne festen Wohnsitz",
+   "icon": "✉️",
+   "teaser": "Wer in einer Notunterkunft lebt, muss sich dort ganz normal anmelden. Wer ganz ohne Unterkunft ist, sollte c/o-Adressen oder den Postlagernd-Service nutzen – eine bundeseinheitliche Ausnahme von der Meldepflicht gibt es nicht.",
+   "schlagworte": [
+    "Meldepflicht",
+    "§ 17 BMG",
+    "§ 20 BMG",
+    "Postlagernd",
+    "c/o-Adresse",
+    "Ohne festen Wohnsitz"
+   ],
+   "kurz_html": "\n<p>Nach dem Bundesmeldegesetz (BMG) gilt als „Wohnung“ jeder umschlossene Raum, der zum Wohnen oder Schlafen benutzt wird (§ 20 Abs. 1 BMG) – eine Notunterkunft zählt also grundsätzlich als Wohnung im melderechtlichen Sinn und muss innerhalb von zwei Wochen angemeldet werden (§ 17 Abs. 1 BMG). Für Menschen, die wirklich ganz ohne jede Unterkunft leben, gibt es keine ausdrückliche Bundesregelung – die Meldebehörden handhaben die Meldung „ohne festen Wohnsitz“ uneinheitlich.</p>\n",
+   "schritte": [
+    {
+     "titel": "Notunterkunft anmelden",
+     "text": "Leben Sie in einer Notunterkunft oder Einrichtung, melden Sie diese Adresse innerhalb von zwei Wochen beim Einwohnermeldeamt an (§ 17 Abs. 1 BMG)."
+    },
+    {
+     "titel": "Ohne Unterkunft nachfragen",
+     "text": "Leben Sie ganz ohne Unterkunft, fragen Sie beim Einwohnermeldeamt gezielt nach der dort üblichen Praxis für die Meldung „ohne festen Wohnsitz“."
+    },
+    {
+     "titel": "c/o-Adresse einrichten",
+     "text": "Richten Sie bei einer Beratungsstelle, Tagesstätte oder Bahnhofsmission eine c/o-Adresse für Ihre Post ein."
+    },
+    {
+     "titel": "Postlagernd prüfen",
+     "text": "Der Postlagernd-Service der Deutschen Post kann eine Alternative sein, um Sendungen persönlich abzuholen."
+    },
+    {
+     "titel": "Erreichbarkeit organisieren",
+     "text": "Sorgen Sie für regelmäßige persönliche Vorsprache bei wichtigen Stellen wie Jobcenter oder Sozialamt, wenn Post Sie nicht sicher erreicht."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "2 Wochen",
+     "was": "Frist zur Anmeldung einer neuen Wohnung – dazu zählt auch eine Notunterkunft.",
+     "grundlage": "§ 17 Abs. 1 BMG"
+    },
+    {
+     "wert": "bis 1.000 Euro",
+     "was": "Bußgeldrahmen bei Verstoß gegen die Meldepflicht im Regelfall.",
+     "grundlage": "§ 54 BMG"
+    }
+   ],
+   "achtung": [
+    "Es gibt keine ausdrückliche gesetzliche Ausnahme von der Meldepflicht für Menschen ohne Unterkunft (§ 27 BMG nennt sie nicht) – ein Verstoß kann grundsätzlich als Ordnungswidrigkeit geahndet werden (§ 54 BMG).",
+    "Die genaue Verwaltungspraxis bei der Meldung ohne feste Unterkunft ist nicht bundeseinheitlich geregelt und unterscheidet sich von Kommune zu Kommune.",
+    "Eine c/o-Adresse ersetzt keine Wohnungsanmeldung, wenn Sie tatsächlich in einer festen Unterkunft (auch einer Notunterkunft) leben – dann gilt die reguläre Anmeldepflicht."
+   ],
+   "fach_html": "\n<h3>Wohnungsbegriff im Melderecht</h3>\n<p>§ 20 Abs. 1 BMG definiert Wohnung denkbar weit als jeden umschlossenen Raum, der zum Wohnen oder Schlafen benutzt wird. Notunterkünfte und vergleichbare Einrichtungen fallen darunter, sodass die reguläre Anmeldepflicht nach § 17 Abs. 1 BMG (zwei Wochen) greift.</p>\n<h3>Lücke bei völliger Unterkunftslosigkeit</h3>\n<p>§ 27 BMG regelt Ausnahmen von der Meldepflicht (z. B. für sehr kurze Aufenthalte), nennt Menschen ohne jede Unterkunft aber nicht ausdrücklich. In der Praxis haben viele Kommunen eigene, nicht bundeseinheitliche Verfahren entwickelt, um Personen „ohne festen Wohnsitz“ dennoch melderechtlich zu erfassen – etwa über die Anschrift des Ordnungsamts oder einer Beratungsstelle. Ein bundesweit einheitliches Verfahren hierzu ließ sich in dieser Recherche nicht belegen.</p>\n<h3>Bußgeld</h3>\n<p>Ein Verstoß gegen die Meldepflicht ist nach § 54 BMG grundsätzlich eine Ordnungswidrigkeit, die mit einem Bußgeld geahndet werden kann. Ob und wie dies bei nachgewiesener Unmöglichkeit der Anmeldung (etwa mangels jeder Unterkunft) tatsächlich angewendet wird, ist nicht einheitlich dokumentiert.</p>\n",
+   "zustaendig": [
+    "Einwohnermeldeamt",
+    "Beratungsstellen (c/o-Adresse)"
+   ],
+   "belege": [
+    "§ 17, § 20, § 27, § 54 Bundesmeldegesetz – BMG (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "ausweisdokumente-ohne-wohnsitz",
+    "buergergeld-ohne-festen-wohnsitz"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "ausweisdokumente-ohne-wohnsitz",
+   "kategorie": "dokumente",
+   "titel": "Personalausweis ohne festen Wohnsitz",
+   "icon": "🪪",
+   "teaser": "Ohne Wohnung ist die Personalausweisbehörde am vorübergehenden Aufenthaltsort zuständig; bei Bedürftigkeit kann die Gebühr ermäßigt oder erlassen werden.",
+   "schlagworte": [
+    "Personalausweis",
+    "§ 8 PAuswG",
+    "§ 5 PAuswG",
+    "Ausweispflicht",
+    "Gebührenermäßigung",
+    "PAuswGebV"
+   ],
+   "kurz_html": "\n<p>Auch ohne Wohnung können Sie einen Personalausweis beantragen: Zuständig ist nach § 8 Abs. 1 Satz 2 Personalausweisgesetz (PAuswG) die Behörde an Ihrem vorübergehenden Aufenthaltsort – eine Meldeadresse ist dafür nicht Voraussetzung. Reicht das Geld für die Gebühr nicht, kann bei Bedürftigkeit eine Ermäßigung oder ein Erlass beantragt werden (§ 1 Abs. 6 Personalausweisgebührenverordnung, PAuswGebV) – das ist allerdings keine automatische Vergünstigung, sondern eine Ermessensentscheidung der Behörde. Ab 16 Jahren besteht in Deutschland grundsätzlich Ausweispflicht.</p>\n",
+   "schritte": [
+    {
+     "titel": "Zur zuständigen Behörde gehen",
+     "text": "Gehen Sie zur Personalausweisbehörde an Ihrem derzeitigen Aufenthaltsort (§ 8 Abs. 1 Satz 2 PAuswG) – eine feste Meldeadresse ist nicht nötig."
+    },
+    {
+     "titel": "Identität nachweisen",
+     "text": "Legen Sie zur Identitätsklärung einen abgelaufenen Ausweis, eine Geburtsurkunde oder andere Dokumente vor; fehlen diese, kann eine Beratungsstelle bei der Klärung unterstützen."
+    },
+    {
+     "titel": "Gebührenermäßigung beantragen",
+     "text": "Legen Sie Ihre Bedürftigkeit konkret dar und beantragen Sie eine Ermäßigung oder einen Erlass der Gebühr nach § 1 Abs. 6 PAuswGebV."
+    },
+    {
+     "titel": "Bei Ablehnung Unterstützung suchen",
+     "text": "Wird die Gebührenermäßigung abgelehnt, kann eine Fachberatungsstelle bei weiteren Schritten helfen."
+    },
+    {
+     "titel": "Gültigkeit im Blick behalten",
+     "text": "Prüfen Sie regelmäßig die Gültigkeit Ihres Ausweises – ohne gültigen Ausweis werden z. B. Kontoeröffnung und Behördenkontakte deutlich schwerer."
+    }
+   ],
+   "fristen": [],
+   "achtung": [
+    "Der bloße Bezug von Grundsicherungsgeld/Bürgergeld oder Sozialhilfe allein begründet nach vorliegenden Quellen noch keine Bedürftigkeit im Sinne der Gebührenermäßigung, weil die Ausweisgebühr rechnerisch bereits im Regelsatz enthalten ist – es braucht zusätzliche besondere Umstände im Einzelfall; die Entscheidung liegt im Ermessen der Behörde.",
+    "Wie die Anschrift im Ausweis bei fehlender Wohnung einzutragen ist, ist nicht eindeutig geklärt: § 5 Abs. 2 Nr. 9 PAuswG erlaubt den Eintrag „keine Wohnung in Deutschland“, während ein Verwaltungsgericht (VG Schwerin, 2015) für im Inland lebende Wohnungslose stattdessen den tatsächlichen Aufenthaltsort verlangt hat. Diese Frage sollte vor Ort mit der Behörde geklärt werden.",
+    "Die genaue aktuelle Gebührenhöhe für den Personalausweis konnte in dieser Recherche nicht abschließend verifiziert werden – bitte bei der Personalausweisbehörde erfragen."
+   ],
+   "fach_html": "\n<h3>Zuständigkeit ohne Wohnung (§ 8 PAuswG)</h3>\n<p>§ 8 Abs. 1 Satz 2 PAuswG bestimmt, dass bei Personen ohne Wohnung die Behörde zuständig ist, in deren Bereich sich die Person zum Zeitpunkt der Antragstellung vorübergehend aufhält. Diese Auffangregelung stellt sicher, dass fehlender fester Wohnsitz einer Ausweisbeantragung nicht entgegensteht.</p>\n<h3>Anschrift im Ausweis: eine offene Frage</h3>\n<p>§ 5 Abs. 2 Nr. 9 PAuswG sieht für Personen ohne Wohnung im Inland den Eintrag „keine Wohnung in Deutschland“ vor – nach seinem systematischen Zusammenhang zielt diese Vorschrift jedoch in erster Linie auf im Ausland lebende Deutsche. Für im Inland lebende Wohnungslose hat das Verwaltungsgericht Schwerin (Beschluss vom 02.03.2015, Az. 6 B 1233/14) demgegenüber verlangt, statt dieses pauschalen Vermerks den tatsächlichen Aufenthaltsort einzutragen. Diese Divergenz zwischen Gesetzeswortlaut und einzelner Rechtsprechung ist nicht abschließend geklärt; die Praxis der Personalausweisbehörden kann entsprechend unterschiedlich sein.</p>\n<h3>Gebühr und Ermäßigung</h3>\n<p>§ 1 Abs. 6 PAuswGebV erlaubt es der Behörde, die Gebühr bei Bedürftigkeit zu ermäßigen oder ganz zu erlassen. Dabei handelt es sich um eine Kann-Regelung im Ermessen der Behörde, nicht um einen automatischen Anspruch allein aufgrund des Bezugs von Sozialleistungen. Für den Reisepass gilt eine vergleichbare Möglichkeit über § 28 Passverordnung (PassV). Der Bundesverband Wohnungslosenhilfe (BAG W) hat sich in Positionspapieren für einen grundsätzlich kostenfreien Zugang zu Ausweisdokumenten für wohnungslose Menschen ausgesprochen.</p>\n<h3>Ausweispflicht</h3>\n<p>Nach § 1 Abs. 1 PAuswG sind Deutsche ab Vollendung des 16. Lebensjahres verpflichtet, einen gültigen Personalausweis oder Reisepass zu besitzen.</p>\n",
+   "zustaendig": [
+    "Personalausweisbehörde (Bürgeramt) am tatsächlichen Aufenthaltsort"
+   ],
+   "belege": [
+    "§ 1, § 5, § 8 Personalausweisgesetz – PAuswG (gesetze-im-internet.de)",
+    "§ 1 Abs. 6 Personalausweisgebührenverordnung – PAuswGebV (gesetze-im-internet.de)",
+    "§ 28 Passverordnung – PassV (gesetze-im-internet.de)",
+    "VG Schwerin, Beschluss vom 02.03.2015, Az. 6 B 1233/14",
+    "BAG Wohnungslosenhilfe, Positionspapier zu Ausweisdokumenten (bagw.de)"
+   ],
+   "siehe_auch": [
+    "postadresse-und-behoerdenkontakt",
+    "buergergeld-ohne-festen-wohnsitz"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "krankenversicherung-ohne-wohnsitz",
+   "kategorie": "gesundheit",
+   "titel": "Krankenversicherung ohne festen Wohnsitz",
+   "icon": "🩺",
+   "teaser": "Die meisten Menschen sind unabhängig vom Wohnsitzstatus über die gesetzliche Auffangversicherung krankenversichert – bei Beitragsschulden gibt es Ermäßigungsmöglichkeiten, aber keinen generellen Erlass.",
+   "schlagworte": [
+    "Auffangversicherung",
+    "§ 5 SGB V",
+    "§ 256a SGB V",
+    "§ 264 SGB V",
+    "Beitragsschulden"
+   ],
+   "kurz_html": "\n<p>Wer keine andere Absicherung hat, ist über die gesetzliche <strong>Auffangversicherung</strong> (§ 5 Abs. 1 Nr. 13 SGB V) krankenversichert – unabhängig davon, ob eine feste Wohnadresse besteht. Beim Bezug von Grundsicherungsgeld/Bürgergeld sind Sie in der Regel ohnehin schon über das Jobcenter pflichtversichert. Für Sozialhilfeempfänger ohne anderweitigen Schutz kann zusätzlich § 264 SGB V greifen, wonach die Krankenkasse die Behandlung übernimmt.</p>\n",
+   "schritte": [
+    {
+     "titel": "Bestehenden Schutz prüfen",
+     "text": "Klären Sie, ob bereits eine gesetzliche Krankenversicherung besteht, z. B. über den Bezug von Grundsicherungsgeld/Bürgergeld (§ 5 Abs. 1 Nr. 2a SGB V)."
+    },
+    {
+     "titel": "Auffangversicherung geltend machen",
+     "text": "Ist das nicht der Fall, greift kraft Gesetzes die Auffangversicherung nach § 5 Abs. 1 Nr. 13 SGB V bei einer beliebigen Krankenkasse – unabhängig vom Wohnsitzstatus."
+    },
+    {
+     "titel": "Beitragsermäßigung beantragen",
+     "text": "Bei rückständigen Beiträgen aus der Vergangenheit kann eine Ermäßigung nach § 256a SGB V beantragt werden."
+    },
+    {
+     "titel": "§ 264 SGB V prüfen lassen",
+     "text": "Sozialhilfeempfänger ohne anderweitigen Versicherungsschutz sollten prüfen lassen, ob die Krankenkasse die Behandlung nach § 264 SGB V übernehmen muss."
+    },
+    {
+     "titel": "Bei akuten Beschwerden handeln",
+     "text": "Ohne Kartennachweis bei akuten Beschwerden Krankenkasse oder Sozialamt informieren, alternativ eine Straßenambulanz aufsuchen."
+    }
+   ],
+   "fristen": [],
+   "achtung": [
+    "Wer jahrelang nicht krankenversichert war, wird bei Wiedereintritt rückwirkend beitragspflichtig – eine vollständige „Amnestie“ gibt es seit dem Auslaufen einer Übergangsregelung 2013 nicht mehr, nur eine „angemessene Ermäßigung“ nach Ermessen der Kasse.",
+    "§ 264 SGB V betrifft in der Regel nicht Grundsicherungsgeld-/Bürgergeld-Empfänger (SGB II) – diese sind meist ohnehin über § 5 Abs. 1 Nr. 2a SGB V pflichtversichert. Er betrifft vor allem Sozialhilfeempfänger (SGB XII) ohne anderweitigen Schutz.",
+    "Verlassen Sie sich bei einer akuten Erkrankung nicht darauf, den Versicherungsstatus erst vollständig zu klären – Notfallversorgung ist unabhängig davon zugänglich (siehe „Gesundheitsversorgung für Wohnungslose“)."
+   ],
+   "fach_html": "\n<h3>Die Auffangversicherung (§ 5 Abs. 1 Nr. 13 SGB V)</h3>\n<p>Seit 2007 gilt in Deutschland grundsätzlich eine allgemeine Versicherungspflicht: Wer keinen anderweitigen Krankenversicherungsschutz hat und zuletzt gesetzlich krankenversichert war (oder noch nie anderweitig abgesichert war), wird kraft Gesetzes Mitglied der gesetzlichen Krankenversicherung. Diese Auffangversicherung ist unabhängig vom Vorliegen eines festen Wohnsitzes.</p>\n<h3>Beitragsschulden (§ 256a SGB V)</h3>\n<p>Wer über längere Zeit keine Beiträge gezahlt hat, kann bei Wiedereintritt in die Versicherung mit erheblichen Beitragsschulden konfrontiert sein. § 256a SGB V ermöglicht der Krankenkasse eine angemessene Ermäßigung dieser Rückstände. Eine zeitweise geltende Stichtagsregelung, die 2013 einen weitergehenden Erlass ermöglichte, ist inzwischen ausgelaufen; seither liegt die Ermäßigung im Ermessen der jeweiligen Kasse.</p>\n<h3>§ 264 SGB V: Krankenbehandlung für Sozialhilfeempfänger</h3>\n<p>Für Empfänger von Leistungen nach dem SGB XII, die nicht anderweitig krankenversichert sind, übernimmt die zuständige Krankenkasse nach § 264 Abs. 2 SGB V die Krankenbehandlung; die Kosten werden vom Sozialhilfeträger erstattet. Diese Regelung betrifft in der Praxis vor allem Personen im Sozialhilfebezug ohne eigenen Versicherungsschutz, nicht die Mehrheit der SGB-II-Beziehenden.</p>\n",
+   "zustaendig": [
+    "Gesetzliche Krankenkassen",
+    "Sozialamt (bei § 264 SGB V)"
+   ],
+   "belege": [
+    "§ 5, § 256a, § 264 SGB V (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "gesundheitsversorgung-wohnungslose",
+    "buergergeld-ohne-festen-wohnsitz"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "gesundheitsversorgung-wohnungslose",
+   "kategorie": "gesundheit",
+   "titel": "Gesundheitsversorgung für Wohnungslose",
+   "icon": "🚑",
+   "teaser": "Medizinische Notfallversorgung ist unabhängig von Versicherungsstatus und Papieren zugänglich. Spezialisierte Straßenambulanzen bieten zusätzlich niedrigschwellige, teils anonyme Behandlung.",
+   "schlagworte": [
+    "Straßenambulanz",
+    "Nothelferparagraph",
+    "§ 25 SGB XII",
+    "§ 323c StGB",
+    "Malteser Migranten Medizin",
+    "Ärzte der Welt"
+   ],
+   "kurz_html": "\n<p>Ein Krankenhaus oder eine Arztpraxis darf eine Behandlung im medizinischen Notfall nicht wegen fehlender Versicherung oder fehlender Papiere verweigern. Das ergibt sich aus dem Zusammenspiel von Strafrecht (§ 323c StGB, unterlassene Hilfeleistung) und ärztlichem Berufsrecht, nicht aus einem eigenständigen sozialrechtlichen Anspruch der Patientin oder des Patienten. Zusätzlich gibt es spezialisierte Straßenambulanzen, die niedrigschwellig und teils anonym behandeln.</p>\n",
+   "schritte": [
+    {
+     "titel": "Im Notfall 112 rufen",
+     "text": "Bei einem akuten medizinischen Notfall den Rettungsdienst rufen – die Behandlung erfolgt unabhängig vom Versicherungs- oder Aufenthaltsstatus."
+    },
+    {
+     "titel": "Straßenambulanz aufsuchen",
+     "text": "Für nicht-akute Beschwerden eine spezialisierte Straßenambulanz oder anonyme Anlaufstelle aufsuchen (z. B. Malteser Migranten Medizin, Ärzte der Welt, kommunale Angebote)."
+    },
+    {
+     "titel": "Versicherungsschutz klären",
+     "text": "Den bestehenden Krankenversicherungsschutz klären lassen (siehe „Krankenversicherung ohne festen Wohnsitz“)."
+    },
+    {
+     "titel": "Spezialisierte Angebote nutzen",
+     "text": "Bei Zahnproblemen, psychischer Belastung oder Sucht gezielt nach spezialisierten niedrigschwelligen Angeboten vor Ort fragen."
+    }
+   ],
+   "fristen": [],
+   "achtung": [
+    "Es besteht kein eigenständiger sozialrechtlicher Anspruch der Patientin oder des Patienten auf Nothilfe – die Pflicht ergibt sich aus Strafrecht (§ 323c StGB) und ärztlichem Berufsrecht; für Kostenfragen zwischen Helfenden und Sozialhilfeträger existiert daneben der sogenannte Nothelferparagraph (§ 25 SGB XII), der aber einen Erstattungsanspruch des Helfers regelt, nicht einen Anspruch des Patienten.",
+    "Für Menschen ohne Aufenthaltsstatus kann der reguläre Sozialhilfeweg riskant sein, weil Sozialämter unter Umständen zur Meldung an die Ausländerbehörde verpflichtet sind (§ 87 Abs. 2 AufenthG) – anonyme Angebote sind hier oft der sicherere Weg.",
+    "Öffnungszeiten, Kapazität und genaues Angebot von Straßenambulanzen sind örtlich sehr unterschiedlich – vor Ort oder bei einer Fachberatungsstelle aktuell erfragen."
+   ],
+   "fach_html": "\n<h3>Rechtliche Grundlage der Nothilfe</h3>\n<p>§ 323c StGB verpflichtet jede Person – auch medizinisches Personal – bei Unglücksfällen oder gemeiner Gefahr zur zumutbaren Hilfeleistung. Ergänzend verbietet das ärztliche Berufsrecht die Verweigerung dringender Nothilfe. Für die Kostenerstattung von Helfenden, die in einer Notlage tätig werden, sieht § 25 SGB XII einen sogenannten Nothelferanspruch vor – dieser richtet sich an den Helfer bzw. die Einrichtung, nicht an die hilfebedürftige Person selbst.</p>\n<h3>Zugang für Menschen ohne Aufenthaltsstatus</h3>\n<p>Sozialämter sind nach § 87 Abs. 2 AufenthG grundsätzlich verpflichtet, bestimmte Daten von Personen ohne Aufenthaltsstatus an die Ausländerbehörde zu übermitteln. Dies kann den reguläre Weg über Sozialhilfe für Betroffene riskant machen und erklärt die besondere Bedeutung anonymer, spendenfinanzierter Angebote.</p>\n<h3>Beispiele spezialisierter Angebote</h3>\n<p>Zu den bekannten Trägern spezialisierter medizinischer Versorgung für wohnungslose und nicht regulär versicherte Menschen zählen unter anderem Malteser Migranten Medizin (mehrere Standorte bundesweit), Ärzte der Welt (u. a. offene Sprechstunde „open.med“ in Berlin-Lichtenberg sowie Behandlungsbusse in mehreren Städten), die Ambulanz der Berliner Stadtmission, eine hausärztliche Sprechstunde der Diakonie Hamburg sowie die Straßenambulanz der Caritas Hannover. Angebot und Erreichbarkeit dieser Einrichtungen ändern sich; aktuelle Öffnungszeiten sollten direkt bei den Trägern erfragt werden.</p>\n",
+   "zustaendig": [
+    "Rettungsdienst",
+    "Straßenambulanzen und spezialisierte Träger",
+    "Gesundheitsämter"
+   ],
+   "belege": [
+    "§ 25 SGB XII (gesetze-im-internet.de)",
+    "§ 323c StGB (gesetze-im-internet.de)",
+    "§ 87 Abs. 2 AufenthG (gesetze-im-internet.de)",
+    "BAG Wohnungslosenhilfe, Positionspapiere Gesundheit (bagw.de)",
+    "Trägerangaben Malteser Migranten Medizin, Ärzte der Welt (jeweilige Trägerseiten)"
+   ],
+   "siehe_auch": [
+    "krankenversicherung-ohne-wohnsitz",
+    "beratung-anlaufstellen-wohnungslose"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "eigene-wohnung-finden",
+   "kategorie": "leistungen",
+   "titel": "Eigene Wohnung finden: Fachberatung und Housing First",
+   "icon": "🔑",
+   "teaser": "§§ 67 ff. SGB XII begründen einen Anspruch dem Grunde nach auf Hilfe bei der Wohnungssuche – Housing First ist dabei eine Methode, kein eigener gesetzlicher Leistungsanspruch.",
+   "schlagworte": [
+    "§§ 67-69 SGB XII",
+    "Housing First",
+    "Ambulant betreutes Wohnen",
+    "Fachberatungsstelle",
+    "Besondere soziale Schwierigkeiten"
+   ],
+   "kurz_html": "\n<p>Wer mit eigener Kraft keine Wohnung findet, hat nach §§ 67 ff. SGB XII (Achtes Kapitel: „Hilfe zur Überwindung besonderer sozialer Schwierigkeiten“) einen Anspruch <strong>dem Grunde nach</strong> auf Unterstützung – etwa Beratung, Hilfe bei der Wohnungssuche oder ambulant betreutes Wohnen. Wie genau diese Hilfe ausgestaltet wird, liegt im Ermessen des Trägers. „Housing First“ – zuerst eine eigene Wohnung, dann Unterstützung – ist in Deutschland eine Methode, die über bestehende Instrumente umgesetzt wird, aber (noch) kein flächendeckendes, eigenständiges Förderprogramm.</p>\n",
+   "schritte": [
+    {
+     "titel": "Fachberatungsstelle kontaktieren",
+     "text": "Wenden Sie sich an eine Fachberatungsstelle für Wohnungsnotfälle."
+    },
+    {
+     "titel": "Hilfebedarf darlegen",
+     "text": "Legen Sie den Hilfebedarf nach §§ 67 ff. SGB XII dar – besondere soziale Schwierigkeiten, die aus eigener Kraft nicht überwindbar sind."
+    },
+    {
+     "titel": "Unterstützung nutzen",
+     "text": "Nutzen Sie Unterstützung bei der Wohnungssuche und, wo nötig, ambulant betreutes Wohnen."
+    },
+    {
+     "titel": "Nach Housing First fragen",
+     "text": "Fragen Sie nach Housing-First-Angeboten vor Ort – ein flächendeckendes Angebot gibt es bislang nicht."
+    },
+    {
+     "titel": "Kosten der Unterkunft klären",
+     "text": "Klären Sie parallel die Übernahme der Kosten der Unterkunft über Jobcenter oder Sozialamt."
+    }
+   ],
+   "fristen": [],
+   "achtung": [
+    "§§ 67 ff. SGB XII begründen einen Anspruch dem Grunde nach („sind zu erbringen“), aber Art und Umfang der konkreten Hilfe liegen im Ermessen des Trägers – kein Anspruch auf eine bestimmte Maßnahme oder Wohnung.",
+    "Die Hilfe nach §§ 67 ff. SGB XII ist nachrangig gegenüber Leistungen nach SGB VIII (Kinder- und Jugendhilfe) und SGB IX (Eingliederungshilfe) – bei diesen Zielgruppen zuerst dort nachfragen.",
+    "Housing First ist in Deutschland kein eigener gesetzlicher Leistungsanspruch, sondern eine Methode, die über bestehende Instrumente (§§ 67 ff. SGB XII plus Kosten der Unterkunft) umgesetzt wird – Angebote gibt es bislang nur in einzelnen Modellprojekten/Kommunen, kein flächendeckendes Programm."
+   ],
+   "fach_html": "\n<h3>§§ 67-69 SGB XII: Hilfe zur Überwindung besonderer sozialer Schwierigkeiten</h3>\n<p>§ 67 SGB XII gewährt Personen, denen wegen besonderer Lebensverhältnisse in Verbindung mit sozialen Schwierigkeiten die Teilhabe am Leben in der Gemeinschaft nicht möglich ist, Hilfe zur Überwindung dieser Schwierigkeiten, sofern sie sie aus eigener Kraft nicht überwinden können. § 68 SGB XII konkretisiert den Umfang: unter anderem Beratung und persönliche Betreuung, Hilfe zur Erhaltung und Beschaffung einer Wohnung sowie ambulant betreutes Wohnen. Die Hilfe ist nachrangig gegenüber vorrangigen Leistungen nach SGB VIII (Kinder- und Jugendhilfe) und SGB IX (Eingliederungshilfe).</p>\n<h3>Housing First in Deutschland</h3>\n<p>„Housing First“ bezeichnet einen Ansatz, bei dem Betroffene zunächst eine eigene, unbefristete Wohnung erhalten und die soziale Unterstützung erst danach ansetzt – im Unterschied zum traditionellen Stufenmodell (erst Unterkunft, dann betreutes Wohnen, dann eigene Wohnung). Es handelt sich nicht um einen eigenen gesetzlichen Leistungstatbestand, sondern um eine fachliche Methode, die mit den bestehenden Instrumenten (§§ 67 ff. SGB XII, Kosten der Unterkunft) umgesetzt wird. Bekannt sind Modellprojekte unter anderem in Berlin (Modellprojekt 2018–2021 der Senatsverwaltung), Hamburg (seit 2022, mit einer laut Projektangaben Ende 2024 erreichten Größenordnung von rund 30 Haushalten) und Baden-Württemberg sowie Standorte des Bundesverbands Housing First, unter anderem in Köln, Bremen, Nürnberg und Düsseldorf. Diese Angaben stammen aus Projekt-/Verbandsquellen und sind nicht amtlich in einer Bundesstatistik konsolidiert; ein flächendeckendes Programm existiert nicht.</p>\n",
+   "zustaendig": [
+    "Sozialamt (§§ 67 ff. SGB XII)",
+    "Fachberatungsstellen",
+    "kommunale Wohnungsnotfallhilfe"
+   ],
+   "belege": [
+    "§ 67, § 68 SGB XII (gesetze-im-internet.de)",
+    "BAG Wohnungslosenhilfe, Positionspapiere zu Housing First (bagw.de)",
+    "Projektseiten Housing First Berlin, Housing First Hamburg, Bundesverband Housing First"
+   ],
+   "siehe_auch": [
+    "wohnungsverlust-vermeiden",
+    "beratung-anlaufstellen-wohnungslose"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "schulden-und-wohnungslosigkeit",
+   "kategorie": "rechtsschutz",
+   "titel": "Schulden und Wohnungslosigkeit",
+   "icon": "📉",
+   "teaser": "Mietschulden sind die häufigste Ursache für drohenden Wohnungsverlust. Schuldnerberatung ist eine kommunale Kann- bzw. Soll-Leistung und sollte möglichst früh eingeschaltet werden.",
+   "schlagworte": [
+    "Schuldnerberatung",
+    "§ 16a SGB II",
+    "§ 11 SGB XII",
+    "Mietschulden",
+    "Privatinsolvenz"
+   ],
+   "kurz_html": "\n<p>Schulden – insbesondere Mietschulden – sind häufig der Auslöser für Wohnungslosigkeit. Schuldnerberatung ist eine kommunale Leistung: für Grundsicherungsgeld-/Bürgergeld-Beziehende als Kann-Leistung des Jobcenters (§ 16a Nr. 2 SGB II), für Sozialhilfeempfänger als Soll-Leistung (§ 11 Abs. 5 SGB XII). Mietschulden sollten dabei vorrangig behandelt werden, weil sie am unmittelbarsten den Wohnraum gefährden.</p>\n",
+   "schritte": [
+    {
+     "titel": "Schuldnerberatung kontaktieren",
+     "text": "Wenden Sie sich an eine Schuldnerberatungsstelle vor Ort (meist bei Wohlfahrtsverbänden, oft kostenfrei)."
+    },
+    {
+     "titel": "Beim Jobcenter nachfragen",
+     "text": "Bei Bezug von Grundsicherungsgeld/Bürgergeld die Vermittlung zur Schuldnerberatung nach § 16a Nr. 2 SGB II erfragen."
+    },
+    {
+     "titel": "Beim Sozialamt nachfragen",
+     "text": "Bei Sozialhilfebezug den Anspruch nach § 11 Abs. 5 SGB XII geltend machen."
+    },
+    {
+     "titel": "Mietschulden priorisieren",
+     "text": "Bestehende Mietschulden vorrangig behandeln (siehe „Wohnungsverlust vermeiden“), da sie am direktesten zu Obdachlosigkeit führen können."
+    },
+    {
+     "titel": "Privatinsolvenz prüfen",
+     "text": "Bei aussichtsloser Gesamtverschuldung mit der Schuldnerberatung eine Privatinsolvenz prüfen."
+    }
+   ],
+   "fristen": [],
+   "achtung": [
+    "Schuldnerberatung nach § 16a SGB II ist eine Kann-Leistung, kein automatischer Rechtsanspruch auf eine bestimmte Beratung – das Jobcenter muss aber prüfen, wenn Schulden die Eingliederung ins Erwerbsleben gefährden.",
+    "Mietschulden sollten vorrangig vor allen anderen Schulden behoben werden, weil sie am unmittelbarsten den Wohnraum gefährden – besprechen Sie diese Priorität mit der Schuldnerberatung.",
+    "Kostenfreie Schuldnerberatungsstellen sind oft ausgelastet – je früher Sie sich melden, desto eher bekommen Sie einen Termin."
+   ],
+   "fach_html": "\n<h3>Rechtsgrundlagen der Schuldnerberatung</h3>\n<p>§ 16a Nr. 2 SGB II zählt die Schuldnerberatung zu den kommunalen Eingliederungsleistungen, die das Jobcenter erbringen kann, wenn Schulden die Eingliederung in Arbeit erschweren. § 11 Abs. 5 SGB XII sieht für Sozialhilfeempfänger eine vergleichbare Soll-Leistung vor. In beiden Fällen handelt es sich nicht um einen strikten Individualanspruch auf eine bestimmte Beratungsstelle, sondern um eine Ermessens- bzw. Regel-Leistung.</p>\n<h3>Zusammenhang mit Mietschulden</h3>\n<p>Fachlich gilt Mietschulden als die häufigste unmittelbare Ursache für den Verlust der Wohnung. Die Übernahme von Mietschulden nach § 22 Abs. 8 SGB II bzw. § 36 SGB XII (siehe „Wohnungsverlust vermeiden“) sollte deshalb in der Schuldnerberatung vorrangig behandelt und mit anderen Verbindlichkeiten koordiniert werden.</p>\n",
+   "zustaendig": [
+    "Jobcenter/Sozialamt (Vermittlung)",
+    "Schuldnerberatungsstellen (meist Wohlfahrtsverbände)"
+   ],
+   "belege": [
+    "§ 16a SGB II (gesetze-im-internet.de)",
+    "§ 11 SGB XII (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "wohnungsverlust-vermeiden",
+    "beratung-anlaufstellen-wohnungslose"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "rechte-im-oeffentlichen-raum",
+   "kategorie": "rechtsschutz",
+   "titel": "Rechte im öffentlichen Raum: Platzverweis und Betteln",
+   "icon": "⚖️",
+   "teaser": "Es gibt kein bundesweites Bettelverbot; stilles Betteln gilt nach überwiegender Rechtsprechung als erlaubter Gemeingebrauch. Platzverweise müssen verhältnismäßig sein und eine konkrete Gefahr betreffen.",
+   "schlagworte": [
+    "Platzverweis",
+    "Aufenthaltsverbot",
+    "Betteln",
+    "Stilles Betteln",
+    "Sondernutzungssatzung",
+    "§ 118 OWiG",
+    "Gemeingebrauch"
+   ],
+   "kurz_html": "\n<p>Ein bundesweites Verbot des Bettelns gibt es nicht. Nur „aggressives“ oder organisiertes Betteln kann als Ordnungswidrigkeit (Belästigung der Allgemeinheit, § 118 OWiG) oder über kommunale Sondernutzungssatzungen eingeschränkt werden; stilles, passives Betteln gilt nach mehreren verwaltungsgerichtlichen Entscheidungen als erlaubter Gemeingebrauch des öffentlichen Raums. Platzverweise oder Aufenthaltsverbote müssen verhältnismäßig sein und eine konkrete Gefahr oder Störung benennen – eine pauschale Vertreibung allein wegen Obdachlosigkeit ist rechtlich nicht ohne Weiteres zulässig.</p>\n",
+   "schritte": [
+    {
+     "titel": "Nach dem Grund fragen",
+     "text": "Fragen Sie bei einem Platzverweis nach dem konkreten Grund – er muss eine tatsächliche Gefahr oder Störung benennen, nicht pauschal „Obdachlosigkeit“."
+    },
+    {
+     "titel": "Stilles Betteln kennen",
+     "text": "Stilles/passives Betteln (Sitzen, ohne aktives Ansprechen) ist nach überwiegender Rechtsprechung erlaubt – bei einem Verbot dagegen Widerspruch bzw. Rechtsberatung prüfen."
+    },
+    {
+     "titel": "Örtliche Satzung erfragen",
+     "text": "Fragen Sie nach der örtlichen Sondernutzungssatzung, falls ein Verbot ausgesprochen wird – Regelungen sind von Stadt zu Stadt unterschiedlich."
+    },
+    {
+     "titel": "Beratung einschalten",
+     "text": "Bei wiederholten oder unverhältnismäßig empfundenen Maßnahmen eine Fachberatungsstelle oder Rechtsberatung einschalten."
+    }
+   ],
+   "fristen": [],
+   "achtung": [
+    "Es gibt kein bundesweites Bettelverbot – nur „aggressives“ oder organisiertes Betteln kann als Ordnungswidrigkeit (Belästigung der Allgemeinheit, § 118 OWiG) oder über kommunale Satzungen untersagt werden.",
+    "Kommunale Regelungen zum Betteln sind uneinheitlich – was in einer Stadt erlaubt ist, kann in einer anderen per Satzung eingeschränkt sein.",
+    "Platzverweise müssen verhältnismäßig sein und eine konkrete Gefahr oder Störung betreffen – eine pauschale Vertreibung allein wegen Obdachlosigkeit ist rechtlich nicht ohne Weiteres zulässig, wird in der Praxis aber dennoch berichtet.",
+    "Eine höchstrichterliche (BVerfG-)Leitentscheidung speziell zum Betteln ließ sich in dieser Recherche nicht finden – die Rechtsprechung dazu findet überwiegend auf Ebene der Verwaltungsgerichte statt."
+   ],
+   "fach_html": "\n<h3>§ 118 OWiG: Belästigung der Allgemeinheit</h3>\n<p>§ 118 OWiG erfasst grob ungehöriges Verhalten, das geeignet ist, die Allgemeinheit zu belästigen oder die öffentliche Ordnung zu beeinträchtigen. In der Praxis wird darunter vor allem aggressives, aufdringliches oder organisiertes Betteln gefasst, nicht das einfache, stille Bitten um eine Gabe.</p>\n<h3>Stilles Betteln als Gemeingebrauch</h3>\n<p>Nach verwaltungsgerichtlicher Rechtsprechung – etwa dem Verwaltungsgerichtshof Baden-Württemberg (Beschluss vom 06.07.1998, Az. 1 S 2630/97) und dem Verwaltungsgericht Düsseldorf (Beschluss vom 05.06.2023, Az. 18 L 896/23) – stellt ruhiges, stilles Betteln ohne aktive Ansprache oder Nötigung den erlaubnisfreien Gemeingebrauch des öffentlichen Straßenraums dar und bedarf keiner Sondernutzungserlaubnis.</p>\n<h3>Kommunale Sondernutzungssatzungen</h3>\n<p>Städte und Gemeinden können in ihren Sondernutzungssatzungen bestimmte Formen des Bettelns (z. B. in unmittelbarer Nähe von Geldautomaten, Eingängen oder bestimmten Plätzen) einschränken. Diese Regelungen sind nicht bundeseinheitlich und unterscheiden sich erheblich zwischen einzelnen Kommunen.</p>\n<h3>Platzverweis</h3>\n<p>Rechtsgrundlage für einen Platzverweis sind die Generalklauseln der Landespolizeigesetze. Er muss dem verfassungsrechtlichen Verhältnismäßigkeitsgrundsatz (Art. 20 Abs. 3 GG) genügen und setzt eine konkrete Gefahr oder Störung im Einzelfall voraus – eine pauschale Praxis, Obdachlose allein wegen ihres Aufenthalts aus bestimmten Bereichen zu verweisen, ist damit rechtlich nicht gedeckt, wird nach Berichten von Fachverbänden in der Praxis aber gelegentlich dennoch angewendet.</p>\n",
+   "zustaendig": [
+    "Ordnungsamt, Polizei (Platzverweis)",
+    "Kommune (Sondernutzungssatzung)"
+   ],
+   "belege": [
+    "§ 118 OWiG (gesetze-im-internet.de)",
+    "VGH Baden-Württemberg, Beschluss vom 06.07.1998, Az. 1 S 2630/97",
+    "VG Düsseldorf, Beschluss vom 05.06.2023, Az. 18 L 896/23",
+    "Art. 20 Abs. 3 Grundgesetz"
+   ],
+   "siehe_auch": [
+    "ordnungsrechtliche-unterbringung",
+    "beratung-anlaufstellen-wohnungslose"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "kinder-und-wohnungsnot",
+   "kategorie": "familie",
+   "titel": "Kinder und Wohnungsnot: Jugendamt und Frauenhäuser",
+   "icon": "👨‍👩‍👧",
+   "teaser": "Die Unterbringung von Familien bleibt primär Aufgabe des Ordnungsamts. Das Jugendamt greift nur bei zusätzlicher Kindeswohlgefährdung ein; Frauenhäuser stehen unabhängig vom Wohnstatus offen.",
+   "schlagworte": [
+    "Jugendamt",
+    "§ 42 SGB VIII",
+    "Inobhutnahme",
+    "Frauenhaus",
+    "Gewalthilfegesetz",
+    "§ 36a SGB II"
+   ],
+   "kurz_html": "\n<p>Auch für Familien mit Kindern bleibt die ordnungsrechtliche Unterbringung primär Sache des Ordnungsamts (siehe „Ordnungsrechtliche Unterbringung“). Das <strong>Jugendamt</strong> wird nur bei einer zusätzlichen akuten Gefährdung des Kindeswohls tätig, etwa durch Inobhutnahme (§ 42 SGB VIII) – Wohnungslosigkeit allein genügt dafür nicht. Bei häuslicher Gewalt steht ein <strong>Frauenhaus</strong> unabhängig vom Wohnstatus offen; Grund für die Aufnahme ist die Gewalt, nicht die Wohnungslosigkeit.</p>\n",
+   "schritte": [
+    {
+     "titel": "Ordnungsamt informieren",
+     "text": "Bei drohender Obdachlosigkeit der Familie das Ordnungsamt informieren wie bei Einzelpersonen (siehe „Ordnungsrechtliche Unterbringung“)."
+    },
+    {
+     "titel": "Jugendamt bei Gefährdung einschalten",
+     "text": "Bei zusätzlicher akuter Gefährdung des Kindeswohls das Jugendamt einschalten – eine Inobhutnahme nach § 42 SGB VIII setzt aber strenge Voraussetzungen voraus, nicht allein Wohnungslosigkeit."
+    },
+    {
+     "titel": "Frauenhaus bei Gewalt kontaktieren",
+     "text": "Bei häuslicher Gewalt ein Frauenhaus kontaktieren – die Aufnahme erfolgt unabhängig vom Wohnstatus."
+    },
+    {
+     "titel": "Kostenübernahme klären",
+     "text": "Die Kostenübernahme für den Frauenhausaufenthalt über SGB II/SGB XII klären lassen; die interkommunale Erstattung zwischen den Kommunen läuft im Hintergrund und betrifft die betroffene Person nicht direkt."
+    },
+    {
+     "titel": "Vor Ort nach Vorrang fragen",
+     "text": "Nach einem lokalen Vorrang für Familien mit Kindern bei der Unterbringung fragen – eine bundesweite Regelung dazu gibt es nicht."
+    }
+   ],
+   "fristen": [],
+   "achtung": [
+    "Es gibt keine bundesweite gesetzliche Pflicht, Familien mit Kindern bei der ordnungsrechtlichen Unterbringung zu bevorzugen – ob und wie das gehandhabt wird, ist kommunal bzw. landesrechtlich unterschiedlich.",
+    "Wohnungslosigkeit allein ist im Gesetzestext keine ausreichende Voraussetzung für eine Inobhutnahme nach § 42 SGB VIII – es braucht eine konkrete Kindeswohlgefährdung.",
+    "Ein bundesweiter Rechtsanspruch auf einen Frauenhausplatz besteht nach dem seit 28. Februar 2025 geltenden Gewalthilfegesetz erst ab 1. Januar 2032 – und dann auf Schutz und Beratung allgemein, nicht auf einen Platz in einem bestimmten Haus.",
+    "Laut Verbandsschätzungen (u. a. Frauenhauskoordinierung) fehlen aktuell bundesweit mehrere Tausend Frauenhausplätze – das sind Verbandszahlen, keine amtliche Statistik."
+   ],
+   "fach_html": "\n<h3>Jugendhilfe (SGB VIII)</h3>\n<p>Eine Inobhutnahme nach § 42 SGB VIII setzt eine dringende Gefahr für das Wohl des Kindes oder Jugendlichen voraus; Wohnungslosigkeit der Familie allein reicht nach dem Gesetzestext dafür nicht aus. Bestehen zusätzlich Erziehungsdefizite oder andere Belastungen, können ergänzend Hilfen zur Erziehung nach §§ 27 ff. SGB VIII greifen. Das Jugendamt ersetzt jedoch nicht die primäre ordnungsrechtliche Zuständigkeit für die Unterbringung als solche.</p>\n<h3>Frauenhäuser und Gewalthilfegesetz</h3>\n<p>Der Zugang zu einem Frauenhaus richtet sich nach dem Schutzbedarf vor Gewalt, nicht nach dem Wohnstatus. Die Finanzierung erfolgte bislang unter anderem über eine interkommunale Kostenerstattung (§ 36a SGB II, § 94 Abs. 5 SGB XII). Mit dem seit 28. Februar 2025 in Kraft getretenen Gewalthilfegesetz wird ab dem 1. Januar 2032 ein bundesweiter individueller Rechtsanspruch auf Schutz und Beratung bei Gewalt eingeführt; bis dahin gilt die bisherige Förder- und Erstattungsstruktur weiter. Für den Aufbau ausreichender Schutzplatzkapazitäten sind bis 2036 Bundesmittel vorgesehen; die Länder sind zur Berichterstattung verpflichtet.</p>\n",
+   "zustaendig": [
+    "Ordnungsamt",
+    "Jugendamt (bei Kindeswohlgefährdung)",
+    "Frauenhäuser/Fachberatungsstellen gegen Gewalt"
+   ],
+   "belege": [
+    "§ 42, § 27 SGB VIII (gesetze-im-internet.de)",
+    "§ 36a SGB II (gesetze-im-internet.de)",
+    "Gewalthilfegesetz (BGBl. 2025 I Nr. 57)",
+    "Frauenhauskoordinierung e. V., Verbandsangaben zu fehlenden Schutzplätzen"
+   ],
+   "siehe_auch": [
+    "ordnungsrechtliche-unterbringung",
+    "beratung-anlaufstellen-wohnungslose"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "arbeit-trotz-wohnungslosigkeit",
+   "kategorie": "familie",
+   "titel": "Arbeit trotz Wohnungslosigkeit",
+   "icon": "💼",
+   "teaser": "Fehlender fester Wohnsitz ist kein Ausschlussgrund für Arbeitsvermittlung. Praktische Hürden wie Postadresse oder Kontoeröffnung lassen sich meist mit c/o-Adresse und Basiskonto lösen.",
+   "schlagworte": [
+    "§ 4 SGB III",
+    "§ 35 SGB III",
+    "Arbeitsvermittlung",
+    "Basiskonto",
+    "Zahlungskontengesetz"
+   ],
+   "kurz_html": "\n<p>Der Vorrang der Vermittlung (§ 4 SGB III) und das Vermittlungsangebot der Agentur für Arbeit (§ 35 SGB III) gelten unabhängig davon, ob eine feste Wohnadresse besteht. In der Praxis erschweren jedoch fehlende Postadresse, fehlendes Bankkonto oder fehlende Bewerbungsunterlagen die Jobsuche. Für ein Bankkonto gibt es einen eigenen Anspruch auf ein <strong>Basiskonto</strong> nach dem Zahlungskontengesetz (ZKG), unabhängig vom Wohnsitzstatus.</p>\n",
+   "schritte": [
+    {
+     "titel": "Bei der Agentur für Arbeit melden",
+     "text": "Melden Sie sich bei der Agentur für Arbeit bzw. dem Jobcenter – fehlender fester Wohnsitz ist kein Ausschlussgrund für die Vermittlung."
+    },
+    {
+     "titel": "c/o-Adresse nutzen",
+     "text": "Nutzen Sie die c/o-Adresse einer Beratungsstelle für Bewerbungsunterlagen und Postverkehr."
+    },
+    {
+     "titel": "Basiskonto beantragen",
+     "text": "Beantragen Sie ein Basiskonto bei einer Bank, um Lohn empfangen zu können – der Anspruch ergibt sich aus dem Zahlungskontengesetz, unabhängig vom Wohnsitzstatus."
+    },
+    {
+     "titel": "Verstärkte Unterstützung erfragen",
+     "text": "Fragen Sie nach verstärkter Unterstützung, wenn die Vermittlung erschwert ist (§ 35 SGB III sieht das bei Vermittlungshemmnissen vor)."
+    },
+    {
+     "titel": "Fachberatung einbeziehen",
+     "text": "Fehlen Bewerbungsunterlagen, Kleidung oder Fahrtkosten, eine Fachberatungsstelle einbeziehen."
+    }
+   ],
+   "fristen": [],
+   "achtung": [
+    "Ein Basiskonto darf eine Bank grundsätzlich nicht allein wegen fehlender fester Adresse verweigern – der Anspruch ergibt sich aus dem Zahlungskontengesetz, nicht aus dem Sozialrecht.",
+    "Bundesweit einheitliche Sonderprogramme der Bundesagentur für Arbeit speziell für wohnungslose Menschen ließen sich in dieser Recherche nicht eindeutig belegen – es gibt vor allem lokale Kooperationen zwischen Jobcentern und Trägern der Wohnungslosenhilfe, die von Ort zu Ort unterschiedlich ausgestaltet sind.",
+    "Der Bezug von Grundsicherungsgeld/Bürgergeld bleibt auch ohne Unterkunftsnachweis möglich – lediglich der Anteil für Kosten der Unterkunft entfällt dann anteilig."
+   ],
+   "fach_html": "\n<h3>Vorrang der Vermittlung und Vermittlungsangebot</h3>\n<p>§ 4 SGB III betont den Vorrang der Vermittlung in Ausbildung und Arbeit vor anderen Leistungen. § 35 SGB III verpflichtet die Agentur für Arbeit, erwerbsfähigen Personen ein Vermittlungsangebot zu unterbreiten; bei erschwerter Eingliederung – wozu Wohnungslosigkeit faktisch zählen kann – ist verstärkte Unterstützung vorgesehen. Diese Vorschriften knüpfen nicht an einen Wohnsitzstatus an.</p>\n<h3>Basiskonto (Zahlungskontengesetz)</h3>\n<p>Das Zahlungskontengesetz (ZKG) gewährt grundsätzlich jeder Verbraucherin und jedem Verbraucher mit rechtmäßigem Aufenthalt in der EU einen Anspruch auf Eröffnung eines Basiskontos. Dieser Anspruch ist eigenständig im Zahlungsverkehrsrecht verankert, nicht im Sozialrecht, und unabhängig von einer festen Wohnadresse.</p>\n<h3>Ergänzende kommunale Unterstützung</h3>\n<p>Über die kommunalen Eingliederungsleistungen nach § 16a SGB II hinaus (siehe „Schulden und Wohnungslosigkeit“) existieren vielerorts lokale Kooperationsprojekte zwischen Jobcentern und Trägern der Wohnungslosenhilfe. Eine bundesweit einheitliche, spezialisierte Förderstruktur der Bundesagentur für Arbeit für wohnungslose Menschen ließ sich in dieser Recherche nicht belegen.</p>\n",
+   "zustaendig": [
+    "Agentur für Arbeit / Jobcenter",
+    "Banken (Basiskonto)"
+   ],
+   "belege": [
+    "§ 4, § 35 SGB III (gesetze-im-internet.de)",
+    "Zahlungskontengesetz – ZKG (gesetze-im-internet.de)",
+    "BAG Wohnungslosenhilfe, Positionspapier „Arbeit und Qualifizierung“ (bagw.de)"
+   ],
+   "siehe_auch": [
+    "schulden-und-wohnungslosigkeit",
+    "postadresse-und-behoerdenkontakt"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "beratung-anlaufstellen-wohnungslose",
+   "kategorie": "beratung",
+   "titel": "Beratung und Anlaufstellen",
+   "icon": "📞",
+   "teaser": "Fachberatungsstellen, Straßensozialarbeit und Tagesaufenthalte sind die wichtigsten Anlaufstellen – ihr Angebot ist örtlich sehr unterschiedlich ausgebaut.",
+   "schlagworte": [
+    "BAG Wohnungslosenhilfe",
+    "Fachberatungsstelle",
+    "Straßensozialarbeit",
+    "Tagesaufenthaltsstätte",
+    "§§ 67-69 SGB XII"
+   ],
+   "kurz_html": "\n<p>Die <strong>Bundesarbeitsgemeinschaft Wohnungslosenhilfe (BAG W)</strong> ist ein bundesweiter Fachverband – keine Behörde –, der Träger und Informationen bündelt. Rechtlich beruhen die meisten Fachberatungsstellen auf §§ 67 ff. SGB XII. Neben Fachberatungsstellen gibt es Tagesaufenthaltsstätten (Aufwärmen, Duschen, Post, Beratung tagsüber) und aufsuchende Straßensozialarbeit für Menschen, die von sich aus keine Beratungsstelle aufsuchen.</p>\n",
+   "schritte": [
+    {
+     "titel": "Fachberatungsstelle suchen",
+     "text": "Suchen Sie die nächstgelegene Fachberatungsstelle für Wohnungsnotfälle, z. B. über das BAG-W-Verzeichnis oder die Angebotsdatenbanken von Diakonie oder Caritas."
+    },
+    {
+     "titel": "Tagesaufenthalt nutzen",
+     "text": "Nutzen Sie eine Tagesaufenthaltsstätte für Grundbedürfnisse (Aufwärmen, Duschen, Wäsche waschen, Post)."
+    },
+    {
+     "titel": "Straßensozialarbeit ansprechen",
+     "text": "Sprechen Sie aufsuchende Straßensozialarbeit an, falls der Weg zu einer Beratungsstelle zu weit oder zu belastend ist."
+    },
+    {
+     "titel": "Spezialisierte Träger finden",
+     "text": "Fragen Sie bei spezifischen Anliegen (Schulden, Sucht, Gesundheit, Gewalt) gezielt nach spezialisierten Trägern."
+    },
+    {
+     "titel": "Unabhängige Beratung nutzen",
+     "text": "Schalten Sie bei Unzufriedenheit mit einer Behördenentscheidung unabhängige Sozial- oder Rechtsberatung ein."
+    }
+   ],
+   "fristen": [],
+   "achtung": [
+    "Die BAG Wohnungslosenhilfe ist ein bundesweiter Fachverband und keine Behörde – sie kann nicht selbst über Leistungen entscheiden, bündelt aber Träger und Informationen.",
+    "Das Angebot an Fachberatungsstellen, Tagesaufenthalten und Straßensozialarbeit ist örtlich sehr unterschiedlich ausgebaut – ein bundesweiter Mindeststandard ließ sich in dieser Recherche nicht belegen.",
+    "Fachberatungsstellen sind rechtlich in der Regel eine Pflichtleistung dem Grunde nach (§§ 67 ff. SGB XII), die konkrete Ausgestaltung liegt aber im Ermessen des Trägers – es besteht kein Anspruch auf eine bestimmte Einrichtung oder Beraterin bzw. einen bestimmten Berater."
+   ],
+   "fach_html": "\n<h3>Trägerlandschaft</h3>\n<p>Träger von Fachberatungsstellen, Tagesaufenthalten und Straßensozialarbeit sind überwiegend Wohlfahrtsverbände (Diakonie, Caritas, Deutsches Rotes Kreuz, Arbeiterwohlfahrt, Stadtmissionen) sowie teils Kommunen selbst. Rechtsgrundlage der Finanzierung sind in der Regel §§ 67 ff. SGB XII in Verbindung mit kommunalen bzw. Landesförderprogrammen; eine bundeseinheitliche Förderstruktur existiert nicht.</p>\n<h3>Die Rolle der BAG Wohnungslosenhilfe</h3>\n<p>Die BAG Wohnungslosenhilfe (BAG W) ist der bundesweite Fachverband der Wohnungslosenhilfe. Sie vertritt keine hoheitlichen Aufgaben, veröffentlicht aber Fachpositionen, Statistiken (Hochrechnung Wohnungslosigkeit) und ein Verzeichnis von Beratungsangeboten, das bei der Suche nach einer Anlaufstelle vor Ort helfen kann.</p>\n",
+   "zustaendig": [
+    "Fachberatungsstellen",
+    "Wohlfahrtsverbände (Diakonie, Caritas, DRK, AWO, Stadtmission)",
+    "Sozialamt (Kostenträger)"
+   ],
+   "belege": [
+    "§§ 67-69 SGB XII (gesetze-im-internet.de)",
+    "BAG Wohnungslosenhilfe, Verzeichnis Beratungsangebote (bagw.de)",
+    "Deutscher Verein für öffentliche und private Fürsorge, Empfehlung DV 1/24 (2024)"
+   ],
+   "siehe_auch": [
+    "eigene-wohnung-finden",
+    "ueberblick-rechte-wohnungslose"
+   ],
+   "stand": "Stand: September 2026."
+  }
+ ]
+}

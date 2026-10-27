@@ -1,0 +1,1180 @@
+{
+  "kategorien": [
+    {
+      "id": "ueberblick",
+      "titel": "Überblick",
+      "icon": "🧭",
+      "beschreibung": "Was kleine Arbeitgeber grundsätzlich beachten müssen, auch im Privathaushalt."
+    },
+    {
+      "id": "einstellen",
+      "titel": "Einstellen & Vertrag",
+      "icon": "📄",
+      "beschreibung": "Arbeitsvertrag, Nachweisgesetz und Mitarbeit von Familienangehörigen."
+    },
+    {
+      "id": "sozialversicherung",
+      "titel": "Minijob, Midijob & Meldungen",
+      "icon": "🏛️",
+      "beschreibung": "Verdienstgrenzen 2026, Anmeldung, Sofortmeldung, Unfallversicherung."
+    },
+    {
+      "id": "lohn-ausfall",
+      "titel": "Lohn, Urlaub & Krankheit",
+      "icon": "💶",
+      "beschreibung": "Mindestlohn 2026, Mindesturlaub, Entgeltfortzahlung und Umlagen U1/U2."
+    },
+    {
+      "id": "trennung",
+      "titel": "Kündigung & Befristung",
+      "icon": "⚖️",
+      "beschreibung": "Kündigungsschutz im Kleinbetrieb, Fristen, befristete Verträge."
+    },
+    {
+      "id": "betrieb",
+      "titel": "Betrieb, Daten & Sicherheit",
+      "icon": "🛡️",
+      "beschreibung": "Arbeitszeiterfassung, Datenschutz, Betriebsrat, Arbeitsschutz und Arbeitsunfall."
+    },
+    {
+      "id": "hilfe",
+      "titel": "Beratung",
+      "icon": "🤝",
+      "beschreibung": "Bundesweite Stellen, die Arbeitgeber beraten."
+    }
+  ],
+  "seiten": [
+    {
+      "id": "ueberblick-arbeitgeber",
+      "kategorie": "ueberblick",
+      "titel": "Kleiner Arbeitgeber: Überblick",
+      "icon": "🧭",
+      "teaser": "Wer Menschen beschäftigt, hat Pflichten: Vertrag, Lohn, Meldungen, Urlaub, Kündigungsregeln. Hier finden Sie die wichtigsten Punkte für Kleinbetriebe und Privathaushalte.",
+      "schlagworte": [
+        "Arbeitgeber",
+        "Kleinbetrieb",
+        "Familienbetrieb",
+        "Privathaushalt",
+        "Pflichten",
+        "Einstellung",
+        "Überblick"
+      ],
+      "kurz_html": "<p>Sobald Sie jemanden beschäftigen, sind Sie Arbeitgeber. Das gilt auch für kleine Betriebe, Familienbetriebe und Privathaushalte, zum Beispiel bei einer Haushaltshilfe.</p><p>Diese Pflichten gelten fast immer:</p><ul><li>Sie geben einen schriftlichen Nachweis über die wichtigsten Vertragsbedingungen.</li><li>Sie zahlen mindestens den Mindestlohn (2026: 13,90 Euro pro Stunde; ab 1. Januar 2027: 14,60 Euro).</li><li>Sie melden die Person bei der Sozialversicherung an.</li><li>Sie gewähren Urlaub und zahlen bei Krankheit bis zu sechs Wochen weiter.</li><li>Sie melden den Betrieb bei der Berufsgenossenschaft an.</li></ul><p>Für Kündigungen, Befristungen und Arbeitszeit gibt es feste Regeln. Kleinbetriebe haben hier teils Erleichterungen. Die Seiten in diesem Baustein führen Sie Schritt für Schritt durch.</p><p><strong>Abgrenzung:</strong> Rechte als Angestellte finden Sie im Baustein Arbeitnehmer. Fragen zu Handwerksordnung, Werkvertrag und Baustelle finden Sie im Baustein Handwerker.</p>",
+      "schritte": [
+        {
+          "titel": "Beschäftigungsart klären",
+          "text": "Vollzeit, Teilzeit, Minijob, Midijob oder Privathaushalt: Davon hängen Meldewege und Abgaben ab."
+        },
+        {
+          "titel": "Vertrag und Nachweis",
+          "text": "Schriftlichen Nachweis der wesentlichen Bedingungen erstellen und aushändigen."
+        },
+        {
+          "titel": "Anmelden",
+          "text": "Sozialversicherung und Unfallversicherung anmelden, bei bestimmten Branchen sofort."
+        },
+        {
+          "titel": "Laufende Pflichten",
+          "text": "Mindestlohn, Urlaub, Krankheit, Arbeitszeit, Datenschutz und Arbeitsschutz beachten."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "13,90 Euro pro Stunde",
+          "was": "Gesetzlicher Mindestlohn ab 01.01.2026 (ab 01.01.2027: 14,60 Euro)",
+          "grundlage": "MiLoG; Bundesregierung"
+        },
+        {
+          "wert": "603 Euro im Monat",
+          "was": "Minijob-Grenze 2026",
+          "grundlage": "§ 8 SGB IV; Minijob-Zentrale"
+        },
+        {
+          "wert": "zehn oder weniger Beschäftigte",
+          "was": "Kündigungsschutz nur eingeschränkt für Arbeitsverhältnisse ab 2004",
+          "grundlage": "§ 23 Abs. 1 Satz 3 KSchG"
+        }
+      ],
+      "achtung": [
+        "Wer Mindestlohn nicht zahlt, begeht eine Ordnungswidrigkeit nach dem MiLoG und riskiert Bußgeld bis 500.000 Euro (§ 21 MiLoG). Das ist nicht „Schwarzarbeit“ im Sinne des SchwarzArbG; beides ist getrennt zu betrachten.",
+        "Ein Privathaushalt ist ebenfalls Arbeitgeber, mit allen Grundpflichten.",
+        "Mitarbeit von Ehepartner oder Kindern kann sozialversicherungspflichtig sein.",
+        "Schwellenwerte hängen vom Zählen der Beschäftigten ab; Teilzeit zählt anteilig."
+      ],
+      "fach_html": "<h3>Wer ist Arbeitgeber?</h3><p>Arbeitgeber ist, wer Arbeitnehmer beschäftigt. Auf die Größe kommt es dafür nicht an. Viele Vorschriften (Nachweisgesetz, Mindestlohn, Bundesurlaubsgesetz, Entgeltfortzahlung) gelten ab dem ersten Beschäftigten.</p><h3>Schwellenwerte</h3><p>Manche Pflichten und Schutzvorschriften hängen von der Beschäftigtenzahl ab. Beispiele aus den geprüften Quellen: Kündigungsschutz nach dem ersten Abschnitt des KSchG gilt nach § 23 Abs. 1 nicht in Betrieben mit „in der Regel fünf oder weniger“ Arbeitnehmern (Satz 2), und für Arbeitsverhältnisse ab 01.01.2004 nicht in Betrieben mit „zehn oder weniger“ (Satz 3); Teilzeitbeschäftigte zählen mit 0,5 (bis 20 Stunden) bzw. 0,75 (bis 30 Stunden). Betriebsräte werden nach § 1 BetrVG ab „mindestens fünf ständigen wahlberechtigten Arbeitnehmern, von denen drei wählbar sind“ gewählt. Ein Datenschutzbeauftragter ist nach § 38 Abs. 1 BDSG ab „in der Regel mindestens 20 Personen“ vorgeschrieben, die ständig mit automatisierter Datenverarbeitung beschäftigt sind. Die Umlage U1 gilt nach § 1 Abs. 1 AAG für Arbeitgeber mit in der Regel nicht mehr als 30 Arbeitnehmern ohne Auszubildende; die Feststellung nach § 3 AAG zählt Teilzeit mit 0,25, 0,5 und 0,75 und weicht damit vom Kündigungsschutzgesetz ab (dort 0,5 und 0,75).</p><h3>Abgrenzung</h3><p>Dieser Baustein wendet sich an Arbeitgeber. Der Baustein Arbeitnehmer erklärt dieselben Regeln aus Sicht der Beschäftigten. Branchenspezifisches Handwerksrecht (Meisterpflicht, Werkvertrag, Baustellenrecht) steht im Baustein Handwerker.</p>",
+      "zustaendig": [
+        "Minijob-Zentrale (Minijobs, Haushaltsscheck)",
+        "Krankenkassen als Einzugsstellen für Sozialversicherungsbeiträge",
+        "Zuständige Berufsgenossenschaft oder Unfallkasse",
+        "Industrie- und Handelskammer oder Handwerkskammer (Beratung für Mitgliedsbetriebe)"
+      ],
+      "belege": [
+        "KSchG § 23, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "BetrVG § 1, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "BDSG § 38, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "Bundesregierung, Fragen und Antworten zum Mindestlohn, abgerufen 20.09.2026",
+        "AAG §§ 1, 3, gesetze-im-internet.de, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "privathaushalt-als-arbeitgeber",
+        "arbeitsvertrag-nachweisgesetz",
+        "beratung-anlaufstellen"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "privathaushalt-als-arbeitgeber",
+      "kategorie": "ueberblick",
+      "titel": "Haushaltshilfe anmelden: Privathaushalt als Arbeitgeber",
+      "icon": "🏠",
+      "teaser": "Putzhilfe, Gartenhilfe, Babysitter oder Pflegehilfe im Haushalt: Auch Privatpersonen sind Arbeitgeber. Für Minijobs gibt es das vereinfachte Haushaltsscheck-Verfahren.",
+      "schlagworte": [
+        "Haushaltshilfe",
+        "Haushaltsscheck",
+        "Privathaushalt",
+        "Minijob-Zentrale",
+        "Putzhilfe",
+        "Pauschalabgaben",
+        "Unfallversicherung"
+      ],
+      "kurz_html": "<p>Wer im eigenen Haushalt jemanden beschäftigt, ist Arbeitgeber. Das gilt zum Beispiel für Putzhilfe, Gartenhilfe oder Kinderbetreuung.</p><p>Bei einem Minijob im Haushalt gibt es ein einfaches Verfahren: den Haushaltsscheck bei der Minijob-Zentrale. Sie melden die Person dort an. Die Minijob-Zentrale bucht die Abgaben zweimal im Jahr von Ihrem Konto ab.</p><p>Die Abgaben sind bei Minijobs im Haushalt niedriger als bei Firmen. Sie betragen laut Minijob-Zentrale höchstens 14,62 Prozent des Verdienstes. Darin ist die gesetzliche Unfallversicherung enthalten.</p><p>Auch im Haushalt gelten Mindestlohn, Urlaub und Lohnfortzahlung bei Krankheit.</p>",
+      "schritte": [
+        {
+          "titel": "Verdienst prüfen",
+          "text": "Bis 603 Euro im Monat liegt ein Minijob vor. Darüber gelten andere Regeln."
+        },
+        {
+          "titel": "Haushaltsscheck ausfüllen",
+          "text": "Anmeldung bei der Minijob-Zentrale, online, telefonisch oder per Post."
+        },
+        {
+          "titel": "Lastschrift erteilen",
+          "text": "Auf dem Haushaltsscheck SEPA-Lastschriftmandat unterschreiben."
+        },
+        {
+          "titel": "Mindestlohn und Urlaub beachten",
+          "text": "Stundenlohn mindestens 13,90 Euro (ab 1. Januar 2027: 14,60 Euro). Nachweis der Vertragsbedingungen schriftlich aushändigen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "bis 603 Euro monatlich",
+          "was": "Minijob-Grenze 2026 (7.236 Euro im Jahr); ab 1. Januar 2027 633 Euro (Jahreswert 7.596 Euro; ergibt sich aus § 8 Abs. 1a SGB IV (14,60 € × 130 ÷ 3, aufgerundet) und § 1 MiLoV5; Bekanntgabe des BMAS im Bundesanzeiger nicht geprüft)",
+          "grundlage": "§ 8 SGB IV; Minijob-Zentrale"
+        },
+        {
+          "wert": "31. Juli und 31. Januar",
+          "was": "Abbuchung der Abgaben: Januar bis Juni am 31.07., der Rest am 31.01. des Folgejahres",
+          "grundlage": "Minijob-Zentrale, Abgaben und Fristen"
+        },
+        {
+          "wert": "höchstens 14,62 Prozent",
+          "was": "Pauschalabgaben im Privathaushalt",
+          "grundlage": "Minijob-Zentrale"
+        }
+      ],
+      "achtung": [
+        "Eine Beschäftigung ohne Anmeldung ist Schwarzarbeit, auch bei der Haushaltshilfe.",
+        "Der Unfallschutz greift nur, wenn Sie angemeldet haben. Bei Unfall im Haushalt können sonst hohe Kosten entstehen.",
+        "Über 603 Euro monatlich ist es kein Minijob mehr; dann gelten normale Anmelde- und Abgabenregeln (siehe Minijob-Midijob).",
+        "Ob Ihre Hilfe selbstständig oder angestellt ist, ist keine Frage der Bezeichnung, sondern der tatsächlichen Umstände."
+      ],
+      "fach_html": "<h3>Haushaltsscheck-Verfahren</h3><p>Nach Angaben der Minijob-Zentrale zahlen Arbeitgeber im Privathaushalt bei Minijobs bis 603 Euro pauschale Abgaben von höchstens 14,62 Prozent. Genannte Bestandteile: Krankenversicherung 5 Prozent, Rentenversicherung 5 Prozent, Umlagen U1 0,8 Prozent und U2 0,22 Prozent, gesetzliche Unfallversicherung 1,6 Prozent, ggf. einheitliche Pauschsteuer 2 Prozent. Zusammen ergibt das höchstens 14,62 Prozent (Minijob-Zentrale).</p><p>Ist die Minijobberin rentenversicherungspflichtig (keine Befreiung beantragt), trägt sie im Privathaushalt selbst 13,6 Prozent (Arbeitgeber 5 Prozent, zusammen 18,6 Prozent), im gewerblichen Minijob 3,6 Prozent.</p><h3>Steuer</h3><p>Arbeitgeber können bei Verdienst bis zur Minijob-Grenze zwischen der 2-Prozent-Pauschsteuer (an die Minijob-Zentrale) und Besteuerung nach den Lohnsteuermerkmalen wählen. Die 2-Prozent-Pauschsteuer beruht auf § 40a Abs. 2 EStG. Eine Pauschsteuer von 25 Prozent nach § 40a Abs. 1 EStG gilt nur bei steuerlich kurzfristiger Beschäftigung (gelegentlich, höchstens 18 zusammenhängende Arbeitstage, höchstens 150 Euro je Arbeitstag). Das ist nicht dasselbe wie die sozialversicherungsrechtliche Kurzfristigkeit (drei Monate oder 70 Arbeitstage, § 8 Abs. 1 Nr. 2 SGB IV).</p><h3>Abbuchung</h3><p>Die Abgaben werden halbjährlich abgebucht: für Januar bis Juni am 31. Juli, für den Rest am 31. Januar des Folgejahres (Minijob-Zentrale). Steuerlich: Nach § 35a Abs. 1 EStG ermäßigt sich die Einkommensteuer bei einem Minijob im Privathaushalt (§ 8a SGB IV) um 20 Prozent der Aufwendungen, höchstens um 510 Euro; das ist ein Abzug von der Steuer, kein Pauschalabzug.</p><h3>Dokumentation</h3><p>§ 17 MiLoG nimmt Beschäftigungen nach § 8a SGB IV (geringfügige Beschäftigung im Privathaushalt) von der Aufzeichnungspflicht der Arbeitszeit aus. Das Nachweisgesetz gilt nach seinem Wortlaut weiter (siehe Seite Arbeitsvertrag).</p>",
+      "zustaendig": [
+        "Minijob-Zentrale (Deutsche Rentenversicherung Knappschaft-Bahn-See)",
+        "Finanzamt für steuerliche Fragen",
+        "Krankenkasse der Hilfskraft bei Fragen zum Versicherungsstatus"
+      ],
+      "belege": [
+        "Minijob-Zentrale, Abgaben, Steuern & Fristen bei Haushaltshilfen (minijob-zentrale.de/DE/fuer-haushalte/abgaben-und-fristen), abgerufen 20.09.2026",
+        "Minijob Magazin, Minijob 2026: Änderungen (magazin.minijob-zentrale.de), abgerufen 20.09.2026",
+        "MiLoG § 17, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "EStG §§ 35a, 40a, gesetze-im-internet.de, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "minijob-midijob-2026",
+        "urlaub-arbeitgeber",
+        "arbeitsunfall-arbeitsschutz"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "arbeitsvertrag-nachweisgesetz",
+      "kategorie": "einstellen",
+      "titel": "Arbeitsvertrag und Nachweisgesetz",
+      "icon": "📄",
+      "teaser": "Der Arbeitgeber muss die wichtigsten Vertragsbedingungen schriftlich nachweisen, mit festen Fristen ab dem ersten Arbeitstag. Verstöße können bis zu 2.000 Euro kosten.",
+      "schlagworte": [
+        "Arbeitsvertrag",
+        "Nachweisgesetz",
+        "NachwG",
+        "Niederschrift",
+        "Probezeit",
+        "Textform",
+        "Bußgeld"
+      ],
+      "kurz_html": "<p>Einen Arbeitsvertrag dürfen Sie grundsätzlich auch mündlich schließen. Trotzdem müssen Sie die wichtigsten Bedingungen schriftlich festhalten und der Person aushändigen. Das regelt das Nachweisgesetz.</p><p>Fristen:</p><ul><li>Am ersten Arbeitstag: Namen, Anschrift, Arbeitsentgelt und Arbeitszeit.</li><li>Spätestens am siebten Kalendertag: zum Beispiel Angaben zur Probezeit.</li><li>Spätestens nach einem Monat: die übrigen Angaben.</li></ul><p>Seit 01.01.2025 genügt Textform (§ 126b BGB): Sie dürfen den Nachweis elektronisch übermitteln, zum Beispiel per E-Mail, wenn er für die Person zugänglich sowie speicher- und ausdruckbar ist und Sie sich den Empfang bestätigen lassen. Die Person kann jederzeit eine schriftliche Niederschrift verlangen. In den Branchen des § 2a SchwarzArbG bleibt es bei der Schriftform.</p><p>Wer den Nachweis nicht oder nicht rechtzeitig aushändigt, kann ein Bußgeld bis 2.000 Euro bekommen.</p>",
+      "schritte": [
+        {
+          "titel": "Vorlage prüfen",
+          "text": "Prüfen Sie, ob Ihr Vertrag alle Pflichtangaben enthält (Liste im Fachteil)."
+        },
+        {
+          "titel": "Angaben zum Arbeitsbeginn",
+          "text": "Namen, Anschrift, Entgelt und Arbeitszeit spätestens am ersten Arbeitstag übergeben."
+        },
+        {
+          "titel": "Restliche Punkte",
+          "text": "Probezeit bis zum siebten Kalendertag, alles Weitere innerhalb eines Monats."
+        },
+        {
+          "titel": "Empfang dokumentieren",
+          "text": "Lassen Sie sich den Erhalt bestätigen und bewahren Sie die Kopie auf."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "erster Tag der Arbeitsleistung",
+          "was": "Namen, Anschrift, Arbeitsentgelt, Arbeitszeit",
+          "grundlage": "§ 2 Abs. 1 NachwG"
+        },
+        {
+          "wert": "siebter Kalendertag",
+          "was": "Weitere Angaben, z. B. Probezeit",
+          "grundlage": "§ 2 Abs. 1 NachwG"
+        },
+        {
+          "wert": "ein Monat",
+          "was": "Übrige Angaben",
+          "grundlage": "§ 2 Abs. 1 NachwG"
+        },
+        {
+          "wert": "bis 2.000 Euro",
+          "was": "Bußgeld bei Verstoß",
+          "grundlage": "§ 4 NachwG"
+        }
+      ],
+      "achtung": [
+        "Seit 01.01.2025 (BEG IV) genügt Textform (§ 126b BGB), auch elektronisch, wenn das Dokument zugänglich, speicher- und ausdruckbar ist und Sie zum Empfangsnachweis auffordern (§ 2 Abs. 1 Satz 2 NachwG). Auf Verlangen ist jederzeit eine schriftliche Niederschrift auszuhändigen (Satz 3). In den Branchen des § 2a SchwarzArbG gilt Schriftform (Satz 6); die elektronische Form (§ 126a BGB) ist ausgeschlossen (Satz 8).",
+        "Ändert sich später etwas Wesentliches, muss die Änderung ebenfalls mitgeteilt werden (§ 3 NachwG, hier nicht im Wortlaut ausgewertet).",
+        "Befristungen brauchen zusätzlich die Schriftform des Vertrags (§ 14 Abs. 4 TzBfG).",
+        "Der Nachweis ersetzt nicht den Vertrag; widersprüchliche Angaben führen zu Streit."
+      ],
+      "fach_html": "<h3>Inhalt (§ 2 Abs. 1 Satz 7 NachwG)</h3><p>Mindestens aufzunehmen sind laut Gesetz: Vertragsparteien, Beginn des Arbeitsverhältnisses, bei Befristung die Dauer, Arbeitsort, Tätigkeit, eine vereinbarte Probezeit, Zusammensetzung und Höhe des Arbeitsentgelts, vereinbarte Arbeitszeit, Schichtsystem, Regelungen zu Abrufarbeit, Überstunden, Urlaub, Fortbildung, betriebliche Altersversorgung, das Verfahren bei Kündigung und ein Hinweis auf anwendbare Tarifverträge.</p><h3>Fristen</h3><p>Nach dem Gesetzestext ist die Niederschrift mit den Angaben zu Namen, Anschrift, Arbeitsentgelt und Arbeitszeit „spätestens am ersten Tag der Arbeitsleistung“ auszuhändigen, weitere Angaben, unter anderem zur Probezeit, „spätestens am siebten Kalendertag nach dem vereinbarten Beginn“, die übrigen innerhalb „eines Monats“. Welche Angabe genau in welche Stufe fällt, steht in § 2 Abs. 1 NachwG; hier wurden die Stufen nur im Überblick geprüft.</p><h3>Form</h3><p>Seit 01.01.2025 (Bürokratieentlastungsgesetz IV) ist nach § 2 Abs. 1 Satz 2 NachwG die Textform (§ 126b BGB) elektronisch möglich, wenn das Dokument für den Arbeitnehmer zugänglich, speicher- und ausdruckbar ist und der Arbeitgeber zum Empfangsnachweis auffordert. Nach Satz 3 kann der Arbeitnehmer jederzeit eine schriftliche Niederschrift verlangen. Satz 6: Das gilt nicht für die Branchen des § 2a SchwarzArbG (dort Schriftform). Satz 8: Die elektronische Form (§ 126a BGB) ist ausgeschlossen.</p><h3>Bußgeld</h3><p>Nach § 4 NachwG handelt ordnungswidrig, wer wesentliche Vertragsbedingungen nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig aushändigt. Die Geldbuße beträgt bis zu 2.000 Euro.</p><h3>Privathaushalt</h3><p>Ausnahmen für Privathaushalte sind in den geprüften Normauszügen nicht erkennbar; die Vollständigkeit aller Sonderregeln (z. B. kurzfristige Aushilfen) wurde nicht geprüft.</p>",
+      "zustaendig": [
+        "Rechtsanwält:innen für Arbeitsrecht oder Arbeitgeberverband",
+        "IHK oder Handwerkskammer (Musterverträge für Mitglieder)",
+        "Arbeitsgericht bei Streit"
+      ],
+      "belege": [
+        "NachwG § 2, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "NachwG § 4, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "TzBfG § 14 Abs. 4, gesetze-im-internet.de, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "befristung-arbeitsvertrag",
+        "kuendigung-kleinbetrieb",
+        "urlaub-arbeitgeber"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "familienangehoerige-im-betrieb",
+      "kategorie": "einstellen",
+      "titel": "Familienangehörige im Betrieb",
+      "icon": "👨‍👩‍👧",
+      "teaser": "Ehepartner, Kinder oder Eltern helfen im Betrieb mit. Ob das eine sozialversicherungspflichtige Beschäftigung ist, hängt von den tatsächlichen Umständen ab und kann bei der Rentenversicherung geklärt werden.",
+      "schlagworte": [
+        "Familienbetrieb",
+        "Ehepartner",
+        "Mitarbeit",
+        "Statusfeststellung",
+        "Clearingstelle",
+        "Rentenversicherung",
+        "Scheinselbständigkeit"
+      ],
+      "kurz_html": "<p>Im Familienbetrieb arbeiten oft Partner, Kinder oder Eltern mit. Manchmal ist das eine normale Beschäftigung mit Lohn und Sozialversicherung. Manchmal ist es bloße Familienhilfe ohne Anstellung.</p><p>Wichtig sind die tatsächlichen Umstände: Wird die Person weisungsgebunden eingesetzt? Gibt es festen Lohn? Ein Vertrag allein entscheidet nicht.</p><p>Bei Unsicherheit können Sie bei der Deutschen Rentenversicherung Bund ein Statusfeststellungsverfahren beantragen. Das Ergebnis sagt Ihnen, ob die Sozialversicherung für die Person Pflicht ist.</p><p>Wenn Sie Familienangehörige anmelden, prüft die Krankenkasse dies oft automatisch weiter.</p>",
+      "schritte": [
+        {
+          "titel": "Tätigkeit beschreiben",
+          "text": "Schreiben Sie auf: Aufgaben, Arbeitszeit, Weisungen, Entgelt."
+        },
+        {
+          "titel": "Status klären",
+          "text": "Bei Zweifel: Antrag auf Statusfeststellung bei der Deutschen Rentenversicherung Bund stellen."
+        },
+        {
+          "titel": "Bei Anstellung ordentlich anmelden",
+          "text": "Vertrag, Nachweis, Lohn, Meldungen wie bei jeder anderen Person."
+        },
+        {
+          "titel": "Unterlagen aufbewahren",
+          "text": "Lohnzahlung nachweisbar per Überweisung, nicht bar ohne Beleg."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "Einzelfallprüfung",
+          "was": "Keine feste Frist; die Rentenversicherung entscheidet nach den tatsächlichen Verhältnissen",
+          "grundlage": "§ 7a Abs. 1 SGB IV"
+        },
+        {
+          "wert": "Anmeldung bei Beginn",
+          "was": "Meldung der versicherungspflichtigen Beschäftigung",
+          "grundlage": "§ 28a Abs. 1 SGB IV"
+        }
+      ],
+      "achtung": [
+        "Die Einzugsstelle muss laut Gesetz ein Statusverfahren einleiten, wenn aus der Meldung hervorgeht, dass die beschäftigte Person Familienangehörige oder geschäftsführende Gesellschafterin ist (§ 7a SGB IV).",
+        "Nachträglich festgestellte Versicherungspflicht kann zu Beitragsnachforderungen führen; Höhe und Verjährung wurden hier nicht ausgewertet.",
+        "Kein Lohn heißt nicht automatisch keine Beschäftigung, Lohn nicht automatisch Beschäftigung.",
+        "Für Kinder gelten zusätzlich Jugendarbeitsschutzregeln; diese wurden hier nicht geprüft."
+      ],
+      "fach_html": "<h3>Statusfeststellung</h3><p>Nach § 7a Abs. 1 SGB IV können die Beteiligten bei der Deutschen Rentenversicherung Bund schriftlich oder elektronisch eine Entscheidung beantragen, ob bei einem Auftragsverhältnis eine Beschäftigung oder eine selbstständige Tätigkeit vorliegt. Das Gesetz sieht vor, dass die Einzugsstelle einen Antrag stellen muss, wenn aus der Arbeitgebermeldung hervorgeht, dass der Beschäftigte ein Familienangehöriger oder ein geschäftsführender Gesellschafter ist. Das Verfahren ist nicht zulässig, wenn bereits ein Verfahren zur Feststellung der Versicherungspflicht eingeleitet wurde.</p><h3>Nicht geprüfte Punkte</h3><p>Welche Kriterien die Rentenversicherung bei Familienangehörigen im Einzelnen heranzieht (Weisungsgebundenheit, Eingliederung, Entgelt in üblicher Höhe) und wie sich dies bei mitarbeitenden Ehegatten oder Kindern auswirkt, wurde in dieser Recherche nicht aus Primärquellen ausgewertet. Ziehen Sie dazu die Auskunft der Deutschen Rentenversicherung oder eine Beratung heran.</p>",
+      "zustaendig": [
+        "Deutsche Rentenversicherung Bund (Statusfeststellung)",
+        "Krankenkasse als Einzugsstelle",
+        "Steuerberatung für Lohn- und Betriebsausgabenfragen"
+      ],
+      "belege": [
+        "SGB IV § 7a, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "SGB IV § 28a, gesetze-im-internet.de, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "anmeldung-meldungen-sozialversicherung",
+        "arbeitsvertrag-nachweisgesetz"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "minijob-midijob-2026",
+      "kategorie": "sozialversicherung",
+      "titel": "Minijob und Midijob 2026",
+      "icon": "💼",
+      "teaser": "Minijob bis 603 Euro im Monat, Midijob von 603,01 bis 2.000 Euro. Wie die Grenzen berechnet werden, was bei Überschreitung passiert und welche Meldungen anfallen.",
+      "schlagworte": [
+        "Minijob",
+        "Midijob",
+        "603 Euro",
+        "Übergangsbereich",
+        "Geringfügigkeitsgrenze",
+        "Kurzfristige Beschäftigung",
+        "Minijob-Zentrale"
+      ],
+      "kurz_html": "<p>Ein Minijob liegt vor, wenn der Verdienst regelmäßig nicht mehr als 603 Euro im Monat beträgt. Im Jahr sind das 7.236 Euro. Das gilt seit 01.01.2026.</p><p>Darüber beginnt der Midijob. Er reicht bis 2.000 Euro im Monat. Die Beschäftigte zahlt dort reduzierte Sozialbeiträge.</p><p>Die Grenze steigt mit dem Mindestlohn. Ab 2027 liegt sie bei 633 Euro.</p><p>Wenn der Verdienst zufällig und unvorhersehbar innerhalb des Zeitjahres in nicht mehr als zwei Kalendermonaten höher ist (§ 8 Abs. 1b SGB IV), bleibt es trotzdem ein Minijob.</p><p>Eine kurzfristige Beschäftigung liegt vor, wenn sie im Kalenderjahr auf höchstens drei Monate oder 70 Arbeitstage begrenzt ist.</p><p>Wichtig: Der Mindestlohn gilt auch im Minijob. Wer mehr Stunden arbeiten lässt, als 603 Euro bei 13,90 Euro hergeben, kann die Grenze überschreiten.</p>",
+      "schritte": [
+        {
+          "titel": "Stunden rechnen",
+          "text": "603 Euro geteilt durch 13,90 Euro ergibt rund 43 Stunden im Monat. Planen Sie mit einer festen Stundenzahl."
+        },
+        {
+          "titel": "Anmelden",
+          "text": "Minijobs melden Sie bei der Minijob-Zentrale, im Privathaushalt per Haushaltsscheck."
+        },
+        {
+          "titel": "Mehrere Jobs beachten",
+          "text": "Mehrere Minijobs werden zusammengerechnet; fragen Sie die Person nach weiteren Beschäftigungen."
+        },
+        {
+          "titel": "Überschreitung dokumentieren",
+          "text": "Bei einmaligem Mehrverdienst festhalten, warum er unvorhersehbar war."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "603 Euro / 7.236 Euro",
+          "was": "Minijob-Grenze monatlich / jährlich ab 01.01.2026",
+          "grundlage": "Minijob Magazin; § 8 SGB IV"
+        },
+        {
+          "wert": "603,01 bis 2.000 Euro",
+          "was": "Übergangsbereich (Midijob) 2026",
+          "grundlage": "§ 20 Abs. 2 SGB IV"
+        },
+        {
+          "wert": "633 Euro",
+          "was": "Minijob-Grenze ab 01.01.2027 (Jahreswert 7.596 Euro; ergibt sich aus § 8 Abs. 1a SGB IV (14,60 € × 130 ÷ 3, aufgerundet) und § 1 MiLoV5; Bekanntgabe des BMAS im Bundesanzeiger nicht geprüft)",
+          "grundlage": "Minijob Magazin; Bundesregierung"
+        },
+        {
+          "wert": "drei Monate oder 70 Arbeitstage",
+          "was": "Kurzfristige Beschäftigung im Kalenderjahr",
+          "grundlage": "§ 8 Abs. 1 Nr. 2 SGB IV"
+        }
+      ],
+      "achtung": [
+        "Die Grenze ist an den Mindestlohn gekoppelt: Mindestlohn mal 130, geteilt durch drei, aufgerundet auf volle Euro (§ 8 Abs. 1a SGB IV).",
+        "Unvorhersehbares Überschreiten ist nur in nicht mehr als zwei Kalendermonaten je um höchstens die Grenze zulässig (§ 8 Abs. 1b SGB IV).",
+        "Mehrere Minijobs sowie ein Minijob neben einem nicht geringfügigen Job werden zusammengerechnet (§ 8 Abs. 2 SGB IV); die Wirkung im Einzelfall sollte beraten werden.",
+        "Ab 01.01.2026 entfällt die Trennung des Beitragsnachweises nach Rechtskreis West und Ost; ein gemeinsamer Beitragsnachweis genügt. Dauer-Beitragsnachweise für den Rechtskreis Ost müssen ab Beitragsmonat Januar 2026 neu eingereicht werden."
+      ],
+      "fach_html": "<h3>Geringfügigkeitsgrenze</h3><p>Nach § 8 Abs. 1a SGB IV wird die Geringfügigkeitsgrenze berechnet, indem der Mindestlohn mit 130 vervielfacht, durch drei geteilt und auf volle Euro aufgerundet wird. Bei 13,90 Euro ergibt das 603 Euro. Die Minijob-Zentrale nennt für 2026 monatlich 603 Euro und jährlich 7.236 Euro (vorher 556 bzw. 6.672 Euro) und für 2027 633 Euro (7.596 Euro im Jahr; ergibt sich aus § 8 Abs. 1a SGB IV (14,60 € × 130 ÷ 3, aufgerundet) und § 1 MiLoV5; Bekanntgabe des BMAS im Bundesanzeiger nicht geprüft).</p><h3>Midijob (Übergangsbereich)</h3><p>Der Übergangsbereich umfasst nach § 20 Abs. 2 SGB IV Arbeitsentgelte aus mehr als geringfügigen Beschäftigungen, die regelmäßig 2.000 Euro im Monat nicht übersteigen. Die Untergrenze liegt 2026 bei 603,01 Euro (Minijob Magazin). Bei mehreren gleichzeitigen Beschäftigungen ist das insgesamt erzielte Arbeitsentgelt maßgebend. Die Formel für die reduzierten Arbeitnehmerbeiträge im Übergangsbereich wurde nicht ausgewertet.</p><h3>Kurzfristige Beschäftigung</h3><p>§ 8 Abs. 1 Nr. 2 SGB IV: Beschäftigung, die innerhalb eines Kalenderjahres auf längstens drei Monate oder 70 Arbeitstage nach ihrer Eigenart begrenzt zu sein pflegt. Beitragsfreiheit im Detail und die Voraussetzung „nicht berufsmäßig“ wurden hier nicht geprüft. Nicht zu verwechseln: Die Pauschsteuer von 25 Prozent (§ 40a Abs. 1 EStG) gilt nur bei steuerlich kurzfristiger Beschäftigung (gelegentlich, höchstens 18 zusammenhängende Arbeitstage, höchstens 150 Euro je Arbeitstag); das ist etwas anderes als die sozialversicherungsrechtliche Kurzfristigkeit (drei Monate oder 70 Arbeitstage).</p><h3>Arbeitgeberabgaben im Minijob</h3><p>Die U1 wurde zum 01.01.2026 laut Minijob Magazin von 1,1 auf 0,8 Prozent gesenkt. Prozentsätze für gewerbliche Minijobs (Pauschalbeiträge zu Kranken- und Rentenversicherung) sind hier nicht aus Primärquellen belegt; für den Privathaushalt siehe Seite Haushaltsscheck.</p>",
+      "zustaendig": [
+        "Minijob-Zentrale",
+        "Krankenkasse für Midijobs (Einzugsstelle)",
+        "Steuerberatung für Lohnabrechnung"
+      ],
+      "belege": [
+        "Minijob Magazin, Minijob 2026: Mehr Verdienst, neue Regeln (magazin.minijob-zentrale.de), abgerufen 20.09.2026",
+        "SGB IV § 8, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "SGB IV § 20, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "Bundesregierung, Fragen und Antworten zum Mindestlohn, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "mindestlohn-2026",
+        "anmeldung-meldungen-sozialversicherung",
+        "privathaushalt-als-arbeitgeber"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "anmeldung-meldungen-sozialversicherung",
+      "kategorie": "sozialversicherung",
+      "titel": "Anmeldung, Sofortmeldung und Unfallversicherung",
+      "icon": "📋",
+      "teaser": "Wer einstellt, muss die Beschäftigung melden. In bestimmten Branchen sofort bei Arbeitsbeginn. Die Berufsgenossenschaft muss binnen einer Woche informiert werden.",
+      "schlagworte": [
+        "Anmeldung",
+        "Sofortmeldung",
+        "Einzugsstelle",
+        "Krankenkasse",
+        "Berufsgenossenschaft",
+        "Betriebsnummer",
+        "SV-Meldeportal"
+      ],
+      "kurz_html": "<p>Wenn Sie jemanden einstellen, melden Sie die Person bei der Sozialversicherung an. Die Meldung geht an die Krankenkasse (bei Minijobs an die Minijob-Zentrale).</p><p>In manchen Branchen müssen Sie die Person sofort bei Arbeitsbeginn melden, zum Beispiel im Baugewerbe, im Gaststättengewerbe, im Friseurgewerbe, im Gebäudereinigungsgewerbe oder in der Personenbeförderung. Die vollständige Liste steht im Fachteil.</p><p>Außerdem müssen Sie Ihr Unternehmen bei der zuständigen Berufsgenossenschaft oder Unfallkasse anzeigen. Die Frist beträgt eine Woche nach Beginn des Unternehmens.</p><p>Zur Anmeldung nutzen Sie ein Entgeltabrechnungsprogramm oder das SV-Meldeportal (Ausfüllhilfe).</p>",
+      "schritte": [
+        {
+          "titel": "Branche prüfen",
+          "text": "Gehört Ihr Betrieb zu den Sofortmelde-Branchen? Dann bei Arbeitsaufnahme melden."
+        },
+        {
+          "titel": "Betriebsnummer und Meldeweg",
+          "text": "Betriebsnummer ist für Meldungen erforderlich; Meldung per Abrechnungsprogramm oder Ausfüllhilfe."
+        },
+        {
+          "titel": "Berufsgenossenschaft anzeigen",
+          "text": "Art des Unternehmens, Zahl der Versicherten, Eröffnungstag mitteilen."
+        },
+        {
+          "titel": "Hinweis- und Aufbewahrungspflicht beachten",
+          "text": "Beschäftigte in Sofortmelde-Branchen führen den Ausweis mit und legen ihn dem Zoll vor (§ 2a Abs. 1 SchwarzArbG). Sie als Arbeitgeber weisen vor Leistungsbeginn nachweislich schriftlich darauf hin, bewahren den Hinweis für die Dauer der Leistung auf und legen ihn bei Prüfung vor (§ 2a Abs. 2 SchwarzArbG)."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "bei Beginn der Beschäftigung",
+          "was": "Meldung der versicherungspflichtigen Beschäftigung an die Einzugsstelle",
+          "grundlage": "§ 28a Abs. 1 SGB IV"
+        },
+        {
+          "wert": "spätestens bei Aufnahme der Beschäftigung",
+          "was": "Sofortmeldung an die Datenstelle der Rentenversicherung (DSRV) in den Branchen nach § 28a Abs. 4",
+          "grundlage": "§ 28a Abs. 4 SGB IV"
+        },
+        {
+          "wert": "eine Woche nach Beginn des Unternehmens",
+          "was": "Anzeige bei der Berufsgenossenschaft",
+          "grundlage": "§ 192 Abs. 1 SGB VII"
+        }
+      ],
+      "achtung": [
+        "Fehlende Sofortmeldung ist ein typischer Kontrollpunkt des Zolls; Bußgeld bis 25.000 Euro (§ 111 Abs. 1 Nr. 2 i. V. m. Abs. 4 SGB IV).",
+        "Die Anzeige bei der Berufsgenossenschaft gilt als erfüllt, wenn die Gewerbeanzeige fristgerecht bei der zuständigen Stelle eingereicht wurde (§ 192 Abs. 1 SGB VII).",
+        "Reguläre (nicht sofortmeldepflichtige) Beschäftigte: Anmeldung mit der ersten folgenden Entgeltabrechnung, spätestens innerhalb von sechs Wochen nach Beginn der Beschäftigung (§ 6 DEÜV).",
+        "Ab 01.01.2026 entfällt die Trennung des Beitragsnachweises nach Rechtskreis West und Ost; ein gemeinsamer Beitragsnachweis genügt. Dauer-Beitragsnachweise für den Rechtskreis Ost müssen ab Beitragsmonat Januar 2026 neu eingereicht werden."
+      ],
+      "fach_html": "<h3>Allgemeine Meldepflicht</h3><p>§ 28a Abs. 1 Satz 1 SGB IV: Der Arbeitgeber hat der Einzugsstelle „bei Beginn der versicherungspflichtigen Beschäftigung“ eine Meldung zu erstatten, daneben in weiteren Fällen (etwa Ende der Beschäftigung, Änderungen). Nach § 6 der Datenerfassungs- und -übermittlungsverordnung (DEÜV) erfolgt die Anmeldung mit der ersten folgenden Entgeltabrechnung, spätestens innerhalb von sechs Wochen nach Beginn der Beschäftigung.</p><h3>Sofortmeldung (§ 28a Abs. 4 SGB IV)</h3><p>Die Sofortmeldung geht an die Datenstelle der Rentenversicherung (DSRV) (§ 28a Abs. 4 Satz 1 SGB IV); die Meldung nach Abs. 1 geht an die Einzugsstelle (Krankenkasse, bei Minijobs die Minijob-Zentrale). Arbeitgeber in folgenden Wirtschaftszweigen haben den Beschäftigungsbeginn spätestens bei Aufnahme der Beschäftigung zu melden: Baugewerbe; Gaststätten- und Beherbergungsgewerbe; Personenbeförderungsgewerbe; Speditions-, Transport- und damit verbundenes Logistikgewerbe (einschließlich plattformbasierter Lieferdienste); Schaustellergewerbe; Gebäudereinigungsgewerbe; Auf- und Abbau von Messen und Ausstellungen; Fleischwirtschaft (außer Fleischerhandwerk); Prostitutionsgewerbe; Wach- und Sicherheitsgewerbe; Friseur- und Kosmetikgewerbe. Die Liste ist abschließend (elf Bereiche, § 28a Abs. 4 SGB IV in der ab 01.01.2026 geltenden Fassung).</p><h3>Unfallversicherung</h3><p>Nach § 192 Abs. 1 SGB VII müssen Unternehmer innerhalb einer Woche nach Beginn des Unternehmens dem zuständigen Unfallversicherungsträger Art und Gegenstand des Unternehmens, die Zahl der Versicherten und den Eröffnungstag oder den Tag der Aufnahme vorbereitender Arbeiten mitteilen.</p>",
+      "zustaendig": [
+        "Krankenkassen (Einzugsstelle)",
+        "Minijob-Zentrale (geringfügig Beschäftigte)",
+        "Zuständige Berufsgenossenschaft oder Unfallkasse",
+        "Zoll (Finanzkontrolle Schwarzarbeit) als Prüfbehörde"
+      ],
+      "belege": [
+        "SGB IV § 28a, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "SGB VII § 192, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "Minijob Magazin, Minijob 2026 (Beitragsnachweis), abgerufen 20.09.2026",
+        "Techniker Krankenkasse Firmenkunden (SV-Meldeportal, Ausfüllhilfe), abgerufen 20.09.2026",
+        "SchwarzArbG § 2a, SGB IV § 111, DEÜV § 6, gesetze-im-internet.de, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "minijob-midijob-2026",
+        "arbeitsunfall-arbeitsschutz",
+        "familienangehoerige-im-betrieb"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "mindestlohn-2026",
+      "kategorie": "lohn-ausfall",
+      "titel": "Mindestlohn 2026",
+      "icon": "💶",
+      "teaser": "13,90 Euro brutto pro Stunde ab 01.01.2026, 14,60 Euro ab 01.01.2027. Wer ausgenommen ist, welche Aufzeichnungen nötig sind und welche Bußgelder drohen.",
+      "schlagworte": [
+        "Mindestlohn",
+        "13,90 Euro",
+        "14,60 Euro",
+        "Zoll",
+        "Bußgeld",
+        "Aufzeichnung",
+        "Praktikum"
+      ],
+      "kurz_html": "<p>Der gesetzliche Mindestlohn beträgt seit 01.01.2026 <strong>13,90 Euro brutto pro Stunde</strong>. Ab 01.01.2027 sind es 14,60 Euro.</p><p>Er gilt auch für Minijobs, Teilzeit und Haushaltshilfen. Wer weniger zahlt, muss nachzahlen und kann ein hohes Bußgeld bekommen.</p><p>Ausgenommen sind unter anderem Personen unter 18 Jahren ohne abgeschlossene Berufsausbildung. Für bestimmte Praktika gilt der Mindestlohn nicht. Langzeitarbeitslose müssen in den ersten sechs Monaten der Beschäftigung nicht nach Mindestlohn bezahlt werden.</p><p>In manchen Branchen gelten höhere Mindestlöhne. Prüfen Sie dies für Ihre Branche.</p><p>Beginn, Ende und Dauer der täglichen Arbeitszeit müssen in bestimmten Fällen aufgezeichnet werden.</p>",
+      "schritte": [
+        {
+          "titel": "Stundenlohn prüfen",
+          "text": "Teilen Sie den Monatslohn durch die tatsächlich gearbeiteten Stunden. Ergebnis mindestens 13,90 Euro."
+        },
+        {
+          "titel": "Ausnahmen klären",
+          "text": "Praktikum, Alter unter 18 ohne Ausbildung, Langzeitarbeitslose prüfen."
+        },
+        {
+          "titel": "Branchenmindestlohn prüfen",
+          "text": "Es kann ein höherer Tarif-Mindestlohn gelten."
+        },
+        {
+          "titel": "Arbeitszeit aufzeichnen",
+          "text": "Wo Pflicht: bis zum siebten Tag nach der Arbeit aufschreiben, zwei Jahre aufbewahren."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "13,90 Euro",
+          "was": "Mindestlohn brutto je Stunde ab 01.01.2026",
+          "grundlage": "MiLoV5 vom 5. November 2025"
+        },
+        {
+          "wert": "14,60 Euro",
+          "was": "Mindestlohn ab 01.01.2027",
+          "grundlage": "MiLoV5 vom 5. November 2025"
+        },
+        {
+          "wert": "sieben Tage / zwei Jahre",
+          "was": "Aufzeichnung der Arbeitszeit bis zum siebten Folgetag; Aufbewahrung zwei Jahre",
+          "grundlage": "§ 17 MiLoG"
+        },
+        {
+          "wert": "bis 500.000 Euro",
+          "was": "Bußgeld bei Nichtzahlung; bis 50.000 Euro bei Aufzeichnungs- und Aufbewahrungsverstößen (§ 17 Abs. 1); bis 30.000 Euro bei übrigen Verstößen",
+          "grundlage": "§ 21 Abs. 3 MiLoG"
+        }
+      ],
+      "achtung": [
+        "§ 1 Abs. 2 MiLoG nennt im Gesetzestext noch 12 Euro (Stand 01.10.2022); die Erhöhungen erfolgen per Fünfter Mindestlohnanpassungsverordnung (MiLoV5) vom 5. November 2025 (Beschluss der Mindestlohnkommission vom 27.06.2025): 13,90 Euro ab 01.01.2026 und 14,60 Euro ab 01.01.2027, beide verbindlich.",
+        "Aufzeichnungspflicht nach § 17 MiLoG gilt für Minijobs und die in § 2a SchwarzArbG genannten Branchen; ausgenommen sind Minijobs im Privathaushalt (§ 8a SGB IV).",
+        "Sachleistungen, Zuschläge oder Anrechnungen dürfen den Mindestlohn nur nach den Regeln der Rechtsprechung mindern; dazu nicht ausgewertet.",
+        "Der Mindestlohn gilt nicht für zu ihrer Berufsausbildung Beschäftigte; für Azubis gilt die Mindestausbildungsvergütung (nicht ausgewertet)."
+      ],
+      "fach_html": "<h3>Höhe</h3><p>Nach der Fünften Mindestlohnanpassungsverordnung (MiLoV5) vom 5. November 2025 (Beschluss der Mindestlohnkommission vom 27.06.2025) beträgt der Mindestlohn seit 01.01.2026 13,90 Euro brutto je Stunde, ab 01.01.2027 14,60 Euro. Die Mindestlohnkommission empfiehlt alle zwei Jahre eine Anpassung. § 1 Abs. 3 MiLoG stellt klar, dass Regelungen des Arbeitnehmer-Entsendegesetzes und des Arbeitnehmerüberlassungsgesetzes vorgehen, soweit die dort festgesetzten Branchenmindestlöhne den Mindestlohn nicht unterschreiten.</p><h3>Ausnahmen (§ 22 MiLoG)</h3><p>Praktikant:innen im Sinne von § 26 BBiG gelten als Arbeitnehmer, es sei denn, es liegt eine der Ausnahmen vor (u. a. Pflichtpraktika, Orientierungspraktika und begleitende Praktika bis drei Monate, Einstiegsqualifizierung). Personen unter 18 ohne abgeschlossene Berufsausbildung gelten nicht als Arbeitnehmer im Sinne des Gesetzes (Abs. 2). Für zuvor Langzeitarbeitslose (§ 18 Abs. 1 SGB III) gilt der Mindestlohn in den ersten sechs Monaten der Beschäftigung nicht (Abs. 4). Vergütung von Auszubildenden und Ehrenamtlichen wird vom MiLoG nicht geregelt (Abs. 3).</p><h3>Aufzeichnung (§ 17 MiLoG)</h3><p>Arbeitgeber in den benannten Fällen müssen Beginn, Ende und Dauer der täglichen Arbeitszeit spätestens bis zum Ablauf des siebten auf den Tag der Arbeitsleistung folgenden Kalendertages aufzeichnen und die Aufzeichnungen mindestens zwei Jahre aufbewahren. Ausgenommen sind Beschäftigungsverhältnisse nach § 8a SGB IV.</p><h3>Bußgeld (§ 21 MiLoG)</h3><p>Bei Nichtzahlung des Mindestlohns bis zu 500.000 Euro; bei Verstößen gegen Aufzeichnungs- und Aufbewahrungspflichten (§ 17 Abs. 1) bis zu 50.000 Euro; in den übrigen Fällen bis zu 30.000 Euro (§ 21 Abs. 3 MiLoG). Kontrolle: Finanzkontrolle Schwarzarbeit des Zolls.</p>",
+      "zustaendig": [
+        "Zoll, Finanzkontrolle Schwarzarbeit (Kontrolle)",
+        "Arbeitgeberverband, IHK oder Handwerkskammer",
+        "Arbeitsgericht bei Streit über Nachzahlung"
+      ],
+      "belege": [
+        "Bundesregierung, Fragen und Antworten zum Mindestlohn, abgerufen 20.09.2026",
+        "MiLoG §§ 1, 17, 21, 22, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "Minijob Magazin, Mindestlohn 2026 und 2027, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "minijob-midijob-2026",
+        "arbeitszeiterfassung-pflicht",
+        "urlaub-arbeitgeber"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "urlaub-arbeitgeber",
+      "kategorie": "lohn-ausfall",
+      "titel": "Urlaub gewähren",
+      "icon": "🏖️",
+      "teaser": "Mindestens 24 Werktage Urlaub im Jahr, voller Anspruch nach sechs Monaten. Das gilt auch für Minijobber und Haushaltshilfen.",
+      "schlagworte": [
+        "Urlaub",
+        "Mindesturlaub",
+        "24 Werktage",
+        "Wartezeit",
+        "Bundesurlaubsgesetz",
+        "Minijob",
+        "Teilzeit"
+      ],
+      "kurz_html": "<p>Jede Arbeitnehmerin hat Anspruch auf bezahlten Urlaub. Das Gesetz sieht mindestens 24 Werktage im Jahr vor. Werktage sind alle Tage außer Sonn- und Feiertagen. Das gilt bei einer Sechs-Tage-Woche. Bei weniger Arbeitstagen rechnet man den Anspruch um.</p><p>Den vollen Anspruch erwirbt man nach sechs Monaten im Arbeitsverhältnis.</p><p>Auch Minijobber und Haushaltshilfen haben Urlaub. Im Vertrag dürfen Sie mehr Urlaub vereinbaren, aber nicht weniger.</p><p>Im Nachweis nach dem Nachweisgesetz muss der Urlaub genannt werden.</p>",
+      "schritte": [
+        {
+          "titel": "Anspruch berechnen",
+          "text": "24 Werktage bei sechs Arbeitstagen pro Woche; bei fünf Arbeitstagen 20 Tage (Umrechnung Fachteil)."
+        },
+        {
+          "titel": "Urlaub im Vertrag festhalten",
+          "text": "Anzahl der Tage im schriftlichen Nachweis angeben."
+        },
+        {
+          "titel": "Urlaubswünsche abstimmen",
+          "text": "Wünsche der Beschäftigten berücksichtigen, außer dringende betriebliche Gründe stehen entgegen."
+        },
+        {
+          "titel": "Urlaub dokumentieren",
+          "text": "Genommene Tage und Resturlaub aufschreiben."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "24 Werktage",
+          "was": "Gesetzlicher Mindesturlaub pro Kalenderjahr",
+          "grundlage": "§ 3 Abs. 1 BUrlG"
+        },
+        {
+          "wert": "sechs Monate",
+          "was": "Wartezeit bis zum vollen Urlaubsanspruch",
+          "grundlage": "§ 4 BUrlG"
+        }
+      ],
+      "achtung": [
+        "Mehr Urlaub als 24 Werktage kann im Vertrag oder Tarifvertrag stehen.",
+        "Werktage im Sinne des Gesetzes sind alle Kalendertage außer Sonn- und gesetzlichen Feiertagen (§ 3 Abs. 2 BUrlG).",
+        "Urlaub muss im laufenden Kalenderjahr genommen werden und verfällt sonst; Übertragung nur bei dringenden betrieblichen oder persönlichen Gründen, dann in die ersten drei Monate des Folgejahres (§ 7 Abs. 3 BUrlG); Abgeltung bei Beendigung des Arbeitsverhältnisses (§ 7 Abs. 4). Die Hinweisobliegenheit des Arbeitgebers nach EuGH und BAG sowie die Umrechnung bei Teilzeit wurden nicht ausgewertet; sie sind streitanfällig.",
+        "Urlaub darf nicht durch Vertrag unter den Mindesturlaub gedrückt werden."
+      ],
+      "fach_html": "<h3>Anspruch</h3><p>§ 3 Abs. 1 BUrlG: „Der Urlaub beträgt jährlich mindestens 24 Werktage.“ Werktage sind nach Abs. 2 alle Kalendertage, die nicht Sonn- oder gesetzliche Feiertage sind. Die Regelung geht von einer Sechs-Tage-Woche aus; bei anderer Verteilung wird der Anspruch umgerechnet (gängige Praxis: 24 geteilt durch sechs mal Arbeitstage pro Woche, etwa 20 Tage bei fünf Arbeitstagen). Diese Umrechnung ist hier nicht aus dem Gesetzestext belegt.</p><h3>Wartezeit</h3><p>§ 4 BUrlG: „Der volle Urlaubsanspruch wird erstmalig nach sechsmonatigem Bestehen des Arbeitsverhältnisses erworben.“ Teilurlaub bei kürzerer Beschäftigung (§ 5 BUrlG) wurde nicht ausgewertet.</p><h3>Verfall, Übertragung, Abgeltung (§ 7 BUrlG)</h3><p>Nach Abs. 3 muss der Urlaub im laufenden Kalenderjahr gewährt und genommen werden. Eine Übertragung auf das nächste Kalenderjahr ist nur bei dringenden betrieblichen oder in der Person des Arbeitnehmers liegenden Gründen zulässig; dann muss der Urlaub in den ersten drei Monaten des Folgejahres gewährt und genommen werden. Nach Abs. 4 ist der Urlaub abzugelten, wenn er wegen Beendigung des Arbeitsverhältnisses nicht mehr gewährt werden kann.</p><h3>Nicht ausgewertet</h3><p>Rechtsprechung des Europäischen Gerichtshofs und des Bundesarbeitsgerichts zum Verfall bei fehlender Hinweisobliegenheit des Arbeitgebers. Lassen Sie sich hierzu bei Bedarf beraten, da fehlende Hinweise des Arbeitgebers zu Nachforderungen führen können.</p>",
+      "zustaendig": [
+        "Arbeitgeberverband oder IHK/Handwerkskammer",
+        "Rechtsanwält:innen für Arbeitsrecht",
+        "Arbeitsgericht bei Streit"
+      ],
+      "belege": [
+        "BUrlG § 3, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "BUrlG § 4, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "NachwG § 2, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "BUrlG § 7, gesetze-im-internet.de, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "krankheit-entgeltfortzahlung-u1-u2",
+        "arbeitsvertrag-nachweisgesetz"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "krankheit-entgeltfortzahlung-u1-u2",
+      "kategorie": "lohn-ausfall",
+      "titel": "Krankheit, Entgeltfortzahlung und Umlagen U1/U2",
+      "icon": "🤒",
+      "teaser": "Bis zu sechs Wochen Lohn bei Krankheit nach vier Wochen Beschäftigung. Kleine Arbeitgeber können sich über die Umlagen U1 und U2 einen Teil erstatten lassen.",
+      "schlagworte": [
+        "Entgeltfortzahlung",
+        "Krankheit",
+        "Krankmeldung",
+        "U1",
+        "U2",
+        "Umlage",
+        "Mutterschaft",
+        "AU-Bescheinigung"
+      ],
+      "kurz_html": "<p>Wird Ihre Mitarbeiterin krank, zahlen Sie den Lohn bis zu sechs Wochen weiter. Der Anspruch entsteht nach vier Wochen im Arbeitsverhältnis.</p><p>Die kranke Person muss sich unverzüglich melden. Dauert die Krankheit länger als drei Kalendertage, muss sie eine ärztliche Bescheinigung spätestens am folgenden Arbeitstag vorlegen. Sie dürfen die Bescheinigung auch früher verlangen.</p><p>Kleine Arbeitgeber (bis 30 Beschäftigte) nehmen am Umlageverfahren U1 teil: Sie zahlen einen kleinen Beitrag und bekommen einen Teil des fortgezahlten Lohns erstattet. Die U2 erstattet Kosten bei Mutterschaft und gilt für alle Arbeitgeber.</p><p>Bei Minijobs übernimmt das die Minijob-Zentrale.</p>",
+      "schritte": [
+        {
+          "titel": "Krankmeldung entgegennehmen",
+          "text": "Unverzügliche Mitteilung und voraussichtliche Dauer festhalten."
+        },
+        {
+          "titel": "Bescheinigung prüfen",
+          "text": "Nach mehr als drei Kalendertagen liegt die ärztliche Bescheinigung spätestens am Folgetag vor."
+        },
+        {
+          "titel": "Lohn weiterzahlen",
+          "text": "Bis zu sechs Wochen, nach vier Wochen Beschäftigung."
+        },
+        {
+          "titel": "Erstattung beantragen",
+          "text": "Bei Teilnahme an U1/U2 online über Abrechnungsprogramm oder SV-Meldeportal beantragen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "sechs Wochen",
+          "was": "Dauer der Entgeltfortzahlung bei derselben Krankheit",
+          "grundlage": "§ 3 Abs. 1 EntgFG"
+        },
+        {
+          "wert": "vier Wochen",
+          "was": "Wartezeit ab Beginn des Arbeitsverhältnisses",
+          "grundlage": "§ 3 Abs. 3 EntgFG"
+        },
+        {
+          "wert": "länger als drei Kalendertage",
+          "was": "Bescheinigung spätestens am darauffolgenden Arbeitstag",
+          "grundlage": "§ 5 Abs. 1 EntgFG"
+        },
+        {
+          "wert": "bis 30 Beschäftigte",
+          "was": "Teilnahme an U1 (ohne Auszubildende; Feststellung nach § 3 AAG)",
+          "grundlage": "§ 1 Abs. 1, § 3 AAG"
+        }
+      ],
+      "achtung": [
+        "Bei erneuter Krankheit wegen derselben Krankheit bleibt der Anspruch nur bei mindestens sechs Monaten Arbeitsfähigkeit dazwischen oder zwölf Monaten seit Beginn der ersten Erkrankung erhalten (§ 3 Abs. 1 EntgFG).",
+        "U1-Erstattung: nach § 1 Abs. 1 AAG 80 Prozent (Arbeitgeber bis 30 Arbeitnehmer ohne Auszubildende); die Satzung kann sie beschränken, mindestens auf 40 Prozent (§ 9 Abs. 2 Nr. 1 AAG). 50, 70 und 80 Prozent sind die Wahlsätze der Kassensatzungen. Minijob-Zentrale: U1 80 Prozent, U2 100 Prozent.",
+        "Die U1 wurde für Minijobs zum 01.01.2026 von 1,1 auf 0,8 Prozent gesenkt (Minijob Magazin).",
+        "Die elektronische Krankmeldung (eAU) und das Abrufverfahren wurden hier nicht ausgewertet."
+      ],
+      "fach_html": "<h3>Entgeltfortzahlung (EntgFG)</h3><p>§ 3 Abs. 1 EntgFG: Arbeitnehmer haben Anspruch auf Entgeltfortzahlung im Krankheitsfall durch den Arbeitgeber für die Zeit der Arbeitsunfähigkeit bis zur Dauer von sechs Wochen. Nach Abs. 3 entsteht der Anspruch nach vierwöchiger ununterbrochener Dauer des Arbeitsverhältnisses. Zur Höhe (§ 4 EntgFG): Abs. 1 Entgeltausfallprinzip, fortzuzahlen ist das für die regelmäßige Arbeitszeit zustehende Arbeitsentgelt (100 Prozent); nach Abs. 1a gehören Überstundenentgelt und aufwandsabhängige Leistungen nicht dazu.</p><h3>Anzeige und Nachweis (§ 5 Abs. 1)</h3><p>Die Arbeitsunfähigkeit und deren voraussichtliche Dauer sind unverzüglich mitzuteilen. Dauert sie länger als drei Kalendertage, ist eine ärztliche Bescheinigung spätestens an dem darauffolgenden Arbeitstag vorzulegen; der Arbeitgeber ist berechtigt, sie früher zu verlangen.</p><h3>Ausgleichsverfahren U1 und U2</h3><p>Nach § 1 Abs. 1 AAG nehmen Arbeitgeber mit in der Regel nicht mehr als 30 Arbeitnehmern (ohne Auszubildende) an der U1 teil; die U2 gilt für alle Arbeitgeber (§ 1 Abs. 2 AAG). Die Umlagesätze legt die jeweilige Krankenkasse in der Satzung fest; die Teilnahme wird nach § 3 AAG zu Beginn des Kalenderjahres festgestellt: maßgeblich ist, ob im Vorjahr in mindestens acht Kalendermonaten nicht mehr als 30 Arbeitnehmer beschäftigt waren. Teilzeitkräfte zählen mit 0,25 (bis 10 Wochenstunden), 0,5 (bis 20) und 0,75 (bis 30); Schwerbehinderte bleiben außer Ansatz. Diese Faktoren weichen vom Kündigungsschutzgesetz ab (dort 0,5 und 0,75). Die U2 erstattet nach § 1 Abs. 2 AAG die Aufwendungen bei Mutterschaft in vollem Umfang, bei allen Krankenkassen. Erstattungsanträge sind nur online zu stellen. Rechtsgrundlage ist das Aufwendungsausgleichsgesetz (AAG).</p><h3>Minijobs</h3><p>Die Minijob-Zentrale führt das Verfahren für geringfügig Beschäftigte; U1 0,8 Prozent, U2 0,22 Prozent (Minijob Magazin bzw. Minijob-Zentrale). Erstattung bei der Minijob-Zentrale: U1 80 Prozent, U2 100 Prozent.</p>",
+      "zustaendig": [
+        "Krankenkasse der Beschäftigten bzw. Krankenkasse mit Umlageverfahren",
+        "Minijob-Zentrale bei Minijobs",
+        "Arbeitsgericht bei Streit"
+      ],
+      "belege": [
+        "EntgFG §§ 3, 4, 5, AAG §§ 1, 3, 9, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "Techniker Krankenkasse Firmenkunden, Entgeltfortzahlungsversicherung U1/U2, abgerufen 20.09.2026",
+        "Minijob Magazin, Minijob 2026 (U1 auf 0,8 Prozent), abgerufen 20.09.2026",
+        "Minijob-Zentrale, Abgaben bei Haushaltshilfen, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "urlaub-arbeitgeber",
+        "minijob-midijob-2026",
+        "kuendigung-kleinbetrieb"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "kuendigung-kleinbetrieb",
+      "kategorie": "trennung",
+      "titel": "Kündigung im Kleinbetrieb",
+      "icon": "✂️",
+      "teaser": "Kündigung nur schriftlich, mit Frist. Der volle Kündigungsschutz greift erst in größeren Betrieben. Kleinbetriebe haben Erleichterungen, aber nicht völlige Freiheit.",
+      "schlagworte": [
+        "Kündigung",
+        "Kündigungsschutzgesetz",
+        "Kleinbetrieb",
+        "Schwellenwert",
+        "Probezeit",
+        "Kündigungsfrist",
+        "Klagefrist"
+      ],
+      "kurz_html": "<p>Eine Kündigung muss immer schriftlich sein, mit eigenhändiger Unterschrift. E-Mail reicht nicht.</p><p>Das Kündigungsschutzgesetz gilt, wenn das Arbeitsverhältnis länger als sechs Monate bestanden hat (§ 1 Abs. 1). In Kleinbetrieben gilt sein erster Abschnitt weitgehend nicht (§ 23 Abs. 1): Bei in der Regel fünf oder weniger Beschäftigten gilt er nicht, mit Ausnahme der §§ 4 bis 7 und des § 13 Abs. 1 Satz 1 und 2 (unter anderem die Klagefrist). Bei in der Regel zehn oder weniger gilt das für Beschäftigte, deren Arbeitsverhältnis nach dem 31.12.2003 begonnen hat; diese werden bei der Zählung bis zehn Arbeitnehmer nicht mitgezählt. Teilzeit zählt anteilig.</p><p>Auch im Kleinbetrieb muss eine Kündigung fair sein, zum Beispiel nicht diskriminierend oder Racheakt. Die Beschäftigte kann innerhalb von drei Wochen nach Zugang Klage erheben.</p><p>In der Probezeit (höchstens sechs Monate) gilt eine Frist von zwei Wochen.</p>",
+      "schritte": [
+        {
+          "titel": "Betriebsgröße zählen",
+          "text": "Zählen Sie die Beschäftigten (ohne Auszubildende), Teilzeit anteilig."
+        },
+        {
+          "titel": "Frist prüfen",
+          "text": "Probezeit: zwei Wochen. Sonst gesetzliche oder vertragliche Frist (Fachteil)."
+        },
+        {
+          "titel": "Schriftlich kündigen",
+          "text": "Unterschriebene Kündigung, Zugang beweisbar übergeben."
+        },
+        {
+          "titel": "Sonderschutz prüfen",
+          "text": "Schwangere, Schwerbehinderte, Elternzeit usw. haben Sonderkündigungsschutz; vorher beraten lassen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "fünf oder weniger / zehn oder weniger",
+          "was": "Schwellen für Kündigungsschutz (zehn nur für Arbeitsverhältnisse ab 01.01.2004)",
+          "grundlage": "§ 23 Abs. 1 Satz 2 und 3 KSchG"
+        },
+        {
+          "wert": "zwei Wochen",
+          "was": "Kündigungsfrist in der vereinbarten Probezeit (höchstens sechs Monate)",
+          "grundlage": "§ 622 Abs. 3 BGB"
+        },
+        {
+          "wert": "vier Wochen",
+          "was": "Mindestfrist, wenn im Betrieb bis 20 Beschäftigte eine kürzere Frist vereinbart wird",
+          "grundlage": "§ 622 Abs. 5 BGB"
+        },
+        {
+          "wert": "drei Wochen",
+          "was": "Klagefrist für Beschäftigte nach Zugang der Kündigung",
+          "grundlage": "§ 4 Satz 1 KSchG"
+        }
+      ],
+      "achtung": [
+        "Kündigung nur schriftlich; die elektronische Form ist ausgeschlossen (§ 623 BGB).",
+        "Auch im Kleinbetrieb bleiben die §§ 4 bis 7 KSchG anwendbar, also gilt die Dreiwochenfrist zur Klage (§ 23 Abs. 1 KSchG).",
+        "Sonderkündigungsschutz (Schwangerschaft, Elternzeit, Schwerbehinderung, Pflegezeit) und Diskriminierungsverbote gelten unabhängig von der Betriebsgröße; hier nicht ausgewertet.",
+        "Die Grundfrist nach § 622 Abs. 1 BGB beträgt vier Wochen zum 15. oder zum Monatsende. Die längeren Fristen nach Betriebszugehörigkeit (Abs. 2) wurden nicht im Wortlaut ausgewertet."
+      ],
+      "fach_html": "<h3>Kündigungsschutzgesetz</h3><p>§ 1 Abs. 1 KSchG: Eine Kündigung gegenüber einem Arbeitnehmer, dessen Arbeitsverhältnis in demselben Betrieb oder Unternehmen ohne Unterbrechung länger als sechs Monate bestanden hat, ist rechtsunwirksam, wenn sie sozial ungerechtfertigt ist. Sozial gerechtfertigt sind Gründe in der Person, im Verhalten oder dringende betriebliche Erfordernisse (Abs. 2 Satz 1).</p><h3>Kleinbetriebsklausel (§ 23 Abs. 1 KSchG)</h3><p>Satz 2: Der erste Abschnitt gilt mit Ausnahme der §§ 4 bis 7 und des § 13 Abs. 1 Satz 1 und 2 nicht für Betriebe, in denen in der Regel fünf oder weniger Arbeitnehmer ausschließlich der zu ihrer Berufsbildung Beschäftigten beschäftigt werden. Satz 3: In Betrieben mit in der Regel zehn oder weniger Arbeitnehmern gilt dies für Arbeitnehmer, deren Arbeitsverhältnis nach dem 31.12.2003 begonnen hat. Arbeitnehmer, deren Arbeitsverhältnis nach dem 31.12.2003 begonnen hat, werden bei der Zählung nach Satz 2 bis zur Beschäftigung von in der Regel zehn Arbeitnehmern nicht mitgezählt (Satz 3 zweiter Halbsatz). Teilzeitbeschäftigte zählen bei bis zu 20 Wochenstunden mit 0,5 und bei bis zu 30 Wochenstunden mit 0,75. Die Frage, wie „in der Regel“ und „Betrieb“ auszulegen sind, sowie die verfassungsrechtlichen Mindestanforderungen an Kündigungen im Kleinbetrieb (Rechtsprechung des Bundesverfassungsgerichts und Bundesarbeitsgerichts) wurden in dieser Recherche nicht aus Primärquellen ausgewertet.</p><h3>Form und Klagefrist</h3><p>§ 623 BGB: Kündigung und Auflösungsvertrag bedürfen der Schriftform, die elektronische Form ist ausgeschlossen. § 4 Satz 1 KSchG: Klage auf Feststellung innerhalb von drei Wochen nach Zugang der schriftlichen Kündigung.</p><h3>Fristen (§ 622 BGB)</h3><p>Die Grundfrist beträgt vier Wochen zum 15. oder zum Ende eines Kalendermonats (Abs. 1). Während einer vereinbarten Probezeit, längstens sechs Monate, gilt eine Frist von zwei Wochen (Abs. 3). Arbeitgeber mit in der Regel nicht mehr als 20 Beschäftigten (ohne Auszubildende; Teilzeit mit 0,5 bzw. 0,75) können einzelvertraglich kürzere Fristen vereinbaren, die vier Wochen nicht unterschreiten (Abs. 5). Bei einer zur vorübergehenden Aushilfe eingestellten Person kann einzelvertraglich eine kürzere Frist vereinbart werden, solange das Arbeitsverhältnis nicht über drei Monate hinaus fortgesetzt wird (Abs. 5 Satz 1 Nr. 1).</p>",
+      "zustaendig": [
+        "Rechtsanwält:innen für Arbeitsrecht (vor Ausspruch der Kündigung)",
+        "Arbeitgeberverband oder IHK/Handwerkskammer",
+        "Arbeitsgericht"
+      ],
+      "belege": [
+        "KSchG §§ 1, 4, 23, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "BGB § 622, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "BGB § 623, gesetze-im-internet.de, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "befristung-arbeitsvertrag",
+        "arbeitsvertrag-nachweisgesetz",
+        "beratung-anlaufstellen"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "befristung-arbeitsvertrag",
+      "kategorie": "trennung",
+      "titel": "Befristete Arbeitsverträge",
+      "icon": "⏳",
+      "teaser": "Befristung mit oder ohne Sachgrund: Bis zwei Jahre ohne Grund, höchstens dreimal verlängerbar. Wichtig: Schriftform vor Arbeitsbeginn.",
+      "schlagworte": [
+        "Befristung",
+        "Sachgrund",
+        "zwei Jahre",
+        "TzBfG",
+        "Verlängerung",
+        "Schriftform",
+        "Neugründung"
+      ],
+      "kurz_html": "<p>Sie können einen Arbeitsvertrag befristen. Das geht auf zwei Wegen.</p><ul><li>Mit sachlichem Grund, zum Beispiel Vertretung, vorübergehender Bedarf oder Erprobung.</li><li>Ohne Grund für höchstens zwei Jahre. Innerhalb dieser zwei Jahre ist eine Verlängerung höchstens dreimal erlaubt.</li></ul><p>Ohne Grund geht es nicht, wenn die Person schon einmal bei Ihnen gearbeitet hat.</p><p>Die Befristung muss schriftlich vereinbart sein, sonst ist sie unwirksam.</p><p>Neu gegründete Unternehmen haben in den ersten vier Jahren mehr Spielraum.</p>",
+      "schritte": [
+        {
+          "titel": "Grund prüfen",
+          "text": "Gibt es einen Sachgrund (z. B. Vertretung)? Wenn nicht: Zwei-Jahres-Regel."
+        },
+        {
+          "titel": "Vorbeschäftigung prüfen",
+          "text": "Hatte die Person schon ein Arbeitsverhältnis bei Ihnen? Dann ist die sachgrundlose Befristung meist nicht möglich."
+        },
+        {
+          "titel": "Schriftlich vereinbaren",
+          "text": "Befristungsabrede schriftlich, vor Beginn der Arbeit unterschreiben."
+        },
+        {
+          "titel": "Verlängerung planen",
+          "text": "Höchstens dreimal verlängern, Gesamtdauer zwei Jahre."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "zwei Jahre",
+          "was": "Höchstdauer der Befristung ohne Sachgrund, bis zu dreimal verlängerbar",
+          "grundlage": "§ 14 Abs. 2 TzBfG"
+        },
+        {
+          "wert": "vier Jahre",
+          "was": "Höchstdauer in den ersten vier Jahren nach Unternehmensgründung",
+          "grundlage": "§ 14 Abs. 2a TzBfG"
+        },
+        {
+          "wert": "fünf Jahre",
+          "was": "Befristung bei Arbeitnehmern ab vollendetem 52. Lebensjahr nach mindestens vier Monaten Beschäftigungslosigkeit",
+          "grundlage": "§ 14 Abs. 3 TzBfG"
+        }
+      ],
+      "achtung": [
+        "Ohne Schriftform der Befristung entsteht ein unbefristetes Arbeitsverhältnis (§ 14 Abs. 4 TzBfG; Rechtsfolge § 16 TzBfG nicht ausgewertet).",
+        "Sachgrundlose Befristung ist ausgeschlossen bei vorherigem Arbeitsverhältnis mit demselben Arbeitgeber (§ 14 Abs. 2).",
+        "Die Voraussetzungen von Abs. 2a (Neugründung) und Abs. 3 (ältere Arbeitnehmer) sind an Bedingungen geknüpft, die im Gesetz nachzulesen sind.",
+        "Ein befristetes Arbeitsverhältnis endet ohne Kündigung; die Möglichkeit der ordentlichen Kündigung muss vereinbart sein (nicht ausgewertet)."
+      ],
+      "fach_html": "<h3>Sachgründe (§ 14 Abs. 1 TzBfG)</h3><p>Eine Befristung ist zulässig, wenn sie durch einen sachlichen Grund gerechtfertigt ist. Genannt werden unter anderem: vorübergehender betrieblicher Bedarf, Anschluss an Ausbildung oder Studium, Vertretung, Eigenart der Arbeitsleistung, Erprobung, in der Person des Arbeitnehmers liegende Gründe, Haushaltsmittel, gerichtlicher Vergleich.</p><h3>Ohne Sachgrund (Abs. 2)</h3><p>„Die kalendermäßige Befristung eines Arbeitsvertrages ohne Vorliegen eines sachlichen Grundes ist bis zur Dauer von zwei Jahren zulässig; bis zu dieser Gesamtdauer von zwei Jahren ist auch die höchstens dreimalige Verlängerung eines kalendermäßig befristeten Arbeitsvertrages zulässig.“ Nicht möglich, wenn bereits zuvor ein Arbeitsverhältnis mit demselben Arbeitgeber bestanden hat.</p><h3>Neugründung (Abs. 2a)</h3><p>In den ersten vier Jahren nach Gründung des Unternehmens ist die kalendermäßige Befristung ohne Sachgrund bis zur Dauer von vier Jahren zulässig, mit mehrfacher Verlängerung innerhalb dieser Gesamtdauer. Umstrukturierungen sind ausgenommen.</p><h3>Ältere Arbeitnehmer (Abs. 3)</h3><p>Bis zu fünf Jahre sind möglich bei Arbeitnehmern, die bei Beginn des befristeten Arbeitsverhältnisses das 52. Lebensjahr vollendet haben und unmittelbar zuvor mindestens vier Monate beschäftigungslos waren, Transferkurzarbeitergeld bezogen oder an einer geförderten Beschäftigungsmaßnahme teilgenommen haben.</p><h3>Schriftform (Abs. 4)</h3><p>Die Befristung eines Arbeitsvertrages bedarf zu ihrer Wirksamkeit der Schriftform. Weitere Vorschriften des TzBfG (Informationspflichten, Klagefrist) wurden nicht ausgewertet.</p>",
+      "zustaendig": [
+        "Rechtsanwält:innen für Arbeitsrecht",
+        "Arbeitgeberverband oder IHK/Handwerkskammer",
+        "Arbeitsgericht"
+      ],
+      "belege": [
+        "TzBfG § 14, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "NachwG § 2 (Dauer der Befristung als Pflichtangabe), gesetze-im-internet.de, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "kuendigung-kleinbetrieb",
+        "arbeitsvertrag-nachweisgesetz"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "arbeitszeiterfassung-pflicht",
+      "kategorie": "betrieb",
+      "titel": "Arbeitszeiterfassung",
+      "icon": "⏱️",
+      "teaser": "Seit dem BAG-Beschluss vom 13.09.2022 müssen Arbeitgeber Arbeitsbeginn und -ende erfassen. Ein Gesetzentwurf zur Arbeitszeitreform liegt vor, ist aber nicht in Kraft.",
+      "schlagworte": [
+        "Arbeitszeiterfassung",
+        "Zeiterfassung",
+        "Stechuhr",
+        "Bundesarbeitsgericht",
+        "Arbeitsschutzgesetz",
+        "Arbeitszeitgesetz",
+        "Referentenentwurf"
+      ],
+      "kurz_html": "<p>Nach einem Beschluss des Bundesarbeitsgerichts vom 13. September 2022 müssen Arbeitgeber ein System einführen, mit dem sie die geleistete Arbeitszeit erfassen. Das gilt auch für kleine Betriebe.</p><p>Wie Sie erfassen, ist Ihnen überlassen. Eine Zettelliste kann reichen; elektronisch muss es nicht sein. Wichtig: Beginn und Ende der täglichen Arbeit.</p><p>Es gibt Pläne, das Arbeitszeitgesetz zu ändern und die elektronische Erfassung ausdrücklich vorzuschreiben. Bisher ist das ein Entwurf, kein Gesetz. Kleinstbetriebe sollen nach dem Entwurf Ausnahmen bekommen.</p><p>Unabhängig davon gilt der Mindestlohn: Für Minijobs und bestimmte Branchen müssen Sie Beginn, Ende und Dauer aufschreiben.</p>",
+      "schritte": [
+        {
+          "titel": "System wählen",
+          "text": "Papierliste, Tabelle oder App: Beginn und Ende der Arbeitszeit pro Tag."
+        },
+        {
+          "titel": "Zuständigkeit festlegen",
+          "text": "Beschäftigte dürfen selbst aufzeichnen, Sie bleiben verantwortlich."
+        },
+        {
+          "titel": "Aufbewahren",
+          "text": "Für den Mindestlohn mindestens zwei Jahre."
+        },
+        {
+          "titel": "Entwicklung beobachten",
+          "text": "Gesetzgebung zur Arbeitszeit verfolgen; Entwurf ist nicht geltendes Recht."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "13.09.2022",
+          "was": "BAG-Beschluss 1 ABR 22/21: Pflicht zur Erfassung nach § 3 Abs. 2 Nr. 1 ArbSchG",
+          "grundlage": "BAG, 1 ABR 22/21"
+        },
+        {
+          "wert": "sieben Tage / zwei Jahre",
+          "was": "Aufzeichnung nach § 17 MiLoG",
+          "grundlage": "§ 17 MiLoG"
+        },
+        {
+          "wert": "bis 30.000 Euro",
+          "was": "Bußgeld bei Missachtung einer behördlichen Anordnung (Angabe IHK Rhein-Neckar)",
+          "grundlage": "IHK Rhein-Neckar"
+        }
+      ],
+      "achtung": [
+        "Ein direkter Verstoß gegen die Erfassungspflicht ist laut IHK derzeit nicht unmittelbar bußgeldbewehrt; Bußgelder drohen bei Missachtung behördlicher Anordnungen.",
+        "Das Referentenentwurf-Stadium (bekannt seit 18.06.2026 laut Sekundärquellen) ist ungewiss; das Kabinett hat laut Quellen noch nicht entschieden. Änderungen sind möglich.",
+        "Der Entwurf sieht laut Sekundärquellen eine dauerhafte Ausnahme von der elektronischen Erfassung für Betriebe bis zehn Beschäftigte vor; das ist keine geltende Regel.",
+        "Die geltende Pflicht aus § 3 Abs. 2 Nr. 1 ArbSchG (BAG) kennt keine Ausnahme für leitende Angestellte; eine Bereichsausnahme (§ 18 ArbZG) ist nur im Entwurf geplant und kein geltendes Recht."
+      ],
+      "fach_html": "<h3>Geltendes Recht</h3><p>Das Bundesarbeitsgericht entschied am 13.09.2022 (1 ABR 22/21), dass Arbeitgeber nach § 3 Abs. 2 Nr. 1 ArbSchG verpflichtet sind, ein System einzuführen, mit dem die von den Arbeitnehmern geleistete Arbeitszeit erfasst wird; die Pflicht ergibt sich aus unionsrechtskonformer Auslegung. Im entschiedenen Fall verneinte das Gericht ein Initiativrecht des Betriebsrats zur Einführung eines elektronischen Systems nach § 87 Abs. 1 Nr. 6 BetrVG. Die Ausgestaltung (Papier oder elektronisch) bleibt dem Arbeitgeber überlassen, so die Darstellung der IHK Rhein-Neckar.</p><h3>Mindestlohn-Aufzeichnung</h3><p>Unabhängig davon verlangt § 17 MiLoG in den dort genannten Fällen die Aufzeichnung von Beginn, Ende und Dauer der täglichen Arbeitszeit bis zum siebten Folgetag mit zwei Jahren Aufbewahrung.</p><h3>Geplante Reform (kein geltendes Recht)</h3><p>Nach Sekundärquellen (Anwaltskanzleien, Softwareanbieter, Handwerksblatt) wurde am 18.06.2026 ein Referentenentwurf des Bundesarbeitsministeriums zur Änderung des Arbeitszeitgesetzes bekannt, mit allgemeiner Pflicht zur elektronischen Aufzeichnung, Übergangsfristen von einem, zwei oder fünf Jahren und dauerhafter Ausnahme für Betriebe bis zehn Beschäftigte. Ein Kabinettsbeschluss stand nach diesen Quellen im September 2026 aus. Der Entwurf wurde nicht als Primärquelle geprüft.</p>",
+      "zustaendig": [
+        "Landesbehörden für Arbeitsschutz (Aufsicht)",
+        "IHK oder Handwerkskammer",
+        "Zoll (Kontrolle nach MiLoG)"
+      ],
+      "belege": [
+        "Bundesarbeitsgericht, Entscheidung 1 ABR 22/21 (bundesarbeitsgericht.de), abgerufen 20.09.2026",
+        "IHK Rhein-Neckar, Arbeitszeiterfassung 2026, abgerufen 20.09.2026",
+        "MiLoG § 17, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "Sekundärquellen zum Referentenentwurf (u. a. Kliemt.blog, Handwerksblatt), abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "mindestlohn-2026",
+        "datenschutz-betriebsrat"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "datenschutz-betriebsrat",
+      "kategorie": "betrieb",
+      "titel": "Datenschutz und Betriebsrat",
+      "icon": "🔒",
+      "teaser": "Beschäftigtendaten dürfen nur verarbeitet werden, wenn es erforderlich ist. Betriebsräte gibt es ab fünf ständigen wahlberechtigten Arbeitnehmern; Datenschutzbeauftragte ab 20 Personen.",
+      "schlagworte": [
+        "Datenschutz",
+        "Beschäftigtendatenschutz",
+        "BDSG",
+        "Betriebsrat",
+        "Datenschutzbeauftragter",
+        "Mitbestimmung",
+        "Personalakte"
+      ],
+      "kurz_html": "<p>Sie erfassen Namen, Adresse, Bankdaten, Krankmeldungen. Das sind personenbezogene Daten. Sie dürfen diese nur nutzen, wenn es für das Arbeitsverhältnis nötig ist, zum Beispiel für Bewerbung, Durchführung oder Beendigung.</p><p>Gehen Sie sparsam mit den Daten um. Bewahren Sie Personalunterlagen verschlossen oder zugriffsgeschützt auf.</p><p>Ein Datenschutzbeauftragter ist nötig, wenn in der Regel mindestens 20 Personen ständig mit automatisierter Datenverarbeitung beschäftigt sind.</p><p>Ein Betriebsrat kann gewählt werden, wenn im Betrieb in der Regel mindestens fünf ständige wahlberechtigte Arbeitnehmer arbeiten, von denen drei wählbar sind. Sie dürfen die Wahl nicht behindern.</p>",
+      "schritte": [
+        {
+          "titel": "Daten sortieren",
+          "text": "Welche Daten haben Sie? Wozu brauchen Sie sie? Überflüssiges löschen."
+        },
+        {
+          "titel": "Zugriff schützen",
+          "text": "Personalakten und Lohndaten nur für Berechtigte zugänglich halten."
+        },
+        {
+          "titel": "Schwellen prüfen",
+          "text": "Zählen Sie Ihre Beschäftigten für Betriebsrat und Datenschutzbeauftragten."
+        },
+        {
+          "titel": "Bei Video und Ortung beraten lassen",
+          "text": "Überwachung von Beschäftigten ist besonders heikel."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "mindestens fünf Arbeitnehmer",
+          "was": "Betriebsrat: fünf ständige wahlberechtigte, davon drei wählbar",
+          "grundlage": "§ 1 Abs. 1 BetrVG"
+        },
+        {
+          "wert": "mindestens 20 Personen",
+          "was": "Pflicht zum Datenschutzbeauftragten bei ständiger automatisierter Verarbeitung",
+          "grundlage": "§ 38 Abs. 1 BDSG"
+        }
+      ],
+      "achtung": [
+        "§ 38 Abs. 1 BDSG verlangt einen Datenschutzbeauftragten unabhängig von der Beschäftigtenzahl auch bei Verarbeitungen, die eine Datenschutz-Folgenabschätzung erfordern.",
+        "Datenschutzregeln gelten auch für kleine Betriebe und den Privathaushalt als Arbeitgeber; die Datenschutz-Grundverordnung wurde hier nicht im Wortlaut ausgewertet.",
+        "Betriebsräte haben Mitbestimmungsrechte, unter anderem bei technischen Einrichtungen zur Überwachung (§ 87 Abs. 1 Nr. 6 BetrVG, im BAG-Beschluss genannt).",
+        "Aufbewahrungs- und Löschfristen für Personalunterlagen wurden nicht ausgewertet."
+      ],
+      "fach_html": "<h3>Beschäftigtendatenschutz (§ 26 BDSG)</h3><p>§ 26 Abs. 1 Satz 1 BDSG: Personenbezogene Daten von Beschäftigten dürfen für Zwecke des Beschäftigungsverhältnisses verarbeitet werden, wenn dies für die Entscheidung über die Begründung eines Beschäftigungsverhältnisses oder nach Begründung für dessen Durchführung oder Beendigung oder zur Ausübung oder Erfüllung der sich aus einem Gesetz, Tarifvertrag oder einer Betriebs- oder Dienstvereinbarung ergebenden Rechte und Pflichten der Interessenvertretung der Beschäftigten erforderlich ist. Weitere Absätze (Einwilligung, besondere Datenkategorien) und die Auswirkungen der Rechtsprechung des Europäischen Gerichtshofs auf § 26 wurden nicht ausgewertet.</p><h3>Datenschutzbeauftragter (§ 38 Abs. 1 BDSG)</h3><p>Zu benennen, soweit in der Regel mindestens 20 Personen ständig mit der automatisierten Verarbeitung personenbezogener Daten beschäftigt werden; außerdem bei Verarbeitungen, die einer Datenschutz-Folgenabschätzung unterliegen, oder bei geschäftsmäßiger Übermittlung bzw. Markt- und Meinungsforschung, unabhängig von der Personenzahl.</p><h3>Betriebsrat (§ 1 Abs. 1 BetrVG)</h3><p>„In Betrieben mit in der Regel mindestens fünf ständigen wahlberechtigten Arbeitnehmern, von denen drei wählbar sind, werden Betriebsräte gewählt.“ Ob Familienangehörige mitzählen und wie mit Privathaushalten umzugehen ist, wurde nicht geprüft; § 5 BetrVG (Arbeitnehmerbegriff) nicht abgerufen.</p>",
+      "zustaendig": [
+        "Datenschutzaufsichtsbehörde des jeweiligen Bundeslandes",
+        "IHK oder Handwerkskammer",
+        "Rechtsanwält:innen für Arbeits- und Datenschutzrecht"
+      ],
+      "belege": [
+        "BDSG §§ 26, 38, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "BetrVG § 1, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "Bundesarbeitsgericht, 1 ABR 22/21 (Mitbestimmung § 87 BetrVG), abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "arbeitszeiterfassung-pflicht",
+        "arbeitsvertrag-nachweisgesetz"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "arbeitsunfall-arbeitsschutz",
+      "kategorie": "betrieb",
+      "titel": "Arbeitsschutz und Arbeitsunfall",
+      "icon": "🦺",
+      "teaser": "Gefährdungen beurteilen, Unfälle melden: Die Berufsgenossenschaft muss binnen drei Tagen informiert werden, wenn jemand mehr als drei Tage arbeitsunfähig wird.",
+      "schlagworte": [
+        "Arbeitsunfall",
+        "Unfallanzeige",
+        "Berufsgenossenschaft",
+        "Unfallkasse",
+        "Gefährdungsbeurteilung",
+        "Arbeitsschutzgesetz",
+        "Unfallversicherung"
+      ],
+      "kurz_html": "<p>Ihre Beschäftigten sind bei der gesetzlichen Unfallversicherung versichert. Die zuständige Berufsgenossenschaft oder Unfallkasse trägt die Kosten von Arbeitsunfällen. Dafür müssen Sie Ihr Unternehmen dort anmelden.</p><p>Passiert ein Unfall und die Person ist mehr als drei Tage arbeitsunfähig oder stirbt, müssen Sie den Unfall anzeigen. Die Frist beträgt drei Tage nach Kenntnis.</p><p>Sie müssen außerdem beurteilen, welche Gefahren mit der Arbeit verbunden sind, und passende Schutzmaßnahmen treffen. Die wichtigsten Ergebnisse müssen dokumentiert sein.</p><p>Im Privathaushalt ist die Unfallversicherung im Haushaltsscheck enthalten.</p>",
+      "schritte": [
+        {
+          "titel": "Träger klären",
+          "text": "Berufsgenossenschaft oder Unfallkasse zuständig? Fragen Sie IHK oder Handwerkskammer, wenn unklar."
+        },
+        {
+          "titel": "Gefährdungen beurteilen",
+          "text": "Für jede Tätigkeit prüfen: Was kann passieren? Welche Maßnahme hilft?"
+        },
+        {
+          "titel": "Unfälle melden",
+          "text": "Bei mehr als drei Tagen Arbeitsunfähigkeit binnen drei Tagen anzeigen."
+        },
+        {
+          "titel": "Erste Hilfe und Unterweisung",
+          "text": "Sorgen Sie dafür, dass Beschäftigte die Gefahren und Notfallwege kennen (Einzelheiten nicht ausgewertet)."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "eine Woche",
+          "was": "Anzeige des Unternehmens bei der Berufsgenossenschaft",
+          "grundlage": "§ 192 Abs. 1 SGB VII"
+        },
+        {
+          "wert": "binnen drei Tagen",
+          "was": "Unfallanzeige nach Kenntnis, wenn mehr als drei Tage arbeitsunfähig oder Tod",
+          "grundlage": "§ 193 SGB VII"
+        }
+      ],
+      "achtung": [
+        "Die Unfallanzeige ist ab mehr als drei Tagen Arbeitsunfähigkeit fällig; sicherheitshalber bei Unsicherheit den Träger fragen.",
+        "Die Dokumentation der Gefährdungsbeurteilung hängt laut § 6 Abs. 1 ArbSchG von Art der Tätigkeiten und Zahl der Beschäftigten ab; einen festen Schwellenwert nennt der geprüfte Text nicht.",
+        "Beiträge zur Unfallversicherung bei Betrieben (Berechnung) wurden nicht ausgewertet.",
+        "Wegeunfälle und Berufskrankheiten wurden nicht ausgewertet."
+      ],
+      "fach_html": "<h3>Anzeige des Unternehmens (§ 192 SGB VII)</h3><p>Unternehmer müssen innerhalb einer Woche nach Beginn des Unternehmens dem zuständigen Unfallversicherungsträger Art und Gegenstand des Unternehmens, die Zahl der Versicherten sowie den Eröffnungstag oder den Tag der Aufnahme vorbereitender Arbeiten mitteilen. Die Pflicht gilt als erfüllt, wenn die Gewerbeanzeige fristgerecht bei der zuständigen Stelle eingereicht wurde.</p><h3>Unfallanzeige (§ 193 SGB VII)</h3><p>Unternehmer haben Unfälle anzuzeigen, wenn Versicherte getötet oder so verletzt sind, dass sie mehr als drei Tage arbeitsunfähig werden. Die Anzeige erfolgt nach § 193 Abs. 4 binnen drei Tagen nach Kenntnis des Unfalls. Zum Verfahren im Einzelnen wurde der Gesetzestext nur auszugsweise geprüft.</p><h3>Gefährdungsbeurteilung (§§ 5, 6 ArbSchG)</h3><p>§ 5 Abs. 1: Der Arbeitgeber hat durch eine Beurteilung der für die Beschäftigten mit ihrer Arbeit verbundenen Gefährdung zu ermitteln, welche Maßnahmen des Arbeitsschutzes erforderlich sind. § 6 Abs. 1: Er muss je nach Art der Tätigkeiten und Zahl der Beschäftigten über die erforderlichen Unterlagen verfügen, aus denen das Ergebnis der Beurteilung, die festgelegten Maßnahmen und das Ergebnis der Überprüfung ersichtlich sind; bei vergleichbaren Gefährdungen genügen zusammengefasste Angaben.</p><h3>Privathaushalt</h3><p>Bei Minijobs im Haushaltsscheck-Verfahren ist die gesetzliche Unfallversicherung nach der Minijob-Zentrale in den Pauschalabgaben enthalten (1,6 Prozent laut Sekundärquellen).</p>",
+      "zustaendig": [
+        "Zuständige Berufsgenossenschaft oder Unfallkasse",
+        "Minijob-Zentrale bei Haushaltsjobs",
+        "Landesbehörden für Arbeitsschutz",
+        "IHK oder Handwerkskammer"
+      ],
+      "belege": [
+        "SGB VII §§ 192, 193, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "ArbSchG §§ 5, 6, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "Minijob-Zentrale, Abgaben bei Haushaltshilfen, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "anmeldung-meldungen-sozialversicherung",
+        "privathaushalt-als-arbeitgeber",
+        "beratung-anlaufstellen"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "beratung-anlaufstellen",
+      "kategorie": "hilfe",
+      "titel": "Beratung und Anlaufstellen für Arbeitgeber",
+      "icon": "🤝",
+      "teaser": "Wer berät kleine Arbeitgeber? Bundesweite Stellen für Minijobs, Sozialversicherung, Arbeitsschutz, Arbeitsrecht und Mindestlohn.",
+      "schlagworte": [
+        "Beratung",
+        "Minijob-Zentrale",
+        "IHK",
+        "Handwerkskammer",
+        "Berufsgenossenschaft",
+        "Zoll",
+        "Anwalt"
+      ],
+      "kurz_html": "<p>Hier sind Stellen, an die Sie sich wenden können. Kontaktdaten stehen bewusst nicht hier, damit keine veralteten Angaben stehen. Suchen Sie die Stelle über die genannten Namen.</p><ul><li><strong>Minijob-Zentrale:</strong> für Minijobs und Haushaltsscheck.</li><li><strong>Krankenkasse Ihrer Beschäftigten:</strong> Anmeldung, Beiträge, Umlage U1/U2.</li><li><strong>Berufsgenossenschaft oder Unfallkasse:</strong> Unfallversicherung, Arbeitsschutz.</li><li><strong>Industrie- und Handelskammer oder Handwerkskammer:</strong> Beratung für Mitgliedsbetriebe.</li><li><strong>Zoll, Finanzkontrolle Schwarzarbeit:</strong> Prüfbehörde für Mindestlohn und Anmeldung.</li><li><strong>Fachanwält:innen für Arbeitsrecht, Steuerberatung:</strong> für Einzelfälle.</li></ul><p>Bei Streit mit Beschäftigten entscheidet das Arbeitsgericht.</p>",
+      "schritte": [
+        {
+          "titel": "Thema zuordnen",
+          "text": "Minijob: Minijob-Zentrale. Beiträge und Meldungen: Krankenkasse. Unfall: Berufsgenossenschaft."
+        },
+        {
+          "titel": "Unterlagen sammeln",
+          "text": "Vertrag, Lohnabrechnung, Meldebescheinigungen, Schriftverkehr."
+        },
+        {
+          "titel": "Rechtsfrage klären lassen",
+          "text": "Kündigung und Befristung möglichst vorher von Anwält:in oder Verband prüfen lassen."
+        },
+        {
+          "titel": "Fristen notieren",
+          "text": "Fristen aus dieser Seite und aus Bescheiden sofort eintragen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "drei Wochen",
+          "was": "Klagefrist für Beschäftigte nach Zugang einer Kündigung",
+          "grundlage": "§ 4 Satz 1 KSchG"
+        },
+        {
+          "wert": "eine Woche",
+          "was": "Anzeige des Unternehmens bei der Berufsgenossenschaft",
+          "grundlage": "§ 192 SGB VII"
+        }
+      ],
+      "achtung": [
+        "Diese Plattform nennt keine Telefonnummern, weil sie nicht in den geprüften Quellen belegt sind.",
+        "Prüfen Sie Kontaktdaten immer auf der offiziellen Website der Stelle.",
+        "Beratung durch Verbände und Kammern gilt oft nur für Mitglieder.",
+        "Diese Seiten ersetzen keine Rechtsberatung."
+      ],
+      "fach_html": "<h3>Belegte bundesweite Stellen</h3><p>Die Minijob-Zentrale (minijob-zentrale.de) informiert über Haushaltsscheck, Abgaben und Fristen für Haushaltshilfen und über Minijobs; das Minijob Magazin (magazin.minijob-zentrale.de) veröffentlicht die Änderungen zu Grenzen und Umlagen. Die Bundesregierung (bundesregierung.de) informiert über den Mindestlohn. Die Deutsche Rentenversicherung Bund entscheidet in Statusfeststellungsverfahren nach § 7a SGB IV. Die Finanzkontrolle Schwarzarbeit des Zolls kontrolliert den Mindestlohn (Angabe der Bundesregierung). Das Bundesarbeitsgericht (bundesarbeitsgericht.de) veröffentlicht Entscheidungen.</p><h3>Nicht belegt</h3><p>Konkrete Adressen und Telefonnummern von Berufsgenossenschaften, Handwerkskammern, Kammern, Arbeitgeberverbänden, Landesbehörden für Arbeitsschutz und Datenschutzaufsicht wurden nicht recherchiert und deshalb nicht genannt. Ebenso nicht ausgewertet: der Arbeitgeber-Service der Bundesagentur für Arbeit und Förderprogramme für Einstellungen.</p><h3>Abgrenzung</h3><p>Sind Sie selbst angestellt und suchen Rechte als Beschäftigte, nutzen Sie den Baustein Arbeitnehmer. Für Meisterpflicht, Werkvertrag und Baustellenrecht gibt es den Baustein Handwerker.</p>",
+      "zustaendig": [
+        "Minijob-Zentrale",
+        "Krankenkassen und Berufsgenossenschaften bzw. Unfallkassen",
+        "IHK oder Handwerkskammer",
+        "Fachanwält:innen für Arbeitsrecht, Steuerberatung"
+      ],
+      "belege": [
+        "Minijob-Zentrale, Abgaben, Steuern & Fristen bei Haushaltshilfen, abgerufen 20.09.2026",
+        "Bundesregierung, Fragen und Antworten zum Mindestlohn, abgerufen 20.09.2026",
+        "SGB IV § 7a, gesetze-im-internet.de, abgerufen 20.09.2026",
+        "Bundesarbeitsgericht (bundesarbeitsgericht.de), abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "ueberblick-arbeitgeber",
+        "kuendigung-kleinbetrieb"
+      ],
+      "stand": "September 2026"
+    }
+  ]
+}

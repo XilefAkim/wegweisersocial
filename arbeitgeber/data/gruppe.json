@@ -1,0 +1,34 @@
+{
+  "titel": "Arbeitgeber",
+  "zusatz": "Arbeitgeber &middot; Pflichten für kleine Betriebe und Haushalte",
+  "icon": "🏢",
+  "teaser": "Einstellen, Arbeitsvertrag, Minijob, Meldungen, Mindestlohn 2026, Urlaub, Krankheit, Kündigung: Pflichten und Rechte für Kleinbetriebe, Familienbetriebe und Privathaushalte als Arbeitgeber.",
+  "suche_placeholder": "Suchen: Minijob, Haushaltsscheck, Mindestlohn, Nachweisgesetz, Kündigung, U1 …",
+  "meta_description": "Arbeitgeberpflichten verständlich: Arbeitsvertrag und Nachweisgesetz, Minijob und Midijob 2026, Anmeldung, Mindestlohn 13,90 Euro, Urlaub, Entgeltfortzahlung, Umlagen U1/U2, Kündigung im Kleinbetrieb, Befristung, Arbeitszeiterfassung. Stand September 2026.",
+  "hinweis": "<strong>Rechtsstand: September 2026.</strong> Diese Seiten sind Information, keine Rechtsberatung. Der Gesetzentwurf zur Änderung des Arbeitszeitgesetzes (elektronische Arbeitszeiterfassung) ist nach Sekundärquellen noch nicht beschlossen und gilt nicht. Die Pauschalbeiträge für gewerbliche Minijobs (15 % und 13 %) sind nicht aus Primärquellen belegt und gekennzeichnet. Was nicht geprüft wurde, steht in den Seiten und auf der <a href=\"quellen.html\">Quellenseite</a>.",
+  "haeufig": [
+    "ueberblick-arbeitgeber",
+    "privathaushalt-als-arbeitgeber",
+    "arbeitsvertrag-nachweisgesetz",
+    "minijob-midijob-2026",
+    "mindestlohn-2026",
+    "kuendigung-kleinbetrieb"
+  ],
+  "fusszeile": "Information für kleine Arbeitgeber, Familienbetriebe und Privathaushalte, keine Rechtsberatung; Stand September 2026.",
+  "beratung_id": "beratung-anlaufstellen",
+  "quellen_teaser": "Die Aussagen stützen sich auf Gesetzestexte (gesetze-im-internet.de), das Bundesarbeitsgericht, die Bundesregierung und die Minijob-Zentrale. Sekundärquellen und ungeprüfte Punkte sind offen benannt.",
+  "quellen_abschnitte": [
+    {
+      "h": "Quellen",
+      "html": "<ol><li>Nachweisgesetz (§§ 2, 4), Schwarzarbeitsbekämpfungsgesetz (§ 2a), gesetze-im-internet.de, abgerufen 20.09.2026.</li><li>Kündigungsschutzgesetz (§§ 1, 4, 23), BGB (§§ 622, 623), Teilzeit- und Befristungsgesetz (§ 14), gesetze-im-internet.de, abgerufen 20.09.2026.</li><li>Bundesurlaubsgesetz (§§ 3, 4, 7), Entgeltfortzahlungsgesetz (§§ 3, 4, 5), Aufwendungsausgleichsgesetz (§§ 1, 3, 9), Einkommensteuergesetz (§§ 35a, 40a), gesetze-im-internet.de, abgerufen 20.09.2026.</li><li>SGB IV (§§ 7a, 8 einschließlich Abs. 1b, 20, 28a, 111), DEÜV (§ 6), SGB VII (§§ 192, 193), gesetze-im-internet.de, abgerufen 20.09.2026.</li><li>Mindestlohngesetz (§§ 1, 17, 21, 22), Fünfte Mindestlohnanpassungsverordnung (MiLoV5) vom 5. November 2025, Arbeitsschutzgesetz (§§ 5, 6), Betriebsverfassungsgesetz (§ 1), BDSG (§§ 26, 38), gesetze-im-internet.de, abgerufen 20.09.2026.</li><li>Bundesarbeitsgericht, Beschluss vom 13.09.2022 (1 ABR 22/21), bundesarbeitsgericht.de, abgerufen 20.09.2026.</li><li>Bundesregierung, Fragen und Antworten zum Mindestlohn (2026/2027), abgerufen 20.09.2026.</li><li>Minijob-Zentrale und Minijob Magazin (Minijob-Grenze 2026, U1, Haushaltsscheck, Abgaben und Fristen), abgerufen 20.09.2026.</li><li>Techniker Krankenkasse Firmenkunden (Entgeltfortzahlungsversicherung U1/U2), IHK Rhein-Neckar (Arbeitszeiterfassung 2026), abgerufen 20.09.2026.</li></ol>"
+    },
+    {
+      "h": "Unsichere und nicht geprüfte Punkte",
+      "html": "<ul><li>Pauschalabgaben für gewerbliche Minijobs (15 % und 13 %) und Beitragssätze 2026 der Sozialversicherung: nicht ausgewertet.</li><li>Umlagesätze der einzelnen Krankenkassen (Satzungen): nicht aus Primärquelle geprüft.</li><li>Urlaub: Hinweisobliegenheit des Arbeitgebers nach EuGH und BAG sowie Teilzeitumrechnung; Sonderkündigungsschutz, Rechtsprechung zur Kündigung im Kleinbetrieb und Kündigungsfristen nach § 622 Abs. 2 BGB: nicht ausgewertet.</li><li>Arbeitszeitreform: Angaben zum Referentenentwurf (bekannt seit 18.06.2026) stammen aus Sekundärquellen; Kabinettsstand ungeprüft.</li><li>Branchenmindestlöhne, Statusfeststellung von Familienangehörigen im Einzelnen, Berufsgenossenschaftsbeiträge und konkrete Kontaktdaten: nicht belegt und deshalb nicht aufgeführt.</li></ul>"
+    },
+    {
+      "h": "Was diese Plattform leistet – und was nicht",
+      "html": "<p>Sie erklärt allgemein, welche Pflichten kleine Arbeitgeber haben, in einfacher Sprache mit einem Vertiefungsteil. Sie ersetzt keine Beratung durch Kammern, Verbände, Steuerberatung oder Rechtsanwält:innen und ist keine Rechtsberatung im Sinne des Rechtsdienstleistungsgesetzes. Sie nennt keine Kontaktdaten einzelner Stellen und speichert keine persönlichen Daten. Rechte als Angestellte finden Sie im Baustein Arbeitnehmer, Handwerksrecht im Baustein Handwerker.</p>"
+    }
+  ]
+}

@@ -1,0 +1,1107 @@
+{
+ "kategorien": [
+  {
+   "id": "ueberblick",
+   "titel": "Überblick und Einordnung",
+   "icon": "🧭",
+   "beschreibung": "Was Einsamkeit ist – und was nicht."
+  },
+  {
+   "id": "akuthilfe",
+   "titel": "Akute Hilfe und Krisendienste",
+   "icon": "🆘",
+   "beschreibung": "Wann es ernst wird und wer rund um die Uhr erreichbar ist."
+  },
+  {
+   "id": "lebensphasen",
+   "titel": "Einsamkeit in Lebensphasen",
+   "icon": "👥",
+   "beschreibung": "Alter, Jugend, Verlust und Trennung im Vergleich."
+  },
+  {
+   "id": "wege-heraus",
+   "titel": "Wege aus der Isolation",
+   "icon": "🤝",
+   "beschreibung": "Begegnung, Ehrenamt, Digitales und Selbsthilfe."
+  },
+  {
+   "id": "gesundheit",
+   "titel": "Gesundheit und Versorgung",
+   "icon": "🩺",
+   "beschreibung": "Körperliche Folgen und Kostenübernahme von Therapie."
+  },
+  {
+   "id": "arbeit",
+   "titel": "Einsamkeit im Berufsleben",
+   "icon": "💼",
+   "beschreibung": "Homeoffice, Schichtarbeit und Großraumbüro."
+  },
+  {
+   "id": "umfeld",
+   "titel": "Angehörige und Nachbarschaft",
+   "icon": "🏘️",
+   "beschreibung": "Was Angehörige tun können und wie Nachbarschaftshilfe finanziert wird."
+  },
+  {
+   "id": "beratung",
+   "titel": "Beratung und Anlaufstellen",
+   "icon": "📞",
+   "beschreibung": "Wer bei welchem Anliegen zuständig ist."
+  }
+ ],
+ "seiten": [
+  {
+   "id": "ueberblick-einsamkeit-erkennen",
+   "kategorie": "ueberblick",
+   "titel": "Einsamkeit erkennen: Überblick",
+   "icon": "🧭",
+   "teaser": "Was Einsamkeit ist, wie sie sich von Alleinsein unterscheidet und woran Sie sie bei sich oder anderen erkennen.",
+   "schlagworte": [
+    "Einsamkeit",
+    "Alleinsein",
+    "Soziale Isolation",
+    "UCLA-Einsamkeitsskala",
+    "Nationale Strategie gegen Einsamkeit",
+    "Kompetenznetz Einsamkeit"
+   ],
+   "kurz_html": "<p><strong>Alleinsein</strong> und <strong>Einsamkeit</strong> sind zwei verschiedene Dinge. Alleinsein ist ein objektiver Zustand – Sie sind zeitweise ohne andere Menschen, oft freiwillig gewählt. Einsamkeit dagegen ist ein <strong>subjektives Gefühl</strong>: die Lücke zwischen den sozialen Kontakten, die Sie sich wünschen, und denen, die Sie tatsächlich haben. Man kann sich in einer Beziehung oder mitten in einer Menschenmenge einsam fühlen – und ebenso zufrieden allein sein. Einsamkeit ist keine Krankheit, sondern ein Gefühl, das jede und jeden treffen kann und das mit einem erhöhten Risiko für psychische und körperliche Beschwerden einhergeht, wenn es lange anhält.</p>",
+   "schritte": [
+    {
+     "titel": "Sich selbst ehrlich fragen",
+     "text": "Wie oft in den letzten Wochen hatten Sie das Gefühl, dass Ihnen Gesellschaft fehlt, dass Sie sich ausgeschlossen fühlen oder dass niemand da ist, an den Sie sich wenden können? Kurze Selbstauskunftsskalen wie die UCLA-3-Kurzskala nutzen genau diese drei Fragen."
+    },
+    {
+     "titel": "Dauer und Intensität einordnen",
+     "text": "Vorübergehende Einsamkeit nach einem Umzug oder Jobwechsel ist normal. Entscheidend ist, ob das Gefühl über Wochen und Monate anhält und den Alltag belastet."
+    },
+    {
+     "titel": "Auf Begleitsymptome achten",
+     "text": "Rückzug von Kontakten, Schlafprobleme, Antriebslosigkeit oder das Gefühl, „nicht mehr dazuzugehören“, können zusammen mit Einsamkeit auftreten und sollten ernst genommen werden."
+    },
+    {
+     "titel": "Mit jemandem darüber sprechen",
+     "text": "Ob Vertrauensperson, Hausarztpraxis oder eine anonyme Hotline: Aussprechen ist der erste Schritt – Einsamkeit gilt als eines der am stärksten schambesetzten Gefühle überhaupt."
+    },
+    {
+     "titel": "Passenden nächsten Schritt wählen",
+     "text": "Je nach Situation kann das ein Beratungsgespräch, eine Gruppe vor Ort oder – bei akuten Warnzeichen – professionelle Hilfe sein."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine gesetzliche Frist",
+     "was": "Es gibt keine gesetzliche Frist, innerhalb derer Einsamkeit erkannt, gemeldet oder behandelt werden müsste. Handeln Sie, sobald das Gefühl Sie belastet – nicht erst, wenn es unerträglich wird.",
+     "grundlage": ""
+    }
+   ],
+   "achtung": [
+    "Alleinsein und Einsamkeit werden oft verwechselt: Wer gern allein ist, muss nicht einsam sein – und wer viele Kontakte hat, kann sich trotzdem einsam fühlen.",
+    "Einsamkeit betrifft nicht nur ältere Menschen. Studien zeigen wiederholt, dass auch junge Erwachsene und Menschen in der Lebensmitte stark betroffen sind.",
+    "Verschiedene Studien messen Einsamkeit mit unterschiedlichen Skalen und Stichproben – Prozentzahlen aus unterschiedlichen Quellen sind deshalb nicht ohne Weiteres vergleichbar (siehe Vertiefung).",
+    "Warten Sie mit dem Ansprechen nicht auf einen „richtigen Anlass“ – ein kurzes Gespräch reicht als Einstieg."
+   ],
+   "fach_html": "<h3>Begriffsklärung</h3><p>In der Forschung wird seit Weiss (1973) zwischen <strong>emotionaler Einsamkeit</strong> (Fehlen einer engen Bindungsperson) und <strong>sozialer Einsamkeit</strong> (Fehlen eines tragfähigen Netzwerks oder einer Gruppenzugehörigkeit) unterschieden. Gemessen wird meist mit standardisierten Skalen wie der UCLA Loneliness Scale oder der De-Jong-Gierveld-Skala, die subjektiv empfundene Diskrepanz zwischen gewünschten und tatsächlichen Beziehungen erfassen – nicht die reine Kontaktzahl.</p><h3>Wie verbreitet ist Einsamkeit in Deutschland – was die Zahlen wirklich zeigen</h3><p>Belastbare, aber untereinander nicht direkt vergleichbare Datenquellen:</p><ul><li>Das Kompetenznetz Einsamkeit wertet in seinem Einsamkeitsbarometer Langzeitdaten des Sozio-oekonomischen Panels (SOEP) aus: Der Anteil einsamkeitsbelasteter Personen in der Gesamtbevölkerung lag danach 2017 bei rund 7,6 %, stieg 2020 – während der Corona-Pandemie – auf rund 28,2 % und lag 2021 bei rund 11,3 %. Frauen wiesen in allen drei Erhebungsjahren höhere Werte auf als Männer.</li><li>Der Deutsche Alterssurvey (DEAS) des Deutschen Zentrums für Altersfragen (DZA) fand 2025: Etwa jede elfte befragte Person ab 43 Jahren fühlte sich „sehr einsam“ (rund 9 %) – auffällig war, dass Menschen in der Lebensmitte (43–55 Jahre) im Schnitt stärker einsam waren als Menschen ab 76 Jahren.</li><li>Das Robert Koch-Institut beziffert im Journal of Health Monitoring 3/2023 auf Basis der GEDA-Studie den Anteil einsamer Menschen ab 50 Jahren auf rund 8,3 %.</li></ul><p><strong>Diese drei Zahlen (SOEP-Barometer, DEAS, RKI/GEDA) beruhen auf unterschiedlichen Skalen, Altersgruppen und Erhebungsjahren und dürfen nicht als eine einzige, konsistente „Einsamkeitsquote“ missverstanden werden.</strong> Sie zeigen aber übereinstimmend: Einsamkeit ist ein Massenphänomen, kein Randproblem, und stieg während der Pandemie spürbar an.</p><h3>Nationale Strategie gegen Einsamkeit</h3><p>Im Dezember 2023 hat die Bundesregierung die Nationale Strategie gegen Einsamkeit mit 111 Einzelmaßnahmen beschlossen. Das Kompetenznetz Einsamkeit (angesiedelt beim Institut für Sozialarbeit und Sozialpädagogik, ISS) betreibt die Geschäftsstelle zur Begleitung der Strategie im Auftrag des Bundesministeriums für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ) und veröffentlicht das jährliche Einsamkeitsbarometer sowie themenspezifische Vertiefungsanalysen (2026: Schwerpunkt Menschen mit Behinderungen). Im Juni 2026 startete im Rahmen der Aktionswoche „Gemeinsam aus der Einsamkeit“ zusätzlich die Allianz gegen Einsamkeit, ein Bündnis aus Bund, Ländern, Zivilgesellschaft und Wirtschaft.</p>",
+   "zustaendig": [
+    "Keine einzelne Behörde – das Kompetenznetz Einsamkeit bündelt Wissen und Strategie, vermittelt aber keine Einzelfallhilfe."
+   ],
+   "belege": [
+    "BMBFSFJ, Nationale Strategie gegen Einsamkeit, Kabinettbeschluss Dezember 2023 (bmbfsfj.bund.de)",
+    "Kompetenznetz Einsamkeit, Einsamkeitsbarometer (SOEP-Langzeitanalyse), abgerufen September 2026 (kompetenznetz-einsamkeit.de)",
+    "Deutsches Zentrum für Altersfragen (DZA), Deutscher Alterssurvey (DEAS) 2025, DZA Aktuell 03/2025 (dza.de)",
+    "Robert Koch-Institut, Journal of Health Monitoring 3/2023: Verbreitung von Einsamkeit bei älteren Erwachsenen in Deutschland (rki.de)"
+   ],
+   "siehe_auch": [
+    "wann-professionelle-hilfe-noetig",
+    "telefonseelsorge-und-krisendienste",
+    "beratung-anlaufstellen-einsamkeit"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "wann-professionelle-hilfe-noetig",
+   "kategorie": "akuthilfe",
+   "titel": "Wann professionelle Hilfe nötig ist",
+   "icon": "🆘",
+   "teaser": "Warnzeichen, bei denen Einsamkeit zur Krise wird – und wo Sie dann sofort Hilfe bekommen.",
+   "schlagworte": [
+    "Warnzeichen",
+    "Suizidgedanken",
+    "Notfallbehandlung",
+    "§ 76 SGB V",
+    "Akutbehandlung",
+    "112"
+   ],
+   "kurz_html": "<p>Einsamkeit allein ist noch keine Krise. Sie wird zu einer, wenn Hoffnungslosigkeit, der Rückzug von allen Kontakten, vernachlässigte Grundbedürfnisse (Essen, Schlaf, Hygiene) oder Gedanken an Suizid dazukommen. In diesem Fall zählt nicht der „richtige“ Weg durchs System, sondern der schnellste: ein Anruf – bei akuter Selbstgefährdung der Notruf, sonst eine der kostenlosen Hotlines.</p>",
+   "schritte": [
+    {
+     "titel": "Warnzeichen erkennen",
+     "text": "Anhaltende Hoffnungslosigkeit, Suizidgedanken, völliger sozialer Rückzug, Vernachlässigung von Ernährung, Schlaf oder Körperpflege sind Alarmsignale – bei sich selbst wie bei anderen."
+    },
+    {
+     "titel": "Bei akuter Gefahr: Notruf 112",
+     "text": "Besteht eine konkrete Gefahr für Leib und Leben (z. B. akute Suizidabsicht), wählen Sie den Notruf 112 oder suchen Sie die nächste Notaufnahme auf. Das gilt jederzeit, auch nachts und am Wochenende."
+    },
+    {
+     "titel": "Sonst: TelefonSeelsorge oder Krisendienst anrufen",
+     "text": "Für alle anderen akuten seelischen Krisen sind die TelefonSeelsorge (0800 111 0 111 / 0800 111 0 222) und regionale Krisendienste rund um die Uhr, kostenfrei und anonym erreichbar."
+    },
+    {
+     "titel": "Ärztlichen Bereitschaftsdienst nutzen",
+     "text": "Für dringende, aber nicht lebensbedrohliche Anliegen außerhalb der Sprechzeiten ist der Ärztliche Bereitschaftsdienst unter 116117 erreichbar."
+    },
+    {
+     "titel": "Nachsorge organisieren",
+     "text": "Nach einer akuten Krise lohnt sich zeitnah ein Termin bei Hausarztpraxis oder Psychotherapie, um weitere Unterstützung zu planen, statt es bei dem einen Anruf zu belassen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine gesetzliche Frist",
+     "was": "Für das Aufsuchen von Hilfe bei Einsamkeit gibt es keine gesetzliche Frist. Der Anspruch auf ärztliche Notfallbehandlung besteht dagegen jederzeit, ohne Wartezeit oder Anmeldung.",
+     "grundlage": "§ 76 Abs. 1 Satz 2 SGB V"
+    }
+   ],
+   "achtung": [
+    "Warten Sie bei akuter Suizidalität nicht auf einen Therapieplatz oder einen Rückruf – wählen Sie sofort den Notruf 112 oder fahren Sie in die nächste Notaufnahme.",
+    "TelefonSeelsorge und ähnliche Hotlines bieten seelischen Beistand, sind aber kein Rettungsdienst und ersetzen keine medizinische Notfallversorgung.",
+    "Ein „das geht schon wieder vorbei“ ist bei über Wochen anhaltender Hoffnungslosigkeit oder Suizidgedanken keine sichere Einschätzung – im Zweifel lieber einmal zu früh als zu spät Hilfe holen.",
+    "Angehörige, die Warnzeichen bei anderen bemerken, sollten das Thema direkt ansprechen; das erhöht nach vorliegender Evidenz nicht das Risiko, sondern häufig die Chance, dass Betroffene sich Hilfe holen."
+   ],
+   "fach_html": "<h3>Zusammenhang von Einsamkeit und psychischer Erkrankung</h3><p>Anhaltende Einsamkeit ist kein eigenständiges Krankheitsbild, gilt in der Forschung aber als Risikofaktor für Depression, Angststörungen und einen ungünstigeren Verlauf bestehender psychischer Erkrankungen (Buecker &amp; Neuber 2024, narrative Übersichtsarbeit). Die Übergänge zwischen belastender Einsamkeit und einer behandlungsbedürftigen depressiven Episode sind fließend; ein fachliches Gespräch hilft bei der Einordnung.</p><h3>Notfallversorgung</h3><p>Nach § 76 Abs. 1 Satz 2 SGB V können Versicherte in Notfällen auch außerhalb der Sprechstundenzeiten jede Ärztin und jeden Arzt sowie Krankenhäuser in Anspruch nehmen. Für psychiatrische Notfälle sind zusätzlich die Notaufnahmen bzw. Institutsambulanzen psychiatrischer Kliniken sowie – je nach Bundesland unterschiedlich organisiert – sozialpsychiatrische Krisendienste zuständig (z. B. der flächendeckende Krisendienst Bayern). Eine bundeseinheitliche, für alle Länder identische Krisendienst-Struktur existiert nach vorliegenden Informationen nicht; die konkrete Erreichbarkeit vor Ort sollte deshalb lokal erfragt werden.</p><h3>Abgrenzung der Hotlines</h3><p>Die TelefonSeelsorge ist kirchlich getragen, ökumenisch ausgerichtet und für alle Altersgruppen gedacht; sie ersetzt keine Akutbehandlung, vermittelt aber bei Bedarf weiter. 116117 (Terminservicestelle / Ärztlicher Bereitschaftsdienst) ist für dringende, nicht lebensbedrohliche medizinische Anliegen gedacht, nicht für reine Gesprächsbedürfnisse.</p>",
+   "zustaendig": [
+    "Rettungsdienst/Notaufnahme (akute Gefahr)",
+    "TelefonSeelsorge und regionale Krisendienste",
+    "Ärztlicher Bereitschaftsdienst (116117)"
+   ],
+   "belege": [
+    "§ 76 SGB V (gesetze-im-internet.de)",
+    "Buecker, S. & Neuber, A. (2024): Loneliness as a health risk, narrative review (PMC11424731)",
+    "telefonseelsorge.de, abgerufen September 2026"
+   ],
+   "siehe_auch": [
+    "telefonseelsorge-und-krisendienste",
+    "einsamkeit-und-psychotherapie-kostenuebernahme",
+    "beratung-anlaufstellen-einsamkeit"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "telefonseelsorge-und-krisendienste",
+   "kategorie": "akuthilfe",
+   "titel": "TelefonSeelsorge und Krisendienste",
+   "icon": "📞",
+   "teaser": "Kostenlose, anonyme Hotlines rund um die Uhr – wer wo anruft.",
+   "schlagworte": [
+    "TelefonSeelsorge",
+    "Silbernetz",
+    "Nummer gegen Kummer",
+    "Krisendienst",
+    "116111",
+    "0800 111 0 111"
+   ],
+   "kurz_html": "<p>Es gibt in Deutschland mehrere kostenfreie und anonyme Telefonangebote gegen Einsamkeit und seelische Not – je nach Alter und Anliegen unterschiedlich. Die <strong>TelefonSeelsorge</strong> (0800 111 0 111 und 0800 111 0 222) ist für alle Altersgruppen rund um die Uhr da. <strong>Silbernetz</strong> (0800 4 70 80 90) richtet sich gezielt an Menschen ab 60 Jahren. Für Kinder, Jugendliche und Eltern gibt es die <strong>Nummer gegen Kummer</strong>. Alle Angebote sind kostenlos, und Sie müssen Ihren Namen nicht nennen.</p>",
+   "schritte": [
+    {
+     "titel": "Passende Nummer wählen",
+     "text": "TelefonSeelsorge für alle Altersgruppen und Themen, Silbernetz ab 60 Jahren, Nummer gegen Kummer für Kinder/Jugendliche (116111) oder Eltern (0800 111 0 550)."
+    },
+    {
+     "titel": "Anonym anrufen",
+     "text": "Die Rufnummer des Anrufers erscheint nicht auf dem Display der Beratungsstelle, und das Gespräch taucht nicht auf der eigenen Telefonrechnung auf."
+    },
+    {
+     "titel": "Alternativ chatten oder mailen",
+     "text": "TelefonSeelsorge und Nummer gegen Kummer bieten zusätzlich Online- und Mailberatung an, wenn Telefonieren nicht die passende Form ist."
+    },
+    {
+     "titel": "Regelmäßigen Kontakt vereinbaren",
+     "text": "Über „Silbernetz-Freund*innen“ können ältere Menschen einen festen wöchentlichen Rückruf durch eine ehrenamtliche Ansprechperson vereinbaren – kein einmaliges Gespräch, sondern ein verlässlicher fester Termin."
+    },
+    {
+     "titel": "Bei akuter Gefahr weiterleiten lassen",
+     "text": "Alle Hotlines sind darauf eingestellt, in akuten Krisen an Notdienste weiterzuvermitteln, ersetzen diese aber nicht selbst."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine gesetzliche Frist",
+     "was": "Es gibt keine gesetzliche Frist für die Nutzung dieser Angebote. Zu beachten sind lediglich die jeweiligen Erreichbarkeitszeiten (TelefonSeelsorge und Silbernetz-Feiertagstelefon: 24 Stunden; Silbertelefon: täglich 8–22 Uhr; Kinder- und Jugendtelefon: Mo–Sa 14–20 Uhr; Elterntelefon: Mo–Fr 9–11 Uhr sowie Di/Do 17–19 Uhr).",
+     "grundlage": ""
+    }
+   ],
+   "achtung": [
+    "Silbernetz ist ausdrücklich für Menschen ab 60 Jahren gedacht – jüngere Anrufende werden an die TelefonSeelsorge oder andere Angebote verwiesen.",
+    "Das Elterntelefon ist nicht rund um die Uhr besetzt; prüfen Sie die aktuellen Sprechzeiten, bevor Sie sich darauf verlassen.",
+    "Diese Hotlines bieten Zuhören und erste Orientierung, keine Diagnosen und keine Therapie.",
+    "Fremdsprachige Beratung ist nicht überall garantiert verfügbar und hängt vom jeweils diensthabenden Team ab – im Zweifel direkt nachfragen."
+   ],
+   "fach_html": "<h3>TelefonSeelsorge</h3><p>Die TelefonSeelsorge ist ein Seelsorgeangebot in Verantwortung der evangelischen und katholischen Kirche und unter den bundesweit einheitlichen Nummern 0800 111 0 111 (evangelisch) und 0800 111 0 222 (katholisch) sowie unter 116123 rund um die Uhr kostenfrei und anonym erreichbar. An rund 105 Stellen bundesweit engagieren sich nach Angaben des Trägerverbunds etwa 7.500 geschulte ehrenamtliche Mitarbeitende; jährlich kommen rund 1,3 Millionen Kontakte (telefonisch und online) zustande. Die Deutsche Telekom übernimmt die Gebühren für diese Sondernummern.</p><h3>Silbernetz</h3><p>Silbernetz e. V. bietet ein dreistufiges Angebot für Menschen ab 60 Jahren mit Einsamkeitsgefühlen: das Silbertelefon (0800 4 70 80 90, täglich 8–22 Uhr, an Feiertagen und über Weihnachten/Silvester rund um die Uhr) zum spontanen Gespräch, „Silbernetz-Freund*innen“ für einen wöchentlich wiederkehrenden Anruf durch dieselbe ehrenamtliche Person, sowie „Silberinfo“ zur Vermittlung passender Unterstützungsangebote vor Ort. Der Verein berichtet von mehreren Hunderttausend Anrufen seit dem Start. Ursprünglich als Berliner Modellprojekt gestartet, wird die Ausweitung auf weitere Regionen im Rahmen eines Bundesmodellprogramms gefördert.</p><h3>Nummer gegen Kummer</h3><p>Für Kinder und Jugendliche steht das Kinder- und Jugendtelefon unter 116111 sowie 0800 111 0 333 Montag bis Samstag von 14 bis 20 Uhr bereit, kostenfrei und anonym von Fest- wie Mobilfunknetzen. Für Mütter und Väter gibt es das Elterntelefon unter 0800 111 0 550, montags bis freitags 9–11 Uhr sowie dienstags und donnerstags zusätzlich 17–19 Uhr. Träger ist der Bundesverband „Nummer gegen Kummer e. V.“ mit lokalen Vereinen wie dem Deutschen Kinderschutzbund.</p>",
+   "zustaendig": [
+    "TelefonSeelsorge (evangelische und katholische Kirche)",
+    "Silbernetz e. V.",
+    "Nummer gegen Kummer e. V."
+   ],
+   "belege": [
+    "telefonseelsorge.de, abgerufen September 2026",
+    "silbernetz.org, abgerufen September 2026",
+    "nummergegenkummer.de, abgerufen September 2026"
+   ],
+   "siehe_auch": [
+    "wann-professionelle-hilfe-noetig",
+    "einsamkeit-im-alter",
+    "einsamkeit-bei-jungen-menschen"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "einsamkeit-im-alter",
+   "kategorie": "lebensphasen",
+   "titel": "Einsamkeit im Alter",
+   "icon": "🧓",
+   "teaser": "Warum Einsamkeit im hohen Alter oft schwerer wird – und was speziell für ältere Menschen hilft.",
+   "schlagworte": [
+    "Einsamkeit im Alter",
+    "Verwitwung",
+    "Deutscher Alterssurvey",
+    "Mehrgenerationenhaus",
+    "Seniorenbüro",
+    "Hausbesuchsdienst"
+   ],
+   "kurz_html": "<p>Im Alter kommen oft mehrere Verluste zusammen: der Tod von Partnerin oder Partner und Gleichaltrigen, der Wegfall des Arbeitsumfelds, nachlassende Mobilität oder gesundheitliche Einschränkungen. Das macht es schwerer, das soziale Netz von selbst zu erhalten. Gleichzeitig zeigen Studien, dass nicht alle älteren Menschen gleich stark betroffen sind – Alter allein ist kein Grund für Einsamkeit, das Zusammentreffen von Verlusten und eingeschränkter Mobilität ist es eher.</p>",
+   "schritte": [
+    {
+     "titel": "Verluste anerkennen",
+     "text": "Nach dem Tod eines Partners oder einer Partnerin oder von Freundinnen und Freunden ist ein Gefühl von Leere normal – es lohnt sich, dieses Gefühl nicht zu verdrängen, sondern anzuerkennen."
+    },
+    {
+     "titel": "Mobilität und Erreichbarkeit klären",
+     "text": "Prüfen Sie, ob ein Fahrdienst, ein Hausbesuchsprogramm oder Nachbarschaftshilfe (siehe eigene Seite) den Zugang zu Kontakten wieder erleichtern kann."
+    },
+    {
+     "titel": "Seniorenbüro oder Mehrgenerationenhaus ansprechen",
+     "text": "Kommunale Seniorenbüros und die bundesweit rund 550 Mehrgenerationenhäuser bieten offene Treffs, Mittagstische und Beratung eigens für diese Lebensphase."
+    },
+    {
+     "titel": "Silbertelefon/Silbernetz-Freund*innen nutzen",
+     "text": "Für Menschen ab 60 Jahren bietet Silbernetz sowohl spontane Gespräche als auch feste wöchentliche Anrufe durch dieselbe ehrenamtliche Person (siehe eigene Seite zu Telefonseelsorge und Krisendiensten)."
+    },
+    {
+     "titel": "Bei Pflegebedarf Entlastungsbetrag prüfen",
+     "text": "Wer pflegebedürftig ist, kann über den Entlastungsbetrag nach § 45b SGB XI auch Angebote zur Unterstützung im Alltag mitfinanzieren, die aus der Isolation herausführen (siehe Seite zu Angehörigen und Nachbarschaftshilfe)."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine gesetzliche Frist",
+     "was": "Für die Kontaktaufnahme mit Seniorenbüros, Mehrgenerationenhäusern oder offenen Treffs gibt es keine gesetzliche Frist.",
+     "grundlage": ""
+    },
+    {
+     "wert": "monatlich bis zu 131 €",
+     "was": "Entlastungsbetrag für anerkannte Angebote zur Unterstützung im Alltag bei anerkanntem Pflegegrad, Stand 1.1.2025",
+     "grundlage": "§ 45b SGB XI"
+    }
+   ],
+   "achtung": [
+    "Nicht jede ältere Person ist automatisch einsam – Pauschalisierungen nach Alter allein sind nach Studienlage irreführend.",
+    "Der Deutsche Alterssurvey 2025 fand sogar höhere Einsamkeitswerte in der Lebensmitte (43–55 Jahre) als bei Menschen ab 76 Jahren – Alter ist also kein alleiniger Risikofaktor.",
+    "Digitale Angebote (Videotelefonie, Apps) helfen nicht allen gleichermaßen; fehlende Geräte, Sehkraft oder Übung sollten nicht als Desinteresse missverstanden werden (siehe Seite zu digitaler Teilhabe).",
+    "Der Entlastungsbetrag muss beantragt und die Leistung meist über anerkannte Anbieter abgerechnet werden – ein einfacher Nachbarschaftsbesuch ohne Anerkennung wird nicht automatisch erstattet."
+   ],
+   "fach_html": "<h3>Datenlage</h3><p>Der Deutsche Alterssurvey (DEAS) des Deutschen Zentrums für Altersfragen (DZA), Erhebungswelle 2025, fand: Rund jede elfte Person ab 43 Jahren (etwa 9 %) fühlte sich „sehr einsam“; Menschen im Alter von 43 bis 55 Jahren waren im Schnitt stärker einsam als Menschen ab 76 Jahren. Das Robert Koch-Institut (Journal of Health Monitoring 3/2023, GEDA-Studie) beziffert den Anteil einsamer Menschen ab 50 Jahren auf rund 8,3 % und findet einen Zusammenhang zwischen Einsamkeit und einem erhöhten Risiko für einen schlechteren allgemeinen Gesundheitszustand. Diese Zahlen stammen aus unterschiedlichen Erhebungen und Skalen und sind nicht direkt gegeneinander vergleichbar.</p><h3>Strukturangebote</h3><p>Das Bundesprogramm Mehrgenerationenhaus wird vom Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ) gefördert und umfasst nach Angaben des Programms bundesweit rund 550 Häuser, die offene Treffpunkte, Mittagstische, Beratung und generationenübergreifende Aktivitäten anbieten. Kommunale Seniorenbüros und Seniorenvertretungen sind länderweise unterschiedlich organisiert; eine bundeseinheitliche Struktur gibt es nicht.</p><h3>Pflegeleistungen mit Kontaktwirkung</h3><p>Nach § 45b SGB XI steht Personen mit anerkanntem Pflegegrad ein Entlastungsbetrag von 131 Euro monatlich (Stand 1.1.2025) zu, der für Angebote zur Unterstützung im Alltag – etwa Betreuungsgruppen oder Besuchsdienste – eingesetzt werden kann und damit auch der sozialen Teilhabe dienen kann. Seit dem 15.10.2025 wurde die formale Anerkennungspflicht für ehrenamtlich tätige Nachbarschaftshelfer:innen in mehreren Bundesländern erleichtert (siehe Vertiefung auf der Seite zu Angehörigen und Nachbarschaftshilfe).</p>",
+   "zustaendig": [
+    "Kommunales Seniorenbüro",
+    "Mehrgenerationenhaus vor Ort",
+    "Pflegekasse (Entlastungsbetrag)"
+   ],
+   "belege": [
+    "DZA, Deutscher Alterssurvey (DEAS) 2025, DZA Aktuell 03/2025 (dza.de)",
+    "RKI, Journal of Health Monitoring 3/2023 (rki.de)",
+    "BMBFSFJ, Bundesprogramm Mehrgenerationenhaus, abgerufen September 2026 (mehrgenerationenhaeuser.de)",
+    "§ 45b SGB XI (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "angehoerige-und-nachbarschaftshilfe",
+    "soziale-gruppen-und-begegnungsangebote",
+    "einsamkeit-nach-verlust-oder-trennung"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "einsamkeit-bei-jungen-menschen",
+   "kategorie": "lebensphasen",
+   "titel": "Einsamkeit bei jungen Menschen",
+   "icon": "🎒",
+   "teaser": "Warum auch junge Erwachsene stark von Einsamkeit betroffen sind und welche Anlaufstellen es speziell für sie gibt.",
+   "schlagworte": [
+    "Einsamkeit bei Jugendlichen",
+    "Junge Erwachsene",
+    "Nummer gegen Kummer",
+    "Studienbeginn",
+    "Ausbildungsbeginn",
+    "Soziale Medien"
+   ],
+   "kurz_html": "<p>Einsamkeit ist kein reines Alters-Thema. Mehrere Erhebungen finden bei jungen Erwachsenen und Jugendlichen ähnlich hohe oder sogar höhere Belastungswerte als bei älteren Menschen – Übergänge wie Schulabschluss, Studien- oder Ausbildungsbeginn, Umzug in eine neue Stadt oder der Wegfall des Klassenverbands sind typische Auslöser. Weil das Thema bei jungen Menschen oft schambesetzt ist, wird es seltener offen angesprochen als bei älteren Menschen.</p>",
+   "schritte": [
+    {
+     "titel": "Übergangssituationen als Risiko erkennen",
+     "text": "Schulwechsel, Ausbildungs- oder Studienbeginn, Auszug aus dem Elternhaus oder Trennung vom Freundeskreis sind Phasen mit erhöhtem Einsamkeitsrisiko."
+    },
+    {
+     "titel": "Nummer gegen Kummer nutzen",
+     "text": "Das Kinder- und Jugendtelefon (116111, Mo–Sa 14–20 Uhr) ist kostenfrei, anonym und auch per Chat/Mail erreichbar."
+    },
+    {
+     "titel": "Hochschul- oder Ausbildungsangebote prüfen",
+     "text": "Viele Hochschulen bieten Erstsemestertutorien, psychologische Beratungsstellen und Buddy-Programme; Berufsschulen und Betriebe teils vergleichbare Patenprogramme."
+    },
+    {
+     "titel": "Offene Jugendarbeit und Vereine ansprechen",
+     "text": "Jugendzentren, Sportvereine und offene Jugendarbeit nach § 11 SGB VIII bieten niedrigschwellige, kostenfreie oder günstige Begegnungsmöglichkeiten."
+    },
+    {
+     "titel": "Bei anhaltender Belastung Erziehungsberatung nutzen",
+     "text": "Eltern und junge Menschen können kostenfreie Erziehungs- und Familienberatung nach § 28 SGB VIII in Anspruch nehmen, wenn Einsamkeit zur dauerhaften Belastung wird."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine gesetzliche Frist",
+     "was": "Es gibt keine gesetzliche Frist, um Beratungs- oder Jugendhilfeangebote in Anspruch zu nehmen. Der Anspruch auf Erziehungsberatung nach § 28 SGB VIII besteht unabhängig vom Einkommen der Eltern.",
+     "grundlage": "§ 28 SGB VIII"
+    }
+   ],
+   "achtung": [
+    "Private, von Stiftungen oder Unternehmen in Auftrag gegebene Jugendstudien zu Einsamkeitsquoten (z. B. Befragungen von Krankenkassen oder Mobilfunkanbietern) sind methodisch nicht mit amtlichen Erhebungen wie FReDA oder dem Mikrozensus gleichzusetzen und sollten entsprechend gekennzeichnet werden.",
+    "Ein hoher Social-Media-Konsum ist nicht automatisch gleichbedeutend mit mehr oder weniger Einsamkeit; die Forschung findet je nach Nutzungsart unterschiedliche Zusammenhänge.",
+    "Junge Menschen sprechen Einsamkeit seltener von sich aus an als ältere – aktives, unaufgefordertes Nachfragen durch Eltern, Lehrkräfte oder Ausbilder:innen kann helfen.",
+    "Jugendzentren und offene Angebote sind kommunal unterschiedlich ausgestattet; ein flächendeckendes bundeseinheitliches Angebot existiert nicht."
+   ],
+   "fach_html": "<h3>Datenlage</h3><p>Amtliche/wissenschaftlich getragene Panels zur Einsamkeit junger Menschen in Deutschland sind das Beziehungs- und Familienpanel FReDA (Bundesinstitut für Bevölkerungsforschung, BiB) sowie Teilauswertungen des SOEP durch das Kompetenznetz Einsamkeit. Daneben existieren privat oder von Stiftungen/Unternehmen beauftragte Befragungen (z. B. einzelner Krankenkassen oder Stiftungen) zu Einsamkeit bei jungen Menschen, die teils deutlich höhere Werte berichten; diese sind aufgrund abweichender Methodik, Stichprobenziehung und Auftraggeberinteresse nicht direkt mit amtlichen Zahlen vergleichbar und werden hier deshalb nicht mit eigenen Prozentwerten wiedergegeben, ohne die Quelle unmittelbar zu benennen.</p><h3>Jugendhilferechtliche Grundlagen</h3><p>§ 11 SGB VIII verpflichtet die öffentliche Jugendhilfe zur Förderung außerschulischer Jugendarbeit (offene Angebote, Verbandsarbeit, Jugendberatung). § 28 SGB VIII begründet einen Anspruch auf Erziehungsberatung bei der Klärung und Bewältigung individueller und familienbezogener Probleme, unabhängig vom Einkommen der Eltern und mit Beratungsstellen in kommunaler oder freier Trägerschaft flächendeckend, aber nicht bundeseinheitlich organisiert.</p>",
+   "zustaendig": [
+    "Nummer gegen Kummer e. V. (Kinder- und Jugendtelefon)",
+    "Jugendamt / Erziehungsberatungsstelle",
+    "Hochschule bzw. Ausbildungsbetrieb (Beratungsstelle)"
+   ],
+   "belege": [
+    "nummergegenkummer.de, abgerufen September 2026",
+    "§§ 11, 28 SGB VIII (gesetze-im-internet.de)",
+    "Bundesinstitut für Bevölkerungsforschung (BiB), FReDA-Panel, abgerufen September 2026 (bib.bund.de)"
+   ],
+   "siehe_auch": [
+    "telefonseelsorge-und-krisendienste",
+    "digitale-teilhabe-gegen-einsamkeit",
+    "beratung-anlaufstellen-einsamkeit"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "einsamkeit-nach-verlust-oder-trennung",
+   "kategorie": "lebensphasen",
+   "titel": "Einsamkeit nach Verlust oder Trennung",
+   "icon": "💔",
+   "teaser": "Nach dem Tod eines nahestehenden Menschen oder einer Trennung ist Einsamkeit eine normale Reaktion – wann sie zur Belastung wird und wo Trauerbegleitung ansetzt.",
+   "schlagworte": [
+    "Trauerbegleitung",
+    "Trennung",
+    "Verwitwung",
+    "Hinterbliebene",
+    "Trauergruppe",
+    "Witwenrente"
+   ],
+   "kurz_html": "<p>Nach dem Tod einer nahestehenden Person oder einer Trennung ist es normal, sich zeitweise einsam zu fühlen – der Alltag, gemeinsame Routinen und ein vertrauter Ansprechpartner fehlen plötzlich. Bei den meisten Menschen lässt dieses Gefühl mit der Zeit nach. Hält es jedoch über viele Monate unvermindert an und verhindert es, den Alltag zu bewältigen, kann das auf eine sogenannte anhaltende Trauerstörung hindeuten, für die es eigene Unterstützungsangebote gibt.</p>",
+   "schritte": [
+    {
+     "titel": "Trauer zulassen, statt Zeitdruck aufzubauen",
+     "text": "Es gibt keine „richtige“ Trauerdauer. Vergleiche mit anderen Betroffenen helfen selten weiter."
+    },
+    {
+     "titel": "Trauergruppe oder Trauerbegleitung aufsuchen",
+     "text": "Hospizdienste, Wohlfahrtsverbände und kirchliche Träger bieten kostenfreie oder günstige Trauergruppen und Einzelbegleitung an, oft auch spezialisiert nach Verlustart (z. B. verwaiste Eltern, verwitwete Menschen)."
+    },
+    {
+     "titel": "Finanzielle und behördliche Fragen früh klären",
+     "text": "Nach einem Todesfall regeln Hinterbliebenenrenten (§§ 46 ff. SGB VI), Bestattungskosten und Erbschaftsfragen den Übergang; frühzeitige Beratung bei der Rentenversicherung oder einer Sozialberatungsstelle entlastet."
+    },
+    {
+     "titel": "Bei anhaltender Belastung ärztliche/therapeutische Hilfe suchen",
+     "text": "Hält die Belastung über 6 Monate unvermindert an und beeinträchtigt sie den Alltag deutlich, sollte dies ärztlich oder psychotherapeutisch abgeklärt werden (siehe Seite zu Psychotherapie und Kostenübernahme)."
+    },
+    {
+     "titel": "Nach einer Trennung neue Kontakte bewusst aufbauen",
+     "text": "Vereine, Selbsthilfegruppen oder ehrenamtliches Engagement helfen, das durch eine Trennung verkleinerte soziale Netz aktiv wieder zu erweitern."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine gesetzliche Frist",
+     "was": "Für die Inanspruchnahme von Trauerbegleitung gibt es keine gesetzliche Frist oder Wartezeit.",
+     "grundlage": ""
+    },
+    {
+     "wert": "Sterbevierteljahr (i. d. R.)",
+     "was": "Witwen-/Witwerrente wird im Sterbemonat und in den darauffolgenden drei Kalendermonaten (das sogenannte Sterbevierteljahr) unabhängig vom eigenen Einkommen in voller Höhe gezahlt (kleine/große Witwenrente je nach Voraussetzungen); danach erfolgt eine Einkommensanrechnung.",
+     "grundlage": "§§ 46, 97 SGB VI"
+    }
+   ],
+   "achtung": [
+    "Die WHO-Klassifikation ICD-11 kennt seit 2022 die Diagnose „Anhaltende Trauerstörung“ (prolonged grief disorder); sie wird erst gestellt, wenn die Symptomatik über mindestens 6 Monate deutlich über das kulturell erwartbare Maß hinausgeht – eine Momentaufnahme reicht für diese Diagnose nicht.",
+    "Auch nach einer Trennung (nicht nur nach einem Todesfall) kann eine der Trauer vergleichbare Belastung auftreten; viele Trauerangebote nehmen ausdrücklich auch Menschen nach Trennungen auf.",
+    "Kinder trauern anders als Erwachsene und benötigen oft eigene, altersgerechte Angebote (z. B. spezialisierte Trauergruppen für verwaiste Kinder).",
+    "Die Höhe und Dauer der Witwen-/Witwerrente hängt von Faktoren wie Heiratsdatum, Alter und eigenem Einkommen ab; pauschale Beträge lassen sich hier nicht seriös nennen."
+   ],
+   "fach_html": "<h3>Anhaltende Trauerstörung</h3><p>Mit der ICD-11 wurde die „Prolonged Grief Disorder“ (anhaltende Trauerstörung) 2022 erstmals als eigenständige Diagnose aufgenommen. Kennzeichnend ist eine über mindestens sechs Monate hinweg andauernde, intensive Sehnsucht nach der verstorbenen Person oder gedankliche Fixierung auf den Verlust, verbunden mit erheblicher Beeinträchtigung der Alltagsfunktion – deutlich über das in der jeweiligen Kultur erwartbare Trauermaß hinaus. Die Diagnose ermöglicht eine gezielte fachliche Behandlung, etwa spezialisierte Trauertherapie, unterscheidet sich aber von einer „normalen“, wenn auch schmerzhaften Trauerreaktion.</p><h3>Hinterbliebenenrente</h3><p>Nach §§ 46 ff. SGB VI erhalten hinterbliebene Ehegatten unter bestimmten Voraussetzungen eine kleine (befristet, i. d. R. 24 Monate) oder große Witwen-/Witwerrente (bei eigener Erwerbsminderung, Kindererziehung oder ab einem bestimmten Alter). Im Sterbemonat und in den darauffolgenden drei Kalendermonaten (dem sogenannten Sterbevierteljahr) wird eigenes Einkommen nach § 97 SGB VI nicht auf die Rente angerechnet; danach greift eine Einkommensanrechnung oberhalb eines Freibetrags.</p><h3>Trauerbegleitung als Struktur</h3><p>Trauerbegleitung wird in Deutschland überwiegend von ambulanten Hospizdiensten, Wohlfahrtsverbänden (Caritas, Diakonie, Deutsches Rotes Kreuz u. a.) und spezialisierten Vereinen (z. B. für verwaiste Eltern) angeboten, meist kostenfrei oder gegen geringen Beitrag, getragen durch Ehrenamt, Spenden und teilweise kommunale/kirchliche Förderung. Ein bundeseinheitlicher Rechtsanspruch auf Trauerbegleitung existiert nach vorliegenden Informationen nicht.</p>",
+   "zustaendig": [
+    "Ambulanter Hospizdienst vor Ort",
+    "Deutsche Rentenversicherung (Hinterbliebenenrente)",
+    "Wohlfahrtsverbände (Trauerangebote)"
+   ],
+   "belege": [
+    "WHO, ICD-11, Prolonged Grief Disorder (6C43), abgerufen September 2026 (icd.who.int)",
+    "§§ 46, 97 SGB VI (gesetze-im-internet.de)",
+    "Deutsche Rentenversicherung, Informationen zur Witwen-/Witwerrente, abgerufen September 2026 (deutsche-rentenversicherung.de)"
+   ],
+   "siehe_auch": [
+    "wann-professionelle-hilfe-noetig",
+    "selbsthilfegruppen-einsamkeit",
+    "beratung-anlaufstellen-einsamkeit"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "soziale-gruppen-und-begegnungsangebote",
+   "kategorie": "wege-heraus",
+   "titel": "Soziale Gruppen und Begegnungsangebote",
+   "icon": "🧩",
+   "teaser": "Wo Sie ohne großen Aufwand niedrigschwellig neue Kontakte finden – von Mittagstisch bis Nachbarschaftstreff.",
+   "schlagworte": [
+    "Begegnungsangebote",
+    "Mehrgenerationenhaus",
+    "Nachbarschaftstreff",
+    "Offener Treff",
+    "Mittagstisch",
+    "Quartiersarbeit"
+   ],
+   "kurz_html": "<p>Der Einstieg zurück in soziale Kontakte fällt leichter über niedrigschwellige, unverbindliche Angebote als über den Versuch, gleich eine „richtige“ Freundschaft zu knüpfen. Offene Treffs, Mittagstische, Nachbarschaftscafés und Mehrgenerationenhäuser sind bewusst so gestaltet, dass man ohne Anmeldung, Mitgliedschaft oder Vorwissen einfach vorbeikommen kann.</p>",
+   "schritte": [
+    {
+     "titel": "Mehrgenerationenhaus oder Nachbarschaftstreff in der Nähe suchen",
+     "text": "Über die Website des Bundesprogramms Mehrgenerationenhaus oder die Kommune lässt sich das nächstgelegene Haus mit offenem Treff finden."
+    },
+    {
+     "titel": "Quartiersarbeit/Sozialraumbüro der Kommune ansprechen",
+     "text": "Viele Städte und Gemeinden haben Quartiersmanagement oder Sozialraumbüros, die lokale Treffs, Kurse und Nachbarschaftsinitiativen kennen."
+    },
+    {
+     "titel": "Kirchengemeinden und Wohlfahrtsverbände einbeziehen",
+     "text": "Unabhängig von der eigenen Konfession bieten viele Gemeinden offene Cafés, Mittagstische oder Besuchsdienste, die allen offenstehen."
+    },
+    {
+     "titel": "Volkshochschule und Vereine nutzen",
+     "text": "Kurse an der VHS oder ein Sportverein bieten regelmäßigen Kontakt zu Menschen mit ähnlichen Interessen, ohne dass „Kontaktsuche“ das erklärte Ziel sein muss."
+    },
+    {
+     "titel": "Klein anfangen und dranbleiben",
+     "text": "Ein einmaliger Besuch reicht selten; erst regelmäßiges Wiederkommen macht aus Bekanntschaften tragfähige Kontakte."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine gesetzliche Frist",
+     "was": "Es gibt keine gesetzliche Frist oder Voraussetzung, um an offenen Begegnungsangeboten teilzunehmen. Die meisten sind kostenfrei oder verlangen nur einen geringen Unkostenbeitrag.",
+     "grundlage": ""
+    }
+   ],
+   "achtung": [
+    "Ein einzelner Besuch verändert selten etwas – Kontinuität ist bei Begegnungsangeboten wichtiger als die Auswahl des „perfekten“ Angebots.",
+    "Nicht jedes Angebot ist barrierefrei oder für Menschen mit eingeschränkter Mobilität ohne Weiteres erreichbar; vorherige Nachfrage zu Zugänglichkeit lohnt sich.",
+    "Angebote unterscheiden sich stark je nach Kommune – ein bundesweit einheitliches Verzeichnis existiert nicht, örtliche Anlaufstellen (Bürgerbüro, Seniorenbüro, Familienzentrum) helfen aber weiter.",
+    "Manche Menschen empfinden Gruppenangebote zunächst als überfordernd; ein Einzelgespräch bei einer Beratungsstelle kann ein sinnvoller Zwischenschritt sein."
+   ],
+   "fach_html": "<h3>Strukturprogramme</h3><p>Das vom BMBFSFJ geförderte Bundesprogramm Mehrgenerationenhaus umfasst nach Angaben des Programms bundesweit rund 550 Standorte mit offenen Treffpunkten, generationenübergreifenden Angeboten und niedrigschwelliger Beratung. Kommunale Quartiersmanagement- und Sozialraumbüro-Strukturen (häufig gefördert im Rahmen von Städtebauförderung oder kommunaler Sozialplanung) ergänzen dies lokal, sind aber nicht bundeseinheitlich geregelt.</p><h3>Wirkung niedrigschwelliger Angebote</h3><p>Das Kompetenznetz Einsamkeit benennt in seinen Praxisempfehlungen den Ausbau leicht zugänglicher, kostenfreier Begegnungsorte als eine der zentralen Präventionsmaßnahmen gegen Einsamkeit, ausdrücklich ergänzend – nicht ersetzend – zu individueller Beratung oder Therapie bei bereits verfestigter Einsamkeit.</p>",
+   "zustaendig": [
+    "Kommunales Quartiersmanagement/Sozialraumbüro",
+    "Mehrgenerationenhaus vor Ort",
+    "Wohlfahrtsverbände und Kirchengemeinden"
+   ],
+   "belege": [
+    "BMBFSFJ, Bundesprogramm Mehrgenerationenhaus, abgerufen September 2026 (mehrgenerationenhaeuser.de)",
+    "Kompetenznetz Einsamkeit, Praxisempfehlungen, abgerufen September 2026 (kompetenznetz-einsamkeit.de)"
+   ],
+   "siehe_auch": [
+    "ehrenamt-als-weg-aus-der-isolation",
+    "einsamkeit-im-alter",
+    "angehoerige-und-nachbarschaftshilfe"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "ehrenamt-als-weg-aus-der-isolation",
+   "kategorie": "wege-heraus",
+   "titel": "Ehrenamt als Weg aus der Isolation",
+   "icon": "🙌",
+   "teaser": "Freiwilliges Engagement schafft feste Termine und echte Zugehörigkeit – von der Vereinshilfe bis zum Freiwilligendienst.",
+   "schlagworte": [
+    "Ehrenamt",
+    "Bundesfreiwilligendienst",
+    "Freiwilliges Soziales Jahr",
+    "Engagementnachweis",
+    "Übungsleiterpauschale",
+    "Ehrenamtspauschale"
+   ],
+   "kurz_html": "<p>Ehrenamtliches Engagement wirkt gegen Einsamkeit gleich doppelt: Es schafft einen festen, wiederkehrenden Termin im Kalender und ein Gefühl, gebraucht zu werden und zu einer Gruppe dazuzugehören. Das Angebot reicht von der gelegentlichen Vereinshilfe über feste ehrenamtliche Aufgaben (z. B. Besuchsdienste) bis zu einem strukturierten Freiwilligendienst über mehrere Monate.</p>",
+   "schritte": [
+    {
+     "titel": "Eigene Zeit und Interessen einschätzen",
+     "text": "Ein Engagement, das zur eigenen Lebenssituation passt (wenige Stunden pro Woche vs. Vollzeit-Freiwilligendienst), lässt sich eher durchhalten als ein zu großer Sprung."
+    },
+    {
+     "titel": "Örtliche Freiwilligenagentur ansprechen",
+     "text": "Viele Städte haben eine Freiwilligenagentur oder Ehrenamtsbörse, die passende Engagements vermittelt."
+    },
+    {
+     "titel": "Bundesfreiwilligendienst oder Freiwilliges Soziales Jahr prüfen",
+     "text": "Für einen strukturierten, zeitlich befristeten Freiwilligendienst mit fester Einsatzstelle und pädagogischer Begleitung kommen der Bundesfreiwilligendienst (BFD, alle Altersgruppen) oder das Freiwillige Soziale Jahr (FSJ, meist junge Menschen) infrage."
+    },
+    {
+     "titel": "Ehrenamt bei Wohlfahrtsverbänden oder Vereinen",
+     "text": "Besuchsdienste, Vereinsarbeit, ehrenamtliche Nachbarschaftshilfe oder Selbsthilfegruppen-Mitarbeit bieten laufenden, meist flexibel gestaltbaren Kontakt."
+    },
+    {
+     "titel": "Engagementnachweis führen",
+     "text": "Für Bewerbungen oder eigene Wertschätzung lohnt sich ein Engagementnachweis, den viele Träger auf Wunsch ausstellen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine gesetzliche Frist",
+     "was": "Es gibt keine gesetzliche Frist, um ein Ehrenamt aufzunehmen. Der Bundesfreiwilligendienst hat jedoch eine geregelte Mindest- und Höchstdauer.",
+     "grundlage": "§ 3 BFDG"
+    },
+    {
+     "wert": "in der Regel 6–18 Monate, in Ausnahmen bis 24 Monate",
+     "was": "Dauer des Bundesfreiwilligendienstes",
+     "grundlage": "§ 3 BFDG"
+    }
+   ],
+   "achtung": [
+    "Die genaue Dauer und Ausgestaltung des Bundesfreiwilligendienstes (Vollzeit/Teilzeit, Sonderformen für über 27-Jährige) sollte im Einzelfall direkt beim Bundesamt für Familie und zivilgesellschaftliche Aufgaben (BAFzA) oder der Einsatzstelle nachgefragt werden, da Details je nach Einsatzform variieren.",
+    "Ehrenamt sollte nicht als kostenlose Lückenfüller-Arbeitskraft missverstanden werden – seriöse Träger klären Aufgaben, Zeitumfang und Ansprechpersonen vorab.",
+    "Übungsleiter- und Ehrenamtspauschale sind steuerliche Freibeträge, keine reguläre Bezahlung; wer auf ein Einkommen angewiesen ist, sollte Ehrenamt nicht mit einem Job verwechseln.",
+    "Manche Angebote verlangen ein erweitertes Führungszeugnis (z. B. bei Arbeit mit Kindern oder pflegebedürftigen Menschen) – dies frühzeitig klären, um Verzögerungen zu vermeiden."
+   ],
+   "fach_html": "<h3>Rechtsrahmen Bundesfreiwilligendienst</h3><p>Der Bundesfreiwilligendienst (BFD) ist im Bundesfreiwilligendienstgesetz (BFDG) geregelt und steht Menschen aller Altersgruppen offen. Nach § 3 BFDG beträgt die Dienstdauer in der Regel mindestens sechs und höchstens achtzehn Monate; in besonderen Fällen ist eine Verlängerung bis zu vierundzwanzig Monaten möglich. Über 27-Jährige können den Dienst häufig auch in Teilzeit leisten. Träger ist das Bundesamt für Familie und zivilgesellschaftliche Aufgaben (BAFzA).</p><h3>Steuerliche Förderung von Ehrenamt</h3><p>Für nebenberufliche Tätigkeiten in gemeinnützigen, mildtätigen oder kirchlichen Einrichtungen gelten die Übungsleiterpauschale (§ 3 Nr. 26 EStG) und die Ehrenamtspauschale (§ 3 Nr. 26a EStG) als steuer- und sozialversicherungsfreie Aufwandsentschädigungen bis zu jährlich festgelegten Freibeträgen; die genaue Höhe dieser Freibeträge unterliegt gesetzgeberischen Anpassungen und sollte im Einzelfall aktuell beim Finanzamt oder Steuerberater geprüft werden.</p><h3>Wirkung auf Einsamkeit</h3><p>Das Kompetenznetz Einsamkeit benennt strukturiertes freiwilliges Engagement neben Begegnungsangeboten als einen der Bausteine der Nationalen Strategie gegen Einsamkeit, da es feste soziale Rollen und wiederkehrende Kontakte schafft; eine bezifferte, methodisch abgesicherte Wirksamkeitsstudie speziell für den deutschen Kontext lag zum Stand dieser Seite nicht in einer Form vor, die eine konkrete Prozentzahl rechtfertigen würde.</p>",
+   "zustaendig": [
+    "Örtliche Freiwilligenagentur",
+    "Bundesamt für Familie und zivilgesellschaftliche Aufgaben (BAFzA)",
+    "Träger/Einsatzstelle des jeweiligen Ehrenamts"
+   ],
+   "belege": [
+    "Bundesfreiwilligendienstgesetz (BFDG), § 3 (gesetze-im-internet.de)",
+    "BAFzA, Informationen zum Bundesfreiwilligendienst, abgerufen September 2026 (bafza.de)",
+    "§ 3 Nr. 26, 26a EStG (gesetze-im-internet.de)",
+    "Kompetenznetz Einsamkeit, Nationale Strategie gegen Einsamkeit, Maßnahmenübersicht, abgerufen September 2026"
+   ],
+   "siehe_auch": [
+    "soziale-gruppen-und-begegnungsangebote",
+    "selbsthilfegruppen-einsamkeit",
+    "beratung-anlaufstellen-einsamkeit"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "einsamkeit-und-koerperliche-gesundheit",
+   "kategorie": "gesundheit",
+   "titel": "Einsamkeit und körperliche Gesundheit",
+   "icon": "🩺",
+   "teaser": "Warum anhaltende Einsamkeit nicht nur die Psyche, sondern auch den Körper belastet.",
+   "schlagworte": [
+    "Einsamkeit und Gesundheit",
+    "Gesundheitsrisiko",
+    "RKI",
+    "Herz-Kreislauf",
+    "Schlafstörungen",
+    "Journal of Health Monitoring"
+   ],
+   "kurz_html": "<p>Anhaltende Einsamkeit ist mehr als ein unangenehmes Gefühl: Forschung bringt sie mit einem erhöhten Risiko für verschiedene körperliche und psychische Beschwerden in Verbindung, etwa Herz-Kreislauf-Probleme, Schlafstörungen, ein geschwächtes Immunsystem und einen insgesamt schlechteren subjektiven Gesundheitszustand. Das bedeutet nicht, dass Einsamkeit automatisch krank macht – aber ein Gespräch mit der Hausarztpraxis ist sinnvoll, wenn Einsamkeit und körperliche Beschwerden zusammen auftreten.</p>",
+   "schritte": [
+    {
+     "titel": "Körperliche Beschwerden nicht isoliert betrachten",
+     "text": "Schlafprobleme, Erschöpfung oder ein Gefühl allgemeiner Kraftlosigkeit können auch mit anhaltender Einsamkeit zusammenhängen – das offen bei der Hausarztpraxis ansprechen."
+    },
+    {
+     "titel": "Hausärztliches Gespräch suchen",
+     "text": "Hausärztinnen und Hausärzte können körperliche Ursachen ausschließen und bei Bedarf an Psychotherapie oder soziale Beratung weitervermitteln."
+    },
+    {
+     "titel": "Bewegung und Kontakt verbinden",
+     "text": "Gemeinsame Bewegungsangebote (Spaziergruppen, Reha-Sport, Sportverein) verbinden gesundheitlichen Nutzen mit sozialem Kontakt."
+    },
+    {
+     "titel": "Schlaf- und Alltagsroutinen stabilisieren",
+     "text": "Feste Tagesstrukturen wirken sowohl der gesundheitlichen als auch der sozialen Abwärtsspirale entgegen, die anhaltende Einsamkeit begünstigen kann."
+    },
+    {
+     "titel": "Bei anhaltender Belastung fachliche Hilfe einbeziehen",
+     "text": "Halten Beschwerden über Wochen an, ist eine Abklärung bei Hausarztpraxis oder Psychotherapie sinnvoll (siehe Seite zur Kostenübernahme von Psychotherapie)."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine gesetzliche Frist",
+     "was": "Für die Abklärung von Beschwerden im Zusammenhang mit Einsamkeit gibt es keine gesetzliche Frist. Der Anspruch auf vertragsärztliche Versorgung gilt unabhängig davon jederzeit im Rahmen der gesetzlichen Krankenversicherung.",
+     "grundlage": "§ 27 SGB V"
+    }
+   ],
+   "achtung": [
+    "Ein Zusammenhang zwischen Einsamkeit und einem erhöhten Gesundheitsrisiko ist in mehreren Studien dokumentiert, bedeutet aber keinen zwingenden Automatismus im Einzelfall.",
+    "Körperliche Beschwerden sollten nicht vorschnell allein auf Einsamkeit zurückgeführt werden – eine ärztliche Abklärung anderer Ursachen bleibt wichtig.",
+    "Internationale Studien (häufig aus den USA oder Großbritannien) zu Sterblichkeitsrisiken durch Einsamkeit sind nicht ohne Weiteres eins zu eins auf Deutschland übertragbar, da sich Gesundheitssysteme und soziale Sicherungsnetze unterscheiden.",
+    "Reine Vermutungen über einzelne Prozentzahlen zum Sterblichkeits- oder Erkrankungsrisiko durch Einsamkeit werden hier bewusst nicht genannt, wenn keine belastbare deutsche Primärquelle vorliegt."
+   ],
+   "fach_html": "<h3>Datenlage in Deutschland</h3><p>Das Robert Koch-Institut hat im Journal of Health Monitoring, Ausgabe 3/2023, auf Basis der Studie GEDA (Gesundheit in Deutschland aktuell) einen Zusammenhang zwischen Einsamkeit und einem schlechteren subjektiven Gesundheitszustand bei Menschen ab 50 Jahren untersucht und einen Anteil von rund 8,3 % einsamer Personen in dieser Altersgruppe berichtet, mit erhöhter Einsamkeit einhergehend mit ungünstigeren Gesundheitsindikatoren. Eine kausale Wirkrichtung (macht Einsamkeit krank, oder führt schlechte Gesundheit zu mehr Einsamkeit) lässt sich aus Querschnittsdaten wie der GEDA-Studie nicht eindeutig ableiten; vermutlich wirken beide Richtungen zusammen.</p><h3>Internationale Forschung</h3><p>Internationale Übersichtsarbeiten (u. a. Buecker &amp; Neuber 2024, narrative Review) fassen Einsamkeit als dokumentierten Risikofaktor für ungünstigere psychische und teils kardiovaskuläre Verläufe zusammen, mahnen aber methodische Vorsicht bei der Übertragung einzelner internationaler Risikoschätzer auf andere Gesundheitssysteme an. Auf konkrete internationale Risikoquoten (z. B. zu Herzinfarkt- oder Sterblichkeitsrisiko) wird auf dieser Seite bewusst verzichtet, da sie sich nicht ohne Weiteres und ohne Verzerrung auf die deutsche Versorgungslandschaft übertragen lassen.</p>",
+   "zustaendig": [
+    "Hausärztliche Praxis",
+    "Gesetzliche Krankenkasse"
+   ],
+   "belege": [
+    "RKI, Journal of Health Monitoring 3/2023 (rki.de)",
+    "Buecker, S. & Neuber, A. (2024): Loneliness as a health risk, narrative review (PMC11424731)",
+    "§ 27 SGB V (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "wann-professionelle-hilfe-noetig",
+    "einsamkeit-und-psychotherapie-kostenuebernahme",
+    "einsamkeit-im-alter"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "digitale-teilhabe-gegen-einsamkeit",
+   "kategorie": "wege-heraus",
+   "titel": "Digitale Teilhabe gegen Einsamkeit",
+   "icon": "💻",
+   "teaser": "Wie Videotelefonie, Lernangebote und Online-Communitys helfen können – und wo ihre Grenzen liegen.",
+   "schlagworte": [
+    "Digitale Teilhabe",
+    "Digital-Kompass",
+    "Videotelefonie",
+    "Internet-Grundkurs",
+    "Digitalisierung im Alter",
+    "Medienkompetenz"
+   ],
+   "kurz_html": "<p>Digitale Angebote können Einsamkeit lindern helfen: Videotelefonie hält Kontakt über Entfernungen, Online-Gruppen ermöglichen Austausch zu speziellen Themen, und wer den Umgang mit Smartphone oder Tablet lernt, gewinnt oft neue Selbstständigkeit. Digitale Kontakte ersetzen persönliche Begegnungen aber nicht vollständig, und nicht alle Menschen haben gleichen Zugang zu Geräten, Internet oder Übung im Umgang damit.</p>",
+   "schritte": [
+    {
+     "titel": "Eigene Ausgangslage klären",
+     "text": "Fehlt ein Gerät, eine Internetverbindung oder vor allem Übung im Umgang damit? Die passende Unterstützung unterscheidet sich je nach Hürde."
+    },
+    {
+     "titel": "Kostenfreie Lernangebote nutzen",
+     "text": "Der Digital-Kompass (eine Initiative von BAGSO und Deutschland sicher im Netz) bietet bundesweit Lerngelegenheiten und Ansprechpersonen speziell für ältere Menschen."
+    },
+    {
+     "titel": "Öffentliche Anlaufstellen ansprechen",
+     "text": "Bibliotheken, Familienzentren, Mehrgenerationenhäuser und Volkshochschulen bieten häufig kostenfreie oder kostengünstige Digitalkurse an."
+    },
+    {
+     "titel": "Videotelefonie ausprobieren",
+     "text": "Ein regelmäßiger Videoanruf mit Familie oder Freundinnen und Freunden kann räumliche Distanz überbrücken, besonders wenn persönliche Besuche selten möglich sind."
+    },
+    {
+     "titel": "Digitale Kontakte durch reale ergänzen",
+     "text": "Wo möglich, sollten Online-Kontakte ein Sprungbrett zu persönlichen Treffen sein, kein vollständiger Ersatz dafür."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine gesetzliche Frist",
+     "was": "Es gibt keine gesetzliche Frist für die Nutzung digitaler Teilhabeangebote. Die meisten Kurse und Beratungsangebote sind kostenfrei oder sehr günstig.",
+     "grundlage": ""
+    }
+   ],
+   "achtung": [
+    "Digitale Angebote wirken nicht bei allen gleich; fehlende Übung, Sehschwierigkeiten oder grundsätzliche Skepsis sollten nicht als Desinteresse missverstanden werden.",
+    "Reine Online-Kontakte können reale Begegnungen ergänzen, nach bisheriger Forschung aber nicht in jedem Fall vollständig ersetzen.",
+    "Bei der Auswahl von Online-Communitys oder Apps auf Seriosität und Datenschutz achten, insbesondere bei Angeboten, die persönliche Daten oder Zahlungen verlangen.",
+    "Digital-Kompass-Angebote sind vor allem auf ältere Menschen ausgerichtet; für andere Altersgruppen können andere Lernorte (Jugendzentrum, VHS, Hochschule) passender sein."
+   ],
+   "fach_html": "<h3>Digital-Kompass</h3><p>Der Digital-Kompass ist eine gemeinsame Initiative der Bundesarbeitsgemeinschaft der Seniorenorganisationen (BAGSO) und der Initiative „Deutschland sicher im Netz“ (DsiN) und bietet bundesweit ehrenamtlich organisierte digitale Lerngelegenheiten, insbesondere für ältere Menschen, sowie Materialien zu Themen wie Videotelefonie, Online-Sicherheit und Umgang mit dem Smartphone. Das Angebot wird u. a. vom Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend unterstützt.</p><h3>Forschungsstand zu digitalen Kontakten und Einsamkeit</h3><p>Die Forschung zum Zusammenhang zwischen digitaler Mediennutzung und Einsamkeit ist uneinheitlich: Ob digitale Kontakte Einsamkeit lindern oder verstärken, hängt stärker von der Art der Nutzung (aktiver Austausch vs. passives Konsumieren) ab als von der reinen Nutzungsdauer. Eine einzelne, für Deutschland repräsentative Kennzahl zur Wirksamkeit digitaler Teilhabeangebote gegen Einsamkeit lag zum Stand dieser Seite nicht vor.</p>",
+   "zustaendig": [
+    "Digital-Kompass (BAGSO/DsiN)",
+    "Örtliche Bibliothek oder Volkshochschule",
+    "Mehrgenerationenhaus vor Ort"
+   ],
+   "belege": [
+    "digital-kompass.de, abgerufen September 2026",
+    "BAGSO, Bundesarbeitsgemeinschaft der Seniorenorganisationen, abgerufen September 2026 (bagso.de)"
+   ],
+   "siehe_auch": [
+    "einsamkeit-im-alter",
+    "einsamkeit-bei-jungen-menschen",
+    "soziale-gruppen-und-begegnungsangebote"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "einsamkeit-am-arbeitsplatz",
+   "kategorie": "arbeit",
+   "titel": "Einsamkeit am Arbeitsplatz",
+   "icon": "💼",
+   "teaser": "Homeoffice, Großraumbüro und Schichtarbeit können isolieren – was Beschäftigte und Arbeitgeber tun können.",
+   "schlagworte": [
+    "Einsamkeit am Arbeitsplatz",
+    "Homeoffice",
+    "Gefährdungsbeurteilung",
+    "Betriebliches Eingliederungsmanagement",
+    "Psychische Belastung",
+    "ArbSchG"
+   ],
+   "kurz_html": "<p>Auch mitten im Berufsleben kann man sich einsam fühlen: bei dauerhafter Arbeit im Homeoffice ohne informellen Austausch, in häufig wechselnden Teams, bei Schichtarbeit außerhalb üblicher sozialer Zeiten oder wenn Konflikte im Team bestehen. Anders als bei privater Einsamkeit gibt es hier auch eine arbeitsschutzrechtliche Seite: Arbeitgeber müssen psychische Belastungen am Arbeitsplatz im Rahmen der Gefährdungsbeurteilung berücksichtigen.</p>",
+   "schritte": [
+    {
+     "titel": "Eigene Situation einordnen",
+     "text": "Fehlt informeller Austausch im Homeoffice, gibt es Spannungen im Team, oder liegt es an ungünstigen Arbeitszeiten wie Schichtarbeit?"
+    },
+    {
+     "titel": "Gespräch mit Führungskraft oder Betriebsrat suchen",
+     "text": "Arbeitsbezogene Isolation lässt sich oft durch feste Team-Termine, Mentoring oder flexiblere Präsenztage lindern – das Ansprechen bei Führungskraft, Personalabteilung oder Betriebsrat ist der erste Schritt."
+    },
+    {
+     "titel": "Betriebliches Gesundheitsmanagement einbeziehen",
+     "text": "Viele Betriebe bieten im Rahmen des betrieblichen Gesundheitsmanagements Beratung oder Angebote zu psychischer Gesundheit an, oft anonym nutzbar."
+    },
+    {
+     "titel": "Bei anhaltender Belastung: Betriebliches Eingliederungsmanagement (BEM)",
+     "text": "Nach längerer Arbeitsunfähigkeit steht Beschäftigten ein BEM-Verfahren zu, in dem auch soziale Isolation am Arbeitsplatz thematisiert werden kann."
+    },
+    {
+     "titel": "Externe Beratung nutzen",
+     "text": "Wenn innerbetriebliche Anlaufstellen fehlen oder nicht ausreichen, helfen externe Beratungsstellen oder die Hausarztpraxis weiter."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine gesetzliche Frist",
+     "was": "Für das Ansprechen von Einsamkeit oder Isolation am Arbeitsplatz gibt es keine gesetzliche Frist. Arbeitgeber sind aber laufend zur Gefährdungsbeurteilung verpflichtet, nicht nur einmalig.",
+     "grundlage": "§ 5 ArbSchG"
+    },
+    {
+     "wert": "ab 6 Wochen Arbeitsunfähigkeit",
+     "was": "Anspruch auf Angebot eines betrieblichen Eingliederungsmanagements (BEM) innerhalb eines Jahres",
+     "grundlage": "§ 167 Abs. 2 SGB IX"
+    }
+   ],
+   "achtung": [
+    "Die Gefährdungsbeurteilung psychischer Belastung ist gesetzlich vorgeschrieben, wird aber nicht in jedem Betrieb gleich konsequent umgesetzt; Beschäftigte können sich hierzu an den Betriebsrat oder die Fachkraft für Arbeitssicherheit wenden.",
+    "Ein BEM-Verfahren ist freiwillig für Beschäftigte; die Ablehnung hat keine arbeitsrechtlichen Nachteile.",
+    "Belastbare, deutschlandweite Zahlen speziell zu „Einsamkeit am Arbeitsplatz“ (im Unterschied zu allgemeinem Stress oder Erschöpfung) sind rar; Aussagen dazu werden hier bewusst vorsichtig und ohne erfundene Prozentwerte formuliert.",
+    "Dauerhaftes Homeoffice ohne jeden persönlichen Kontakt zu Kolleginnen und Kollegen wird in der arbeitspsychologischen Fachdiskussion als möglicher Risikofaktor benannt, ist aber kein Automatismus – viel hängt von individueller Gestaltung und Unternehmenskultur ab."
+   ],
+   "fach_html": "<h3>Arbeitsschutzrechtliche Grundlage</h3><p>§ 5 Arbeitsschutzgesetz (ArbSchG) verpflichtet Arbeitgeber, im Rahmen der Gefährdungsbeurteilung auch psychische Belastungen bei der Arbeit zu ermitteln und zu berücksichtigen. Soziale Isolation, etwa durch fehlenden Austausch im dauerhaften Homeoffice oder durch belastende Teamkonstellationen, kann Teil dieser Beurteilung sein; eine explizite bundeseinheitliche Vorgabe, wie „Einsamkeit am Arbeitsplatz“ konkret zu messen ist, existiert nach vorliegenden Informationen nicht – die Umsetzung liegt im Ermessen der Betriebe, oft unterstützt durch die Berufsgenossenschaften und Unfallkassen.</p><h3>Betriebliches Eingliederungsmanagement</h3><p>Nach § 167 Abs. 2 SGB IX muss der Arbeitgeber Beschäftigten, die innerhalb eines Jahres länger als sechs Wochen ununterbrochen oder wiederholt arbeitsunfähig waren, ein BEM-Verfahren anbieten, um gemeinsam Wege zur Überwindung der Arbeitsunfähigkeit und zur Vorbeugung erneuter Ausfälle zu klären. Die Teilnahme ist freiwillig.</p><h3>Forschungsstand</h3><p>Die arbeitspsychologische Forschung diskutiert Homeoffice, häufige Personalwechsel und Schichtarbeit außerhalb sozial üblicher Zeiten als mögliche Risikofaktoren für arbeitsbezogene Einsamkeit, warnt aber vor pauschalen Aussagen, da die Wirkung stark von individueller Gestaltung, Unternehmenskultur und persönlicher Präferenz abhängt. Eine spezifisch für Deutschland repräsentative Kennzahl zur Verbreitung von Einsamkeit am Arbeitsplatz lag zum Stand dieser Seite nicht in belastbarer Form vor.</p>",
+   "zustaendig": [
+    "Betriebsrat / Personalabteilung",
+    "Fachkraft für Arbeitssicherheit im Betrieb",
+    "Betriebliches Gesundheitsmanagement"
+   ],
+   "belege": [
+    "§ 5 ArbSchG (gesetze-im-internet.de)",
+    "§ 167 Abs. 2 SGB IX (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "wann-professionelle-hilfe-noetig",
+    "beratung-anlaufstellen-einsamkeit",
+    "einsamkeit-und-koerperliche-gesundheit"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "selbsthilfegruppen-einsamkeit",
+   "kategorie": "wege-heraus",
+   "titel": "Selbsthilfegruppen bei Einsamkeit",
+   "icon": "🗣️",
+   "teaser": "Wie Selbsthilfegruppen funktionieren, wie Sie eine passende finden und wie ihre Förderung geregelt ist.",
+   "schlagworte": [
+    "Selbsthilfegruppe",
+    "NAKOS",
+    "Selbsthilfekontaktstelle",
+    "§ 20h SGB V",
+    "Selbsthilfeförderung",
+    "Gruppenaustausch"
+   ],
+   "kurz_html": "<p>In einer Selbsthilfegruppe treffen sich Menschen mit ähnlichen Erfahrungen – etwa Einsamkeit nach einem Verlust, chronischer Krankheit oder Isolation im Alter – regelmäßig, um sich auszutauschen. Anders als eine Therapie wird eine Selbsthilfegruppe nicht von einer Fachkraft geleitet, sondern von den Teilnehmenden selbst getragen. Sie ist meist kostenfrei und offen für neue Mitglieder.</p>",
+   "schritte": [
+    {
+     "titel": "Passendes Thema finden",
+     "text": "Selbsthilfegruppen gibt es zu vielen Anlässen von Einsamkeit: Trauer, Trennung, chronische Erkrankung, Angehörigenpflege oder allgemein soziale Isolation."
+    },
+    {
+     "titel": "Örtliche Selbsthilfekontaktstelle kontaktieren",
+     "text": "Selbsthilfekontaktstellen (oft kommunal oder von Wohlfahrtsverbänden getragen) vermitteln bestehende Gruppen oder helfen bei der Gründung einer neuen."
+    },
+    {
+     "titel": "NAKOS-Datenbank nutzen",
+     "text": "Die Nationale Kontakt- und Informationsstelle zur Anregung und Unterstützung von Selbsthilfegruppen (NAKOS) bietet eine bundesweite Übersicht über Selbsthilfekontaktstellen und -gruppen."
+    },
+    {
+     "titel": "Probeweise teilnehmen",
+     "text": "Die meisten Gruppen erlauben ein unverbindliches Kennenlernen, bevor man sich für eine regelmäßige Teilnahme entscheidet."
+    },
+    {
+     "titel": "Bei Bedarf eine eigene Gruppe gründen",
+     "text": "Findet sich keine passende Gruppe, unterstützen Selbsthilfekontaktstellen auch bei der Gründung einer neuen, unter anderem mit Räumen und Beratung."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine gesetzliche Frist",
+     "was": "Für die Teilnahme an einer Selbsthilfegruppe gibt es keine gesetzliche Frist oder Wartezeit. Die Förderung von Selbsthilfegruppen durch die Krankenkassen erfolgt dagegen nach jährlich festgelegten Förderrichtlinien.",
+     "grundlage": "§ 20h SGB V"
+    }
+   ],
+   "achtung": [
+    "Eine Selbsthilfegruppe ersetzt keine Psychotherapie oder ärztliche Behandlung, kann diese aber sinnvoll ergänzen.",
+    "Nicht jede Gruppe passt zu jeder Person; ein Wechsel der Gruppe oder ein anderes Format ist kein Scheitern.",
+    "Die Angebotsdichte an Selbsthilfegruppen ist regional unterschiedlich, besonders in ländlichen Gebieten kann die Auswahl begrenzt sein.",
+    "Die genaue Höhe der jährlichen Selbsthilfeförderung nach § 20h SGB V wird von den Krankenkassen jährlich neu festgelegt und ist hier daher nicht mit einem festen Eurobetrag beziffert."
+   ],
+   "fach_html": "<h3>Gesetzliche Selbsthilfeförderung</h3><p>Nach § 20h SGB V fördern die gesetzlichen Krankenkassen Gruppen, Kontaktstellen und Organisationen der Selbsthilfe chronisch kranker und behinderter Menschen finanziell. Die konkrete jährliche Fördersumme wird von den Krankenkassen und ihren Verbänden jährlich neu festgelegt (Grundsätze des GKV-Spitzenverbands); eine feste bundesweite Eurosumme pro Gruppe existiert nicht, weshalb hier keine konkrete Zahl genannt wird.</p><h3>NAKOS</h3><p>Die Nationale Kontakt- und Informationsstelle zur Anregung und Unterstützung von Selbsthilfegruppen (NAKOS) ist eine bundesweite Fach- und Vermittlungsstelle, die über die „Rote Adressen“-Datenbank örtliche Selbsthilfekontaktstellen und über die „Grüne Adressen“-Datenbank bundesweite Selbsthilfeorganisationen nachweist. Sie wird unter anderem vom Bundesministerium für Gesundheit gefördert.</p><h3>Abgrenzung zur Gruppentherapie</h3><p>Anders als eine Selbsthilfegruppe wird eine Gruppenpsychotherapie von approbierten Psychotherapeutinnen und Psychotherapeuten geleitet und unterliegt der Psychotherapie-Richtlinie des Gemeinsamen Bundesausschusses (siehe eigene Seite zur Kostenübernahme von Psychotherapie).</p>",
+   "zustaendig": [
+    "Örtliche Selbsthilfekontaktstelle",
+    "NAKOS (bundesweite Vermittlung)",
+    "Gesetzliche Krankenkasse (Förderung)"
+   ],
+   "belege": [
+    "§ 20h SGB V (gesetze-im-internet.de)",
+    "nakos.de, abgerufen September 2026"
+   ],
+   "siehe_auch": [
+    "einsamkeit-und-psychotherapie-kostenuebernahme",
+    "einsamkeit-nach-verlust-oder-trennung",
+    "beratung-anlaufstellen-einsamkeit"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "angehoerige-und-nachbarschaftshilfe",
+   "kategorie": "umfeld",
+   "titel": "Angehörige und Nachbarschaftshilfe",
+   "icon": "🏘️",
+   "teaser": "Was Angehörige tun können, wenn sie Einsamkeit bei jemandem bemerken – und wie ehrenamtliche Nachbarschaftshilfe finanziert wird.",
+   "schlagworte": [
+    "Nachbarschaftshilfe",
+    "Entlastungsbetrag",
+    "§ 45b SGB XI",
+    "Anerkennung Nachbarschaftshelfer",
+    "Angehörige",
+    "Ansprechen"
+   ],
+   "kurz_html": "<p>Wer bei einer nahestehenden Person Einsamkeit bemerkt, kann durch direktes, wertschätzendes Ansprechen und regelmäßigen, verlässlichen Kontakt viel bewirken – oft mehr als durch gut gemeinte Ratschläge. Ergänzend gibt es organisierte Nachbarschaftshilfe, bei der ehrenamtlich engagierte Personen im Alltag unterstützen; bei anerkanntem Pflegegrad kann diese Hilfe über den Entlastungsbetrag der Pflegekasse mitfinanziert werden.</p>",
+   "schritte": [
+    {
+     "titel": "Beobachtungen offen ansprechen",
+     "text": "Statt zu warten, bis die Person von sich aus über Einsamkeit spricht, hilft ein direktes, nicht wertendes Ansprechen der eigenen Beobachtungen."
+    },
+    {
+     "titel": "Zuhören statt sofort Lösungen anzubieten",
+     "text": "Oft ist das Gefühl, gehört zu werden, der wichtigste erste Schritt – vor konkreten Vorschlägen."
+    },
+    {
+     "titel": "Regelmäßigkeit statt Einzelaktion",
+     "text": "Ein fester wöchentlicher Anruf oder Besuch wirkt nachhaltiger als ein einmaliger, wenn auch gut gemeinter, Kontakt."
+    },
+    {
+     "titel": "Organisierte Nachbarschaftshilfe einbeziehen",
+     "text": "Kommunale Nachbarschaftshilfevereine oder -netzwerke vermitteln ehrenamtliche Unterstützung im Alltag, etwa Einkaufshilfe, Begleitung zu Terminen oder gemeinsame Zeit."
+    },
+    {
+     "titel": "Bei Pflegebedarf Entlastungsbetrag beantragen",
+     "text": "Besteht ein anerkannter Pflegegrad, kann der Entlastungsbetrag nach § 45b SGB XI bei der Pflegekasse beantragt werden, um anerkannte Angebote der Nachbarschaftshilfe zu finanzieren."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine gesetzliche Frist",
+     "was": "Für das Ansprechen von Einsamkeit bei Angehörigen gibt es keine gesetzliche Frist.",
+     "grundlage": ""
+    },
+    {
+     "wert": "monatlich bis zu 131 €",
+     "was": "Entlastungsbetrag für Angebote zur Unterstützung im Alltag, u. a. anerkannte Nachbarschaftshilfe, bei anerkanntem Pflegegrad, Stand 1.1.2025",
+     "grundlage": "§ 45b SGB XI"
+    }
+   ],
+   "achtung": [
+    "Direktes Ansprechen von Einsamkeit erhöht nach vorliegender Evidenz nicht das Risiko, sondern eröffnet meist die Chance auf ein klärendes Gespräch – Schweigen aus Sorge, etwas falsch zu machen, hilft selten weiter.",
+    "Nicht jede ehrenamtliche Nachbarschaftshilfe ist automatisch über den Entlastungsbetrag abrechenbar; die Details zur Anerkennung sind seit einer Änderung zum 15.10.2025 vereinfacht, aber weiterhin je nach Bundesland unterschiedlich geregelt – im Zweifel bei der Pflegekasse nachfragen.",
+    "Die genaue Übertragbarkeit nicht verbrauchter Entlastungsbeträge in das Folgejahr (§ 45b Abs. 3 SGB XI) unterliegt Detailregelungen; diese sollten im Einzelfall direkt bei der Pflegekasse verifiziert werden, da eine eigenständige, aktuelle Bestätigung im Rahmen dieser Recherche nicht abschließend möglich war.",
+    "Angehörige, die selbst dauerhaft viel Unterstützung leisten, sollten auch die eigene Belastung im Blick behalten und bei Bedarf selbst Beratung in Anspruch nehmen."
+   ],
+   "fach_html": "<h3>Entlastungsbetrag nach § 45b SGB XI</h3><p>Personen mit anerkanntem Pflegegrad (1 bis 5) haben Anspruch auf einen Entlastungsbetrag von 131 Euro monatlich (Stand 1.1.2025), der zweckgebunden für Angebote zur Unterstützung im Alltag eingesetzt werden kann – dazu zählen unter anderem Betreuungsangebote, Alltagsbegleitung und anerkannte Nachbarschaftshilfe. Nicht verbrauchte Beträge können nach der gesetzlichen Grundkonzeption grundsätzlich in das Folgejahr übertragen werden; die genaue Stichtagsregelung dazu wurde im Rahmen dieser Recherche nicht abschließend anhand einer Primärquelle verifiziert und sollte im Einzelfall bei der zuständigen Pflegekasse erfragt werden.</p><h3>Anerkennung ehrenamtlicher Nachbarschaftshelfer:innen</h3><p>Damit die Kosten für Nachbarschaftshilfe über den Entlastungsbetrag abgerechnet werden können, mussten Helfende bislang in den meisten Bundesländern ein förmliches Anerkennungsverfahren durchlaufen. Seit dem 15.10.2025 wurde dieses Verfahren nach vorliegenden Informationen in mehreren Bundesländern vereinfacht bzw. dereguliert, um den bürokratischen Aufwand für ehrenamtlich engagierte Nachbarschaftshelfer:innen zu senken; die konkrete Umsetzung unterscheidet sich weiterhin je nach Bundesland, weshalb hierzu keine bundeseinheitliche Detailregel genannt wird.</p><h3>Wirksamkeit des Ansprechens</h3><p>Fachliche Praxisempfehlungen, unter anderem des Kompetenznetzes Einsamkeit, betonen, dass ein einfühlsames, konkretes Ansprechen von beobachteter Einsamkeit bei Angehörigen die Wahrscheinlichkeit erhöht, dass Betroffene Unterstützung annehmen, während Schweigen aus falsch verstandener Rücksichtnahme diesen Prozess eher verzögert.</p>",
+   "zustaendig": [
+    "Pflegekasse (Entlastungsbetrag)",
+    "Örtlicher Nachbarschaftshilfeverein",
+    "Kompetenznetz Einsamkeit (Praxiswissen)"
+   ],
+   "belege": [
+    "§ 45b SGB XI (gesetze-im-internet.de)",
+    "Kompetenznetz Einsamkeit, Praxisempfehlungen zum Ansprechen von Einsamkeit, abgerufen September 2026",
+    "Landesregelungen zur Anerkennung von Nachbarschaftshelfer:innen, Stand ab 15.10.2025 (jeweilige Landesministerien)"
+   ],
+   "siehe_auch": [
+    "einsamkeit-im-alter",
+    "soziale-gruppen-und-begegnungsangebote",
+    "beratung-anlaufstellen-einsamkeit"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "einsamkeit-und-psychotherapie-kostenuebernahme",
+   "kategorie": "gesundheit",
+   "titel": "Psychotherapie bei Einsamkeit: Kostenübernahme",
+   "icon": "📋",
+   "teaser": "Wie Einzel- und Gruppentherapie beantragt werden, was die Krankenkasse zahlt und welche Fristen gelten.",
+   "schlagworte": [
+    "Psychotherapie-Richtlinie",
+    "Probatorische Sitzungen",
+    "Gruppentherapie",
+    "Genehmigungsfiktion",
+    "§ 13 Abs. 3a SGB V",
+    "Akutsprechstunde"
+   ],
+   "kurz_html": "<p>Wenn Einsamkeit in eine behandlungsbedürftige psychische Belastung übergeht, übernimmt die gesetzliche Krankenversicherung die Kosten für ambulante Psychotherapie – als Einzel- oder als Gruppentherapie. Der Weg dorthin führt über eine psychotherapeutische Sprechstunde, probatorische Sitzungen und je nach Therapieumfang einen Antrag bei der Krankenkasse. Die Wartezeit auf einen Therapieplatz kann allerdings mehrere Wochen bis Monate betragen.</p>",
+   "schritte": [
+    {
+     "titel": "Psychotherapeutische Sprechstunde aufsuchen",
+     "text": "Erster Schritt ist eine sogenannte Akutsprechstunde bei einer Psychotherapeutin oder einem Psychotherapeuten mit Kassenzulassung, oft vermittelt über die Terminservicestelle (116117)."
+    },
+    {
+     "titel": "Probatorische Sitzungen wahrnehmen",
+     "text": "In mindestens zwei, höchstens vier probatorischen Sitzungen wird geklärt, ob Therapeutin/Therapeut und Patientin/Patient zueinander passen und welches Vorgehen sinnvoll ist."
+    },
+    {
+     "titel": "Kurzzeittherapie ohne Gutachterverfahren beginnen",
+     "text": "Eine Kurzzeittherapie (bis 24 Stunden, aufgeteilt in zwei Abschnitte zu je 12 Stunden) kann ohne aufwendiges Gutachterverfahren bei der Krankenkasse angezeigt werden."
+    },
+    {
+     "titel": "Bei Bedarf Langzeittherapie beantragen",
+     "text": "Für eine Langzeittherapie ist ein formaler Erstantrag bei der Krankenkasse erforderlich, der in der Regel gutachterpflichtig ist."
+    },
+    {
+     "titel": "Gruppentherapie als Option ansprechen",
+     "text": "Auch Gruppenpsychotherapie ist im Rahmen der Psychotherapie-Richtlinie eine reguläre Kassenleistung und kann bei sozialer Isolation eine passende Ergänzung oder Alternative zur Einzeltherapie sein."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "3 Wochen",
+     "was": "Genehmigungsfiktion: Entscheidet die Krankenkasse über einen Antrag auf Langzeittherapie nicht innerhalb von 3 Wochen (5 Wochen bei Einholung eines Gutachtens), gilt die Leistung als genehmigt.",
+     "grundlage": "§ 13 Abs. 3a SGB V"
+    },
+    {
+     "wert": "2–4 Sitzungen",
+     "was": "Mindest- bzw. Höchstzahl probatorischer Sitzungen vor Beginn einer Richtlinientherapie",
+     "grundlage": "Psychotherapie-Richtlinie des G-BA"
+    },
+    {
+     "wert": "rund 20 Wochen (Durchschnitt)",
+     "was": "Durchschnittliche Wartezeit auf einen Therapieplatz laut BPtK-Erhebung, mit erheblichen regionalen Unterschieden",
+     "grundlage": "BPtK-Praxisumfrage, keine gesetzliche Frist"
+    }
+   ],
+   "achtung": [
+    "Die Wartezeit auf einen Therapieplatz variiert stark je nach Region; die rund 20 Wochen der BPtK-Erhebung sind ein bundesweiter Durchschnittswert, keine Garantie für den Einzelfall.",
+    "Die Genehmigungsfiktion nach § 13 Abs. 3a SGB V gilt nicht ausnahmslos für jede Fallkonstellation; im Zweifel sollte der Fristlauf mit der Krankenkasse oder einer Patientenberatung geklärt werden.",
+    "Eine Akutsprechstunde ist keine Warteliste-Umgehung für eine reguläre Therapie, sondern dient der Ersteinschätzung und Krisenklärung.",
+    "Gruppentherapie wird in der öffentlichen Wahrnehmung seltener genutzt als Einzeltherapie, ist aber eine vollwertige Kassenleistung und bei Themen wie sozialer Isolation fachlich oft besonders passend."
+   ],
+   "fach_html": "<h3>Ablauf nach der Psychotherapie-Richtlinie</h3><p>Die Psychotherapie-Richtlinie des Gemeinsamen Bundesausschusses (G-BA, aktuelle Fassung mit Stand 19.03.2026, in Kraft seit 17.06.2026) sieht vor: psychotherapeutische Sprechstunde, danach ggf. Akutbehandlung, probatorische Sitzungen (mindestens 2, höchstens 4, bei Kindern und Jugendlichen abweichend geregelt) und danach die eigentliche Richtlinientherapie als Kurzzeittherapie (2 Kontingente à 12 Stunden, insgesamt bis 24 Stunden, ohne Gutachterverfahren) oder Langzeittherapie (gutachterpflichtiger Erstantrag).</p><h3>Genehmigungsfiktion</h3><p>Nach § 13 Abs. 3a SGB V muss die Krankenkasse über einen Leistungsantrag innerhalb von drei Wochen entscheiden, bei Einholung einer gutachterlichen Stellungnahme innerhalb von fünf Wochen; geschieht dies ohne hinreichenden Grund nicht, gilt die Leistung als genehmigt. Diese Regelung betrifft insbesondere den gutachterpflichtigen Antrag auf Langzeittherapie.</p><h3>Wartezeiten</h3><p>Die Bundespsychotherapeutenkammer (BPtK) erhebt regelmäßig Wartezeiten auf einen Psychotherapieplatz; zuletzt wurden bundesweit durchschnittlich rund 20 Wochen (rund 142 Tage) bis zum Beginn einer Richtlinientherapie berichtet, mit deutlichen regionalen Unterschieden zwischen Stadtstaaten wie Berlin, Hamburg oder Bremen und anderen Regionen. Diese Zahl stammt aus einer Praxisumfrage der BPtK, nicht aus einer amtlichen Vollerhebung, und wird hier entsprechend gekennzeichnet.</p><h3>Gruppentherapie</h3><p>Gruppenpsychotherapie ist gemäß Psychotherapie-Richtlinie eine reguläre Leistung der gesetzlichen Krankenversicherung und wird ebenso wie Einzeltherapie beantragt bzw. angezeigt; sie eignet sich fachlich häufig besonders für Themen mit sozialer Komponente wie Einsamkeit oder Isolation, da der Gruppenrahmen selbst bereits sozialen Austausch ermöglicht.</p>",
+   "zustaendig": [
+    "Kassenzugelassene Psychotherapeutin/Psychotherapeut",
+    "Terminservicestelle (116117)",
+    "Gesetzliche Krankenkasse (Antrag/Genehmigung)"
+   ],
+   "belege": [
+    "§ 13 Abs. 3a SGB V (gesetze-im-internet.de)",
+    "Psychotherapie-Richtlinie des G-BA, Stand 19.03.2026, in Kraft seit 17.06.2026 (g-ba.de)",
+    "Bundespsychotherapeutenkammer (BPtK), Praxisumfrage zu Wartezeiten auf einen Therapieplatz, abgerufen September 2026 (bptk.de)"
+   ],
+   "siehe_auch": [
+    "wann-professionelle-hilfe-noetig",
+    "selbsthilfegruppen-einsamkeit",
+    "einsamkeit-und-koerperliche-gesundheit"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "beratung-anlaufstellen-einsamkeit",
+   "kategorie": "beratung",
+   "titel": "Beratung und Anlaufstellen bei Einsamkeit",
+   "icon": "📞",
+   "teaser": "Überblick, wer bei welchem Anliegen rund um Einsamkeit zuständig ist – von der Hotline bis zur Fachberatung.",
+   "schlagworte": [
+    "Anlaufstellen",
+    "Beratungsstelle",
+    "TelefonSeelsorge",
+    "Silbernetz",
+    "Kompetenznetz Einsamkeit",
+    "Erziehungsberatung"
+   ],
+   "kurz_html": "<p>Weil Einsamkeit viele Ursachen und Ausprägungen haben kann, gibt es keine einzelne „Einsamkeits-Behörde“, sondern ein Netz unterschiedlicher Anlaufstellen je nach Situation: telefonische Soforthilfe, Beratungsstellen für bestimmte Lebenslagen, kommunale Anlaufstellen für Begegnung und – bei behandlungsbedürftiger Belastung – das Gesundheitssystem. Diese Seite bündelt die wichtigsten Adressen und verweist auf die passenden Themenseiten.</p>",
+   "schritte": [
+    {
+     "titel": "Akute Krise? Sofort Hilfe holen",
+     "text": "Bei akuter Gefahr Notruf 112, sonst TelefonSeelsorge (0800 111 0 111 / 0800 111 0 222) oder für Menschen ab 60 Jahren Silbernetz (0800 4 70 80 90)."
+    },
+    {
+     "titel": "Kinder, Jugendliche, Eltern",
+     "text": "Nummer gegen Kummer: Kinder- und Jugendtelefon 116111, Elterntelefon 0800 111 0 550."
+    },
+    {
+     "titel": "Begegnung und Alltagskontakt vor Ort",
+     "text": "Mehrgenerationenhaus, Nachbarschaftshilfeverein, Seniorenbüro oder Quartiersmanagement der eigenen Kommune."
+    },
+    {
+     "titel": "Nach Verlust oder Trennung",
+     "text": "Ambulante Hospiz- und Trauerdienste, Beratungsstellen der Wohlfahrtsverbände."
+    },
+    {
+     "titel": "Behandlungsbedürftige Belastung",
+     "text": "Hausarztpraxis, psychotherapeutische Sprechstunde, Terminservicestelle 116117."
+    },
+    {
+     "titel": "Fachliche Einordnung und Strategie",
+     "text": "Kompetenznetz Einsamkeit (Geschäftsstelle der Nationalen Strategie gegen Einsamkeit) für Hintergrundwissen – keine Einzelfallberatung."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine gesetzliche Frist",
+     "was": "Für die Kontaktaufnahme mit Beratungsstellen gibt es keine gesetzliche Frist. Ausnahmen mit eigenen Fristen sind auf den jeweiligen Fachseiten benannt (z. B. Psychotherapie-Kostenübernahme, BEM-Verfahren).",
+     "grundlage": ""
+    }
+   ],
+   "achtung": [
+    "Es gibt keine bundesweit einheitliche „Einsamkeitshotline“ für alle Anliegen; je nach Situation ist eine andere Stelle passend.",
+    "Regionale Angebote (Quartiersmanagement, Seniorenbüro, Nachbarschaftshilfe) unterscheiden sich stark von Kommune zu Kommune – ein bundesweites Verzeichnis ersetzt nicht die Nachfrage vor Ort.",
+    "Das Kompetenznetz Einsamkeit bündelt Wissen und Strategie, vermittelt aber keine individuelle Beratung oder Therapieplätze.",
+    "Bei Unsicherheit, welche Stelle zuständig ist, ist die TelefonSeelsorge ein guter erster Ansprechpartner, da sie bei Bedarf weitervermittelt."
+   ],
+   "fach_html": "<h3>Struktur der Anlaufstellen</h3><p>Die deutsche Anlaufstellen-Landschaft rund um Einsamkeit ist mehrschichtig organisiert: bundesweite, kostenfreie Hotlines (TelefonSeelsorge, Silbernetz, Nummer gegen Kummer) für den sofortigen Gesprächsbedarf; kommunale und Landesstrukturen (Quartiersmanagement, Seniorenbüros, Mehrgenerationenhäuser, Jugendhilfe nach SGB VIII) für Begegnung und längerfristige Unterstützung; das Gesundheitssystem (Hausarztpraxis, ambulante Psychotherapie) für behandlungsbedürftige Belastungen; sowie die auf Bundesebene angesiedelte Koordination durch das Kompetenznetz Einsamkeit im Auftrag des BMBFSFJ als Geschäftsstelle der Nationalen Strategie gegen Einsamkeit.</p><h3>Zusammenspiel mit anderen Themenseiten</h3><p>Diese Seite fasst die Anlaufstellen zusammen, die auf den übrigen 14 Themenseiten dieses Bausteins im Detail beschrieben sind (u. a. Telefonseelsorge und Krisendienste, Angehörige und Nachbarschaftshilfe, Selbsthilfegruppen, Psychotherapie-Kostenübernahme). Sie ersetzt keine Einzelfallberatung, sondern dient der ersten Orientierung.</p>",
+   "zustaendig": [
+    "Je nach Anliegen unterschiedlich – siehe Schritte oben",
+    "Kompetenznetz Einsamkeit (fachliche Koordination, keine Einzelfallhilfe)"
+   ],
+   "belege": [
+    "telefonseelsorge.de, silbernetz.org, nummergegenkummer.de, abgerufen September 2026",
+    "Kompetenznetz Einsamkeit, kompetenznetz-einsamkeit.de, abgerufen September 2026"
+   ],
+   "siehe_auch": [
+    "telefonseelsorge-und-krisendienste",
+    "wann-professionelle-hilfe-noetig",
+    "ueberblick-einsamkeit-erkennen"
+   ],
+   "stand": "Stand: September 2026."
+  }
+ ]
+}

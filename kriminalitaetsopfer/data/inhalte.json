@@ -1,0 +1,1020 @@
+{
+ "kategorien": [
+  {
+   "id": "ueberblick",
+   "titel": "Überblick und Grundlagen",
+   "icon": "🧭",
+   "beschreibung": "Einstieg: Ihre Rechte als Opfer einer Straftat im Überblick."
+  },
+  {
+   "id": "erste-schritte",
+   "titel": "Erste Schritte nach der Tat",
+   "icon": "🚨",
+   "beschreibung": "Anzeige, Beweissicherung und die ersten Stunden und Tage."
+  },
+  {
+   "id": "strafverfahren",
+   "titel": "Rechte im Strafverfahren",
+   "icon": "⚖️",
+   "beschreibung": "Nebenklage, Prozessbegleitung, Zeugenschutz, Täter-Opfer-Ausgleich."
+  },
+  {
+   "id": "entschaedigung",
+   "titel": "Entschädigung und finanzielle Hilfen",
+   "icon": "💶",
+   "beschreibung": "Soziale Entschädigung, Schmerzensgeld, Zeugenentschädigung."
+  },
+  {
+   "id": "deliktformen",
+   "titel": "Besondere Deliktformen",
+   "icon": "🛡️",
+   "beschreibung": "Stalking und Straftaten im Internet."
+  },
+  {
+   "id": "gesundheit-arbeit",
+   "titel": "Gesundheit und Arbeit",
+   "icon": "🩺",
+   "beschreibung": "Behandlungskosten, Krankschreibung und Lohnfortzahlung."
+  },
+  {
+   "id": "beratung",
+   "titel": "Beratung und Anlaufstellen",
+   "icon": "📞",
+   "beschreibung": "Wer bei welchem Anliegen hilft."
+  }
+ ],
+ "seiten": [
+  {
+   "id": "ueberblick-opferrechte",
+   "kategorie": "ueberblick",
+   "titel": "Rechte als Kriminalitätsopfer im Überblick",
+   "icon": "🧭",
+   "teaser": "Wer Opfer oder Geschädigter einer Straftat wird, hat im deutschen Strafverfahren eigene Rechte – unabhängig davon, ob die Polizei den Täter oder die Täterin je findet.",
+   "schlagworte": [
+    "Opferrechte",
+    "Verletzter",
+    "§ 406d StPO",
+    "§ 406e StPO",
+    "§ 406i StPO",
+    "Opferschutzrichtlinie",
+    "Anspruch auf Information"
+   ],
+   "kurz_html": "\n<p>Als <strong>Verletzter</strong> oder <strong>Verletzte</strong> einer Straftat – so der Rechtsbegriff der\nStrafprozessordnung – haben Sie eigene Rechte im Strafverfahren, auch wenn Sie nicht selbst klagen. Dazu gehören\nunter anderem ein Recht auf Information über den Stand des Verfahrens (§ 406d StPO), ein Recht auf Akteneinsicht\nüber eine Rechtsanwältin oder einen Rechtsanwalt (§ 406e StPO) und ein Recht auf Hinzuziehung eines Rechtsbeistands\n(§ 406f StPO). Wer besonders schutzbedürftig ist, hat außerdem Anspruch auf frühzeitige, verständliche Information\nüber Unterstützungsangebote (§ 406i StPO).</p>\n<p>Diese Seiten richten sich an Menschen, die eine Straftat allgemein erlebt haben – etwa Körperverletzung, Raub,\nDiebstahl, Betrug, Nötigung, Stalking oder Straftaten im Internet – unabhängig davon, ob Täter oder Täterin\nbekannt sind und unabhängig vom Verhältnis zum Täter. Ereignisse <strong>innerhalb einer Partnerschaft oder Familie</strong>\nwerden ausführlicher im eigenen Wegweiser „Häusliche Gewalt“ behandelt, der zusätzliche zivilrechtliche Schutzinstrumente\n(Gewaltschutzgesetz, Wegweisung) und frauenspezifische Angebote vertieft. Wer selbst einer Straftat beschuldigt wird,\nfindet die dafür passenden Informationen im Wegweiser für Beschuldigte und Straffällige – diese Seiten hier nehmen\nausschließlich die Perspektive der geschädigten Person ein.</p>\n",
+   "schritte": [
+    {
+     "titel": "Sicherheit zuerst",
+     "text": "Bringen Sie sich in Sicherheit und rufen Sie bei akuter Gefahr die Polizei (110) oder den Rettungsdienst (112)."
+    },
+    {
+     "titel": "Anzeige erstatten",
+     "text": "Eine Strafanzeige kann bei jeder Polizeidienststelle oder der Staatsanwaltschaft erstattet werden – auch später, siehe „Strafanzeige und Beweissicherung“."
+    },
+    {
+     "titel": "Rechte kennen",
+     "text": "Sie haben Anspruch auf Information über das Verfahren, auf Akteneinsicht über eine anwaltliche Vertretung und in geeigneten Fällen auf kostenlose psychosoziale Prozessbegleitung."
+    },
+    {
+     "titel": "Unterstützung suchen",
+     "text": "Beratungsstellen wie der WEISSER RING helfen unabhängig vom Ausgang eines Strafverfahrens – auch wenn keine Anzeige erstattet wird."
+    },
+    {
+     "titel": "Ansprüche prüfen",
+     "text": "Je nach Tat kommen soziale Entschädigung (SGB XIV), Schmerzensgeld oder eine Entschädigung als Zeuge in Betracht."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine allgemeine Frist",
+     "was": "Für die meisten Opferrechte im Strafverfahren (Information, Akteneinsicht, Prozessbegleitung) gibt es keine eigene Ausschlussfrist – wohl aber für einzelne Ansprüche wie den Strafantrag oder die Entschädigung als Zeuge (siehe jeweilige Themenseite).",
+     "grundlage": "§§ 406d–406i StPO"
+    }
+   ],
+   "achtung": [
+    "„Verletzter“ im Sinne der StPO zu sein setzt keine Verurteilung des Täters voraus – die Rechte bestehen bereits während des Ermittlungsverfahrens.",
+    "Diese Seiten ersetzen nicht die spezialisierten Angebote für Betroffene häuslicher Gewalt (siehe Wegweiser „Häusliche Gewalt“) und richten sich nicht an Beschuldigte.",
+    "Nicht jede Straftat verpflichtet die Polizei, Sie von sich aus über Ihre Rechte zu belehren, wenn kein Ermittlungsverfahren eröffnet wurde – fragen Sie aktiv nach, insbesondere nach kostenloser Beratung."
+   ],
+   "fach_html": "\n<h3>Rechtsgrundlage: das Opferrechtsreformgesetz und die EU-Opferschutzrichtlinie</h3>\n<p>Die heutigen Opferrechte der Strafprozessordnung gehen wesentlich auf mehrere Reformgesetze zurück, zuletzt das\nDritte Opferrechtsreformgesetz von 2015, mit dem unter anderem die EU-Richtlinie 2012/29/EU über Mindeststandards\nfür die Rechte, die Unterstützung und den Schutz von Opfern von Straftaten umgesetzt wurde. Seither sind Rechte wie\ndie psychosoziale Prozessbegleitung (§§ 406g, 406h StPO) und erweiterte Informationsrechte (§ 406d, § 406i StPO)\nausdrücklich gesetzlich verankert.</p>\n<h3>Verletzter vs. Nebenkläger vs. Zeuge</h3>\n<p>Die StPO unterscheidet mehrere Rollen, die sich überschneiden können: Der <strong>Verletzte</strong> ist die durch\ndie Straftat unmittelbar in ihren Rechten beeinträchtigte Person und Träger der §§ 406d ff. StPO-Rechte. Der\n<strong>Nebenkläger</strong> (§§ 395 ff. StPO) ist ein Verletzter, der sich bei bestimmten schwereren Delikten aktiv\nam Strafverfahren beteiligt (siehe „Nebenklage“). Als <strong>Zeuge</strong> werden Verletzte in aller Regel ohnehin\nvernommen, unabhängig davon, ob sie sich als Nebenkläger anschließen.</p>\n<h3>Abgrenzung zu häuslicher Gewalt und zur Beschuldigtenperspektive</h3>\n<p>Straftaten innerhalb bestehender oder ehemaliger Partnerschaften und Familien werfen zusätzliche Fragen auf\n(Gewaltschutzgesetz, Wegweisung durch die Polizei, Verbleib in der gemeinsamen Wohnung), die der Wegweiser\n„Häusliche Gewalt“ vertieft behandelt. Diese Seiten hier konzentrieren sich auf allgemeine und Fremdkriminalität:\nGewalt- und Eigentumsdelikte durch Unbekannte oder Bekannte außerhalb der Familie, Stalking und Straftaten im\nInternet. Wer selbst beschuldigt wird oder eine Straftat begangen hat, ist hier nicht die Zielgruppe.</p>\n",
+   "zustaendig": [
+    "Polizei",
+    "Staatsanwaltschaft",
+    "Beratungsstellen (z. B. WEISSER RING)"
+   ],
+   "belege": [
+    "§§ 395, 406d–406i StPO (gesetze-im-internet.de)",
+    "Richtlinie 2012/29/EU (Opferschutzrichtlinie)",
+    "Drittes Opferrechtsreformgesetz vom 21.12.2015 (BGBl. I S. 2525)"
+   ],
+   "siehe_auch": [
+    "anzeige-und-beweissicherung",
+    "nebenklage",
+    "beratung-anlaufstellen"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "anzeige-und-beweissicherung",
+   "kategorie": "erste-schritte",
+   "titel": "Strafanzeige und Beweissicherung",
+   "icon": "🚓",
+   "teaser": "Eine Strafanzeige kann formlos, mündlich und auch noch nach dem Ereignis erstattet werden. Beweise sichern Sie am besten sofort – das erhöht die Erfolgsaussichten erheblich.",
+   "schlagworte": [
+    "Strafanzeige",
+    "Strafantrag",
+    "§ 158 StPO",
+    "§ 77b StGB",
+    "Beweissicherung",
+    "Rechtsmedizin",
+    "Offizialdelikt",
+    "Antragsdelikt"
+   ],
+   "kurz_html": "\n<p>Eine <strong>Strafanzeige</strong> können Sie bei jeder Polizeidienststelle, online (je nach Bundesland) oder\ndirekt bei der Staatsanwaltschaft erstatten – formlos, auch mündlich, und grundsätzlich auch noch Wochen oder\nMonate nach dem Vorfall (§ 158 StPO). Die meisten Straftaten wie Körperverletzung, Raub, Diebstahl, Betrug,\nNötigung oder Sachbeschädigung werden unabhängig von einer Anzeige verfolgt, sobald die Behörden davon Kenntnis\nerlangen (sogenannte Offizialdelikte); bei einigen wenigen, meist leichteren Delikten (z. B. einfacher Hausfriedensbruch,\neinfache Sachbeschädigung ohne besonderes öffentliches Interesse) ist zusätzlich ein <strong>Strafantrag</strong>\nder geschädigten Person nötig, der innerhalb von drei Monaten ab Kenntnis von Tat und Täter gestellt werden muss\n(§ 77b StGB).</p>\n<p>Wichtiger als die Anzeige selbst ist oft die <strong>Beweissicherung</strong>: Fotos von Verletzungen, beschädigten\nGegenständen oder dem Tatort, Nachrichten- oder E-Mail-Verläufe, Namen und Kontaktdaten von Zeugen sowie ein\nzeitnahes ärztliches Attest erhöhen die Erfolgsaussichten erheblich. Bei körperlichen Verletzungen kann eine\nUntersuchung in einer Rechtsmedizin oder Gewaltschutzambulanz auch ohne sofortige Anzeige sinnvoll sein, da die\nDokumentation gerichtsfest gesichert und später verwendet werden kann.</p>\n",
+   "schritte": [
+    {
+     "titel": "In Sicherheit bringen",
+     "text": "Bei unmittelbarer Gefahr zuerst die Polizei (110) rufen, bei Verletzungen den Rettungsdienst (112)."
+    },
+    {
+     "titel": "Beweise sichern",
+     "text": "Fotos von Verletzungen, Schäden und Tatort machen, Nachrichten und Belege aufbewahren, Zeugen notieren, nichts Wichtiges wegwerfen oder reinigen."
+    },
+    {
+     "titel": "Ärztlich dokumentieren lassen",
+     "text": "Auch ohne akute Behandlungsnotwendigkeit: eine zeitnahe ärztliche oder rechtsmedizinische Untersuchung sichert Spuren gerichtsfest, teils auch anonym."
+    },
+    {
+     "titel": "Anzeige erstatten",
+     "text": "Bei der Polizei, online oder bei der Staatsanwaltschaft – mit oder ohne anwaltliche Begleitung, formlos und auch später möglich."
+    },
+    {
+     "titel": "Aktenzeichen notieren",
+     "text": "Für spätere Rückfragen, Anträge auf Akteneinsicht oder eine Entschädigung nach dem SGB XIV wird das Aktenzeichen benötigt."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "3 Monate",
+     "was": "Strafantragsfrist bei reinen Antragsdelikten ab Kenntnis von Tat und Täter/Täterin.",
+     "grundlage": "§ 77b StGB"
+    },
+    {
+     "wert": "Keine Frist",
+     "was": "Bei Offizialdelikten (z. B. Körperverletzung mit öffentlichem Interesse, Raub, Nötigung, Betrug) ist eine Anzeige grundsätzlich jederzeit möglich; die Verjährung der Tat selbst richtet sich nach § 78 StGB und ist je nach Delikt unterschiedlich lang.",
+     "grundlage": "§ 158 StPO, § 78 StGB"
+    }
+   ],
+   "achtung": [
+    "Ohne Beweise entsteht häufig eine Aussage-gegen-Aussage-Situation – eine zeitnahe Dokumentation ist die wirksamste Maßnahme, die Sie selbst ergreifen können.",
+    "Ein Strafantrag kann bei reinen Antragsdelikten nur eingeschränkt zurückgenommen werden; bei Offizialdelikten führt ohnehin der Staat das Verfahren, eine Rücknahme durch die geschädigte Person ist nicht vorgesehen.",
+    "Eine Anzeige bei der Polizei ist unabhängig von zivilrechtlichen Schritten (z. B. Schadensersatzklage oder, bei häuslicher Gewalt, einem Antrag nach dem Gewaltschutzgesetz) – beide Wege schließen sich nicht aus."
+   ],
+   "fach_html": "\n<h3>Offizialdelikte und Antragsdelikte</h3>\n<p>Die meisten im Alltag relevanten Straftaten – etwa Körperverletzung nach § 223 StGB, gefährliche Körperverletzung\n(§ 224 StGB), Raub (§ 249 StGB), Diebstahl (§ 242 StGB), Betrug (§ 263 StGB) oder Nötigung (§ 240 StGB) – werden von\nAmts wegen verfolgt (Offizialdelikte), sobald die Strafverfolgungsbehörden Kenntnis erlangen; bei einfacher\nKörperverletzung ist zwar grundsätzlich ein Strafantrag erforderlich (§ 230 StGB), die Staatsanwaltschaft kann aber\nohne ihn ermitteln, wenn sie ein besonderes öffentliches Interesse an der Strafverfolgung bejaht. Reine\nAntragsdelikte wie einfacher Hausfriedensbruch (§ 123 StGB) oder einfache Sachbeschädigung (§ 303 StGB) ohne\nbesonderes öffentliches Interesse werden dagegen nur auf Antrag verfolgt; die Antragsfrist beträgt 3 Monate ab\nKenntnis von Tat und Täter (§ 77b StGB).</p>\n<h3>Beweissicherung ohne sofortige Anzeige</h3>\n<p>Verletzungsdokumentationen durch Rechtsmedizin oder spezialisierte Ambulanzen können in vielen Regionen auch dann\nin Anspruch genommen werden, wenn noch keine Entscheidung über eine Anzeige getroffen wurde; die Befunde werden für\nden Fall einer späteren Anzeige aufbewahrt. Das nimmt Druck aus der Situation, unmittelbar nach der Tat entscheiden\nzu müssen.</p>\n<h3>Verhältnis zu Entschädigungsansprüchen</h3>\n<p>Eine polizeiliche Anzeige und eine gute Dokumentation sind zwar keine formale Voraussetzung für Ansprüche nach dem\nSGB XIV oder für zivilrechtlichen Schadensersatz, erleichtern deren Nachweis aber erheblich (siehe „Soziale\nEntschädigung“ und „Schmerzensgeld und Schadensersatz“).</p>\n",
+   "zustaendig": [
+    "Polizei",
+    "Staatsanwaltschaft",
+    "Rechtsmedizinische Institute / Gewaltschutzambulanzen"
+   ],
+   "belege": [
+    "§§ 158, 163 StPO (gesetze-im-internet.de)",
+    "§§ 77b, 78, 223, 224, 230, 240, 242, 249, 263, 303 StGB (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "ueberblick-opferrechte",
+    "soziale-entschaedigung-sgb-xiv",
+    "schmerzensgeld-schadensersatz"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "nebenklage",
+   "kategorie": "strafverfahren",
+   "titel": "Nebenklage: Als Opfer aktiv am Strafverfahren teilnehmen",
+   "icon": "⚖️",
+   "teaser": "Bei bestimmten schweren Straftaten können Sie sich als Nebenklägerin oder Nebenkläger dem Strafverfahren anschließen und aktiv mitwirken, statt nur Zeuge zu sein.",
+   "schlagworte": [
+    "Nebenklage",
+    "§ 395 StPO",
+    "§ 396 StPO",
+    "§ 397 StPO",
+    "Anschlusserklärung"
+   ],
+   "kurz_html": "\n<p>Die <strong>Nebenklage</strong> gibt Opfern bestimmter, meist schwererer Straftaten das Recht, sich dem laufenden\nStrafverfahren aktiv anzuschließen, statt nur als Zeuge aufzutreten. Zum Anschluss berechtigt sind unter anderem\nVerletzte von Sexualstraftaten, versuchten Tötungsdelikten, gefährlicher oder schwerer Körperverletzung, Freiheitsberaubung,\nNötigung in schweren Fällen, Nachstellung (Stalking) in besonders schweren Fällen sowie nahe Angehörige von\nGetöteten (§ 395 StPO). Bei anderen Straftaten ist ein Anschluss möglich, wenn die Interessenwahrnehmung wegen der\nschweren Folgen der Tat aus besonderen Gründen geboten erscheint.</p>\n<p>Als Nebenkläger oder Nebenklägerin haben Sie unter anderem ein Anwesenheitsrecht auch bei nichtöffentlichen\nVerhandlungsteilen, ein Fragerecht an Angeklagte, Zeugen und Sachverständige, das Recht, Beweisanträge zu stellen,\nsowie ein eigenes Beschwerderecht gegen bestimmte gerichtliche Entscheidungen (§ 397 StPO). Der Anschluss erfolgt\ndurch eine schriftliche Erklärung gegenüber dem Gericht (§ 396 StPO) und ist in bestimmten Fällen mit kostenloser\nanwaltlicher Vertretung möglich (siehe „Zeugenbeistand und anwaltliche Vertretung“).</p>\n",
+   "schritte": [
+    {
+     "titel": "Prüfen, ob die Tat zur Nebenklage berechtigt",
+     "text": "Maßgeblich ist die konkrete Anklage bzw. der zugrunde liegende Tatvorwurf – am besten mit anwaltlicher Beratung klären."
+    },
+    {
+     "titel": "Anschlusserklärung abgeben",
+     "text": "Die Erklärung, sich als Nebenkläger anzuschließen, wird schriftlich gegenüber dem Gericht abgegeben, üblicherweise durch eine anwaltliche Vertretung."
+    },
+    {
+     "titel": "Anwaltliche Vertretung klären",
+     "text": "Bei bestimmten schweren Delikten wird eine Rechtsanwältin oder ein Rechtsanwalt auf Staatskosten beigeordnet (siehe eigene Themenseite)."
+    },
+    {
+     "titel": "Am Verfahren teilnehmen",
+     "text": "Als Nebenkläger können Sie an der Hauptverhandlung teilnehmen, Fragen stellen und Beweisanträge stellen lassen."
+    },
+    {
+     "titel": "Rechtsmittel prüfen",
+     "text": "Gegen bestimmte Entscheidungen (z. B. Freispruch wegen Schuldunfähigkeit) steht der Nebenklage ein eigenes Rechtsmittel zu, unabhängig von der Staatsanwaltschaft."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine gesetzliche Frist",
+     "was": "Für den Anschluss als Nebenkläger nennt das Gesetz keine feste Ausschlussfrist; er sollte aber möglichst frühzeitig erfolgen, damit die damit verbundenen Rechte (z. B. Akteneinsicht, Fragerecht von Anfang an) genutzt werden können. In der Praxis ist ein Anschluss regelmäßig bis zum Abschluss der Beweisaufnahme möglich.",
+     "grundlage": "§§ 395, 396 StPO"
+    }
+   ],
+   "achtung": [
+    "Die Nebenklage ist kein eigenständiges Verfahren, sondern eine Beteiligung am von der Staatsanwaltschaft geführten Strafverfahren – ein Freispruch bleibt möglich.",
+    "Nicht jede Straftat berechtigt zur Nebenklage; bei nicht in § 395 StPO genannten Delikten ist der Anschluss nur ausnahmsweise über die Härtefallklausel (Absatz 3) möglich.",
+    "Der Anschluss als Nebenkläger schließt eine Zeugenaussage nicht aus – häufig sind Nebenkläger zugleich die wichtigsten Zeugen der Anklage."
+   ],
+   "fach_html": "\n<h3>Anschlussberechtigung im Einzelnen (§ 395 StPO)</h3>\n<p>§ 395 Abs. 1 StPO zählt die Delikte auf, bei denen ein Anschluss ohne Weiteres möglich ist, unter anderem:\nSexualstraftaten (§§ 174 bis 182, 184i bis 184k StGB), versuchter Mord oder Totschlag, Straftaten nach dem\nVölkerstrafgesetzbuch, gefährliche und schwere Körperverletzung sowie Aussetzung mit Todesfolge (§§ 221, 223 bis\n226a, 340 StGB), Menschenhandel, Zwangsheirat, Freiheitsberaubung, Geiselnahme und Nötigung in bestimmten schweren\nFällen (§§ 232 bis 238, 239 Abs. 3, 239a, 239b, 240 Abs. 4 StGB) sowie – ausdrücklich einbezogen – besonders\nschwere Fälle der Nachstellung nach § 238 StGB und Taten nach dem Gewaltschutzgesetz. Nach Absatz 2 können sich\nEltern, Kinder, Geschwister, Ehegatten oder Lebenspartner eines getöteten Opfers anschließen. Absatz 3 eröffnet den\nAnschluss darüber hinaus bei anderen rechtswidrigen Taten, wenn dies aus besonderen Gründen, insbesondere wegen der\nschweren Folgen der Tat, zur Wahrnehmung der Interessen geboten erscheint.</p>\n<h3>Befugnisse der Nebenklage (§ 397 StPO)</h3>\n<p>Nebenkläger dürfen der Hauptverhandlung ununterbrochen beiwohnen, auch wenn die Öffentlichkeit ausgeschlossen ist,\nRichter und Sachverständige wegen Besorgnis der Befangenheit ablehnen, Fragen an Angeklagte, Zeugen und\nSachverständige stellen, Beanstandungen erheben, Beweisanträge stellen und Erklärungen abgeben. Sie erhalten über\neine anwaltliche Vertretung außerdem Akteneinsicht (§ 406e StPO).</p>\n<h3>Verhältnis zur Staatsanwaltschaft</h3>\n<p>Die Nebenklage tritt neben, nicht anstelle der Staatsanwaltschaft; das Verfahren bleibt ein Offizialverfahren.\nDennoch verschafft sie den Betroffenen eine eigenständige, vom Ermessen der Staatsanwaltschaft unabhängige\nVerfahrensposition.</p>\n",
+   "zustaendig": [
+    "Amts- oder Landgericht (Strafgericht)",
+    "anwaltliche Vertretung"
+   ],
+   "belege": [
+    "§§ 395, 396, 397 StPO (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "zeugenbeistand-anwaltliche-vertretung",
+    "psychosoziale-prozessbegleitung",
+    "opferschutz-hauptverhandlung"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "zeugenbeistand-anwaltliche-vertretung",
+   "kategorie": "strafverfahren",
+   "titel": "Zeugenbeistand und anwaltliche Vertretung",
+   "icon": "🧑‍⚖️",
+   "teaser": "Auch als Zeugin oder Zeuge dürfen Sie sich anwaltlich begleiten lassen. Bei schweren Straftaten wird die anwaltliche Vertretung als Nebenkläger sogar auf Staatskosten beigeordnet.",
+   "schlagworte": [
+    "Zeugenbeistand",
+    "§ 68b StPO",
+    "§ 397a StPO",
+    "Prozesskostenhilfe",
+    "Beiordnung"
+   ],
+   "kurz_html": "\n<p>Unabhängig davon, ob Sie sich als Nebenkläger anschließen: Als Zeugin oder Zeuge dürfen Sie sich bei einer\npolizeilichen oder gerichtlichen Vernehmung von einer Rechtsanwältin oder einem Rechtsanwalt Ihres Vertrauens\nbegleiten lassen (§ 68b StPO). Dieser <strong>Zeugenbeistand</strong> darf bei der Vernehmung anwesend sein und\nIhnen beratend zur Seite stehen.</p>\n<p>Wollen Sie sich zusätzlich als Nebenkläger am Verfahren beteiligen, wird Ihnen bei bestimmten schweren Straftaten\n– etwa Sexualstraftaten, versuchten Tötungsdelikten oder schweren Gewaltdelikten mit erheblichen Folgen – auf\nAntrag <strong>unabhängig von Ihrem Einkommen</strong> eine Rechtsanwältin oder ein Rechtsanwalt auf Staatskosten\nbeigeordnet (§ 397a Abs. 1 StPO). In anderen Nebenklagefällen kommt eine Beiordnung über Prozesskostenhilfe in\nBetracht, wenn Sie sich die Vertretung sonst nicht leisten könnten und die Rechtslage oder Beweislage schwierig ist\n(§ 397a Abs. 2 StPO).</p>\n",
+   "schritte": [
+    {
+     "titel": "Zeugenbeistand hinzuziehen",
+     "text": "Schon zur ersten polizeilichen Vernehmung können Sie eine Anwältin oder einen Anwalt mitnehmen (§ 68b StPO)."
+    },
+    {
+     "titel": "Nebenklage prüfen",
+     "text": "Klären Sie mit einer anwaltlichen Beratung, ob die Tat zur Nebenklage berechtigt (siehe eigene Themenseite)."
+    },
+    {
+     "titel": "Beiordnung beantragen",
+     "text": "Bei den in § 397a Abs. 1 StPO genannten schweren Delikten wird die anwaltliche Vertretung auf Antrag unabhängig vom Einkommen beigeordnet."
+    },
+    {
+     "titel": "Prozesskostenhilfe beantragen",
+     "text": "In anderen Fällen kann Prozesskostenhilfe beantragt werden, wenn die eigenen finanziellen Mittel nicht ausreichen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine gesetzliche Frist",
+     "was": "Der Antrag auf Beiordnung sollte möglichst frühzeitig gestellt werden, idealerweise vor oder mit dem Anschluss als Nebenkläger; eine feste gesetzliche Ausschlussfrist hierfür konnte im Rahmen dieser Recherche nicht festgestellt werden.",
+     "grundlage": "§ 397a StPO"
+    }
+   ],
+   "achtung": [
+    "Der Zeugenbeistand nach § 68b StPO steht jedem Zeugen zu, unabhängig davon, ob er sich als Nebenkläger anschließt oder überhaupt anschließen darf.",
+    "Die kostenfreie Beiordnung nach § 397a Abs. 1 StPO gilt nur für die dort ausdrücklich genannten Delikte (u. a. bestimmte Sexual- und schwere Gewaltdelikte) – bei anderen Taten ist regelmäßig ein Antrag auf Prozesskostenhilfe mit Bedürftigkeitsprüfung nötig.",
+    "Ein Zeugenbeistand darf grundsätzlich nicht selbst inhaltlich für den Zeugen aussagen, sondern berät und schützt vor unzulässigen Fragen."
+   ],
+   "fach_html": "\n<h3>§ 68b StPO: Zeugenbeistand</h3>\n<p>§ 68b StPO gibt jedem Zeugen das Recht, sich bei seiner Vernehmung des Beistands einer Rechtsanwältin oder eines\nRechtsanwalts zu bedienen. Der Beistand kann anwesend sein und die zeugliche Person unterstützen, ohne selbst Partei\ndes Verfahrens zu werden.</p>\n<h3>§ 397a StPO: Pflichtbeiordnung und Prozesskostenhilfe für Nebenkläger</h3>\n<p>Nach § 397a Abs. 1 StPO wird Verletzten auf ihren Antrag ein Rechtsanwalt oder eine Rechtsanwältin bestellt,\nunabhängig von den wirtschaftlichen Verhältnissen, unter anderem bei Verbrechen nach § 177 StGB (schwere\nFälle sexuellen Übergriffs) und bestimmten Menschenhandelsdelikten, bei versuchtem Mord oder Totschlag mit\nVerletzungsfolge, bei schweren Körperverletzungs- und Freiheitsdelikten sowie bei minderjährigen oder aus anderen\nGründen besonders schutzbedürftigen Verletzten von Sexual- oder Gewaltdelikten. Liegen diese Voraussetzungen nicht\nvor, kann nach § 397a Abs. 2 StPO gleichwohl ein Rechtsanwalt im Wege der Prozesskostenhilfe beigeordnet werden,\nwenn die Verletzte oder der Verletzte ihre bzw. seine Interessen sonst nicht ausreichend wahrnehmen kann und die\nVertretung durch einen Rechtsanwalt erforderlich erscheint.</p>\n<h3>Kostenfreiheit der psychosozialen Prozessbegleitung</h3>\n<p>Unabhängig von der anwaltlichen Vertretung steht in geeigneten Fällen zusätzlich eine kostenlose psychosoziale\nProzessbegleitung zur Verfügung (siehe eigene Themenseite) – beide Unterstützungsformen schließen sich nicht aus\nund ergänzen sich.</p>\n",
+   "zustaendig": [
+    "Amts- oder Landgericht (Strafgericht)",
+    "Rechtsanwaltskammer / Anwaltssuche für Fachanwälte Strafrecht"
+   ],
+   "belege": [
+    "§ 68b StPO (gesetze-im-internet.de)",
+    "§ 397a StPO (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "nebenklage",
+    "psychosoziale-prozessbegleitung"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "psychosoziale-prozessbegleitung",
+   "kategorie": "strafverfahren",
+   "titel": "Psychosoziale Prozessbegleitung",
+   "icon": "🤝",
+   "teaser": "Psychosoziale Prozessbegleitung unterstützt Opfer schwerer Straftaten kostenlos vor, während und nach der Hauptverhandlung – unabhängig von anwaltlicher Vertretung.",
+   "schlagworte": [
+    "Psychosoziale Prozessbegleitung",
+    "§ 406g StPO",
+    "§ 406h StPO",
+    "PsychPbG",
+    "Prozessbegleiter"
+   ],
+   "kurz_html": "\n<p><strong>Psychosoziale Prozessbegleitung</strong> ist eine besondere Form der nichtrechtlichen, informierenden und\nbegleitenden Unterstützung für Opfer von Straftaten vor, während und nach einer Hauptverhandlung. Prozessbegleiter\nund Prozessbegleiterinnen bereiten auf Vernehmungssituationen vor, begleiten zu Terminen und helfen, mit der\npsychischen Belastung des Verfahrens umzugehen – sie leisten aber keine Rechtsberatung und ersetzen keine\nanwaltliche Vertretung. Grundlage ist das Gesetz über die psychosoziale Prozessbegleitung im Strafverfahren\n(PsychPbG), das seit 1. Januar 2017 gilt, in Verbindung mit §§ 406g, 406h StPO.</p>\n<p>Bei bestimmten schweren Straftaten – im Wesentlichen denselben, bei denen auch eine kostenlose anwaltliche\nVertretung als Nebenkläger unabhängig vom Einkommen zusteht (§ 397a Abs. 1 Nr. 4 bis 6 StPO, insbesondere bei\nminderjährigen oder besonders schutzbedürftigen Opfern von Sexual- und Gewaltdelikten) – besteht ein\n<strong>Rechtsanspruch</strong> auf Beiordnung eines Prozessbegleiters (§ 406g Abs. 3 StPO). In anderen Fällen kann\neine Beiordnung erfolgen, wenn die besondere Schutzbedürftigkeit des Opfers dies erfordert (§ 406g Abs. 4 StPO,\nErmessensentscheidung). Die Prozessbegleitung ist für die Betroffenen in beiden Fällen kostenlos.</p>\n",
+   "schritte": [
+    {
+     "titel": "Anspruch prüfen",
+     "text": "Klären Sie – am besten mit anwaltlicher oder Beratungsstellen-Unterstützung – ob die Tat einen Rechtsanspruch auf Beiordnung begründet."
+    },
+    {
+     "titel": "Antrag stellen",
+     "text": "Der Antrag auf Beiordnung wird bei Gericht gestellt, meist über eine anwaltliche Vertretung oder eine Beratungsstelle."
+    },
+    {
+     "titel": "Zertifizierte Prozessbegleitung auswählen",
+     "text": "Die Länder führen Listen zertifizierter Prozessbegleiter und -begleiterinnen; die Auswahl kann nach Möglichkeit selbst getroffen werden."
+    },
+    {
+     "titel": "Begleitung nutzen",
+     "text": "Die Begleitung beginnt idealerweise vor der ersten Vernehmung und reicht bis zum Abschluss der Hauptverhandlung."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine gesetzliche Frist",
+     "was": "Für den Antrag auf Beiordnung nennt das Gesetz keine feste Frist; er sollte aber möglichst vor der ersten Vernehmung gestellt werden, damit die Begleitung von Anfang an wirken kann.",
+     "grundlage": "§ 406g StPO"
+    }
+   ],
+   "achtung": [
+    "Psychosoziale Prozessbegleitung ist keine Rechtsberatung und ersetzt keine anwaltliche Vertretung – beide Unterstützungsformen ergänzen sich.",
+    "Der Rechtsanspruch nach § 406g Abs. 3 StPO gilt nur für die dort genannten Personengruppen (u. a. minderjährige oder besonders schutzbedürftige Opfer schwerer Sexual- und Gewaltdelikte); in anderen Fällen handelt es sich um eine Ermessensentscheidung des Gerichts.",
+    "Prozessbegleitung muss von zertifizierten Fachkräften geleistet werden – die Zulassung richtet sich nach Landesrecht auf Grundlage des PsychPbG."
+   ],
+   "fach_html": "\n<h3>Rechtsgrundlagen</h3>\n<p>Das Gesetz über die psychosoziale Prozessbegleitung im Strafverfahren (PsychPbG) ist zum 1. Januar 2017 in Kraft\ngetreten und regelt Qualifikation und Zulassung von Prozessbegleitern und -begleiterinnen. Die verfahrensrechtliche\nGrundlage für die Bestellung findet sich in §§ 406g, 406h StPO.</p>\n<h3>Pflicht- und Ermessensbeiordnung (§ 406g Abs. 3 und 4 StPO)</h3>\n<p>Nach § 406g Abs. 3 StPO ist Verletzten, die die Voraussetzungen des § 397a Abs. 1 Nr. 4 bis 6 StPO erfüllen\n(insbesondere minderjährige Verletzte von Sexual- oder schweren Gewaltdelikten sowie Verletzte, die ihre Interessen\naus anderen Gründen nicht selbst wahrnehmen können), auf Antrag eine psychosoziale Prozessbegleitung beizuordnen.\nBei den in § 397a Abs. 1 Nr. 1 bis 3 StPO genannten, ebenfalls schweren Delikten (u. a. Verbrechen nach § 177 StGB,\nversuchte Tötungsdelikte, schwere Körperverletzung) kann eine Beiordnung erfolgen, wenn die besondere\nSchutzbedürftigkeit dies erfordert (§ 406g Abs. 4 StPO).</p>\n<h3>Verhältnis zur Nebenklage</h3>\n<p>Psychosoziale Prozessbegleitung steht unabhängig davon zur Verfügung, ob sich die verletzte Person als\nNebenkläger anschließt; beide Institute lassen sich kombinieren, verfolgen aber unterschiedliche Zwecke – die eine\nbegleitet, die andere vertritt rechtlich.</p>\n",
+   "zustaendig": [
+    "Amts- oder Landgericht (Strafgericht)",
+    "Landesweit anerkannte Fachstellen für psychosoziale Prozessbegleitung"
+   ],
+   "belege": [
+    "PsychPbG, in Kraft seit 01.01.2017 (gesetze-im-internet.de)",
+    "§§ 406g, 406h StPO (gesetze-im-internet.de)",
+    "§ 397a Abs. 1 StPO (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "nebenklage",
+    "zeugenbeistand-anwaltliche-vertretung",
+    "opferschutz-hauptverhandlung"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "soziale-entschaedigung-sgb-xiv",
+   "kategorie": "entschaedigung",
+   "titel": "Soziale Entschädigung nach dem SGB XIV",
+   "icon": "📋",
+   "teaser": "Wer durch einen vorsätzlichen, rechtswidrigen tätlichen Angriff gesundheitlich geschädigt wurde, kann unabhängig vom Ausgang eines Strafverfahrens Leistungen der sozialen Entschädigung beantragen.",
+   "schlagworte": [
+    "SGB XIV",
+    "Opferentschädigungsgesetz",
+    "OEG",
+    "Soziale Entschädigung",
+    "Traumaambulanz",
+    "§ 1 SGB XIV"
+   ],
+   "kurz_html": "\n<p>Seit dem <strong>1. Januar 2024</strong> regelt das <strong>Vierzehnte Buch Sozialgesetzbuch (SGB XIV)</strong>\ndie soziale Entschädigung für Opfer von Gewalttaten und hat das frühere Opferentschädigungsgesetz (OEG) abgelöst.\nAnspruch besteht nach § 1 SGB XIV, wenn Sie durch einen vorsätzlichen, rechtswidrigen tätlichen Angriff eine\ngesundheitliche Schädigung erlitten haben – unabhängig davon, ob es zu einer Verurteilung des Täters kommt oder der\nTäter überhaupt ermittelt werden konnte. Zu den Leistungen gehören unter anderem schnelle psychologische Akuthilfe\nüber Traumaambulanzen, Heilbehandlung und, je nach gesundheitlichen Folgen, eine Entschädigungsrente.</p>\n<p>Diese Seite behandelt die soziale Entschädigung für Opfer allgemeiner Gewalttaten außerhalb von Partnerschaft\noder Familie. Für Betroffene häuslicher Gewalt gilt dasselbe Gesetz, mit einigen zusätzlichen Besonderheiten\n(z. B. der Abschaffung des früheren „Mitverschuldens“-Ausschlusses bei Verbleiben bei der gewalttätigen Person) –\ndiese sind ausführlich im Wegweiser „Häusliche Gewalt“ dargestellt.</p>\n",
+   "schritte": [
+    {
+     "titel": "Antrag stellen",
+     "text": "Antrag beim zuständigen Amt für Soziale Entschädigung bzw. Versorgungsamt Ihres Bundeslandes (Bezeichnung variiert je nach Land)."
+    },
+    {
+     "titel": "Akuthilfe parallel nutzen",
+     "text": "Bei akutem psychischem Unterstützungsbedarf kann eine Traumaambulanz oft schon vor abschließender Bewilligung schnell erste Hilfe leisten."
+    },
+    {
+     "titel": "Nachweise beifügen",
+     "text": "Ärztliche Atteste, Polizeiprotokolle oder andere Dokumentation der Tat beifügen, soweit vorhanden – auch formlose Angaben können später ergänzt werden."
+    },
+    {
+     "titel": "Prüfung abwarten",
+     "text": "Das zuständige Amt prüft den Antrag und erlässt einen Bescheid."
+    },
+    {
+     "titel": "Bei Ablehnung: Widerspruch",
+     "text": "Gegen einen ablehnenden oder unzureichenden Bescheid ist innerhalb eines Monats Widerspruch möglich."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Nicht abschließend verifiziert",
+     "was": "Eine allgemeine gesetzliche Ausschlussfrist für den Erstantrag auf soziale Entschädigung ließ sich im Rahmen dieser Recherche nicht eindeutig belegen. Diese Angabe ist ausdrücklich als unsicher gekennzeichnet – erkundigen Sie sich beim zuständigen Amt nach etwaigen Fristen im Einzelfall.",
+     "grundlage": "SGB XIV"
+    },
+    {
+     "wert": "1 Monat",
+     "was": "Allgemeine Widerspruchsfrist gegen Bescheide der Sozialverwaltung ab Zustellung.",
+     "grundlage": "§ 84 SGG"
+    }
+   ],
+   "achtung": [
+    "Die Regeln des SGB XIV gelten grundsätzlich für schädigende Ereignisse ab dem 1. Januar 2024; für frühere Taten gilt in der Regel noch das alte Opferentschädigungsgesetz (OEG) mit dessen Voraussetzungen (Bestandsschutz).",
+    "Die genaue Bezeichnung und Erreichbarkeit der zuständigen Behörde unterscheidet sich je nach Bundesland (z. B. Versorgungsamt, Amt für Soziale Entschädigung, Landesamt für Soziales) – lokale Auskunft über eine Beratungsstelle einholen.",
+    "Ansprüche nach dem SGB XIV schließen andere Leistungen (z. B. Krankenversicherung, Grundsicherung) nicht grundsätzlich aus, können aber im Einzelfall angerechnet werden."
+   ],
+   "fach_html": "\n<h3>Was sich mit dem SGB XIV geändert hat</h3>\n<p>Das SGB XIV ist zum 1. Januar 2024 vollständig in Kraft getreten und hat das Soziale Entschädigungsrecht in einem\neigenen Gesetzbuch neu gefasst. Gegenüber dem alten Opferentschädigungsgesetz wurden Anspruchsvoraussetzungen und\nLeistungskatalog erweitert; ausdrücklich wird auch psychische Gewalt berücksichtigt.</p>\n<h3>Traumaambulanzen als schnelle Akuthilfe</h3>\n<p>Traumaambulanzen ermöglichen psychisch traumatisierten Gewaltopfern zeitnahen Zugang zu erster fachlicher\nUnterstützung, unabhängig vom Ausgang eines etwaigen Straf- oder Entschädigungsverfahrens.</p>\n<h3>Grundsatz (§ 1 SGB XIV)</h3>\n<p>§ 1 SGB XIV formuliert den Grundsatz, dass Personen, die durch ein schädigendes Ereignis eine gesundheitliche\nSchädigung erlitten haben, Anspruch auf Leistungen der sozialen Entschädigung haben – dazu zählt ausdrücklich der\nvorsätzliche, rechtswidrige tätliche Angriff, unabhängig vom Verhältnis zwischen Täter und Opfer.</p>\n<h3>Abgrenzung zu häuslicher Gewalt</h3>\n<p>Der Wegweiser „Häusliche Gewalt“ behandelt dieselbe Rechtsgrundlage vertieft für Fälle innerhalb von Partnerschaft\noder Familie, insbesondere die dort abgeschafften früheren Ausschlussgründe wegen „Mitverschuldens“. Diese\nBesonderheiten werden hier nicht wiederholt.</p>\n",
+   "zustaendig": [
+    "Amt für Soziale Entschädigung / Versorgungsamt des jeweiligen Bundeslandes"
+   ],
+   "belege": [
+    "SGB XIV, in Kraft seit 01.01.2024 (gesetze-im-internet.de)",
+    "§ 1 SGB XIV (gesetze-im-internet.de)",
+    "§ 84 SGG (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "schmerzensgeld-schadensersatz",
+    "krankenversicherung-behandlungskosten"
+   ],
+   "stand": "Stand: September 2026 (SGB XIV in Kraft seit 1. Januar 2024, löst das Opferentschädigungsgesetz ab)."
+  },
+  {
+   "id": "schmerzensgeld-schadensersatz",
+   "kategorie": "entschaedigung",
+   "titel": "Schmerzensgeld und Schadensersatz",
+   "icon": "💶",
+   "teaser": "Unabhängig vom Strafverfahren können Sie vom Täter zivilrechtlich Schmerzensgeld und Schadensersatz verlangen – im Adhäsionsverfahren gleich innerhalb des Strafprozesses oder per Zivilklage.",
+   "schlagworte": [
+    "Schmerzensgeld",
+    "Schadensersatz",
+    "§ 253 BGB",
+    "§ 823 BGB",
+    "Adhäsionsverfahren",
+    "§ 199 BGB",
+    "§ 208 BGB"
+   ],
+   "kurz_html": "\n<p>Wer durch eine Straftat verletzt oder geschädigt wurde, hat regelmäßig auch zivilrechtliche Ansprüche gegen die\nTäterin oder den Täter: <strong>Schadensersatz</strong> für materielle Schäden (z. B. Behandlungskosten, Verdienstausfall,\nbeschädigtes Eigentum) nach § 823 BGB und <strong>Schmerzensgeld</strong> für immaterielle Beeinträchtigungen bei\nVerletzung von Körper, Gesundheit, Freiheit oder sexueller Selbstbestimmung nach § 253 Abs. 2 BGB. Diese Ansprüche\nbestehen unabhängig vom Ausgang eines Strafverfahrens, setzen aber voraus, dass Sie den Täter zivilrechtlich in\nAnspruch nehmen können – was bei unbekannten Tätern faktisch oft nicht durchsetzbar ist.</p>\n<p>Im Strafverfahren können Sie diese Ansprüche über das <strong>Adhäsionsverfahren</strong> geltend machen\n(§§ 403 bis 406c StPO): Das Strafgericht entscheidet dann im selben Verfahren auch über den zivilrechtlichen\nAnspruch, sodass keine separate Zivilklage nötig ist. Alternativ bleibt der Weg der eigenständigen Zivilklage vor\ndem Zivilgericht offen.</p>\n",
+   "schritte": [
+    {
+     "titel": "Schaden dokumentieren",
+     "text": "Belege für materielle Schäden (Arztrechnungen, Reparaturkosten, Verdienstausfall) und den Verlauf gesundheitlicher Folgen sammeln."
+    },
+    {
+     "titel": "Adhäsionsantrag prüfen",
+     "text": "Im laufenden Strafverfahren kann bereits vor oder in der Hauptverhandlung ein Adhäsionsantrag gestellt werden, um Schmerzensgeld und Schadensersatz gleich mitzuentscheiden."
+    },
+    {
+     "titel": "Alternativ: Zivilklage vorbereiten",
+     "text": "Ist kein Adhäsionsverfahren möglich oder sinnvoll, kann eine eigenständige Klage vor dem Zivilgericht erhoben werden."
+    },
+    {
+     "titel": "Verjährung im Blick behalten",
+     "text": "Prüfen Sie frühzeitig, welche Verjährungsfrist für Ihren Anspruch gilt (siehe Fristen)."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "3 Jahre",
+     "was": "Regelmäßige Verjährungsfrist für Schadensersatz- und Schmerzensgeldansprüche, beginnend mit Ende des Jahres, in dem der Anspruch entstanden ist und die geschädigte Person von Schaden und Schädiger Kenntnis erlangt hat (oder ohne grobe Fahrlässigkeit hätte erlangen müssen).",
+     "grundlage": "§§ 195, 199 Abs. 1 BGB"
+    },
+    {
+     "wert": "30 Jahre",
+     "was": "Schadensersatzansprüche wegen Verletzung des Lebens, des Körpers, der Gesundheit oder der Freiheit verjähren unabhängig von Kenntnis spätestens 30 Jahre nach der schädigenden Handlung.",
+     "grundlage": "§ 199 Abs. 2 BGB"
+    },
+    {
+     "wert": "Bis zum 21. Lebensjahr gehemmt",
+     "was": "Bei Ansprüchen wegen Verletzung der sexuellen Selbstbestimmung ist die Verjährung bis zur Vollendung des 21. Lebensjahrs der geschädigten Person gehemmt (bei fortbestehendem gemeinsamen Haushalt mit dem Schädiger länger).",
+     "grundlage": "§ 208 BGB"
+    }
+   ],
+   "achtung": [
+    "Häufige Fehlannahme: Die 30-Jahres-Frist für Körper- und Gesundheitsverletzungen steht in § 199 Abs. 2 BGB, nicht in § 197 BGB – § 197 BGB betrifft andere, bereits rechtskräftig festgestellte oder vollstreckbare Ansprüche.",
+    "Ein zivilrechtlicher Anspruch nützt wenig, wenn der Täter mittellos oder unbekannt ist – prüfen Sie parallel Ansprüche auf soziale Entschädigung nach dem SGB XIV, die nicht von der Zahlungsfähigkeit des Täters abhängen.",
+    "Ein Adhäsionsantrag kann vom Gericht abgelehnt werden, wenn er sich zur Erledigung im Strafverfahren nicht eignet (z. B. weil er das Verfahren erheblich verzögern würde) – dann bleibt nur die separate Zivilklage."
+   ],
+   "fach_html": "\n<h3>Rechtsgrundlagen</h3>\n<p>§ 823 Abs. 1 BGB begründet eine Schadensersatzpflicht bei vorsätzlicher oder fahrlässiger Verletzung von Leben,\nKörper, Gesundheit, Freiheit, Eigentum oder eines sonstigen Rechts; § 823 Abs. 2 BGB knüpft zusätzlich an die\nVerletzung eines Schutzgesetzes an, wozu die meisten Strafgesetze zählen. § 253 Abs. 2 BGB erlaubt Schmerzensgeld\nnamentlich bei Verletzung des Körpers, der Gesundheit, der Freiheit oder der sexuellen Selbstbestimmung.</p>\n<h3>Adhäsionsverfahren (§§ 403–406c StPO)</h3>\n<p>Im Adhäsionsverfahren kann die verletzte Person ihren aus der Straftat erwachsenen vermögensrechtlichen Anspruch\nbereits im Strafverfahren geltend machen. Vorteile sind unter anderem, dass keine gesonderte Zivilklage mit\neigenem Kostenrisiko nötig ist und die im Strafverfahren ohnehin erhobenen Beweise mitgenutzt werden. Das Gericht\nkann von einer Entscheidung absehen, wenn sich der Antrag zur Erledigung im Strafverfahren nicht eignet.</p>\n<h3>Verjährung im Detail</h3>\n<p>Die regelmäßige Verjährungsfrist von drei Jahren (§§ 195, 199 Abs. 1 BGB) setzt Kenntnis oder grob fahrlässige\nUnkenntnis von Schaden und Schädiger voraus. Unabhängig davon verjähren Schadensersatzansprüche wegen Verletzung\ndes Lebens, des Körpers, der Gesundheit oder der Freiheit ohne Rücksicht auf die Kenntnis spätestens 30 Jahre nach\nder Tat (§ 199 Abs. 2 BGB). Für Ansprüche wegen Verletzung der sexuellen Selbstbestimmung ordnet § 208 BGB\nzusätzlich eine Hemmung der Verjährung bis zur Vollendung des 21. Lebensjahrs der geschädigten Person an; lebten\nGeschädigte und Schädiger bei Beginn der Verjährung in häuslicher Gemeinschaft, wird die Hemmung bis zum Ende\ndieser Gemeinschaft verlängert.</p>\n",
+   "zustaendig": [
+    "Strafgericht (im Adhäsionsverfahren)",
+    "Zivilgericht (bei eigenständiger Klage)"
+   ],
+   "belege": [
+    "§§ 195, 199, 208, 253, 823 BGB (gesetze-im-internet.de)",
+    "§§ 403–406c StPO (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "soziale-entschaedigung-sgb-xiv",
+    "nebenklage"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "taeter-opfer-ausgleich",
+   "kategorie": "strafverfahren",
+   "titel": "Täter-Opfer-Ausgleich",
+   "icon": "🤲",
+   "teaser": "Staatsanwaltschaft und Gericht sollen in jedem Verfahrensstadium prüfen, ob ein Ausgleich zwischen Täter und Opfer möglich ist – freiwillig und nur mit Ihrer Zustimmung.",
+   "schlagworte": [
+    "Täter-Opfer-Ausgleich",
+    "TOA",
+    "§ 155a StPO",
+    "§ 46a StGB",
+    "§ 155b StPO"
+   ],
+   "kurz_html": "\n<p>Der <strong>Täter-Opfer-Ausgleich (TOA)</strong> ist ein freiwilliges, meist von einer neutralen Vermittlungsstelle\nbegleitetes Verfahren, in dem Täter und Opfer versuchen, die Folgen einer Straftat einvernehmlich aufzuarbeiten –\netwa durch eine Entschuldigung, Wiedergutmachung oder finanziellen Ausgleich. Staatsanwaltschaft und Gericht\n<strong>sollen</strong> in jedem Stadium des Verfahrens prüfen, ob ein solcher Ausgleich möglich ist (§ 155a StPO).\nEin Täter-Opfer-Ausgleich darf aber nicht gegen den ausdrücklichen Willen der geschädigten Person durchgeführt\nwerden – Ihre Teilnahme ist freiwillig, eine Ablehnung darf Ihnen nicht zum Nachteil gereichen.</p>\n<p>Kommt ein Ausgleich zustande, kann dies für die Täterin oder den Täter strafmildernd wirken oder sogar zur\nEinstellung des Verfahrens führen (§ 46a StGB); für Sie als Opfer kann er eine schnellere, persönlichere Form der\nWiedergutmachung sein als ein langes Strafverfahren – ist aber kein Ersatz für Entschädigungsansprüche, die\nunabhängig davon bestehen bleiben.</p>\n",
+   "schritte": [
+    {
+     "titel": "Angebot abwarten oder aktiv nachfragen",
+     "text": "Staatsanwaltschaft, Gericht oder eine Ausgleichsstelle können einen TOA vorschlagen; Sie können auch selbst danach fragen."
+    },
+    {
+     "titel": "Informieren, nicht entscheiden lassen",
+     "text": "Lassen Sie sich vor einer Zusage über Ablauf, Rechte und Grenzen des Verfahrens informieren – etwa durch eine Beratungsstelle."
+    },
+    {
+     "titel": "Frei entscheiden",
+     "text": "Ein TOA setzt Ihre Zustimmung voraus; eine Ablehnung ist jederzeit möglich und ohne Nachteile für Sie."
+    },
+    {
+     "titel": "Ausgleichsgespräch",
+     "text": "Bei Zustimmung beider Seiten moderiert eine neutrale Ausgleichsstelle das Gespräch bzw. den Austausch."
+    },
+    {
+     "titel": "Ergebnis dem Verfahren mitteilen",
+     "text": "Das Ergebnis wird der Staatsanwaltschaft oder dem Gericht mitgeteilt und kann strafmildernd berücksichtigt werden."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine gesetzliche Frist",
+     "was": "Ein Täter-Opfer-Ausgleich kann in jedem Stadium des Ermittlungs- oder Strafverfahrens geprüft werden; eine feste Frist nennt das Gesetz nicht.",
+     "grundlage": "§ 155a StPO"
+    }
+   ],
+   "achtung": [
+    "Ein Täter-Opfer-Ausgleich darf gegen den ausdrücklichen Willen der geschädigten Person nicht durchgeführt werden – niemand kann Sie zur Teilnahme zwingen.",
+    "Personenbezogene Daten dürfen an eine Ausgleichsstelle nur mit Einwilligung der Betroffenen übermittelt werden (§ 155b StPO) – ohne Ihre Zustimmung erfährt die Ausgleichsstelle nichts über Sie.",
+    "Ein TOA ersetzt keine zivilrechtlichen oder sozialrechtlichen Entschädigungsansprüche – diese bestehen unabhängig fort, sofern im Ausgleich nichts anderes vereinbart wird."
+   ],
+   "fach_html": "\n<h3>§ 155a StPO: Prüfungspflicht</h3>\n<p>Nach § 155a StPO sollen Staatsanwaltschaft und Gericht in jedem Stadium des Verfahrens die Möglichkeiten prüfen,\neinen Ausgleich zwischen Beschuldigtem und Verletztem zu erreichen. Ein Täter-Opfer-Ausgleich darf gegen den\nausdrücklichen Willen der oder des Verletzten nicht durchgeführt werden.</p>\n<h3>§ 155b StPO: Datenschutz</h3>\n<p>Die Übermittlung personenbezogener Daten an eine mit dem Ausgleich befasste Stelle setzt grundsätzlich die\nEinwilligung der oder des Betroffenen voraus.</p>\n<h3>§ 46a StGB: Strafmilderung</h3>\n<p>Hat der Täter oder die Täterin sich ernsthaft um einen Ausgleich mit der verletzten Person bemüht und diesen ganz\noder zum überwiegenden Teil erbracht oder dessen Erbringung ernsthaft angestrebt, kann das Gericht die Strafe nach\n§ 46a StGB mildern oder in bestimmten Fällen von Strafe absehen.</p>\n<h3>Praktische Durchführung</h3>\n<p>Der Täter-Opfer-Ausgleich wird in der Praxis meist von freien Trägern (Ausgleichsstellen, Konfliktschlichtungsstellen)\ndurchgeführt, die von Justiz und Polizei unabhängig sind und die Kommunikation zwischen den Beteiligten moderieren.</p>\n",
+   "zustaendig": [
+    "Staatsanwaltschaft",
+    "Gericht",
+    "unabhängige Ausgleichs- bzw. Konfliktschlichtungsstellen"
+   ],
+   "belege": [
+    "§ 155a StPO (gesetze-im-internet.de)",
+    "§ 155b StPO (gesetze-im-internet.de)",
+    "§ 46a StGB (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "nebenklage",
+    "beratung-anlaufstellen"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "opferschutz-hauptverhandlung",
+   "kategorie": "strafverfahren",
+   "titel": "Opfer- und Zeugenschutz in der Hauptverhandlung",
+   "icon": "🛡️",
+   "teaser": "Das Gesetz sieht mehrere Instrumente vor, um Opfer bei ihrer Aussage in der Hauptverhandlung zu schützen – von der Videovernehmung bis zum Ausschluss der Öffentlichkeit.",
+   "schlagworte": [
+    "Zeugenschutz",
+    "§ 247a StPO",
+    "§ 171b GVG",
+    "§ 58a StPO",
+    "§ 68 StPO",
+    "Videovernehmung",
+    "Ausschluss der Öffentlichkeit"
+   ],
+   "kurz_html": "\n<p>Als Zeugin oder Zeuge einer Straftat müssen Sie grundsätzlich in der Hauptverhandlung aussagen – das Gesetz\nkennt aber mehrere Instrumente, um diese Situation erträglicher und sicherer zu machen. Bei der Gefahr eines\nschwerwiegenden Nachteils für das Wohl einer zu vernehmenden Person kann das Gericht anordnen, dass sich diese\nwährend der Vernehmung in einem anderen Raum aufhält und die Vernehmung zeitgleich in den Sitzungssaal\nübertragen wird (<strong>audiovisuelle Vernehmung</strong>, § 247a StPO). Aussagen können außerdem vorab\naudiovisuell aufgezeichnet werden, um eine mehrfache belastende Vernehmung zu vermeiden (§ 58a StPO).</p>\n<p>Wird bei der Aussage der höchstpersönliche Lebensbereich erörtert – etwa bei Sexualdelikten –, kann das Gericht\ndie Öffentlichkeit für diesen Teil der Verhandlung ausschließen (§ 171b Gerichtsverfassungsgesetz, GVG). Auch Ihre\nWohnanschrift müssen Sie in der Vernehmung nicht zwingend nennen, wenn schutzwürdige Interessen entgegenstehen –\nstattdessen kann eine ladungsfähige Anschrift, etwa einer Behörde, angegeben werden (§ 68 StPO).</p>\n",
+   "schritte": [
+    {
+     "titel": "Schutzbedürfnis frühzeitig ansprechen",
+     "text": "Teilen Sie Polizei, Staatsanwaltschaft oder Gericht möglichst früh mit, wenn Sie Angst vor einer Aussage in Anwesenheit des Angeklagten haben oder Ihre Anschrift schützen möchten."
+    },
+    {
+     "titel": "Videovernehmung beantragen",
+     "text": "Ein Antrag auf audiovisuelle Vernehmung nach § 247a StPO kann über die anwaltliche Vertretung oder Prozessbegleitung gestellt werden."
+    },
+    {
+     "titel": "Ausschluss der Öffentlichkeit beantragen",
+     "text": "Bei Erörterung höchstpersönlicher Umstände kann beantragt werden, die Öffentlichkeit für diesen Teil auszuschließen (§ 171b GVG)."
+    },
+    {
+     "titel": "Anschriftenschutz nutzen",
+     "text": "Statt der Privatanschrift kann eine ladungsfähige Anschrift angegeben werden, wenn schutzwürdige Interessen bestehen (§ 68 StPO)."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine gesetzliche Frist",
+     "was": "Anträge auf Schutzmaßnahmen sollten möglichst vor dem jeweiligen Vernehmungstermin gestellt werden; eine feste gesetzliche Ausschlussfrist besteht nicht.",
+     "grundlage": "§§ 58a, 68, 247a StPO, § 171b GVG"
+    }
+   ],
+   "achtung": [
+    "Diese Schutzmaßnahmen müssen jeweils beantragt bzw. vom Gericht angeordnet werden – sie greifen nicht automatisch in jedem Verfahren.",
+    "Der Ausschluss der Öffentlichkeit betrifft in der Regel nur den Teil der Verhandlung, in dem höchstpersönliche Umstände erörtert werden, nicht die gesamte Hauptverhandlung.",
+    "Auch bei Videovernehmung bleibt eine Befragung durch Verteidigung und Nebenklage grundsätzlich möglich – der Schutz betrifft die räumliche Situation, nicht das Frage- und Konfrontationsrecht insgesamt."
+   ],
+   "fach_html": "\n<h3>§ 247a StPO: Audiovisuelle Vernehmung</h3>\n<p>Ist zu befürchten, dass einer zu vernehmenden Person bei einer Vernehmung in Gegenwart der in der Hauptverhandlung\nAnwesenden ein schwerwiegender Nachteil für ihr Wohl droht, kann das Gericht anordnen, dass sich die Person während\nder Befragung in einem anderen Raum aufhält; die Vernehmung wird zeitgleich in Bild und Ton in den Sitzungssaal\nübertragen.</p>\n<h3>§ 58a StPO: Aufzeichnung der Vernehmung</h3>\n<p>Vernehmungen können, insbesondere zum Schutz minderjähriger oder besonders schutzbedürftiger Zeugen, in\nBild-Ton-Aufzeichnung durchgeführt werden, um eine spätere erneute Vernehmung zu vermeiden.</p>\n<h3>§ 171b GVG: Ausschluss der Öffentlichkeit</h3>\n<p>Das Gericht kann die Öffentlichkeit ausschließen, soweit Umstände aus dem persönlichen Lebensbereich eines\nProzessbeteiligten oder eines Zeugen erörtert werden, deren öffentliche Erörterung schutzwürdige Interessen\nverletzen würde.</p>\n<h3>§ 68 StPO: Schutz der Anschrift</h3>\n<p>Zeugen können statt ihres Wohnorts eine andere ladungsfähige Anschrift angeben, wenn Grund zu der Annahme\nbesteht, dass durch die Angabe des Wohnorts schutzwürdige Interessen gefährdet würden.</p>\n",
+   "zustaendig": [
+    "Amts- oder Landgericht (Strafgericht)"
+   ],
+   "belege": [
+    "§§ 58a, 68, 247a StPO (gesetze-im-internet.de)",
+    "§ 171b GVG (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "nebenklage",
+    "psychosoziale-prozessbegleitung",
+    "stalking"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "stalking",
+   "kategorie": "deliktformen",
+   "titel": "Stalking und Nachstellung (§ 238 StGB)",
+   "icon": "🚷",
+   "teaser": "Beharrliches Verfolgen und Belästigen ist als Nachstellung strafbar – unabhängig davon, ob Täter und Opfer sich kennen. Strafrechtliche und zivilrechtliche Schutzmöglichkeiten lassen sich kombinieren.",
+   "schlagworte": [
+    "Stalking",
+    "Nachstellung",
+    "§ 238 StGB",
+    "Gewaltschutzgesetz",
+    "Näherungsverbot",
+    "Kontaktverbot"
+   ],
+   "kurz_html": "\n<p><strong>Stalking</strong> – im Strafrecht „Nachstellung“ genannt – ist nach § 238 StGB strafbar, wenn jemand\neiner anderen Person unbefugt beharrlich nachstellt, etwa durch wiederholtes Aufsuchen der räumlichen Nähe,\nKontaktversuche über Kommunikationsmittel, Bestellungen von Waren oder Dienstleistungen unter missbräuchlicher\nVerwendung der Daten des Opfers, Bedrohung oder vergleichbare Handlungen, die geeignet sind, die Lebensgestaltung\ndes Opfers erheblich zu beeinträchtigen. Seit der Gesetzesreform 2021 reicht bereits die <strong>Eignung</strong>\nzur erheblichen Beeinträchtigung – ein tatsächlicher Erfolg muss nicht mehr nachgewiesen werden. Nachstellung wird\nunabhängig von einem Strafantrag von Amts wegen verfolgt.</p>\n<p>Unabhängig von einer Strafanzeige können Sie zivilrechtlich einen Antrag nach dem <strong>Gewaltschutzgesetz</strong>\nstellen: Das Gericht kann der stalkenden Person unter anderem verbieten, sich Ihnen zu nähern, Kontakt aufzunehmen\noder bestimmte Orte aufzusuchen (Näherungs- und Kontaktverbot). Dieser Schutz steht grundsätzlich jedem\nStalking-Betroffenen zu, nicht nur bei Gewalt innerhalb einer (Ex-)Partnerschaft.</p>\n",
+   "schritte": [
+    {
+     "titel": "Vorfälle dokumentieren",
+     "text": "Führen Sie ein Stalking-Tagebuch: Datum, Uhrzeit, Art des Vorfalls, Nachrichten und Anrufe möglichst mit Screenshots sichern."
+    },
+    {
+     "titel": "Anzeige erstatten",
+     "text": "Nachstellung wird von Amts wegen verfolgt, sobald die Behörden Kenntnis erlangen – eine Anzeige bei der Polizei ist jederzeit möglich."
+    },
+    {
+     "titel": "Gewaltschutzantrag stellen",
+     "text": "Unabhängig von der Anzeige kann beim Familiengericht ein Antrag auf Näherungs- und Kontaktverbot nach dem Gewaltschutzgesetz gestellt werden."
+    },
+    {
+     "titel": "Technisch absichern",
+     "text": "Kontaktmöglichkeiten einschränken (Blockieren, Datenschutzeinstellungen prüfen), ohne Beweise zu löschen."
+    },
+    {
+     "titel": "Unterstützung holen",
+     "text": "Beratungsstellen wie der WEISSER RING oder spezialisierte Stalking-Beratungsstellen unterstützen bei allen Schritten."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine Antragsfrist",
+     "was": "Nachstellung wird unabhängig von einem Strafantrag von Amts wegen verfolgt, sobald die Behörden davon Kenntnis erlangen.",
+     "grundlage": "§ 238 StGB"
+    },
+    {
+     "wert": "Keine gesetzliche Frist",
+     "was": "Ein Antrag nach dem Gewaltschutzgesetz kann grundsätzlich jederzeit gestellt werden, auch im Eilverfahren (einstweilige Anordnung) bei akuter Gefahr.",
+     "grundlage": "Gewaltschutzgesetz"
+    }
+   ],
+   "achtung": [
+    "Auch scheinbar „harmlose“ Einzelhandlungen (z. B. wiederholte SMS) können in der Gesamtschau als Nachstellung strafbar sein – entscheidend ist das Gesamtbild der Beharrlichkeit.",
+    "Ein Kontaktverbot nach dem Gewaltschutzgesetz ersetzt keine Strafanzeige und umgekehrt – beide Verfahren laufen unabhängig voneinander.",
+    "Stalking endet nicht automatisch mit einer Trennung oder einem Umzug – planen Sie technische und organisatorische Schutzmaßnahmen aktiv mit ein."
+   ],
+   "fach_html": "\n<h3>§ 238 StGB seit der Reform 2021</h3>\n<p>Seit der Reform 2021 ist § 238 StGB als sogenanntes Eignungsdelikt ausgestaltet: Die Tat muss geeignet sein, die\nLebensgestaltung des Opfers erheblich zu beeinträchtigen; ein tatsächlicher Beeinträchtigungserfolg ist nicht mehr\nzwingend erforderlich. Der Grundtatbestand sieht Freiheitsstrafe bis zu drei Jahren oder Geldstrafe vor, in\nbesonders schweren Fällen (z. B. Gesundheitsgefährdung, Suizidversuch des Opfers) bis zu fünf Jahren. § 238 StGB\nist ein Offizialdelikt; im Gesetzestext findet sich keine eigene Strafantragsregelung.</p>\n<h3>Gewaltschutzgesetz unabhängig vom Näheverhältnis</h3>\n<p>Das Gewaltschutzgesetz setzt für Näherungs- und Kontaktverbote kein Zusammenleben oder eine (Ex-)Partnerschaft\nvoraus – es schützt grundsätzlich jede Person vor Nachstellung, Bedrohung oder Verletzung, unabhängig vom\nVerhältnis zur handelnden Person. Bei akuter Gefahr ist eine einstweilige Anordnung möglich, die kurzfristig ohne\nmündliche Verhandlung ergehen kann.</p>\n<h3>Cyberstalking</h3>\n<p>Digitale Formen der Nachstellung – etwa über soziale Netzwerke, Messenger oder GPS-Tracking – fallen ebenfalls\nunter § 238 StGB, sofern die Beharrlichkeits- und Eignungsvoraussetzungen erfüllt sind. Ergänzend kommen je nach\nFallgestaltung weitere Straftatbestände in Betracht (siehe „Opferschutz bei Online-Straftaten“).</p>\n",
+   "zustaendig": [
+    "Polizei",
+    "Staatsanwaltschaft",
+    "Familiengericht (Gewaltschutzanträge)"
+   ],
+   "belege": [
+    "§ 238 StGB (gesetze-im-internet.de)",
+    "Gewaltschutzgesetz (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "opferschutz-online-straftaten",
+    "anzeige-und-beweissicherung"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "opferschutz-online-straftaten",
+   "kategorie": "deliktformen",
+   "titel": "Opferschutz bei Online-Straftaten",
+   "icon": "💻",
+   "teaser": "Beleidigung, Bedrohung, Bildrechtsverletzungen und Betrug im Internet sind strafbar. Für die Identifizierung anonymer Täter gibt es einen gerichtlichen Auskunftsanspruch.",
+   "schlagworte": [
+    "Cybercrime",
+    "§ 201a StGB",
+    "§ 184k StGB",
+    "Beleidigung im Internet",
+    "§ 21 TDDDG",
+    "Auskunftsanspruch",
+    "Online-Betrug"
+   ],
+   "kurz_html": "\n<p>Straftaten im Internet sind ebenso strafbar wie „offline“ begangene Taten – etwa Beleidigung und Bedrohung über\nsoziale Netzwerke, die Verletzung des höchstpersönlichen Lebensbereichs durch Bildaufnahmen (§ 201a StGB), die\nVerbreitung intimer Bilder ohne Einwilligung („Rachepornografie“, § 184k StGB) oder Betrug beim Online-Handel.\nAuch wenn Täterinnen und Täter im Netz oft anonym auftreten, ist eine Strafanzeige sinnvoll: Ermittlungsbehörden\nkönnen über Anbieter Bestandsdaten anfragen, und Beweise (Screenshots, Nachrichtenverläufe, URLs) sollten vor einer\nmöglichen Löschung gesichert werden.</p>\n<p>Für die zivilrechtliche Identifizierung anonymer Verfasser rechtswidriger Inhalte sieht § 21 des\nTelekommunikation-Digitale-Dienste-Datenschutz-Gesetzes (TDDDG, Nachfolgeregelung des früheren TTDSG) einen\nAuskunftsanspruch gegen Diensteanbieter vor – dieser setzt allerdings eine vorherige gerichtliche Anordnung durch\ndas Landgericht voraus und ist kein automatischer Auskunftsweg.</p>\n",
+   "schritte": [
+    {
+     "titel": "Beweise sichern",
+     "text": "Screenshots mit sichtbarer URL, Datum und Profilnamen erstellen, bevor Inhalte gelöscht werden oder Zugriff verloren geht."
+    },
+    {
+     "titel": "Inhalte melden",
+     "text": "Rechtswidrige Inhalte über die Melde- bzw. Beschwerdefunktion der jeweiligen Plattform melden."
+    },
+    {
+     "titel": "Anzeige erstatten",
+     "text": "Anzeige bei der Polizei erstatten, idealerweise mit den gesicherten Beweisen; viele Bundesländer bieten Online-Wachen für erste Anzeigen."
+    },
+    {
+     "titel": "Zivilrechtlichen Auskunftsanspruch prüfen",
+     "text": "Bei anonymen Tätern kann über eine anwaltliche Vertretung ein gerichtlicher Auskunftsantrag nach § 21 TDDDG erwogen werden, um Bestandsdaten vom Anbieter zu erhalten."
+    },
+    {
+     "titel": "Unterstützung suchen",
+     "text": "Spezialisierte Beratungsstellen für Betroffene von Hass im Netz oder Bildrechtsverletzungen können bei technischen und rechtlichen Schritten helfen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "3 Monate",
+     "was": "Bei bestimmten Antragsdelikten (z. B. Beleidigung, § 185 StGB) muss innerhalb von drei Monaten ab Kenntnis von Tat und Täter Strafantrag gestellt werden.",
+     "grundlage": "§ 77b StGB"
+    },
+    {
+     "wert": "Keine gesetzliche Frist",
+     "was": "Für Offizialdelikte (z. B. Bedrohung, § 184k StGB) gibt es keine Antragsfrist; die Verfolgung erfolgt von Amts wegen.",
+     "grundlage": "StGB, je nach Tatbestand"
+    }
+   ],
+   "achtung": [
+    "Ein eigenständiges „Gesetz gegen digitale Gewalt“, das einen vereinfachten Auskunftsanspruch schaffen soll, befand sich Stand September 2026 noch im Stadium eines Referentenentwurfs und war noch nicht in Kraft – verlassen Sie sich nicht auf angekündigte, aber noch nicht geltende Erleichterungen.",
+    "Beleidigung (§ 185 StGB) ist ein Antragsdelikt mit einer Frist von drei Monaten ab Kenntnis von Tat und Täter (§ 77b StGB) – bei Fristversäumnis ist eine Verfolgung meist nicht mehr möglich, außer die Staatsanwaltschaft bejaht ein besonderes öffentliches Interesse.",
+    "Löschen Sie beleidigende oder bedrohliche Nachrichten nicht vorschnell – sichern Sie zunächst Beweise, auch wenn der Anblick belastend ist."
+   ],
+   "fach_html": "\n<h3>Relevante Straftatbestände</h3>\n<p>Je nach Sachverhalt kommen unter anderem in Betracht: § 185 StGB (Beleidigung), § 186/187 StGB (üble Nachrede/\nVerleumdung), § 238 StGB (Nachstellung, auch als Cyberstalking), § 201a StGB (Verletzung des höchstpersönlichen\nLebensbereichs durch Bildaufnahmen), § 184k StGB (unbefugte Verbreitung bildlicher Darstellungen, „Rachepornografie“)\nsowie die allgemeinen Betrugstatbestände (§ 263 StGB) bei Online-Betrug.</p>\n<h3>§ 21 TDDDG: Zivilrechtlicher Auskunftsanspruch</h3>\n<p>§ 21 TDDDG (Nachfolgeregelung des früheren § 21 TTDSG; die Fundstelle bei gesetze-im-internet.de trägt weiterhin\nden Pfad „/ttdsg/__21.html“) erlaubt es, bei rechtswidrigen Inhalten unter bestimmten Voraussetzungen Auskunft über\nBestandsdaten der Nutzer zu verlangen, die die Inhalte eingestellt haben. Die Herausgabe setzt eine vorherige\ngerichtliche Anordnung durch das zuständige Landgericht voraus.</p>\n<h3>Stand des „Gesetzes gegen digitale Gewalt“</h3>\n<p>Ein Gesetzentwurf zur Erleichterung der Rechtsdurchsetzung bei digitaler Gewalt („Gesetz gegen digitale Gewalt“)\nbefand sich Stand September 2026 im Stadium eines Referentenentwurfs und war noch nicht verabschiedet oder in Kraft\ngetreten. Diese Seite verweist daher ausschließlich auf geltendes Recht (§ 21 TDDDG) und kennzeichnet den\nGesetzentwurf ausdrücklich als noch nicht geltend.</p>\n",
+   "zustaendig": [
+    "Polizei",
+    "Staatsanwaltschaft",
+    "Landgericht (Auskunftsanordnung nach § 21 TDDDG)"
+   ],
+   "belege": [
+    "§§ 185, 201a, 238, 263 StGB (gesetze-im-internet.de)",
+    "§ 184k StGB (gesetze-im-internet.de)",
+    "§ 77b StGB (gesetze-im-internet.de)",
+    "§ 21 TDDDG, Fundstelle weiterhin unter /ttdsg/__21.html (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "stalking",
+    "anzeige-und-beweissicherung",
+    "beratung-anlaufstellen"
+   ],
+   "stand": "Stand: September 2026. Hinweis: das „Gesetz gegen digitale Gewalt“ war zu diesem Zeitpunkt noch nicht in Kraft."
+  },
+  {
+   "id": "krankenversicherung-behandlungskosten",
+   "kategorie": "gesundheit-arbeit",
+   "titel": "Krankenversicherung und Behandlungskosten",
+   "icon": "🏥",
+   "teaser": "Behandlungskosten nach einer Straftat übernimmt zunächst regulär Ihre Krankenversicherung – unabhängig davon, ob und wann der Täter zahlt oder ermittelt wird.",
+   "schlagworte": [
+    "Krankenversicherung",
+    "Behandlungskosten",
+    "§ 116 SGB X",
+    "Forderungsübergang",
+    "gesetzliche Krankenversicherung"
+   ],
+   "kurz_html": "\n<p>Nach einer Gewalttat übernimmt zunächst ganz regulär Ihre <strong>gesetzliche oder private Krankenversicherung</strong>\ndie Behandlungskosten – Sie müssen nicht abwarten, ob und wann ein Täter ermittelt wird oder zahlungsfähig ist.\nDie Krankenkasse kann anschließend ihre Aufwendungen beim Schädiger zurückfordern: Ansprüche der versicherten\nPerson gegen den Täter gehen insoweit kraft Gesetzes auf die Krankenkasse über (§ 116 SGB X). Das entlastet Sie\ndavon, die Behandlungskosten selbst vom Täter einfordern zu müssen.</p>\n<p>Für psychische Traumafolgen kann zusätzlich eine Traumaambulanz im Rahmen der sozialen Entschädigung nach dem\nSGB XIV schnelle, oft unbürokratische Erstversorgung bieten, unabhängig vom Ausgang der Kostenklärung mit der\nKrankenkasse.</p>\n",
+   "schritte": [
+    {
+     "titel": "Behandlung wie gewohnt in Anspruch nehmen",
+     "text": "Ärztliche und psychotherapeutische Behandlung über die Krankenversicherung veranlassen, wie bei jeder anderen Erkrankung oder Verletzung auch."
+    },
+    {
+     "titel": "Tatzusammenhang dokumentieren",
+     "text": "Der Krankenkasse und den behandelnden Ärzten mitteilen, dass die Behandlung Folge einer Straftat ist – wichtig für den späteren Forderungsübergang."
+    },
+    {
+     "titel": "Traumaambulanz erwägen",
+     "text": "Bei psychischen Belastungen kann eine Traumaambulanz zusätzliche, schnelle Unterstützung bieten."
+    },
+    {
+     "titel": "Zusammenarbeit mit der Kasse",
+     "text": "Die Krankenkasse kann Rückfragen zum Tathergang stellen, um ihre Ansprüche gegen den Täter zu klären – das hat keinen Einfluss auf Ihre Behandlung."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine gesetzliche Frist für Sie",
+     "was": "Die Inanspruchnahme der Krankenversicherung nach einer Straftat unterliegt keiner besonderen Frist – es gelten die allgemeinen Regeln der Krankenbehandlung.",
+     "grundlage": "SGB V"
+    }
+   ],
+   "achtung": [
+    "Warten Sie mit notwendiger Behandlung nicht auf den Ausgang eines Straf- oder Entschädigungsverfahrens – die Krankenversicherung leistet unabhängig davon.",
+    "Der Forderungsübergang nach § 116 SGB X betrifft das Verhältnis zwischen Krankenkasse und Täter, nicht Ihren Anspruch auf Behandlung – Ihnen entstehen dadurch keine Nachteile.",
+    "Für Schmerzensgeld (das nicht von der Krankenkasse ersetzt wird) bleiben eigene zivilrechtliche Ansprüche gegen den Täter oder Ansprüche nach dem SGB XIV bestehen."
+   ],
+   "fach_html": "\n<h3>§ 116 SGB X: Forderungsübergang</h3>\n<p>Hat ein Sozialversicherungsträger, etwa eine Krankenkasse, aufgrund eines Schadensereignisses Sozialleistungen\nzu erbringen, geht ein zivilrechtlicher Ersatzanspruch der geschädigten Person gegen den Schädiger insoweit auf den\nVersicherungsträger über. Damit kann sich die Krankenkasse ihre Aufwendungen beim Täter erstatten lassen, ohne dass\ndie geschädigte Person selbst tätig werden muss.</p>\n<h3>Verhältnis zu Schmerzensgeld</h3>\n<p>Der Forderungsübergang betrifft nur den materiellen Schaden (Behandlungskosten u. Ä.), nicht das Schmerzensgeld\nfür immaterielle Beeinträchtigungen – dieses bleibt ein eigener Anspruch der geschädigten Person gegen den Täter\nbzw. kommt bei sozialer Entschädigung gesondert in Betracht.</p>\n<h3>Zusammenspiel mit sozialer Entschädigung</h3>\n<p>Leistungen der Krankenversicherung und der sozialen Entschädigung nach dem SGB XIV schließen sich nicht\ngrundsätzlich aus, können aber je nach Leistungsart aufeinander abgestimmt oder angerechnet werden.</p>\n",
+   "zustaendig": [
+    "Gesetzliche oder private Krankenversicherung"
+   ],
+   "belege": [
+    "§ 116 SGB X (gesetze-im-internet.de)",
+    "SGB V (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "soziale-entschaedigung-sgb-xiv",
+    "lohnfortzahlung-krankschreibung"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "lohnfortzahlung-krankschreibung",
+   "kategorie": "gesundheit-arbeit",
+   "titel": "Lohnfortzahlung bei Krankschreibung nach einer Straftat",
+   "icon": "💼",
+   "teaser": "Sind Sie infolge einer Straftat arbeitsunfähig krankgeschrieben, gelten grundsätzlich dieselben Regeln zur Lohnfortzahlung wie bei jeder anderen Erkrankung.",
+   "schlagworte": [
+    "Lohnfortzahlung",
+    "§ 3 EFZG",
+    "Entgeltfortzahlungsgesetz",
+    "Arbeitsunfähigkeit",
+    "§ 115 SGB X"
+   ],
+   "kurz_html": "\n<p>Werden Sie infolge einer Straftat arbeitsunfähig krankgeschrieben, haben Sie gegenüber Ihrem Arbeitgeber\ngrundsätzlich Anspruch auf <strong>Entgeltfortzahlung für bis zu sechs Wochen</strong> (§ 3 Entgeltfortzahlungsgesetz,\nEFZG) – die Ursache der Arbeitsunfähigkeit spielt dabei keine Rolle, solange Sie die Arbeitsunfähigkeit nicht\nverschuldet haben. Nach Ablauf der sechs Wochen zahlt in der Regel die Krankenkasse Krankengeld.</p>\n<p>Zahlt Ihr Arbeitgeber Ihnen während der Arbeitsunfähigkeit weiter Entgelt, kann er wie bei anderen Fremdverschulden\nseinerseits Ihren Ersatzanspruch gegen den Täter in Höhe des fortgezahlten Entgelts geltend machen – dieser geht\nkraft Gesetzes auf den Arbeitgeber über (§ 115 SGB X). Für Sie ändert das nichts an der gewohnten Lohnfortzahlung.</p>\n",
+   "schritte": [
+    {
+     "titel": "Ärztliche Krankschreibung einholen",
+     "text": "Wie bei jeder Arbeitsunfähigkeit eine ärztliche Bescheinigung einholen und dem Arbeitgeber fristgerecht vorlegen."
+    },
+    {
+     "titel": "Arbeitgeber informieren",
+     "text": "Arbeitsunfähigkeit unverzüglich melden; der Grund (Straftat) muss dabei nicht zwingend im Detail offengelegt werden, kann aber für spätere Ansprüche relevant sein."
+    },
+    {
+     "titel": "Lohnfortzahlung prüfen",
+     "text": "Innerhalb der ersten sechs Wochen besteht regulärer Anspruch auf Entgeltfortzahlung durch den Arbeitgeber."
+    },
+    {
+     "titel": "Nach sechs Wochen: Krankengeld",
+     "text": "Ab der siebten Woche der Arbeitsunfähigkeit tritt in der Regel das Krankengeld der gesetzlichen Krankenkasse an die Stelle der Entgeltfortzahlung."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "6 Wochen",
+     "was": "Dauer der Entgeltfortzahlung durch den Arbeitgeber bei unverschuldeter Arbeitsunfähigkeit infolge derselben Erkrankung bzw. Verletzung.",
+     "grundlage": "§ 3 EFZG"
+    }
+   ],
+   "achtung": [
+    "Der Anspruch auf Entgeltfortzahlung entfällt, wenn die Arbeitsunfähigkeit vom Arbeitnehmer selbst verschuldet wurde (§ 3 Abs. 1 EFZG) – als Opfer einer fremdverschuldeten Straftat sind Sie davon in aller Regel nicht betroffen.",
+    "Der Forderungsübergang nach § 115 SGB X betrifft das Verhältnis zwischen Arbeitgeber und Täter, nicht Ihren Anspruch auf Lohnfortzahlung – für Sie ändert sich dadurch nichts.",
+    "Bei länger andauernden gesundheitlichen Folgen (z. B. anhaltende psychische Beeinträchtigung) kann parallel ein Antrag auf Leistungen nach dem SGB XIV sinnvoll sein."
+   ],
+   "fach_html": "\n<h3>§ 3 EFZG: Anspruch auf Entgeltfortzahlung</h3>\n<p>Wird ein Arbeitnehmer durch Arbeitsunfähigkeit infolge Krankheit ohne eigenes Verschulden an seiner Arbeitsleistung\nverhindert, hat er Anspruch auf Fortzahlung des Arbeitsentgelts durch den Arbeitgeber für die Zeit der\nArbeitsunfähigkeit bis zur Dauer von sechs Wochen. Für die Anwendung des EFZG spielt es keine Rolle, dass die\nArbeitsunfähigkeit durch eine Straftat eines Dritten verursacht wurde, solange kein Eigenverschulden vorliegt.</p>\n<h3>§ 115 SGB X: Forderungsübergang beim Arbeitgeber</h3>\n<p>Zahlt der Arbeitgeber während der Arbeitsunfähigkeit Arbeitsentgelt fort, geht der Schadensersatzanspruch des\nArbeitnehmers gegen den Schädiger insoweit auf den Arbeitgeber über, als dieser Sozialleistungen (hier: Entgelt im\nRahmen der Entgeltfortzahlung) erbracht hat. Dies entlastet den Arbeitnehmer davon, den Verdienstausfall der ersten\nsechs Wochen selbst gegenüber dem Täter geltend machen zu müssen.</p>\n<h3>Anschluss durch Krankengeld</h3>\n<p>Nach Ablauf der sechswöchigen Entgeltfortzahlung tritt bei fortbestehender Arbeitsunfähigkeit regelmäßig das\nKrankengeld der gesetzlichen Krankenkasse an die Stelle des Arbeitsentgelts (SGB V).</p>\n",
+   "zustaendig": [
+    "Arbeitgeber (Entgeltfortzahlung)",
+    "Gesetzliche Krankenkasse (Krankengeld)"
+   ],
+   "belege": [
+    "§ 3 EFZG (gesetze-im-internet.de)",
+    "§ 115 SGB X (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "krankenversicherung-behandlungskosten",
+    "entschaedigung-als-zeuge-jveg"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "entschaedigung-als-zeuge-jveg",
+   "kategorie": "gesundheit-arbeit",
+   "titel": "Entschädigung als Zeuge (JVEG)",
+   "icon": "🧾",
+   "teaser": "Für Ihre Zeit, Fahrtkosten und Verdienstausfall als Zeugin oder Zeuge vor Gericht steht Ihnen eine Entschädigung nach dem JVEG zu – dafür müssen Sie einen Antrag stellen.",
+   "schlagworte": [
+    "JVEG",
+    "Zeugenentschädigung",
+    "§ 19 JVEG",
+    "§ 22 JVEG",
+    "Verdienstausfall",
+    "§ 2 JVEG"
+   ],
+   "kurz_html": "\n<p>Werden Sie als Zeugin oder Zeuge zu einem Gerichtstermin geladen, haben Sie Anspruch auf Entschädigung nach dem\n<strong>Justizvergütungs- und -entschädigungsgesetz (JVEG)</strong>. Erstattet werden unter anderem Fahrtkosten,\nsonstige Aufwendungen und <strong>Verdienstausfall</strong> für die Zeit der Wahrnehmung des Termins einschließlich\nnotwendiger Wartezeiten und Anreise (§§ 19 bis 22 JVEG). Der erstattungsfähige Verdienstausfall ist der Höhe nach\ngesetzlich gedeckelt (§ 22 JVEG).</p>\n<p>Die Entschädigung wird nicht automatisch ausgezahlt, sondern muss beim Gericht <strong>beantragt</strong> werden –\nin der Regel möglichst zeitnah nach dem Termin, da eine gesetzliche Ausschlussfrist gilt.</p>\n",
+   "schritte": [
+    {
+     "titel": "Ladung aufbewahren",
+     "text": "Die Ladung als Nachweis des Termins aufbewahren."
+    },
+    {
+     "titel": "Aufwendungen dokumentieren",
+     "text": "Fahrtkosten, Verdienstausfall (z. B. durch Bestätigung des Arbeitgebers) und sonstige Auslagen belegen."
+    },
+    {
+     "titel": "Antrag beim Gericht stellen",
+     "text": "Nach dem Termin einen Antrag auf Entschädigung nach dem JVEG bei der Kasse des Gerichts stellen, bei dem der Termin stattfand."
+    },
+    {
+     "titel": "Frist beachten",
+     "text": "Den Antrag innerhalb von drei Monaten nach dem Termin bzw. nach Kenntnis der anspruchsbegründenden Umstände stellen, sonst erlischt der Anspruch."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "3 Monate",
+     "was": "Ausschlussfrist für die Geltendmachung des Entschädigungsanspruchs, beginnend mit dem Ende des Termins bzw. der Erledigung.",
+     "grundlage": "§ 2 JVEG"
+    }
+   ],
+   "achtung": [
+    "Der Antrag muss aktiv gestellt werden – ohne Antrag zahlt das Gericht nichts von sich aus aus.",
+    "Der erstattungsfähige Verdienstausfall ist gesetzlich gedeckelt (Stundensatz nach § 22 JVEG); er deckt daher bei hohem Einkommen unter Umständen nicht den vollen tatsächlichen Verdienstausfall ab.",
+    "Nach Ablauf der Dreimonatsfrist erlischt der Anspruch grundsätzlich – ein verspäteter Antrag kann daher zum vollständigen Verlust der Entschädigung führen."
+   ],
+   "fach_html": "\n<h3>§§ 19–22 JVEG: Umfang der Entschädigung</h3>\n<p>Das JVEG regelt die Entschädigung von Zeuginnen und Zeugen für Fahrtkosten (§ 19 JVEG), sonstige Aufwendungen\n(§ 20 JVEG), Nachteile bei der Haushaltsführung (§ 21 JVEG) und Verdienstausfall (§ 22 JVEG). Der erstattungsfähige\nVerdienstausfall wird nach einem gesetzlich festgelegten Stundensatz berechnet, der regelmäßig angepasst wird.</p>\n<h3>§ 2 JVEG: Ausschlussfrist</h3>\n<p>Der Anspruch auf Entschädigung erlischt, wenn er nicht innerhalb von drei Monaten geltend gemacht wird; die Frist\nbeginnt mit dem Zeitpunkt, in dem die herangezogene Person von der anspruchsbegründenden Tatsache Kenntnis erlangt,\nspätestens jedoch mit der Beendigung des jeweiligen Verfahrensabschnitts.</p>\n<h3>Verhältnis zu Prozessbegleitung und Nebenklage</h3>\n<p>Die JVEG-Entschädigung betrifft die Rolle als Zeuge und ist unabhängig von einer etwaigen Nebenklagebeteiligung\noder psychosozialen Prozessbegleitung zu beantragen; sie deckt keine Anwaltskosten, sondern nur die eigenen\nAufwendungen im Zusammenhang mit dem Termin.</p>\n",
+   "zustaendig": [
+    "Kasse des ladenden Gerichts"
+   ],
+   "belege": [
+    "§§ 2, 19, 20, 21, 22 JVEG (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "nebenklage",
+    "opferschutz-hauptverhandlung"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "beratung-anlaufstellen",
+   "kategorie": "beratung",
+   "titel": "Beratung und Anlaufstellen",
+   "icon": "📞",
+   "teaser": "Ob akute Krise oder langfristige Begleitung: Es gibt spezialisierte, kostenfreie und vertrauliche Beratungsangebote für Kriminalitätsopfer in ganz Deutschland.",
+   "schlagworte": [
+    "Beratungsstelle",
+    "WEISSER RING",
+    "Opfer-Telefon",
+    "Opferhilfe",
+    "Notruf 110",
+    "116 006"
+   ],
+   "kurz_html": "\n<p>Sie müssen die Folgen einer Straftat nicht allein bewältigen. Neben den in dieser Übersicht dargestellten\nrechtlichen Instrumenten gibt es spezialisierte Beratungsstellen, die kostenfrei, oft anonym und unabhängig vom\nAusgang eines Strafverfahrens unterstützen – bei der Orientierung im Verfahren, bei psychosozialer Begleitung, bei\npraktischen Fragen zu Entschädigung und Versicherung sowie einfach als Ansprechpartner in einer belastenden\nSituation.</p>\n<p>Der bundesweit tätige Verein <strong>WEISSER RING</strong> ist die bekannteste allgemeine Opferhilfeorganisation\nin Deutschland und bietet über sein Opfer-Telefon sowie lokale Außenstellen Erstberatung für Betroffene\nunterschiedlichster Straftaten. Für spezifische Deliktformen (häusliche Gewalt, sexualisierte Gewalt, Stalking,\nHasskriminalität im Netz) existieren zusätzlich spezialisierte Fachberatungsstellen.</p>\n",
+   "schritte": [
+    {
+     "titel": "Akute Situation: Notruf",
+     "text": "Bei unmittelbarer Gefahr immer zuerst die Polizei (110) rufen."
+    },
+    {
+     "titel": "Erste Orientierung",
+     "text": "Das Opfer-Telefon des WEISSER RING (116 006) bietet kostenfreie, vertrauliche Erstberatung, auch anonym."
+    },
+    {
+     "titel": "Spezialisierte Beratung suchen",
+     "text": "Je nach Deliktform (z. B. sexualisierte Gewalt, häusliche Gewalt, Stalking, Hasskriminalität) gezielt eine Fachberatungsstelle kontaktieren."
+    },
+    {
+     "titel": "Psychosoziale Prozessbegleitung klären",
+     "text": "Bei bevorstehender Aussage oder Hauptverhandlung frühzeitig prüfen, ob psychosoziale Prozessbegleitung sinnvoll ist."
+    },
+    {
+     "titel": "Rechtliche Beratung einholen",
+     "text": "Für konkrete rechtliche Schritte (Nebenklage, Schadensersatz) anwaltliche Beratung, ggf. über Beratungshilfe, in Anspruch nehmen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine Frist",
+     "was": "Beratungsangebote können grundsätzlich jederzeit in Anspruch genommen werden, unabhängig davon, wie lange die Tat zurückliegt.",
+     "grundlage": "Nicht gesetzlich geregelt"
+    }
+   ],
+   "achtung": [
+    "Beratung ist kein Ersatz für eine Strafanzeige, wenn Sie eine Anzeige erstatten möchten – umgekehrt ist eine Anzeige keine Voraussetzung, um Beratung in Anspruch zu nehmen.",
+    "Manche Angebote sind auf bestimmte Deliktformen oder Zielgruppen spezialisiert (z. B. nur für Frauen, nur für Kinder und Jugendliche) – bei Unsicherheit hilft das allgemeine Opfer-Telefon bei der Vermittlung.",
+    "Diese Plattform ersetzt keine individuelle Rechtsberatung; sie bietet Orientierung und verweist auf Stellen, die im Einzelfall konkret weiterhelfen können."
+   ],
+   "fach_html": "\n<h3>WEISSER RING</h3>\n<p>Der WEISSER RING e. V. ist eine bundesweit tätige, gemeinnützige Organisation der Opferhilfe mit zahlreichen\nlokalen Außenstellen. Er bietet unter anderem persönliche Erstberatung, Begleitung zu Behörden- und Gerichtsterminen\nsowie in bestimmten Fällen finanzielle Überbrückungshilfen.</p>\n<h3>Opfer-Telefon 116 006</h3>\n<p>Das Opfer-Telefon ist unter der bundesweit einheitlichen Rufnummer 116 006 kostenfrei erreichbar und bietet erste\nOrientierung, unabhängig von der Art der erlittenen Straftat.</p>\n<h3>Psychosoziale Prozessbegleitung und Fachberatung</h3>\n<p>Für Betroffene, die als Zeuginnen oder Zeugen an einer Hauptverhandlung teilnehmen müssen, kann psychosoziale\nProzessbegleitung nach dem PsychPbG zusätzliche fachliche Begleitung bieten (siehe eigene Themenseite). Für\nspezifische Deliktformen existieren spezialisierte Fachberatungsstellen mit eigener Expertise, etwa für Betroffene\nhäuslicher oder sexualisierter Gewalt.</p>\n<h3>Abgrenzung dieser Plattform</h3>\n<p>Diese Plattform bietet strukturierte rechtliche Orientierung auf Basis öffentlich zugänglicher Rechtsquellen. Sie\nersetzt keine individuelle Rechtsberatung und keine psychologische oder therapeutische Betreuung, sondern soll den\nZugang zu den jeweils zuständigen und spezialisierten Stellen erleichtern.</p>\n",
+   "zustaendig": [
+    "WEISSER RING e. V.",
+    "kommunale und spezialisierte Fachberatungsstellen"
+   ],
+   "belege": [
+    "Angaben des WEISSER RING e. V. zu Opfer-Telefon und Beratungsangebot (weisser-ring.de)"
+   ],
+   "siehe_auch": [
+    "ueberblick-opferrechte",
+    "psychosoziale-prozessbegleitung"
+   ],
+   "stand": "Stand: September 2026."
+  }
+ ]
+}

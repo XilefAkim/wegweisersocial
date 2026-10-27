@@ -1,0 +1,1053 @@
+{
+ "kategorien": [
+  {
+   "id": "ueberblick",
+   "titel": "Überblick und erste Orientierung",
+   "icon": "🧭",
+   "beschreibung": "Formen häuslicher Gewalt und erster Einstieg."
+  },
+  {
+   "id": "akute-hilfe",
+   "titel": "Akute Gefahr und Soforthilfe",
+   "icon": "🚨",
+   "beschreibung": "Notruf, Wegweisung, Zuflucht im Frauenhaus."
+  },
+  {
+   "id": "schutzrecht",
+   "titel": "Gewaltschutzrecht",
+   "icon": "⚖️",
+   "beschreibung": "Näherungsverbot, Kontaktverbot, Wohnungszuweisung."
+  },
+  {
+   "id": "strafverfahren",
+   "titel": "Strafverfahren und Beweise",
+   "icon": "🚓",
+   "beschreibung": "Strafanzeige, Beweissicherung, Täterarbeit."
+  },
+  {
+   "id": "kinder-familie",
+   "titel": "Kinder und Familie",
+   "icon": "👨‍👩‍👧",
+   "beschreibung": "Kinderschutz, Jugendamt, Familiengericht."
+  },
+  {
+   "id": "existenz",
+   "titel": "Existenzsicherung nach der Trennung",
+   "icon": "💶",
+   "beschreibung": "Entschädigung, Unterhalt, Aufenthaltsrecht."
+  },
+  {
+   "id": "beratung",
+   "titel": "Beratung und Unterstützung",
+   "icon": "📞",
+   "beschreibung": "Traumaberatung, Hilfetelefon, Anlaufstellen."
+  }
+ ],
+ "seiten": [
+  {
+   "id": "formen-haeuslicher-gewalt",
+   "kategorie": "ueberblick",
+   "titel": "Formen häuslicher Gewalt und erste Orientierung",
+   "icon": "🧭",
+   "teaser": "Häusliche Gewalt ist mehr als ein Schlag: Sie reicht von körperlicher über psychische und ökonomische bis zu digitaler und sexualisierter Gewalt – und ist in jeder dieser Formen rechtlich angreifbar.",
+   "schlagworte": [
+    "Häusliche Gewalt",
+    "Partnerschaftsgewalt",
+    "Psychische Gewalt",
+    "Ökonomische Gewalt",
+    "Digitale Gewalt",
+    "Gewaltschutzgesetz",
+    "§ 223 StGB",
+    "§ 238 StGB"
+   ],
+   "kurz_html": "\n<p>Häusliche Gewalt umfasst alle Formen von Gewalt zwischen (Ex-)Partner:innen oder anderen Mitgliedern eines\nHaushalts. Dazu zählen nicht nur Schläge oder andere körperliche Übergriffe, sondern auch <strong>psychische Gewalt</strong>\n(Drohungen, Erniedrigung, Isolation von Familie und Freund:innen), <strong>ökonomische Gewalt</strong> (Kontrolle über Geld,\nVerbot einer eigenen Erwerbstätigkeit), <strong>sexualisierte Gewalt</strong> und <strong>digitale Gewalt</strong>\n(Überwachung des Handys, Stalking über soziale Medien, Verbreitung intimer Bilder ohne Einwilligung). Alle diese Formen\nkönnen zivilrechtlich (Gewaltschutzgesetz), strafrechtlich oder auf beiden Wegen zugleich angegangen werden.</p>\n<p>Die Übergänge zwischen den Formen sind oft fließend, und Gewalt eskaliert häufig über Zeit. Es ist nicht nötig, dass\nbereits etwas „Schlimmes genug“ passiert ist, um sich Hilfe zu holen oder rechtliche Schritte zu prüfen – auch\nwiederholte Drohungen oder Kontrolle sind ernst zu nehmen und rechtlich relevant.</p>\n",
+   "schritte": [
+    {
+     "titel": "Einordnen",
+     "text": "Prüfen Sie in Ruhe (oder mit einer Beratungsstelle zusammen), welche Formen von Gewalt Sie erleben – auch psychische oder ökonomische Gewalt ist ein eigenständiger Grund für Schutzmaßnahmen."
+    },
+    {
+     "titel": "Dokumentieren",
+     "text": "Halten Sie Vorfälle möglichst zeitnah fest: Datum, Uhrzeit, was passiert ist, Verletzungen, Zeug:innen, bedrohliche Nachrichten (siehe Beweissicherung)."
+    },
+    {
+     "titel": "Vertraulich beraten lassen",
+     "text": "Das Hilfetelefon 116 016 oder eine Frauenberatungsstelle vor Ort helfen kostenlos und anonym weiter, unabhängig davon, ob Sie schon einen Schritt gehen wollen oder sich erst informieren."
+    },
+    {
+     "titel": "Sicherheitsplan überlegen",
+     "text": "Wichtige Dokumente, etwas Geld und ein Ersatzhandy an einem erreichbaren, sicheren Ort bereithalten; eine Vertrauensperson einweihen."
+    },
+    {
+     "titel": "Rechte kennen",
+     "text": "Informieren Sie sich über polizeiliche Wegweisung, das Gewaltschutzgesetz und ggf. eine Strafanzeige – Sie müssen sich nicht sofort für einen Weg entscheiden."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine gesetzliche Frist",
+     "was": "Für die Kontaktaufnahme zu einer Beratungsstelle oder dem Hilfetelefon gibt es keine Frist – je früher, desto mehr Handlungsspielraum bleibt.",
+     "grundlage": "–"
+    }
+   ],
+   "achtung": [
+    "Psychische und ökonomische Gewalt werden oft verharmlost oder von Betroffenen selbst nicht als „richtige“ Gewalt erkannt – rechtlich zählen sie aber vollwertig, u. a. für einen Antrag nach dem Gewaltschutzgesetz.",
+    "Gewalt eskaliert häufig in Phasen; eine ruhige Phase nach einem Vorfall ist kein verlässliches Zeichen dafür, dass sich die Situation dauerhaft gebessert hat.",
+    "Digitale Spuren (Standortfreigabe, gemeinsame Accounts, Smart-Home-Geräte) können zur Kontrolle genutzt werden – bei Sicherheitsplanung mitdenken.",
+    "Zahlen zur Häufigkeit unterscheiden sich stark je nach Quelle und Definition (polizeilich erfasste Straftaten vs. Dunkelfeld-Befragungen) – siehe Quellen und Methodik für die Einordnung."
+   ],
+   "fach_html": "\n<h3>Rechtliche Anknüpfungspunkte im Überblick</h3>\n<p>Drei rechtliche Ebenen greifen bei häuslicher Gewalt ineinander, sind aber unabhängig voneinander nutzbar:\ndas <strong>Polizeirecht</strong> der Länder (Wegweisung/Rückkehrverbot als Sofortmaßnahme der Gefahrenabwehr), das\n<strong>Zivilrecht</strong> (Gewaltschutzgesetz: Näherungs-, Kontakt- und Betretungsverbote sowie Wohnungszuweisung) und\ndas <strong>Strafrecht</strong> (u. a. §§ 223, 224 Körperverletzung, § 240 Nötigung, § 238 Nachstellung StGB). Eine\nStrafanzeige ist keine Voraussetzung für polizeiliche Wegweisung oder einen Gewaltschutzantrag.</p>\n<h3>Zahlen – mit Vorsicht zu lesen</h3>\n<p>Das Bundeslagebild Partnerschaftsgewalt des Bundeskriminalamts (veröffentlicht 21.11.2025, Datenjahr 2024) zählte\nbundesweit 171.069 Opfer von Partnerschaftsgewalt (ein Anstieg von 1,9 % gegenüber dem Vorjahr), davon rund 80 % weiblich;\n132 Frauen und 24 Männer wurden 2024 durch Partnerschaftsgewalt getötet. Diese Zahl erfasst nur bei der Polizei\nangezeigte bzw. bekannt gewordene Fälle (Hellfeld). Unabhängige Dunkelfeld-Befragungen zur Prävalenz von Gewalt in\nBeziehungen verwenden andere Methoden und kommen zu deutlich anderen Größenordnungen; diese Seite vermischt beide\nQuellentypen bewusst nicht und nennt hier ausschließlich die BKA-Zahl mit Jahr und Quelle.</p>\n<h3>Häusliche Gewalt gegen wen?</h3>\n<p>Die weit überwiegende Mehrheit der Betroffenen von Partnerschaftsgewalt ist weiblich, Tatverdächtige sind laut BKA\nzu 77,7 % männlich. Häusliche Gewalt trifft aber auch Männer, Menschen in gleichgeschlechtlichen Beziehungen und\nandere Haushaltsmitglieder (z. B. erwachsene Kinder gegenüber Eltern) – die auf dieser Seite genannten Anlaufstellen\nund Rechtsinstrumente stehen grundsätzlich allen offen, auch wenn viele spezialisierte Angebote historisch auf Frauen\nausgerichtet sind.</p>\n",
+   "zustaendig": [
+    "Polizei (bei akuter Gefahr)",
+    "Frauenberatungsstellen und Interventionsstellen",
+    "Familiengericht (zivilrechtlicher Schutz)"
+   ],
+   "belege": [
+    "§§ 1, 2, 4 GewSchG (gesetze-im-internet.de)",
+    "§§ 223, 224, 238, 240 StGB (gesetze-im-internet.de)",
+    "BKA, Bundeslagebild Partnerschaftsgewalt 2024, veröffentlicht 21.11.2025 (bka.de)"
+   ],
+   "siehe_auch": [
+    "akute-gefahr-erste-schritte",
+    "gewaltschutzgesetz-naeherungsverbot",
+    "beratung-und-anlaufstellen"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "akute-gefahr-erste-schritte",
+   "kategorie": "akute-hilfe",
+   "titel": "Akute Gefahr: was jetzt zu tun ist",
+   "icon": "🚨",
+   "teaser": "In akuter Gefahr zählt jede Minute: Notruf 110, ein sicherer Ort, das Hilfetelefon. Diese Seite bündelt die wichtigsten Sofortmaßnahmen.",
+   "schlagworte": [
+    "Notruf 110",
+    "Hilfetelefon",
+    "Sicherheitsplan",
+    "Akute Gefahr",
+    "Wegweisung",
+    "Fluchttasche"
+   ],
+   "kurz_html": "\n<p>Wenn Sie sich oder Ihre Kinder in unmittelbarer Gefahr befinden, zögern Sie nicht, die <strong>Polizei über 110</strong>\nzu rufen. Die Polizei kann noch vor Ort für Ihre Sicherheit sorgen – etwa durch eine Wegweisung der gefährdenden Person\naus der Wohnung – unabhängig davon, ob Sie später Anzeige erstatten möchten oder nicht. Für Beratung, auch wenn (noch)\nkeine akute Eskalation vorliegt, ist das <strong>Hilfetelefon 116 016</strong> rund um die Uhr erreichbar und\nvermittelt bei Bedarf auch einen Platz in einem Frauenhaus.</p>\n<p>Ein einfacher <strong>Sicherheitsplan</strong> hilft, im Ernstfall schneller handeln zu können: ein Satz wichtiger\nUnterlagen (Ausweis, Geburtsurkunden der Kinder, Aufenthaltstitel) und etwas Bargeld an einem erreichbaren, für die\ngefährdende Person nicht einsehbaren Ort; ein Codewort mit einer Vertrauensperson, das signalisiert, dass Hilfe nötig\nist; ein Ausweichort (Nachbarn, Familie, ein belebter öffentlicher Ort).</p>\n",
+   "schritte": [
+    {
+     "titel": "Bei unmittelbarer Gefahr: 110",
+     "text": "Rufen Sie die Polizei. Wenn Sprechen nicht sicher möglich ist, kann in vielen Regionen ein stiller Notruf per Notruf-App oder durch Auflegen nach kurzer Ansage ausreichen – informieren Sie sich vorab über die in Ihrer Region verfügbaren Optionen."
+    },
+    {
+     "titel": "In Sicherheit bringen",
+     "text": "Wenn möglich, sich und Kinder in einen abschließbaren Raum, zu Nachbarn oder an einen belebten Ort begeben, bevor die Polizei eintrifft."
+    },
+    {
+     "titel": "Hilfetelefon anrufen",
+     "text": "116 016 berät sofort, auch anonym, und vermittelt bei Bedarf einen Frauenhausplatz oder eine Beratungsstelle vor Ort."
+    },
+    {
+     "titel": "Wegweisung durch die Polizei",
+     "text": "Die Polizei kann die gefährdende Person noch vor Ort der Wohnung verweisen und ihr die Rückkehr für eine bestimmte Zeit untersagen (Details: siehe eigene Seite zur Wegweisung)."
+    },
+    {
+     "titel": "Verletzungen dokumentieren",
+     "text": "Sobald es die Situation zulässt: ärztlich untersuchen und die Verletzungen dokumentieren lassen (siehe Beweissicherung)."
+    },
+    {
+     "titel": "Weitere Schritte in Ruhe prüfen",
+     "text": "Ein Antrag nach dem Gewaltschutzgesetz, eine Strafanzeige oder der Umzug in ein Frauenhaus müssen nicht sofort entschieden werden – eine Beratungsstelle unterstützt bei der Abwägung."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Sofort",
+     "was": "Der Polizeinotruf 110 ist rund um die Uhr erreichbar, ohne Wartezeit oder Vorbedingung.",
+     "grundlage": "–"
+    },
+    {
+     "wert": "Keine feste Frist",
+     "was": "Ein Antrag auf gerichtlichen Schutz nach dem Gewaltschutzgesetz kann jederzeit gestellt werden – sollte aber möglichst noch während einer laufenden polizeilichen Wegweisung erfolgen, damit der Schutz nahtlos anschließt.",
+     "grundlage": "§ 1 GewSchG"
+    }
+   ],
+   "achtung": [
+    "Löschen Sie keine bedrohlichen Nachrichten, auch wenn sie belastend sind – sie können später als Beweis wichtig sein.",
+    "Wenn die gefährdende Person Zugriff auf Ihr Handy, gemeinsame Accounts oder Standortfreigaben hat, nutzen Sie für sensible Recherchen und Anrufe nach Möglichkeit ein anderes Gerät oder löschen Sie den Browserverlauf.",
+    "Konfrontieren Sie die gefährdende Person nach einem Vorfall nicht allein erneut – holen Sie sich Unterstützung durch Polizei oder eine Beratungsstelle.",
+    "Ein Anruf beim Hilfetelefon erscheint nicht auf der Telefonrechnung; bedenken Sie aber, dass Anrufprotokolle im Gerät selbst sichtbar bleiben können."
+   ],
+   "fach_html": "\n<h3>Was die Polizei vor Ort tut</h3>\n<p>Nach einem Einsatz wegen häuslicher Gewalt nimmt die Polizei in der Regel eine <strong>Gefährdungseinschätzung</strong>\nvor und kann bei Bedarf eine Wegweisung mit Rückkehrverbot aussprechen. In vielen Bundesländern gibt die Polizei die\nKontaktdaten der Betroffenen (mit deren Einverständnis oder – je nach Landesregelung – im Rahmen einer proaktiven\nWeitergabe) an eine spezialisierte Interventionsstelle weiter, die sich danach von sich aus meldet.</p>\n<h3>Was das Hilfetelefon leistet – und was nicht</h3>\n<p>Das Hilfetelefon „Gewalt gegen Frauen“ (116 016, Träger: Bundesamt für Familie und zivilgesellschaftliche\nAufgaben, BAFzA) berät telefonisch und online, kostenlos, anonym, mehrsprachig und barrierefrei, rund um die Uhr an\n365 Tagen im Jahr. Es ist selbst kein Frauenhaus, sondern vermittelt bei Bedarf an ein Frauenhaus, eine\nFachberatungsstelle oder andere Hilfen vor Ort. Für Männer gibt es das gesonderte, zeitlich eingeschränkt erreichbare\nHilfetelefon „Gewalt an Männern“ (0800 123 99 00, Mo–Do 8–20 Uhr, Fr 8–15 Uhr).</p>\n<h3>Kinder im Haushalt</h3>\n<p>Sind Kinder von dem Vorfall betroffen oder haben ihn miterlebt, kann parallel das Jugendamt eingebunden werden\n(siehe eigene Seite zu Kinderschutz). Das schließt eigene Schutzmaßnahmen für Sie nicht aus, sondern ergänzt sie.</p>\n",
+   "zustaendig": [
+    "Polizei (Notruf 110)",
+    "Hilfetelefon „Gewalt gegen Frauen“ (BAFzA)",
+    "Örtliche Interventions- und Beratungsstelle"
+   ],
+   "belege": [
+    "hilfetelefon.de / bafza.de, Angebotsbeschreibung Hilfetelefon „Gewalt gegen Frauen“",
+    "maennerhilfetelefon.de, Angebotsbeschreibung und Erreichbarkeitszeiten",
+    "Frauenhauskoordinierung, Themenportal Hilfesystem (frauenhauskoordinierung.de)"
+   ],
+   "siehe_auch": [
+    "polizeiliche-wegweisung-rueckkehrverbot",
+    "frauenhaeuser-schutzunterkuenfte",
+    "gewaltschutzgesetz-naeherungsverbot"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "polizeiliche-wegweisung-rueckkehrverbot",
+   "kategorie": "akute-hilfe",
+   "titel": "Polizeiliche Wegweisung und Rückkehrverbot",
+   "icon": "👮",
+   "teaser": "Nach einem Polizeieinsatz kann die gefährdende Person der gemeinsamen Wohnung verwiesen werden. Die genauen Regeln stehen im Polizeigesetz des jeweiligen Bundeslandes – und unterscheiden sich dadurch im Detail.",
+   "schlagworte": [
+    "Wegweisung",
+    "Rückkehrverbot",
+    "Landespolizeigesetz",
+    "Platzverweis",
+    "Gefährdungseinschätzung",
+    "Interventionsstelle"
+   ],
+   "kurz_html": "\n<p>Wird die Polizei wegen häuslicher Gewalt gerufen, kann sie die Person, von der die Gefahr ausgeht, der gemeinsamen\nWohnung verweisen (<strong>Wegweisung</strong>, teils auch „Platzverweis“ oder „Wohnungsverweisung“ genannt) und ihr für\neine bestimmte Zeit verbieten, zurückzukehren (<strong>Rückkehrverbot</strong>). Das gilt unabhängig davon, wer Mieter:in\noder Eigentümer:in der Wohnung ist, und unabhängig davon, ob eine Strafanzeige gestellt wird.</p>\n<p><strong>Wichtig:</strong> Die Wegweisung ist keine bundeseinheitliche Regelung, sondern beruht auf dem\n<strong>Polizeigesetz des jeweiligen Bundeslandes</strong> (Gefahrenabwehrrecht). Die genaue Bezeichnung, das Verfahren\nund vor allem die Dauer unterscheiden sich deshalb von Bundesland zu Bundesland. Verlassen Sie sich nicht auf pauschale\nAngaben aus einem anderen Bundesland – fragen Sie im Zweifel die Polizei vor Ort oder eine Interventionsstelle nach der\nfür Sie geltenden Regelung.</p>\n",
+   "schritte": [
+    {
+     "titel": "Polizei rufen",
+     "text": "Bei einem akuten Vorfall: 110 wählen (siehe Seite „Akute Gefahr“)."
+    },
+    {
+     "titel": "Gefährdungseinschätzung",
+     "text": "Die Polizei beurteilt vor Ort die Gefahrenlage und entscheidet über eine Wegweisung."
+    },
+    {
+     "titel": "Wegweisung und Schlüsselabgabe",
+     "text": "Die gefährdende Person muss die Wohnung verlassen und wird meist aufgefordert, ihre Wohnungsschlüssel abzugeben."
+    },
+    {
+     "titel": "Information und Weitervermittlung",
+     "text": "Sie erhalten üblicherweise ein Informationsblatt mit Kontakt zu einer Interventions- oder Fachberatungsstelle, die sich in vielen Bundesländern von sich aus zeitnah meldet."
+    },
+    {
+     "titel": "Rechtzeitig verlängern lassen",
+     "text": "Da die Wegweisung zeitlich befristet ist, sollten Sie vor Ablauf der Frist einen Antrag nach dem Gewaltschutzgesetz stellen, wenn weiterer Schutz nötig ist – das Gericht kann eine über die Wegweisung hinausgehende Schutzdauer anordnen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Meist 10–14 Tage",
+     "was": "Übliche Dauer einer polizeilichen Wegweisung/eines Rückkehrverbots in der Praxis vieler Bundesländer – die genaue Dauer variiert jedoch nach Landesrecht und Einzelfall und ist hier ausdrücklich als unsicher/uneinheitlich gekennzeichnet.",
+     "grundlage": "Polizeigesetz des jeweiligen Bundeslandes (uneinheitlich)"
+    },
+    {
+     "wert": "Keine bundeseinheitliche Frist",
+     "was": "Es gibt keine bundesgesetzliche Regelung der Wegweisung; maßgeblich ist ausschließlich das Polizei- bzw. Ordnungsrecht des jeweiligen Landes.",
+     "grundlage": "–"
+    }
+   ],
+   "achtung": [
+    "Die Wegweisung ist eine kurzfristige Sofortmaßnahme der Gefahrenabwehr – sie ersetzt keinen dauerhaften Schutz. Ohne Anschluss an einen zivilrechtlichen Antrag (Gewaltschutzgesetz) endet der Schutz mit Fristablauf.",
+    "Ein Verstoß gegen das Rückkehrverbot ist je nach Bundesland unterschiedlich geregelt (z. B. als Ordnungswidrigkeit oder Anlass für eine Ingewahrsamnahme) – melden Sie jeden Verstoß sofort der Polizei.",
+    "Die genaue Rechtsgrundlage (Paragraf im jeweiligen Landespolizeigesetz) und die exakte Höchstdauer nennt Ihnen verlässlich die örtliche Polizeidienststelle oder Interventionsstelle – diese Seite nennt bewusst keine landesspezifischen Paragrafen, um keine falsche Präzision vorzutäuschen.",
+    "Eine Wegweisung setzt keine Anzeige voraus und schließt eine spätere Anzeige nicht aus oder ein."
+   ],
+   "fach_html": "\n<h3>Drei getrennte Rechtswege</h3>\n<p>Die Wegweisung gehört zum <strong>Polizei- und Ordnungsrecht</strong> der Länder (Gefahrenabwehr) und ist strikt zu\nunterscheiden vom <strong>Zivilrecht</strong> (Gewaltschutzgesetz, Familiengericht) und vom <strong>Strafrecht</strong>\n(Ermittlungsverfahren wegen einer Straftat). Alle drei Wege können parallel beschritten werden und schließen sich\ngegenseitig nicht aus.</p>\n<h3>Warum die Regeln uneinheitlich sind</h3>\n<p>Polizeirecht ist in Deutschland Landesrecht. Jedes Bundesland hat ein eigenes Polizei- bzw. Sicherheits- und\nOrdnungsgesetz, in dem die Wegweisung unter unterschiedlichen Bezeichnungen (z. B. „Wohnungsverweisung“,\n„Platzverweisung“, „Rückkehrverbot“) mit teils unterschiedlicher Höchstdauer geregelt ist. Eine Recherche, die für\nalle 16 Bundesländer die exakte Paragrafennummer und Frist zuverlässig einzeln belegt, konnte im Rahmen dieser Seite\nnicht abschließend durchgeführt werden; statt einzelne Länderwerte zu erraten, verweist diese Seite auf die\nallgemeine Systematik und empfiehlt die Nachfrage vor Ort.</p>\n<h3>Anschluss an das Gewaltschutzgesetz</h3>\n<p>Damit der Schutz nach Ablauf der Wegweisung nicht endet, kann parallel oder im Anschluss ein Antrag beim\nFamiliengericht nach dem Gewaltschutzgesetz gestellt werden (§§ 1, 2 GewSchG, siehe eigene Seiten). Viele\nInterventionsstellen unterstützen aktiv dabei, diesen Übergang rechtzeitig zu organisieren.</p>\n",
+   "zustaendig": [
+    "Polizei des jeweiligen Bundeslandes",
+    "Interventions-/Fachberatungsstelle bei häuslicher Gewalt"
+   ],
+   "belege": [
+    "Frauenhauskoordinierung, Themenportal Hilfesystem/Interventionsstellen (frauenhauskoordinierung.de)",
+    "Allgemeine Darstellung der polizeilichen Wegweisung in der Fachliteratur zum Gewaltschutz (Sammelbegriff, ohne Anspruch auf länderspezifische Einzelbelege)"
+   ],
+   "siehe_auch": [
+    "akute-gefahr-erste-schritte",
+    "gewaltschutzgesetz-naeherungsverbot",
+    "frauenhaeuser-schutzunterkuenfte"
+   ],
+   "stand": "Stand: September 2026. Landesrecht kann sich ändern; maßgeblich ist stets die aktuelle Fassung des jeweiligen Landespolizeigesetzes."
+  },
+  {
+   "id": "frauenhaeuser-schutzunterkuenfte",
+   "kategorie": "akute-hilfe",
+   "titel": "Frauenhäuser und Schutzunterkünfte",
+   "icon": "🏠",
+   "teaser": "Frauenhäuser bieten Frauen und ihren Kindern anonymen Schutz vor Gewalt. Die Finanzierung war jahrzehntelang ein Flickenteppich – das Gewalthilfegesetz soll das ändern, allerdings erst stufenweise bis 2032.",
+   "schlagworte": [
+    "Frauenhaus",
+    "Schutzunterkunft",
+    "Gewalthilfegesetz",
+    "Istanbul-Konvention",
+    "Frauenhauskoordinierung"
+   ],
+   "kurz_html": "\n<p>Frauenhäuser nehmen Frauen und ihre Kinder unabhängig von Herkunft, Aufenthaltsstatus oder Einkommen auf und halten\ndie Adresse geheim, um Schutz vor der gefährdenden Person zu gewährleisten. Der Zugang läuft meist über das\nHilfetelefon 116 016 oder direkt über eine Frauenhaus-Beratungsstelle vor Ort; die bundesweite Koordinierung\nhilft bei der Platzsuche, wenn das nächstgelegene Haus voll belegt ist.</p>\n<p>Wie die Aufenthaltskosten getragen werden, ist historisch von Bundesland zu Bundesland und teils von Kommune zu\nKommune unterschiedlich geregelt (u. a. über Tagessätze, die häufig als „Kosten der Unterkunft“ von Jobcenter oder\nSozialamt übernommen werden). Das 2025 in Kraft getretene Gewalthilfegesetz soll hier künftig bundesweit einheitlichere\nStandards schaffen – der volle individuelle Rechtsanspruch auf Schutz und Beratung gilt nach der gesetzlichen\nÜbergangsregelung aber erst ab dem 1. Januar 2032.</p>\n",
+   "schritte": [
+    {
+     "titel": "Kontakt aufnehmen",
+     "text": "Hilfetelefon 116 016 anrufen oder direkt eine Frauenhaus-Beratungsstelle vor Ort kontaktieren."
+    },
+    {
+     "titel": "Platz suchen",
+     "text": "Die Mitarbeiterinnen klären freie Kapazitäten, ggf. bundesweit über die Koordinierungsstrukturen der Frauenhauskoordinierung – bei hoher Auslastung kann das etwas dauern."
+    },
+    {
+     "titel": "Anreise organisieren",
+     "text": "Bei akuter Gefahr kann die Polizei die sichere Anreise unterstützen; die genaue Adresse des Frauenhauses wird aus Sicherheitsgründen erst kurz vorher mitgeteilt."
+    },
+    {
+     "titel": "Aufnahmegespräch",
+     "text": "Im Frauenhaus folgt ein Aufnahmegespräch; parallel wird die Kostenübernahme geklärt (häufig Jobcenter/Sozialamt, je nach Bundesland unterschiedlich organisiert)."
+    },
+    {
+     "titel": "Weitere Schritte planen",
+     "text": "Das Frauenhaus-Team unterstützt in der Regel auch bei Anträgen (Gewaltschutzgesetz, Grundsicherungsgeld/Wohngeld, Kinderfragen) und bei der Suche nach einer eigenen Wohnung."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine gesetzliche Frist",
+     "was": "Für die Kontaktaufnahme oder Aufnahme in ein Frauenhaus gibt es keine gesetzliche Frist – die tatsächliche Wartezeit hängt von der freien Kapazität ab, was ein praktisches, kein rechtliches Problem ist.",
+     "grundlage": "–"
+    },
+    {
+     "wert": "1. Januar 2032",
+     "was": "Ab diesem Datum soll nach dem Gewalthilfegesetz ein bundesweiter individueller Rechtsanspruch auf Schutz und Beratung gelten; bis dahin gilt eine stufenweise Übergangsregelung.",
+     "grundlage": "Gewalthilfegesetz (in Kraft seit 28.02.2025)"
+    }
+   ],
+   "achtung": [
+    "Die Zahl der Frauenhausplätze reicht bundesweit nicht annähernd aus, um die von der Istanbul-Konvention empfohlene Kapazität (ein Familienplatz pro 10.000 Einwohner:innen) zu decken; Fachverbände beziffern die Lücke auf mehrere tausend Plätze (siehe Quellen). Das kann im Einzelfall zu Wartezeiten oder zur Vermittlung in ein weiter entferntes Haus führen.",
+    "Der individuelle Rechtsanspruch auf einen Platz gilt nach dem Gewalthilfegesetz erst ab 2032 – aktuell (Stand September 2026) befindet sich die Umsetzung noch in der Aufbauphase (Bedarfsanalysen und Finanzierungskonzepte der Länder, Bundesbeteiligung an der Finanzierung ab 2027). Das ändert nichts daran, dass Sie schon heute Zugang zu einem Frauenhaus suchen können und sollten.",
+    "Die genauen Regeln zur Kostenübernahme unterscheiden sich je nach Bundesland und individueller Situation (Einkommen, Aufenthaltsstatus) – lassen Sie sich dazu direkt im Frauenhaus oder von einer Beratungsstelle informieren, statt sich von finanziellen Sorgen von der Kontaktaufnahme abhalten zu lassen."
+   ],
+   "fach_html": "\n<h3>Das Gewalthilfegesetz: Stand der Umsetzung</h3>\n<p>Das „Gesetz zur Unterstützung und zum Schutz von Personen, die von Gewalt betroffen sind\" (Gewalthilfegesetz) ist am\n28. Februar 2025 in Kraft getreten. Es sieht eine <strong>gestufte Umsetzung</strong> vor: Bis vor 2027 sollen die\nLänder Ausgangsanalysen, Entwicklungspläne und Finanzierungskonzepte erstellen; ab 2027 haben anerkannte Träger\nAnspruch auf angemessene öffentliche Finanzierung, sind die Länder verpflichtet, ein bedarfsgerechtes Netz an\nSchutz- und Beratungsangeboten sicherzustellen, und beteiligt sich der Bund an der Finanzierung (insgesamt rund\n2,6 Mrd. Euro, gestaffelt von 2027 bis 2036). Ab 2028 wird eine Bundesstatistik zur Auslastung erhoben. Der volle\n<strong>individuelle Rechtsanspruch</strong> auf Schutz und Beratung tritt erst zum 1. Januar 2032 in Kraft, damit die\nLänder zuvor die nötigen Kapazitäten aufbauen können. Diese Seite beschreibt den zum Zeitpunkt der Recherche\n(September 2026) bekannten Rechtsstand; da sich die Länder derzeit noch in der frühen Umsetzungsphase befinden, kann\nsich die praktische Handhabung vor Ort weiterentwickeln.</p>\n<h3>Die Versorgungslücke</h3>\n<p>Die Istanbul-Konvention empfiehlt auf Basis einer Task-Force-Empfehlung des Europarats eine Kapazität von einem\nFamilienplatz pro 10.000 Einwohner:innen. Nach Berechnungen der Frauenhauskoordinierung fehlen in Deutschland trotz\ndieser Empfehlung mehrere tausend Frauenhausplätze; genaue Zahlen schwanken je nach Berechnungsmethode zwischen\nrund 8.500 und rund 12.000 fehlenden Plätzen. Diese Seite nennt bewusst keine einzelne, als exakt suggerierte Zahl,\nsondern verweist auf die Bundesweite Frauenhaus-Statistik der Frauenhauskoordinierung als Primärquelle.</p>\n<h3>Bislang: ein Flickenteppich der Finanzierung</h3>\n<p>Vor dem Gewalthilfegesetz war die Finanzierung von Frauenhäusern historisch Sache der Länder und Kommunen, mit\nsehr unterschiedlichen Modellen (Objektförderung, Tagessatzfinanzierung, kommunale Eigenanteile). Das führte u. a.\ndazu, dass Frauen teils keinen Platz außerhalb ihrer Heimatkommune fanden oder Kostenfragen den Zugang verzögerten.\nDas Gewalthilfegesetz will dies schrittweise vereinheitlichen, ohne die laufende Arbeit der bestehenden Frauenhäuser\nzu unterbrechen.</p>\n",
+   "zustaendig": [
+    "Frauenhäuser und ihre Trägerorganisationen",
+    "Frauenhauskoordinierung e.V. (bundesweite Vernetzung)",
+    "Länder (Bedarfsplanung), ab 2027 auch der Bund (Mitfinanzierung)"
+   ],
+   "belege": [
+    "Gewalthilfegesetz, in Kraft seit 28.02.2025 (Übersicht: frauenhauskoordinierung.de/arbeitsfelder/rechtsanspruch-auf-schutz/gewalthilfegesetz; asyl.net, „Gewalthilfegesetz in Kraft getreten“)",
+    "Frauenhauskoordinierung, Bundesweite Frauenhaus-Statistik 2023/2024/2025 (frauenhauskoordinierung.de)",
+    "Europarat/Istanbul-Konvention, Empfehlung 1 Familienplatz/10.000 Einwohner:innen (zitiert nach Frauenhauskoordinierung)"
+   ],
+   "siehe_auch": [
+    "akute-gefahr-erste-schritte",
+    "polizeiliche-wegweisung-rueckkehrverbot",
+    "finanzielle-absicherung-nach-auszug"
+   ],
+   "stand": "Stand: September 2026 (Gewalthilfegesetz in Kraft seit 28. Februar 2025; gestufte Umsetzung, Rechtsanspruch ab 1. Januar 2032)."
+  },
+  {
+   "id": "gewaltschutzgesetz-naeherungsverbot",
+   "kategorie": "schutzrecht",
+   "titel": "Gewaltschutzgesetz: Näherungsverbot und Kontaktverbot",
+   "icon": "⚖️",
+   "teaser": "Das Familiengericht kann der gewalttätigen Person auf Antrag verbieten, sich Ihnen zu nähern oder Kontakt aufzunehmen – unabhängig davon, ob Sie Strafanzeige erstattet haben.",
+   "schlagworte": [
+    "Gewaltschutzgesetz",
+    "GewSchG",
+    "Näherungsverbot",
+    "Kontaktverbot",
+    "Betretungsverbot",
+    "§ 1 GewSchG",
+    "§ 4 GewSchG"
+   ],
+   "kurz_html": "\n<p>Nach § 1 Gewaltschutzgesetz (GewSchG) kann das Familiengericht auf Antrag Maßnahmen anordnen, wenn eine Person\nvorsätzlich und widerrechtlich Körper, Gesundheit, Freiheit oder sexuelle Selbstbestimmung einer anderen Person\nverletzt hat oder ihr dies widerrechtlich gedroht hat. Möglich sind unter anderem: ein Verbot, die Wohnung der\nverletzten Person zu betreten, ein <strong>Näherungsverbot</strong> (Mindestabstand), ein <strong>Kontaktverbot</strong>\n(auch telefonisch, per SMS, Messenger oder soziale Medien) und ein Verbot, bestimmte Orte aufzusuchen, an denen sich\ndie verletzte Person regelmäßig aufhält (z. B. Arbeitsplatz, Kita der Kinder).</p>\n<p>Der Antrag ist beim zuständigen Familiengericht (Amtsgericht) zu stellen und setzt <strong>keine Strafanzeige</strong>\nvoraus. Bei akuter Gefahr ist eine einstweilige Anordnung möglich, die das Gericht auch ohne vorherige mündliche\nVerhandlung erlassen kann.</p>\n",
+   "schritte": [
+    {
+     "titel": "Vorfall dokumentieren",
+     "text": "Datum, Ablauf, Verletzungen, Drohungen, Nachrichten und Zeug:innen möglichst zeitnah festhalten (siehe Beweissicherung)."
+    },
+    {
+     "titel": "Antrag stellen",
+     "text": "Formlos möglich, anwaltliche Unterstützung ist sinnvoll; bei geringem Einkommen kann Beratungshilfe (für den Antrag) bzw. Verfahrenskostenhilfe (für das gerichtliche Verfahren) beantragt werden."
+    },
+    {
+     "titel": "Eilverfahren bei akuter Gefahr",
+     "text": "Das Gericht kann eine einstweilige Anordnung treffen, wenn die Angelegenheit eilbedürftig ist, ggf. ohne die gefährdende Person vorher anzuhören."
+    },
+    {
+     "titel": "Beschluss abwarten",
+     "text": "Das Gericht legt die konkreten Verbote und deren Dauer fest; der Beschluss muss der gefährdenden Person zugestellt werden, um wirksam und vollstreckbar zu sein."
+    },
+    {
+     "titel": "Verstöße sofort melden",
+     "text": "Ein Verstoß gegen die gerichtliche Anordnung ist eine Straftat (§ 4 GewSchG) – jeden Verstoß der Polizei melden und dokumentieren."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine gesetzliche Antragsfrist",
+     "was": "Ein Antrag nach dem Gewaltschutzgesetz kann grundsätzlich jederzeit gestellt werden, auch lange nach dem Vorfall – praktisch sinnvoll ist aber ein zeitnaher Antrag, solange Beweise noch frisch sind und insbesondere, um nahtlos an eine auslaufende polizeiliche Wegweisung anzuschließen.",
+     "grundlage": "§ 1 GewSchG"
+    },
+    {
+     "wert": "Individuell befristet",
+     "was": "Das Gericht legt die Geltungsdauer der Maßnahmen im Einzelfall fest; eine Verlängerung ist möglich, wenn die Voraussetzungen fortbestehen.",
+     "grundlage": "§ 1 GewSchG"
+    }
+   ],
+   "achtung": [
+    "Ein Verstoß gegen die gerichtliche Anordnung ist nach § 4 GewSchG mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe bedroht – das gilt aber nur, wenn der Verstoß auch angezeigt und nachgewiesen wird.",
+    "Der Beschluss muss der gefährdenden Person förmlich zugestellt werden, um wirksam zu sein; ist deren Aufenthalt unbekannt, kann das die Zustellung erschweren – eine Beratungsstelle oder Anwältin/ein Anwalt kann hier unterstützen.",
+    "Ein Näherungs- oder Kontaktverbot regelt nicht automatisch, wer in der gemeinsamen Wohnung bleiben darf – dafür ist ein gesonderter Antrag nach § 2 GewSchG nötig (siehe eigene Seite).",
+    "Das Gewaltschutzgesetz gilt unabhängig vom Familienstand – auch für nicht verheiratete Paare und andere Haushaltsangehörige."
+   ],
+   "fach_html": "\n<h3>Erfasste Verletzungshandlungen (§ 1 GewSchG)</h3>\n<p>§ 1 Abs. 1 GewSchG erfasst vorsätzliche, widerrechtliche Verletzungen von Körper, Gesundheit, Freiheit oder\nsexueller Selbstbestimmung sowie widerrechtliche Drohungen damit. § 1 Abs. 2 GewSchG erweitert den Schutz auf\nbestimmte Fälle des unzumutbaren Eindringens in die Wohnung oder beharrlicher Nachstellung, auch wenn (noch) keine\nVerletzungshandlung im engeren Sinne vorliegt.</p>\n<h3>Verfahren</h3>\n<p>Zuständig ist das Familiengericht (eine Abteilung des Amtsgerichts), verfahrensrechtlich als sogenannte\n„Gewaltschutzsache“ nach dem FamFG. Bei Eilbedürftigkeit ist eine einstweilige Anordnung möglich; hierfür genügt in\nder Regel eine Glaubhaftmachung der Voraussetzungen, kein vollständiger Beweis im strafprozessualen Sinn.</p>\n<h3>Digitale und elektronische Kontaktaufnahme</h3>\n<p>Das Kontaktverbot erfasst ausdrücklich auch elektronische Kommunikationsmittel – SMS, Anrufe, Messenger-Nachrichten\nund Kontaktversuche über soziale Netzwerke fallen darunter, nicht nur das persönliche Erscheinen.</p>\n<h3>Verhältnis zu Strafverfahren und Wegweisung</h3>\n<p>Ein Gewaltschutzantrag ist unabhängig von einer Strafanzeige und unabhängig von einer vorangegangenen polizeilichen\nWegweisung möglich. In der Praxis wird er häufig genutzt, um den durch eine Wegweisung geschaffenen Schutz zeitlich\nzu verlängern.</p>\n",
+   "zustaendig": [
+    "Familiengericht (Amtsgericht)",
+    "Polizei (bei einem Verstoß gegen die Anordnung)"
+   ],
+   "belege": [
+    "§§ 1, 2, 4 GewSchG (gesetze-im-internet.de)",
+    "FamFG, Verfahren in Gewaltschutzsachen (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "wohnungszuweisung-nach-trennung",
+    "polizeiliche-wegweisung-rueckkehrverbot",
+    "strafanzeige-und-strafverfahren"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "wohnungszuweisung-nach-trennung",
+   "kategorie": "schutzrecht",
+   "titel": "Wohnungszuweisung nach Trennung wegen Gewalt",
+   "icon": "🔑",
+   "teaser": "Nach einer Verletzungshandlung kann Ihnen das Familiengericht die gemeinsam genutzte Wohnung ganz oder befristet allein zuweisen – unabhängig davon, wer Mietvertrag oder Eigentum hat.",
+   "schlagworte": [
+    "Wohnungszuweisung",
+    "§ 2 GewSchG",
+    "Nutzungsentschädigung",
+    "Kindeswohl"
+   ],
+   "kurz_html": "\n<p>Wenn eine Verletzungshandlung im Sinne des § 1 GewSchG vorliegt, können Sie nach <strong>§ 2 GewSchG</strong>\nverlangen, dass Ihnen die gemeinsam genutzte Wohnung ganz oder zum Teil zur alleinigen Nutzung überlassen wird – und\nzwar unabhängig davon, ob Sie oder die andere Person Mietvertrag oder Eigentum halten. Bei alleinigem Eigentum oder\nMietvertrag der gefährdenden Person ist die Nutzungsüberlassung in der Regel <strong>zeitlich befristet</strong>; bei\ngemeinsamem Eigentum oder gemeinsamer Miete kann sie länger andauern. Sind minderjährige Kinder im Haushalt, wird das\nKindeswohl bei der Entscheidung besonders berücksichtigt.</p>\n",
+   "schritte": [
+    {
+     "titel": "Antrag stellen",
+     "text": "Der Antrag kann zusammen mit einem Antrag auf Näherungs-/Kontaktverbot nach § 1 GewSchG beim Familiengericht gestellt werden."
+    },
+    {
+     "titel": "Verletzungshandlung nachweisen",
+     "text": "Die Voraussetzungen des § 1 GewSchG (oder einer schweren, einmaligen Verletzungshandlung nach § 2 Abs. 1 GewSchG) müssen glaubhaft gemacht bzw. bewiesen werden."
+    },
+    {
+     "titel": "Eigentumsverhältnisse klären",
+     "text": "Legen Sie dar, wem die Wohnung gehört bzw. wer sie gemietet hat – das beeinflusst, wie lange Ihnen die Wohnung zugewiesen werden kann."
+    },
+    {
+     "titel": "Gerichtliche Entscheidung",
+     "text": "Das Gericht legt Dauer und ggf. eine Nutzungsentschädigung an die andere Person fest."
+    },
+    {
+     "titel": "Anschlusslösung planen",
+     "text": "Ist die Zuweisung befristet, rechtzeitig um eine eigene Wohnung oder eine Verlängerung kümmern, wenn die Gefährdung fortbesteht."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Individuell befristet",
+     "was": "Das Gesetz nennt keine feste bundeseinheitliche Höchst- oder Mindestdauer; das Gericht bestimmt die Nutzungsdauer im Einzelfall, bei Alleineigentum der gefährdenden Person meist kürzer befristet als bei gemeinsamem Eigentum.",
+     "grundlage": "§ 2 GewSchG"
+    }
+   ],
+   "achtung": [
+    "Die Wohnungszuweisung ändert nichts am Mietvertrag oder den Eigentumsverhältnissen selbst – wer auszieht, bleibt ggf. weiter Vertragspartei und haftet unter Umständen mit für die Miete. Diese Fragen sollten separat anwaltlich geklärt werden.",
+    "Eine Wohnungszuweisung ersetzt keine Trennungs- oder Scheidungsvereinbarung zu Vermögen und Hausrat – dafür gelten eigene familienrechtliche Regeln.",
+    "Bei gemeinsamen minderjährigen Kindern wird deren Wohl ausdrücklich mitberücksichtigt; das kann für eine längere Nutzungsdauer sprechen."
+   ],
+   "fach_html": "\n<h3>§ 2 GewSchG im Detail</h3>\n<p>§ 2 Abs. 1 GewSchG erlaubt die Überlassung der Wohnung bei einer Verletzungshandlung nach § 1 Abs. 1 Satz 1 GewSchG,\nwenn diese widerrechtlich und vorsätzlich Leben, Körper, Gesundheit oder Freiheit verletzt hat. § 2 Abs. 2 GewSchG\nerweitert dies auf die Drohung mit einer solchen Verletzung, wenn ein weiteres Zusammenleben eine unbillige Härte\nbedeuten würde. Das Gesetz unterscheidet ausdrücklich danach, ob die Wohnung im Alleineigentum/-mietverhältnis der\ngefährdenden Person, der verletzten Person oder in gemeinsamem Eigentum/gemeinsamer Miete steht – das wirkt sich auf\ndie mögliche Dauer der Überlassung aus.</p>\n<h3>Abgrenzung zu Trennung und Scheidung allgemein</h3>\n<p>Diese Seite behandelt ausschließlich die gewaltschutzrechtliche Wohnungszuweisung nach § 2 GewSchG. Die allgemeinen\nFragen einer Trennung oder Scheidung ohne Gewaltbezug (Trennungsjahr, Zugewinnausgleich, Versorgungsausgleich,\nScheidungsverfahren) sind nicht Gegenstand dieses Wegweiser-Bausteins.</p>\n",
+   "zustaendig": [
+    "Familiengericht (Amtsgericht)"
+   ],
+   "belege": [
+    "§ 2 GewSchG (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "gewaltschutzgesetz-naeherungsverbot",
+    "finanzielle-absicherung-nach-auszug",
+    "kinder-im-haushalt-kinderschutz"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "strafanzeige-und-strafverfahren",
+   "kategorie": "strafverfahren",
+   "titel": "Strafanzeige und Strafverfahren",
+   "icon": "🚓",
+   "teaser": "Körperverletzung, Nötigung und Nachstellung sind Straftaten – auch innerhalb einer Beziehung. Eine Anzeige ist unabhängig vom zivilrechtlichen Schutz nach dem Gewaltschutzgesetz möglich.",
+   "schlagworte": [
+    "Strafanzeige",
+    "§ 223 StGB",
+    "§ 224 StGB",
+    "§ 240 StGB",
+    "§ 238 StGB",
+    "Nebenklage",
+    "Psychosoziale Prozessbegleitung"
+   ],
+   "kurz_html": "\n<p>Körperliche Übergriffe können als <strong>Körperverletzung</strong> (§ 223 StGB, bei besonders gefährlichen Formen\n§ 224 StGB), Drohungen und Zwang als <strong>Nötigung</strong> (§ 240 StGB) und beharrliches Verfolgen/Belästigen als\n<strong>Nachstellung/Stalking</strong> (§ 238 StGB) strafbar sein. Eine Anzeige kann bei jeder Polizeidienststelle oder\ndirekt bei der Staatsanwaltschaft erstattet werden – auch mündlich, auch zeitlich nach dem Vorfall. Sie ist unabhängig\nvon einem Antrag nach dem Gewaltschutzgesetz möglich; beide Wege schließen sich nicht aus.</p>\n<p>Bei der einfachen Körperverletzung handelt es sich rechtlich meist um ein sogenanntes Antragsdelikt – die\nStaatsanwaltschaft kann aber auch ohne Strafantrag ermitteln, wenn sie ein „besonderes öffentliches Interesse“ an der\nVerfolgung bejaht, was bei häuslicher Gewalt häufig der Fall ist. Nötigung, gefährliche Körperverletzung und\nNachstellung werden ohnehin von Amts wegen verfolgt.</p>\n",
+   "schritte": [
+    {
+     "titel": "Anzeige erstatten",
+     "text": "Bei der Polizei (persönlich, telefonisch außerhalb des Notrufs oder online, je nach Bundesland) oder direkt bei der Staatsanwaltschaft – geht auch später, nicht nur direkt nach dem Vorfall."
+    },
+    {
+     "titel": "Beweise vorlegen",
+     "text": "Ärztliche Atteste, Fotos, Nachrichten, Zeugenkontakte beifügen bzw. benennen (siehe Beweissicherung)."
+    },
+    {
+     "titel": "Vernehmung",
+     "text": "Als Geschädigte/Zeugin werden Sie polizeilich und ggf. später vor Gericht vernommen; ein Recht auf psychosoziale Prozessbegleitung besteht in geeigneten Fällen."
+    },
+    {
+     "titel": "Ermittlungsverfahren",
+     "text": "Die Staatsanwaltschaft ermittelt und entscheidet über Anklage, Einstellung (ggf. mit Auflage) oder Strafbefehl."
+    },
+    {
+     "titel": "Hauptverhandlung",
+     "text": "Bei Anklage folgt eine Hauptverhandlung; als Nebenklägerin können Sie sich in bestimmten Fällen mit anwaltlicher Vertretung aktiv am Verfahren beteiligen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "3 Monate",
+     "was": "Strafantragsfrist bei reinen Antragsdelikten (z. B. einfache Körperverletzung ohne besonderes öffentliches Interesse) ab Kenntnis von Tat und Täter/Täterin.",
+     "grundlage": "§ 77b StGB"
+    },
+    {
+     "wert": "Keine Antragsfrist",
+     "was": "Nötigung, gefährliche Körperverletzung und Nachstellung werden unabhängig von einem Strafantrag von Amts wegen verfolgt, sobald die Behörden davon Kenntnis erlangen.",
+     "grundlage": "§§ 224, 238, 240 StGB"
+    }
+   ],
+   "achtung": [
+    "Eine Anzeige führt oft zu einer Aussage-gegen-Aussage-Situation, wenn es keine weiteren Beweise gibt – eine zeitnahe Beweissicherung erhöht die Erfolgsaussichten erheblich.",
+    "Ein bereits gestellter Strafantrag kann bei reinen Antragsdelikten nur eingeschränkt und nur bis zu einem bestimmten Verfahrensstadium zurückgenommen werden; bei Offizialdelikten (z. B. Nötigung, Nachstellung) ist eine Rücknahme durch die Geschädigte grundsätzlich nicht vorgesehen, da nicht sie, sondern der Staat das Verfahren führt.",
+    "Angst vor Vergeltung nach einer Anzeige ist ernst zu nehmen – parallel sollte über Gewaltschutzmaßnahmen (Näherungsverbot) und ggf. einen sicheren Wohnort nachgedacht werden."
+   ],
+   "fach_html": "\n<h3>Die wichtigsten Straftatbestände</h3>\n<p><strong>§ 223 StGB (Körperverletzung):</strong> Freiheitsstrafe bis zu 5 Jahren oder Geldstrafe; grundsätzlich\nAntragsdelikt, aber Verfolgung von Amts wegen möglich, wenn die Staatsanwaltschaft ein besonderes öffentliches\nInteresse bejaht (§ 230 StGB) – bei häuslicher Gewalt in der Praxis häufig der Fall.<br>\n<strong>§ 224 StGB (Gefährliche Körperverletzung):</strong> u. a. bei Verwendung einer Waffe/eines gefährlichen\nWerkzeugs oder gemeinschaftlicher Begehung; Freiheitsstrafe von 6 Monaten bis zu 10 Jahren; Offizialdelikt.<br>\n<strong>§ 240 StGB (Nötigung):</strong> Nötigung durch Gewalt oder Drohung mit einem empfindlichen Übel;\nFreiheitsstrafe bis zu 3 Jahren oder Geldstrafe; Offizialdelikt.<br>\n<strong>§ 238 StGB (Nachstellung/Stalking):</strong> seit der Reform 2021 als sogenanntes Eignungsdelikt ausgestaltet\n(die Tat muss geeignet sein, die Lebensgestaltung des Opfers erheblich zu beeinträchtigen, ein tatsächlicher Erfolg\nist nicht mehr zwingend erforderlich); Freiheitsstrafe bis zu 3 Jahren oder Geldstrafe, in schweren Fällen bis zu\n5 Jahren; Offizialdelikt.</p>\n<h3>Unterstützung im Verfahren</h3>\n<p>Bei schweren Delikten besteht Anspruch auf <strong>psychosoziale Prozessbegleitung</strong> (§ 406g StPO) sowie in\nbestimmten Konstellationen auf anwaltliche <strong>Nebenklagevertretung</strong>, teils auf Staatskosten (§ 397a\nStPO). Beratungsstellen unterstützen bei der Suche nach geeigneten Prozessbegleiter:innen.</p>\n<h3>Verhältnis zu zivilrechtlichem Schutz</h3>\n<p>Eine Strafanzeige ersetzt keinen Antrag nach dem Gewaltschutzgesetz und umgekehrt – beide Verfahren laufen\nunabhängig voneinander und können parallel geführt werden.</p>\n",
+   "zustaendig": [
+    "Polizei",
+    "Staatsanwaltschaft",
+    "Amts-/Landgericht (Strafgericht)"
+   ],
+   "belege": [
+    "§§ 223, 224, 230, 238, 240 StGB (gesetze-im-internet.de)",
+    "§ 77b StGB (gesetze-im-internet.de)",
+    "§§ 397a, 406g StPO (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "beweissicherung-gewaltschutzambulanz",
+    "gewaltschutzgesetz-naeherungsverbot",
+    "beratung-und-anlaufstellen"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "beweissicherung-gewaltschutzambulanz",
+   "kategorie": "strafverfahren",
+   "titel": "Beweissicherung: ärztliche Atteste und Gewaltschutzambulanzen",
+   "icon": "🩺",
+   "teaser": "Gewaltschutzambulanzen dokumentieren Verletzungen rechtssicher – auch wenn Sie noch nicht wissen, ob Sie Anzeige erstatten möchten. Gute Dokumentation entscheidet oft über den Erfolg späterer Verfahren.",
+   "schlagworte": [
+    "Gewaltschutzambulanz",
+    "Beweissicherung",
+    "Ärztliches Attest",
+    "Glaubhaftmachung"
+   ],
+   "kurz_html": "\n<p><strong>Gewaltschutzambulanzen</strong> (rechtsmedizinische Untersuchungsstellen, meist an Universitätskliniken)\ndokumentieren Verletzungen forensisch und kostenfrei – unabhängig davon, ob Sie sich schon entschieden haben, Anzeige\nzu erstatten. Der Befund wird archiviert und kann später bei Bedarf angefordert werden. Wo keine Gewaltschutzambulanz\nerreichbar ist, dokumentieren auch Hausärzt:innen oder eine Notaufnahme Verletzungen; bitten Sie ausdrücklich um eine\nmöglichst detaillierte, datierte und ggf. fotografisch ergänzte Dokumentation.</p>\n<p>Neben ärztlicher Dokumentation zählen auch <strong>Fotos</strong> von Verletzungen (am besten mit Zeitstempel, aus\nmehreren Blickwinkeln, ggf. an mehreren Tagen, da sich Blutergüsse verändern), gesicherte <strong>Nachrichten</strong>\n(Screenshots von SMS, Chatverläufen, Anrufprotokollen) und <strong>Zeug:innen</strong> zu den wichtigsten\nBeweismitteln.</p>\n",
+   "schritte": [
+    {
+     "titel": "Zeitnah untersuchen lassen",
+     "text": "Gewaltschutzambulanz, Klinik oder Hausärzt:in aufsuchen, möglichst bald nach dem Vorfall."
+    },
+    {
+     "titel": "Fotos machen",
+     "text": "Verletzungen aus mehreren Winkeln fotografieren, mit Datum/Uhrzeit; bei Blutergüssen ggf. an mehreren Folgetagen erneut fotografieren, da sie sich verändern."
+    },
+    {
+     "titel": "Nachrichten sichern",
+     "text": "Bedrohliche SMS, Chatnachrichten, E-Mails oder Anrufprotokolle per Screenshot sichern; im Zweifel eine Beratungsstelle oder Anwältin/Anwalt nach gerichtsfester Sicherung fragen."
+    },
+    {
+     "titel": "Zeug:innen notieren",
+     "text": "Namen und Kontaktdaten von Personen, die etwas beobachtet oder gehört haben, festhalten."
+    },
+    {
+     "titel": "Sicher aufbewahren",
+     "text": "Unterlagen an einem Ort verwahren, auf den die gefährdende Person keinen Zugriff hat, z. B. bei einer Vertrauensperson, einer Beratungsstelle oder einer Anwältin/einem Anwalt."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine gesetzliche Frist",
+     "was": "Für die Untersuchung durch eine Gewaltschutzambulanz gibt es keine Frist – körperliche Spuren verblassen jedoch mit der Zeit, weshalb eine zeitnahe Dokumentation den Beweiswert erheblich erhöht.",
+     "grundlage": "–"
+    }
+   ],
+   "achtung": [
+    "Verwechseln Sie Gewaltschutzambulanzen (körperliche, forensische Dokumentation) nicht mit Traumaambulanzen (psychologische Akuthilfe nach SGB XIV) – beide sind sinnvoll, leisten aber Unterschiedliches.",
+    "Nicht in jeder Region gibt es eine eigene Gewaltschutzambulanz; fragen Sie in diesem Fall die Notaufnahme oder Hausärzt:in gezielt nach einer möglichst gerichtsfesten, detaillierten Dokumentation.",
+    "Für eine einstweilige Anordnung nach dem Gewaltschutzgesetz genügt in der Regel die Glaubhaftmachung der Voraussetzungen – ein vollständiger Beweis wie im Strafprozess ist dort nicht zwingend erforderlich, gute Unterlagen erhöhen aber auch hier die Erfolgsaussichten."
+   ],
+   "fach_html": "\n<h3>Rechtliche Bedeutung der Dokumentation</h3>\n<p>Im Zivilverfahren (Gewaltschutzgesetz) genügt für eine einstweilige Anordnung regelmäßig die <strong>Glaubhaftmachung</strong>\nder Voraussetzungen (§ 294 ZPO), nicht der volle Beweis. Im Strafverfahren gilt dagegen der strengere Grundsatz „im\nZweifel für den Angeklagten“ – hier kommt einer lückenlosen, zeitnahen Dokumentation besonderes Gewicht zu, gerade in\nhäufigen Aussage-gegen-Aussage-Konstellationen.</p>\n<h3>Was Gewaltschutzambulanzen leisten</h3>\n<p>Gewaltschutzambulanzen untersuchen und dokumentieren Verletzungen unabhängig von einer Anzeige, kostenfrei für die\nbetroffene Person, und bewahren den Befund auf, sodass er bei Bedarf später – auch noch nach Wochen oder Monaten –\nangefordert werden kann. Das nimmt den Druck, sich sofort zwischen Anzeige und Nicht-Anzeige entscheiden zu müssen.</p>\n",
+   "zustaendig": [
+    "Gewaltschutzambulanzen (meist an Universitätskliniken)",
+    "Hausärzt:innen, Notaufnahmen",
+    "Beratungsstellen (Unterstützung bei der Dokumentation)"
+   ],
+   "belege": [
+    "Angaben von Gewaltschutzambulanzen zu Ablauf und Kostenfreiheit (z. B. Institut für Rechtsmedizin der Charité Berlin)",
+    "§ 294 ZPO (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "strafanzeige-und-strafverfahren",
+    "soziale-entschaedigung-sgb-xiv",
+    "gewaltschutzgesetz-naeherungsverbot"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "taeterarbeit-anti-gewalt-programme",
+   "kategorie": "strafverfahren",
+   "titel": "Täterarbeit und Anti-Gewalt-Programme",
+   "icon": "🔄",
+   "teaser": "Anti-Gewalt- und Täterarbeitsprogramme sollen erneute Gewalt verhindern. Sie sind meist freiwillig oder gerichtlich auferlegt – und kein Ersatz für Ihren eigenen Schutz.",
+   "schlagworte": [
+    "Täterarbeit",
+    "Anti-Gewalt-Training",
+    "§ 153a StPO",
+    "Bewährungsauflage"
+   ],
+   "kurz_html": "\n<p>Spezialisierte Träger bieten <strong>Täterarbeit</strong> bzw. Anti-Gewalt-Trainings für Personen an, die häusliche\nGewalt ausgeübt haben. Ziel ist, Verantwortung für das eigene Verhalten zu übernehmen und erneute Gewalt zu vermeiden.\nDie Teilnahme ist meist freiwillig oder wird im Strafverfahren als Auflage angeordnet (z. B. bei einer Einstellung\ngegen Auflagen nach § 153a StPO oder als Bewährungsauflage nach § 56c StGB). Betroffene haben keinen eigenen\nRechtsanspruch darauf, dass die gewalttätige Person an einem solchen Programm teilnimmt.</p>\n",
+   "schritte": [
+    {
+     "titel": "Im Strafverfahren ansprechen",
+     "text": "Falls ein Ermittlungs- oder Strafverfahren läuft, kann eine Teilnahmeauflage bei Staatsanwaltschaft oder Gericht angeregt werden – die Entscheidung darüber liegt jedoch bei der Justiz, nicht bei der betroffenen Person."
+    },
+    {
+     "titel": "Information einholen",
+     "text": "Regionale Träger der Täterarbeit lassen sich über Interventionsstellen oder Landesnetzwerke erfragen."
+    },
+    {
+     "titel": "Eigenen Schutz unabhängig davon sichern",
+     "text": "Schutzmaßnahmen wie Gewaltschutzanordnungen sollten unabhängig von einer Programmteilnahme des (Ex-)Partners aufrechterhalten werden."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine gesetzliche Frist",
+     "was": "Die Teilnahme an Täterarbeit ist freiwillig oder folgt der im Einzelfall festgelegten Auflagen- bzw. Bewährungszeit; eine allgemeine gesetzliche Frist existiert nicht.",
+     "grundlage": "–"
+    }
+   ],
+   "achtung": [
+    "Die Teilnahme an einem Anti-Gewalt-Training ist kein Nachweis dafür, dass keine Gefahr mehr besteht. Schutzmaßnahmen sollten unabhängig davon so lange fortgeführt werden, bis eine unabhängige fachliche Einschätzung (z. B. durch eine Beratungsstelle) etwas anderes nahelegt.",
+    "Zur Wirksamkeit von Täterprogrammen bei der Rückfallvermeidung gibt es unterschiedliche Studienergebnisse; ein einheitlicher wissenschaftlicher Konsens über das Ausmaß der Wirkung besteht nicht – diese Seite nennt deshalb bewusst keine Erfolgsquote."
+   ],
+   "fach_html": "\n<h3>Einordnung</h3>\n<p>Täterarbeit ist in Deutschland überwiegend bei freien Trägern organisiert, die sich u. a. in der Bundesarbeitsgemeinschaft\nTäterarbeit Häusliche Gewalt (BAG TäHG) zusammengeschlossen haben und fachliche Standards für die Arbeit mit\ngewaltausübenden Personen entwickeln. Eine bundesgesetzliche Verpflichtung zur flächendeckenden Bereitstellung\nsolcher Programme besteht nicht in vergleichbarer Weise wie beim Opferschutz.</p>\n<h3>Rechtlicher Rahmen der Anordnung</h3>\n<p>Im Ermittlungsverfahren kann die Staatsanwaltschaft bei geringerer Schuld ein Verfahren gegen Auflagen (z. B.\nTeilnahme an einem Anti-Gewalt-Training) vorläufig einstellen (§ 153a StPO). Im Rahmen einer Bewährungsstrafe kann\ndas Gericht eine entsprechende Weisung erteilen (§ 56c StGB). Diese Seite ist bewusst kurzgehalten, da sie sich vor\nallem an Betroffene richtet, für die Täterarbeit kein eigener Handlungsschritt, sondern ergänzende Hintergrundinformation ist.</p>\n",
+   "zustaendig": [
+    "Freie Träger der Täterarbeit",
+    "Staatsanwaltschaft/Gericht (bei Auflagen)",
+    "Bewährungshilfe"
+   ],
+   "belege": [
+    "Bundesarbeitsgemeinschaft Täterarbeit Häusliche Gewalt, Selbstdarstellung (bag-taeterarbeit.de)",
+    "§ 153a StPO, § 56c StGB (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "strafanzeige-und-strafverfahren",
+    "gewaltschutzgesetz-naeherungsverbot"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "kinder-im-haushalt-kinderschutz",
+   "kategorie": "kinder-familie",
+   "titel": "Kinder im Haushalt: Kinderschutz, Jugendamt, Familiengericht",
+   "icon": "👨‍👩‍👧",
+   "teaser": "Wenn Kinder häusliche Gewalt miterleben, gilt das als Kindeswohlgefährdung. Jugendamt und Familiengericht können eingreifen – ohne dass Sie deshalb automatisch das Sorgerecht verlieren.",
+   "schlagworte": [
+    "Kindeswohlgefährdung",
+    "§ 8a SGB VIII",
+    "§ 1666 BGB",
+    "Jugendamt",
+    "Begleiteter Umgang",
+    "Verfahrensbeistand"
+   ],
+   "kurz_html": "\n<p>Kinder, die häusliche Gewalt miterleben – auch ohne selbst direkt angegriffen zu werden –, gelten fachlich und\nrechtlich als von <strong>Kindeswohlgefährdung</strong> betroffen. Das Jugendamt hat einen gesetzlichen Schutzauftrag\n(§ 8a SGB VIII) und kann eingeschaltet werden, auch anonym über eine Kinderschutz-Hotline. Das Familiengericht kann bei\nfestgestellter Kindeswohlgefährdung Maßnahmen nach § 1666 BGB treffen – bis hin zu Einschränkungen des Sorgerechts des\ngewalttätigen Elternteils. Das Umgangsrecht des anderen Elternteils besteht nach einer Trennung grundsätzlich fort,\nkann aber bei nachgewiesener Gefährdung eingeschränkt oder nur begleitet gewährt werden.</p>\n",
+   "schritte": [
+    {
+     "titel": "Akute Gefährdung melden",
+     "text": "Bei akuter Gefahr für ein Kind: Jugendamt oder eine Kinderschutz-Hotline kontaktieren, bei unmittelbarer Gefahr die Polizei (110)."
+    },
+    {
+     "titel": "Gewalt aktiv ansprechen",
+     "text": "Miterlebte häusliche Gewalt gegenüber Beratungsstelle, Anwältin/Anwalt oder Gericht ausdrücklich benennen – sie wird nicht automatisch aus einem parallelen Gewaltschutzverfahren übernommen."
+    },
+    {
+     "titel": "Sorge-/Umgangsrecht prüfen lassen",
+     "text": "Bei Bedarf einen Antrag auf Anpassung von Sorge- oder Umgangsrecht beim Familiengericht stellen."
+    },
+    {
+     "titel": "Kind einbeziehen",
+     "text": "Ältere Kinder werden vom Familiengericht angehört (§ 159 FamFG); ein Verfahrensbeistand kann die Interessen des Kindes im Verfahren vertreten."
+    },
+    {
+     "titel": "Unterstützung für das Kind",
+     "text": "Eigene, kindgerechte Beratungs- oder Traumaangebote für das Kind prüfen (siehe Psychologische Unterstützung)."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine gesetzliche Frist",
+     "was": "Die Kontaktaufnahme zum Jugendamt ist jederzeit möglich; bei akuter Kindeswohlgefährdung kann das Familiengericht im Eilverfahren (einstweilige Anordnung) ohne Wartezeit entscheiden.",
+     "grundlage": "§ 1666 BGB, § 49 FamFG"
+    }
+   ],
+   "achtung": [
+    "Das Umgangsrecht des anderen Elternteils endet nicht automatisch mit einer Trennung wegen Gewalt – das Familiengericht entscheidet im Einzelfall, ob und wie (z. B. nur begleitet) der Umgang stattfindet.",
+    "Ein Gewaltschutzbeschluss gegen einen Elternteil wird nicht automatisch dem Sorge-/Umgangsverfahren zugrunde gelegt – die miterlebte Gewalt sollte dem Gericht und dem Verfahrensbeistand aktiv mitgeteilt werden.",
+    "Kontakt zum Jugendamt bedeutet nicht automatisch eine Kindeswohlgefährdungs-Meldung gegen die betroffene Elternperson selbst – das Jugendamt prüft die konkrete Situation und unterstützt häufig auch mit Hilfsangeboten."
+   ],
+   "fach_html": "\n<h3>Schutzauftrag des Jugendamts</h3>\n<p>§ 8a SGB VIII verpflichtet das Jugendamt, bei gewichtigen Anhaltspunkten für eine Kindeswohlgefährdung tätig zu\nwerden – das Gefährdungsrisiko gemeinsam mit den Sorgeberechtigten (soweit möglich) einzuschätzen und passende Hilfen\nanzubieten, notfalls auch das Familiengericht anzurufen.</p>\n<h3>Familiengerichtliche Maßnahmen</h3>\n<p>§ 1666 BGB erlaubt dem Familiengericht bei Kindeswohlgefährdung ein gestuftes Vorgehen – von Auflagen und Geboten\nbis zur (teilweisen) Entziehung der elterlichen Sorge, wenn mildere Mittel nicht ausreichen. Bei minderjährigen\nKindern ab einem gewissen Alter erfolgt eine persönliche Anhörung (§ 159 FamFG); ein Verfahrensbeistand (§ 158 FamFG)\nkann bestellt werden, um die Interessen des Kindes unabhängig von den Eltern zu vertreten.</p>\n<h3>Umgangsrecht (§ 1684 BGB)</h3>\n<p>Das Umgangsrecht besteht grundsätzlich unabhängig vom Trennungsgrund fort, da der Umgang mit beiden Elternteilen\nregelmäßig als dem Kindeswohl dienlich gilt. Bei nachgewiesener Gefährdung kann das Gericht den Umgang einschränken,\nnur begleitet gestatten (begleiteter Umgang) oder in Ausnahmefällen ganz ausschließen.</p>\n<h3>Weiterführende Themen zu Sorge- und Umgangsrecht</h3>\n<p>Die allgemeinen Grundlagen von Sorge- und Umgangsrecht nach einer Trennung – unabhängig vom Gewaltbezug – behandelt\nder Wegweiser-Baustein für Alleinerziehende ausführlich: <a href=\"../../alleinerziehende-muetter/themen/sorgerecht-und-umgangsrecht.html\">Sorgerecht und Umgangsrecht</a>.</p>\n",
+   "zustaendig": [
+    "Jugendamt",
+    "Familiengericht",
+    "Verfahrensbeistand"
+   ],
+   "belege": [
+    "§ 8a SGB VIII (gesetze-im-internet.de)",
+    "§§ 1666, 1684 BGB (gesetze-im-internet.de)",
+    "§§ 158, 159 FamFG (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "gewaltschutzgesetz-naeherungsverbot",
+    "psychologische-unterstuetzung-traumaberatung"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "soziale-entschaedigung-sgb-xiv",
+   "kategorie": "existenz",
+   "titel": "Soziale Entschädigung für Gewaltopfer (SGB XIV)",
+   "icon": "📋",
+   "teaser": "Seit dem 1. Januar 2024 regelt das SGB XIV die soziale Entschädigung für Gewaltopfer und hat das frühere Opferentschädigungsgesetz (OEG) mit einigen seiner strengsten Ausschlussgründe abgelöst.",
+   "schlagworte": [
+    "SGB XIV",
+    "Opferentschädigungsgesetz",
+    "OEG",
+    "Soziale Entschädigung",
+    "Traumaambulanz"
+   ],
+   "kurz_html": "\n<p>Wer Opfer eines vorsätzlichen, rechtswidrigen tätlichen Angriffs geworden ist – ausdrücklich einschließlich\nhäuslicher und Partnerschaftsgewalt –, kann Leistungen der sozialen Entschädigung beantragen: von schneller\npsychologischer Akuthilfe über Traumaambulanzen bis zu Heilbehandlung und, je nach gesundheitlichen Folgen, einer\nEntschädigungsrente. Seit dem <strong>1. Januar 2024</strong> gilt hierfür das <strong>Vierzehnte Buch\nSozialgesetzbuch (SGB XIV)</strong>, das das frühere Opferentschädigungsgesetz (OEG) abgelöst hat. Wichtig für\nhäusliche Gewalt: frühere Ausschlussgründe wie ein angebliches „Mitverschulden“ durch Verbleiben bei oder Rückkehr\nzur gewalttätigen Person sind im neuen Recht abgeschafft.</p>\n",
+   "schritte": [
+    {
+     "titel": "Antrag stellen",
+     "text": "Antrag beim zuständigen Amt für Soziale Entschädigung bzw. Versorgungsamt Ihres Bundeslandes (Bezeichnung variiert je nach Land)."
+    },
+    {
+     "titel": "Akuthilfe parallel nutzen",
+     "text": "Bei akutem psychischem Unterstützungsbedarf kann eine Traumaambulanz oft schon vor abschließender Bewilligung schnell erste Hilfe leisten."
+    },
+    {
+     "titel": "Nachweise beifügen",
+     "text": "Ärztliche Atteste, Polizeiprotokolle oder andere Dokumentation des Angriffs beifügen, soweit vorhanden – zunächst reichen auch formlose Angaben, die im Verfahren ergänzt werden können."
+    },
+    {
+     "titel": "Prüfung abwarten",
+     "text": "Das zuständige Amt prüft den Antrag und erlässt einen Bescheid."
+    },
+    {
+     "titel": "Bei Ablehnung: Widerspruch",
+     "text": "Gegen einen ablehnenden oder unzureichenden Bescheid ist Widerspruch möglich."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine im Gesetz genannte allgemeine Ausschlussfrist für den Erstantrag konnte im Rahmen dieser Recherche eindeutig verifiziert werden",
+     "was": "Diese Angabe ist ausdrücklich als unsicher gekennzeichnet – erkundigen Sie sich beim zuständigen Amt nach etwaigen Fristen im Einzelfall.",
+     "grundlage": "SGB XIV"
+    },
+    {
+     "wert": "1 Monat",
+     "was": "Allgemeine Widerspruchsfrist gegen Bescheide der Sozialverwaltung ab Zustellung.",
+     "grundlage": "§ 84 SGG"
+    }
+   ],
+   "achtung": [
+    "Die verbesserten Regeln gelten grundsätzlich für schädigende Ereignisse ab dem 1. Januar 2024; für frühere Vorfälle gilt in der Regel noch das alte Opferentschädigungsgesetz (OEG) mit dessen strengeren Voraussetzungen (Bestandsschutz).",
+    "Die genaue Bezeichnung und Erreichbarkeit der zuständigen Behörde unterscheidet sich je nach Bundesland (z. B. Versorgungsamt, Amt für Soziale Entschädigung, Landesamt für Soziales) – lokale Auskunft einholen, etwa über eine Beratungsstelle.",
+    "Ansprüche nach dem SGB XIV schließen andere Leistungen (z. B. Grundsicherungsgeld, Krankenversicherung) nicht grundsätzlich aus, können aber im Einzelfall angerechnet werden – das sollte im Antrag geklärt werden."
+   ],
+   "fach_html": "\n<h3>Was sich mit dem SGB XIV geändert hat</h3>\n<p>Das SGB XIV ist zum 1. Januar 2024 vollständig in Kraft getreten und hat das Soziale Entschädigungsrecht in einem\neigenen Gesetzbuch neu gefasst. Gegenüber dem alten Opferentschädigungsgesetz wurden Anspruchsvoraussetzungen und\nLeistungskatalog erweitert; ausdrücklich wird auch psychische Gewalt berücksichtigt, und die Bedürfnisse von Kindern\nsowie von Menschen mit ausländischer Staatsangehörigkeit wurden stärker einbezogen. Für Betroffene häuslicher Gewalt\nbesonders wichtig: frühere Ausschlussgründe wegen „Mitverschulden“, wegen Verbleibens bei oder Rückkehr zur\ngewalttätigen Person, oder wegen fehlender Strafanzeige wurden abgeschafft bzw. deutlich entschärft, und das\nAntragsverfahren wurde mit Beweiserleichterungen vereinfacht.</p>\n<h3>Traumaambulanzen als schnelle Akuthilfe</h3>\n<p>Ein zentrales Element des sozialen Entschädigungsrechts sind Traumaambulanzen, die psychisch traumatisierten\nGewaltopfern zeitnahen Zugang zu erster fachlicher Unterstützung ermöglichen sollen, unabhängig vom Ausgang eines\netwaigen Straf- oder Entschädigungsverfahrens.</p>\n<h3>Grundsatz (§ 1 SGB XIV)</h3>\n<p>§ 1 SGB XIV formuliert den Grundsatz, dass Personen, die durch ein schädigendes Ereignis eine gesundheitliche\nSchädigung erlitten haben, Anspruch auf Leistungen der sozialen Entschädigung haben – dazu zählt ausdrücklich der\nvorsätzliche, rechtswidrige tätliche Angriff, worunter auch häusliche und Partnerschaftsgewalt fällt.</p>\n",
+   "zustaendig": [
+    "Amt für Soziale Entschädigung / Versorgungsamt des jeweiligen Bundeslandes"
+   ],
+   "belege": [
+    "SGB XIV, in Kraft seit 01.01.2024 (gesetze-im-internet.de)",
+    "§ 1 SGB XIV (gesetze-im-internet.de)",
+    "Frauenhauskoordinierung, „Soziales Entschädigungsrecht – SGB XIV – ab 01.01.2024 in Kraft“ (frauenhauskoordinierung.de)",
+    "Der Paritätische Gesamtverband, Meldung zum Inkrafttreten des SGB XIV (der-paritaetische.de)",
+    "§ 84 SGG (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "beweissicherung-gewaltschutzambulanz",
+    "finanzielle-absicherung-nach-auszug",
+    "psychologische-unterstuetzung-traumaberatung"
+   ],
+   "stand": "Stand: September 2026 (SGB XIV in Kraft seit 1. Januar 2024, löst das Opferentschädigungsgesetz ab)."
+  },
+  {
+   "id": "finanzielle-absicherung-nach-auszug",
+   "kategorie": "existenz",
+   "titel": "Finanzielle Absicherung nach dem Auszug",
+   "icon": "💶",
+   "teaser": "Wer wegen Gewalt auszieht, braucht oft schnell eigenes Geld: Trennungsunterhalt, Grundsicherungsgeld oder Wohngeld, und für Kinder ggf. Unterhaltsvorschuss.",
+   "schlagworte": [
+    "Trennungsunterhalt",
+    "§ 1361 BGB",
+    "Bedarfsgemeinschaft",
+    "Wohngeld",
+    "Grundsicherungsgeld",
+    "Unterhaltsvorschuss"
+   ],
+   "kurz_html": "\n<p>Ab dem Tag der Trennung können Sie <strong>Trennungsunterhalt</strong> (§ 1361 BGB) vom (Ex-)Partner verlangen, wenn\nSie Ihren Unterhalt nicht selbst decken können. Reicht das nicht oder gibt es keinen zahlungsfähigen Partner, kommen\n<strong>Grundsicherungsgeld</strong> (Grundsicherung, SGB II) oder – bei etwas höherem Einkommen – <strong>Wohngeld</strong> in\nBetracht; mit der räumlichen Trennung bilden Sie in der Regel eine eigene Bedarfsgemeinschaft, unabhängig davon, ob\nformal schon geschieden ist. Für Kinder, deren anderer Elternteil keinen oder unregelmäßig Unterhalt zahlt, gibt es\nden <strong>Unterhaltsvorschuss</strong> beim Jugendamt.</p>\n",
+   "schritte": [
+    {
+     "titel": "Trennungsdatum dokumentieren",
+     "text": "Halten Sie das Datum der räumlichen/wirtschaftlichen Trennung fest – es ist u. a. für Trennungsunterhalt und Steuerklasse relevant."
+    },
+    {
+     "titel": "Leistungen beantragen",
+     "text": "Grundsicherungsgeld bzw. Wohngeld beim zuständigen Amt beantragen; bei akuter Bedürftigkeit kann ein Eil- bzw. Vorschussantrag sinnvoll sein."
+    },
+    {
+     "titel": "Trennungsunterhalt geltend machen",
+     "text": "Den (Ex-)Partner schriftlich zur Zahlung von Trennungsunterhalt auffordern (Verzugswirkung), ggf. mit anwaltlicher Unterstützung."
+    },
+    {
+     "titel": "Unterhaltsvorschuss für Kinder prüfen",
+     "text": "Beim Jugendamt beantragen, wenn der andere Elternteil keinen oder nicht regelmäßig Kindesunterhalt zahlt."
+    },
+    {
+     "titel": "Beratungs-/Prozesskostenhilfe prüfen",
+     "text": "Bei geringem Einkommen Beratungshilfe (außergerichtlich) bzw. Verfahrenskostenhilfe (gerichtlich) beantragen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Ab Aufforderung",
+     "was": "Trennungsunterhalt wird rückwirkend regelmäßig erst ab dem Zeitpunkt geschuldet, ab dem der (Ex-)Partner zur Zahlung aufgefordert bzw. in Verzug gesetzt wurde – deshalb zeitnah schriftlich auffordern.",
+     "grundlage": "§§ 1361, 1613 BGB"
+    },
+    {
+     "wert": "Ab Antragstellung",
+     "was": "Grundsicherungsgeld wird grundsätzlich erst ab dem Monat der Antragstellung gezahlt, nicht rückwirkend für zurückliegende Zeiträume vor dem Antrag.",
+     "grundlage": "§ 37 SGB II"
+    }
+   ],
+   "achtung": [
+    "Ein gemeinsames Konto oder ein gemeinsamer Mietvertrag endet nicht automatisch mit dem Auszug – das sollte zeitnah und möglichst einvernehmlich oder anwaltlich geklärt werden, um nicht für Verbindlichkeiten der anderen Person zu haften.",
+    "Für die Anerkennung einer eigenen Bedarfsgemeinschaft beim Jobcenter muss die tatsächliche Trennung glaubhaft gemacht werden können – eine gute Dokumentation (Ummeldung, getrennte Konten, Zeugen) erleichtert das.",
+    "Wohngeld ist gegenüber Grundsicherungsgeld vorrangig, wenn es die Bedürftigkeit für die im Haushalt lebenden Personen voraussichtlich für mindestens drei Monate beseitigen würde – das sollte im Zweifel mit dem Jobcenter/der Wohngeldstelle geklärt werden."
+   ],
+   "fach_html": "\n<h3>Trennungsunterhalt (§ 1361 BGB)</h3>\n<p>Ab der Trennung können Ehegatten, die nicht für ihren Unterhalt sorgen können, vom anderen Ehegatten\nTrennungsunterhalt verlangen. Die Höhe richtet sich nach den ehelichen Lebensverhältnissen und beiderseitigem\nEinkommen. Nach § 1613 BGB wird rückwirkender Unterhalt regelmäßig nur ab dem Zeitpunkt einer Zahlungsaufforderung\nbzw. eines Auskunftsverlangens geschuldet – ein weiterer Grund, die Trennung und den Unterhaltsanspruch möglichst\nschriftlich und zeitnah zu dokumentieren.</p>\n<h3>Bedarfsgemeinschaft und eigene Leistung (SGB II)</h3>\n<p>Nach § 7 SGB II bilden getrennt lebende (Ex-)Partner keine gemeinsame Bedarfsgemeinschaft mehr; ausschlaggebend ist\ndas tatsächliche Getrenntleben, nicht der formale Familienstand. Das gilt in Ausnahmefällen auch bei fortbestehender\ngemeinsamer Wohnung, wenn erkennbar „von Tisch und Bett\" getrennt gelebt wird.</p>\n<h3>Kinder: Unterhaltsvorschuss und Kindesunterhalt</h3>\n<p>Für die finanzielle Absicherung von Kindern nach einer Trennung – Unterhaltsvorschuss, Durchsetzung von\nKindesunterhalt, Wohnraumsuche als Alleinerziehende – bietet der Wegweiser-Baustein für Alleinerziehende vertiefte\neigene Themenseiten: <a href=\"../../alleinerziehende-muetter/themen/unterhaltsvorschuss.html\">Unterhaltsvorschuss (UVG)</a>\nund <a href=\"../../alleinerziehende-muetter/themen/kindesunterhalt-durchsetzen.html\">Kindesunterhalt durchsetzen</a>.\nDiese Seite hier beschränkt sich bewusst auf die unmittelbar mit dem gewaltbedingten Auszug verbundenen Finanzfragen.</p>\n",
+   "zustaendig": [
+    "Jobcenter",
+    "Wohngeldstelle",
+    "Jugendamt (Unterhaltsvorschuss)",
+    "Familiengericht (Unterhaltsfestsetzung)"
+   ],
+   "belege": [
+    "§§ 1361, 1613 BGB (gesetze-im-internet.de)",
+    "§§ 7, 37 SGB II (gesetze-im-internet.de)",
+    "Unterhaltsvorschussgesetz (UVG), Wohngeldgesetz (WoGG) (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "wohnungszuweisung-nach-trennung",
+    "soziale-entschaedigung-sgb-xiv"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "aufenthaltsrecht-bei-gewalt-in-der-ehe",
+   "kategorie": "existenz",
+   "titel": "Aufenthaltsrecht bei Gewalt in der Ehe",
+   "icon": "🛂",
+   "teaser": "Wer wegen Gewalt die Ehe verlässt, verliert nicht automatisch das Aufenthaltsrecht: § 31 AufenthG sichert ein eigenständiges Aufenthaltsrecht – bei häuslicher Gewalt auch vor Ablauf der sonst nötigen drei Jahre.",
+   "schlagworte": [
+    "§ 31 AufenthG",
+    "Eigenständiges Aufenthaltsrecht",
+    "Härtefall",
+    "Ausländerbehörde"
+   ],
+   "kurz_html": "\n<p>Nach § 31 Abs. 1 AufenthG erhalten Ehegatten nach Auflösung der ehelichen Lebensgemeinschaft ein von der Ehe\n<strong>unabhängiges eigenständiges Aufenthaltsrecht</strong> für ein Jahr, wenn die eheliche Lebensgemeinschaft zuvor\nmindestens drei Jahre rechtmäßig in Deutschland bestanden hat. § 31 Abs. 2 AufenthG lässt diese Drei-Jahres-Frist\nentfallen, soweit es zur Vermeidung einer <strong>besonderen Härte</strong> erforderlich ist, damit der Ehegatte die\nLebensgemeinschaft nicht fortsetzen muss – als besondere Härte gilt nach der Vorschrift ausdrücklich insbesondere der\nFall, dass die Person Opfer häuslicher Gewalt geworden ist. Sie müssen also nicht in einer gewalttätigen Ehe bleiben,\nnur um Ihren Aufenthaltsstatus nicht zu gefährden.</p>\n",
+   "schritte": [
+    {
+     "titel": "Ausländerbehörde informieren",
+     "text": "Die Trennung mitteilen und den Härtefallgrund häusliche Gewalt ausdrücklich geltend machen."
+    },
+    {
+     "titel": "Nachweise sammeln",
+     "text": "Polizeiprotokolle, ein Gewaltschutzbeschluss, ärztliche Atteste oder Zeugenaussagen als Beleg für die Gewaltbetroffenheit zusammenstellen."
+    },
+    {
+     "titel": "Aufenthaltstitel umstellen lassen",
+     "text": "Verlängerung bzw. Umstellung der Aufenthaltserlaubnis auf die eigenständige Grundlage nach § 31 AufenthG beantragen."
+    },
+    {
+     "titel": "Spezialisierte Beratung einbeziehen",
+     "text": "Fachberatungsstellen für Migrantinnen unterstützen bei Antrag und Nachweisführung und kennen die Praxis der jeweiligen Ausländerbehörde vor Ort."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Vor Ablauf des Aufenthaltstitels",
+     "was": "Es gibt keine pauschale gesetzliche Frist, die Trennung zu melden – praktisch wichtig ist aber, die Verlängerung/Umstellung rechtzeitig vor Ablauf der bestehenden Aufenthaltserlaubnis zu beantragen.",
+     "grundlage": "§ 31 AufenthG"
+    }
+   ],
+   "achtung": [
+    "Lassen Sie sich nicht von der Behauptung einschüchtern, eine Trennung führe automatisch zum Verlust des Aufenthaltsrechts – bei häuslicher Gewalt sieht das Gesetz ausdrücklich eine Ausnahme von der Drei-Jahres-Regel vor.",
+    "Bei einer Duldung statt einer Aufenthaltserlaubnis gelten andere, komplexere Regeln als § 31 AufenthG – hier ist eine spezialisierte rechtliche Beratung besonders wichtig, bevor Sie mit Behörden Kontakt aufnehmen.",
+    "Der Zugang zu Sozialleistungen unterscheidet sich je nach Aufenthaltsstatus erheblich (z. B. Grundsicherungsgeld vs. Leistungen nach dem Asylbewerberleistungsgesetz) – das sollte gemeinsam mit einer Fachberatungsstelle geklärt werden."
+   ],
+   "fach_html": "\n<h3>§ 31 AufenthG im Detail</h3>\n<p>§ 31 Abs. 1 AufenthG verlangt für das eigenständige Aufenthaltsrecht grundsätzlich, dass die eheliche\nLebensgemeinschaft mindestens drei Jahre rechtmäßig im Bundesgebiet bestanden hat. § 31 Abs. 2 AufenthG erlaubt ein\nAbsehen von dieser Frist, soweit es zur Vermeidung einer besonderen Härte erforderlich ist. Eine besondere Härte liegt\nnach dem Gesetz insbesondere vor, wenn dem Ehegatten wegen der Rückkehrverpflichtung eine erhebliche Beeinträchtigung\nseiner schutzwürdigen Belange droht oder ihm die Fortsetzung der ehelichen Lebensgemeinschaft nicht zuzumuten ist;\nLetzteres wird nach der Vorschrift insbesondere angenommen, wenn der Ehegatte Opfer häuslicher Gewalt ist.</p>\n<h3>Praktische Bedeutung</h3>\n<p>Die Regelung soll verhindern, dass Betroffene aus Angst vor dem Verlust ihres Aufenthaltsstatus in einer\ngewalttätigen Beziehung verbleiben. Sie ersetzt keine automatische Entscheidung – der Härtefall muss gegenüber der\nAusländerbehörde dargelegt und möglichst belegt werden, weshalb Beweissicherung (siehe eigene Seite) auch hier\nrelevant ist.</p>\n",
+   "zustaendig": [
+    "Ausländerbehörde",
+    "Fachberatungsstellen für Migrantinnen"
+   ],
+   "belege": [
+    "§ 31 AufenthG (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "beratung-und-anlaufstellen",
+    "gewaltschutzgesetz-naeherungsverbot"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "psychologische-unterstuetzung-traumaberatung",
+   "kategorie": "beratung",
+   "titel": "Psychologische Unterstützung und Traumaberatung",
+   "icon": "🧠",
+   "teaser": "Häusliche Gewalt hinterlässt oft seelische Spuren. Traumaambulanzen, Beratungsstellen und Psychotherapie helfen – unabhängig davon, ob Sie Anzeige erstattet haben.",
+   "schlagworte": [
+    "Traumaambulanz",
+    "Psychotherapie",
+    "Psychotherapeutische Sprechstunde",
+    "Traumaberatung"
+   ],
+   "kurz_html": "\n<p>Für die seelischen Folgen häuslicher Gewalt gibt es unterschiedliche, sich ergänzende Anlaufstellen: bei akutem\nBedarf eine <strong>Traumaambulanz</strong> (schnelle psychologische Erstversorgung, im Rahmen des SGB XIV bei\nAnspruchsvoraussetzungen kostenübernommen, siehe eigene Seite zur sozialen Entschädigung), für längerfristige\nUnterstützung eine <strong>psychotherapeutische Sprechstunde</strong> als Einstieg in die Richtlinien-Psychotherapie\nüber die gesetzliche Krankenversicherung, und für niedrigschwellige, meist kostenlose Beratung ohne\nDiagnosepflicht die örtlichen <strong>Frauenberatungsstellen</strong>.</p>\n",
+   "schritte": [
+    {
+     "titel": "Akute seelische Krise",
+     "text": "Traumaambulanz, psychiatrische Institutsambulanz oder Notaufnahme kontaktieren; bei Suizidgedanken zusätzlich Notruf 112 oder die TelefonSeelsorge (0800 111 0 111 bzw. 0800 111 0 222, kostenlos, rund um die Uhr)."
+    },
+    {
+     "titel": "Langfristige Unterstützung",
+     "text": "Über die Terminservicestelle (116117) oder direkt bei einer/einem Psychotherapeut:in eine psychotherapeutische Sprechstunde vereinbaren."
+    },
+    {
+     "titel": "Niedrigschwellige Beratung parallel nutzen",
+     "text": "Kostenlose Beratung bei einer Frauenberatungsstelle in Anspruch nehmen, auch während der Wartezeit auf einen Therapieplatz."
+    },
+    {
+     "titel": "SGB-XIV-Leistungen prüfen",
+     "text": "Parallel einen Antrag auf soziale Entschädigung stellen, wenn ein vorsätzlicher tätlicher Angriff vorlag (siehe eigene Seite)."
+    },
+    {
+     "titel": "Kinder nicht vergessen",
+     "text": "Für miterlebende Kinder gibt es eigene, altersgerechte Beratungs- und Therapieangebote."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine gesetzliche Frist",
+     "was": "Für die psychotherapeutische Sprechstunde besteht keine gesetzlich fixierte Höchstwartezeit; Traumaambulanzen sind konzeptionell auf einen zeitnahen Zugang ausgelegt, was aber ein fachlicher Standard und keine erzwingbare Frist ist.",
+     "grundlage": "–"
+    }
+   ],
+   "achtung": [
+    "Die tatsächliche Wartezeit auf einen Richtlinien-Therapieplatz kann je nach Region Wochen bis Monate betragen – Beratungsstellen und Traumaambulanzen überbrücken diese Zeit, ersetzen bei Bedarf aber keine längerfristige Therapie.",
+    "Akute Suizidgedanken sind ein eigener Notfall: Notruf 112 oder die TelefonSeelsorge kontaktieren, nicht abwarten.",
+    "Verwechseln Sie Traumaambulanzen (psychologische Akuthilfe) nicht mit Gewaltschutzambulanzen (körperliche, forensische Dokumentation) – beide Angebote sind sinnvoll, leisten aber Unterschiedliches (siehe Beweissicherung)."
+   ],
+   "fach_html": "\n<h3>Psychotherapeutische Sprechstunde</h3>\n<p>Nach der Psychotherapie-Richtlinie des Gemeinsamen Bundesausschusses (auf Grundlage von § 92 SGB V) ist die\npsychotherapeutische Sprechstunde der reguläre erste Zugang zur ambulanten Richtlinien-Psychotherapie in der\ngesetzlichen Krankenversicherung und dient der Ersteinschätzung und ggf. Vermittlung in eine Akutbehandlung oder\nTherapie.</p>\n<h3>Traumaambulanzen im Rahmen des SGB XIV</h3>\n<p>Traumaambulanzen sind ein Kernelement des seit 1. Januar 2024 geltenden sozialen Entschädigungsrechts (SGB XIV) und\nsollen Gewaltopfern zeitnahen Zugang zu erster fachlicher psychologischer Unterstützung ermöglichen, unabhängig vom\nAusgang eines etwaigen Straf- oder Entschädigungsverfahrens (Details siehe eigene Seite zur sozialen Entschädigung).</p>\n",
+   "zustaendig": [
+    "Traumaambulanzen",
+    "Frauenberatungsstellen",
+    "Psychotherapeut:innen",
+    "Terminservicestelle (116117)"
+   ],
+   "belege": [
+    "§ 92 SGB V, Psychotherapie-Richtlinie des G-BA (gesetze-im-internet.de, g-ba.de)",
+    "SGB XIV, Traumaambulanz-Konzept (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "soziale-entschaedigung-sgb-xiv",
+    "beratung-und-anlaufstellen"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "beratung-und-anlaufstellen",
+   "kategorie": "beratung",
+   "titel": "Beratung und Anlaufstellen",
+   "icon": "📞",
+   "teaser": "Das Hilfetelefon 116 016 ist der zentrale erste Kontakt – rund um die Uhr, kostenlos, anonym und mehrsprachig. Von dort wird an die passende Stelle vor Ort vermittelt.",
+   "schlagworte": [
+    "Hilfetelefon",
+    "Frauenberatungsstelle",
+    "Interventionsstelle",
+    "Weißer Ring",
+    "Hilfetelefon Gewalt an Männern"
+   ],
+   "kurz_html": "\n<p>Das bundesweite <strong>Hilfetelefon „Gewalt gegen Frauen“ (116 016)</strong> ist rund um die Uhr, kostenlos,\nanonym und in vielen Sprachen erreichbar – telefonisch und online über hilfetelefon.de. Es berät direkt und vermittelt\nbei Bedarf an eine <strong>Frauenberatungsstelle</strong> oder <strong>Interventionsstelle</strong> vor Ort, an ein\nFrauenhaus oder an spezialisierte Fachberatung (z. B. für Migrantinnen). Für Männer gibt es das gesondert\norganisierte, zeitlich eingeschränkt erreichbare <strong>Hilfetelefon „Gewalt an Männern“ (0800 123 99 00)</strong>.\nFür allgemeine Opferhilfe unabhängig vom Geschlecht bietet außerdem der Weiße Ring e. V. ein bundesweites\nOpfertelefon (116 006) an.</p>\n",
+   "schritte": [
+    {
+     "titel": "Ersten Kontakt aufnehmen",
+     "text": "Hilfetelefon 116 016 anrufen oder online über hilfetelefon.de chatten – auch nur zur Information, ganz ohne Verpflichtung zu weiteren Schritten."
+    },
+    {
+     "titel": "Vor-Ort-Beratung finden",
+     "text": "Über das Hilfetelefon oder direkt an eine Frauenberatungsstelle/Interventionsstelle in Ihrer Nähe vermitteln lassen."
+    },
+    {
+     "titel": "Spezialisierte Beratung nutzen",
+     "text": "Bei Bedarf an spezialisierte Angebote wenden, z. B. für Migrantinnen, für LSBTIQ*-Personen oder für Männer."
+    },
+    {
+     "titel": "Rechtliche und finanzielle Fragen klären",
+     "text": "Beratungsstellen unterstützen häufig auch bei Anträgen (Gewaltschutzgesetz, Grundsicherungsgeld, SGB XIV) oder vermitteln an spezialisierte Anwält:innen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine gesetzliche Frist",
+     "was": "Beratung kann jederzeit und wiederholt in Anspruch genommen werden.",
+     "grundlage": "–"
+    }
+   ],
+   "achtung": [
+    "Das Hilfetelefon „Gewalt gegen Frauen“ ist rund um die Uhr erreichbar; das Hilfetelefon „Gewalt an Männern“ dagegen nur zu eingeschränkten Zeiten (Mo–Do 8–20 Uhr, Fr 8–15 Uhr) – außerhalb dieser Zeiten bei akuter Gefahr den Notruf 110 nutzen.",
+    "Beratungsstellen ersetzen keine Rechtsberatung im Einzelfall, vermitteln aber häufig kostenlos oder kostengünstig an spezialisierte Anwält:innen."
+   ],
+   "fach_html": "\n<h3>Das Hilfetelefon „Gewalt gegen Frauen“</h3>\n<p>Träger ist das Bundesamt für Familie und zivilgesellschaftliche Aufgaben (BAFzA). Das Angebot ist kostenlos,\nanonym, barrierefrei, mehrsprachig, mit Möglichkeit zur Hinzuziehung von Dolmetscher:innen und Gebärdensprachdolmetschung,\nund rund um die Uhr an 365 Tagen im Jahr erreichbar – telefonisch, per Chat und E-Mail.</p>\n<h3>Interventionsstellen</h3>\n<p>Interventionsstellen bei häuslicher Gewalt arbeiten in vielen Bundesländern eng mit der Polizei zusammen: Nach\neinem Polizeieinsatz mit Wegweisung nehmen sie häufig proaktiv Kontakt zu Betroffenen auf, statt abzuwarten, dass sich\ndiese von sich aus melden.</p>\n<h3>Weitere spezialisierte Angebote</h3>\n<p>Für Männer: Hilfetelefon „Gewalt an Männern“ (0800 123 99 00, Mo–Do 8–20 Uhr, Fr 8–15 Uhr, auch Chat/E-Mail über\nmaennerhilfetelefon.de). Für allgemeine Opferhilfe unabhängig von der Art der Straftat: Weißer Ring e. V.,\nbundesweites Opfertelefon 116 006. Für Migrantinnen: spezialisierte Fachberatungsstellen, häufig mit\nSprachmittlung, die über das Hilfetelefon oder kommunale Gleichstellungsstellen vermittelt werden.</p>\n",
+   "zustaendig": [
+    "Hilfetelefon „Gewalt gegen Frauen“ (BAFzA)",
+    "Frauenberatungsstellen und Interventionsstellen vor Ort",
+    "Weißer Ring e. V."
+   ],
+   "belege": [
+    "hilfetelefon.de / bafza.de",
+    "maennerhilfetelefon.de",
+    "weisser-ring.de",
+    "Frauenhauskoordinierung, Themenportal Hilfesystem (frauenhauskoordinierung.de)"
+   ],
+   "siehe_auch": [
+    "formen-haeuslicher-gewalt",
+    "akute-gefahr-erste-schritte",
+    "psychologische-unterstuetzung-traumaberatung"
+   ],
+   "stand": "Stand: September 2026."
+  }
+ ]
+}

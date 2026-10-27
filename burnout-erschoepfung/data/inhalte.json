@@ -1,0 +1,1031 @@
+{
+  "kategorien": [
+    {
+      "id": "ueberblick",
+      "titel": "Überblick",
+      "icon": "🧭",
+      "beschreibung": "Einordnung: was Burnout und Erschöpfung medizinisch und sozialrechtlich bedeuten."
+    },
+    {
+      "id": "krankheit-einkommen",
+      "titel": "Krankschreibung und Einkommen",
+      "icon": "🤒",
+      "beschreibung": "Krankschreibung, Lohnfortzahlung und Krankengeld bei Erschöpfung."
+    },
+    {
+      "id": "rueckkehr-job",
+      "titel": "Rückkehr in den Job",
+      "icon": "🔄",
+      "beschreibung": "Stufenweise Wiedereingliederung und betriebliches Eingliederungsmanagement."
+    },
+    {
+      "id": "behandlung-reha",
+      "titel": "Behandlung und Reha",
+      "icon": "🩺",
+      "beschreibung": "Psychotherapie, medizinische Reha und Mutter-/Vater-Kind-Kuren."
+    },
+    {
+      "id": "dauerhafte-einschraenkung",
+      "titel": "Wenn Erschöpfung dauerhaft wird",
+      "icon": "⚖️",
+      "beschreibung": "Erwerbsminderungsrente bei chronischer Erschöpfung."
+    },
+    {
+      "id": "arbeitsplatz-praevention",
+      "titel": "Arbeitsplatz und Prävention",
+      "icon": "🛡️",
+      "beschreibung": "Gefährdungsbeurteilung psychischer Belastungen und Rechte bei Überlastung."
+    },
+    {
+      "id": "selbsthilfe-beratung",
+      "titel": "Selbsthilfe, Umfeld und Beratung",
+      "icon": "🤝",
+      "beschreibung": "Stressbewältigung, Angehörige und Anlaufstellen."
+    }
+  ],
+  "seiten": [
+    {
+      "id": "ueberblick-burnout-erschoepfung",
+      "kategorie": "ueberblick",
+      "titel": "Was ist Burnout? Medizinische und rechtliche Einordnung",
+      "icon": "🧭",
+      "teaser": "Burnout ist keine eigenständige Diagnose, sondern ein Risikofaktor (ICD-10 Z73.0). Für Krankschreibung, Reha oder Rente zählt die zugrunde liegende Erkrankung.",
+      "schlagworte": [
+        "Burnout",
+        "Z73.0",
+        "ICD-10",
+        "Erschöpfungssyndrom",
+        "Ausgebranntsein",
+        "Anpassungsstörung",
+        "Depressive Episode",
+        "ICD-11"
+      ],
+      "kurz_html": "\n<p>„Burnout“ beschreibt einen Zustand tiefer körperlicher, emotionaler und geistiger Erschöpfung, der sich meist über Monate oder Jahre durch andauernde Überlastung – häufig, aber nicht nur, im Beruf – aufbaut. Das Wort ist jedoch <strong>keine eigenständige Krankheitsdiagnose</strong> im deutschen Gesundheitssystem. In der amtlichen Klassifikation ICD-10-GM wird Burnout unter dem Code <strong>Z73.0 „Ausgebranntsein“</strong> geführt – das ist eine sogenannte Z-Diagnose, also ein Faktor, der den Gesundheitszustand beeinflusst, aber selbst keine behandlungsbedürftige Krankheit im engeren Sinn beschreibt.</p>\n<p>Das hat handfeste Folgen: Allein mit der Diagnose Z73.0 lässt sich in der Praxis meist weder eine länger dauernde Krankschreibung noch eine Psychotherapie-Kostenübernahme, eine Reha oder gar eine Erwerbsminderungsrente tragfähig begründen. Ärztinnen und Ärzte bzw. Psychotherapeutinnen und Psychotherapeuten stellen deshalb bei behandlungsbedürftiger Erschöpfung in aller Regel zusätzlich oder stattdessen eine eigenständige Diagnose aus einem anderen ICD-10-Kapitel – am häufigsten eine depressive Episode (F32), eine Anpassungsstörung (F43.2) oder eine andere stressbezogene Störung. Diese F-Diagnose, nicht das Wort „Burnout“, ist die rechtlich und sozialversicherungsrechtlich maßgebliche Grundlage.</p>\n",
+      "schritte": [
+        {
+          "titel": "Ernst nehmen",
+          "text": "Anhaltende Erschöpfung, Schlafstörungen, Zynismus gegenüber der Arbeit oder das Gefühl völliger Ausgelaugtheit sind ein Grund, ärztliche oder psychotherapeutische Hilfe zu suchen – nicht ein Zeichen von Schwäche."
+        },
+        {
+          "titel": "Hausärztin/Hausarzt oder Psychotherapeutin/Psychotherapeut aufsuchen",
+          "text": "Beide können eine Arbeitsunfähigkeitsbescheinigung ausstellen und die notwendige Diagnostik einleiten."
+        },
+        {
+          "titel": "Auf die tatsächlich gestellte Diagnose achten",
+          "text": "Fragen Sie nach, welche Diagnose(n) neben oder statt Z73.0 dokumentiert werden, da diese über Krankschreibung, Kostenübernahme und spätere Anträge entscheidet."
+        },
+        {
+          "titel": "Behandlung einleiten",
+          "text": "Je nach Schwere: ambulante Psychotherapie, medikamentöse Mitbehandlung oder eine medizinische Reha (siehe die entsprechenden Themenseiten)."
+        },
+        {
+          "titel": "Arbeitsplatzbezug klären",
+          "text": "Prüfen Sie parallel, ob betriebliche Belastungsfaktoren eine Rolle spielen und ob Gespräche mit Vorgesetzten, Betriebsrat oder Betriebsarzt sinnvoll sind."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "Keine gesetzliche Frist",
+          "was": "Für die Diagnosestellung selbst gibt es keine gesetzliche Frist. Fristen entstehen erst mit der Krankschreibung, dem Krankengeldbezug oder einem Rentenantrag – siehe die jeweiligen Themenseiten.",
+          "grundlage": "–"
+        }
+      ],
+      "achtung": [
+        "„Burnout“ allein ist meist kein ausreichender Grund für eine Kostenübernahme durch die Krankenkasse – entscheidend ist die zugrunde liegende, eigenständig diagnostizierte Erkrankung.",
+        "ICD-11, die die WHO seit 2022 international einführt, ordnet Burnout (Code QD85) noch deutlicher als „Faktor“ bzw. „occupational phenomenon“ ein, nicht als Krankheit. In Deutschland ist für Abrechnung und Sozialrecht weiterhin die ICD-10-GM maßgeblich (Stand September 2026); der genaue Zeitplan einer vollständigen Umstellung auf ICD-11 in der deutschen Sozialversicherung war zum Redaktionsschluss nicht abschließend verifizierbar und wird hier deshalb bewusst nicht beziffert.",
+        "Verwechseln Sie Burnout nicht vorschnell mit einer Depression – beides kann zusammen auftreten oder ineinander übergehen, ärztliche/psychotherapeutische Abklärung ist notwendig.",
+        "Für die eigentliche Behandlung einer depressiven Episode oder Anpassungsstörung siehe das Modul Depression."
+      ],
+      "fach_html": "\n<h3>Z-Diagnosen nach ICD-10-GM</h3>\n<p>Das Kapitel XXI der ICD-10-GM („Faktoren, die den Gesundheitszustand beeinflussen und zur Inanspruchnahme des Gesundheitswesens führen“) enthält sogenannte Z-Diagnosen. Z73.0 „Ausgebranntsein“ (Burnout) gehört dazu. Z-Diagnosen dürfen kodiert werden, begründen für sich genommen aber in der Regel weder Arbeitsunfähigkeit noch den Anspruch auf Krankenkassenleistungen wie Richtlinien-Psychotherapie – dafür ist grundsätzlich eine Diagnose aus den Kapiteln erforderlich, die tatsächliche Krankheiten beschreiben (z. B. Kapitel V, „Psychische und Verhaltensstörungen“, F00–F99).</p>\n<h3>Praxis: F32, F43 &amp; Co. neben oder statt Z73.0</h3>\n<p>In der ärztlichen und psychotherapeutischen Praxis wird Z73.0 deshalb häufig als Zusatz- oder Nebendiagnose neben einer depressiven Episode (F32.-), einer Anpassungsstörung (F43.2) oder gelegentlich einer somatoformen bzw. neurasthenischen Störung (F45.-, F48.0) dokumentiert. Welche Diagnose im Einzelfall zutrifft, entscheidet die behandelnde Fachperson anhand der Symptomatik – das ist keine reine Formalität, sondern medizinisch begründet und zugleich die Voraussetzung für Krankschreibung, Krankengeld, Reha oder spätere Anträge.</p>\n<h3>ICD-11 und der internationale Trend</h3>\n<p>Die WHO hat Burnout in der ICD-11 (Code QD85) im Kapitel der Faktoren, die den Gesundheitszustand beeinflussen, als „occupational phenomenon“ beschrieben – ausdrücklich nicht als Krankheit klassifiziert. Deutschland stellt die Umstellung von ICD-10-GM auf ICD-11 im Gesundheitswesen und in der Sozialversicherung schrittweise um; zum Stand September 2026 ist für Abrechnung, Krankschreibung und Sozialleistungen weiterhin die ICD-10-GM maßgeblich. Der genaue Zeitplan der vollständigen Umstellung war im Rahmen dieser Recherche nicht abschließend zu verifizieren und wird hier deshalb bewusst nicht beziffert.</p>\n<h3>Warum diese Unterscheidung für Sie wichtig ist</h3>\n<p>Alle weiteren Themenseiten dieses Moduls – Krankschreibung, Krankengeld, Wiedereingliederung, Reha, Erwerbsminderungsrente – knüpfen sozialrechtlich an eine eigenständige Krankheitsdiagnose an, nicht an das Wort „Burnout“ selbst. Wo eine Seite von „Krankschreibung bei Burnout“ spricht, ist damit stets die Krankschreibung wegen der zugrunde liegenden, eigenständig diagnostizierten Erkrankung gemeint.</p>\n",
+      "zustaendig": [
+        "Hausärztin/Hausarzt",
+        "Fachärztin/Facharzt für Psychiatrie und Psychotherapie",
+        "Psychologische Psychotherapeutin/Psychotherapeut"
+      ],
+      "belege": [
+        "ICD-10-GM 2026, Kapitel XXI, Code Z73.0 (Bundesinstitut für Arzneimittel und Medizinprodukte, BfArM)",
+        "WHO ICD-11, Code QD85 (icd.who.int)"
+      ],
+      "siehe_auch": [
+        "krankschreibung-bei-burnout",
+        "psychotherapie-und-behandlung"
+      ],
+      "stand": "Stand: September 2026."
+    },
+    {
+      "id": "krankschreibung-bei-burnout",
+      "kategorie": "krankheit-einkommen",
+      "titel": "Krankschreibung bei Burnout und Erschöpfung",
+      "icon": "📄",
+      "teaser": "Wegen Erschöpfung krankgeschrieben zu werden ist möglich – rechtlich knüpft die Arbeitsunfähigkeit aber an eine eigenständige Diagnose an, nicht an den Begriff „Burnout“ allein.",
+      "schlagworte": [
+        "Arbeitsunfähigkeit",
+        "eAU",
+        "Krankschreibung",
+        "Anzeigepflicht",
+        "Nachweispflicht"
+      ],
+      "kurz_html": "\n<p>Fühlen Sie sich durch anhaltende Erschöpfung nicht mehr in der Lage zu arbeiten, kann Ihre Ärztin oder Ihr Arzt bzw. eine Psychotherapeutin oder ein Psychotherapeut Sie krankschreiben (Arbeitsunfähigkeitsbescheinigung, AU). Wie bei jeder Krankschreibung müssen Sie Ihrem Arbeitgeber die Arbeitsunfähigkeit und ihre voraussichtliche Dauer unverzüglich mitteilen. Seit 2023 übermittelt die Arztpraxis die Bescheinigung in der Regel elektronisch (elektronische Arbeitsunfähigkeitsbescheinigung, eAU) an die Krankenkasse; der Arbeitgeber ruft die Daten dort ab. Sie erhalten weiterhin eine Bescheinigung für Ihre eigenen Unterlagen.</p>\n<p>Wichtig: Ob und wie lange Sie krankgeschrieben werden, hängt nicht am Wort „Burnout“, sondern an der tatsächlich gestellten Diagnose (siehe <a href=\"ueberblick-burnout-erschoepfung.html\">Was ist Burnout?</a>). Eine reine Z73.0-Kodierung reicht in der Praxis für eine länger dauernde Krankschreibung meist nicht aus.</p>\n",
+      "schritte": [
+        {
+          "titel": "Rechtzeitig zur Ärztin/zum Arzt oder zur Psychotherapeutin/zum Psychotherapeuten",
+          "text": "Warten Sie bei anhaltender Erschöpfung nicht auf den völligen Zusammenbruch."
+        },
+        {
+          "titel": "Arbeitgeber unverzüglich informieren",
+          "text": "Melden Sie die Arbeitsunfähigkeit und ihre voraussichtliche Dauer noch am selben Tag, spätestens vor Beginn der regulären Arbeitszeit."
+        },
+        {
+          "titel": "eAU-Abruf nicht mit eigener Meldepflicht verwechseln",
+          "text": "Die elektronische Übermittlung an die Krankenkasse ersetzt nicht Ihre persönliche Meldepflicht gegenüber dem Arbeitgeber."
+        },
+        {
+          "titel": "Folgebescheinigung rechtzeitig einholen",
+          "text": "Lassen Sie sich bei fortbestehender Arbeitsunfähigkeit rechtzeitig vor Ablauf der bisherigen Bescheinigung eine Folge-AU ausstellen, um Lücken zu vermeiden."
+        },
+        {
+          "titel": "Diagnoseverlauf im Blick behalten",
+          "text": "Sprechen Sie offen an, wenn Sie unsicher sind, ob neben Z73.0 eine eigenständige Diagnose dokumentiert ist – das betrifft spätere Ansprüche."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "unverzüglich",
+          "was": "Mitteilung der Arbeitsunfähigkeit an den Arbeitgeber",
+          "grundlage": "§ 5 Abs. 1 Satz 1 EFZG"
+        },
+        {
+          "wert": "ab dem 4. Kalendertag",
+          "was": "Vorlage einer ärztlichen AU-Bescheinigung beim Arbeitgeber, wenn die Arbeitsunfähigkeit länger als drei Kalendertage dauert (spätestens am darauffolgenden Arbeitstag; der Arbeitgeber kann die Vorlage auch früher verlangen)",
+          "grundlage": "§ 5 Abs. 1 Satz 2 und 3 EFZG"
+        }
+      ],
+      "achtung": [
+        "Eine Krankschreibung wegen „Burnout“ ohne begleitende eigenständige Diagnose kann von der Krankenkasse oder im Streitfall vom Medizinischen Dienst kritisch hinterfragt werden – lassen Sie sich die konkrete Diagnose erklären.",
+        "Ihr Arbeitgeber darf nach der Diagnose grundsätzlich nicht fragen; Sie müssen sie ihm nicht mitteilen. Das gilt auch, wenn Kolleginnen/Kollegen oder Vorgesetzte über den Grund der Erschöpfung spekulieren.",
+        "Nach mehr als sechs Wochen ununterbrochener oder wiederholter Arbeitsunfähigkeit innerhalb eines Jahres muss Ihnen der Arbeitgeber ein betriebliches Eingliederungsmanagement anbieten – siehe eigene Themenseite.",
+        "Ein Attest ersetzt keine Behandlung: Klären Sie parallel zur Krankschreibung, welche Therapie infrage kommt."
+      ],
+      "fach_html": "\n<h3>Rechtsgrundlage der Anzeige- und Nachweispflicht</h3>\n<p>§ 5 Abs. 1 EFZG verpflichtet Beschäftigte, dem Arbeitgeber die Arbeitsunfähigkeit und ihre voraussichtliche Dauer unverzüglich mitzuteilen (Satz 1). Dauert die Arbeitsunfähigkeit länger als drei Kalendertage, ist spätestens an dem darauffolgenden Arbeitstag eine ärztliche Bescheinigung vorzulegen (Satz 2); der Arbeitgeber kann die Vorlage auch früher verlangen (Satz 3). Seit dem 1. Januar 2023 ersetzt für gesetzlich Versicherte die elektronische Arbeitsunfähigkeitsbescheinigung (eAU) den Papierausdruck für den Arbeitgeber: Die Arztpraxis übermittelt die Daten an die Krankenkasse, der Arbeitgeber ruft sie dort ab. Die eigene Meldepflicht der/des Beschäftigten gegenüber dem Arbeitgeber bleibt davon unberührt.</p>\n<h3>Diagnose und Abrechnung</h3>\n<p>Für die Arbeitsunfähigkeitsbescheinigung dokumentiert die Praxis intern eine Diagnose nach ICD-10-GM. Wie auf der Überblicksseite erläutert, wird „Ausgebranntsein“ (Z73.0) dabei in aller Regel nicht allein, sondern neben einer eigenständigen Diagnose wie einer depressiven Episode (F32.-) oder einer Anpassungsstörung (F43.2) verwendet, da Z-Diagnosen für sich genommen keine hinreichende medizinische Begründung für eine länger andauernde Arbeitsunfähigkeit darstellen.</p>\n<h3>Folgen für Entgeltfortzahlung und Krankengeld</h3>\n<p>Die Krankschreibung selbst löst zunächst die Entgeltfortzahlung durch den Arbeitgeber aus (siehe eigene Themenseite); nach deren Ende kommt Krankengeld der Krankenkasse in Betracht. Für beides ist wiederum entscheidend, ob und welche Diagnose der Arbeitsunfähigkeit zugrunde liegt – insbesondere bei der Frage, ob eine spätere, „neue“ Krankschreibung wegen derselben oder wegen einer anderen Erkrankung erfolgt.</p>\n",
+      "zustaendig": [
+        "Hausärztin/Hausarzt",
+        "Fachärztin/Facharzt für Psychiatrie und Psychotherapie oder Psychotherapeutin/Psychotherapeut (Ausstellung der AU)",
+        "Krankenkasse (eAU-Abruf)"
+      ],
+      "belege": [
+        "§ 5 EFZG (gesetze-im-internet.de)",
+        "GKV-Spitzenverband, Verfahrensbeschreibung eAU (gkv-spitzenverband.de)",
+        "ICD-10-GM 2026 (BfArM)"
+      ],
+      "siehe_auch": [
+        "ueberblick-burnout-erschoepfung",
+        "lohnfortzahlung-krankheitsfall",
+        "krankengeld-bei-erschoepfung",
+        "betriebliches-eingliederungsmanagement"
+      ],
+      "stand": "Stand: September 2026."
+    },
+    {
+      "id": "lohnfortzahlung-krankheitsfall",
+      "kategorie": "krankheit-einkommen",
+      "titel": "Lohnfortzahlung im Krankheitsfall (EFZG)",
+      "icon": "💶",
+      "teaser": "Sechs Wochen volles Gehalt bei krankheitsbedingter Arbeitsunfähigkeit – bei wiederholter Erschöpfung wegen derselben Erkrankung gilt eine besondere Regel.",
+      "schlagworte": [
+        "Entgeltfortzahlung",
+        "EFZG",
+        "Fortsetzungserkrankung",
+        "Wartezeit"
+      ],
+      "kurz_html": "\n<p>Werden Sie krankheitsbedingt arbeitsunfähig – etwa wegen einer erschöpfungsbedingten depressiven Episode oder Anpassungsstörung –, zahlt Ihnen Ihr Arbeitgeber für bis zu sechs Wochen Ihr volles Arbeitsentgelt weiter (Entgeltfortzahlung). Voraussetzung ist unter anderem, dass das Arbeitsverhältnis zu Beginn der Arbeitsunfähigkeit bereits vier Wochen ununterbrochen bestanden hat. Nach Ablauf der sechs Wochen springt grundsätzlich die Krankenkasse mit dem Krankengeld ein (siehe eigene Themenseite).</p>\n<p>Erschöpfungserkrankungen verlaufen häufig in Schüben: Sie können nach einer Krankschreibung wieder arbeiten und später wegen derselben Erkrankung erneut ausfallen. Für diesen Fall gilt eine besondere Regel zur sogenannten Fortsetzungserkrankung, die bestimmt, ob der Sechs-Wochen-Anspruch neu entsteht oder nicht.</p>\n",
+      "schritte": [
+        {
+          "titel": "Wartezeit prüfen",
+          "text": "Der Anspruch auf Entgeltfortzahlung entsteht erst, wenn das Arbeitsverhältnis bei Beginn der Arbeitsunfähigkeit ununterbrochen vier Wochen bestanden hat."
+        },
+        {
+          "titel": "Arbeitsunfähigkeit melden und nachweisen",
+          "text": "Siehe die Themenseite Krankschreibung bei Burnout für Melde- und Nachweisfristen."
+        },
+        {
+          "titel": "Sechs-Wochen-Frist im Blick behalten",
+          "text": "Beobachten Sie gemeinsam mit der Ärztin/dem Arzt, ob absehbar ist, dass die sechs Wochen überschritten werden, um rechtzeitig den Übergang zum Krankengeld vorzubereiten."
+        },
+        {
+          "titel": "Bei erneuter Arbeitsunfähigkeit wegen derselben Erkrankung Zeitabstand dokumentieren",
+          "text": "Halten Sie fest, wie viel Zeit zwischen den Krankschreibungen lag und ob Sie dazwischen tatsächlich gearbeitet haben – das entscheidet über einen neuen Sechs-Wochen-Anspruch."
+        },
+        {
+          "titel": "Bei Unklarheit über die Diagnosekontinuität nachfragen",
+          "text": "Fragen Sie die behandelnde Praxis, ob die neue Arbeitsunfähigkeit auf derselben Grunderkrankung beruht – das ist oft nicht offensichtlich, aber rechtlich entscheidend."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "6 Wochen",
+          "was": "Höchstdauer der Entgeltfortzahlung durch den Arbeitgeber je Krankheitsfall",
+          "grundlage": "§ 3 Abs. 1 Satz 1 EFZG"
+        },
+        {
+          "wert": "4 Wochen",
+          "was": "Mindestbestand des Arbeitsverhältnisses (Wartezeit) für den Anspruch auf Entgeltfortzahlung",
+          "grundlage": "§ 3 Abs. 3 EFZG"
+        },
+        {
+          "wert": "6 Monate",
+          "was": "Zeitabstand ohne erneute Arbeitsunfähigkeit wegen derselben Krankheit, nach dem ein neuer Sechs-Wochen-Anspruch entsteht",
+          "grundlage": "§ 3 Abs. 1 Satz 2 Nr. 1 EFZG"
+        },
+        {
+          "wert": "12 Monate",
+          "was": "Alternative Frist seit Beginn der ersten Arbeitsunfähigkeit wegen derselben Krankheit, nach der ebenfalls ein neuer Anspruch entsteht",
+          "grundlage": "§ 3 Abs. 1 Satz 2 Nr. 2 EFZG"
+        }
+      ],
+      "achtung": [
+        "Diese Fristen gelten nur, wenn tatsächlich dieselbe Krankheit fortbesteht („Fortsetzungserkrankung“). Ob eine neue depressive Episode oder eine Anpassungsstörung nach einer Erschöpfungsphase als „dieselbe“ oder als „neue“ Krankheit gilt, ist im Einzelfall eine medizinische Einschätzung und kann strittig sein.",
+        "Kommt während der ersten Erkrankung eine zweite, eigenständige Krankheit hinzu, verlängert das nach der Rechtsprechung des Bundesarbeitsgerichts den Sechs-Wochen-Zeitraum nicht automatisch – hier kommt es auf die Umstände des Einzelfalls an.",
+        "Für den Nachweis, ob eine Fortsetzungserkrankung vorliegt, trägt im Streitfall grundsätzlich der Arbeitgeber die Darlegungs- und Beweislast, wenn er die Fortzahlung verweigert.",
+        "Diese Seite betrifft nur die Zahlungspflicht des Arbeitgebers. Allgemeine arbeitsrechtliche Fragen rund um Krankheit und Kündigungsschutz finden Sie im Modul Arbeitnehmer."
+      ],
+      "fach_html": "\n<h3>Anspruchsvoraussetzungen (§ 3 EFZG)</h3>\n<p>Nach § 3 Abs. 1 Satz 1 EFZG haben Arbeitnehmerinnen und Arbeitnehmer bei unverschuldeter krankheitsbedingter Arbeitsunfähigkeit Anspruch auf Fortzahlung des Arbeitsentgelts durch den Arbeitgeber für die Dauer von bis zu sechs Wochen. Nach § 3 Abs. 3 EFZG entsteht der Anspruch erst, wenn das Arbeitsverhältnis zu Beginn der Arbeitsunfähigkeit vier Wochen ununterbrochen bestanden hat.</p>\n<h3>Die Fortsetzungserkrankung (§ 3 Abs. 1 Satz 2 EFZG)</h3>\n<p>Wird jemand wiederholt wegen derselben Krankheit arbeitsunfähig, entsteht der Sechs-Wochen-Anspruch grundsätzlich nur einmal je Krankheit („Einheit des Verhinderungsfalls“). Ein neuer Anspruch auf sechs Wochen Entgeltfortzahlung entsteht nach § 3 Abs. 1 Satz 2 EFZG erst, wenn entweder (Nr. 1) die/der Beschäftigte vor der erneuten Arbeitsunfähigkeit mindestens sechs Monate nicht wegen derselben Krankheit arbeitsunfähig war, oder (Nr. 2) seit Beginn der ersten Arbeitsunfähigkeit wegen derselben Krankheit bereits zwölf Monate vergangen sind. Bei Erschöpfungserkrankungen, die häufig in Wellenbewegungen verlaufen (z. B. wiederkehrende depressive Episoden), ist die Frage, ob eine „dieselbe“ oder eine „neue“ Krankheit vorliegt, oft die entscheidende und zugleich am schwierigsten zu beantwortende Frage – sie richtet sich nach dem medizinischen Krankheitsbegriff, nicht nach der subjektiven Wahrnehmung von Erholungsphasen.</p>\n<h3>Verhältnis zum Krankengeld</h3>\n<p>Endet die Entgeltfortzahlung nach sechs Wochen, während die Arbeitsunfähigkeit fortbesteht, tritt an ihre Stelle das Krankengeld der gesetzlichen Krankenversicherung (§§ 44 ff. SGB V, siehe eigene Themenseite). Die Krankenkasse zahlt ab dem Tag nach Ende der Entgeltfortzahlung, sofern eine ununterbrochene Arbeitsunfähigkeit ärztlich festgestellt ist.</p>\n",
+      "zustaendig": [
+        "Arbeitgeber (Entgeltfortzahlung)"
+      ],
+      "belege": [
+        "§ 3 EFZG (gesetze-im-internet.de)",
+        "Bundesarbeitsgericht, Rechtsprechung zur Fortsetzungserkrankung, u. a. 5 AZR 505/18 (bundesarbeitsgericht.de)"
+      ],
+      "siehe_auch": [
+        "krankschreibung-bei-burnout",
+        "krankengeld-bei-erschoepfung"
+      ],
+      "stand": "Stand: September 2026."
+    },
+    {
+      "id": "krankengeld-bei-erschoepfung",
+      "kategorie": "krankheit-einkommen",
+      "titel": "Krankengeld bei länger andauernder Erschöpfung",
+      "icon": "🏦",
+      "teaser": "Nach dem Ende der Entgeltfortzahlung zahlt die Krankenkasse Krankengeld – für höchstens 78 Wochen wegen derselben Krankheit innerhalb von drei Jahren (Blockfrist).",
+      "schlagworte": [
+        "Krankengeld",
+        "Blockfrist",
+        "Aussteuerung",
+        "§ 48 SGB V"
+      ],
+      "kurz_html": "\n<p>Wenn Sie wegen einer Erschöpfungserkrankung länger als sechs Wochen arbeitsunfähig sind, endet die Entgeltfortzahlung durch den Arbeitgeber und die gesetzliche Krankenkasse zahlt Krankengeld. Es beträgt 70 % Ihres Bruttoeinkommens, gedeckelt auf höchstens 90 % Ihres Nettoeinkommens. Krankengeld wird jedoch nicht unbegrenzt gezahlt: Wegen derselben Krankheit gibt es innerhalb von jeweils drei Jahren (gerechnet ab dem ersten Tag der maßgeblichen Arbeitsunfähigkeit) höchstens 78 Wochen Krankengeld – danach spricht man umgangssprachlich von „Aussteuerung“.</p>\n<p>Bei Erschöpfungserkrankungen ist besonders wichtig, ob eine erneute Krankschreibung als „dieselbe“ oder als „neue“ Krankheit gilt, da das über den Rest Ihres 78-Wochen-Kontingents entscheidet.</p>\n",
+      "schritte": [
+        {
+          "titel": "Krankengeld rechtzeitig beantragen",
+          "text": "Ihre Krankenkasse benötigt in der Regel einen Antrag sowie die fortlaufenden Arbeitsunfähigkeitsbescheinigungen ohne Lücke."
+        },
+        {
+          "titel": "Lückenlose Krankschreibung sicherstellen",
+          "text": "Lassen Sie sich die Folgebescheinigung möglichst vor Ablauf der zuvor bescheinigten Arbeitsunfähigkeit ausstellen, sonst kann der Anspruch für die Lücke entfallen."
+        },
+        {
+          "titel": "Blockfrist im Blick behalten",
+          "text": "Fragen Sie bei Ihrer Krankenkasse nach, wie viele der 78 Wochen innerhalb der laufenden Dreijahresfrist bereits verbraucht sind."
+        },
+        {
+          "titel": "Rechtzeitig vor Ablauf der 78 Wochen informieren lassen",
+          "text": "Krankenkasse und Deutsche Rentenversicherung sollen frühzeitig auf Rehabilitationsmöglichkeiten hinweisen (Reha vor Rente) – fragen Sie aktiv nach, wenn das nicht geschieht."
+        },
+        {
+          "titel": "Bei drohender Aussteuerung Alternativen prüfen",
+          "text": "Dazu zählen unter anderem Reha-Maßnahmen, eine mögliche Erwerbsminderungsrente oder – bei Arbeitslosigkeit im Anschluss – Arbeitslosengeld (siehe Wegweiser Arbeitslose)."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "78 Wochen je 3 Jahre",
+          "was": "Höchstdauer des Krankengeldbezugs wegen derselben Krankheit (Blockfrist, beginnt mit dem ersten Tag der maßgeblichen Arbeitsunfähigkeit)",
+          "grundlage": "§ 48 Abs. 1 SGB V"
+        },
+        {
+          "wert": "6 Monate ohne erneute AU",
+          "was": "Voraussetzung dafür, dass wegen derselben Krankheit ein neuer Krankengeldanspruch entsteht",
+          "grundlage": "§ 48 Abs. 2 SGB V"
+        },
+        {
+          "wert": "spätestens am nächsten Werktag",
+          "was": "Folge-Krankschreibung nach Ablauf der vorherigen AU, damit der Krankengeldanspruch nahtlos fortbesteht",
+          "grundlage": "§ 46 Satz 2 SGB V"
+        }
+      ],
+      "achtung": [
+        "Ob eine erneute Arbeitsunfähigkeit „dieselbe“ oder eine „neue“ Krankheit betrifft, ist bei Erschöpfungserkrankungen oft schwer eindeutig zu bestimmen und kann die verbleibende Bezugsdauer erheblich beeinflussen – im Zweifel bei der Krankenkasse und ärztlich nachfragen.",
+        "Lassen Sie zwischen zwei Krankschreibungen keine Lücke entstehen: Fehlt auch nur ein Tag und erfolgt keine Folgefeststellung spätestens am nächsten Werktag, kann der Krankengeldanspruch für die Zeit danach entfallen.",
+        "Nach Ablauf der 78 Wochen („Aussteuerung“) endet der Krankengeldanspruch wegen dieser Krankheit unabhängig davon, ob Sie weiterhin arbeitsunfähig sind – informieren Sie sich frühzeitig über Reha- oder Rentenmöglichkeiten sowie über die Meldepflicht bei der Agentur für Arbeit.",
+        "Die genaue Höhe des individuellen Krankengeldes hängt von Ihrem Bruttoeinkommen und der Beitragsbemessungsgrenze ab und wird hier bewusst nicht mit einem Beispielbetrag beziffert, da sie sich jährlich ändert – lassen Sie sich den konkreten Betrag von Ihrer Krankenkasse berechnen."
+      ],
+      "fach_html": "\n<h3>Anspruch und Höhe (§§ 44, 47 SGB V)</h3>\n<p>Versicherte, die wegen Krankheit arbeitsunfähig sind, haben nach § 44 SGB V Anspruch auf Krankengeld, sobald die Entgeltfortzahlung durch den Arbeitgeber endet (bzw. von Beginn an, wenn keine Entgeltfortzahlungspflicht besteht). Das Krankengeld beträgt nach § 47 SGB V 70 % des vor der Arbeitsunfähigkeit erzielten regelmäßigen Bruttoarbeitsentgelts, jedoch nicht mehr als 90 % des entsprechenden Nettoarbeitsentgelts, und ist zusätzlich durch die Beitragsbemessungsgrenze in der gesetzlichen Krankenversicherung gedeckelt.</p>\n<h3>Blockfrist und Höchstdauer (§ 48 SGB V)</h3>\n<p>Nach § 48 Abs. 1 SGB V wird Krankengeld wegen derselben Krankheit für längstens 78 Wochen innerhalb von jeweils drei Jahren gezahlt (sogenannte Blockfrist). Diese Dreijahresfrist beginnt mit dem ersten Tag der Arbeitsunfähigkeit wegen der maßgeblichen Krankheit – unabhängig davon, ob zu diesem Zeitpunkt bereits Krankengeld gezahlt wurde oder noch Entgeltfortzahlung lief. In die 78 Wochen werden auch die ersten sechs Wochen der Entgeltfortzahlung eingerechnet. Ein neuer Krankengeldanspruch wegen derselben Krankheit entsteht nach § 48 Abs. 2 SGB V erst, wenn die/der Versicherte mindestens sechs Monate nicht deswegen arbeitsunfähig und in dieser Zeit erwerbsfähig war.</p>\n<h3>Lückenlose Feststellung (§ 46 SGB V)</h3>\n<p>Der Krankengeldanspruch entsteht von dem Tag an, der auf den Tag der ärztlichen Feststellung der Arbeitsunfähigkeit folgt (§ 46 Satz 1 SGB V). Um zu verhindern, dass eine verspätete Folgebescheinigung den Anspruch unterbricht, bestimmt § 46 Satz 2 SGB V, dass der Anspruch bei fortbestehender Arbeitsunfähigkeit erhalten bleibt, wenn die Folgefeststellung spätestens am nächsten Werktag nach dem zuletzt bescheinigten Ende der Arbeitsunfähigkeit erfolgt.</p>\n<h3>Nach der Aussteuerung: was dann?</h3>\n<p>Ist die Höchstdauer von 78 Wochen erreicht, endet der Krankengeldanspruch wegen dieser Krankheit. Je nach individueller Situation kommen dann eine medizinische Rehabilitation, eine Erwerbsminderungsrente (siehe eigene Themenseite) oder – wenn keine dieser Leistungen greift und das Arbeitsverhältnis endet – Arbeitslosengeld I in Betracht; wer arbeitsunfähig bleibt, muss sich dafür bei der Agentur für Arbeit besonders melden. Näheres zu Arbeitslosigkeit im Wegweiser Arbeitslose.</p>\n",
+      "zustaendig": [
+        "Gesetzliche Krankenkasse"
+      ],
+      "belege": [
+        "§§ 44, 46, 47, 48 SGB V (gesetze-im-internet.de)"
+      ],
+      "siehe_auch": [
+        "lohnfortzahlung-krankheitsfall",
+        "medizinische-reha-bei-erschoepfung",
+        "erwerbsminderungsrente-bei-erschoepfung"
+      ],
+      "stand": "Stand: September 2026."
+    },
+    {
+      "id": "stufenweise-wiedereingliederung",
+      "kategorie": "rueckkehr-job",
+      "titel": "Stufenweise Wiedereingliederung (Hamburger Modell)",
+      "icon": "🔄",
+      "teaser": "Schrittweise Rückkehr in den Job nach längerer Erschöpfungserkrankung – freiwillig, ärztlich begleitet und meist bei fortbestehender Arbeitsunfähigkeit.",
+      "schlagworte": [
+        "Hamburger Modell",
+        "Stufenweise Wiedereingliederung",
+        "§ 74 SGB V",
+        "§ 44 SGB IX",
+        "Wiedereingliederungsplan"
+      ],
+      "kurz_html": "\n<p>Nach einer längeren Erschöpfungserkrankung müssen Sie nicht von einem Tag auf den anderen wieder in Vollzeit arbeiten. Die stufenweise Wiedereingliederung – bekannt als „Hamburger Modell“ – erlaubt es, die Arbeitszeit schrittweise zu steigern, während Sie formal weiterhin arbeitsunfähig geschrieben sind. Ärztin oder Arzt, Sie selbst und der Arbeitgeber legen dafür gemeinsam einen Wiedereingliederungsplan fest, der Arbeitszeit und Tätigkeiten stufenweise erhöht.</p>\n<p>Die Maßnahme ist freiwillig: Weder Sie noch der Arbeitgeber können dazu gezwungen werden. Während der Wiedereingliederung erhalten Sie in der Regel weiter Krankengeld oder – bei einer laufenden Reha – Übergangsgeld, nicht das reguläre Arbeitsentgelt.</p>\n",
+      "schritte": [
+        {
+          "titel": "Mit Ärztin/Arzt oder Klinik besprechen",
+          "text": "Die behandelnde Person prüft, ob und wann eine stufenweise Wiedereingliederung medizinisch sinnvoll ist, und erstellt einen Wiedereingliederungsplan."
+        },
+        {
+          "titel": "Arbeitgeber einbeziehen",
+          "text": "Legen Sie den Plan dem Arbeitgeber vor; er muss der Durchführung zustimmen, ist rechtlich aber nicht verpflichtet, sie anzubieten."
+        },
+        {
+          "titel": "Leistungsträger informieren",
+          "text": "Je nachdem, wer zuständig ist (Krankenkasse während Krankengeldbezug, Rentenversicherung bei laufender Reha), muss der Plan dort eingereicht und genehmigt werden."
+        },
+        {
+          "titel": "Stufenplan umsetzen",
+          "text": "Arbeiten Sie entlang der vereinbarten, meist wöchentlich steigenden Stundenzahl; bei Überforderung kann der Plan angepasst oder abgebrochen werden."
+        },
+        {
+          "titel": "Verlauf ärztlich begleiten lassen",
+          "text": "Regelmäßige Rücksprache mit der Ärztin/dem Arzt stellt sicher, dass die Belastung nicht zu schnell gesteigert wird."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "Keine gesetzliche Frist",
+          "was": "Für Beginn, Dauer oder Stufenzahl der Wiedereingliederung gibt es keine gesetzlich festgelegte Frist – Dauer und Tempo richten sich nach der ärztlichen Einschätzung im Einzelfall.",
+          "grundlage": "–"
+        }
+      ],
+      "achtung": [
+        "Die stufenweise Wiedereingliederung ist freiwillig – der Arbeitgeber kann sie ablehnen, ohne dass daraus unmittelbar rechtliche Nachteile für Sie entstehen; verweigert er sie ohne nachvollziehbaren Grund, kann das im Einzelfall arbeitsrechtlich relevant sein.",
+        "Während der Wiedereingliederung bleiben Sie krankgeschrieben – Fehlzeiten wegen Überforderung sind kein „Abbruch aus eigenem Verschulden“, sondern ein normaler Teil des Prozesses und sollten ärztlich dokumentiert werden.",
+        "Wie hoch die Zahlung während der Wiedereingliederung genau ausfällt (Krankengeld vs. Übergangsgeld) und ob Zuschüsse des Arbeitgebers hinzukommen, ist einzelfallabhängig und wird hier deshalb nicht mit einem Beispielbetrag beziffert.",
+        "Verwechseln Sie die stufenweise Wiedereingliederung nicht mit einer dauerhaften Teilzeitreduzierung – sie ist als Übergangsmaßnahme mit dem Ziel der vollen Wiederherstellung der Arbeitsfähigkeit gedacht."
+      ],
+      "fach_html": "\n<h3>Rechtsgrundlagen</h3>\n<p>Für gesetzlich Krankenversicherte ergibt sich der Anspruch auf ärztliche Verordnung einer stufenweisen Wiedereingliederung aus § 74 SGB V; für Rehabilitandinnen und Rehabilitanden der Rentenversicherung und anderer Reha-Träger aus § 44 SGB IX. Beide Vorschriften regeln im Kern dasselbe Instrument aus unterschiedlicher Zuständigkeit: Während einer laufenden medizinischen Rehabilitation ist die Rentenversicherung zuständig, ansonsten die Krankenkasse.</p>\n<h3>Ablauf und Beteiligte</h3>\n<p>Die behandelnde Ärztin oder der Arzt erstellt einen Wiedereingliederungsplan, der die stufenweise Steigerung von Arbeitszeit und Belastung über einen individuell festgelegten Zeitraum (in der Praxis meist einige Wochen bis wenige Monate) beschreibt. Arbeitgeber, Betriebsarzt bzw. Betriebsärztin und – falls vorhanden – Betriebs- oder Personalrat werden einbezogen. Die Zustimmung des Arbeitgebers ist erforderlich, da er die betriebliche Umsetzung ermöglichen muss; ein gesetzlicher Anspruch gegen den Arbeitgeber auf Durchführung besteht nach überwiegender Auffassung grundsätzlich nicht, wird aber in der arbeitsrechtlichen Literatur diskutiert und war im Einzelfall bereits Gegenstand arbeitsgerichtlicher Verfahren.</p>\n<h3>Finanzierung während der Maßnahme</h3>\n<p>Da während der Wiedereingliederung weiterhin Arbeitsunfähigkeit besteht, wird in der Regel kein reguläres Arbeitsentgelt gezahlt, sondern Krankengeld durch die Krankenkasse (§ 74 SGB V-Fälle) oder Übergangsgeld durch den Rehabilitationsträger (§ 44 SGB IX-Fälle) fortgezahlt. Manche Arbeitgeber zahlen freiwillig einen Zuschuss; ein gesetzlicher Anspruch darauf besteht nicht automatisch.</p>\n<h3>Zusammenspiel mit dem BEM</h3>\n<p>Die stufenweise Wiedereingliederung wird häufig im Rahmen eines betrieblichen Eingliederungsmanagements (BEM) angestoßen oder begleitet, ist aber rechtlich ein eigenständiges Instrument und auch ohne BEM möglich (siehe eigene Themenseite).</p>\n",
+      "zustaendig": [
+        "Behandelnde Ärztin/Arzt (Plan-Erstellung)",
+        "Gesetzliche Krankenkasse oder Rentenversicherung (Kostenträger)",
+        "Arbeitgeber (betriebliche Umsetzung)"
+      ],
+      "belege": [
+        "§ 74 SGB V (gesetze-im-internet.de)",
+        "§ 44 SGB IX (gesetze-im-internet.de)"
+      ],
+      "siehe_auch": [
+        "betriebliches-eingliederungsmanagement",
+        "krankengeld-bei-erschoepfung",
+        "medizinische-reha-bei-erschoepfung"
+      ],
+      "stand": "Stand: September 2026."
+    },
+    {
+      "id": "betriebliches-eingliederungsmanagement",
+      "kategorie": "rueckkehr-job",
+      "titel": "Betriebliches Eingliederungsmanagement (BEM)",
+      "icon": "🤝",
+      "teaser": "Ab mehr als sechs Wochen Arbeitsunfähigkeit innerhalb eines Jahres muss der Arbeitgeber ein BEM anbieten – Teilnahme ist freiwillig.",
+      "schlagworte": [
+        "BEM",
+        "§ 167 SGB IX",
+        "Eingliederungsmanagement",
+        "Wiederholte Erkrankung"
+      ],
+      "kurz_html": "\n<p>Waren Sie innerhalb eines Jahres länger als sechs Wochen ununterbrochen oder wiederholt arbeitsunfähig – was bei chronischer Erschöpfung häufig der Fall ist –, muss Ihnen der Arbeitgeber ein betriebliches Eingliederungsmanagement (BEM) anbieten. Ziel ist zu klären, wie die Arbeitsunfähigkeit überwunden und erneuten Ausfällen vorgebeugt werden kann – zum Beispiel durch angepasste Aufgaben, Arbeitszeiten oder eine stufenweise Wiedereingliederung. Die Teilnahme ist für Sie freiwillig und wird nur mit Ihrer Zustimmung durchgeführt.</p>\n<p>Das BEM gilt unabhängig von der Betriebsgröße und unabhängig davon, ob eine Schwerbehinderung vorliegt.</p>\n",
+      "schritte": [
+        {
+          "titel": "Einladung abwarten oder BEM aktiv ansprechen",
+          "text": "Der Arbeitgeber muss von sich aus tätig werden, sobald die Sechs-Wochen-Schwelle erreicht ist; Sie können ein BEM aber auch selbst anregen."
+        },
+        {
+          "titel": "Informationen vor der Zustimmung einholen",
+          "text": "Sie haben Anspruch darauf, vorab zu erfahren, welche Daten zu welchem Zweck erhoben und verwendet werden."
+        },
+        {
+          "titel": "Frei entscheiden, ob Sie teilnehmen",
+          "text": "Eine Ablehnung darf Ihnen nicht zum Nachteil gereichen; sie kann aber später bei einer eventuellen krankheitsbedingten Kündigung eine Rolle spielen (siehe unten)."
+        },
+        {
+          "titel": "Vertrauensperson mitnehmen",
+          "text": "Sie dürfen eine Person Ihres Vertrauens zu den Gesprächen hinzuziehen und ggf. den Betriebsarzt oder die Betriebsärztin einbeziehen."
+        },
+        {
+          "titel": "Maßnahmen gemeinsam entwickeln",
+          "text": "Ergebnis kann z. B. eine stufenweise Wiedereingliederung, ein Arbeitsplatzwechsel oder technische/organisatorische Anpassungen sein."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "mehr als 6 Wochen ununterbrochen oder wiederholt innerhalb von 12 Monaten",
+          "was": "Schwellenwert, ab dem der Arbeitgeber ein BEM anbieten muss",
+          "grundlage": "§ 167 Abs. 2 Satz 1 SGB IX"
+        }
+      ],
+      "achtung": [
+        "Das BEM selbst ist keine Voraussetzung für eine krankheitsbedingte Kündigung, spielt aber nach der Rechtsprechung des Bundesarbeitsgerichts eine wichtige Rolle: Hat der Arbeitgeber kein BEM angeboten, muss er im Kündigungsschutzprozess besonders genau darlegen, dass mildere Mittel als die Kündigung nicht möglich waren.",
+        "Lehnen Sie die Teilnahme ab, darf Ihnen das nicht automatisch als „Uneinsichtigkeit“ vorgehalten werden – allerdings verringert eine Ablehnung faktisch die Chance, gemeinsam eine Lösung zu finden, bevor es zu einer Kündigung kommt.",
+        "Die im BEM erhobenen Gesundheitsdaten unterliegen besonderem Schutz; sie dürfen nur mit Ihrer Zustimmung verwendet und nicht ohne Weiteres an Dritte im Betrieb weitergegeben werden.",
+        "Für allgemeine Fragen zum Kündigungsschutz bei Krankheit siehe das Modul Arbeitnehmer."
+      ],
+      "fach_html": "\n<h3>Rechtsgrundlage und Schwellenwert</h3>\n<p>§ 167 Abs. 2 Satz 1 SGB IX verpflichtet Arbeitgeber, bei Beschäftigten, die innerhalb eines Jahres länger als sechs Wochen ununterbrochen oder wiederholt arbeitsunfähig waren, mit Zustimmung und Beteiligung der betroffenen Person zu klären, wie die Arbeitsunfähigkeit möglichst überwunden, erneuter Arbeitsunfähigkeit vorgebeugt und der Arbeitsplatz erhalten werden kann. Dabei sind die zuständige Interessenvertretung (Betriebs- oder Personalrat) sowie – bei schwerbehinderten oder gleichgestellten Beschäftigten – zusätzlich die Schwerbehindertenvertretung einzubeziehen; bei Bedarf wird der Betriebs- oder Werksarzt hinzugezogen (§ 167 Abs. 2 Sätze 2–7 SGB IX). Die Pflicht gilt unabhängig von Betriebsgröße und Behindertenstatus.</p>\n<h3>Freiwilligkeit und Datenschutz</h3>\n<p>Das BEM findet nur mit Zustimmung der betroffenen Person statt; sie ist vorab über Ziele sowie Art und Umfang der erhobenen und verwendeten Daten zu unterrichten. Gesundheitsdaten sind besondere Kategorien personenbezogener Daten (Art. 9 DSGVO) und dürfen nur zweckgebunden im Rahmen des BEM verarbeitet werden.</p>\n<h3>Bedeutung für eine spätere Kündigung</h3>\n<p>Nach ständiger Rechtsprechung des Bundesarbeitsgerichts ist ein unterlassenes oder fehlerhaftes BEM keine formale Wirksamkeitsvoraussetzung einer krankheitsbedingten Kündigung. Es verschärft aber die Darlegungslast des Arbeitgebers im Kündigungsschutzprozess: Er muss dann von sich aus umfassend vortragen, warum mildere Mittel (z. B. ein anderer Arbeitsplatz, Anpassungen) ausgeschlossen waren – ein Nachweis, der ohne durchgeführtes BEM erheblich schwerer fällt.</p>\n",
+      "zustaendig": [
+        "Arbeitgeber (Angebot und Durchführung)",
+        "Betriebs-/Personalrat und ggf. Schwerbehindertenvertretung (Beteiligung)"
+      ],
+      "belege": [
+        "§ 167 Abs. 2 SGB IX (gesetze-im-internet.de)",
+        "Bundesarbeitsgericht, Rechtsprechung zum BEM und zur Darlegungslast bei krankheitsbedingter Kündigung (bundesarbeitsgericht.de)"
+      ],
+      "siehe_auch": [
+        "stufenweise-wiedereingliederung",
+        "krankschreibung-bei-burnout",
+        "rechte-bei-ueberlastung"
+      ],
+      "stand": "Stand: September 2026."
+    },
+    {
+      "id": "psychotherapie-und-behandlung",
+      "kategorie": "behandlung-reha",
+      "titel": "Psychotherapie und ambulante Behandlung",
+      "icon": "🧠",
+      "teaser": "Erschöpfungsbedingte psychische Erkrankungen werden meist ambulant behandelt – über die gesetzliche Krankenversicherung, mit klar geregeltem Zugang.",
+      "schlagworte": [
+        "Psychotherapie",
+        "Psychotherapeutische Sprechstunde",
+        "Probatorik",
+        "Kostenübernahme"
+      ],
+      "kurz_html": "\n<p>Steckt hinter der Erschöpfung eine behandlungsbedürftige psychische Erkrankung – etwa eine depressive Episode oder eine Anpassungsstörung –, übernimmt die gesetzliche Krankenversicherung die Kosten einer ambulanten Psychotherapie. Der Zugang läuft über eine psychotherapeutische Sprechstunde, die Sie ohne Überweisung direkt bei einer zugelassenen Praxis in Anspruch nehmen können.</p>\n<p>Dieses Modul beschränkt sich auf die burnout-/erschöpfungsspezifischen Aspekte. Ausführliche Informationen zu Therapieplatzsuche, Verfahren, Wartezeiten und Kostenübernahme im Detail – die für alle psychischen Erkrankungen gleichermaßen gelten – finden Sie im Modul <a href=\"../../depression/themen/kostenuebernahme-psychotherapie.html\">Depression: Kostenübernahme für Psychotherapie</a> und <a href=\"../../depression/themen/therapieplatz-finden.html\">Depression: Therapieplatz finden</a>.</p>\n",
+      "schritte": [
+        {
+          "titel": "Psychotherapeutische Sprechstunde aufsuchen",
+          "text": "Diese ist gesetzlich vorgeschrieben und dient der ersten Einschätzung, ob und welche Behandlung sinnvoll ist."
+        },
+        {
+          "titel": "Diagnose klären lassen",
+          "text": "Wie auf der Überblicksseite erläutert, ist für die Kostenübernahme eine eigenständige Diagnose (z. B. F32, F43.2) erforderlich, nicht allein Z73.0."
+        },
+        {
+          "titel": "Probatorische Sitzungen wahrnehmen",
+          "text": "Vor Beginn einer Richtlinientherapie lernen Sie die Praxis in mehreren Probesitzungen kennen."
+        },
+        {
+          "titel": "Antrag auf Kostenübernahme stellen lassen",
+          "text": "Die Praxis unterstützt Sie bei der formalen Antragstellung bei Ihrer Krankenkasse."
+        },
+        {
+          "titel": "Arbeitsplatzbezug ansprechen",
+          "text": "Sagen Sie der Therapeutin/dem Therapeuten, wenn arbeitsbedingte Belastung eine zentrale Rolle spielt – das beeinflusst den Behandlungsschwerpunkt."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "Keine pauschale gesetzliche Frist",
+          "was": "Für Wartezeiten auf einen Therapieplatz gibt es keine gesetzliche Höchstfrist; bei dringendem Bedarf vermittelt die Terminservicestelle (116117) einen Termin für die Sprechstunde.",
+          "grundlage": "–"
+        }
+      ],
+      "achtung": [
+        "Auch wenn Ihre Beschwerden eindeutig auf Arbeitsüberlastung zurückgehen: Die Krankenkasse übernimmt die Therapie nur bei einer eigenständigen, im Richtlinienverfahren anerkannten Diagnose – nicht allein wegen „Burnout“.",
+        "Wartezeiten auf einen Therapieplatz können je nach Region erheblich sein; konkrete, bundesweit verlässliche Wartezeit-Zahlen ließen sich im Rahmen dieser Recherche nicht als gesicherte, aktuelle Angabe verifizieren und werden hier deshalb bewusst nicht beziffert.",
+        "Bei akuter Krise oder Suizidgedanken warten Sie nicht auf einen regulären Therapieplatz, sondern wenden Sie sich sofort an die TelefonSeelsorge, den ärztlichen Bereitschaftsdienst (116117) oder den Notruf 112 – siehe auch das Modul Depression."
+      ],
+      "fach_html": "\n<h3>Zugang über die psychotherapeutische Sprechstunde</h3>\n<p>Seit der Reform der Psychotherapie-Richtlinie 2017 ist die psychotherapeutische Sprechstunde der reguläre erste Zugangsweg zur ambulanten Psychotherapie in der gesetzlichen Krankenversicherung. Sie kann ohne Überweisung direkt in Anspruch genommen werden. Ergibt sich daraus Behandlungsbedarf, folgen probatorische Sitzungen und danach ggf. eine Kurzzeit- oder Langzeittherapie nach den anerkannten Richtlinienverfahren (u. a. Verhaltenstherapie, tiefenpsychologisch fundierte Psychotherapie, analytische Psychotherapie, systemische Therapie).</p>\n<h3>Diagnosebezug bei erschöpfungsbedingten Störungen</h3>\n<p>Wie auf der Überblicksseite dargestellt, ist für die Kostenübernahme eine im Richtlinienverfahren anerkannte Diagnose erforderlich. Bei Erschöpfung nach beruflicher Überlastung wird therapeutisch häufig mit dem Konzept der Anpassungsstörung (F43.2) oder der depressiven Episode (F32.-) gearbeitet; die konkrete Zuordnung erfolgt durch die Psychotherapeutin/den Psychotherapeuten im Rahmen der Sprechstunde und Probatorik.</p>\n<h3>Arbeitsplatzbezogene Ansätze</h3>\n<p>Innerhalb der anerkannten Therapieverfahren gibt es keine eigene Kassenleistung speziell „gegen Burnout“; arbeitsplatzbezogene Themen (Grenzen setzen, Belastungsregulation, Rückkehr an den Arbeitsplatz) werden im Rahmen der regulären Richtlinientherapie mitbehandelt. Ergänzend bieten manche Betriebe eigene Angebote wie eine externe Mitarbeiterberatung (Employee Assistance Program, EAP) an; ob und in welchem Umfang der eigene Arbeitgeber ein solches Angebot vorhält, ist unternehmensabhängig und lässt sich hier nicht pauschal beziffern.</p>\n",
+      "zustaendig": [
+        "Vertragspsychotherapeutin/-therapeut",
+        "Gesetzliche Krankenkasse (Kostenübernahme)",
+        "Terminservicestelle 116117 (Vermittlung)"
+      ],
+      "belege": [
+        "Psychotherapie-Richtlinie des Gemeinsamen Bundesausschusses, Stand 2026 (g-ba.de)",
+        "§ 92 Abs. 6a SGB V (gesetze-im-internet.de)"
+      ],
+      "siehe_auch": [
+        "ueberblick-burnout-erschoepfung",
+        "medizinische-reha-bei-erschoepfung"
+      ],
+      "stand": "Stand: September 2026."
+    },
+    {
+      "id": "medizinische-reha-bei-erschoepfung",
+      "kategorie": "behandlung-reha",
+      "titel": "Medizinische Reha bei Erschöpfung",
+      "icon": "🏥",
+      "teaser": "Eine stationäre oder ganztägig ambulante Reha kann helfen, wenn ambulante Behandlung allein nicht ausreicht – meist getragen von der Rentenversicherung.",
+      "schlagworte": [
+        "Medizinische Rehabilitation",
+        "Reha vor Rente",
+        "Deutsche Rentenversicherung",
+        "Psychosomatische Reha"
+      ],
+      "kurz_html": "\n<p>Reicht eine ambulante Behandlung nicht aus, um die Erwerbsfähigkeit zu erhalten oder wiederherzustellen, kommt eine medizinische Rehabilitation infrage – häufig in einer auf psychosomatische Erschöpfungserkrankungen spezialisierten Klinik. Träger ist in der Regel die Deutsche Rentenversicherung, wenn dadurch die Erwerbsfähigkeit erhalten, wesentlich gebessert oder wiederhergestellt werden kann; andernfalls kann die Krankenkasse zuständig sein.</p>\n<p>Grundsatz der deutschen Sozialversicherung ist „Reha vor Rente“: Bevor über eine Erwerbsminderungsrente entschieden wird, wird geprüft, ob eine Rehabilitationsmaßnahme die Erwerbsfähigkeit wiederherstellen kann.</p>\n",
+      "schritte": [
+        {
+          "titel": "Reha-Bedarf ärztlich abklären lassen",
+          "text": "Hausärztin/Hausarzt, Psychotherapeutin/Psychotherapeut oder die Krankenkasse können eine Reha anregen."
+        },
+        {
+          "titel": "Antrag stellen",
+          "text": "Der Antrag wird bei der Deutschen Rentenversicherung oder – je nach Fallkonstellation – bei der Krankenkasse gestellt; ein Reha-Antrag gilt unter bestimmten Voraussetzungen zugleich als Rentenantrag, falls eine Reha nicht ausreicht (§ 116 Abs. 2 SGB VI)."
+        },
+        {
+          "titel": "Wunsch- und Wahlrecht nutzen",
+          "text": "Sie können unter mehreren geeigneten Einrichtungen wählen und Wünsche zu Ort und Form äußern."
+        },
+        {
+          "titel": "Reha durchführen",
+          "text": "Stationär, ganztägig ambulant oder ambulant, je nach Empfehlung; üblich sind mehrwöchige Aufenthalte in spezialisierten psychosomatischen Kliniken."
+        },
+        {
+          "titel": "Nachsorge und Wiedereingliederung anschließen",
+          "text": "Im Anschluss kommen ambulante Nachsorgeangebote sowie eine stufenweise Wiedereingliederung infrage."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "Keine gesetzliche Frist für die Antragstellung",
+          "was": "Ein Reha-Antrag kann grundsätzlich jederzeit gestellt werden; sinnvoll ist er, sobald absehbar ist, dass ambulante Behandlung allein nicht ausreicht.",
+          "grundlage": "–"
+        }
+      ],
+      "achtung": [
+        "Ein Reha-Antrag wird nach § 116 Abs. 2 SGB VI unter bestimmten Voraussetzungen automatisch als Rentenantrag gewertet, wenn die Reha nicht erfolgversprechend ist – das kann in bestimmten Konstellationen von Vorteil sein, sollte aber vorher mit einer Beratungsstelle besprochen werden.",
+        "Welche Klinik infrage kommt und wie lange eine Reha dauert, entscheidet der Kostenträger anhand der medizinischen Empfehlung – ein pauschaler bundesweiter Richtwert für die Dauer ließ sich nicht verlässlich verifizieren und wird deshalb hier nicht beziffert.",
+        "Reha ist keine „Belohnung“ und kein Urlaub – Ziel ist ausdrücklich die Wiederherstellung der Erwerbsfähigkeit; das prägt Inhalt und Struktur des Aufenthalts."
+      ],
+      "fach_html": "\n<h3>Zuständigkeit und Rechtsgrundlage</h3>\n<p>Die Deutsche Rentenversicherung erbringt Leistungen zur medizinischen Rehabilitation, wenn dadurch die Erwerbsfähigkeit der Versicherten erheblich gefährdet oder gemindert ist oder wiederhergestellt werden kann (§§ 9 ff. SGB VI, insbesondere § 15 SGB VI, i. V. m. den allgemeinen Reha-Vorschriften des SGB IX). Ist keine Erwerbsminderung zu erwarten oder sind die versicherungsrechtlichen Voraussetzungen bei der Rentenversicherung nicht erfüllt, kann die Krankenkasse nach § 40 SGB V zuständig sein.</p>\n<h3>Grundsatz „Reha vor Rente“</h3>\n<p>§ 9 Abs. 1 SGB VI und § 8 SGB IX verankern den Grundsatz, dass Rehabilitationsleistungen Vorrang vor einer Rentenzahlung wegen verminderter Erwerbsfähigkeit haben. Erst wenn eine Reha keine ausreichende Besserung erwarten lässt oder erfolglos war, kommt eine Erwerbsminderungsrente in Betracht (siehe eigene Themenseite).</p>\n<h3>Psychosomatische Rehabilitation</h3>\n<p>Für erschöpfungsbedingte psychische Erkrankungen kommen häufig auf Psychosomatik spezialisierte Reha-Kliniken infrage, die multimodale Behandlungskonzepte (Einzel- und Gruppentherapie, Bewegungs-, Entspannungs- und Arbeitstherapie) anbieten. Form (stationär, ganztägig ambulant, ambulant) und Dauer richten sich nach der medizinischen Empfehlung im Einzelfall.</p>\n<h3>Wunsch- und Wahlrecht</h3>\n<p>Nach § 8 SGB IX ist berechtigten Wünschen der Versicherten zu Ort, Art und Durchführung der Reha zu entsprechen, soweit sie angemessen sind – dazu zählt auch die Wahl zwischen mehreren geeigneten, zugelassenen Einrichtungen.</p>\n",
+      "zustaendig": [
+        "Deutsche Rentenversicherung (in der Regel)",
+        "Gesetzliche Krankenkasse (in bestimmten Fallkonstellationen)"
+      ],
+      "belege": [
+        "§§ 9, 15, 116 SGB VI (gesetze-im-internet.de)",
+        "§ 40 SGB V (gesetze-im-internet.de)",
+        "§ 8 SGB IX (gesetze-im-internet.de)"
+      ],
+      "siehe_auch": [
+        "krankengeld-bei-erschoepfung",
+        "stufenweise-wiedereingliederung",
+        "erwerbsminderungsrente-bei-erschoepfung"
+      ],
+      "stand": "Stand: September 2026."
+    },
+    {
+      "id": "mutter-vater-kind-kur",
+      "kategorie": "behandlung-reha",
+      "titel": "Mutter-Kind- und Vater-Kind-Kur bei Erschöpfung",
+      "icon": "👨‍👧",
+      "teaser": "Für Mütter und Väter mit erschöpfungsbedingtem Behandlungsbedarf gibt es eine eigene Vorsorge- bzw. Reha-Leistung der Krankenkasse.",
+      "schlagworte": [
+        "Mutter-Kind-Kur",
+        "Vater-Kind-Kur",
+        "§ 24 SGB V",
+        "§ 41 SGB V",
+        "Müttergenesungswerk"
+      ],
+      "kurz_html": "\n<p>Mütter und Väter, deren Erschöpfung auch mit der Doppelbelastung aus Erwerbsarbeit, Familie und Sorgearbeit zusammenhängt, können eine Mutter-Kind- bzw. Vater-Kind-Maßnahme in Anspruch nehmen. Das ist eine eigenständige Leistung der gesetzlichen Krankenversicherung – je nach medizinischer Notwendigkeit als Vorsorge- oder als Rehabilitationsmaßnahme, meist in einer Einrichtung des Müttergenesungswerks oder einer vergleichbaren Klinik, in der Regel gemeinsam mit den Kindern.</p>\n<p>Eine Besonderheit: Anders als bei sonstigen ambulanten Vorsorgeleistungen müssen Sie hierfür nicht zuerst nachweisen, dass ambulante Behandlungsmöglichkeiten ausgeschöpft sind.</p>\n",
+      "schritte": [
+        {
+          "titel": "Ärztliches Attest einholen",
+          "text": "Hausärztin/Hausarzt oder Gynäkologin/Gynäkologe stellen die medizinische Notwendigkeit fest und füllen die entsprechende Verordnung aus."
+        },
+        {
+          "titel": "Antrag bei der Krankenkasse stellen",
+          "text": "Reichen Sie die Verordnung zusammen mit dem Antragsformular Ihrer Krankenkasse ein."
+        },
+        {
+          "titel": "Bei Ablehnung Beratungsstelle einschalten",
+          "text": "Anerkannte Beratungsstellen (z. B. des Müttergenesungswerks) unterstützen bei Widersprüchen gegen eine Ablehnung."
+        },
+        {
+          "titel": "Einrichtung wählen",
+          "text": "Sie können unter geeigneten, zertifizierten Einrichtungen wählen, oft mit Betreuungsangebot für die mitreisenden Kinder."
+        },
+        {
+          "titel": "Nachsorge planen",
+          "text": "Nutzen Sie im Anschluss ambulante Unterstützungsangebote, um die Wirkung der Maßnahme zu stabilisieren."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "Keine gesetzliche Antragsfrist",
+          "was": "Der Antrag kann grundsätzlich jederzeit gestellt werden; Wartezeiten auf einen Platz sind einrichtungsabhängig und keine gesetzliche Frist.",
+          "grundlage": "–"
+        }
+      ],
+      "achtung": [
+        "Eine Ablehnung durch die Krankenkasse ist keine Seltenheit und in vielen Fällen erfolgreich anfechtbar – wenden Sie sich im Zweifel an eine unabhängige Beratungsstelle, bevor Sie den Widerspruch selbst formulieren.",
+        "Wie lange die Wartezeit bis zu einem Kurplatz tatsächlich dauert, ist regional und saisonal unterschiedlich; eine verlässliche bundesweite Zahl ließ sich nicht recherchieren und wird deshalb nicht genannt.",
+        "Diese Leistung richtet sich an Mütter und Väter gleichermaßen; Väter mussten sich diesen gleichberechtigten Zugang historisch erst erstreiten, er ist inzwischen aber gesetzlich klargestellt."
+      ],
+      "fach_html": "\n<h3>Rechtsgrundlage</h3>\n<p>§ 24 SGB V regelt die medizinische Vorsorge für Mütter und Väter, § 41 SGB V die entsprechende medizinische Rehabilitation für Mütter und Väter. Beide Vorschriften erfassen ausdrücklich auch Väter (Vater-Kind-Maßnahmen) und stellen klar, dass die Leistung in einer Einrichtung des Müttergenesungswerks oder einer gleichwertigen Einrichtung erbracht werden soll.</p>\n<h3>Keine Pflicht zur vorherigen ambulanten Behandlung</h3>\n<p>Anders als bei allgemeinen ambulanten Vorsorgeleistungen nach § 23 SGB V verlangt § 24 Abs. 1 Satz 4 SGB V ausdrücklich nicht, dass ambulante Behandlungsmöglichkeiten am Wohnort zunächst ausgeschöpft sein müssen (keine Anwendung von § 23 Abs. 4 Satz 1 SGB V). Der Grundsatz „ambulant vor stationär“ gilt hier also nicht in der sonst üblichen Strenge.</p>\n<h3>Warum diese Leistung bei Erschöpfung relevant ist</h3>\n<p>Die Maßnahme richtet sich speziell an Erschöpfungszustände, die mit der Mehrfachbelastung durch Erziehungs-, Sorge- und Erwerbsarbeit zusammenhängen, und kombiniert medizinische Behandlung mit einer Auszeit von Alltagsstrukturen, meist gemeinsam mit den Kindern. Sie ergänzt, ersetzt aber nicht die auf der Seite „Medizinische Reha bei Erschöpfung“ beschriebene allgemeine Rehabilitation der Rentenversicherung.</p>\n",
+      "zustaendig": [
+        "Gesetzliche Krankenkasse"
+      ],
+      "belege": [
+        "§§ 24, 41 SGB V (gesetze-im-internet.de)",
+        "Müttergenesungswerk, Gesetzliche Grundlagen (muettergenesungswerk.de)"
+      ],
+      "siehe_auch": [
+        "medizinische-reha-bei-erschoepfung",
+        "beratung-anlaufstellen-burnout"
+      ],
+      "stand": "Stand: September 2026."
+    },
+    {
+      "id": "erwerbsminderungsrente-bei-erschoepfung",
+      "kategorie": "dauerhafte-einschraenkung",
+      "titel": "Erwerbsminderungsrente bei chronischer Erschöpfung",
+      "icon": "⚖️",
+      "teaser": "Eine Erwerbsminderungsrente allein wegen „Burnout“ ist die Ausnahme, nicht die Regel – entscheidend sind strenge medizinische und versicherungsrechtliche Voraussetzungen.",
+      "schlagworte": [
+        "Erwerbsminderungsrente",
+        "§ 43 SGB VI",
+        "Wartezeit",
+        "Reha vor Rente",
+        "Volle Erwerbsminderung",
+        "Teilweise Erwerbsminderung"
+      ],
+      "kurz_html": "\n<p>Wenn eine chronische Erschöpfungserkrankung Ihre Leistungsfähigkeit dauerhaft und schwer einschränkt, kann eine Rente wegen Erwerbsminderung infrage kommen. Das ist jedoch <strong>keine leicht zu erreichende Leistung</strong>: Voraussetzung ist, dass Sie wegen Krankheit oder Behinderung auf nicht absehbare Zeit außerstande sind, unter den üblichen Bedingungen des allgemeinen Arbeitsmarktes mindestens drei Stunden täglich (teilweise Erwerbsminderung: mindestens sechs Stunden) zu arbeiten – unabhängig davon, ob ein solcher Arbeitsplatz überhaupt verfügbar ist. Zusätzlich müssen bestimmte versicherungsrechtliche Vorleistungszeiten erfüllt sein.</p>\n<p>Allein die Diagnose Z73.0 „Ausgebranntsein“ begründet dies erfahrungsgemäß nicht; erforderlich ist eine eigenständige, schwerwiegende psychische oder körperliche Erkrankung mit entsprechend gutachterlich festgestellten Leistungseinschränkungen. Vorrangig prüft die Rentenversicherung, ob eine Rehabilitation die Erwerbsfähigkeit wiederherstellen kann (Grundsatz „Reha vor Rente“, siehe eigene Themenseite).</p>\n",
+      "schritte": [
+        {
+          "titel": "Reha-Möglichkeiten zuerst ausschöpfen",
+          "text": "Ohne durchgeführte oder erkennbar aussichtslose Reha wird ein Rentenantrag in der Regel nicht bewilligt."
+        },
+        {
+          "titel": "Versicherungsrechtliche Voraussetzungen prüfen lassen",
+          "text": "Lassen Sie sich von der Deutschen Rentenversicherung Ihr Versicherungskonto und die erfüllte Wartezeit bestätigen."
+        },
+        {
+          "titel": "Antrag stellen",
+          "text": "Der Antrag wird bei der Deutschen Rentenversicherung gestellt; ein zuvor gestellter Reha-Antrag kann unter bestimmten Voraussetzungen automatisch als Rentenantrag gelten."
+        },
+        {
+          "titel": "Sozialmedizinische Begutachtung durchlaufen",
+          "text": "Ein Gutachten stellt fest, wie viele Stunden täglich Sie noch auf dem allgemeinen Arbeitsmarkt einsatzfähig wären."
+        },
+        {
+          "titel": "Bei Ablehnung Widerspruch und Beratung",
+          "text": "Ablehnungen sind häufig; eine unabhängige Sozialberatung oder eine Fachanwältin/ein Fachanwalt für Sozialrecht kann die Erfolgsaussichten eines Widerspruchs einschätzen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "1 Monat",
+          "was": "Widerspruchsfrist gegen einen ablehnenden Rentenbescheid",
+          "grundlage": "§ 84 SGG"
+        }
+      ],
+      "achtung": [
+        "Eine Erwerbsminderungsrente wegen Burnout oder allgemeiner Erschöpfung allein zu erhalten, gelingt in der Praxis selten – maßgeblich ist eine schwerwiegende, gutachterlich bestätigte Erkrankung mit entsprechenden Leistungseinschränkungen, nicht die Selbsteinschätzung der Erschöpfung.",
+        "„Berufsunfähigkeit“ im umgangssprachlichen Sinn (Sie können Ihren bisherigen Beruf nicht mehr ausüben) reicht für die gesetzliche Erwerbsminderungsrente grundsätzlich nicht aus – maßgeblich ist die Verweisbarkeit auf den gesamten allgemeinen Arbeitsmarkt, nicht nur auf den bisherigen Beruf.",
+        "Die genauen versicherungsrechtlichen Voraussetzungen (allgemeine Wartezeit, Pflichtbeitragszeiten) sind komplex und von der individuellen Erwerbsbiografie abhängig – lassen Sie sich hierzu unbedingt persönlich von der Deutschen Rentenversicherung beraten, statt sich auf Faustregeln zu verlassen.",
+        "Eine private Berufsunfähigkeitsversicherung, sofern vorhanden, hat andere, meist großzügigere Voraussetzungen als die gesetzliche Erwerbsminderungsrente – das ist nicht Gegenstand dieser Seite und sollte gesondert geprüft werden."
+      ],
+      "fach_html": "\n<h3>Voraussetzungen (§ 43 SGB VI)</h3>\n<p>Anspruch auf Rente wegen voller Erwerbsminderung besteht nach § 43 Abs. 2 SGB VI, wenn Versicherte wegen Krankheit oder Behinderung außerstande sind, unter den üblichen Bedingungen des allgemeinen Arbeitsmarktes mindestens drei Stunden täglich erwerbstätig zu sein. Teilweise Erwerbsminderung (§ 43 Abs. 1 SGB VI) liegt vor, wenn noch mindestens drei, aber weniger als sechs Stunden täglich möglich sind. Maßgeblich ist der gesamte allgemeine Arbeitsmarkt, nicht nur der zuletzt ausgeübte Beruf – ein rentenversicherungsrechtlicher Unterschied zur oft verwechselten Berufsunfähigkeit privater Versicherungen.</p>\n<h3>Versicherungsrechtliche Voraussetzungen</h3>\n<p>Zusätzlich zur medizinischen Voraussetzung müssen die allgemeine Wartezeit von 5 Jahren erfüllt sein und in den letzten 5 Jahren vor Eintritt der Erwerbsminderung mindestens 3 Jahre Pflichtbeiträge vorliegen (§ 43 Abs. 1 Nr. 2, Abs. 2 i. V. m. § 50 Abs. 1 SGB VI). Es gibt Ausnahmen, etwa bei Erwerbsminderung infolge eines Arbeitsunfalls oder bei bestimmten Zurechnungszeiten – diese sind einzelfallabhängig und sollten individuell geprüft werden.</p>\n<h3>„Reha vor Rente“ als zentrale Hürde</h3>\n<p>Nach § 9 SGB VI haben Leistungen zur Teilhabe (Rehabilitation) Vorrang vor Rentenleistungen, wenn dadurch die Erwerbsminderung abgewendet, beseitigt, gemindert oder ihre Verschlimmerung verhütet werden kann. In der Praxis prüft die Rentenversicherung deshalb zunächst, ob eine medizinische oder berufliche Rehabilitation Erfolg verspricht (siehe Themenseite Medizinische Reha), bevor über eine Rente entschieden wird. Das ist einer der Hauptgründe, warum Anträge auf Erwerbsminderungsrente wegen Erschöpfung häufig zunächst abgelehnt oder auf eine Reha verwiesen werden.</p>\n<h3>Befristung</h3>\n<p>Renten wegen Erwerbsminderung werden nach § 102 Abs. 2 SGB VI in der Regel zunächst befristet geleistet, insbesondere wenn eine Besserung nicht ausgeschlossen erscheint – was bei behandelbaren psychischen Erschöpfungserkrankungen häufig der Fall ist.</p>\n",
+      "zustaendig": [
+        "Deutsche Rentenversicherung"
+      ],
+      "belege": [
+        "§§ 9, 43, 50, 102 SGB VI (gesetze-im-internet.de)",
+        "§ 84 SGG (gesetze-im-internet.de)"
+      ],
+      "siehe_auch": [
+        "medizinische-reha-bei-erschoepfung",
+        "krankengeld-bei-erschoepfung",
+        "beratung-anlaufstellen-burnout"
+      ],
+      "stand": "Stand: September 2026."
+    },
+    {
+      "id": "praevention-gefaehrdungsbeurteilung",
+      "kategorie": "arbeitsplatz-praevention",
+      "titel": "Prävention: Gefährdungsbeurteilung psychischer Belastungen",
+      "icon": "🛡️",
+      "teaser": "Jeder Arbeitgeber muss psychische Belastungen am Arbeitsplatz systematisch beurteilen – eine oft unbekannte, aber durchsetzbare Pflicht.",
+      "schlagworte": [
+        "Gefährdungsbeurteilung",
+        "§ 5 ArbSchG",
+        "Psychische Belastung",
+        "Arbeitsschutz",
+        "Mitbestimmung Betriebsrat"
+      ],
+      "kurz_html": "\n<p>Jeder Arbeitgeber in Deutschland ist gesetzlich verpflichtet, die Gefährdungen für Sicherheit und Gesundheit am Arbeitsplatz zu beurteilen – ausdrücklich einschließlich psychischer Belastungen wie Zeitdruck, hohe Arbeitsintensität, unklare Zuständigkeiten oder ständige Erreichbarkeit. Das gilt für Betriebe jeder Größe, unabhängig von der Branche – schon ab dem ersten Beschäftigten.</p>\n<p>Diese Pflicht ist vielen Beschäftigten und auch manchen Arbeitgebern unbekannt. Sie betrifft nicht Sie persönlich als Einzelfall, sondern die systematische Gestaltung der Arbeitsbedingungen im Betrieb – und kann ein Hebel sein, um auf strukturelle Überlastung hinzuwirken, statt Erschöpfung immer wieder individuell zu bewältigen.</p>\n",
+      "schritte": [
+        {
+          "titel": "Prüfen, ob eine Gefährdungsbeurteilung psychischer Belastung existiert",
+          "text": "Fragen Sie bei der Personalabteilung, dem Betriebsrat oder der Fachkraft für Arbeitssicherheit nach."
+        },
+        {
+          "titel": "Betriebsrat einschalten",
+          "text": "Der Betriebsrat hat bei der Durchführung und Ausgestaltung der Gefährdungsbeurteilung ein Mitbestimmungsrecht und kann die Einführung notfalls über die Einigungsstelle erzwingen."
+        },
+        {
+          "titel": "An Befragungen/Workshops teilnehmen",
+          "text": "Übliche Methoden sind anonyme Mitarbeiterbefragungen, moderierte Workshops oder Beobachtungsinterviews – Ihre Teilnahme liefert wichtige Informationen."
+        },
+        {
+          "titel": "Auf Maßnahmen bestehen",
+          "text": "Eine Gefährdungsbeurteilung ohne abgeleitete Maßnahmen und Wirksamkeitskontrolle erfüllt die gesetzliche Pflicht nicht vollständig."
+        },
+        {
+          "titel": "Bei Untätigkeit die Aufsichtsbehörde einschalten",
+          "text": "Zuständig sind je nach Bundesland die staatlichen Arbeitsschutzbehörden bzw. die Unfallversicherungsträger."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "Keine feste Wiederholungsfrist",
+          "was": "Das Gesetz schreibt keinen starren Turnus vor; die Gefährdungsbeurteilung muss aber aktuell gehalten und bei wesentlichen Änderungen der Arbeitsbedingungen überprüft werden.",
+          "grundlage": "§ 5 i. V. m. § 3 Abs. 1 Satz 2 ArbSchG"
+        }
+      ],
+      "achtung": [
+        "Eine fehlende oder unzureichende Gefährdungsbeurteilung psychischer Belastungen ist ein Verstoß gegen das Arbeitsschutzgesetz und kann von der Aufsichtsbehörde beanstandet werden – Sie können das auch anonym melden.",
+        "Diese Seite betrifft die strukturelle, betriebliche Ebene. Für individuelle Ansprüche bei bereits eingetretener Erkrankung siehe die anderen Themenseiten dieses Moduls sowie das Modul Arbeitnehmer für allgemeines Arbeitsschutzrecht.",
+        "Eine Gefährdungsbeurteilung ersetzt keine ärztliche oder psychotherapeutische Behandlung im Einzelfall – sie soll Belastungen präventiv verringern, nicht bereits eingetretene Erkrankungen behandeln."
+      ],
+      "fach_html": "\n<h3>Rechtsgrundlage</h3>\n<p>§ 5 Abs. 1 ArbSchG verpflichtet den Arbeitgeber, durch eine Beurteilung der für die Beschäftigten mit ihrer Arbeit verbundenen Gefährdungen zu ermitteln, welche Maßnahmen des Arbeitsschutzes erforderlich sind. § 5 Abs. 3 Nr. 6 ArbSchG nennt seit der Klarstellung von 2013 ausdrücklich „psychische Belastungen bei der Arbeit“ als eigenen Gefährdungsfaktor. Ergebnisse sind nach § 6 ArbSchG zu dokumentieren.</p>\n<h3>Was zu psychischen Belastungen zählt</h3>\n<p>Dazu zählen u. a. Arbeitsintensität und Zeitdruck, Handlungsspielraum, soziale Beziehungen am Arbeitsplatz (z. B. Konflikte, mangelnde Unterstützung), Arbeitsorganisation (z. B. häufige Unterbrechungen, unklare Zuständigkeiten) sowie neue Arbeitsformen wie ständige Erreichbarkeit. Die konkrete Methodik ist gesetzlich nicht vorgeschrieben; gängige Instrumente reichen von standardisierten Fragebögen bis zu moderierten Analyseworkshops.</p>\n<h3>Beteiligungsrechte des Betriebsrats</h3>\n<p>Die Ausgestaltung der Gefährdungsbeurteilung unterliegt der Mitbestimmung des Betriebsrats nach § 87 Abs. 1 Nr. 7 BetrVG (Regelungen zum Gesundheitsschutz). Kommt keine Einigung zustande, kann der Betriebsrat die Einigungsstelle anrufen.</p>\n<h3>Durchsetzung und Aufsicht</h3>\n<p>Die Einhaltung überwachen die staatlichen Arbeitsschutzbehörden der Länder (Gewerbeaufsicht) sowie ergänzend die gesetzliche Unfallversicherung (Berufsgenossenschaften) im Rahmen ihres Präventionsauftrags. Verstöße können als Ordnungswidrigkeit geahndet werden (§ 25 ArbSchG).</p>\n",
+      "zustaendig": [
+        "Arbeitgeber (Durchführung)",
+        "Betriebsrat (Mitbestimmung)",
+        "Staatliche Arbeitsschutzbehörde / Gewerbeaufsicht (Aufsicht)"
+      ],
+      "belege": [
+        "§§ 5, 6, 25 ArbSchG (gesetze-im-internet.de)",
+        "§ 87 Abs. 1 Nr. 7 BetrVG (gesetze-im-internet.de)"
+      ],
+      "siehe_auch": [
+        "rechte-bei-ueberlastung",
+        "betriebliches-eingliederungsmanagement"
+      ],
+      "stand": "Stand: September 2026."
+    },
+    {
+      "id": "rechte-bei-ueberlastung",
+      "kategorie": "arbeitsplatz-praevention",
+      "titel": "Rechte bei Überlastung am Arbeitsplatz",
+      "icon": "📋",
+      "teaser": "Arbeitszeitgrenzen, Ruhezeiten und das Recht, Überlastung anzuzeigen: was Sie schon vor einer Erkrankung tun können.",
+      "schlagworte": [
+        "Arbeitszeitgesetz",
+        "Überlastungsanzeige",
+        "Ruhezeit"
+      ],
+      "kurz_html": "\n<p>Schon bevor sich Überlastung zu einer Erkrankung entwickelt, haben Sie als Beschäftigte oder Beschäftigter gewisse Rechte: Das Arbeitszeitgesetz begrenzt die tägliche Höchstarbeitszeit und schreibt Mindestruhezeiten vor. Fühlen Sie sich dauerhaft überfordert, können Sie das Ihrem Arbeitgeber förmlich mitteilen (sogenannte Überlastungsanzeige) – das ist zwar gesetzlich nicht ausdrücklich geregelt, kann aber arbeitsrechtlich Bedeutung haben, insbesondere zur eigenen Absicherung.</p>\n<p>Für weiterführende, allgemeine Fragen des Arbeitsrechts rund um Arbeitszeit, Überstunden und Kündigungsschutz – die nicht burnout-spezifisch sind – siehe das Modul Arbeitnehmer.</p>\n",
+      "schritte": [
+        {
+          "titel": "Arbeitszeiten dokumentieren",
+          "text": "Führen Sie eigene Aufzeichnungen über geleistete Arbeitszeit, Überstunden und Ruhezeiten, falls der Betrieb dies nicht ohnehin lückenlos erfasst."
+        },
+        {
+          "titel": "Gespräch mit Vorgesetzten suchen",
+          "text": "Schildern Sie konkret, welche Aufgaben in welcher Zeit nicht zu bewältigen sind."
+        },
+        {
+          "titel": "Überlastungsanzeige schriftlich stellen",
+          "text": "Beschreiben Sie sachlich, welche Aufgaben, Fristen oder Personalengpässe die Überlastung verursachen, und was Sie befürchten (z. B. Fehler, Gesundheitsschäden)."
+        },
+        {
+          "titel": "Betriebsrat oder Personalrat einbeziehen",
+          "text": "Er kann die Arbeitsbelastung ansprechen und auf die Gefährdungsbeurteilung psychischer Belastungen verweisen."
+        },
+        {
+          "titel": "Bei anhaltender Untätigkeit externe Beratung suchen",
+          "text": "Gewerkschaft, Arbeitnehmerkammer oder eine Fachanwältin/ein Fachanwalt für Arbeitsrecht können weiterhelfen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "11 Stunden",
+          "was": "Mindestruhezeit zwischen zwei Arbeitstagen",
+          "grundlage": "§ 5 Abs. 1 ArbZG"
+        },
+        {
+          "wert": "8 Stunden (ausnahmsweise bis 10)",
+          "was": "Werktägliche Höchstarbeitszeit, sofern nicht innerhalb von 6 Kalendermonaten bzw. 24 Wochen im Durchschnitt 8 Stunden je Werktag eingehalten werden",
+          "grundlage": "§ 3 ArbZG"
+        }
+      ],
+      "achtung": [
+        "Eine Überlastungsanzeige ist kein gesetzlich normiertes Instrument mit fester Rechtsfolge – sie kann aber im Streitfall (z. B. bei Vorwürfen wegen Fehlern) als Nachweis dienen, dass Sie den Arbeitgeber rechtzeitig informiert haben.",
+        "Verstöße gegen Höchstarbeitszeiten oder Ruhezeiten müssen Sie nicht selbst „durchsetzen“ – melden Sie anhaltende, systematische Verstöße bei Bedarf der zuständigen Arbeitsschutzbehörde.",
+        "Diese Seite ersetzt keine allgemeine arbeitsrechtliche Beratung zu Themen wie Überstundenvergütung oder Arbeitszeiterfassung – dazu siehe das Modul Arbeitnehmer."
+      ],
+      "fach_html": "\n<h3>Arbeitszeitgesetz (ArbZG)</h3>\n<p>Nach § 3 ArbZG darf die werktägliche Arbeitszeit acht Stunden nicht überschreiten; sie kann auf bis zu zehn Stunden verlängert werden, wenn innerhalb von sechs Kalendermonaten oder 24 Wochen im Durchschnitt acht Stunden werktäglich nicht überschritten werden. § 5 Abs. 1 ArbZG schreibt nach Ende der täglichen Arbeitszeit eine ununterbrochene Ruhezeit von mindestens elf Stunden vor. Diese Grenzen sollen auch übermäßiger, gesundheitsgefährdender Dauerbelastung entgegenwirken.</p>\n<h3>Überlastungsanzeige</h3>\n<p>Die „Überlastungsanzeige“ ist im deutschen Arbeitsrecht kein eigenständig geregeltes Institut, hat sich aber insbesondere in Pflege-, Sozial- und öffentlichen Diensten als Praxis etabliert. Sie kann als Ausdruck der arbeitsvertraglichen Nebenpflicht verstanden werden, den Arbeitgeber auf Umstände hinzuweisen, die die ordnungsgemäße Aufgabenerfüllung oder die eigene Gesundheit gefährden. Rechtlich zwingt sie den Arbeitgeber zu nichts Bestimmtem, kann aber im Einzelfall Beweisfunktion haben, etwa bei der Frage eines Mitverschuldens des Arbeitgebers.</p>\n<h3>Zusammenspiel mit der Gefährdungsbeurteilung</h3>\n<p>Individuelle Überlastungsanzeigen können – müssen aber nicht – Anlass sein, die betriebliche Gefährdungsbeurteilung psychischer Belastungen zu überprüfen (siehe eigene Themenseite). Beide Instrumente ergänzen sich: die Gefährdungsbeurteilung wirkt strukturell-präventiv, die Überlastungsanzeige individuell und akut.</p>\n",
+      "zustaendig": [
+        "Arbeitgeber",
+        "Staatliche Arbeitsschutzbehörde (bei Verstößen gegen das ArbZG)"
+      ],
+      "belege": [
+        "§§ 3, 5 ArbZG (gesetze-im-internet.de)"
+      ],
+      "siehe_auch": [
+        "praevention-gefaehrdungsbeurteilung",
+        "betriebliches-eingliederungsmanagement"
+      ],
+      "stand": "Stand: September 2026."
+    },
+    {
+      "id": "selbsthilfe-und-stressbewaeltigung",
+      "kategorie": "selbsthilfe-beratung",
+      "titel": "Selbsthilfe und Stressbewältigung",
+      "icon": "🧘",
+      "teaser": "Was Sie selbst tun können, ergänzt Behandlung und rechtliche Schritte – ersetzt sie aber nicht bei behandlungsbedürftiger Erschöpfung.",
+      "schlagworte": [
+        "Selbsthilfe",
+        "Stressbewältigung",
+        "Präventionskurse",
+        "§ 20 SGB V"
+      ],
+      "kurz_html": "\n<p>Neben Behandlung, Krankschreibung und rechtlichen Schritten spielt Selbsthilfe eine wichtige, ergänzende Rolle: Strukturierte Erholung, realistische Grenzen im Alltag und der bewusste Umgang mit Belastung können helfen, einer erneuten Erschöpfung vorzubeugen. Selbsthilfe ersetzt jedoch keine Behandlung, wenn bereits eine behandlungsbedürftige Erkrankung wie eine depressive Episode oder eine Anpassungsstörung vorliegt.</p>\n<p>Die gesetzlichen Krankenkassen fördern zudem zertifizierte Präventionskurse zur Stressbewältigung, an denen Sie unabhängig von einer akuten Erkrankung teilnehmen können.</p>\n",
+      "schritte": [
+        {
+          "titel": "Ist-Zustand ehrlich einschätzen",
+          "text": "Unterscheiden Sie zwischen vorübergehender Belastung und Anzeichen, die ärztliche Abklärung erfordern (siehe Überblicksseite)."
+        },
+        {
+          "titel": "Kassengeförderte Präventionskurse prüfen",
+          "text": "Viele Krankenkassen bezuschussen zertifizierte Kurse zu Stressbewältigung, Achtsamkeit oder Entspannungsverfahren."
+        },
+        {
+          "titel": "Erholungsphasen aktiv einplanen",
+          "text": "Feste Pausen, Schlafroutine und Bewegung sind einfache, aber wirksame Bausteine."
+        },
+        {
+          "titel": "Soziale Unterstützung nutzen",
+          "text": "Sprechen Sie mit Vertrauenspersonen über Belastung, statt sie zu verbergen."
+        },
+        {
+          "titel": "Rückfallwarnzeichen kennen",
+          "text": "Legen Sie für sich fest, welche Anzeichen bedeuten, dass Sie erneut professionelle Hilfe suchen sollten."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "Keine gesetzliche Frist",
+          "was": "Selbsthilfemaßnahmen unterliegen keiner Frist. Für die Kostenbezuschussung von Präventionskursen gelten kassenindividuelle, nicht gesetzlich einheitlich festgelegte Höchstbeträge.",
+          "grundlage": "–"
+        }
+      ],
+      "achtung": [
+        "Selbsthilfe ist kein Ersatz für Behandlung: Bestehen bereits eine depressive Episode, eine Anpassungsstörung oder andere behandlungsbedürftige Beschwerden, gehören diese in ärztliche/psychotherapeutische Hände.",
+        "Die genaue Höhe der Kassenzuschüsse zu Präventionskursen ist von Krankenkasse zu Krankenkasse unterschiedlich und wird hier deshalb nicht mit einem konkreten Betrag beziffert – fragen Sie direkt bei Ihrer Kasse nach.",
+        "Bei akuten Krisen oder Suizidgedanken reichen Selbsthilfemaßnahmen nicht aus – wenden Sie sich sofort an die TelefonSeelsorge oder den Notruf 112 (siehe auch Modul Depression)."
+      ],
+      "fach_html": "\n<h3>Kassengeförderte Prävention (§ 20 SGB V)</h3>\n<p>§ 20 SGB V verpflichtet die gesetzlichen Krankenkassen, Leistungen zur primären Prävention zu erbringen, unter anderem zur Stressbewältigung und Förderung individueller Gesundheitskompetenz. Die konkrete Ausgestaltung und Bezuschussung von Kursen ist im Leitfaden Prävention des GKV-Spitzenverbandes geregelt und kann sich zwischen den Kassen unterscheiden.</p>\n<h3>Grenzen der Selbsthilfe</h3>\n<p>Wissenschaftlich untersuchte Methoden wie Achtsamkeitstraining, Entspannungsverfahren (z. B. progressive Muskelentspannung, autogenes Training) oder Bewegung können nachweislich zur Stressregulation beitragen. Sie sind jedoch als ergänzende, nicht als alleinige Maßnahme bei einer bereits bestehenden, behandlungsbedürftigen psychischen Erkrankung zu verstehen; eine trennscharfe Aussage, ab welchem Punkt Selbsthilfe nicht mehr ausreicht, kann nur die individuelle ärztliche oder psychotherapeutische Einschätzung treffen.</p>\n",
+      "zustaendig": [
+        "Gesetzliche Krankenkasse (Förderung von Präventionskursen)"
+      ],
+      "belege": [
+        "§ 20 SGB V (gesetze-im-internet.de)",
+        "Leitfaden Prävention, GKV-Spitzenverband, Stand 2026 (gkv-spitzenverband.de)"
+      ],
+      "siehe_auch": [
+        "ueberblick-burnout-erschoepfung",
+        "angehoerige-und-umfeld"
+      ],
+      "stand": "Stand: September 2026."
+    },
+    {
+      "id": "angehoerige-und-umfeld",
+      "kategorie": "selbsthilfe-beratung",
+      "titel": "Angehörige und Umfeld",
+      "icon": "🤝",
+      "teaser": "Wenn Partnerin, Partner, Familie oder Freunde erschöpft sind: was Angehörige tun können – und wo ihre eigenen Grenzen liegen.",
+      "schlagworte": [
+        "Angehörige",
+        "Angehörigenberatung",
+        "Schweigepflicht"
+      ],
+      "kurz_html": "\n<p>Wenn ein nahestehender Mensch unter chronischer Erschöpfung leidet, wollen Angehörige oft helfen – stehen dabei aber häufig vor der Frage, wie viel Unterstützung sinnvoll ist und wie sie sich selbst nicht überlasten. Ermutigen statt drängen, zuhören statt Ratschläge erzwingen und praktische Entlastung anbieten sind meist hilfreicher als gut gemeinter Druck, „sich zusammenzureißen“.</p>\n<p>Ausführliche, allgemeine Informationen für Angehörige von Menschen mit einer psychischen Erkrankung – etwa zu Kommunikation, Grenzen und eigener Psychohygiene – finden Sie im Modul <a href=\"../../depression/themen/angehoerige-von-menschen-mit-depression.html\">Depression: Angehörige von Menschen mit Depression</a>. Diese Seite ergänzt das um erschöpfungs-/arbeitsbezogene Aspekte.</p>\n",
+      "schritte": [
+        {
+          "titel": "Zuhören, ohne sofort zu bewerten",
+          "text": "Vermeiden Sie Sätze wie „Andere schaffen das doch auch“ – Erschöpfung ist keine Frage der Willensstärke."
+        },
+        {
+          "titel": "Praktische Entlastung anbieten",
+          "text": "Konkrete Hilfe im Alltag (Haushalt, Termine, Kinderbetreuung) entlastet oft mehr als gut gemeinte Ratschläge."
+        },
+        {
+          "titel": "Professionelle Hilfe unterstützen, nicht ersetzen",
+          "text": "Ermutigen Sie zum Arztbesuch, ohne Druck aufzubauen; Sie sind nicht für die Behandlung verantwortlich."
+        },
+        {
+          "titel": "Eigene Grenzen erkennen",
+          "text": "Auch Angehörige können sich überlasten – eigene Erholung ist kein Egoismus, sondern Voraussetzung dafür, langfristig unterstützen zu können."
+        },
+        {
+          "titel": "Bei Bedarf eigene Beratung in Anspruch nehmen",
+          "text": "Angehörigenberatungsstellen und Selbsthilfegruppen für Angehörige bieten eigenen Raum für Austausch und Entlastung."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "Keine gesetzliche Frist",
+          "was": "Für die Unterstützung als Angehörige/-r gibt es keine gesetzliche Frist. Praktisch relevant können Fristen der betroffenen Person selbst sein (z. B. Krankschreibung, Widerspruch) – siehe die jeweiligen Themenseiten.",
+          "grundlage": "–"
+        }
+      ],
+      "achtung": [
+        "Angehörige haben in der Regel kein automatisches Recht auf Auskunft über Diagnose oder Behandlung – die ärztliche Schweigepflicht gilt auch gegenüber nahen Angehörigen, sofern die betroffene Person keine Entbindung erteilt hat.",
+        "Wenn Sie selbst dauerhaft überlastet sind (z. B. als mitsorgende Partnerin/mitsorgender Partner), gilt für Sie unter Umständen dasselbe wie für die eigentlich betroffene Person – zögern Sie nicht, selbst ärztliche oder therapeutische Hilfe zu suchen.",
+        "Bei akuten Krisen oder Suizidäußerungen der betroffenen Person: sofort Notruf 112 oder TelefonSeelsorge (0800 111 0 111 / 0800 111 0 222) kontaktieren."
+      ],
+      "fach_html": "\n<h3>Ärztliche Schweigepflicht gegenüber Angehörigen</h3>\n<p>Ärztinnen, Ärzte und Psychotherapeutinnen/Psychotherapeuten unterliegen der Schweigepflicht (§ 203 StGB, berufsrechtliche Schweigepflicht). Auskünfte an Angehörige – auch an Ehe- oder Lebenspartner – dürfen grundsätzlich nur mit ausdrücklicher Entbindung durch die betroffene, einwilligungsfähige Person erteilt werden. Das gilt unabhängig vom Verwandtschaftsgrad.</p>\n<h3>Eigene Unterstützungsangebote für Angehörige</h3>\n<p>Angehörigenberatungsstellen, teils bei örtlichen sozialpsychiatrischen Diensten oder freien Trägern angesiedelt, sowie Selbsthilfegruppen für Angehörige bieten Austausch und Orientierung, ohne dass die betroffene Person daran teilnehmen muss. Diese Angebote unterscheiden sich regional erheblich in Umfang und Trägerschaft – eine bundesweit einheitliche Übersicht ließ sich im Rahmen dieser Recherche nicht abschließend verifizieren.</p>\n",
+      "zustaendig": [
+        "Örtliche Angehörigenberatung / sozialpsychiatrischer Dienst"
+      ],
+      "belege": [
+        "§ 203 StGB (gesetze-im-internet.de)"
+      ],
+      "siehe_auch": [
+        "selbsthilfe-und-stressbewaeltigung",
+        "beratung-anlaufstellen-burnout"
+      ],
+      "stand": "Stand: September 2026."
+    },
+    {
+      "id": "beratung-anlaufstellen-burnout",
+      "kategorie": "selbsthilfe-beratung",
+      "titel": "Beratung und Anlaufstellen",
+      "icon": "📞",
+      "teaser": "Wer bei welchem Anliegen zuständig ist – von der akuten Krise bis zur sozialrechtlichen Beratung.",
+      "schlagworte": [
+        "Beratungsstelle",
+        "TelefonSeelsorge",
+        "116117"
+      ],
+      "kurz_html": "\n<p>Je nach Anliegen sind unterschiedliche Stellen zuständig: für akute Krisen die TelefonSeelsorge oder der Notruf, für die medizinische Erstabklärung Hausärztin/Hausarzt oder die 116117, für sozialrechtliche Fragen (Krankengeld, Reha, Erwerbsminderungsrente) die Deutsche Rentenversicherung oder unabhängige Sozialberatungsstellen, für arbeitsrechtliche Fragen der Betriebsrat, eine Gewerkschaft oder eine Fachanwältin/ein Fachanwalt für Arbeitsrecht.</p>\n",
+      "schritte": [
+        {
+          "titel": "Akute Krise",
+          "text": "TelefonSeelsorge (0800 111 0 111 oder 0800 111 0 222, kostenlos, anonym, rund um die Uhr) oder Notruf 112."
+        },
+        {
+          "titel": "Medizinische Erstabklärung",
+          "text": "Hausärztin/Hausarzt oder die Terminservicestelle 116117 für einen Termin zur psychotherapeutischen Sprechstunde."
+        },
+        {
+          "titel": "Sozialrechtliche Fragen",
+          "text": "Deutsche Rentenversicherung (Reha, Erwerbsminderungsrente), Krankenkasse (Krankengeld) oder eine unabhängige Sozialberatungsstelle bzw. ein Sozialverband (z. B. VdK, SoVD) gegen geringen Mitgliedsbeitrag."
+        },
+        {
+          "titel": "Arbeitsrechtliche und betriebliche Fragen",
+          "text": "Betriebsrat, Betriebsarzt/Betriebsärztin, Gewerkschaft oder Fachanwältin/Fachanwalt für Arbeitsrecht."
+        },
+        {
+          "titel": "Familienbezogene Erschöpfung",
+          "text": "Beratungsstellen des Müttergenesungswerks für Mutter-Kind- bzw. Vater-Kind-Kuren."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "Keine gesetzliche Frist",
+          "was": "Beratung können Sie jederzeit in Anspruch nehmen. Beachten Sie aber die auf den jeweiligen Themenseiten genannten Fristen (z. B. Widerspruchsfristen).",
+          "grundlage": "–"
+        }
+      ],
+      "achtung": [
+        "Diese Übersicht ersetzt keine Rechtsberatung im Einzelfall – bei komplexen sozialrechtlichen Verfahren (z. B. Widerspruch gegen eine Rentenablehnung) empfiehlt sich frühzeitig fachkundige Unterstützung.",
+        "Manche Angebote (z. B. betriebliche Mitarbeiterberatung/EAP) sind nicht bei jedem Arbeitgeber vorhanden – fragen Sie aktiv bei Personalabteilung oder Betriebsrat nach."
+      ],
+      "fach_html": "\n<h3>Akute Hilfe</h3>\n<p>Die TelefonSeelsorge (0800 111 0 111 und 0800 111 0 222, sowie online unter telefonseelsorge.de) berät kostenlos, anonym und rund um die Uhr – unabhängig davon, ob bereits eine Diagnose vorliegt. Bei akuter Selbst- oder Fremdgefährdung ist der Notruf 112 oder die nächste Notaufnahme die richtige Anlaufstelle.</p>\n<h3>Sozialrechtliche Beratung</h3>\n<p>Deutsche Rentenversicherung und Krankenkassen bieten eigene, kostenlose Beratung zu ihren jeweiligen Leistungen an. Unabhängige Beratung bieten daneben Sozialverbände wie der VdK oder der Sozialverband Deutschland (SoVD) gegen einen Mitgliedsbeitrag, sowie – bei rechtlichen Streitfragen – Fachanwältinnen und Fachanwälte für Sozialrecht, teils mit Beratungshilfe für Menschen mit geringem Einkommen.</p>\n<h3>Betriebliche und arbeitsrechtliche Anlaufstellen</h3>\n<p>Betriebsrat, Personalrat, Schwerbehindertenvertretung sowie Betriebsärztin/Betriebsarzt sind innerbetriebliche Ansprechpersonen. Gewerkschaften beraten ihre Mitglieder in arbeitsrechtlichen Fragen, teils mit eigenem Rechtsschutz.</p>\n",
+      "zustaendig": [
+        "Je nach Anliegen unterschiedlich – siehe Text oben"
+      ],
+      "belege": [
+        "telefonseelsorge.de",
+        "116117.de (Terminservicestellen der Kassenärztlichen Vereinigungen)",
+        "muettergenesungswerk.de"
+      ],
+      "siehe_auch": [
+        "ueberblick-burnout-erschoepfung",
+        "erwerbsminderungsrente-bei-erschoepfung"
+      ],
+      "stand": "Stand: September 2026."
+    }
+  ]
+}

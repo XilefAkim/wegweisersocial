@@ -1,0 +1,648 @@
+{
+"kategorien": [
+  {"id": "ueberblick", "titel": "Überblick & Beratung", "icon": "🧭", "beschreibung": "Rechtlicher Status, Pflichten beim Start und Anlaufstellen für Rat und Unterstützung."},
+  {"id": "gruendung", "titel": "Gründung & Förderung", "icon": "🚀", "beschreibung": "Finanzielle Unterstützung beim Schritt in die Selbstständigkeit."},
+  {"id": "sozialversicherung", "titel": "Kranken- und Rentenversicherung", "icon": "🏥", "beschreibung": "Kranken-, Pflege- und Rentenversicherung als Selbstständige/r, inklusive Künstlersozialkasse."},
+  {"id": "steuern-finanzen", "titel": "Steuern & Finanzen", "icon": "💶", "beschreibung": "Steuervorauszahlungen, Umsatzsteuer und Umgang mit Zahlungsausfällen."},
+  {"id": "existenzsicherung", "titel": "Existenzsicherung & Familie", "icon": "🛟", "beschreibung": "Ergänzende Grundsicherung, Krankheit, Schwangerschaft und Elternzeit als Selbstständige/r."},
+  {"id": "vertraege-recht", "titel": "Verträge & Rechtsstatus", "icon": "📄", "beschreibung": "Zahlungsverzug, Mahnwesen und Abgrenzung zur Scheinselbstständigkeit."},
+  {"id": "krise", "titel": "Krise & Insolvenz", "icon": "⚠️", "beschreibung": "Überschuldung, Zahlungsunfähigkeit und der Weg zur Restschuldbefreiung."},
+  {"id": "absicherung", "titel": "Betriebliche Absicherung", "icon": "🛡️", "beschreibung": "Haftpflicht, Unfallversicherung und weitere Policen für den Betrieb."}
+],
+"seiten": [
+
+{
+"id": "ueberblick-rechte-selbststaendige",
+"kategorie": "ueberblick",
+"icon": "🧭",
+"titel": "Überblick: Rechte und Pflichten als Selbstständige/r",
+"teaser": "Freiberuflich oder gewerblich, Anmeldung beim Finanzamt und Statusfragen: der Einstieg in die wichtigsten Grundbegriffe der Selbstständigkeit.",
+"schlagworte": ["Freiberufler", "Gewerbetreibende", "§ 18 EStG", "§ 15 EStG", "Gewerbeanmeldung", "§ 14 GewO", "Fragebogen zur steuerlichen Erfassung", "§ 138 AO", "IHK-Pflichtmitgliedschaft", "§ 2 IHKG", "Statusfeststellungsverfahren", "§ 7 SGB IV"],
+"kurz_html": "<p>Als Selbstständige/r arbeiten Sie eigenverantwortlich und auf eigenes wirtschaftliches Risiko – anders als Arbeitnehmer, die weisungsgebunden und in einen Betrieb eingegliedert sind. Das Steuerrecht unterscheidet zwei Gruppen: Freiberufler (§ 18 EStG) und Gewerbetreibende (§ 15 EStG). Je nachdem, welcher Gruppe Sie angehören, gelten unterschiedliche Anmeldepflichten, Steuerarten und Kammerzugehörigkeiten.</p><p>Diese Seite gibt einen Überblick über die ersten Schritte und verweist auf die vertiefenden Themen dieses Wegweisers.</p>",
+"schritte": [
+  {"titel": "Tätigkeit einordnen", "text": "Prüfen Sie, ob ein Katalogberuf oder ein diesem ähnlicher Beruf nach § 18 Abs. 1 Nr. 1 EStG vorliegt (z. B. Ärztin, Rechtsanwalt, Architektin, Journalistin, Dolmetscher) – dann sind Sie Freiberufler/in. Alles andere ist in der Regel Gewerbe (§ 15 EStG)."},
+  {"titel": "Gewerbe anmelden (nur Gewerbetreibende)", "text": "Freiberufler melden kein Gewerbe an. Gewerbetreibende zeigen die Aufnahme der Tätigkeit beim Gewerbeamt an – laut Gesetz „gleichzeitig“ mit Betriebsbeginn (§ 14 Abs. 1 GewO), in der Praxis also möglichst vor dem ersten Auftrag."},
+  {"titel": "Finanzamt informieren", "text": "Reichen Sie den Fragebogen zur steuerlichen Erfassung elektronisch über ELSTER ein – spätestens einen Monat nach Aufnahme der Tätigkeit (§ 138 Abs. 1 und Abs. 4 Abgabenordnung, AO)."},
+  {"titel": "Kammerzugehörigkeit klären", "text": "Gewerbetreibende werden automatisch Pflichtmitglied der IHK (§ 2 Abs. 1 IHKG) bzw. bei Eintragung in die Handwerksrolle der Handwerkskammer. Freiberufler ohne Handelsregistereintrag sind grundsätzlich nicht IHK-pflichtig (§ 2 Abs. 2 IHKG)."},
+  {"titel": "Sozialversicherung prüfen", "text": "Klären Sie Krankenversicherung, mögliche Rentenversicherungspflicht (§ 2 SGB VI) und – bei künstlerischer oder publizistischer Tätigkeit – die Künstlersozialversicherung. Die eigenen Themenseiten dieses Wegweisers vertiefen das."},
+  {"titel": "Status im Zweifel klären lassen", "text": "Bei Unsicherheit, ob eine Tätigkeit wirklich selbstständig ausgeübt wird, hilft das Statusfeststellungsverfahren der Clearingstelle der Deutschen Rentenversicherung Bund (§ 7a SGB IV) – siehe Thema Scheinselbstständigkeit."}
+],
+"fristen": [
+  {"wert": "gleichzeitig", "was": "Anzeige der Gewerbeaufnahme beim Gewerbeamt", "grundlage": "§ 14 Abs. 1 GewO"},
+  {"wert": "1 Monat", "was": "Fragebogen zur steuerlichen Erfassung beim Finanzamt einreichen", "grundlage": "§ 138 Abs. 1, Abs. 4 AO"}
+],
+"achtung": [
+  "Verwechslung von Freiberuf und Gewerbe: Eine falsche Einordnung kann zu Gewerbesteuer-Nachzahlungen oder einem Bußgeld wegen fehlender Gewerbeanmeldung führen.",
+  "Die oft kolportierte „Ein-Wochen-Frist“ für die Gewerbeanmeldung steht so nicht im Gesetz – § 14 GewO verlangt Anzeige „gleichzeitig“ mit Betriebsbeginn, in der Praxis also unverzüglich.",
+  "Verspätete Anmeldung beim Finanzamt (später als ein Monat) kann die Erteilung der Steuernummer verzögern.",
+  "Scheinselbstständigkeit wird oft erst bei einer Betriebsprüfung entdeckt – mit hohem Nachzahlungsrisiko für Auftraggeber und Auftragnehmer.",
+  "Krankenversicherung wird häufig erst verspätet geregelt, wodurch eine Lücke im Versicherungsschutz entstehen kann."
+],
+"fach_html": "<h3>Abgrenzung Freiberufler / Gewerbetreibende</h3><p>§ 18 Abs. 1 Nr. 1 EStG listet Katalogberufe (u. a. Ärzte, Rechtsanwälte, Steuerberater, Architekten, Journalisten, Dolmetscher) sowie diesen ähnliche Berufe; Voraussetzung ist meist eine besondere Qualifikation (Studium/Ausbildung) und eine leitende, eigenverantwortliche Tätigkeit auch beim Einsatz von Mitarbeitenden. Was kein Freiberuf und keine Land- und Forstwirtschaft ist, gilt als Gewerbebetrieb (§ 15 EStG).</p><h3>Abgrenzung Selbstständiger / Arbeitnehmer</h3><p>§ 7 Abs. 1 SGB IV definiert Beschäftigung als nichtselbstständige Arbeit, insbesondere in einem Arbeitsverhältnis; Anhaltspunkte sind Weisungsgebundenheit und Eingliederung in die Arbeitsorganisation des Auftraggebers. Entscheidend ist das Gesamtbild der tatsächlichen Verhältnisse, nicht die Vertragsbezeichnung. Klärung ist über das Statusfeststellungsverfahren nach § 7a SGB IV bei der Clearingstelle der Deutschen Rentenversicherung Bund möglich (seit 1.4.2022 nur noch Feststellung des Erwerbsstatus als Ganzes, keine Feststellung einzelner Versicherungszweige mehr).</p><h3>Kammerzugehörigkeit</h3><p>Gewerbetreibende sind kraft Gesetzes Pflichtmitglied der IHK (§ 2 IHKG); in die Handwerksrolle Eingetragene sind Pflichtmitglied der Handwerkskammer, ggf. zusätzlich der IHK für nicht-handwerkliche Anteile (§ 2 Abs. 3 IHKG). Viele IHKs gewähren Existenzgründerinnen und -gründern in den ersten Jahren Beitragsermäßigungen unterhalb bestimmter Umsatz- oder Gewinngrenzen – <strong>diese Grenzen sind nicht bundeseinheitlich, sondern regional in der jeweiligen Kammersatzung geregelt</strong>; im Einzelfall bei der zuständigen IHK erfragen.</p><h3>Sozialversicherungspflichten ausgewählter Gruppen</h3><p>§ 2 SGB VI ordnet bestimmte Gruppen von Selbstständigen kraft Gesetzes der Rentenversicherungspflicht zu (u. a. in die Handwerksrolle eingetragene Handwerker, selbstständige Lehrer und Erzieher ohne versicherungspflichtige Arbeitnehmer, Pflegepersonen, Künstler und Publizisten über die Künstlersozialversicherung). Es handelt sich um eine abschließende Aufzählung, keine allgemeine Pflicht für alle Selbstständigen. Für hauptberuflich Selbstständige besteht in der gesetzlichen Krankenversicherung in der Regel keine Pflichtversicherung; eine Fortsetzung als freiwillig Versichertem ist möglich (§ 9 SGB V). Vertiefend: eigene Themenseiten zu Krankenversicherung, Altersvorsorgepflicht und Künstlersozialkasse.</p>",
+"zustaendig": ["Gewerbeamt der Kommune (Gewerbeanmeldung)", "Finanzamt (steuerliche Erfassung)", "Zuständige IHK oder Handwerkskammer (Kammerpflichten)", "Deutsche Rentenversicherung Bund, Clearingstelle (Statusfeststellung)"],
+"belege": [
+  "§ 18 EStG, gesetze-im-internet.de/estg, abgerufen September 2026 – Freiberufliche Tätigkeit, Katalogberufe.",
+  "§ 14 GewO, gesetze-im-internet.de/gewo, abgerufen September 2026 – Anzeigepflicht „gleichzeitig“ mit Betriebsbeginn.",
+  "§ 138 Abs. 1, 4 AO, gesetze-im-internet.de/ao_1977, abgerufen September 2026 – Ein-Monats-Frist Finanzamt.",
+  "§ 2 IHKG, gesetze-im-internet.de/ihkg, abgerufen September 2026 – Pflichtmitgliedschaft, Ausnahme für Freiberufler ohne Handelsregistereintrag.",
+  "§ 7, § 7a SGB IV, gesetze-im-internet.de/sgb_4 – Abgrenzung Beschäftigung/Selbstständigkeit, Statusfeststellungsverfahren."
+],
+"siehe_auch": ["gruendungszuschuss-und-einstiegsgeld", "scheinselbststaendigkeit", "krankenversicherung-selbststaendige", "beratung-anlaufstellen-selbststaendige"],
+"stand": "Stand: September 2026"
+},
+
+{
+"id": "gruendungszuschuss-und-einstiegsgeld",
+"kategorie": "gruendung",
+"icon": "🚀",
+"titel": "Gründungszuschuss und Einstiegsgeld",
+"teaser": "Zwei Förderleistungen für den Start in die Selbstständigkeit – abhängig davon, ob Sie aus dem Arbeitslosengeld-I- oder dem Bezug von Grundsicherungsgeld (bis 30.6.2026 Bürgergeld) kommen.",
+"schlagworte": ["Gründungszuschuss", "§ 93 SGB III", "§ 94 SGB III", "Einstiegsgeld", "§ 16b SGB II", "§ 16c SGB II", "Fachkundige Stelle", "Ermessensleistung"],
+"kurz_html": "<p>Es gibt zwei unterschiedliche Förderleistungen für den Schritt in die Selbstständigkeit, je nachdem, aus welchem Leistungsbezug Sie kommen. Der Gründungszuschuss (§§ 93, 94 SGB III) richtet sich an Menschen im Bezug von Arbeitslosengeld I und wird von der Agentur für Arbeit gezahlt. Das Einstiegsgeld (§ 16b SGB II) richtet sich an Beziehende von Grundsicherungsgeld (bis 30.6.2026 Bürgergeld) und wird vom Jobcenter gezahlt. Beide sind Ermessensleistungen – es besteht kein Rechtsanspruch, auch wenn Sie alle formalen Voraussetzungen erfüllen.</p>",
+"schritte": [
+  {"titel": "Beratungstermin vereinbaren", "text": "Sprechen Sie vor Aufnahme der Selbstständigkeit mit der Agentur für Arbeit (Gründungszuschuss) bzw. dem Jobcenter (Einstiegsgeld). Der Antrag muss vor Beginn der Tätigkeit gestellt werden, nachträgliche Anträge sind ausgeschlossen."},
+  {"titel": "Tragfähigkeit nachweisen", "text": "Bereiten Sie für den Gründungszuschuss einen Businessplan, Kapitalbedarfs- und Finanzierungsplan sowie eine Rentabilitätsvorschau vor."},
+  {"titel": "Stellungnahme einholen (Gründungszuschuss)", "text": "Eine fachkundige Stelle – etwa IHK, Handwerkskammer, ein Fachverband oder ein Kreditinstitut – bestätigt die Tragfähigkeit Ihres Vorhabens (§ 93 Abs. 2 SGB III)."},
+  {"titel": "Antrag Phase 1 stellen", "text": "Reichen Sie den Antrag vor Aufnahme der Tätigkeit ein und warten Sie die Bewilligung ab."},
+  {"titel": "Antrag Phase 2 stellen (Gründungszuschuss)", "text": "Nach Ablauf der ersten sechs Monate stellen Sie einen gesonderten Antrag für die Anschlussförderung und weisen die tatsächliche Geschäftstätigkeit nach (§ 94 Abs. 2 SGB III)."},
+  {"titel": "Einstiegsgeld beim Jobcenter beantragen", "text": "Grundsicherungsgeld-Beziehende beantragen das Einstiegsgeld direkt beim Jobcenter; die Höhe wird nach der Einstiegsgeldverordnung anhand der Dauer der Arbeitslosigkeit und der Bedarfsgemeinschaft berechnet."}
+],
+"fristen": [
+  {"wert": "150 Tage", "was": "Mindest-Restanspruch auf Arbeitslosengeld I bei Aufnahme der Selbstständigkeit, Voraussetzung für den Gründungszuschuss", "grundlage": "§ 93 Abs. 2 Nr. 1 SGB III"},
+  {"wert": "24 Monate", "was": "Sperrfrist für eine erneute Förderung nach Ende einer vorherigen Gründungszuschuss-Förderung", "grundlage": "§ 93 SGB III"},
+  {"wert": "6 + 9 Monate", "was": "Förderdauer Gründungszuschuss: 6 Monate Phase 1 (letztes ALG I + 300 €/Monat), weitere 9 Monate Phase 2 (300 €/Monat) bei Nachweis der Geschäftstätigkeit", "grundlage": "§ 94 Abs. 1 und Abs. 2 SGB III"},
+  {"wert": "höchstens 24 Monate", "was": "Höchstdauer des Einstiegsgelds", "grundlage": "§ 16b Abs. 1 Satz 2 SGB II"}
+],
+"achtung": [
+  "Ein Antrag nach Aufnahme der Tätigkeit kommt zu spät – beide Leistungen müssen vor Beginn der Selbstständigkeit beantragt werden.",
+  "Der 150-Tage-Restanspruch wird am Tag der Gründung geprüft, nicht früher – planen Sie den genauen Zeitpunkt sorgfältig.",
+  "Der Antrag für Phase 2 des Gründungszuschusses wird oft vergessen: Es gibt keine automatische Verlängerung, ein gesonderter Antrag ist zwingend.",
+  "Beide Leistungen sind Ermessensleistungen – eine Ablehnung ist auch bei erfüllten formalen Voraussetzungen möglich.",
+  "Gründungszuschuss und Einstiegsgeld werden häufig verwechselt, obwohl sie unterschiedlichen Rechtskreisen (SGB III/Arbeitsagentur bzw. SGB II/Jobcenter) mit unterschiedlichen Voraussetzungen angehören."
+],
+"fach_html": "<h3>Rechtsnatur: Ermessensleistungen</h3><p>Sowohl der Gründungszuschuss als auch das Einstiegsgeld sind ausdrücklich „Kann“-Leistungen ohne Rechtsanspruch. Die Bundesagentur für Arbeit weist auf ihrer Website ausdrücklich darauf hin, dass kein Rechtsanspruch besteht.</p><h3>Fachkundige Stelle</h3><p>§ 93 Abs. 2 Nr. 2 SGB III nennt als fachkundige Stellen insbesondere Industrie- und Handelskammern, Handwerkskammern, berufsständische Kammern, Fachverbände und Kreditinstitute. Sie prüfen die Tragfähigkeit anhand von Businessplan und Rentabilitätsvorschau – eine Stellungnahme braucht Vorlauf, sollte also frühzeitig eingeholt werden.</p><h3>Unterschied der Rechtskreise</h3><p>Der Gründungszuschuss ist eine Versicherungsleistung der Arbeitslosenversicherung mit Voraussetzung eines ALG-I-Restanspruchs. Das Einstiegsgeld ist eine steuerfinanzierte Grundsicherungsleistung mit Voraussetzung der Hilfebedürftigkeit im Grundsicherungsgeld-Bezug; eine Mindestrestanspruchsdauer wie beim ALG I gibt es hier nicht.</p><h3>Ergänzendes Instrument: § 16c SGB II</h3><p>Für bereits bestehende Selbstständige im Grundsicherungsgeld-Bezug gibt es zusätzlich „Leistungen zur Eingliederung von Selbstständigen“ (§ 16c SGB II) – etwa Zuschüsse oder Darlehen für notwendige Sachgüter sowie Coaching. Das ist keine Gründungsförderung, sondern eine separate, ergänzende Leistung. Ein in Sekundärquellen genannter Höchstbetrag von rund 5.000 € für Sachleistungen konnte in der Recherche nicht am Gesetzestext selbst verifiziert werden und ist daher als <strong>nicht abschließend bestätigt</strong> zu behandeln.</p><h3>Höhe des Einstiegsgelds</h3><p>Die genaue Höhe ist nicht im Gesetzestext selbst beziffert, sondern wird per Einstiegsgeldverordnung anhand der Dauer der Arbeitslosigkeit und der Bedarfsgemeinschaftsgröße bestimmt (Verordnungsermächtigung in § 16b Abs. 3 SGB II). Die Bundesagentur für Arbeit nennt auf ihrer Website als Praxisangabe „höchstens 50 Prozent des maßgebenden Regelbedarfs“ – dies ist eine Verwaltungsangabe und <strong>keine wörtliche Gesetzesformulierung</strong>; der genaue Verordnungstext wurde in dieser Recherche nicht im Volltext geprüft.</p>",
+"zustaendig": ["Örtliche Agentur für Arbeit (Gründungszuschuss)", "Örtliches Jobcenter (Einstiegsgeld, § 16c SGB II)"],
+"belege": [
+  "§ 93 SGB III, gesetze-im-internet.de/sgb_3, abgerufen September 2026.",
+  "§ 94 SGB III, gesetze-im-internet.de/sgb_3, abgerufen September 2026.",
+  "§ 16b SGB II, gesetze-im-internet.de/sgb_2, abgerufen September 2026.",
+  "arbeitsagentur.de, Merkblatt Gründungszuschuss und Merkblatt Einstiegsgeld, abgerufen September 2026.",
+  "§ 16c SGB II – Höchstbetrag Sachleistungen nur sekundärquellen-gestützt, nicht am Gesetzestext verifiziert."
+],
+"siehe_auch": ["ueberblick-rechte-selbststaendige", "buergergeld-bei-selbststaendigkeit", "beratung-anlaufstellen-selbststaendige"],
+"stand": "Stand: September 2026"
+},
+
+{
+"id": "krankenversicherung-selbststaendige",
+"kategorie": "sozialversicherung",
+"icon": "🏥",
+"titel": "Krankenversicherung für Selbstständige",
+"teaser": "Hauptberuflich selbstständig bedeutet: keine automatische Pflichtversicherung. Was das für Ihre Wahl zwischen freiwilliger GKV und PKV bedeutet.",
+"schlagworte": ["§ 5 SGB V", "Hauptberuflich selbstständig", "§ 9 SGB V", "Freiwillige Versicherung", "§ 240 SGB V", "Mindestbemessungsgrundlage", "Basistarif", "§ 152 VAG", "GKV-Versichertenentlastungsgesetz"],
+"kurz_html": "<p>Als Selbstständige/r sind Sie in Deutschland nicht automatisch in der gesetzlichen Krankenversicherung (GKV) pflichtversichert – aber nur, wenn Ihre Selbstständigkeit „hauptberuflich“ ausgeübt wird. Hauptberuflich Selbstständige müssen sich privat oder freiwillig gesetzlich versichern und tragen den Beitrag vollständig allein. Nebenberuflich Selbstständige, deren Haupttätigkeit ein sozialversicherungspflichtiges Angestelltenverhältnis ist, bleiben regulär pflichtversichert und zahlen ggf. zusätzliche Beiträge auf den Nebenverdienst.</p>",
+"schritte": [
+  {"titel": "Hauptberuflichkeit prüfen", "text": "Ihre Selbstständigkeit ist hauptberuflich, wenn sie nach wirtschaftlicher Bedeutung und Zeitaufwand jede andere Tätigkeit übersteigt und den Mittelpunkt Ihrer Erwerbstätigkeit bildet."},
+  {"titel": "Zwischen GKV und PKV wählen", "text": "Bei hauptberuflicher Selbstständigkeit haben Sie die Wahl zwischen freiwilliger gesetzlicher Versicherung (§ 9 SGB V) und privater Krankenversicherung."},
+  {"titel": "Beitritt fristgerecht anzeigen", "text": "Zeigen Sie den Beitritt zur freiwilligen Versicherung innerhalb von drei Monaten nach Ausscheiden aus der Pflichtversicherung bei Ihrer Krankenkasse an (§ 9 Abs. 2 SGB V), um Vorversicherungszeiten zu sichern."},
+  {"titel": "Einkommen nachweisen", "text": "Reichen Sie Ihren Steuerbescheid oder eine vorläufige Schätzung bei der Krankenkasse ein – Grundlage für die Beitragsbemessung nach § 240 SGB V."},
+  {"titel": "Bei PKV: Tarif wählen", "text": "Prüfen Sie bei Vorerkrankungen den Basistarif mit Kontrahierungszwang und auf GKV-Niveau gedeckeltem Höchstbeitrag (§ 152 VAG)."},
+  {"titel": "Statuswechsel melden", "text": "Melden Sie der Krankenkasse Änderungen wie die Einstellung von Personal – das kann die gesetzliche Vermutung der Hauptberuflichkeit auslösen."}
+],
+"fristen": [
+  {"wert": "3 Monate", "was": "Frist zur Anzeige des Beitritts zur freiwilligen Versicherung, um Vorversicherungszeiten anzurechnen", "grundlage": "§ 9 Abs. 2 SGB V"},
+  {"wert": "24 von 60 Monaten oder 12 Monate ununterbrochen", "was": "Erforderliche Vorversicherungszeit für das Beitrittsrecht zur freiwilligen Versicherung", "grundlage": "§ 9 Abs. 1 Nr. 1 SGB V"}
+],
+"achtung": [
+  "Verwechslung „hauptberuflich“ vs. „nebenberuflich“: Seit dem 23. Juli 2015 gilt eine gesetzliche Vermutung – wer regelmäßig mindestens eine Arbeitnehmerin oder einen Arbeitnehmer mehr als geringfügig beschäftigt, gilt vermutet als hauptberuflich selbstständig (§ 5 Abs. 5 Satz 2 SGB V); diese Vermutung muss aktiv widerlegt werden.",
+  "Ein verspäteter Beitritt zur freiwilligen Versicherung führt zum Verlust der Anrechnung von Vorversicherungszeiten.",
+  "Ein Wechsel in die PKV ist im Alter oder bei Vorerkrankungen kaum rückgängig zu machen – eine automatische Rückkehr in die GKV bei fortbestehender hauptberuflicher Selbstständigkeit gibt es nicht.",
+  "Wer der Krankenkasse keinen Einkommensnachweis liefert, wird auf Basis der Beitragsbemessungsgrenze eingestuft – nicht der niedrigeren Mindestbemessungsgrundlage.",
+  "Das frühere „Existenzgründerprivileg“ (zeitlich befristeter ermäßigter Mindestbeitrag nur für die ersten Jahre) wurde zum 1. Januar 2019 durch das GKV-Versichertenentlastungsgesetz abgeschafft. Seither gilt die niedrigere allgemeine Mindestbemessungsgrundlage unbefristet für alle hauptberuflich Selbstständigen – nicht nur befristet für Gründerinnen und Gründer."
+],
+"fach_html": "<h3>Rechtsgrundlagen</h3><p>§ 5 Abs. 1 Nr. 1 i. V. m. Abs. 5 SGB V schließt hauptberuflich Selbstständige von der Pflichtversicherung als Beschäftigte aus. § 9 SGB V regelt die freiwillige Versicherung samt Drei-Monats-Anzeigefrist. § 240 SGB V regelt die Beitragsbemessung freiwillig Versicherter; nach Absatz 4 gilt eine Mindesteinnahme von einem Neunzigstel der monatlichen Bezugsgröße pro Kalendertag (rechnerisch etwa ein Drittel der monatlichen Bezugsgröße pro Monat). § 152 VAG regelt den PKV-Basistarif mit Kontrahierungszwang und einem auf den GKV-Höchstbeitrag gedeckelten Beitrag.</p><h3>Zahlen zur Mindestbemessungsgrundlage</h3><p>Der konkrete Eurobetrag der Mindestbemessungsgrundlage für freiwillig Versicherte ändert sich jährlich mit der Bezugsgröße. Ein häufig genannter Richtwert für 2026 liegt bei rund 1.318 Euro monatlich – <strong>dieser Wert stammt aus Sekundärquellen (Berechnung anhand der Bezugsgröße) und wurde nicht direkt an einer GKV-Spitzenverband-Veröffentlichung für 2026 verifiziert</strong>. Die Berechnungsformel selbst (ein Neunzigstel der Bezugsgröße pro Tag) ist dagegen am Gesetzestext bestätigt. Ebenso wird für den PKV-Basistarif-Höchstbeitrag 2026 ein Richtwert von rund 1.017 Euro monatlich kolportiert, ebenfalls nur sekundärquellen-gestützt.</p><h3>Reformgeschichte</h3><p>Bis zum 31. Dezember 2018 galt für hauptberuflich Selbstständige eine höhere spezielle Mindestbemessungsgrundlage sowie ein separates, niedrigeres Existenzgründerprivileg, das nur für die ersten drei Jahre der Selbstständigkeit galt. Das GKV-Versichertenentlastungsgesetz hat zum 1.1.2019 beide Regelungen vereinheitlicht: Seither gilt die niedrigere allgemeine Mindestbemessungsgrundlage unbefristet für alle hauptberuflich Selbstständigen.</p><h3>Praxis für Beratungsfachkräfte</h3><p>Bei unklaren Mischformen (hauptberuflich vs. nebenberuflich) empfiehlt sich eine Einzelfallprüfung durch die Krankenkasse. Die Deutsche Rentenversicherung Knappschaft-Bahn-See (KBS) veröffentlicht einen Kriterienkatalog „Grundsätzliche Hinweise zum Begriff der hauptberuflichen Selbstständigkeit“. Der GKV-Spitzenverband konkretisiert § 240 SGB V bundeseinheitlich in den „Beitragsverfahrensgrundsätzen Selbstzahler“ – ein wichtiges Referenzdokument für die Beratung.</p><h3>Ab 1. Januar 2027</h3><p>Beitragsbemessungsgrenze (Kranken- und Pflegeversicherung): Nach dem GKV-Beitragssatzstabilisierungsgesetz (Gesetz vom 24.7.2026, BGBl. 2026 I Nr. 228, ausgegeben 29.7.2026; Art. 1 Nr. 5 (§ 6 SGB V) gilt ab 1.1.2027; Art. 1 Nr. 61 (§ 223 SGB V) seit 30.7.2026, wirkt für das Jahr 2027) wird die Jahresarbeitsentgeltgrenze für 2027 zusätzlich um 3.600 Euro erhöht (§ 6 Abs. 6 SGB V neu), und die Beitragsbemessungsgrenze 2027 entspricht der um 3.600 Euro erhöhten Jahresarbeitsentgeltgrenze nach § 6 Abs. 7 SGB V (§ 223 Abs. 4 SGB V neu); 3.600 Euro im Jahr entsprechen 300 Euro im Monat. Die Bundesregierung setzt die Beträge in der Rechtsverordnung nach § 160 SGB VI fest; diese Verordnung lag nicht vor, daher werden hier keine 2027-Zahlen genannt. Für privat Vollversicherte, die am 31.12.2026 wegen Überschreitens der Grenze versicherungsfrei waren, wird die Jahresarbeitsentgeltgrenze 2027 nicht erhöht (§ 6 Abs. 8; die Ausnahme gilt kumulativ: am 31.12.2026 versicherungsfrei wegen Überschreitens der Jahresarbeitsentgeltgrenze und bei einem privaten Krankenversicherungsunternehmen substitutiv versichert).</p>",
+"zustaendig": ["Jeweilige gesetzliche Krankenkasse", "GKV-Spitzenverband (bundeseinheitliche Auslegung § 240 SGB V)", "Deutsche Rentenversicherung Knappschaft-Bahn-See (Abgrenzung Hauptberuflichkeit)", "Private Krankenversicherer, Aufsicht durch die BaFin"],
+"belege": [
+  "§ 5 SGB V, gesetze-im-internet.de/sgb_5, abgerufen September 2026.",
+  "§ 9 SGB V, gesetze-im-internet.de/sgb_5, abgerufen September 2026.",
+  "§ 240 SGB V, gesetze-im-internet.de/sgb_5, abgerufen September 2026.",
+  "§ 152 VAG, gesetze-im-internet.de/vag_2016 – Inhalt über Sekundärquellen bestätigt, nicht vollständig im Volltext gegengelesen.",
+  "GKV-Spitzenverband, „Einheitliche Grundsätze zur Beitragsbemessung freiwilliger Mitglieder“, gkv-spitzenverband.de.",
+  "Bundesministerium für Gesundheit, Informationen zum GKV-Versichertenentlastungsgesetz, bundesgesundheitsministerium.de.",
+  "Mindestbemessungsgrundlage 2026 (rund 1.318 €) und PKV-Basistarif-Höchstbeitrag (rund 1.017 €) – nicht abschließend primärquellen-verifiziert, siehe Quellen und Methodik.", "Bundesgesetzblatt 2026 I Nr. 228 (GKV-Beitragssatzstabilisierungsgesetz), recht.bund.de, abgerufen 21.09.2026"
+],
+"siehe_auch": ["altersvorsorgepflicht-selbststaendige", "krankheit-und-lohnersatz-selbststaendige", "kuenstlersozialkasse"],
+"stand": "Stand: September 2026"
+},
+
+{
+"id": "altersvorsorgepflicht-selbststaendige",
+"kategorie": "sozialversicherung",
+"icon": "👵",
+"titel": "Rentenversicherungspflicht und geplante Altersvorsorgepflicht",
+"teaser": "Manche Selbstständige sind schon heute rentenversicherungspflichtig. Eine allgemeine Altersvorsorgepflicht für alle wird diskutiert – ist aber noch nicht beschlossen.",
+"schlagworte": ["§ 2 SGB VI", "Rentenversicherungspflicht", "Arbeitnehmerähnliche Selbstständige", "§ 6 SGB VI", "Existenzgründerbefreiung", "Handwerksrolle", "Altersvorsorgepflicht", "Alterssicherungskommission"],
+"kurz_html": "<p>Schon heute sind bestimmte Gruppen von Selbstständigen gesetzlich rentenversicherungspflichtig – etwa Lehrende und Erziehende ohne eigene versicherungspflichtige Mitarbeitende, Pflegepersonen, Hebammen, Küstenschiffer, in die Handwerksrolle eingetragene Handwerker sowie „arbeitnehmerähnliche“ Selbstständige mit nur einem Auftraggeber. Eine allgemeine Altersvorsorgepflicht für <strong>alle</strong> Selbstständigen gibt es Stand September 2026 noch <strong>nicht</strong> als geltendes Recht – sie wird seit Jahren diskutiert und befindet sich derzeit in einer politischen, aber noch nicht abgeschlossenen Gesetzgebungsphase.</p>",
+"schritte": [
+  {"titel": "Fallgruppe prüfen", "text": "Prüfen Sie, ob Ihre Tätigkeit unter eine der neun in § 2 Satz 1 SGB VI abschließend genannten Fallgruppen fällt."},
+  {"titel": "Handwerker: Handwerksrolle prüfen", "text": "Bei handwerklicher Tätigkeit (§ 2 Satz 1 Nr. 8 SGB VI) prüfen Sie, ob eine Eintragung in die Handwerksrolle vorliegt und die persönlichen Voraussetzungen erfüllt sind."},
+  {"titel": "Ein-Auftraggeber-Regel prüfen", "text": "Bei arbeitnehmerähnlicher Selbstständigkeit (Nr. 9) prüfen Sie, ob Sie dauerhaft im Wesentlichen nur für einen Auftraggeber tätig sind und keine versicherungspflichtigen Arbeitnehmer beschäftigen."},
+  {"titel": "Befreiung für Existenzgründer beantragen", "text": "Für Fälle der Nummer 9 ist eine Befreiung für bis zu drei Jahre ab erstmaliger Aufnahme der Tätigkeit möglich (§ 6 Abs. 1a SGB VI), wiederholbar bei einer zweiten echten Neugründung."},
+  {"titel": "Handwerker: 18-Jahres-Befreiung prüfen", "text": "Nach 18 Jahren (216 Monaten) Pflichtbeiträgen können Handwerker einen Befreiungsantrag stellen (§ 6 Abs. 1 Satz 1 Nr. 4 i. V. m. Abs. 4 SGB VI)."},
+  {"titel": "Im Zweifel Statusfeststellung beantragen", "text": "Bei Unklarheiten prüft die Deutsche Rentenversicherung den Status im Statusfeststellungsverfahren (§ 7a SGB IV)."}
+],
+"fristen": [
+  {"wert": "3 Monate", "was": "Rückwirkende Befreiung von der Rentenversicherungspflicht (Existenzgründer- bzw. 18-Jahres-Befreiung) nur bei Antrag innerhalb dieser Frist ab Erfüllung der Voraussetzungen, sonst erst ab Antragstellung", "grundlage": "§ 6 Abs. 4 SGB VI"},
+  {"wert": "bis zu 3 Jahre", "was": "Dauer der Existenzgründerbefreiung für arbeitnehmerähnliche Selbstständige mit nur einem Auftraggeber", "grundlage": "§ 6 Abs. 1a SGB VI"},
+  {"wert": "offen", "was": "Für eine mögliche allgemeine Altersvorsorgepflicht existieren noch keine gesetzlichen Fristen, da kein Gesetz verabschiedet ist", "grundlage": "kein geltendes Recht, Stand September 2026"}
+],
+"achtung": [
+  "Die neun Fallgruppen des § 2 SGB VI sind eine abschließende Liste bereits bestehender Pflichten – es handelt sich nicht um eine allgemeine Pflicht für alle Selbstständigen.",
+  "Schon ein zweiter nennenswerter Auftraggeber kann die Ein-Auftraggeber-Voraussetzung nach Nummer 9 entfallen lassen – ein solcher Statuswechsel wird oft nicht rechtzeitig gemeldet.",
+  "Handwerker vergessen häufig, nach 18 Jahren die Befreiungsmöglichkeit zu beantragen und zahlen ohne Not weiter – ein Automatismus gibt es nicht.",
+  "Vorsicht bei der Aussage „die Rentenpflicht für Selbstständige kommt 2027“: Stand September 2026 ist das Gesetzgebungsverfahren nicht abgeschlossen, es liegt nur ein politischer Fahrplan vor.",
+  "Nicht verwechseln: Die Existenzgründerbefreiung nach § 6 Abs. 1a SGB VI (Rentenrecht, nur für Fälle der Nummer 9) ist etwas anderes als das frühere Krankenversicherungs-Existenzgründerprivileg, das es seit 2019 nicht mehr gibt (siehe Thema Krankenversicherung)."
+],
+"fach_html": "<h3>Bestehende Pflicht nach § 2 Satz 1 SGB VI</h3><p>Nr. 1 Lehrer/Erzieher ohne versicherungspflichtige Arbeitnehmer; Nr. 2 Pflegepersonen ohne versicherungspflichtige Arbeitnehmer; Nr. 3 Hebammen und Entbindungspfleger; Nr. 4 Seelotsen; Nr. 5 Künstler und Publizisten nach dem KSVG (siehe eigenes Thema Künstlersozialkasse); Nr. 6 Hausgewerbetreibende; Nr. 7 Küstenschiffer und -fischer mit höchstens vier Arbeitnehmern; Nr. 8 in die Handwerksrolle eingetragene Handwerker mit persönlichen Eintragungsvoraussetzungen; Nr. 9 arbeitnehmerähnliche Selbstständige (kein versicherungspflichtiger Arbeitnehmer und im Wesentlichen dauerhaft nur ein Auftraggeber).</p><h3>Befreiungstatbestände nach § 6 SGB VI</h3><p>Absatz 1a ermöglicht eine Existenzgründerbefreiung von bis zu drei Jahren, wiederholbar bei einer zweiten echten Neugründung, nur für Fälle der Nummer 9. Absatz 1 Satz 1 Nummer 4 in Verbindung mit Absatz 4 regelt die Befreiungsmöglichkeit nach 18 Jahren Pflichtbeiträgen, relevant insbesondere für Handwerker nach Nummer 8.</p><h3>Status der geplanten allgemeinen Altersvorsorgepflicht (Stand 17.09.2026) – ausdrücklich als offen zu behandeln</h3><p>Die Alterssicherungskommission legte am 23. Juni 2026 ihren Abschlussbericht mit 33 Empfehlungen vor. Der Koalitionsausschuss beschloss am 2. Juli 2026, die Empfehlungen „vollständig und zügig“ umzusetzen, mit dem Ziel, das Gesetzgebungsverfahren bis Ende 2026 abzuschließen. Nach einer laut der Bundesregierungs-FAQ vom 2. Juli 2026 wiedergegebenen Kernempfehlung sollen Selbstständige, die anderweitig nicht pflichtversichert sind, ab einem noch zu definierenden Stichtag ohne Opt-out-Möglichkeit einbezogen werden, während für bereits bestehende Selbstständige ein Opt-out per Erklärung möglich sein soll. <strong>Diese Aussage zum Opt-out für Bestandsselbstständige stammt aus einer Sekundärquelle (Verband der Gründer und Selbstständigen Deutschland, VGSD) und wurde nicht am Wortlaut der Kommissionsempfehlung selbst verifiziert.</strong></p><p><strong>Ausdrücklich nicht bestätigt sind:</strong> der genaue Stichtag der Einbeziehung, ein etwaiges Wahlrecht zwischen gesetzlicher und privater Vorsorge für Neu-Selbstständige, mögliche Freigrenzen für Kleinstselbstständige sowie konkrete Übergangsfristen für Bestandsselbstständige. Diese Website stellt die Reform daher bewusst als „im politischen Umsetzungsprozess befindlich, Gesetzgebungsverfahren noch nicht abgeschlossen“ dar und nennt keine der genannten Details als geltendes Recht.</p>",
+"zustaendig": ["Deutsche Rentenversicherung (Statusfeststellung, Befreiungsanträge, Beitragspflicht, je nach Berufsgruppe unterschiedlicher Träger)", "Bundesministerium für Arbeit und Soziales (Gesetzgebungsverfahren Rentenreform)", "Handwerkskammern (Eintragung in die Handwerksrolle)"],
+"belege": [
+  "§ 2 SGB VI, gesetze-im-internet.de/sgb_6, abgerufen September 2026.",
+  "§ 6 SGB VI (Abs. 1a, Abs. 4) – Inhalt über mehrere Fachquellen bestätigt, nicht in dieser Recherche direkt bei gesetze-im-internet.de im Volltext gegengelesen.",
+  "Deutsche Rentenversicherung, Lexikonbeitrag „Selbständige mit nur einem Auftraggeber“, deutsche-rentenversicherung.de.",
+  "Bundesregierung, FAQ Rentenreform, bundesregierung.de, veröffentlicht 02.07.2026.",
+  "Verband der Gründer und Selbstständigen Deutschland e. V. (VGSD), Einordnung der Empfehlungen der Alterssicherungskommission – als Sekundärquelle gekennzeichnet.",
+  "Status der Reform zur Altersvorsorgepflicht: keine der genannten Details (Stichtag, Opt-out-Ausgestaltung, Freigrenzen, Übergangsfristen) ist Stand September 2026 amtlich abschließend bestätigt – siehe Quellen und Methodik."
+],
+"siehe_auch": ["krankenversicherung-selbststaendige", "kuenstlersozialkasse", "scheinselbststaendigkeit"],
+"stand": "Stand: September 2026"
+},
+
+{
+"id": "kuenstlersozialkasse",
+"kategorie": "sozialversicherung",
+"icon": "🎨",
+"titel": "Künstlersozialkasse (KSK)",
+"teaser": "Für selbstständige Künstler und Publizisten: halbierte Sozialversicherungsbeiträge über die Künstlersozialkasse – und was Auftraggeber melden müssen.",
+"schlagworte": ["Künstlersozialkasse", "KSVG", "§ 3 KSVG", "§ 24 KSVG", "Künstlersozialabgabe", "Verwerter", "Betriebsprüfung", "§ 28p SGB IV"],
+"kurz_html": "<p>Die Künstlersozialkasse (KSK) ermöglicht selbstständigen Künstlerinnen, Künstlern und Publizistinnen und Publizisten den Zugang zur gesetzlichen Kranken-, Pflege- und Rentenversicherung zu arbeitnehmerähnlichen Konditionen: Sie zahlen nur die Hälfte des Beitrags selbst, die andere Hälfte kommt aus der Künstlersozialabgabe der verwertenden Unternehmen und einem Bundeszuschuss. Grundlage ist das Künstlersozialversicherungsgesetz (KSVG). Unternehmen, die Werke oder Leistungen selbstständiger Künstler und Publizisten verwerten, müssen sich bei der KSK melden und die Künstlersozialabgabe zahlen.</p>",
+"schritte": [
+  {"titel": "Versicherungspflicht prüfen", "text": "Künstlerische oder publizistische Selbstständigkeit mit einem Einkommen von in der Regel mindestens 3.900 Euro im Jahr begründet die Versicherungspflicht (§ 3 KSVG); die Grenze entfällt in der Berufsanfängerphase der ersten drei Jahre."},
+  {"titel": "Aufnahmeantrag stellen", "text": "Beantragen Sie die Aufnahme bei der KSK mit Nachweis der künstlerischen/publizistischen Tätigkeit und einer Einkommensprognose."},
+  {"titel": "Versicherung wird eingerichtet", "text": "Die KSK meldet Sie bei der gewählten Krankenkasse und der Rentenversicherung an und zieht Ihren Beitragsanteil ein."},
+  {"titel": "Verwerter melden sich", "text": "Unternehmen, die typischerweise Aufträge an selbstständige Künstler oder Publizisten vergeben, müssen sich unaufgefordert bei der KSK anmelden (§ 24 KSVG)."},
+  {"titel": "Jahresmeldung der Entgelte", "text": "Verwerter melden jährlich die an Künstler und Publizisten gezahlten Entgelte und zahlen darauf die Künstlersozialabgabe."},
+  {"titel": "Auf Betriebsprüfung vorbereitet sein", "text": "Bei einer Betriebsprüfung durch die Deutsche Rentenversicherung müssen Nachweise zu allen Zahlungen an Selbstständige bereitgehalten werden, auch rückwirkend."}
+],
+"fristen": [
+  {"wert": "unverzüglich", "was": "Meldepflicht abgabepflichtiger Verwerter bei der KSK nach Aufnahme der abgabepflichtigen Tätigkeit", "grundlage": "§ 24 KSVG"},
+  {"wert": "erste 3 Jahre", "was": "Berufsanfängerphase: Mindesteinkommensgrenze von 3.900 €/Jahr gilt in dieser Zeit nicht", "grundlage": "§ 3 KSVG"},
+  {"wert": "mind. alle 4 Jahre", "was": "Turnus der Betriebsprüfung durch die Deutsche Rentenversicherung bei größeren Arbeitgebern; bei kleineren Arbeitgebern mindestens 40 % Prüfquote", "grundlage": "§ 28p SGB IV"}
+],
+"achtung": [
+  "Unternehmen glauben oft, nur „Kunst- und Medienbetriebe“ seien abgabepflichtig – tatsächlich erfasst § 24 KSVG auch „Eigenwerber“, also Unternehmen, die für eigene Zwecke werben und dafür selbstständige Künstler oder Publizisten beauftragen.",
+  "Eine Bagatellgrenze für gelegentliche Auftragsvergaben wird oft fälschlich als generelle Freigrenze für alle Verwerter missverstanden – sie gilt nicht für Kernverwerter wie Verlage, Galerien oder Werbeagenturen, die grundsätzlich immer abgabepflichtig sind.",
+  "Wer sich erst bei einer Prüfung durch die Deutsche Rentenversicherung meldet, riskiert Nachzahlungen über mehrere Jahre samt möglicher Säumniszuschläge.",
+  "Künstler unterschätzen oft die dauerhafte Prüfung der Mindesteinkommensgrenze: Wird sie außerhalb der Berufsanfängerphase dauerhaft unterschritten, droht der Ausschluss aus der Versicherungspflicht.",
+  "Die KSK-Betriebsprüfung zur Abgabepflicht wird häufig mit einer allgemeinen Scheinselbstständigkeits-Prüfung verwechselt – beide können im Rahmen derselben Prüfung durch die Deutsche Rentenversicherung parallel laufen, betreffen aber unterschiedliche Rechtsfragen."
+],
+"fach_html": "<h3>Rechtsgrundlagen</h3><p>§ 1 KSVG begründet den Grundsatz der Einbeziehung selbstständiger Künstler und Publizisten in die Sozialversicherung. § 3 KSVG regelt die Mindesteinkommensgrenze von 3.900 Euro im Jahr (325 Euro im Monat) mit Ausnahme für Berufsanfänger. § 24 KSVG bestimmt den abgabepflichtigen Personenkreis (u. a. Theater, Orchester, Chöre, Konzert- und Gastspieldirektionen, Ausbildungseinrichtungen für künstlerische/publizistische Tätigkeiten sowie Eigenwerbung betreibende Unternehmen mit nicht nur gelegentlicher Beauftragung Selbstständiger). § 25 KSVG regelt die Bemessungsgrundlage der Abgabe, § 35 KSVG das eigene Prüfrecht der KSK ergänzend zur Regelprüfung durch die Deutsche Rentenversicherung nach § 28p SGB IV.</p><h3>Aktueller Abgabesatz</h3><p>Für 2026 beträgt die Künstlersozialabgabe <strong>4,9 Prozent</strong> (Rückgang von 5,0 Prozent im Jahr 2025) – dieser Wert ist über eine Mitteilung der Künstlersozialkasse vom 29. Juli 2025 und die im Bundesgesetzblatt veröffentlichte Künstlersozialabgabe-Verordnung 2026 primärquellen-bestätigt.</p><p>Eine Bagatellgrenze für gelegentliche Auftragsvergaben von 1.000 Euro im Jahr wird ab 2026 kolportiert – <strong>dieser Wert stammt aus Sekundärquellen (u. a. Industrie- und Handelskammern) und wurde nicht direkt am KSVG-Paragrafentext verifiziert</strong>.</p><h3>Praxis für Beratungsfachkräfte</h3><p>Bei einer Betriebsprüfung sollten alle Rechnungen und Zahlungen an selbstständige natürliche Personen mit künstlerischem oder publizistischem Bezug rückwirkend dokumentiert werden – auch wenn die Leistung ursprünglich nicht als „Kunst“ eingestuft wurde, etwa Grafikdesign, Texterstellung oder Fotografie für Werbezwecke. Die Informationsschriften der KSK sind die praxisnächste Quelle für Verwerterpflichten und den Prüfablauf.</p>",
+"zustaendig": ["Künstlersozialkasse (KSK), angegliedert an die Deutsche Rentenversicherung Oldenburg-Bremen", "Deutsche Rentenversicherung (Regelprüfung der Abgabepflicht im Rahmen der Betriebsprüfung, § 28p SGB IV)", "Bundesministerium für Arbeit und Soziales (jährliche Künstlersozialabgabe-Verordnung)"],
+"belege": [
+  "KSVG, §§ 1, 3, 24, 25, 35, gesetze-im-internet.de/ksvg, abgerufen September 2026.",
+  "kuenstlersozialkasse.de, Meldung vom 29.07.2025 zum Abgabesatz 2026 (4,9 %).",
+  "kuenstlersozialkasse.de, Informationsschriften Nr. 5 (Eigenwerber) und Nr. 18 (Betriebsprüfungen).",
+  "§ 28p SGB IV – Inhalt über Sekundärquellen bestätigt, nicht einzeln bei gesetze-im-internet.de im Volltext gegengelesen.",
+  "Bagatellgrenze 1.000 €/Jahr ab 2026 – nur sekundärquellen-gestützt, nicht am KSVG-Paragrafentext selbst verifiziert."
+],
+"siehe_auch": ["altersvorsorgepflicht-selbststaendige", "krankenversicherung-selbststaendige", "scheinselbststaendigkeit"],
+"stand": "Stand: September 2026"
+},
+
+{
+"id": "steuern-und-vorauszahlungen",
+"kategorie": "steuern-finanzen",
+"icon": "💶",
+"titel": "Steuern und Vorauszahlungen",
+"teaser": "Einkommensteuer-Vorauszahlungen, Umsatzsteuer-Voranmeldung und Gewerbesteuer: die wiederkehrenden Steuertermine im Überblick.",
+"schlagworte": ["§ 37 EStG", "Einkommensteuer-Vorauszahlung", "§ 18 UStG", "Umsatzsteuer-Voranmeldung", "Dauerfristverlängerung", "§ 19 UStG", "Kleinunternehmerregelung", "Gewerbesteuer-Vorauszahlung", "§ 19 GewStG"],
+"kurz_html": "<p>Als Selbstständige/r zahlen Sie Einkommensteuer nicht erst bei Abgabe der Steuererklärung, sondern unterjährig in vier Vorauszahlungen ans Finanzamt. Zusätzlich müssen Sie – je nach Umsatz – monatlich oder vierteljährlich Umsatzsteuer voranmelden und abführen, sofern Sie nicht die Kleinunternehmerregelung nutzen. Gewerbetreibende zahlen zusätzlich vierteljährlich Gewerbesteuer-Vorauszahlungen ans Finanzamt, die es an die Gemeinde weiterleitet. Wer schwankende Gewinne hat, sollte aktiv Rücklagen bilden und Vorauszahlungen anpassen lassen, statt Nachzahlungen zu riskieren.</p>",
+"schritte": [
+  {"titel": "Vorauszahlungen werden festgesetzt", "text": "Das Finanzamt setzt die Einkommensteuer-Vorauszahlungen nach der ersten Veranlagung oder – bei Gründung – nach Schätzung per Bescheid fest (§ 37 Abs. 3 EStG)."},
+  {"titel": "Termine einhalten", "text": "Zahlen Sie jeweils zum 10.3., 10.6., 10.9. und 10.12. (§ 37 Abs. 1 Satz 1 EStG)."},
+  {"titel": "Bei Gewinneinbruch Herabsetzung beantragen", "text": "Stellen Sie bei sinkendem Gewinn einen formlosen Antrag auf Herabsetzung beim Finanzamt, begründet mit einer Prognose und aktuellen Zwischenzahlen (§ 37 Abs. 3 EStG)."},
+  {"titel": "Umsatzsteuer voranmelden", "text": "Melden Sie die Umsatzsteuer elektronisch über ELSTER bis zum 10. Tag nach Ablauf des Voranmeldungszeitraums an (§ 18 Abs. 1 UStG); die Zahlung ist zeitgleich fällig."},
+  {"titel": "Voranmeldungszeitraum bestimmen", "text": "Bei einer Vorjahressteuer über 9.000 € melden Sie monatlich, bei höchstens 2.000 € ist eine Befreiung möglich, sonst gilt vierteljährlich (§ 18 Abs. 2 UStG); die automatische monatliche Meldepflicht für Neugründer im Gründungs- und Folgejahr (§ 18 Abs. 2 Satz 4 UStG) ist für die Besteuerungszeiträume 2021 bis 2026 ausgesetzt (BMF-Schreiben nach § 18 Abs. 2 Satz 6 UStG), sodass für Neugründer bis auf Weiteres dieselbe Regel gilt wie für bestehende Unternehmen – vierteljährlich, außer die hochgerechnete Jahressteuer übersteigt 9.000 €. Ob die Aussetzung über 2026 hinaus verlängert wird, sollte für 2027 erneut geprüft werden."},
+  {"titel": "Dauerfristverlängerung beantragen", "text": "Mit einem amtlichen Vordruck und meist einer Sondervorauszahlung erhalten Sie einen Monat mehr Zeit für die Umsatzsteuer-Voranmeldung."},
+  {"titel": "Gewerbesteuer-Vorauszahlung (nur Gewerbetreibende)", "text": "Zahlen Sie zum 15.2., 15.5., 15.8. und 15.11. in der Regel ein Viertel der letzten veranlagten Steuer (§ 19 Abs. 1 GewStG); eine Anpassung ist bei der Gemeinde möglich."}
+],
+"fristen": [
+  {"wert": "10.3. / 10.6. / 10.9. / 10.12.", "was": "Fälligkeitstermine der Einkommensteuer-Vorauszahlung", "grundlage": "§ 37 Abs. 1 EStG"},
+  {"wert": "10. Tag nach Zeitraumende", "was": "Fälligkeit der Umsatzsteuer-Voranmeldung und -Vorauszahlung", "grundlage": "§ 18 Abs. 1 UStG"},
+  {"wert": "9.000 € / 2.000 €", "was": "Schwellenwerte für monatliche Voranmeldung bzw. mögliche Befreiung", "grundlage": "§ 18 Abs. 2 UStG"},
+  {"wert": "15.2. / 15.5. / 15.8. / 15.11.", "was": "Fälligkeitstermine der Gewerbesteuer-Vorauszahlung, Mindestbetrag 50 €", "grundlage": "§ 19 Abs. 1 und Abs. 3 GewStG"},
+  {"wert": "bis Ende Februar des Folgejahres", "was": "Frist für den Verzicht auf die Kleinunternehmerregelung, bindet für 5 Kalenderjahre", "grundlage": "§ 19 Abs. 2 UStG"}
+],
+"achtung": [
+  "Vorauszahlungen werden nach Vergangenheitswerten festgesetzt – bei Umsatzeinbruch drohen Liquiditätsengpässe, wenn kein Herabsetzungsantrag gestellt wird.",
+  "Ohne Rücklagenbildung können ESt-Nachzahlung und neue Vorauszahlung für das Folgejahr gleichzeitig fällig werden.",
+  "Die Kleinunternehmerregelung wird oft falsch beurteilt: Sowohl die Vorjahresgrenze als auch die Grenze im laufenden Jahr zählen (§ 19 Abs. 1 UStG); ein Überschreiten der laufenden Jahresgrenze führt unterjährig zum Wechsel zur Regelbesteuerung.",
+  "Die Dauerfristverlängerung wird oft vergessen zu beantragen, obwohl sie planbare Zusatzzeit bringt – sie erfordert aber meist eine Sondervorauszahlung.",
+  "Fehlt die Meldung der Aufnahme einer gewerblichen Tätigkeit, werden Gewerbesteuer-Vorauszahlungen zu spät oder gar nicht festgesetzt – die Nachzahlung erfolgt dann in einer Summe."
+],
+"fach_html": "<h3>Einkommensteuer-Vorauszahlung</h3><p>Rechtsgrundlage ist § 37 EStG. Bemessungsgrundlage ist die Steuer der letzten Veranlagung, bei Neugründung eine Schätzung. Das Finanzamt kann von Amts wegen oder auf Antrag anpassen; ein Herabsetzungsantrag sollte mit aktueller betriebswirtschaftlicher Auswertung bzw. Einnahmen-Überschuss-Rechnung und einer Prognose begründet werden.</p><h3>Umsatzsteuer-Voranmeldung</h3><p>Rechtsgrundlage ist § 18 UStG, die elektronische Übermittlung ist zwingend. Die Dauerfristverlängerung läuft über die Umsatzsteuer-Durchführungsverordnung (§ 18 Abs. 6 UStG i. V. m. UStDV) – der genaue Verordnungstext wurde in der zugrundeliegenden Recherche nicht im Volltext geprüft und sollte vor Veröffentlichung gegengelesen werden.</p><h3>Kleinunternehmerregelung als Kontrast</h3><p>§ 19 UStG befreit von der Umsatzsteuer bei einem Vorjahresumsatz von höchstens 25.000 € <strong>und</strong> einem laufenden Jahresumsatz von höchstens 100.000 €. Diese Grenzen gelten seit der Reform zum 1.1.2025 (Jahressteuergesetz 2024) – zuvor galten niedrigere Werte von 22.000 €/50.000 €. Kleinunternehmer weisen keine Umsatzsteuer aus, haben aber auch keinen Vorsteuerabzug. Ein freiwilliger Verzicht auf die Regelung bindet für fünf Kalenderjahre.</p><h3>Gewerbesteuer-Vorauszahlung</h3><p>Betrifft nur Gewerbetreibende, nicht Freiberufler im Sinne des § 18 EStG. Für Einzelunternehmen und Personengesellschaften gilt ein Freibetrag von 24.500 € (§ 11 Abs. 1 Nr. 1 GewStG) – <strong>dieser Wert gilt als etablierter Rechtsstand, wurde in der zugrundeliegenden Recherche aber nicht erneut am Gesetzestext verifiziert</strong>.</p><h3>Praxistipp Steuerrücklage</h3><p>In der Beratungspraxis wird häufig empfohlen, 25 bis 35 Prozent der Nettoeinnahmen als Rücklage für Einkommen-, Umsatz- und ggf. Gewerbesteuer zurückzulegen. Das ist eine Faustregel aus der Praxis, keine gesetzliche Vorgabe.</p>",
+"zustaendig": ["Wohnsitzfinanzamt (Einkommensteuer, Umsatzsteuer)", "Finanzamt (Festsetzung Gewerbesteuermessbetrag) und Gemeinde (Erhebung der Gewerbesteuer)"],
+"belege": [
+  "§ 37 EStG, gesetze-im-internet.de/estg, abgerufen September 2026.",
+  "§ 18 UStG, gesetze-im-internet.de/ustg_1980, abgerufen September 2026.",
+  "§ 19 UStG, gesetze-im-internet.de/ustg_1980, abgerufen September 2026 (Grenzen 25.000 €/100.000 € im Gesetzestext bestätigt).",
+  "§ 19 GewStG, gesetze-im-internet.de/gewstg, abgerufen September 2026.",
+  "UStDV §§ 46 ff. zur Dauerfristverlängerung sowie § 11 GewStG-Freibetrag (24.500 €) – nicht in dieser Recherche erneut am Volltext verifiziert, vor Veröffentlichung gegenprüfen."
+],
+"siehe_auch": ["forderungsausfall-und-liquiditaet", "buergergeld-bei-selbststaendigkeit", "ueberblick-rechte-selbststaendige"],
+"stand": "Stand: September 2026"
+},
+
+{
+"id": "forderungsausfall-und-liquiditaet",
+"kategorie": "steuern-finanzen",
+"icon": "💧",
+"titel": "Forderungsausfall und Liquidität",
+"teaser": "Zahlt ein Kunde nicht, begrenzt das Gesetz Zahlungsziele und gibt Ihnen Anspruch auf Verzugszinsen. So sichern Sie zusätzlich Ihre Liquidität ab.",
+"schlagworte": ["§ 271a BGB", "Zahlungsziel", "§ 286 BGB", "Verzug", "§ 288 BGB", "Verzugszinsen", "Basiszinssatz", "Factoring", "Warenkreditversicherung"],
+"kurz_html": "<p>Zahlt ein Geschäftskunde nicht pünktlich, geraten Sie als Gläubiger nicht automatisch in eine Falle – das Gesetz begrenzt vereinbarte Zahlungsziele und gibt Ihnen ab Verzugseintritt Anspruch auf Zinsen und eine Pauschale. Wichtig ist, den Verzug rechtssicher festzustellen und dann konsequent vorzugehen (Mahnung, ggf. gerichtliches Mahnverfahren – siehe eigenes Thema Vertragsrecht und Mahnwesen). Parallel sollten Sie Ihre Liquidität so planen, dass Zahlungsausfälle Sie nicht selbst in Schwierigkeiten bringen; Instrumente wie Factoring oder eine Warenkreditversicherung können das Risiko abfedern.</p>",
+"schritte": [
+  {"titel": "Rechnung mit klarer Fälligkeit stellen", "text": "Bei Entgeltforderungen tritt Verzug spätestens 30 Tage nach Fälligkeit und Zugang der Rechnung ein – auch ohne Mahnung (§ 286 Abs. 3 BGB)."},
+  {"titel": "Zahlungsziele begrenzen", "text": "Bei Unternehmern als Schuldner sind Zahlungsziele über 60 Tage nur wirksam, wenn ausdrücklich vereinbart und für den Gläubiger nicht grob unbillig (§ 271a Abs. 1 BGB)."},
+  {"titel": "Verzugszinsen und Pauschale geltend machen", "text": "Mit Verzugseintritt entstehen automatisch Verzugszinsen von 9 Prozentpunkten über dem Basiszinssatz bei B2B-Entgeltforderungen (§ 288 Abs. 2 BGB) sowie eine Pauschale von 40 € (§ 288 Abs. 5 BGB)."},
+  {"titel": "Mahnen und dokumentieren", "text": "Versenden Sie außergerichtliche Mahnungen und dokumentieren Sie Fristsetzungen."},
+  {"titel": "Gerichtliches Mahnverfahren prüfen", "text": "Bleibt die Zahlung aus, folgt das gerichtliche Mahnverfahren oder eine Klage (siehe Thema Vertragsrecht und Mahnwesen)."},
+  {"titel": "Liquiditätsplanung anpassen", "text": "Planen Sie Forderungsausfallrisiken aktiv in Ihren Cashflow ein und prüfen Sie präventiv Factoring oder eine Warenkreditversicherung."}
+],
+"fristen": [
+  {"wert": "60 Tage", "was": "Höchstfrist vereinbarter Zahlungsziele zwischen Unternehmern, längere nur bei ausdrücklicher, nicht grob unbilliger Vereinbarung", "grundlage": "§ 271a Abs. 1 BGB"},
+  {"wert": "30 Tage", "was": "Verzugseintritt ohne Mahnung nach Fälligkeit und Rechnungszugang bei Entgeltforderungen", "grundlage": "§ 286 Abs. 3 BGB"},
+  {"wert": "Basiszinssatz + 9 Prozentpunkte", "was": "Verzugszinssatz bei Entgeltforderungen zwischen Unternehmen (B2B); der Basiszinssatz wird halbjährlich zum 1.1. und 1.7. von der Deutschen Bundesbank festgesetzt und ändert sich entsprechend", "grundlage": "§ 288 Abs. 2 BGB, § 247 BGB"},
+  {"wert": "40 €", "was": "Pauschale je Verzugsfall, unabhängig von der Forderungshöhe", "grundlage": "§ 288 Abs. 5 BGB"}
+],
+"achtung": [
+  "Viele Selbstständige mahnen zu spät oder gar nicht schriftlich – ohne dokumentierten Zugang der Rechnung/Mahnung lässt sich der Verzugsbeginn schwer belegen.",
+  "Verzugszinsen und die 40-Euro-Pauschale werden oft nicht geltend gemacht, obwohl sie kraft Gesetzes automatisch entstehen und nur berechnet und eingefordert werden müssen.",
+  "Lange Zahlungsziele über 60 Tage werden unreflektiert akzeptiert, obwohl sie ohne ausdrückliche, faire Vereinbarung unwirksam sein können.",
+  "Liquiditätsplanung erfolgt oft nur auf Basis gestellter statt tatsächlich eingegangener Zahlungen – eine Rechnung ist noch kein Geld auf dem Konto.",
+  "Factoring wird häufig erst erwogen, wenn bereits ein Liquiditätsengpass besteht, statt es präventiv einzusetzen.",
+  "Der genannte Verzugszinssatz ändert sich halbjährlich mit dem Basiszinssatz – bei einer Berechnung immer den aktuellen Wert bei der Deutschen Bundesbank nachschlagen, nicht einen einmal notierten Wert dauerhaft übernehmen."
+],
+"fach_html": "<h3>Zahlungsfristen zwischen Unternehmern (§ 271a BGB)</h3><p>Die Vorschrift schützt den Gläubiger – oft den liefernden Selbstständigen – vor überlangen, einseitig diktierten Zahlungszielen größerer Vertragspartner. Eine Klausel über 60 Tage ist nur wirksam bei ausdrücklicher Vereinbarung und wenn sie den Gläubiger nicht grob unbillig benachteiligt. Bei öffentlichen Auftraggebern als Schuldner gilt eine strengere Regel: 30 Tage als Regel, 60 Tage als absolute Grenze (§ 271a Abs. 2 BGB).</p><h3>Verzugseintritt (§ 286 BGB)</h3><p>Neben der 30-Tage-Automatik bei Entgeltforderungen lösen auch eine Mahnung nach Fälligkeit, eine kalendermäßig bestimmte Leistungszeit oder eine ernsthafte und endgültige Erfüllungsverweigerung Verzug ohne Mahnung aus.</p><h3>Verzugszinsen (§ 288 BGB)</h3><p>Es gilt: 5 Prozentpunkte über dem Basiszinssatz bei Verbraucherbeteiligung (§ 288 Abs. 1 BGB), 9 Prozentpunkte bei reinen B2B-Entgeltforderungen (§ 288 Abs. 2 BGB). Für die Beratung wichtig: den aktuellen Basiszinssatz bei jeder Berechnung neu bei der Deutschen Bundesbank prüfen, da er sich zum 1.1. und 1.7. eines Jahres ändern kann.</p><h3>Instrumente bei Forderungsausfallrisiko</h3><p>Factoring bedeutet den Verkauf offener Forderungen an einen Factor gegen sofortige Liquidität, gegen eine Gebühr bzw. einen Zinsabschlag. Eine Warenkreditversicherung bzw. Forderungsausfallversicherung ist ein privatwirtschaftliches Produkt ohne gesetzliche Pflicht, das gegen Zahlungsausfälle absichert, meist gekoppelt an eine Bonitätsprüfung des Abnehmers. Beide Instrumente wurden in der zugrundeliegenden Recherche nur als betriebswirtschaftliche Instrumente benannt, nicht im Detail rechtlich vertieft.</p>",
+"zustaendig": ["Keine Behörde im eigentlichen Sinn – zivilrechtliche Selbsthilfe (Mahnung)", "Zentrale Mahngerichte der Länder bzw. ordentliche Gerichte für das gerichtliche Mahn- oder Klageverfahren"],
+"belege": [
+  "§ 271a BGB, gesetze-im-internet.de/bgb, abgerufen September 2026.",
+  "§ 286 BGB, gesetze-im-internet.de/bgb, abgerufen September 2026.",
+  "§ 288 BGB, gesetze-im-internet.de/bgb, abgerufen September 2026.",
+  "§ 247 BGB, gesetze-im-internet.de/bgb, abgerufen September 2026.",
+  "Deutsche Bundesbank, Basiszinssatz, bundesbank.de – der genannte Rechenwert ändert sich halbjährlich, siehe Quellen und Methodik."
+],
+"siehe_auch": ["vertragsrecht-und-mahnwesen", "steuern-und-vorauszahlungen", "insolvenz-selbststaendige"],
+"stand": "Stand: September 2026"
+},
+
+{
+"id": "buergergeld-bei-selbststaendigkeit",
+"kategorie": "existenzsicherung",
+"icon": "🧾",
+"titel": "Ergänzendes Grundsicherungsgeld bei Selbstständigkeit",
+"teaser": "Reicht der Gewinn nicht zum Leben, kann ergänzendes Grundsicherungsgeld (bis 30.6.2026 Bürgergeld) helfen – mit vorläufiger Bewilligung wegen schwankender Einkünfte.",
+"schlagworte": ["§ 41a SGB II", "Vorläufige Bewilligung", "Anlage EKS", "GrusiGV", "Bewilligungszeitraum", "Jobcenter"],
+"kurz_html": "<p>Wenn Ihr Gewinn aus selbstständiger Tätigkeit nicht zum Leben reicht, können Sie ergänzendes Grundsicherungsgeld (bis 30.6.2026 Bürgergeld) beim Jobcenter beantragen. Weil Ihr Einkommen als Selbstständige/r meist schwankt und erst am Ende des Bewilligungszeitraums feststeht, bewilligt das Jobcenter die Leistung zunächst vorläufig und rechnet später anhand Ihrer tatsächlichen Zahlen endgültig ab. Das ist etwas anderes als Gründungszuschuss oder Einstiegsgeld, die den Start in die Selbstständigkeit fördern – dazu finden Sie Informationen im Thema Gründungszuschuss und Einstiegsgeld.</p>",
+"schritte": [
+  {"titel": "Antrag mit Anlage EKS stellen", "text": "Stellen Sie den Antrag auf Grundsicherungsgeld beim zuständigen Jobcenter inklusive der „Anlage EKS“ (Erklärung zum Einkommen aus selbstständiger Tätigkeit) mit einer Prognose für den Bewilligungszeitraum."},
+  {"titel": "Vorläufigen Bescheid erhalten", "text": "Das Jobcenter erlässt einen vorläufigen Bewilligungsbescheid, da die endgültige Einkommenshöhe bei schwankendem Einkommen erst später feststeht (§ 41a Abs. 1 SGB II)."},
+  {"titel": "Belege sammeln", "text": "Sammeln Sie während des Bewilligungszeitraums laufend Einnahme- und Ausgabebelege und legen Sie diese auf Verlangen vor."},
+  {"titel": "Abschließende Angaben einreichen", "text": "Reichen Sie nach Ende des Bewilligungszeitraums die endgültige Anlage EKS mit Belegen innerhalb der vom Jobcenter gesetzten Frist ein."},
+  {"titel": "Einkommensberechnung nach Zufluss/Abfluss", "text": "Das Jobcenter berechnet das Einkommen nach § 3 GrusiGV: Betriebseinnahmen abzüglich der im Bewilligungszeitraum tatsächlich geleisteten notwendigen Betriebsausgaben – unabhängig vom Steuerrecht."},
+  {"titel": "Endgültige Festsetzung abwarten", "text": "Das Jobcenter setzt die Leistung per Bescheid endgültig fest (§ 41a Abs. 3–4 SGB II); ohne fristgerechte Mitwirkung wird nur der nachgewiesene Anteil anerkannt."}
+],
+"fristen": [
+  {"wert": "einzelfallabhängige angemessene Frist, bei Selbstständigen beispielhaft zwei Monate", "was": "Frist zur Einreichung der abschließenden Angaben nach Ende des Bewilligungszeitraums bei Selbstständigen (Verwaltungspraxis laut Fachlichen Weisungen der Bundesagentur für Arbeit, keine feste Gesetzesfrist)", "grundlage": "§ 41a Abs. 3 SGB II i. V. m. Fachlicher Weisung der BA, Rz. 41a.23"},
+  {"wert": "1 Jahr", "was": "Nach Ablauf dieser Frist ohne abschließende Entscheidung gilt die vorläufige Bewilligung als endgültig", "grundlage": "§ 41a Abs. 5 SGB II"},
+  {"wert": "Tag nach Bekanntgabe des Widerspruchsbescheids", "was": "Nachweise, die nach Abschluss des Verwaltungsverfahrens, spätestens am Tag nach Bekanntgabe des Widerspruchsbescheides eingehen, werden nicht mehr berücksichtigt", "grundlage": "§ 41a Abs. 3 Satz 5 SGB II, seit 1.7.2026"}
+],
+"achtung": [
+  "Die Anlage EKS wird bei Antragstellung oft zu optimistisch geschätzt – am Ende drohen hohe Rückforderungen oder Nachzahlungen.",
+  "Betriebsausgaben werden häufig nach Steuerrecht mit Abschreibungen (AfA) statt nach dem tatsächlichen Zahlungsabfluss angegeben – § 3 GrusiGV verlangt die tatsächlichen Ausgaben im Bewilligungszeitraum, Abschreibungen zählen nicht.",
+  "Ausgaben, die vermeidbar sind oder offensichtlich nicht den Lebensumständen entsprechen, kann das Jobcenter nicht anerkennen – hier entstehen häufig Streitpunkte.",
+  "Werden Fristen für die abschließenden Angaben versäumt, wird die Leistung nur in der nachgewiesenen Höhe endgültig festgesetzt, der Rest entfällt.",
+  "Ergänzendes Grundsicherungsgeld wird oft mit Gründungszuschuss oder Einstiegsgeld verwechselt: Es ist kein Gründungsinstrument, sondern laufende Existenzsicherung während einer bestehenden Selbstständigkeit."
+],
+"fach_html": "<h3>Vorläufige Bewilligung (§ 41a SGB II)</h3><p>Zweck der Vorschrift: Bei schwankendem oder noch nicht feststehendem Einkommen soll die Existenzsicherung nicht an fehlender Gewissheit über die genaue Höhe scheitern. Absatz 1 regelt die vorläufige Entscheidung, wenn ein Anspruch wahrscheinlich, die Höhe aber noch offen ist. Absatz 2 richtet die vorläufige Leistungshöhe an bekannten bzw. prognostizierten Verhältnissen aus. Absatz 3 sieht vor, dass bei fehlender Mitwirkung nur in nachgewiesener Höhe abschließend festgesetzt wird. Absatz 5 begrenzt die Vorläufigkeit zugunsten der leistungsberechtigten Person auf ein Jahr.</p><h3>Einkommensberechnung nach § 3 GrusiGV</h3><p>Es gilt das Zufluss-/Abflussprinzip im Bewilligungszeitraum, unabhängig von der steuerlichen Gewinnermittlung. Abschreibungen sind nicht absetzbar, nur tatsächliche Ausgaben zählen. Für Kfz-Nutzung gilt eine Sonderregel: bei überwiegend betrieblicher Nutzung tatsächliche Kosten abzüglich einer Pauschale für privat gefahrene Kilometer, bei überwiegend privater Nutzung eine Kilometerpauschale für betriebliche Fahrten. Eine in manchen Quellen erwähnte pauschale Betriebsausgabenpauschale konnte in der zugrundeliegenden Recherche nicht am Verordnungstext selbst bestätigt werden und ist als <strong>nicht abschließend verifiziert</strong> zu behandeln.</p><h3>Verordnungshistorie</h3><p>Bis zum 31.12.2022 hieß die einschlägige Verordnung „Alg II-V“ (Arbeitslosengeld-II-Verordnung). Seit der Bürgergeld-Reform zum 1.1.2023 gilt eine inhaltlich weitgehend gleiche Regelung, deren amtliche Kurzbezeichnung in Quellen uneinheitlich zwischen „Bürgergeld-Verordnung“ und „GrusiGV“ verwendet wird. Ältere Verweise auf „§ 3 Alg II-V“ entsprechen heute § 3 der aktuellen Verordnung.</p><h3>Abgrenzung zu Gründungszuschuss und Einstiegsgeld</h3><p>Der Gründungszuschuss (§ 93 SGB III) setzt einen ALG-I-Bezug voraus, das Einstiegsgeld (§ 16b SGB II) einen Grundsicherungsgeld-Bezug. Beide sind Ermessensleistungen zur Förderung des Starts in die Selbstständigkeit – nicht identisch mit dem laufenden, ergänzenden Grundsicherungsgeld für eine bereits bestehende Selbstständigkeit. Details siehe eigenes Thema Gründungszuschuss und Einstiegsgeld.</p>",
+"zustaendig": ["Örtliches Jobcenter"],
+"belege": [
+  "§ 41a SGB II, gesetze-im-internet.de/sgb_2, abgerufen September 2026.",
+  "§ 3 der Verordnung zur Berechnung von Einkommen im Bürgergeld (GrusiGV, vormals Alg II-V), gesetze-im-internet.de/algiiv_2008, abgerufen September 2026.",
+  "Fachliche Weisungen der Bundesagentur für Arbeit zu § 41a SGB II, Stand 01.07.2026, Rz. 41a.23 und 41a.26, arbeitsagentur.de (PDF), abgerufen September 2026.",
+  "§ 93 SGB III und § 16b SGB II nur zur Abgrenzung erwähnt, siehe eigenes Thema Gründungszuschuss und Einstiegsgeld."
+],
+"siehe_auch": ["gruendungszuschuss-und-einstiegsgeld", "steuern-und-vorauszahlungen", "insolvenz-selbststaendige"],
+"stand": "Stand: September 2026"
+},
+
+{
+"id": "krankheit-und-lohnersatz-selbststaendige",
+"kategorie": "existenzsicherung",
+"icon": "🤒",
+"titel": "Krankheit und Lohnersatz für Selbstständige",
+"teaser": "Kein Arbeitgeber zahlt weiter, wenn Sie krank werden. Was Krankengeld-Wahltarife, Karenzzeiten und private Absicherung für Sie bedeuten.",
+"schlagworte": ["Entgeltfortzahlung", "§ 44 SGB V", "Krankengeld", "Wahltarif", "§ 53 SGB V", "Karenzzeit", "Krankentagegeld", "Betriebsunterbrechungsversicherung"],
+"kurz_html": "<p>Als Selbstständige/r haben Sie keinen gesetzlichen Anspruch auf Lohnfortzahlung im Krankheitsfall – das Entgeltfortzahlungsgesetz gilt ausschließlich für Arbeitnehmer. Ob Sie bei Krankheit Geld von Ihrer Krankenkasse erhalten, hängt von Ihrem Versicherungsstatus ab: Pflichtversicherte Selbstständige haben grundsätzlich keinen Krankengeldanspruch, freiwillig gesetzlich Versicherte können sich diesen über einen Wahltarif erkaufen. Wer keinen solchen Tarif hat, trägt das volle Einkommensausfallrisiko selbst und sollte über eine private Absicherung nachdenken.</p>",
+"schritte": [
+  {"titel": "Versicherungsstatus prüfen", "text": "Klären Sie, ob Sie pflichtversichert, freiwillig gesetzlich oder privat versichert sind."},
+  {"titel": "Wahltarif erfragen", "text": "Bei freiwillig gesetzlicher Versicherung erfragen Sie bei Ihrer Krankenkasse, welche Wahltarife mit Krankengeldanspruch nach § 53 Abs. 6 SGB V angeboten werden."},
+  {"titel": "Wahltarif abschließen", "text": "Erfragen Sie die Mindestbindungsfrist der Kasse, bevor Sie den Tarif abschließen."},
+  {"titel": "Karenzzeit beachten", "text": "Nach Tarifbeginn kann eine Wartezeit gelten, bevor im Leistungsfall tatsächlich gezahlt wird; die genaue Dauer ist kassen- und tarifabhängig."},
+  {"titel": "Alternativen prüfen", "text": "Prüfen Sie ergänzend oder alternativ eine private Krankentagegeldversicherung oder eine Betriebsunterbrechungsversicherung, und legen Sie Leistungsbeginn (Karenztage) und Leistungsdauer vertraglich fest."},
+  {"titel": "Im Krankheitsfall melden", "text": "Lassen Sie die Arbeitsunfähigkeit ärztlich bescheinigen und melden Sie sich fristgerecht bei Kasse oder Versicherer gemäß Satzung bzw. Versicherungsvertrag."}
+],
+"fristen": [
+  {"wert": "kein Anspruch ohne Wahlerklärung", "was": "Krankengeldanspruch für Selbstständige ist grundsätzlich ausgeschlossen, außer bei Wahlerklärung nach § 53 Abs. 6 SGB V", "grundlage": "§ 44 Abs. 2 SGB V"},
+  {"wert": "mehrjährig, kassenabhängig", "was": "Mindestbindungsfrist von Krankengeld-Wahltarifen – konkrete Dauer nicht bundeseinheitlich, bei der jeweiligen Kasse erfragen", "grundlage": "§ 53 Abs. 6 SGB V, Satzung der Krankenkasse"},
+  {"wert": "kassen-/tarifabhängig", "was": "Karenzzeit bis zum Leistungsbeginn im Wahltarif – nicht gesetzlich einheitlich festgelegt", "grundlage": "Satzung der Krankenkasse, keine bundeseinheitliche Frist im SGB V"}
+],
+"achtung": [
+  "„Gesetzlich krankenversichert“ bedeutet nicht automatisch „Krankengeldanspruch“ – Pflichtversicherte Selbstständige haben in der Regel keinen Anspruch ohne Wahltarif.",
+  "Ein Wahltarif kann bei bereits bestehender Erkrankung oder Arbeitsunfähigkeit nicht mehr rückwirkend abgeschlossen werden.",
+  "Die Karenzzeit wird oft unterschätzt: Auch mit Wahltarif zahlt die Kasse häufig erst nach mehreren Wochen – die Liquiditätslücke am Anfang wird oft nicht eingeplant.",
+  "Die Mindestbindungsfrist wird übersehen: Eine vorzeitige Kündigung des Wahltarifs ist meist nicht möglich, was beim Wechsel in eine Festanstellung oder bei einem Kassenwechsel zu Problemen führt.",
+  "Eine private Krankentagegeldversicherung wird oft ohne Gesundheitsprüfung und Wartezeiten vermutet – tatsächlich ist meist eine Risikoprüfung mit möglichen Leistungsausschlüssen bei Vorerkrankungen verbunden.",
+  "Eine Betriebsunterbrechungsversicherung wird mit Krankentagegeld verwechselt: Erstere sichert eher Betriebskosten/Fixkosten ab, nicht direkt den persönlichen Lebensunterhalt."
+],
+"fach_html": "<h3>Rechtsgrundlagen</h3><p>§ 44 SGB V regelt das Krankengeld und schließt Selbstständige im Grundsatz aus (Absatz 2), außer bei Wahlerklärung. § 53 Abs. 6 SGB V verpflichtet die Krankenkassen, hauptberuflich Selbstständigen einen Krankengeld-Wahltarif anzubieten. Das Entgeltfortzahlungsgesetz (§ 1 EFZG) gilt nur für Arbeitnehmerinnen und Arbeitnehmer sowie Auszubildende, nicht für Selbstständige.</p><h3>Praxis für Beratungsfachkräfte</h3><p>Klientinnen und Klienten sollten Kassenwahltarife verschiedener Anbieter vergleichen, da sich Leistungsbeginn, Mindestbindung und Beitragshöhe erheblich zwischen Kassen unterscheiden. Bei der Beratung zur Absicherungslücke empfiehlt sich eine Kombination aus Rücklage für die Karenzzeit plus Wahltarif oder privater Krankentagegeldversicherung. Eine Betriebsunterbrechungsversicherung ist insbesondere für Selbstständige mit hohen Fixkosten (Miete, Personal, Leasing) relevant, unabhängig von der persönlichen Krankengeldfrage.</p><h3>Abgrenzung zur privaten Krankenversicherung</h3><p>Privat Krankenversicherte müssen Krankentagegeld separat und individuell vereinbaren; ohne entsprechenden Tarifbaustein besteht ebenfalls kein Anspruch.</p><h3>Karenzzeiten – Beispielwerte, keine feste Norm</h3><p>In der Praxis kursieren Karenzzeiten wie „ab dem 15., 22. oder 43. Tag der Arbeitsunfähigkeit“ – diese sind <strong>nicht gesetzlich bundeseinheitlich festgelegt</strong>, sondern kassen- und tarifabhängig, und sollten daher nicht als feste Zahl, sondern nur als Beispiel genannt werden. Vor einer konkreten Empfehlung immer den Tarif der jeweiligen Kasse prüfen.</p>",
+"zustaendig": ["Jeweilige gesetzliche Krankenkasse (Wahltarife nach § 53 Abs. 6 SGB V)", "GKV-Spitzenverband (Rahmenvorgaben)", "Private Krankenversicherer (Krankentagegeld, Betriebsunterbrechungsversicherung)"],
+"belege": [
+  "§ 44 SGB V, gesetze-im-internet.de/sgb_5, abgerufen September 2026.",
+  "§ 53 SGB V, gesetze-im-internet.de/sgb_5, abgerufen September 2026.",
+  "§ 1 EFZG (Entgeltfortzahlungsgesetz), gesetze-im-internet.de/entgfg, abgerufen September 2026.",
+  "Konkrete Karenzzeiten bei Krankengeld-Wahltarifen sind kassen- und tarifabhängig; keine bundeseinheitliche Fristnorm im Gesetz gefunden, siehe Quellen und Methodik.",
+  "Mindestbindungsfrist von Wahltarifen nach § 53 SGB V – Existenz bestätigt, exakte Dauer nicht abschließend am Gesetzestext verifiziert."
+],
+"siehe_auch": ["krankenversicherung-selbststaendige", "elterngeld-fuer-selbststaendige", "betriebliche-versicherungen"],
+"stand": "Stand: September 2026"
+},
+
+{
+"id": "elterngeld-fuer-selbststaendige",
+"kategorie": "existenzsicherung",
+"icon": "👶",
+"titel": "Elterngeld für Selbstständige",
+"teaser": "Auch als Selbstständige/r haben Sie Anspruch auf Elterngeld – die Berechnung folgt aber eigenen Regeln und läuft oft zunächst nur vorläufig.",
+"schlagworte": ["Elterngeld", "§ 2b BEEG", "§ 2d BEEG", "§ 8 BEEG", "Mutterschaftsgeld", "§ 24i SGB V", "Mutterschutzgesetz"],
+"kurz_html": "<p>Auch als Selbstständige/r haben Sie Anspruch auf Elterngeld nach dem Bundeselterngeld- und Elternzeitgesetz (BEEG) – die Berechnung folgt aber eigenen Regeln. Maßgeblich ist in der Regel nicht wie bei Arbeitnehmern das Einkommen der letzten zwölf Monate vor der Geburt, sondern der Gewinn aus dem letzten abgeschlossenen steuerlichen Veranlagungszeitraum davor. Das Mutterschutzgesetz und das Mutterschaftsgeld nach § 24i SGB V greifen für Sie grundsätzlich nicht, da beide an ein Beschäftigungsverhältnis anknüpfen.</p>",
+"schritte": [
+  {"titel": "Antrag stellen", "text": "Stellen Sie den Elterngeldantrag bei der zuständigen Elterngeldstelle und geben Sie Ihre selbstständige Tätigkeit an."},
+  {"titel": "Gewinneinkünfte nachweisen", "text": "Legen Sie die Gewinneinkünfte für den maßgeblichen Bemessungszeitraum vor – in der Regel der letzte abgeschlossene steuerliche Veranlagungszeitraum vor der Geburt (§ 2b Abs. 2 BEEG)."},
+  {"titel": "Vorläufige Entscheidung akzeptieren", "text": "Liegt der endgültige Einkommensteuerbescheid noch nicht vor, ergeht eine vorläufige Entscheidung auf Basis vorläufiger Angaben (§ 8 Abs. 3 BEEG)."},
+  {"titel": "Abschließende Entscheidung abwarten", "text": "Nach Erhalt des endgültigen Einkommensteuerbescheids führt die Behörde das Verfahren von Amts wegen fort und trifft eine abschließende Entscheidung (§ 8 BEEG) – Nachzahlung oder Rückforderung sind möglich."},
+  {"titel": "Gewinnermittlung vorlegen", "text": "Die Gewinnermittlung muss mindestens den Anforderungen einer Einnahmen-Überschuss-Rechnung nach § 4 Abs. 3 EStG entsprechen; Betriebsausgaben werden pauschal mit 25 % oder auf Antrag in tatsächlicher Höhe angesetzt (§ 2d BEEG)."},
+  {"titel": "Verschiebung beantragen (Sonderfälle)", "text": "Bei einem atypisch niedrigen Referenzjahr aus den im Gesetz abschließend genannten Gründen können Sie eine Verschiebung des Bemessungszeitraums beantragen (§ 2b Abs. 1 Satz 2 und 4 BEEG)."}
+],
+"fristen": [
+  {"wert": "letzter abgeschlossener Veranlagungszeitraum", "was": "Maßgeblicher Bemessungszeitraum für den Gewinn aus selbstständiger Tätigkeit", "grundlage": "§ 2b Abs. 2 BEEG"},
+  {"wert": "bei fehlendem Steuerbescheid: vorläufig", "was": "Vorläufige Entscheidung, wenn der Einkommensteuerbescheid bei Antragstellung noch nicht vorliegt", "grundlage": "§ 8 Abs. 3 BEEG"},
+  {"wert": "nach Vorlage des Steuerbescheids", "was": "Abschließende Entscheidung von Amts wegen, keine feste Bearbeitungsfrist im Gesetz genannt", "grundlage": "§ 8 BEEG"}
+],
+"achtung": [
+  "Der Bemessungszeitraum wird oft verwechselt: Anders als bei Arbeitnehmern zählt bei Selbstständigen nicht das letzte Kalenderjahr, sondern das letzte abgeschlossene steuerliche Veranlagungsjahr – bei einer Geburt kurz nach dem Jahreswechsel kann das ein Jahr weiter zurückliegen als gedacht.",
+  "Der Vorläufigkeitsvorbehalt wird oft übersehen: Der erste Bescheid ist meist nicht final, nach dem Steuerbescheid folgt in der Regel eine Neuberechnung – auch zu Ungunsten.",
+  "Die Betriebsausgabenpauschale von 25 % wird automatisch hingenommen, obwohl auf Antrag die tatsächlichen Betriebsausgaben günstiger sein könnten (oder umgekehrt).",
+  "Ein Mutterschaftsgeldanspruch nach § 24i SGB V wird fälschlich vorausgesetzt, obwohl er nur bei einem tatsächlich bestehenden Krankengeldanspruch (z. B. über einen Wahltarif) in Betracht kommt.",
+  "Ein Verschiebeantrag nach § 2b BEEG wird nicht gestellt, obwohl das Referenzjahr durch Sondereffekte atypisch niedrig war – die abschließende Tatbestandsliste des Gesetzes beachten, nicht jeder Grund zählt."
+],
+"fach_html": "<h3>Berechnung des Elterngeldes</h3><p>Bemessungsgrundlage ist die monatlich durchschnittliche Summe der positiven Gewinneinkünfte laut Einkommensteuerbescheid, vermindert um Steuern und Sozialabgaben (§ 2d BEEG). Bei gemischten Einkünften aus angestellter und selbstständiger Tätigkeit gilt eine in Sekundärquellen genannte Bagatellgrenze von rund 35 Euro im Monat, unterhalb derer nur das Arbeitnehmereinkommen zugrunde gelegt wird – <strong>dieser Betrag wurde in der zugrundeliegenden Recherche nicht am Volltext von § 2b BEEG verifiziert</strong> und sollte vor einer verbindlichen Aussage gegengeprüft werden.</p><h3>Vorläufig versus abschließend</h3><p>Die vorläufige Bewilligung (§ 8 Abs. 3 BEEG) ist ein eigenständiger, isoliert anfechtbarer Verwaltungsakt (bestätigt durch Rechtsprechung des Bundessozialgerichts). Nach Vorlage des endgültigen Steuerbescheids erfolgt eine Neuberechnung von Amts wegen; die Behörde ist nicht an die vorläufige Höhe gebunden – sowohl Nachzahlungen als auch Rückforderungen sind möglich.</p><h3>Mutterschutz und Mutterschaftsgeld für Selbstständige</h3><p>§ 1 MuSchG knüpft den Anwendungsbereich an ein Beschäftigungsverhältnis bzw. gleichgestellte Gruppen – reine Selbstständige ohne eine solche Anknüpfung fallen grundsätzlich nicht darunter. § 24i SGB V knüpft den Mutterschaftsgeldanspruch an einen bestehenden Anspruch auf Krankengeld. Freiwillig versicherte Selbstständige mit Krankengeld-Wahltarif und tatsächlich bestehendem Krankengeldanspruch können daher im Grundsatz auch Mutterschaftsgeld beanspruchen – <strong>diese Verknüpfung ist rechtssystematisch plausibel, wurde aber nicht durch eine explizite Einzelfallquelle oder Rechtsprechung zu Wahltarif-Selbstständigen bestätigt</strong> und sollte im Einzelfall mit der Krankenkasse geklärt werden.</p>",
+"zustaendig": ["Elterngeldstellen der Länder bzw. Kommunen (unterschiedlich organisiert je Bundesland)", "Zuständige Krankenkasse (Mutterschaftsgeld nach § 24i SGB V, soweit ein Anspruch besteht)", "Bundesministerium für Familie, Senioren, Frauen und Jugend (Richtlinien zum BEEG)"],
+"belege": [
+  "§ 2b BEEG, gesetze-im-internet.de/beeg, abgerufen September 2026.",
+  "§ 2d BEEG, gesetze-im-internet.de/beeg, abgerufen September 2026.",
+  "§ 8 BEEG, gesetze-im-internet.de/beeg – Existenz und Grundmechanismus bestätigt, Volltext teils über Sekundärquelle erschlossen, vor Veröffentlichung Originalwortlaut gegenlesen.",
+  "§ 24i SGB V, gesetze-im-internet.de/sgb_5, abgerufen September 2026.",
+  "§ 1 Mutterschutzgesetz (MuSchG 2018), gesetze-im-internet.de/muschg_2018, abgerufen September 2026.",
+  "Bundessozialgericht, Urteil vom 27.10.2022, B 10 EG 4/20 R, bsg.bund.de – zur Eigenständigkeit vorläufiger Bewilligungen.",
+  "Bagatellgrenze bei gemischten Einkünften (§ 2b BEEG) und Drei-Monats-Rückwirkungsregel für den Antrag – nicht abschließend am Gesetzestext verifiziert, siehe Quellen und Methodik."
+],
+"siehe_auch": ["krankheit-und-lohnersatz-selbststaendige", "krankenversicherung-selbststaendige"],
+"stand": "Stand: September 2026"
+},
+
+{
+"id": "vertragsrecht-und-mahnwesen",
+"kategorie": "vertraege-recht",
+"icon": "📄",
+"titel": "Vertragsrecht und Mahnwesen",
+"teaser": "Klare Zahlungsbedingungen, rechtssicheres Mahnen und das gerichtliche Mahnverfahren – so setzen Sie offene Forderungen durch.",
+"schlagworte": ["§ 286 BGB", "Verzug", "§ 288 BGB", "Gerichtliches Mahnverfahren", "§ 688 ZPO", "Mahnbescheid", "Vollstreckungsbescheid", "§ 195 BGB", "Verjährung"],
+"kurz_html": "<p>Zahlt ein Kunde eine fällige Rechnung nicht, gerät er unter bestimmten Voraussetzungen automatisch oder durch Mahnung in Verzug (§ 286 BGB) – ab diesem Zeitpunkt können Sie Verzugszinsen und eine Pauschale verlangen. Reagiert der Kunde auch auf ein außergerichtliches Mahnschreiben nicht, steht Ihnen das gerichtliche Mahnverfahren offen (§§ 688 ff. ZPO), ein vereinfachtes, meist elektronisches Verfahren ohne mündliche Verhandlung. Wichtig: Forderungen verjähren regelmäßig nach drei Jahren (§ 195 BGB) – die Frist beginnt erst zum Jahresende, in dem Sie von Anspruch und Schuldner Kenntnis erlangt haben (§ 199 Abs. 1 BGB).</p>",
+"schritte": [
+  {"titel": "Zahlungsbedingungen festlegen", "text": "Legen Sie klare Zahlungsbedingungen im Vertrag oder in den AGB fest (Fälligkeit, Zahlungsziel, ggf. Skonto)."},
+  {"titel": "Rechnung stellen", "text": "Stellen Sie die Rechnung mit einem eindeutigen Fälligkeitsdatum."},
+  {"titel": "Außergerichtlich mahnen", "text": "Versenden Sie bei Nichtzahlung ein Mahnschreiben – eine gesetzlich vorgeschriebene Anzahl an Mahnungen gibt es nicht, Verzug kann auch ohne Mahnung eintreten."},
+  {"titel": "Mahnbescheid beantragen", "text": "Bleibt die Zahlung aus, beantragen Sie beim zuständigen, meist zentralen Mahngericht einen Mahnbescheid (§ 689 ZPO), in der Regel online über das automatisierte Mahnverfahren."},
+  {"titel": "Vollstreckungsbescheid beantragen", "text": "Legt der Schuldner innerhalb der Widerspruchsfrist keinen Widerspruch ein (§ 692 ZPO), beantragen Sie den Vollstreckungsbescheid (§ 699 ZPO)."},
+  {"titel": "Zwangsvollstreckung einleiten", "text": "Mit rechtskräftigem Vollstreckungsbescheid leiten Sie die Zwangsvollstreckung ein, etwa über Gerichtsvollzieher oder Kontopfändung."}
+],
+"fristen": [
+  {"wert": "spätestens 30 Tage", "was": "Verzugseintritt ohne Mahnung bei Entgeltforderungen nach Fälligkeit und Rechnungszugang; bei Verbrauchern nur mit gesondertem Hinweis in der Rechnung", "grundlage": "§ 286 Abs. 3 BGB"},
+  {"wert": "9 bzw. 5 Prozentpunkte über Basiszinssatz", "was": "Verzugszinssatz: 9 Prozentpunkte bei Geschäften ohne Verbraucherbeteiligung, 5 Prozentpunkte bei Verbrauchergeschäften; zusätzlich 40 € Pauschale bei Nicht-Verbraucher-Schuldnern", "grundlage": "§ 288 Abs. 1, Abs. 2 und Abs. 5 BGB"},
+  {"wert": "2 Wochen", "was": "Widerspruchsfrist gegen den Mahnbescheid ab Zustellung", "grundlage": "§ 692 Abs. 1 Nr. 3 ZPO"},
+  {"wert": "3 Jahre", "was": "Regelverjährung von Forderungen", "grundlage": "§ 195 BGB"},
+  {"wert": "Jahresende + Kenntnis", "was": "Verjährungsbeginn mit Schluss des Jahres, in dem der Anspruch entstanden ist und der Gläubiger von Anspruch und Schuldner Kenntnis erlangt oder grob fahrlässig nicht erlangt hat", "grundlage": "§ 199 Abs. 1 BGB"}
+],
+"achtung": [
+  "Der Irrtum, es seien gesetzlich „drei Mahnungen“ nötig, bevor rechtliche Schritte möglich sind, ist weit verbreitet – eine solche gesetzliche Vorgabe gibt es nicht; Verzug kann je nach Vertragsgestaltung auch ganz ohne Mahnung eintreten.",
+  "Ein Vollstreckungsbescheid darf nicht vor Ablauf der Widerspruchsfrist beantragt werden – das ist unzulässig.",
+  "Die Verjährung wird oft übersehen: Forderungen aus länger zurückliegenden Geschäften verlieren ohne rechtzeitige verjährungshemmende Maßnahme (z. B. einen Mahnbescheid) ihre gerichtliche Durchsetzbarkeit.",
+  "Eine unklare Skontoklausel in den AGB kann zu Streit über die tatsächliche Fälligkeit führen.",
+  "Fälligkeit und Zahlungsziel werden verwechselt: „Zahlbar innerhalb 14 Tagen“ ist keine automatische Verzugsvoraussetzung – ohne zusätzliche Mahnung oder kalendermäßige Bestimmung tritt Verzug gegebenenfalls erst nach der 30-Tage-Regel ein.",
+  "Das zuständige Mahngericht wird oft falsch adressiert: Zuständig ist grundsätzlich das Amtsgericht am allgemeinen Gerichtsstand des Antragstellers – viele Bundesländer haben zentrale Mahngerichte für mehrere Amtsgerichtsbezirke bestimmt."
+],
+"fach_html": "<h3>Vertragsgestaltung und AGB</h3><p>Wichtige Bestandteile eines Vertrags sind Leistungsbeschreibung, Preise, Zahlungsbedingungen (Fälligkeit, Zahlungsziel, Skonto), Eigentumsvorbehalt, Gewährleistung und Kündigungsregeln. Allgemeine Geschäftsbedingungen unterliegen der Inhaltskontrolle nach §§ 305 ff. BGB; überraschende oder unangemessen benachteiligende Klauseln sind unwirksam.</p><h3>Verzug (§ 286 BGB)</h3><p>Verzug setzt grundsätzlich Fälligkeit, Nichtleistung und Mahnung voraus. Eine Mahnung ist entbehrlich bei kalendermäßig bestimmter Leistungszeit, bei einer kalendarisch berechenbaren Frist nach einem Ereignis, bei ernsthafter oder endgültiger Erfüllungsverweigerung oder aus besonderen Gründen. Bei Entgeltforderungen tritt Verzug spätestens 30 Tage nach Fälligkeit und Rechnungszugang automatisch ein – die zentrale Norm für das B2B-Mahnwesen.</p><h3>Gerichtliches Mahnverfahren (§§ 688 ff. ZPO)</h3><p>Zweck ist eine schnelle, kostengünstige Titelbeschaffung ohne mündliche Verhandlung bei vermutet unstreitigen Geldforderungen. Der Ablauf: Mahnbescheid, bei ausbleibendem Widerspruch binnen zwei Wochen Vollstreckungsbescheid, dann Zwangsvollstreckung. Legt der Schuldner Widerspruch ein, geht das Verfahren auf Antrag ins streitige Klageverfahren über. Zuständig ist ein zentrales, automatisiert arbeitendes Mahngericht je Bundesland.</p><h3>Außergerichtliches Mahnwesen</h3><p>Es gibt keine gesetzliche Pflicht zu einer bestimmten Anzahl von Mahnschreiben oder einem bestimmten Ablauf. Das kaufmännische Mahnwesen dient primär der Dokumentation und der Kundenbeziehungspflege, nicht der rechtlichen Verzugsbegründung, die oft schon vorher eintritt.</p><h3>Verjährung (§§ 195, 199 BGB)</h3><p>Die Regelverjährung beträgt drei Jahre ab Jahresende der Anspruchsentstehung und Kenntniserlangung. Kenntnisunabhängige Höchstfristen von 10 oder 30 Jahren gelten nur für gesondert benannte Sonderfälle wie Personenschäden, nicht für gewöhnliche Zahlungsforderungen aus Verträgen.</p>",
+"zustaendig": ["Zentrale Mahngerichte der Länder (automatisierte Bearbeitung nach § 689 ZPO)", "Ordentliche Gerichte im streitigen Verfahren nach Widerspruch", "Gerichtsvollzieher und Vollstreckungsgerichte für die Zwangsvollstreckung"],
+"belege": [
+  "§ 286 BGB, gesetze-im-internet.de/bgb, abgerufen September 2026.",
+  "§ 288 BGB, gesetze-im-internet.de/bgb, abgerufen September 2026.",
+  "§ 195 BGB, gesetze-im-internet.de/bgb, abgerufen September 2026.",
+  "§ 199 BGB, gesetze-im-internet.de/bgb, abgerufen September 2026.",
+  "§ 689 ZPO, gesetze-im-internet.de/zpo, abgerufen September 2026.",
+  "§ 692 ZPO, gesetze-im-internet.de/zpo – Wortlaut über Sekundärquelle bestätigt, Direktabruf vor Veröffentlichung empfohlen.",
+  "§ 699 ZPO, gesetze-im-internet.de/zpo, abgerufen September 2026."
+],
+"siehe_auch": ["forderungsausfall-und-liquiditaet", "scheinselbststaendigkeit", "insolvenz-selbststaendige"],
+"stand": "Stand: September 2026"
+},
+
+{
+"id": "scheinselbststaendigkeit",
+"kategorie": "vertraege-recht",
+"icon": "🕵️",
+"titel": "Scheinselbstständigkeit erkennen und klären",
+"teaser": "Nicht der Vertragstitel, sondern die gelebte Zusammenarbeit entscheidet über Ihren Status. Das Statusfeststellungsverfahren schafft Klarheit.",
+"schlagworte": ["Scheinselbstständigkeit", "§ 7 SGB IV", "§ 7a SGB IV", "Statusfeststellungsverfahren", "Clearingstelle", "§ 266a StGB", "Arbeitnehmerähnliche Selbstständige"],
+"kurz_html": "<p>Ob Sie als Selbstständiger oder als abhängig Beschäftigter gelten, entscheidet nicht der Vertragstitel wie „freier Mitarbeiter“ oder „Honorarkraft“, sondern die tatsächlich gelebte Zusammenarbeit. Sind Sie weisungsgebunden und in die Arbeitsorganisation eines Auftraggebers eingegliedert, liegt sozialversicherungsrechtlich Beschäftigung vor – auch wenn Sie ein Gewerbe angemeldet haben. Das nennt man Scheinselbstständigkeit. Klarheit vorab schafft das Statusfeststellungsverfahren bei der Deutschen Rentenversicherung Bund.</p>",
+"schritte": [
+  {"titel": "Antrag stellen", "text": "Stellen Sie den Antrag auf Statusfeststellung mit dem Formular V0027 bei der Clearingstelle der Deutschen Rentenversicherung Bund – das Verfahren ist kostenfrei."},
+  {"titel": "Prognoseentscheidung erwägen", "text": "Seit 1.4.2022 ist optional bereits vor Aufnahme der Tätigkeit ein Antrag auf Prognoseentscheidung möglich (§ 7a Abs. 4a SGB IV)."},
+  {"titel": "Gesamtwürdigung abwarten", "text": "Die Clearingstelle prüft anhand einer Gesamtwürdigung aller Umstände des Einzelfalls und fordert ggf. Stellungnahmen beider Vertragsparteien an."},
+  {"titel": "Bescheid erhalten", "text": "Die Deutsche Rentenversicherung Bund stellt „Beschäftigung“ oder „selbstständige Tätigkeit“ fest; Widerspruch und Klage gegen bestimmte Entscheidungen haben aufschiebende Wirkung."},
+  {"titel": "Bei Feststellung von Beschäftigung", "text": "Der Auftraggeber wird rückwirkend zum Arbeitgeber und muss Sozialversicherungsbeiträge nachentrichten; bei rechtzeitigem Antrag wirkt die Beitragspflicht ggf. erst ab dem Bescheid statt rückwirkend."},
+  {"titel": "Abweichungen melden", "text": "Weicht die tatsächliche Tätigkeit von einer Prognoseentscheidung ab, muss dies der Deutschen Rentenversicherung binnen eines Monats nach Aufnahme der Tätigkeit mitgeteilt werden."}
+],
+"fristen": [
+  {"wert": "1 Monat", "was": "Meldepflicht für Abweichungen von einer Prognoseentscheidung nach Aufnahme der Tätigkeit; für die Vermeidung rückwirkender Beitragspflicht empfiehlt sich ebenfalls eine zeitnahe Antragstellung nach Tätigkeitsbeginn", "grundlage": "§ 7a Abs. 4a und Abs. 5 SGB IV (genaue Ausgestaltung des Absatzes 5 nicht abschließend am Volltext geprüft)"},
+  {"wert": "bis 30.6.2027 befristet", "was": "Die 2022 eingeführten neuen Verfahrensinstrumente (Prognoseentscheidung, Gruppenfeststellung, Antragsrecht Dritter, mündliche Anhörung) sind gesetzlich befristet", "grundlage": "§ 7a SGB IV in der seit 1.4.2022 geltenden Fassung"},
+  {"wert": "30 Jahre bei Vorsatz, sonst 4 Jahre", "was": "Verjährung von Beitragsansprüchen bei vorsätzlichem Vorenthalten von Sozialversicherungsbeiträgen", "grundlage": "§ 25 SGB IV (nicht abschließend am Gesetzestext verifiziert)"}
+],
+"achtung": [
+  "Der Irrtum „mehrere Auftraggeber schützen automatisch“ ist falsch: Jedes Vertragsverhältnis wird separat bewertet, man kann auch bei mehreren Auftraggebern in jedem einzelnen Verhältnis scheinselbstständig sein.",
+  "Eine Gewerbeanmeldung oder eine Rechnungsstellung mit Umsatzsteuer wird von Sozialgerichten kaum als Indiz gewertet – entscheidend ist die gelebte Praxis: Weisungen, feste Arbeitszeiten und -orte, Nutzung der Betriebsmittel des Auftraggebers, fehlendes Unternehmerrisiko.",
+  "Vertragsklauseln, die das Nachzahlungsrisiko vertraglich auf den Auftragnehmer abwälzen, sind unwirksam – der Auftraggeber bleibt Schuldner der Sozialversicherungsbeiträge.",
+  "Ein Verzicht auf das freiwillige Statusfeststellungsverfahren aus Zeitdruck kann teuer werden: Eine spätere Betriebsprüfung kann Jahre rückwirkend Beiträge nachfordern, ohne die Verfahrensvorteile des freiwilligen Verfahrens.",
+  "Bei nur einem Auftraggeber zusätzlich die Rentenversicherungspflicht nach § 2 Satz 1 Nr. 9 SGB VI prüfen (arbeitnehmerähnliche Selbstständige) – siehe Thema Altersvorsorgepflicht."
+],
+"fach_html": "<h3>Rechtsgrundlagen und Kriterien</h3><p>§ 7 Abs. 1 SGB IV definiert Beschäftigung als nichtselbstständige Arbeit, insbesondere in einem Arbeitsverhältnis, mit Anhaltspunkten wie Weisungsgebundenheit und Eingliederung in die Arbeitsorganisation. Das Gesetz enthält keinen abschließenden Kriterienkatalog; die Rechtsprechung des Bundessozialgerichts wägt im Einzelfall unter anderem Weisungsgebundenheit (Zeit, Ort, Inhalt der Tätigkeit), organisatorische Eingliederung, unternehmerisches Risiko, freie Zeiteinteilung sowie eigene Preisgestaltung und Werbung als Indizien.</p><h3>Statusfeststellungsverfahren § 7a SGB IV</h3><p>Seit der Reform zum 1.4.2022 heißt § 7a SGB IV „Feststellung des Erwerbsstatus“. Die Clearingstelle entscheidet nur noch über den Erwerbsstatus als Ganzes, nicht mehr über die Versicherungspflicht in den einzelnen Zweigen der Sozialversicherung. Neu eingeführt wurden die Prognoseentscheidung vor Tätigkeitsbeginn, die Gruppenfeststellung für gleichartige Auftragsverhältnisse, ein Antragsrecht auch für Dritte (etwa Plattformbetreiber) sowie die mündliche Anhörung als Verfahrensrecht.</p><h3>Strafrechtliche Folgen für den Auftraggeber</h3><p>Wird Scheinselbstständigkeit festgestellt, gilt der Auftraggeber rückwirkend als Arbeitgeber. Vorsätzliches Vorenthalten der Arbeitnehmer- und Arbeitgeberanteile zur Sozialversicherung ist nach § 266a StGB strafbar. Fahrlässiges Verkennen des Status kann die Strafbarkeit ausschließen, schützt aber nicht vor der zivilrechtlichen Nachzahlungspflicht.</p><h3>Arbeitnehmerähnliche Selbstständige</h3><p>Wer dauerhaft im Wesentlichen nur für einen Auftraggeber tätig ist und keinen versicherungspflichtigen Arbeitnehmer beschäftigt, unterliegt der Rentenversicherungspflicht nach § 2 Satz 1 Nr. 9 SGB VI. „Im Wesentlichen“ wird in der Praxis häufig mit einem Schwellenwert von fünf Sechsteln des Betriebseinkommens aus einem Auftraggeber konkretisiert – <strong>dieser Schwellenwert stammt aus Sekundärquellen und ist nicht wörtlich im Gesetzestext enthalten</strong>. Vertiefend siehe Thema Altersvorsorgepflicht.</p>",
+"zustaendig": ["Deutsche Rentenversicherung Bund, Clearingstelle (Statusfeststellungsverfahren)", "Träger der Rentenversicherung bei Betriebsprüfungen (§ 28p SGB IV)", "Hauptzollamt/Finanzkontrolle Schwarzarbeit und Staatsanwaltschaft bei strafrechtlichen Ermittlungen", "Sozialgerichte (gegen Bescheide der Deutschen Rentenversicherung), Strafgerichte (§ 266a StGB)"],
+"belege": [
+  "§ 7 SGB IV, gesetze-im-internet.de/sgb_4, abgerufen September 2026.",
+  "§ 7a SGB IV, gesetze-im-internet.de/sgb_4, abgerufen September 2026.",
+  "§ 266a StGB, gesetze-im-internet.de/stgb, Wortlaut über Sekundärquelle mitverifiziert.",
+  "§ 2 Satz 1 Nr. 9 SGB VI, Deutsche Rentenversicherung, Lexikonbeitrag „Selbständige mit nur einem Auftraggeber“, deutsche-rentenversicherung.de.",
+  "Bundesministerium für Arbeit und Soziales, Verfahren zur Feststellung des Erwerbsstatus, bmas.de, Stand 2026.",
+  "5/6-Schwellenwert zur Konkretisierung von „im Wesentlichen nur ein Auftraggeber“ und Verjährungsfrist nach § 25 SGB IV – nicht abschließend am Gesetzestext verifiziert, siehe Quellen und Methodik."
+],
+"siehe_auch": ["ueberblick-rechte-selbststaendige", "altersvorsorgepflicht-selbststaendige", "vertragsrecht-und-mahnwesen"],
+"stand": "Stand: September 2026"
+},
+
+{
+"id": "insolvenz-selbststaendige",
+"kategorie": "krise",
+"icon": "⚠️",
+"titel": "Insolvenz als Selbstständige/r",
+"teaser": "Bei Überschuldung oder Zahlungsunfähigkeit: Verbraucher- oder Regelinsolvenz, Restschuldbefreiung und was für Einzelunternehmer anders läuft als für GmbHs.",
+"schlagworte": ["Verbraucherinsolvenz", "§ 304 InsO", "Restschuldbefreiung", "§ 287 InsO", "§ 305 InsO", "§ 15a InsO", "StaRUG"],
+"kurz_html": "<p>Wenn Sie als Selbstständige/r überschuldet oder zahlungsunfähig sind, richtet sich das Insolvenzverfahren nach der Größe Ihrer wirtschaftlichen Verhältnisse: kleine, überschaubare Fälle laufen im vereinfachten Verbraucherinsolvenzverfahren, größere im Regelinsolvenzverfahren. Nach Ablauf einer gesetzlichen Frist können Sie von den restlichen Schulden befreit werden (Restschuldbefreiung). Für Kapitalgesellschaften gilt zusätzlich eine gesetzliche Pflicht, rechtzeitig Insolvenz anzumelden – für Einzelunternehmer nicht.</p>",
+"schritte": [
+  {"titel": "Lage prüfen", "text": "Prüfen Sie, ob Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit oder Überschuldung vorliegt."},
+  {"titel": "Verfahrensart klären", "text": "Klären Sie, ob bei ehemaliger oder aktueller selbstständiger Tätigkeit Verbraucherinsolvenz oder Regelinsolvenz einschlägig ist (§ 304 InsO)."},
+  {"titel": "Außergerichtlichen Einigungsversuch unternehmen", "text": "Bei Verbraucherinsolvenz ist zwingend vorgeschaltet ein außergerichtlicher Einigungsversuch mit den Gläubigern anhand eines Schuldenbereinigungsplans, bescheinigt durch eine geeignete Stelle (§ 305 InsO)."},
+  {"titel": "Insolvenzantrag stellen", "text": "Stellen Sie beim zuständigen Amtsgericht den Insolvenzantrag, ggf. mit Antrag auf Restschuldbefreiung (§ 287 InsO)."},
+  {"titel": "Freigabe der Tätigkeit klären", "text": "Der Insolvenzverwalter oder Treuhänder entscheidet bei fortgeführter selbstständiger Tätigkeit über die Freigabe der Tätigkeit aus der Insolvenzmasse (§ 35 Abs. 2 InsO)."},
+  {"titel": "Restschuldbefreiung abwarten", "text": "Nach Ablauf der Abtretungsfrist entscheidet das Insolvenzgericht nach Anhörung der Beteiligten über die Restschuldbefreiung (§ 300 InsO)."}
+],
+"fristen": [
+  {"wert": "3 Jahre", "was": "Regeldauer der Abtretungsfrist bis zur Restschuldbefreiung ab Eröffnung des Insolvenzverfahrens, für Anträge ab dem 1.10.2020", "grundlage": "§ 287 Abs. 2 InsO"},
+  {"wert": "5 Jahre", "was": "Verlängerte Abtretungsfrist bei wiederholter Restschuldbefreiung nach vorheriger Erteilung", "grundlage": "§ 287 Abs. 2 InsO"},
+  {"wert": "6 Monate", "was": "Die Bescheinigung über den gescheiterten außergerichtlichen Einigungsversuch darf bei Antragstellung nicht älter sein", "grundlage": "§ 305 Abs. 1 Nr. 1 InsO"},
+  {"wert": "3 Wochen / 6 Wochen", "was": "Antragspflicht nach Eintritt von Zahlungsunfähigkeit bzw. Überschuldung – gilt nur für juristische Personen und bestimmte Personengesellschaften, nicht für Einzelunternehmer", "grundlage": "§ 15a InsO"}
+],
+"achtung": [
+  "Die Annahme, Schuldnerberatung sei „nur für Privatpersonen“, ist falsch – auch (ehemalige) Selbstständige mit überschaubaren Verhältnissen (unter 20 Gläubigern, keine Arbeitnehmerforderungen) fallen unter das Verbraucherinsolvenzverfahren.",
+  "Es ist ein Irrtum, die selbstständige Tätigkeit müsse vor einem Insolvenzantrag zwingend beendet werden – tatsächlich entscheidet der Insolvenzverwalter über die Freigabe der Tätigkeit, eine Fortführung bleibt oft möglich.",
+  "§ 15a InsO (Antragspflicht) gilt nicht für Einzelunternehmer oder Freiberufler als natürliche Personen, sondern nur für juristische Personen und Personengesellschaften ohne natürlich haftenden Gesellschafter.",
+  "Die Zählung der Gläubigerzahl nach § 304 InsO (Schwellenwert „weniger als 20 Gläubiger“) wird oft falsch berechnet, insbesondere bei aufgesplitteten Forderungen desselben Gläubigers.",
+  "Das StaRUG-Sanierungsverfahren wird oft zu spät erwogen: Es ist nur bei drohender, nicht bei bereits eingetretener Zahlungsunfähigkeit nutzbar."
+],
+"fach_html": "<h3>Regelinsolvenz versus Verbraucherinsolvenz</h3><p>§ 304 InsO bestimmt: Für natürliche Personen ohne selbstständige wirtschaftliche Tätigkeit gelten grundsätzlich die Vorschriften über das Verbraucherinsolvenzverfahren. Wer eine selbstständige wirtschaftliche Tätigkeit ausgeübt hat (auch ehemalig), fällt ebenfalls darunter, wenn die Vermögensverhältnisse überschaubar sind (weniger als 20 Gläubiger) und keine Forderungen aus Arbeitsverhältnissen bestehen. Sind diese Voraussetzungen nicht erfüllt, greift das aufwendigere Regelinsolvenzverfahren mit obligatorischem Insolvenzverwalter.</p><h3>Restschuldbefreiung</h3><p>Durch das Gesetz zur weiteren Verkürzung des Restschuldbefreiungsverfahrens beträgt die Regeldauer der Abtretungsfrist seit dem 1.10.2020 dauerhaft drei Jahre statt vormals sechs Jahre, unabhängig von einer Mindestquote. Nach Fristablauf entscheidet das Insolvenzgericht auf Antrag nach Anhörung der Beteiligten; Versagungsgründe bestehen unter anderem bei Verletzung von Auskunfts- oder Mitwirkungspflichten.</p><h3>Antragspflicht nach § 15a InsO – Abgrenzung nach Rechtsform</h3><p>Antragspflichtig sind Vertretungsorgane juristischer Personen sowie bei bestimmten Personengesellschaften ohne natürlich haftenden Gesellschafter (etwa GmbH & Co. KG) die organschaftlichen Vertreter. Einzelunternehmer und Personengesellschaften mit natürlich haftendem Gesellschafter (z. B. klassische GbR, OHG) unterliegen dieser speziellen, strafbewehrten Antragspflicht nicht.</p><h3>Außergerichtlicher Einigungsversuch und StaRUG</h3><p>Vor einem Verbraucherinsolvenzantrag ist ein Versuch der außergerichtlichen Einigung mit den Gläubigern über einen Schuldenbereinigungsplan zwingend, bescheinigt durch eine geeignete Stelle. Für Unternehmen besteht seit 1.1.2021 mit dem Stabilisierungs- und Restrukturierungsgesetz (StaRUG) ein vorinsolvenzliches Sanierungsverfahren, das bei drohender Zahlungsunfähigkeit einen gerichtlich bestätigten Restrukturierungsplan auch gegen den Willen einzelner Gläubiger ermöglicht. Der genaue Gesetzestext des StaRUG wurde in der zugrundeliegenden Recherche nicht im Volltext geprüft.</p>",
+"zustaendig": ["Insolvenzgericht (Abteilung des zuständigen Amtsgerichts)", "Anerkannte Schuldnerberatungsstellen und Rechtsanwälte (Bescheinigung nach § 305 InsO)", "Gerichtlich bestellter Insolvenzverwalter bzw. Treuhänder", "Restrukturierungsgericht bei StaRUG-Verfahren"],
+"belege": [
+  "§ 304 InsO, gesetze-im-internet.de/inso, abgerufen September 2026.",
+  "§ 305 InsO, gesetze-im-internet.de/inso, abgerufen September 2026.",
+  "§ 287 InsO, gesetze-im-internet.de/inso, abgerufen September 2026.",
+  "§ 300 InsO, gesetze-im-internet.de/inso, abgerufen September 2026.",
+  "§ 15a InsO, gesetze-im-internet.de/inso, abgerufen September 2026.",
+  "Gesetz zur weiteren Verkürzung des Restschuldbefreiungsverfahrens, Bundestag-Drucksache 19/21981, dserver.bundestag.de.",
+  "StaRUG – Existenz und Grundmechanismus über Sekundärquellen bestätigt, Gesetzestext nicht im Volltext geprüft."
+],
+"siehe_auch": ["forderungsausfall-und-liquiditaet", "vertragsrecht-und-mahnwesen", "beratung-anlaufstellen-selbststaendige"],
+"stand": "Stand: September 2026"
+},
+
+{
+"id": "betriebliche-versicherungen",
+"kategorie": "absicherung",
+"icon": "🛡️",
+"titel": "Betriebliche Versicherungen für Selbstständige",
+"teaser": "Berufshaftpflicht, gesetzliche Unfallversicherung und ergänzende Policen: welche Absicherung Pflicht ist und welche sinnvoll sein kann.",
+"schlagworte": ["Berufshaftpflichtversicherung", "§ 51 BRAO", "§ 67 StBerG", "Gesetzliche Unfallversicherung", "§ 2 SGB VII", "§ 6 SGB VII", "Berufsunfähigkeitsversicherung", "Cyberversicherung"],
+"kurz_html": "<p>Als Selbstständige/r tragen Sie unternehmerische Risiken, die weder die gesetzliche Sozialversicherung noch automatisch irgendeine Police abdeckt. Für einige Berufe – etwa Rechtsanwälte, Steuerberater oder Architekten – ist eine Berufshaftpflichtversicherung gesetzlich vorgeschrieben. Für die meisten anderen Selbstständigen sind Versicherungen freiwillig, aber je nach Tätigkeit wirtschaftlich sinnvoll bis existenzsichernd.</p>",
+"schritte": [
+  {"titel": "Pflichtversicherung prüfen", "text": "Prüfen Sie, ob für Ihren Beruf eine gesetzliche Pflichtversicherung besteht – etwa bei Kammerberufen wie Rechtsanwälten, Steuerberatern, Wirtschaftsprüfern, Architekten oder Notaren."},
+  {"titel": "Nachweis erbringen", "text": "Zeigen Sie die Berufshaftpflicht bei der zuständigen Kammer an bzw. erbringen Sie den Nachweis, der bei Pflichtversicherung Voraussetzung für Zulassung oder Bestellung ist."},
+  {"titel": "Freiwillige Unfallversicherung prüfen", "text": "Prüfen Sie eine freiwillige Unfallversicherung bei der zuständigen Berufsgenossenschaft (§ 6 SGB VII), sofern keine Pflichtversicherung nach § 2 SGB VII greift."},
+  {"titel": "Berufsunfähigkeit absichern", "text": "Klären Sie den Bedarf an einer Berufsunfähigkeitsabsicherung, besonders wenn keine Rentenversicherungspflicht und damit keine gesetzliche Erwerbsminderungsrente besteht."},
+  {"titel": "Ergänzende Policen prüfen", "text": "Prüfen Sie je nach Betriebsrisiko ergänzende Policen wie Rechtsschutz-, Inhalts-, Elektronik- oder Cyberversicherung."},
+  {"titel": "Versicherungssummen anpassen", "text": "Passen Sie Versicherungssummen regelmäßig an die Umsatz- und Risikoentwicklung an, insbesondere bei gesetzlichen Mindestsummen als Kammerberuf."}
+],
+"fristen": [
+  {"wert": "Dauerpflicht", "was": "Bei Kammerberufen (z. B. Rechtsanwälte, Steuerberater) besteht keine einmalige Antragsfrist, sondern eine Pflicht zur Aufrechterhaltung der Berufshaftpflicht während der gesamten Dauer der Zulassung bzw. Bestellung", "grundlage": "§ 51 BRAO, § 67 StBerG"},
+  {"wert": "Tag nach Antragseingang", "was": "Beginn der freiwilligen Unfallversicherung bei der Berufsgenossenschaft", "grundlage": "§ 6 SGB VII"},
+  {"wert": "1 Woche (nicht abschließend verifiziert)", "was": "In Sekundärquellen genannte Frist zur Anmeldung des Betriebs bei der zuständigen Berufsgenossenschaft nach Betriebsaufnahme", "grundlage": "SGB VII – nicht am Gesetzestext selbst verifiziert"}
+],
+"achtung": [
+  "Betriebshaftpflicht (Sach- und Personenschäden gegenüber Dritten) und Berufshaftpflicht (Vermögensschäden aus fehlerhafter fachlicher Leistung) werden verwechselt – beide decken unterschiedliche Risiken ab, oft wird nur eine der beiden abgeschlossen.",
+  "Trotz digitaler Geschäftsprozesse fehlt häufig eine Cyberversicherung: Betriebs- und Berufshaftpflicht decken in der Regel keine Eigenschäden durch Hackerangriffe, Datenverlust oder Betriebsunterbrechung ab.",
+  "Es wird fälschlich angenommen, die gesetzliche Unfallversicherung bestehe für Unternehmer automatisch: Nach § 2 SGB VII sind grundsätzlich nur Beschäftigte kraft Gesetzes versichert, die meisten Selbstständigen müssen sich freiwillig nach § 6 SGB VII versichern.",
+  "Es fehlt häufig eine Berufsunfähigkeitsabsicherung: Selbstständige ohne Rentenversicherungspflicht haben keinen Anspruch auf die gesetzliche Erwerbsminderungsrente; eine private Berufsunfähigkeitsversicherung schließt diese Lücke nicht automatisch 1:1, da eine andere Definition von Berufsunfähigkeit gilt.",
+  "Mindestversicherungssummen bei Kammerberufen werden nicht an die Rechtsform angepasst – bei Berufsausübungsgesellschaften gelten teils andere, höhere Mindestsummen als für die Einzelpraxis."
+],
+"fach_html": "<h3>Pflichtversicherungen bestimmter Berufe</h3><p>Rechtsanwälte müssen nach § 51 BRAO eine Berufshaftpflichtversicherung abschließen und aufrechterhalten; genannt werden Mindestversicherungssummen von 250.000 Euro je Versicherungsfall für Einzelanwälte und reduzierte Mindestsummen für Berufsausübungsgesellschaften – <strong>diese Eurobeträge stammen aus Sekundärquellen und wurden nicht direkt am Gesetzestext verifiziert</strong>. Steuerberater unterliegen nach § 67 StBerG ebenfalls einer Pflicht zur Berufshaftpflichtversicherung; die konkrete Mindestversicherungssumme steht nicht im Gesetzestext selbst, sondern vermutlich in einer Durchführungsverordnung, die in dieser Recherche nicht im Volltext geprüft wurde. Für Architekten und Ingenieure ergibt sich die Versicherungspflicht aus den jeweiligen Landesgesetzen, mit von Bundesland zu Bundesland unterschiedlichen Mindestsummen.</p><h3>Gesetzliche Unfallversicherung: Pflicht versus freiwillig</h3><p>§ 2 SGB VII zählt die kraft Gesetzes Versicherten auf, darunter Beschäftigte, Auszubildende sowie einzelne selbstständige Gruppen wie landwirtschaftliche Unternehmer, Hausgewerbetreibende und Küstenschiffer. Für die meisten anderen Selbstständigen – Handwerker, Freiberufler, Gewerbetreibende – besteht keine automatische Pflichtversicherung; eine freiwillige Versicherung ist nach § 6 SGB VII möglich. Wichtig zur Abgrenzung: Die häufig genannte „Pflichtversicherung für Handwerker in der Handwerksrolle“ betrifft die <strong>Rentenversicherungspflicht</strong> nach § 2 Satz 1 Nr. 8 SGB VI, nicht die Unfallversicherung nach SGB VII.</p><h3>Berufsunfähigkeit versus Erwerbsminderungsrente</h3><p>Rentenversicherungspflichtige Selbstständige haben unter bestimmten Voraussetzungen Anspruch auf die gesetzliche Erwerbsminderungsrente der Deutschen Rentenversicherung. Nicht rentenversicherungspflichtige Selbstständige haben diesen Schutz nicht automatisch – für sie ist eine private Berufsunfähigkeitsversicherung die zentrale Absicherungsoption, mit eigenen, vom Sozialrecht abweichenden Leistungsvoraussetzungen.</p><h3>Ergänzende Policen</h3><p>Eine Rechtsschutzversicherung sichert Kosten für Rechtsstreitigkeiten mit Kunden, Lieferanten oder Behörden ab. Eine Inhaltsversicherung deckt Sachschäden an Betriebseinrichtung und Waren. Eine Cyberversicherung ergänzt Betriebs- und Berufshaftpflicht um Eigenschäden aus IT-Sicherheitsvorfällen wie Datenverlust, Betriebsunterbrechung oder Erpressung.</p>",
+"zustaendig": ["Berufskammern (Rechtsanwalts-, Steuerberater-, Architekten-, Wirtschaftsprüfer-, Notarkammer) für Pflichtversicherungen", "Zuständige Berufsgenossenschaft für gesetzliche und freiwillige Unfallversicherung", "Deutsche Rentenversicherung für Erwerbsminderungsrente", "Private Versicherer für Berufsunfähigkeits-, Rechtsschutz-, Inhalts- und Cyberversicherung"],
+"belege": [
+  "§ 51 BRAO, gesetze-im-internet.de/brao – Grundpflicht bestätigt, Mindestsummen nur über Sekundärquellen, nicht abschließend verifiziert.",
+  "§ 67 StBerG, gesetze-im-internet.de/stberg, abgerufen September 2026 – Grundpflicht im Gesetz bestätigt, Mindestsumme nicht im Gesetzestext selbst enthalten.",
+  "§ 2 SGB VII, gesetze-im-internet.de/sgb_7, abgerufen September 2026.",
+  "§ 6 SGB VII, gesetze-im-internet.de/sgb_7, abgerufen September 2026.",
+  "§ 2 Satz 1 Nr. 8 SGB VI zur Abgrenzung Handwerker-Rentenversicherungspflicht – Deutsche Rentenversicherung, Fachinformationen.",
+  "Mindestversicherungssummen bei Rechtsanwälten/Steuerberatern und die Wochenfrist zur BG-Anmeldung – nicht abschließend am Gesetzes- bzw. Verordnungstext verifiziert, siehe Quellen und Methodik."
+],
+"siehe_auch": ["krankheit-und-lohnersatz-selbststaendige", "altersvorsorgepflicht-selbststaendige", "insolvenz-selbststaendige"],
+"stand": "Stand: September 2026"
+},
+
+{
+"id": "beratung-anlaufstellen-selbststaendige",
+"kategorie": "ueberblick",
+"icon": "🧑‍💼",
+"titel": "Beratung und Anlaufstellen für Selbstständige",
+"teaser": "Kammern, Steuerberatung, Statusfeststellung, Schuldnerberatung und Verbände: eine Orientierung, wer bei welcher Frage weiterhilft.",
+"schlagworte": ["IHK", "HWK", "KfW-Beratungsförderung", "Schuldnerberatung", "§ 305 InsO", "VGSD", "Clearingstelle"],
+"kurz_html": "<p>Für rechtliche, wirtschaftliche und finanzielle Fragen rund um die Selbstständigkeit gibt es mehrere spezialisierte Anlaufstellen. Kammern (IHK/HWK) bieten für viele Gewerbetreibende als Pflichtmitgliedschaft kostenlose Erstberatung. Für tiefere Fragen zu Vertragsrecht, Steuerstatus oder Sozialversicherung sind Steuerberater, Rechtsanwälte und die Deutsche Rentenversicherung zuständig. Bei Zahlungsschwierigkeiten helfen anerkannte Schuldnerberatungsstellen, bei politischer Interessenvertretung Verbände wie der VGSD.</p>",
+"schritte": [
+  {"titel": "Allgemeine Gründungsfragen klären", "text": "Nutzen Sie die kostenlose Erstberatung bei IHK, Handwerkskammer oder einem regionalen Gründerzentrum."},
+  {"titel": "Geförderte Beratung in Anspruch nehmen", "text": "Prüfen Sie eine KfW-Beratungsförderung über akkreditierte Berater, vermittelt über IHK, Handwerkskammer oder die regionale Wirtschaftsförderung."},
+  {"titel": "Steuerliche und rechtliche Einzelfragen klären", "text": "Konsultieren Sie einen Steuerberater bzw. eine Rechtsanwältin, etwa mit Spezialisierung auf Arbeits-, Vertrags- oder Insolvenzrecht."},
+  {"titel": "Status klären lassen", "text": "Bei Unsicherheit über Scheinselbstständigkeit beantragen Sie das Statusfeststellungsverfahren bei der Clearingstelle der Deutschen Rentenversicherung Bund (§ 7a SGB IV)."},
+  {"titel": "Krankenversicherungsfragen klären", "text": "Lassen Sie sich direkt bei Ihrer Krankenkasse zu Beitragsbemessung und freiwilliger Versicherung beraten."},
+  {"titel": "Bei Überschuldung Schuldnerberatung suchen", "text": "Kontaktieren Sie eine nach § 305 InsO anerkannte Schuldnerberatungsstelle mit Kompetenz für Selbstständige – klassische kostenlose Stellen beraten oft nur Privatpersonen."},
+  {"titel": "Vernetzung suchen", "text": "Erwägen Sie eine Mitgliedschaft in einem Verband wie dem VGSD für Webinare, Rechtsberatung und politische Interessenvertretung."}
+],
+"fristen": [
+  {"wert": "6 Monate", "was": "Die Bescheinigung einer geeigneten Stelle über den gescheiterten außergerichtlichen Einigungsversuch darf bei einem Verbraucherinsolvenzantrag nicht älter sein", "grundlage": "§ 305 Abs. 1 Nr. 1 InsO"}
+],
+"achtung": [
+  "Die IHK/HWK-Erstberatung ersetzt keine Steuerberatung – sie ist allgemein und unverbindlich, keine Rechts- oder Steuerberatung im Einzelfall.",
+  "Freiberufler gehen fälschlich davon aus, IHK-pflichtig zu sein – das sind sie in der Regel nicht, außer bei Handelsregistereintrag (§ 2 Abs. 2 IHKG).",
+  "Schuldnerberatung wird oft erst bei akuter Krise gesucht statt frühzeitig – viele Stellen haben lange Wartezeiten, und nicht jede Beratungsstelle nimmt Selbstständige an.",
+  "KfW-Förderung wird manchmal erst nach Beauftragung eines Beraters beantragt – die Förderfähigkeit setzt oft eine vorherige Antragstellung bzw. Registrierung voraus.",
+  "Das Statusfeststellungsverfahren wird aus Angst vor dem Ergebnis gemieden – es kann aber vor deutlich größeren Nachzahlungsrisiken schützen, wenn es frühzeitig genutzt wird."
+],
+"fach_html": "<h3>IHK und Handwerkskammer</h3><p>Für Gewerbetreibende besteht eine Pflichtmitgliedschaft bei der IHK (§ 2 IHKG) bzw. bei Eintragung in die Handwerksrolle bei der Handwerkskammer. Freiberufler ohne Handelsregistereintrag sind nicht IHK-pflichtig (§ 2 Abs. 2 IHKG). Beitragsermäßigungen für Gründerinnen und Gründer variieren je nach Kammersatzung und sind <strong>nicht bundeseinheitlich geregelt</strong> – im Zweifel bei der zuständigen regionalen Kammer erfragen.</p><h3>KfW-Beratungsförderung</h3><p>Es existiert ein Bundesprogramm zur Förderung von Unternehmensberatungen für kleine und mittlere Unternehmen mit Zuschüssen zu den Beraterkosten. <strong>Die genauen Förderquoten, Höchstbeträge und die Laufzeit des Programms wurden in der zugrundeliegenden Recherche nicht direkt auf kfw.de verifiziert</strong> und sollten vor einer konkreten Beratungsempfehlung tagesaktuell auf kfw.de oder bafa.de geprüft werden.</p><h3>Verband der Gründer und Selbstständigen Deutschland (VGSD)</h3><p>Der VGSD ist ein Verband für Kleinstunternehmer und Solo-Selbstständige mit kostenloser Mitgliedschaft, der Webinare, Rechtsberatung und politische Interessenvertretung zu Themen wie Scheinselbstständigkeit, Sozialversicherung und Förderprogrammen anbietet. Es handelt sich um eine Verbands-Eigenangabe, keine amtliche Quelle.</p><h3>Schuldnerberatung für Selbstständige</h3><p>Die Anerkennung als „geeignete Stelle“ nach § 305 InsO erfolgt durch die zuständige Landesbehörde. Für Selbstständige mit Betriebsschulden gibt es spezialisierte, teils kostenpflichtige Beratungsstellen, da klassische Wohlfahrtsverbände meist nur Privatpersonen betreuen.</p><h3>Statusfeststellung bei der Deutschen Rentenversicherung</h3><p>Das optionale Anfrageverfahren nach § 7a SGB IV läuft bei der Clearingstelle der Deutschen Rentenversicherung Bund in Berlin. Seit 1.4.2022 wird nur noch der Erwerbsstatus insgesamt festgestellt, nicht mehr die Versicherungspflicht in einzelnen Zweigen der Sozialversicherung.</p>",
+"zustaendig": ["Regionale IHK bzw. Handwerkskammer", "KfW und Regionalpartner (Beratungsförderung)", "Steuerberater und Rechtsanwaltskammer-Mitglieder", "Deutsche Rentenversicherung Bund, Clearingstelle", "Zuständige Krankenkasse", "Landesrechtlich anerkannte Schuldnerberatungsstellen", "VGSD e. V."],
+"belege": [
+  "§ 2 IHKG, gesetze-im-internet.de/ihkg, abgerufen September 2026.",
+  "§ 305 Abs. 1 InsO, gesetze-im-internet.de/inso – Sechs-Monats-Frist über Sekundärquelle mitbestätigt, Grundnorm primär verifiziert.",
+  "§ 7a SGB IV, rvrecht.deutsche-rentenversicherung.de und bmas.de, abgerufen September 2026.",
+  "vgsd.de, Verbandsselbstbeschreibung, abgerufen September 2026.",
+  "KfW-Beratungsförderung – nur über Sekundärquelle (Kammerseite) erfasst, nicht direkt auf kfw.de verifiziert; vor einer konkreten Empfehlung tagesaktuell prüfen."
+],
+"siehe_auch": ["ueberblick-rechte-selbststaendige", "scheinselbststaendigkeit", "insolvenz-selbststaendige"],
+"stand": "Stand: September 2026"
+}
+
+]
+}

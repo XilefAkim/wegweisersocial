@@ -1,0 +1,1024 @@
+{
+ "kategorien": [
+  {
+   "id": "ueberblick",
+   "titel": "Überblick",
+   "icon": "🧭",
+   "beschreibung": "Was Familien mit Kindern zusteht und wo Sie anfangen."
+  },
+  {
+   "id": "geld",
+   "titel": "Geld für Familien",
+   "icon": "💶",
+   "beschreibung": "Kindergeld, Kinderzuschlag, Bildungspaket und Unterhalt."
+  },
+  {
+   "id": "betreuung-schule",
+   "titel": "Kita, Schule, Arbeit",
+   "icon": "🏫",
+   "beschreibung": "Betreuungsanspruch, Schulpflicht und Kinderkrankentage."
+  },
+  {
+   "id": "rechte",
+   "titel": "Sorge, Jugendamt, Kinderrechte",
+   "icon": "⚖️",
+   "beschreibung": "Sorgerecht, Kinderschutz, Hilfen und Rechte des Kindes."
+  },
+  {
+   "id": "medien",
+   "titel": "Handy und Internet",
+   "icon": "📱",
+   "beschreibung": "Altersfreigaben und Erziehung im Netz."
+  },
+  {
+   "id": "hilfe",
+   "titel": "Beratung",
+   "icon": "📞",
+   "beschreibung": "Bundesweit belegte Anlaufstellen."
+  }
+ ],
+ "seiten": [
+  {
+   "id": "ueberblick",
+   "kategorie": "ueberblick",
+   "titel": "Überblick: Rechte und Leistungen für Familien",
+   "icon": "🧭",
+   "teaser": "Was Eltern schulpflichtiger Kinder wissen sollten: Geld, Betreuung, Schule, Kinderschutz und Rechte des Kindes.",
+   "schlagworte": [
+    "Familie",
+    "Eltern",
+    "Kindergeld",
+    "Kita",
+    "Schule",
+    "Jugendamt",
+    "Kinderrechte"
+   ],
+   "kurz_html": "<p>Als Eltern haben Sie Rechte und Pflichten. Ihr Kind hat eigene Rechte. Viele Leistungen gibt es nur auf Antrag.</p><p>Wichtige Bausteine:</p><ul><li><strong>Geld:</strong> Kindergeld, Kinderzuschlag, Bildung und Teilhabe.</li><li><strong>Betreuung:</strong> Rechtsanspruch auf Kita und auf Ganztagsförderung im Grundschulalter.</li><li><strong>Schule:</strong> Es gilt Schulpflicht. Die Regeln machen die Bundesländer.</li><li><strong>Arbeit:</strong> Kinderkrankentage, wenn Ihr Kind krank ist.</li><li><strong>Jugendamt:</strong> Es hilft und schützt. Sie haben Anspruch auf Hilfe, wenn die Erziehung schwierig wird.</li></ul><p>Für Alleinerziehende, Schwangerschaft und Elternzeit, Trennung und Careleaver gibt es eigene Wegweiser. Diese Seiten hier gelten für alle Familien.</p>",
+   "schritte": [
+    {
+     "titel": "Thema finden",
+     "text": "Suchen Sie oben nach Ihrem Thema, zum Beispiel Kindergeld oder Kita."
+    },
+    {
+     "titel": "Anträge früh stellen",
+     "text": "Leistungen gibt es meist erst ab Antrag. Fragen Sie früh bei der zuständigen Stelle."
+    },
+    {
+     "titel": "Unterlagen sammeln",
+     "text": "Geburtsurkunde, Einkommensnachweise und Bescheide helfen bei jedem Antrag."
+    },
+    {
+     "titel": "Rat holen",
+     "text": "Bei Unsicherheit nutzen Sie die Beratungsseite dieses Wegweisers."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "259 Euro",
+     "was": "Kindergeld pro Kind und Monat",
+     "grundlage": "§ 66 Abs. 1 EStG"
+    },
+    {
+     "wert": "bis Schuleintritt",
+     "was": "Rechtsanspruch auf Kita ab drittem Geburtstag",
+     "grundlage": "§ 24 Abs. 3 SGB VIII"
+    }
+   ],
+   "achtung": [
+    "Viele Regeln (Schulpflichtdauer, Einschulung, Schulwahl, Lernmittel, Beförderung, Bußgelder, Förderbedarf, Kita-Gebühren) sind Landesrecht und unterscheiden sich je nach Bundesland; geprüft sind nur BY, NRW und BE.",
+    "Dieser Wegweiser gibt Information, keine Rechtsberatung.",
+    "Beträge und Sonderregeln gelten für 2026 und können sich ändern."
+   ],
+   "fach_html": "<h3>Aufbau und Abgrenzung</h3><p>Der Wegweiser behandelt Bundesrecht: Einkommensteuergesetz (EStG, Kindergeld), Bundeskindergeldgesetz (BKGG, Kinderzuschlag), SGB II und SGB XII (Bildung und Teilhabe), SGB V (Kinderkrankengeld), SGB VIII (Kinder- und Jugendhilfe) und Bürgerliches Gesetzbuch (BGB). Schulrecht ist nach der Quelle der Kultusministerkonferenz Ländersache.</p><h3>Nicht vertieft</h3><p>Leistungen für Alleinerziehende, Mutterschutz und Elterngeld, Trennungs- und Scheidungsfolgen sowie Hilfen für junge Menschen aus der Jugendhilfe (Careleaver) haben eigene Wegweiser.</p>",
+   "zustaendig": [
+    "Familienkasse (Bundesagentur für Arbeit)",
+    "Jugendamt",
+    "Schule bzw. Schulamt des Landes: Berlin Schulämter bezirklich, Schulaufsicht Senatsverwaltung; NRW Schulämter als untere Schulaufsicht (§ 89 SchulG NRW); Bayern staatliches Schulamt (nicht im Volltext geprüft)"
+   ],
+   "belege": [
+    "Gesetze im Internet, § 66 EStG, abgerufen 20.09.2026",
+    "Gesetze im Internet, § 24 SGB VIII, abgerufen 20.09.2026",
+    "Kultusministerkonferenz, Bildungswege und Abschlüsse, abgerufen 20.09.2026"
+   ],
+   "siehe_auch": [
+    "kindergeld",
+    "kita-anspruch",
+    "beratung"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "kindergeld",
+   "kategorie": "geld",
+   "titel": "Kindergeld beantragen",
+   "icon": "💶",
+   "teaser": "259 Euro pro Kind und Monat. Der Antrag geht an die Familienkasse.",
+   "schlagworte": [
+    "Kindergeld",
+    "Familienkasse",
+    "Antrag",
+    "259 Euro",
+    "Kindergeldberechtigte",
+    "Auszahlung"
+   ],
+   "kurz_html": "<p>Für jedes Kind gibt es Kindergeld. Seit Januar 2026 sind das 259 Euro im Monat.</p><p>Den Antrag stellen Sie bei der Familienkasse. Wenn Sie schon Kindergeld bekommen, müssen Sie wegen der Erhöhung nichts tun. Die Familienkasse zahlt automatisch mehr.</p><p>Der Betrag ist für alle Kinder gleich hoch. Es ist egal, ob es das erste oder das dritte Kind ist.</p>",
+   "schritte": [
+    {
+     "titel": "Antrag stellen",
+     "text": "Stellen Sie den Antrag bei Ihrer Familienkasse."
+    },
+    {
+     "titel": "Unterlagen bereithalten",
+     "text": "Geburtsurkunde des Kindes und Angaben zu allen Beteiligten."
+    },
+    {
+     "titel": "Änderungen melden",
+     "text": "Melden Sie Änderungen, etwa einen Umzug oder das Ende der Ausbildung."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "259 Euro",
+     "was": "monatlich für jedes Kind",
+     "grundlage": "§ 66 Abs. 1 EStG"
+    },
+    {
+     "wert": "keine neue Antragstellung",
+     "was": "bei bestehendem Anspruch steigt das Kindergeld automatisch",
+     "grundlage": "Bundesagentur für Arbeit, Presseinfo Nr. 53 vom 04.12.2025"
+    }
+   ],
+   "achtung": [
+    "Kindergeld wird nur rückwirkend für begrenzte Zeit gezahlt. Stellen Sie den Antrag deshalb früh.",
+    "Wenn mehrere Personen anspruchsberechtigt sein könnten, wird nach § 64 EStG nur einem Berechtigten Kindergeld gezahlt (vor allem Obhut des Kindes).",
+    "Melden Sie Änderungen sofort, sonst drohen Rückforderungen."
+   ],
+   "fach_html": "<h3>Höhe</h3><p>Nach § 66 Abs. 1 EStG beträgt das Kindergeld monatlich für jedes Kind 259 Euro. Die Bundesagentur für Arbeit teilt mit, dass es ab Januar 2026 einheitlich für jedes Kind um vier Euro auf 259 Euro pro Monat steigt und dass Bezieher nichts veranlassen müssen.</p><h3>Wer bekommt es</h3><p>Im Regelfall gilt § 63 Abs. 1 EStG: Kinder sind die Kinder nach § 32 Abs. 1 EStG, Kinder des Ehegatten und Enkel. Für ein Kind wird nur einem Berechtigten Kindergeld gezahlt; bei mehreren Berechtigten entscheidet nach § 64 EStG vor allem die Obhut. § 2 BKGG gilt nur für den Restpersonenkreis nach § 1 BKGG.</p><h3>Verhältnis zum Steuerrecht</h3><p>Kindergeld und Kinderfreibetrag (§§ 31, 32 EStG) stehen im Zusammenhang. Ob der Freibetrag günstiger ist, prüft das Finanzamt.</p>",
+   "zustaendig": [
+    "Familienkasse der Bundesagentur für Arbeit",
+    "Bei Beschäftigten im öffentlichen Dienst teilweise die Familienkasse des Dienstherrn"
+   ],
+   "belege": [
+    "Gesetze im Internet, § 66 EStG, abgerufen 20.09.2026",
+    "Bundesagentur für Arbeit, Presseinfo Nr. 53 vom 04.12.2025: Kindergeld steigt ab Januar 2026, abgerufen 20.09.2026",
+    "Gesetze im Internet, §§ 63, 64 EStG und § 1 BKGG, abgerufen 20.09.2026"
+   ],
+   "siehe_auch": [
+    "kinderzuschlag",
+    "kindergeld-volljaehrig"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "kinderzuschlag",
+   "kategorie": "geld",
+   "titel": "Kinderzuschlag bei geringem Einkommen",
+   "icon": "🧾",
+   "teaser": "Bis zu 297 Euro pro Kind und Monat zusätzlich zum Kindergeld, wenn das Einkommen knapp reicht.",
+   "schlagworte": [
+    "Kinderzuschlag",
+    "KiZ",
+    "geringes Einkommen",
+    "Familienkasse",
+    "Mindesteinkommen",
+    "Wohngeld"
+   ],
+   "kurz_html": "<p>Der Kinderzuschlag ist mehr Geld für Familien mit kleinem Einkommen. Er kommt zum Kindergeld dazu.</p><p>Er beträgt höchstens 297 Euro pro Kind im Monat. Sie brauchen ein Mindesteinkommen: 900 Euro als Paar, 600 Euro als Alleinerziehende.</p><p>Sie beantragen ihn bei der Familienkasse. Er wird für sechs Monate bewilligt. Danach stellen Sie einen neuen Antrag.</p>",
+   "schritte": [
+    {
+     "titel": "Vorprüfen",
+     "text": "Prüfen Sie mit dem KiZ-Lotse der Bundesagentur, ob ein Anspruch möglich ist."
+    },
+    {
+     "titel": "Antrag stellen",
+     "text": "Stellen Sie den Antrag bei der Familienkasse, online möglich."
+    },
+    {
+     "titel": "Wohnkosten belegen",
+     "text": "Ihre Wohnkosten gehen in die Berechnung ein."
+    },
+    {
+     "titel": "Nach sechs Monaten neu beantragen",
+     "text": "Der Bewilligungszeitraum endet nach sechs Monaten."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "bis 297 Euro",
+     "was": "Höchstbetrag pro Kind und Monat",
+     "grundlage": "Bundesagentur für Arbeit, Kinderzuschlag 2026"
+    },
+    {
+     "wert": "900 / 600 Euro",
+     "was": "Mindesteinkommen Paare / Alleinerziehende",
+     "grundlage": "§ 6a BKGG"
+    },
+    {
+     "wert": "6 Monate",
+     "was": "Bewilligungszeitraum",
+     "grundlage": "§ 6a BKGG"
+    }
+   ],
+   "achtung": [
+    "Voraussetzung ist, dass Sie für das Kind Kindergeld bekommen.",
+    "Wer nach dem SGB II hilfebedürftig ist, hat grundsätzlich keinen Anspruch; Ausnahmen regelt § 6a Abs. 1a BKGG.",
+    "Die genaue Höhe hängt von Einkommen und Wohnkosten ab; der Höchstbetrag wird nicht immer erreicht."
+   ],
+   "fach_html": "<h3>Voraussetzungen</h3><p>Nach § 6a BKGG können Personen Kinderzuschlag für unverheiratete Kinder unter 25 Jahren erhalten, wenn sie Kindergeld oder gleichwertige Leistungen beziehen, ein Mindesteinkommen von 900 Euro (Alleinerziehende 600 Euro) haben und keine Hilfebedürftigkeit nach dem SGB II besteht. Das Mindesteinkommen wird ohne Wohngeld, Kindergeld und Kinderzuschlag berechnet.</p><h3>Höhe und Dauer</h3><p>Die Bundesagentur nennt für 2026 einen Höchstbetrag von 297 Euro pro Kind und Monat. Nach § 6a BKGG ist über den Gesamtkinderzuschlag jeweils für sechs Monate zu entscheiden; Änderungen während des Zeitraums bleiben grundsätzlich unberücksichtigt, außer bei geänderter Haushaltszusammensetzung.</p>",
+   "zustaendig": [
+    "Familienkasse der Bundesagentur für Arbeit",
+    "Wohngeldstelle (für das Zusammenspiel mit Wohngeld)"
+   ],
+   "belege": [
+    "Bundesagentur für Arbeit, Kinderzuschlag: Anspruch, Höhe, Dauer, abgerufen 20.09.2026",
+    "Gesetze im Internet, § 6a BKGG, abgerufen 20.09.2026",
+    "Bundesagentur für Arbeit, Kinderzuschlag verstehen, abgerufen 20.09.2026"
+   ],
+   "siehe_auch": [
+    "kindergeld",
+    "bildung-teilhabe"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "bildung-teilhabe",
+   "kategorie": "geld",
+   "titel": "Bildung und Teilhabe (Bildungspaket)",
+   "icon": "🎒",
+   "teaser": "Schulbedarf, Ausflüge, Mittagessen, Lernförderung und Vereinsbeiträge für Kinder aus Familien mit geringem Einkommen.",
+   "schlagworte": [
+    "Bildungspaket",
+    "Schulbedarf",
+    "Klassenfahrt",
+    "Mittagessen",
+    "Lernförderung",
+    "Teilhabe",
+    "Verein"
+   ],
+   "kurz_html": "<p>Manche Kosten für Schule und Freizeit übernimmt der Staat. Das heißt Bildung und Teilhabe.</p><p>Anspruch haben Kinder aus Familien, die Grundsicherungsgeld (neue Grundsicherung, SGB II, seit 01.07.2026), Wohngeld, Kinderzuschlag oder Asylbewerberleistungen bekommen.</p><p>Für 2026 gibt es für den Schulbedarf 195 Euro pro Kind: 130 Euro im ersten und 65 Euro im zweiten Schulhalbjahr.</p><p>Dazu kommen Klassenfahrten, Ausflüge, Schulweg, Mittagessen, Lernförderung und pauschal 15 Euro im Monat für Sport, Kultur oder Musik (nur für Leistungsberechtigte unter 18).</p>",
+   "schritte": [
+    {
+     "titel": "Zuständige Stelle finden",
+     "text": "Jobcenter, Stadt-/Gemeindebehörde oder Wohngeldstelle, je nach Ihrer Leistung."
+    },
+    {
+     "titel": "Antrag stellen",
+     "text": "Beantragen Sie die Leistungen dort. Fragen Sie nach dem Vorgehen vor Ort."
+    },
+    {
+     "titel": "Bedarf belegen",
+     "text": "Für Lernförderung oder Ausflüge brauchen Sie meist eine Bestätigung der Schule."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "195 Euro",
+     "was": "Schulbedarf 2026: 130 Euro (1. Halbjahr) + 65 Euro (2. Halbjahr)",
+     "grundlage": "§ 28 Abs. 3 SGB II i. V. m. § 34 SGB XII; Familienportal des Bundes"
+    },
+    {
+     "wert": "15 Euro/Monat",
+     "was": "Pauschale für Sport, Kultur, Musik, Freizeiten; nur für Leistungsberechtigte unter 18",
+     "grundlage": "§ 28 Abs. 7 SGB II"
+    }
+   ],
+   "achtung": [
+    "Antragsfristen nennt die geprüfte Quelle nicht. Fragen Sie vor Ort und beantragen Sie früh.",
+    "Der Schulbedarf wird nach § 28 Abs. 3 SGB II regelmäßig zum 1. August und zum 1. Februar berücksichtigt.",
+    "Fragen Sie vor größeren Ausgaben bei der zuständigen Stelle nach, ob Kosten übernommen werden.",
+    "Schülerbeförderung: § 28 Abs. 4 SGB II zahlt nur, soweit Dritte nicht zahlen. Vorrang hat Landesrecht: BY SchKfrG/SchBefV (Grundschule ab 2 km, ab Jgst. 5 ab 3 km, bei Behinderung entfernungsunabhängig); NRW § 97 Abs. 4 SchulG NRW + SchfkVO (Primarstufe ab 2 km); Berlin Schülerticket kostenlos (Fortgeltung 2026/27 nicht geprüft) (nicht im Volltext geprüft).",
+    "Lernmittel sind Landesrecht (BY Art. 21 BaySchFG, NRW § 96 SchulG NRW, BE § 50 SchulG Bln); siehe Seite Schulpflicht und Schulwahl."
+   ],
+   "fach_html": "<h3>Leistungen</h3><p>§ 28 SGB II umfasst Schulausflüge und mehrtägige Klassenfahrten, persönlichen Schulbedarf, Schülerbeförderung, angemessene Lernförderung, gemeinschaftliche Mittagsverpflegung in schulischer Verantwortung und Teilhabe am sozialen und kulturellen Leben. Der Schulbedarf beträgt nach § 34 Abs. 3 SGB XII in der abgerufenen Fassung 100 Euro für das erste Schulhalbjahr und 50 Euro für das zweite; für 2026 nennt das Familienportal des Bundes 130 Euro und 65 Euro, zusammen 195 Euro. Die 100/50 Euro sind Basisbeträge; sie werden jährlich fortgeschrieben, daraus ergeben sich 130/65 Euro für 2026.</p><h3>Berechtigte</h3><p>Nach dem Familienportal des Bundes haben Kinder und Jugendliche Anspruch, deren Familien Grundsicherungsgeld (neue Grundsicherung, SGB II, seit 01.07.2026), Wohngeld, Kinderzuschlag oder Asylbewerberleistungen erhalten. Grundlagen: § 28 SGB II, § 6b BKGG (Wohngeld und Kinderzuschlag), § 3 Abs. 3 AsylbLG.</p><p>Die Teilhabepauschale von 15 Euro im Monat (§ 28 Abs. 7 SGB II) steht nur Leistungsberechtigten unter 18 Jahren zu.</p>",
+   "zustaendig": [
+    "Jobcenter",
+    "Stadt- oder Gemeindebehörde",
+    "Wohngeldstelle"
+   ],
+   "belege": [
+    "Gesetze im Internet, § 28 SGB II, abgerufen 20.09.2026",
+    "Gesetze im Internet, § 34 SGB XII, abgerufen 20.09.2026",
+    "Familienportal des Bundes, Bildung und Teilhabe, abgerufen 20.09.2026",
+    "Gesetze im Internet, § 6b BKGG und § 3 AsylbLG, abgerufen 20.09.2026",
+    "Landesrecht Beförderung: SchKfrG/SchBefV Bayern, § 97 SchulG NRW und SchfkVO, Berlin Schülerticket"
+   ],
+   "siehe_auch": [
+    "kinderzuschlag",
+    "schulpflicht-schulwahl"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "kindergeld-volljaehrig",
+   "kategorie": "geld",
+   "titel": "Kindergeld für volljährige Kinder",
+   "icon": "🎓",
+   "teaser": "Bis 25 bei Ausbildung oder Studium: Wann Kindergeld nach dem 18. Geburtstag weiterläuft.",
+   "schlagworte": [
+    "Kindergeld ab 18",
+    "Ausbildung",
+    "Studium",
+    "Übergangszeit",
+    "Freiwilligendienst",
+    "Behinderung"
+   ],
+   "kurz_html": "<p>Ihr Kind wird 18. Das Kindergeld endet nicht automatisch.</p><p>Es läuft weiter, wenn Ihr Kind zum Beispiel:</p><ul><li>unter 21 ist, ohne Job und bei der Arbeitsagentur als arbeitsuchend gemeldet,</li><li>unter 25 ist und eine Ausbildung oder ein Studium macht,</li><li>zwischen zwei Ausbildungsabschnitten höchstens vier Monate Pause hat,</li><li>einen anerkannten Freiwilligendienst macht.</li></ul><p>Nach der ersten Ausbildung oder dem ersten Studium darf Ihr Kind grundsätzlich nicht mehr als 20 Stunden pro Woche arbeiten.</p>",
+   "schritte": [
+    {
+     "titel": "Nachweis sammeln",
+     "text": "Ausbildungsvertrag oder Studienbescheinigung bereithalten."
+    },
+    {
+     "titel": "Familienkasse informieren",
+     "text": "Melden Sie den Beginn und das Ende der Ausbildung."
+    },
+    {
+     "titel": "Arbeitszeit prüfen",
+     "text": "Nach der Erstausbildung Stunden pro Woche im Blick halten."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "bis 21",
+     "was": "arbeitsuchend gemeldet, nicht erwerbstätig",
+     "grundlage": "§ 32 Abs. 4 EStG"
+    },
+    {
+     "wert": "bis 25",
+     "was": "in Ausbildung/Studium, Übergangszeit bis 4 Monate, Freiwilligendienst",
+     "grundlage": "§ 32 Abs. 4 EStG"
+    },
+    {
+     "wert": "20 Stunden/Woche",
+     "was": "Grenze für Erwerbstätigkeit nach Erstausbildung/Erststudium",
+     "grundlage": "§ 32 Abs. 4 EStG"
+    }
+   ],
+   "achtung": [
+    "Nach abgeschlossener Erstausbildung gelten strengere Regeln zur Erwerbstätigkeit.",
+    "Ausbildungsverhältnis und geringfügige Beschäftigung sind nach den Quellen ausgenommen.",
+    "Kinder mit einer vor dem 25. Geburtstag eingetretenen Behinderung, die sich nicht selbst unterhalten können, können unabhängig vom Alter berücksichtigt werden."
+   ],
+   "fach_html": "<h3>Rechtsgrundlage</h3><p>§ 32 Abs. 4 EStG: Kinder werden bis 18 berücksichtigt; bis 21, wenn sie nicht in einem Beschäftigungsverhältnis stehen und bei einer Agentur für Arbeit im Inland arbeitsuchend gemeldet sind; bis 25, wenn sie für einen Beruf ausgebildet werden, sich in einer Übergangszeit von höchstens vier Monaten befinden, keinen Ausbildungsplatz finden oder einen anerkannten Freiwilligendienst leisten. § 2 BKGG enthält für das Bundeskindergeldgesetz entsprechende Regeln.</p><h3>Erwerbstätigkeit</h3><p>Nach einer erstmaligen Berufsausbildung oder einem Erststudium wird ein Kind nur berücksichtigt, wenn es keiner Erwerbstätigkeit nachgeht; bis zu 20 Wochenstunden, Ausbildungsverhältnisse und geringfügige Beschäftigung sind unschädlich. Weitere Einzelfälle (Zweitausbildung, Auslandsstudium) wurden nicht geprüft.</p>",
+   "zustaendig": [
+    "Familienkasse"
+   ],
+   "belege": [
+    "Gesetze im Internet, § 32 EStG, abgerufen 20.09.2026",
+    "Gesetze im Internet, § 2 BKGG, abgerufen 20.09.2026"
+   ],
+   "siehe_auch": [
+    "kindergeld",
+    "unterhalt-volljaehrig"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "unterhalt-volljaehrig",
+   "kategorie": "geld",
+   "titel": "Ausbildung und Unterhalt für volljährige Kinder",
+   "icon": "📚",
+   "teaser": "Eltern schulden Unterhalt auch für eine angemessene Berufsausbildung. Was das bedeutet.",
+   "schlagworte": [
+    "Unterhalt",
+    "Ausbildungsunterhalt",
+    "Studium",
+    "Düsseldorfer Tabelle",
+    "volljährig",
+    "Bedarf"
+   ],
+   "kurz_html": "<p>Auch nach dem 18. Geburtstag können Eltern zum Unterhalt verpflichtet sein. Der Unterhalt umfasst die Kosten einer angemessenen Berufsausbildung.</p><p>Die Höhe richtet sich nach der Lebensstellung und nach der Leistungsfähigkeit der Eltern.</p><p>Eine Orientierung gibt die Düsseldorfer Tabelle. Für studierende Kinder außerhalb des Elternhauses nennt sie 2026 einen Bedarf von 990 Euro im Monat (inkl. 440 Euro Warmmiete). Das ist nur ein Richtwert, kein Gesetz.</p>",
+   "schritte": [
+    {
+     "titel": "Situation klären",
+     "text": "Wohnt das Kind zu Hause oder allein? Welche Ausbildung läuft?"
+    },
+    {
+     "titel": "Miteinander sprechen",
+     "text": "Klären Sie zuerst, was Ihr Kind selbst hat (Ausbildungsvergütung, BAföG)."
+    },
+    {
+     "titel": "Beratung holen",
+     "text": "Bei Streit hilft eine Rechtsberatung."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "990 Euro",
+     "was": "Bedarfssatz studierendes Kind außerhalb des Elternhauses (Düsseldorfer Tabelle 2026, inkl. 440 Euro Warmmiete)",
+     "grundlage": "Düsseldorfer Tabelle 2026"
+    },
+    {
+     "wert": "bis 21",
+     "was": "Volljährige im Haushalt der Eltern mit allgemeiner Schulausbildung sind Minderjährigen gleichgestellt",
+     "grundlage": "§ 1603 Abs. 2 BGB"
+    }
+   ],
+   "achtung": [
+    "Die Düsseldorfer Tabelle ist eine Leitlinie der Oberlandesgerichte, kein Gesetz.",
+    "Der Bedarfssatz von 990 Euro (inkl. 440 Euro Warmmiete) gilt für ein studierendes Kind außerhalb des Elternhauses.",
+    "Wer sich in Ausbildung befindet, muss sich meist auch um eigene Einkünfte kümmern."
+   ],
+   "fach_html": "<h3>Gesetz</h3><p>§ 1610 BGB: Das Maß des Unterhalts bestimmt sich nach der Lebensstellung des Bedürftigen (angemessener Unterhalt). Er umfasst den gesamten Lebensbedarf einschließlich der Kosten einer angemessenen Vorbildung zu einem Beruf. § 1603 Abs. 2 BGB: Unverheiratete Kinder bis 21 Jahre, die im Haushalt der Eltern leben und sich in der allgemeinen Schulausbildung befinden, sind minderjährigen Kindern gleichgestellt.</p><h3>Düsseldorfer Tabelle</h3><p>Nach der Pressemitteilung des OLG Düsseldorf vom 01.12.2025 liegt der Bedarfssatz für ein studierendes Kind außerhalb des Elternhauses bei 990 Euro, davon 440 Euro Warmmiete.</p><p>Kindergeldanrechnung, Selbstbehalte, BAföG und Auskunftsanspruch sind hier nicht behandelt.</p>",
+   "zustaendig": [
+    "Familiengericht",
+    "BAföG-Amt",
+    "Rechtsanwaltschaft (Beratung)"
+   ],
+   "belege": [
+    "Gesetze im Internet, § 1610 BGB, abgerufen 20.09.2026",
+    "Gesetze im Internet, § 1603 BGB, abgerufen 20.09.2026",
+    "Oberlandesgericht Düsseldorf, Pressemitteilung vom 01.12.2025 zur Düsseldorfer Tabelle 2026, abgerufen 20.09.2026"
+   ],
+   "siehe_auch": [
+    "kindergeld-volljaehrig",
+    "rechte-des-kindes"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "kita-anspruch",
+   "kategorie": "betreuung-schule",
+   "titel": "Kita, Tagespflege und Ganztag im Grundschulalter",
+   "icon": "🧸",
+   "teaser": "Rechtsanspruch ab dem ersten Geburtstag und im Grundschulalter auf Ganztagsförderung.",
+   "schlagworte": [
+    "Kita",
+    "Kindertagespflege",
+    "Rechtsanspruch",
+    "Ganztag",
+    "Grundschule",
+    "Hort",
+    "U3"
+   ],
+   "kurz_html": "<p>Ihr Kind hat ein Recht auf einen Betreuungsplatz.</p><ul><li>Ab dem ersten Geburtstag bis zum dritten: Kita oder Tagespflege.</li><li>Ab dem dritten Geburtstag bis zum Schuleintritt: Kita.</li><li>Ganztagsförderung: Anspruch hat ein Kind, das im Schuljahr 2026/2027 oder später die erste Klassenstufe besucht, ab Schuleintritt bis zum Beginn der fünften Klasse, acht Stunden an Werktagen. Schulunterricht zählt mit. Kinder, die 2026/2027 schon in Klasse 2 bis 4 sind, haben diesen Anspruch noch nicht; alle Klassen 1 bis 4 sind erst ab dem Schuljahr 2029/2030 abgedeckt.</li></ul><p>Für Kinder unter einem Jahr gibt es einen Platz, wenn das für die Entwicklung gut ist oder die Eltern arbeiten, in Ausbildung sind oder Leistungen zur Eingliederung in Arbeit nach dem Zweiten Buch (SGB II) erhalten.</p><p>Melden Sie Ihren Bedarf früh beim Jugendamt oder bei der Stadt an.</p>",
+   "schritte": [
+    {
+     "titel": "Bedarf anmelden",
+     "text": "Melden Sie den Bedarf beim örtlichen Jugendamt oder bei der Stadt an."
+    },
+    {
+     "titel": "Umfang klären",
+     "text": "Nennen Sie, wie viele Stunden Sie brauchen."
+    },
+    {
+     "titel": "Kosten erfragen",
+     "text": "Gebühren regeln die Länder und Kommunen. Fragen Sie nach Beitragsfreiheit, Zuschüssen oder Ermäßigung."
+    },
+    {
+     "titel": "Schriftlich dranbleiben",
+     "text": "Bewahren Sie Anmeldung und Antworten auf."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "ab 1. bis 3. Geburtstag",
+     "was": "Anspruch auf Kita oder Kindertagespflege",
+     "grundlage": "§ 24 Abs. 2 SGB VIII"
+    },
+    {
+     "wert": "ab 3. Geburtstag bis Schuleintritt",
+     "was": "Anspruch auf Förderung in einer Kita",
+     "grundlage": "§ 24 Abs. 3 SGB VIII"
+    },
+    {
+     "wert": "8 Stunden täglich",
+     "was": "Ganztagsförderung für Kinder, die 2026/2027 oder später in Klasse 1 eintreten, bis Beginn Klasse 5; Klassen 1 bis 4 vollständig erst ab Schuljahr 2029/2030",
+     "grundlage": "§ 24 Abs. 4 Satz 1 SGB VIII"
+    }
+   ],
+   "achtung": [
+    "Kinder in Klasse 2 bis 4 im Schuljahr 2026/2027 haben den Ganztagsanspruch noch nicht; die volle Abdeckung der Klassen 1 bis 4 gilt erst ab 2029/2030. Fragen Sie Ihre Schule oder Kommune.",
+    "Elternbeiträge sind Landes- und Kommunalrecht und unterscheiden sich stark.",
+    "Was Sie tun können, wenn kein Platz da ist, ist eine Einzelfallfrage; lassen Sie sich beraten.",
+    "Ganztag: Nach § 24 Abs. 4 SGB VIII kann Landesrecht eine Schließzeit von bis zu vier Wochen in den Schulferien erlauben; Bayern nutzt das (nicht im Volltext geprüft).",
+    "Der Bundesanspruch endet mit Beginn Klasse 5. In Berlin (Grundschule Jgst. 1 bis 6, § 20 SchulG Bln) besteht für Jgst. 5/6 kein Bundesanspruch, nur Landesrecht (ergänzende Förderung und Betreuung, Umfang nicht geprüft).",
+    "Elternbeiträge: BE Kita seit 01.08.2018 beitragsfrei (TKBG). NRW letzte zwei Kita-Jahre beitragsfrei (§ 50 KiBiz), drei bei Zurückstellung (§ 35 Abs. 3 SchulG NRW), sonst kommunale Satzungen (§ 51 KiBiz). BY keine Beitragsfreiheit, Beitragszuschuss 100 Euro/Monat ab September nach dem 3. Geburtstag bis zur Einschulung (Art. 23 BayKiBiG). Andere Länder nicht geprüft."
+   ],
+   "fach_html": "<h3>Rechtsanspruch</h3><p>§ 24 SGB VIII: Ein Kind unter einem Jahr wird gefördert, wenn dies für seine Entwicklung geboten ist oder die Erziehungsberechtigten erwerbstätig sind, sich in Ausbildung befinden oder Leistungen zur Eingliederung in Arbeit im Sinne des Zweiten Buches erhalten (§ 24 Abs. 1 Nr. 2 Buchst. c SGB VIII). Ab dem vollendeten ersten Lebensjahr besteht bis zur Vollendung des dritten Lebensjahres ein Anspruch in einer Tageseinrichtung oder Kindertagespflege. Ab dem vollendeten dritten Lebensjahr besteht bis zum Schuleintritt Anspruch auf Förderung in einer Tageseinrichtung.</p><h3>Grundschulalter</h3><p>Nach § 24 Abs. 4 SGB VIII in der abgerufenen Fassung hat ein Kind, das im Schuljahr 2026/2027 oder später die erste Klassenstufe besucht, Anspruch auf Förderung ab dem Schuleintritt bis zum Beginn der fünften Klassenstufe an Werktagen im Umfang von acht Stunden täglich; Schulunterricht erfüllt den Anspruch, Ferienangebote können ihn ebenfalls erfüllen. Kinder, die im Schuljahr 2026/2027 die Klassenstufen 2 bis 4 besuchen, haben den Anspruch noch nicht; die Klassenstufen 1 bis 4 sind erst ab dem Schuljahr 2029/2030 vollständig abgedeckt. Für Kinder ohne diesen Anspruch ist ein bedarfsgerechtes Angebot vorzuhalten (Abs. 5).</p><h3>Landesrecht (Bayern, NRW, Berlin)</h3><p>Ganztag: Vorbehalt in § 24 Abs. 4 SGB VIII, Landesrecht kann bis zu vier Wochen Schließzeit in den Schulferien erlauben; Bayern nutzt das (nicht im Volltext geprüft). Berlin: Grundschule geht bis Jgst. 6 (§ 20 SchulG Bln), für Jgst. 5/6 gibt es keinen Bundesanspruch. Elternbeiträge: siehe Hinweise; Rechtsgrundlagen TKBG (Berlin), §§ 50, 51 KiBiz (NRW), Art. 23 BayKiBiG (Bayern).</p>",
+   "zustaendig": [
+    "Örtliches Jugendamt",
+    "Stadt oder Gemeinde",
+    "Schulträger (Ganztag)"
+   ],
+   "belege": [
+    "Gesetze im Internet, § 24 SGB VIII, abgerufen 20.09.2026",
+    "Kultusministerkonferenz, Bildungswege und Abschlüsse, abgerufen 20.09.2026",
+    "Landesrecht: TKBG Berlin; KiBiz NRW §§ 50, 51; BayKiBiG Art. 23; SchulG NRW § 35; SchulG Bln § 20"
+   ],
+   "siehe_auch": [
+    "schulpflicht-schulwahl",
+    "kinderkrankentage"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "schulpflicht-schulwahl",
+   "kategorie": "betreuung-schule",
+   "titel": "Schulpflicht und Schulwahl",
+   "icon": "🏫",
+   "teaser": "Für alle Kinder gilt Schulpflicht, neun oder zehn Jahre je nach Land. Die Einzelheiten regeln die Länder.",
+   "schlagworte": [
+    "Schulpflicht",
+    "Grundschule",
+    "Schulwahl",
+    "Einschulung",
+    "Berufsschulpflicht",
+    "Länder",
+    "Förderbedarf",
+    "Sonderpädagogischer Förderbedarf",
+    "Lernmittel"
+   ],
+   "kurz_html": "<p>In Deutschland müssen alle Kinder zur Schule. Die allgemeine Schulpflicht dauert neun oder zehn Jahre je nach Land: Bayern 9, Nordrhein-Westfalen (NRW) 10, Berlin 10. Danach folgt für Jugendliche ohne Vollzeitschule die Berufsschulpflicht; ihre Dauer folgt dem Ausbildungsverhältnis.</p><p>Die Grundschule geht bis Klasse 4, in Berlin und Brandenburg bis Klasse 6.</p><p>Geprüft sind nur Bayern (BY), NRW und Berlin (BE); für 13 weitere Länder wurde das nicht geprüft.</p><ul><li><strong>Einschulung:</strong> BY Stichtag 30.06.; Kinder mit 6. Geburtstag 01.07. bis 30.09.: Eltern entscheiden über Zurückstellung (Art. 37 Abs. 1 BayEUG). NRW Stichtag 30.09. (§ 35 Abs. 1 SchulG NRW). BE Stichtag 30.09., vorzeitig auf Antrag bis 31.03. (§ 42 SchulG Bln).</li><li><strong>Schulwahl:</strong> BY Sprengelpflicht (Art. 42 BayEUG), Ausnahme per Gastschulantrag (Art. 43). NRW Grundschulbezirke seit 01.08.2008 aufgehoben, freie Wahl im Rahmen der Kapazität (§ 46 SchulG NRW). BE Einschulungsbereiche (§ 54 SchulG Bln), Abweichung auf Antrag.</li><li><strong>Lernmittel:</strong> BY leihweise (Art. 21 BaySchFG). NRW Eigenanteil höchstens ein Drittel (§ 96 SchulG NRW), aktuell bis 16 Euro Primarstufe, 34 Euro Sek I, 31 Euro Sek II je Schuljahr (BASS 16-01 Nr. 1) (nicht im Volltext geprüft). BE Eigenanteil bis 100 Euro je Schuljahr, Befreiung für Leistungsberechtigte (§ 50 Abs. 2 SchulG Bln).</li><li><strong>Förderbedarf:</strong> NRW Regelfall allgemeine Schule, Eltern können Förderschule wählen; Schulaufsicht entscheidet (§§ 19, 20 SchulG NRW, AO-SF). BY Elternentscheidung (Art. 41 BayEUG), aber Förderschulpflicht, wenn der Bedarf an der allgemeinen Schule nicht gedeckt werden kann (Abs. 5). BE Vorrang gemeinsamer Unterricht (§§ 36, 37 SchulG Bln, SopädVO).</li></ul><p>Fragen Sie Ihr Schulamt oder die Schule.</p>",
+   "schritte": [
+    {
+     "titel": "Termine der Einschulung erfragen",
+     "text": "Fragen Sie bei der Grundschule oder der Stadt."
+    },
+    {
+     "titel": "Schulform besprechen",
+     "text": "Gespräch mit der Lehrkraft über den Übergang."
+    },
+    {
+     "titel": "Bei Problemen früh melden",
+     "text": "Sprechen Sie Probleme früh mit Schule und Schulaufsicht an."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "9 oder 10 Jahre",
+     "was": "Schulpflicht je Land: BY 9 (Art. 37 Abs. 1 BayEUG), NRW 10 (§ 37 Abs. 1 SchulG NRW), BE 10 (§ 42 SchulG Bln); ebenfalls zehn Jahre u. a. Brandenburg § 38 BbgSchulG, Thüringen § 19 ThürSchulG (nicht im Volltext geprüft). Berlin kennt keine \"Vollzeitschulpflicht\", sondern die allgemeine Schulpflicht; sie endet spätestens mit dem Schuljahr des 18. Lebensjahrs, das 10. Schulbesuchsjahr kann auch an der Berufsschule erfüllt werden.",
+     "grundlage": "Art. 37 BayEUG; § 37 SchulG NRW; § 42 SchulG Bln"
+    },
+    {
+     "wert": "Dauer folgt Ausbildung",
+     "was": "Berufsschulpflicht: BY bis Ende des Schuljahrs mit dem 21. Geburtstag (Art. 39 Abs. 2 BayEUG). NRW bis Ende des Ausbildungsverhältnisses (Beginn vor 21); ohne Ausbildung bis Ende des Schuljahrs mit 18 (§ 38 SchulG NRW). BE bis Ende der Ausbildung, sonst mindestens ein weiteres Schuljahr, längstens bis Ende des Schuljahrs mit 18 (§ 43 SchulG Bln).",
+     "grundlage": "Art. 39 BayEUG; § 38 SchulG NRW; § 43 SchulG Bln"
+    },
+    {
+     "wert": "Bußgeld je Land",
+     "was": "BY Art. 119 BayEUG ohne eigenen Höchstbetrag, Auffangrahmen § 17 OWiG bis 1.000 Euro. NRW § 126 SchulG NRW: 5.000 Euro nur für Abs. 1 Nr. 7/8, Schulpflichtverstoß nach § 17 OWiG. BE § 126 SchulG Bln bis 2.500 Euro.",
+     "grundlage": "Art. 119 BayEUG; § 126 SchulG NRW; § 126 SchulG Bln"
+    }
+   ],
+   "achtung": [
+    "Schulrecht ist Landesrecht. Geprüft sind nur BY, NRW und BE; für 13 weitere Länder gelten die Angaben nicht ungeprüft.",
+    "Dauerhaftes Fernbleiben kann Folgen haben; Bußgelder unterscheiden sich je nach Land (siehe Fristen).",
+    "Ob Sie die Schule frei wählen dürfen, hängt vom Land ab (siehe oben)."
+   ],
+   "fach_html": "<h3>Struktur</h3><p>Nach der Kultusministerkonferenz beträgt die Schulpflicht neun oder zehn Vollzeitschuljahre je Land; Kinder beginnen in der Regel mit sechs Jahren. Die Grundschule umfasst die Klassen 1 bis 4, in Berlin und Brandenburg 1 bis 6. Im Sekundarbereich I gibt es Bildungsgänge zum Hauptschul- und Mittleren Schulabschluss und zum Gymnasium; ein Wechsel ist in den Jahrgangsstufen 5 und 6 vorgesehen (Durchlässigkeit).</p><h3>Landesnormen Bayern, NRW, Berlin</h3><ul><li>Dauer: BY 9 Jahre (Art. 37 Abs. 1 BayEUG); NRW 10 (§ 37 Abs. 1 SchulG NRW); BE 10 (§ 42 SchulG Bln), allgemeine Schulpflicht, spätestens bis zum Schuljahr des 18. Lebensjahrs.</li><li>NRW Gymnasium: seit 2019/20 flächendeckend G9. Der Neun-Jahre-Halbsatz in § 37 Abs. 1 gilt nur noch für wenige G8-Gymnasien (Sonderfall) (nicht im Volltext geprüft).</li><li>Schuleingangsphase: NRW § 37 Abs. 1 S. 3: das 3. Jahr in der Schuleingangsphase wird nicht angerechnet; Berlin Schulanfangsphase vergleichbar (nicht im Volltext geprüft).</li><li>Einschulung, Schulwahl, Lernmittel, Bußgelder, Berufsschulpflicht und Förderbedarf: siehe Kurzfassung und Fristen.</li></ul><p>Andere Länder: nutzen Sie die Schulgesetze Ihres Landes.</p>",
+   "zustaendig": [
+    "Schule und Schulamt Ihres Bundeslandes: Berlin Schulämter bezirklich, Schulaufsicht bei der Senatsverwaltung; NRW Schulämter als untere Schulaufsicht für Kreise und kreisfreie Städte (§ 89 SchulG NRW); Bayern staatliches Schulamt (nicht im Volltext geprüft)",
+    "Kultusministerium des Landes"
+   ],
+   "belege": [
+    "Kultusministerkonferenz, Bildungswege und Abschlüsse in Deutschland, abgerufen 20.09.2026",
+    "Bayern: Art. 37, 39, 41, 42, 43, 119 BayEUG; Art. 21 BaySchFG; NRW: §§ 19, 20, 35, 37, 38, 46, 89, 96, 126 SchulG NRW; Berlin: §§ 36, 37, 42, 43, 50, 54, 126 SchulG Bln",
+    "Andere Länder (nicht im Volltext geprüft): § 38 BbgSchulG, § 19 ThürSchulG"
+   ],
+   "siehe_auch": [
+    "bildung-teilhabe",
+    "kita-anspruch"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "kinderkrankentage",
+   "kategorie": "betreuung-schule",
+   "titel": "Kinderkrankentage und Kinderkrankengeld",
+   "icon": "🤒",
+   "teaser": "2026: 15 Arbeitstage je Elternteil und Kind, Alleinerziehende 30. Krankengeld 90 Prozent.",
+   "schlagworte": [
+    "Kinderkrankentage",
+    "Kinderkrankengeld",
+    "krankes Kind",
+    "§ 45 SGB V",
+    "Alleinerziehende",
+    "Freistellung"
+   ],
+   "kurz_html": "<p>Ihr Kind ist krank und braucht Sie? Dann können Sie zu Hause bleiben und Kinderkrankengeld bekommen.</p><p>Das Kind muss gesetzlich versichert und unter 12 Jahre alt sein. Bei Behinderung und Hilfebedarf gilt die Altersgrenze nicht.</p><p>Im Jahr 2026 gibt es 15 Arbeitstage pro Kind und Elternteil. Alleinerziehende haben 30 Tage. Bei mehreren Kindern sind es höchstens 35 Tage je Elternteil (70 Tage bei Alleinerziehenden).</p><p>Das Kinderkrankengeld beträgt 90 Prozent des ausgefallenen Nettoentgelts.</p>",
+   "schritte": [
+    {
+     "titel": "Arzt",
+     "text": "Fragen Sie den Arzt nach einer Bescheinigung für Krankheit und Betreuungsbedarf."
+    },
+    {
+     "titel": "Arbeitgeber informieren",
+     "text": "Melden Sie Ihr Fehlen sofort."
+    },
+    {
+     "titel": "Krankenkasse",
+     "text": "Beantragen Sie Kinderkrankengeld bei Ihrer Krankenkasse."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "15 / 30 Arbeitstage",
+     "was": "je Kind und Kalenderjahr 2026: Elternteil / Alleinerziehende (nur im Kalenderjahr 2026)",
+     "grundlage": "§ 45 Abs. 2a SGB V"
+    },
+    {
+     "wert": "35 / 70 Arbeitstage",
+     "was": "Höchstgrenze bei mehreren Kindern 2026",
+     "grundlage": "§ 45 Abs. 2a SGB V"
+    },
+    {
+     "wert": "10 / 20 Arbeitstage",
+     "was": "Regelwert je Kind (höchstens 25 / 50 insgesamt); gilt ab 1. Januar 2027 wieder, sofern keine Verlängerung der Sonderregel beschlossen wird (nicht belegt)",
+     "grundlage": "§ 45 Abs. 2 SGB V"
+    }
+   ],
+   "achtung": [
+    "Die 15/30 Tage gelten nur für das Kalenderjahr 2026 (Gesetz zur Befugniserweiterung und Entbürokratisierung in der Pflege vom 22.12.2025, BGBl. 2025 I Nr. 371). Stand 20.09.2026 gibt es keine Regel für 2027; dann gelten wieder 10/20 Tage je Kind, höchstens 25/50.",
+    "Weitere Voraussetzungen des Anspruchs (zum Beispiel, dass keine andere Person im Haushalt das Kind betreuen kann) sind im Gesetz nachzulesen.",
+    "Ob Ihr Arbeitgeber bezahlt freistellt (etwa nach Tarifvertrag), ist gesondert zu prüfen."
+   ],
+   "fach_html": "<h3>Rechtsgrundlage</h3><p>§ 45 Abs. 1 SGB V: Versicherte haben Anspruch auf Krankengeld zur Beaufsichtigung, Betreuung oder Pflege ihres erkrankten und versicherten Kindes, wenn das Kind das zwölfte Lebensjahr noch nicht vollendet hat oder behindert und auf Hilfe angewiesen ist. Abs. 1a regelt die Begleitung bei stationärer Behandlung (ein Elternteil).</p><h3>Umfang</h3><p>Regelfall (Abs. 2): je Kalenderjahr und Kind längstens 10 Arbeitstage, Alleinerziehende 20; insgesamt höchstens 25, Alleinerziehende 50. Das Krankengeld beträgt 90 Prozent des ausgefallenen Nettoarbeitsentgelts. Abs. 2a (Sonderregel „in dem Kalenderjahr 2026“): 15 Arbeitstage je Kind, Alleinerziehende 30; insgesamt 35 bzw. 70. Ab 2027 gilt wieder der Regelfall 10/20 (25/50), sofern der Gesetzgeber nichts anderes beschließt.</p><p>Privat Versicherte, Übertragung der Tage und Lohnfortzahlung sind hier nicht behandelt.</p>",
+   "zustaendig": [
+    "Krankenkasse",
+    "Arbeitgeber (Freistellung)"
+   ],
+   "belege": [
+    "Gesetze im Internet, § 45 SGB V, abgerufen 20.09.2026",
+    "Gesetz zur Befugniserweiterung und Entbürokratisierung in der Pflege vom 22.12.2025 (BGBl. 2025 I Nr. 371), Änderung § 45 Abs. 2a SGB V, abgerufen 20.09.2026"
+   ],
+   "siehe_auch": [
+    "kita-anspruch",
+    "ueberblick"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "sorgerecht-grundlagen",
+   "kategorie": "rechte",
+   "titel": "Sorgerecht: Grundlagen",
+   "icon": "👪",
+   "teaser": "Wer hat das Sorgerecht? Verheiratet, nicht verheiratet, gemeinsam oder allein.",
+   "schlagworte": [
+    "Sorgerecht",
+    "gemeinsame Sorge",
+    "Sorgeerklärung",
+    "nicht verheiratet",
+    "Personensorge",
+    "Aufenthaltsbestimmung"
+   ],
+   "kurz_html": "<p>Das Sorgerecht heißt: Sie sorgen für Ihr Kind. Die Personensorge umfasst die Pflicht und das Recht, das Kind zu pflegen, zu erziehen, zu beaufsichtigen und seinen Aufenthalt zu bestimmen.</p><p>Sind die Eltern bei der Geburt nicht verheiratet, gibt es gemeinsame Sorge, wenn beide erklären, dass sie die Sorge gemeinsam übernehmen wollen, wenn sie heiraten oder wenn das Familiengericht entscheidet. Sonst hat die Mutter die Sorge allein.</p><p>Bei Trennung gibt es einen eigenen Wegweiser.</p>",
+   "schritte": [
+    {
+     "titel": "Lage klären",
+     "text": "Waren Sie bei der Geburt verheiratet? Gibt es eine Sorgeerklärung?"
+    },
+    {
+     "titel": "Beratung suchen",
+     "text": "Fragen Sie beim Jugendamt nach Beratung zur gemeinsamen Sorge."
+    },
+    {
+     "titel": "Bei Streit",
+     "text": "Das Familiengericht kann angerufen werden. Holen Sie vorher Beratung ein."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "keine feste Frist",
+     "was": "Gemeinsame Sorge ist jederzeit durch Erklärung, Heirat oder gerichtliche Entscheidung möglich",
+     "grundlage": "§ 1626a Abs. 1 BGB"
+    }
+   ],
+   "achtung": [
+    "Eine mögliche Reform des Kindschaftsrechts wurde für diese Seite nicht geprüft; es gilt der abgerufene Gesetzestext.",
+    "Erziehung ohne Gewalt ist Pflicht (§ 1631 Abs. 2 BGB).",
+    "Bei häuslicher Gewalt gelten besondere Wege; siehe den Wegweiser Häusliche Gewalt."
+   ],
+   "fach_html": "<h3>Nicht verheiratete Eltern</h3><p>§ 1626a Abs. 1 BGB: Sind die Eltern bei der Geburt nicht miteinander verheiratet, steht ihnen die elterliche Sorge gemeinsam zu, wenn sie erklären, dass sie die Sorge gemeinsam übernehmen wollen (Sorgeerklärungen), einander heiraten oder das Familiengericht ihnen die elterliche Sorge gemeinsam überträgt. Nach Abs. 2 überträgt das Gericht auf Antrag eines Elternteils die gemeinsame Sorge, wenn die Übertragung dem Kindeswohl nicht widerspricht. Nach Abs. 3 hat die Mutter im Übrigen die elterliche Sorge allein.</p><h3>Inhalt der Personensorge</h3><p>§ 1631 Abs. 1 BGB: Pflicht und Recht, das Kind zu pflegen, zu erziehen, zu beaufsichtigen und seinen Aufenthalt zu bestimmen. Abs. 3: Das Familiengericht unterstützt die Eltern auf Antrag in geeigneten Fällen.</p><h3>Nicht behandelt</h3><p>Sorgerecht nach Trennung und Scheidung, Umgangsrecht und Namensrecht.</p>",
+   "zustaendig": [
+    "Jugendamt (Beratung)",
+    "Familiengericht"
+   ],
+   "belege": [
+    "Gesetze im Internet, § 1626a BGB, abgerufen 20.09.2026",
+    "Gesetze im Internet, § 1631 BGB, abgerufen 20.09.2026"
+   ],
+   "siehe_auch": [
+    "rechte-des-kindes",
+    "kinderschutz-jugendamt"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "kinderschutz-jugendamt",
+   "kategorie": "rechte",
+   "titel": "Kinderschutz und Jugendamt: Ihre Rechte",
+   "icon": "🛡️",
+   "teaser": "Das Jugendamt soll helfen und schützen. Was bei einem Hinweis auf Gefährdung passiert und was Eltern verlangen können.",
+   "schlagworte": [
+    "Jugendamt",
+    "Kindeswohlgefährdung",
+    "Schutzauftrag",
+    "Familiengericht",
+    "§ 8a SGB VIII",
+    "§ 1666 BGB"
+   ],
+   "kurz_html": "<p>Das Jugendamt ist keine reine Kontrollbehörde. Es soll Familien auch unterstützen.</p><p>Gibt es Hinweise auf eine Gefährdung des Kindes, schätzt das Jugendamt das Risiko im Zusammenwirken mehrerer Fachkräfte ein. Wenn der Schutz des Kindes nicht gefährdet wird, beteiligt es Sie und Ihr Kind.</p><p>Sind Hilfen nötig, muss das Jugendamt sie Ihnen anbieten.</p><p>Nur wenn Eltern die Gefahr nicht abwenden können oder wollen, kann das Familiengericht Maßnahmen anordnen. Das reicht von Geboten bis zur Entziehung der Sorge.</p>",
+   "schritte": [
+    {
+     "titel": "Gespräch suchen",
+     "text": "Sprechen Sie mit der Fachkraft. Fragen Sie nach dem Anlass."
+    },
+    {
+     "titel": "Hilfen ansprechen",
+     "text": "Fragen Sie nach Beratung und Hilfe zur Erziehung."
+    },
+    {
+     "titel": "Unterlagen behalten",
+     "text": "Bewahren Sie Schreiben und Termine auf."
+    },
+    {
+     "titel": "Rat holen",
+     "text": "Nutzen Sie unabhängige Beratung, bevor Sie Vereinbarungen unterschreiben."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Anspruch, keine Frist",
+     "was": "Hilfen sind Ihnen anzubieten, wenn sie geeignet und notwendig sind",
+     "grundlage": "§ 8a Abs. 1 SGB VIII"
+    }
+   ],
+   "achtung": [
+    "Gerichtliche Maßnahmen setzen eine Gefahr für das Kindeswohl voraus und dass die Eltern sie nicht abwenden können oder wollen.",
+    "Jede Hilfe wird vorher mit Ihnen und Ihrem Kind besprochen (§ 36 Abs. 1 SGB VIII).",
+    "Teilen Sie keine Einzelheiten aus Ihrem Fall öffentlich im Netz; nutzen Sie geschützte Beratung."
+   ],
+   "fach_html": "<h3>Schutzauftrag</h3><p>§ 8a Abs. 1 SGB VIII: Werden dem Jugendamt Anhaltspunkte für eine Gefährdung bekannt, hat es das Gefährdungsrisiko im Zusammenwirken mehrerer Fachkräfte einzuschätzen. Sofern der wirksame Schutz nicht in Frage gestellt wird, sind Erziehungsberechtigte sowie Kind oder Jugendlicher einzubeziehen. Sind Hilfen geeignet und notwendig, sind sie den Erziehungsberechtigten anzubieten. § 8b SGB VIII gibt Fachkräften Anspruch auf Beratung durch eine insoweit erfahrene Fachkraft.</p><h3>Familiengericht</h3><p>§ 1666 Abs. 1 BGB: Ist das körperliche, geistige oder seelische Wohl des Kindes gefährdet und sind die Eltern nicht gewillt oder in der Lage, die Gefahr abzuwenden, trifft das Familiengericht die erforderlichen Maßnahmen. Abs. 3 nennt unter anderem Gebote zur Inanspruchnahme öffentlicher Hilfen, zur Erfüllung der Schulpflicht, Kontaktverbote und die teilweise oder vollständige Entziehung der Sorge.</p><h3>Nicht geprüft</h3><p>Inobhutnahme (§ 42 SGB VIII), Verfahrensbeistand, Rechtsmittel und Akteneinsicht.</p>",
+   "zustaendig": [
+    "Örtliches Jugendamt (Organisation nach § 69 SGB VIII Landesrecht: BY Art. 15 ff. AGSG, NRW AG-KJHG, Berlin AG KJHG; in Berlin Bezirksämter, Erstkontakt für Hilfe zur Erziehung Regionaler Sozialpädagogischer Dienst (nicht im Volltext geprüft))",
+    "Familiengericht",
+    "Nummer gegen Kummer Elterntelefon (Beratung)"
+   ],
+   "belege": [
+    "Gesetze im Internet, § 8a SGB VIII, abgerufen 20.09.2026",
+    "Gesetze im Internet, §§ 8b, 36 SGB VIII, abgerufen 20.09.2026",
+    "Gesetze im Internet, § 1666 BGB, abgerufen 20.09.2026",
+    "Landesrecht: § 69 SGB VIII; Art. 15 ff. AGSG Bayern; AG-KJHG NRW; AG KJHG Berlin (nicht im Volltext geprüft)"
+   ],
+   "siehe_auch": [
+    "hilfe-zur-erziehung",
+    "rechte-des-kindes",
+    "beratung"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "hilfe-zur-erziehung",
+   "kategorie": "rechte",
+   "titel": "Hilfe zur Erziehung: Anspruch auf Unterstützung",
+   "icon": "🤝",
+   "teaser": "Wenn Erziehung schwierig wird, können Sie Hilfe vom Jugendamt verlangen, bevor etwas passiert.",
+   "schlagworte": [
+    "Hilfe zur Erziehung",
+    "Jugendhilfe",
+    "Unterstützung",
+    "§ 27 SGB VIII",
+    "Hilfeplan",
+    "Erziehungsschwierigkeiten"
+   ],
+   "kurz_html": "<p>Sie müssen nicht warten, bis es ein Problem gibt. Wenn eine Erziehung, die dem Wohl Ihres Kindes entspricht, nicht mehr gewährleistet ist, haben Sie einen Anspruch auf Hilfe zur Erziehung.</p><p>Die Hilfe muss für die Entwicklung des Kindes geeignet und notwendig sein.</p><p>Bevor eine Hilfe bewilligt wird, beraten Sie das Jugendamt und Ihr Kind. Die Beratung soll verständlich und nachvollziehbar sein. Sie erfahren auch, wie sich die Hilfe auf die Entwicklung des Kindes auswirken kann.</p>",
+   "schritte": [
+    {
+     "titel": "Termin beim Jugendamt",
+     "text": "Vereinbaren Sie ein Gespräch beim örtlichen Jugendamt."
+    },
+    {
+     "titel": "Situation schildern",
+     "text": "Beschreiben Sie, wo Sie Unterstützung brauchen."
+    },
+    {
+     "titel": "Beratung nutzen",
+     "text": "Lassen Sie sich die möglichen Hilfen und deren Folgen erklären."
+    },
+    {
+     "titel": "Antrag schriftlich festhalten",
+     "text": "Halten Sie Ihren Antrag schriftlich fest und heben Sie den Bescheid auf."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Anspruch, keine Frist",
+     "was": "Anspruch der Personensorgeberechtigten auf Hilfe zur Erziehung bei fehlender kindeswohlgerechter Erziehung",
+     "grundlage": "§ 27 Abs. 1 SGB VIII"
+    }
+   ],
+   "achtung": [
+    "Anspruch hat der Personensorgeberechtigte. Bei gemeinsamer Sorge kann Abstimmung nötig sein.",
+    "Welche Hilfe bewilligt wird, entscheidet das Jugendamt nach Eignung und Notwendigkeit; Rechtsmittel gegen einen Bescheid wurden hier nicht geprüft.",
+    "Die einzelnen Hilfearten (etwa Erziehungsberatung, Familienhilfe) wurden nicht einzeln geprüft."
+   ],
+   "fach_html": "<h3>Anspruch</h3><p>§ 27 Abs. 1 SGB VIII: Ein Personensorgeberechtigter hat bei der Erziehung eines Kindes oder eines Jugendlichen Anspruch auf Hilfe (Hilfe zur Erziehung), wenn eine dem Wohl des Kindes oder des Jugendlichen entsprechende Erziehung nicht gewährleistet ist und die Hilfe für seine Entwicklung geeignet und notwendig ist.</p><h3>Beratung vor der Hilfe</h3><p>§ 36 Abs. 1 SGB VIII: Der Träger der öffentlichen Jugendhilfe hat die Personensorgeberechtigten und das Kind oder den Jugendlichen vor der Entscheidung über die Inanspruchnahme einer Hilfe und vor einer notwendigen Änderung von Art und Umfang der Hilfe zu beraten und auf mögliche Folgen für die Entwicklung des Kindes hinzuweisen; die Beratung soll in einer verständlichen, nachvollziehbaren und wahrnehmbaren Form erfolgen.</p><h3>Nicht geprüft</h3><p>Hilfearten nach §§ 28 ff. SGB VIII, Kostenbeteiligung der Eltern und Hilfeplanverfahren im Einzelnen.</p>",
+   "zustaendig": [
+    "Örtliches Jugendamt"
+   ],
+   "belege": [
+    "Gesetze im Internet, § 27 SGB VIII, abgerufen 20.09.2026",
+    "Gesetze im Internet, § 36 SGB VIII, abgerufen 20.09.2026"
+   ],
+   "siehe_auch": [
+    "kinderschutz-jugendamt",
+    "rechte-des-kindes"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "rechte-des-kindes",
+   "kategorie": "rechte",
+   "titel": "Eigene Rechte des Kindes, unabhängig von den Eltern",
+   "icon": "🧒",
+   "teaser": "Kinder haben ein Recht auf gewaltfreie Erziehung, auf Beteiligung und auf Beratung ohne Wissen der Eltern.",
+   "schlagworte": [
+    "Kinderrechte",
+    "Gewaltverbot",
+    "Beteiligung",
+    "Beratung",
+    "Jugendamt",
+    "Recht auf Erziehung"
+   ],
+   "kurz_html": "<p>Ihr Kind hat eigene Rechte.</p><ul><li>Recht auf Pflege und Erziehung ohne Gewalt, körperliche Bestrafungen, seelische Verletzungen und andere entwürdigende Maßnahmen.</li><li>Recht, an Entscheidungen der Jugendhilfe, die es betreffen, beteiligt zu werden, passend zu seinem Entwicklungsstand.</li><li>Recht, sich selbst an das Jugendamt zu wenden.</li><li>Anspruch auf Beratung ohne Wissen der Eltern, solange die Mitteilung an die Eltern den Zweck der Beratung vereiteln würde.</li></ul><p>Beratung und Beteiligung müssen verständlich sein.</p>",
+   "schritte": [
+    {
+     "titel": "Zuhören",
+     "text": "Nehmen Sie Sorgen Ihres Kindes ernst."
+    },
+    {
+     "titel": "Beratungsangebote zeigen",
+     "text": "Zeigen Sie Ihrem Kind die Nummer gegen Kummer (116 111)."
+    },
+    {
+     "titel": "Beteiligen",
+     "text": "Beziehen Sie Ihr Kind in Entscheidungen ein, die es betreffen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Anspruch, keine Frist",
+     "was": "Beratung ohne Kenntnis der Personensorgeberechtigten, solange der Beratungszweck sonst vereitelt würde",
+     "grundlage": "§ 8 Abs. 3 SGB VIII"
+    },
+    {
+     "wert": "Anspruch, keine Frist",
+     "was": "Erziehung ohne Gewalt",
+     "grundlage": "§ 1631 Abs. 2 BGB"
+    }
+   ],
+   "achtung": [
+    "Das Recht auf Beratung ohne Wissen der Eltern gilt nur, solange die Mitteilung den Beratungszweck vereiteln würde.",
+    "Altersgrenzen für die Ausübung einzelner Rechte wurden nicht geprüft.",
+    "Ob Kinderrechte ausdrücklich im Grundgesetz stehen, wurde nicht geprüft."
+   ],
+   "fach_html": "<h3>Gewaltfreie Erziehung</h3><p>§ 1631 Abs. 2 BGB: Kinder haben ein Recht auf Pflege und Erziehung unter Ausschluss von Gewalt, körperlichen Bestrafungen, seelischen Verletzungen und anderen entwürdigenden Maßnahmen.</p><h3>Beteiligung und Beratung</h3><p>§ 8 SGB VIII (Abs. 3 Satz 1: „Kinder und Jugendliche“): Kinder und Jugendliche sind entsprechend ihrem Entwicklungsstand an allen sie betreffenden Entscheidungen der öffentlichen Jugendhilfe zu beteiligen. Sie haben das Recht, sich in allen Angelegenheiten der Erziehung und Entwicklung an das Jugendamt zu wenden. Kinder und Jugendliche haben Anspruch auf Beratung ohne Kenntnis des Personensorgeberechtigten, solange durch die Mitteilung an den Personensorgeberechtigten der Beratungszweck vereitelt würde. Beteiligung und Beratung erfolgen in einer verständlichen, nachvollziehbaren und wahrnehmbaren Form.</p><h3>Nicht geprüft</h3><p>UN-Kinderrechtskonvention, Kinderrechte im Grundgesetz, Verfahrensbeistand und Ombudsstellen.</p>",
+   "zustaendig": [
+    "Jugendamt",
+    "Nummer gegen Kummer (Kinder- und Jugendtelefon 116 111)"
+   ],
+   "belege": [
+    "Gesetze im Internet, § 1631 BGB, abgerufen 20.09.2026",
+    "Gesetze im Internet, § 8 SGB VIII, abgerufen 20.09.2026",
+    "Nummer gegen Kummer e. V., nummergegenkummer.de, abgerufen 20.09.2026"
+   ],
+   "siehe_auch": [
+    "kinderschutz-jugendamt",
+    "beratung"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "handy-jugendschutz",
+   "kategorie": "medien",
+   "titel": "Handy, Internet und Jugendschutz",
+   "icon": "📱",
+   "teaser": "Altersfreigaben für Filme und Spiele, Erziehung im Netz und wo Hilfe zu finden ist.",
+   "schlagworte": [
+    "Handy",
+    "Internet",
+    "Jugendschutz",
+    "Altersfreigabe",
+    "FSK",
+    "Medienerziehung",
+    "Cybermobbing"
+   ],
+   "kurz_html": "<p>Filme und Spiele haben Altersfreigaben: ohne Altersbeschränkung, ab 6, ab 12, ab 16 oder keine Jugendfreigabe.</p><p>Diese Einstufung ist eine Hilfe für Sie.</p><p>Sie haben als Eltern die Aufsicht. Reden Sie mit Ihrem Kind über das, was es im Netz sieht. Vereinbaren Sie Regeln zu Zeit und Inhalten.</p><p>Bei Mobbing, Erpressung oder Missbrauch im Netz können Sie Beratung holen. Sichern Sie Beweise wie Screenshots.</p>",
+   "schritte": [
+    {
+     "titel": "Freigabe prüfen",
+     "text": "Achten Sie auf die Altersfreigabe bei Filmen und Spielen."
+    },
+    {
+     "titel": "Regeln vereinbaren",
+     "text": "Legen Sie mit Ihrem Kind Zeiten und Inhalte fest."
+    },
+    {
+     "titel": "Bei Problemen sichern",
+     "text": "Speichern Sie Nachrichten und Bilder als Beleg."
+    },
+    {
+     "titel": "Hilfe holen",
+     "text": "Nutzen Sie die Beratungsstellen auf der Beratungsseite."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "0 / 6 / 12 / 16 / 18",
+     "was": "Altersstufen der Freigabe (ab 18: keine Jugendfreigabe)",
+     "grundlage": "§ 14 JuSchG"
+    }
+   ],
+   "achtung": [
+    "Gesetzliche Altersgrenzen für soziale Netzwerke und Apps wurden für diese Seite nicht geprüft.",
+    "Ob 2026 neue Regeln zu sozialen Medien für Minderjährige gelten, wurde nicht geprüft.",
+    "Bei strafbaren Inhalten oder Missbrauch: Beratung und Polizei nutzen."
+   ],
+   "fach_html": "<h3>Altersfreigaben</h3><p>§ 14 JuSchG (Jugendschutzgesetz) sieht fünf Kennzeichen vor: freigegeben ohne Altersbeschränkung, ab sechs, ab zwölf, ab sechzehn Jahren und keine Jugendfreigabe. Nach der abgerufenen Fassung kann eine Freigabe nicht erteilt werden, wenn Inhalte die Entwicklung von Kindern und Jugendlichen in der jeweiligen Altersgruppe beeinträchtigen. Zusätzliche Symbole und Hinweise sollen die wesentlichen Gründe der Einstufung nennen. Die Einstufung erfolgt durch die obersten Landesbehörden oder anerkannte Organisationen der freiwilligen Selbstkontrolle im gemeinsamen Verfahren.</p><h3>Elterliche Aufsicht</h3><p>Die Pflicht zur Beaufsichtigung folgt aus § 1631 Abs. 1 BGB. Wie weit sie im Netz geht, hängt vom Alter und der Reife des Kindes ab.</p><h3>Nicht geprüft</h3><p>Jugendmedienschutz-Staatsvertrag, Pflichten der Anbieter, Altersverifikation und Regeln zu sozialen Netzwerken.</p>",
+   "zustaendig": [
+    "Nummer gegen Kummer",
+    "Polizei (bei Straftaten)",
+    "Jugendamt"
+   ],
+   "belege": [
+    "Gesetze im Internet, § 14 JuSchG, abgerufen 20.09.2026",
+    "Gesetze im Internet, § 1631 BGB, abgerufen 20.09.2026",
+    "Hilfe-Portal Sexueller Missbrauch, abgerufen 20.09.2026"
+   ],
+   "siehe_auch": [
+    "rechte-des-kindes",
+    "beratung"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "beratung",
+   "kategorie": "hilfe",
+   "titel": "Beratung und Anlaufstellen",
+   "icon": "📞",
+   "teaser": "Bundesweit belegte Telefone und Stellen für Eltern, Kinder und Jugendliche.",
+   "schlagworte": [
+    "Beratung",
+    "Elterntelefon",
+    "Kinder- und Jugendtelefon",
+    "Familienkasse",
+    "Jugendamt",
+    "Hilfetelefon"
+   ],
+   "kurz_html": "<p>Sie müssen nicht allein bleiben. Diese Stellen sind bundesweit erreichbar:</p><ul><li><strong>Elterntelefon der Nummer gegen Kummer:</strong> 0800 111 0 550, kostenlos und anonym. Montag, Mittwoch, Freitag 9 bis 17 Uhr, Dienstag und Donnerstag 9 bis 19 Uhr.</li><li><strong>Kinder- und Jugendtelefon:</strong> 116 111, Montag bis Samstag 14 bis 20 Uhr.</li><li><strong>Hilfetelefon Sexueller Missbrauch:</strong> 0800 22 55 530. Montag, Mittwoch, Freitag 9 bis 14 Uhr, Dienstag und Donnerstag 15 bis 20 Uhr.</li><li><strong>Telefonseelsorge:</strong> 0800 111 0 111 und 0800 111 0 222, rund um die Uhr.</li><li><strong>Hilfetelefon Gewalt gegen Frauen:</strong> 116 016, rund um die Uhr.</li></ul><p>Für Kindergeld und Kinderzuschlag ist die Familienkasse zuständig, für Kita und Hilfen das örtliche Jugendamt. Adressen finden Sie bei Ihrer Stadt.</p>",
+   "schritte": [
+    {
+     "titel": "Anliegen einordnen",
+     "text": "Geld, Kinderschutz, Erziehung oder Krise? Wählen Sie die passende Stelle."
+    },
+    {
+     "titel": "Anrufen",
+     "text": "Rufen Sie an. Die genannten Nummern sind kostenlos."
+    },
+    {
+     "titel": "Örtliche Stelle suchen",
+     "text": "Jugendamt und Familienkasse finden Sie über Ihre Stadt oder die Bundesagentur für Arbeit."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "116 111",
+     "was": "Kinder- und Jugendtelefon, Mo bis Sa 14 bis 20 Uhr",
+     "grundlage": "Nummer gegen Kummer"
+    },
+    {
+     "wert": "0800 111 0 550",
+     "was": "Elterntelefon (Zeiten siehe oben)",
+     "grundlage": "Nummer gegen Kummer"
+    },
+    {
+     "wert": "0800 22 55 530",
+     "was": "Hilfetelefon Sexueller Missbrauch",
+     "grundlage": "Hilfe-Portal Sexueller Missbrauch"
+    }
+   ],
+   "achtung": [
+    "Bei akuter Gefahr rufen Sie den Notruf 110 oder 112.",
+    "Telefonzeiten können sich ändern. Prüfen Sie sie vor dem Anruf auf den Webseiten der Träger.",
+    "Örtliche Stellen (Jugendamt, Beratungsstellen) sind hier nicht mit Adresse genannt; suchen Sie über Ihre Kommune."
+   ],
+   "fach_html": "<h3>Belegte bundesweite Stellen</h3><p>Nummer gegen Kummer e. V. (Wuppertal): Kinder- und Jugendtelefon 116 111, Montag bis Samstag 14 bis 20 Uhr; Elterntelefon 0800 111 0550; anonym, kostenlos. Hilfe-Portal Sexueller Missbrauch: Hilfetelefon 0800 22 55 530, anonym, kostenlos. Familienportal des Bundes: Telefonseelsorge 0800 111 0 111 und 0800 111 0 222 (rund um die Uhr), Hilfetelefon Gewalt gegen Frauen 116 016 (rund um die Uhr).</p><h3>Behörden</h3><p>Familienkasse der Bundesagentur für Arbeit (Kindergeld, Kinderzuschlag); örtliches Jugendamt (Kita, Hilfe zur Erziehung, Kinderschutz); Jobcenter oder Stadtverwaltung (Bildung und Teilhabe). Kontaktdaten der örtlichen Stellen sind nicht belegt und werden nicht genannt.</p>",
+   "zustaendig": [
+    "Nummer gegen Kummer e. V.",
+    "Familienkasse",
+    "Jugendamt"
+   ],
+   "belege": [
+    "Nummer gegen Kummer e. V., nummergegenkummer.de, abgerufen 20.09.2026",
+    "Hilfe-Portal Sexueller Missbrauch, hilfe-portal-missbrauch.de, abgerufen 20.09.2026",
+    "Familienportal des Bundes, Krisentelefone und Anlaufstellen in Notlagen, abgerufen 20.09.2026"
+   ],
+   "siehe_auch": [
+    "kinderschutz-jugendamt",
+    "rechte-des-kindes"
+   ],
+   "stand": "September 2026"
+  }
+ ]
+}

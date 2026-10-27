@@ -1,0 +1,1078 @@
+{
+ "kategorien": [
+  {
+   "id": "ueberblick",
+   "titel": "Überblick und Grundlagen",
+   "icon": "🧭",
+   "beschreibung": "Einstieg: Strafvollzug ist Ländersache – was bundeseinheitlich gilt und was nicht."
+  },
+  {
+   "id": "rechte",
+   "titel": "Rechte während der Haft",
+   "icon": "📨",
+   "beschreibung": "Post, Besuch, Beschwerde, Anstaltsbeirat, Kontakt zu Kindern und Familie."
+  },
+  {
+   "id": "vollzug",
+   "titel": "Vollzugsgestaltung und Entlassung",
+   "icon": "🔓",
+   "beschreibung": "Vollzugsplan, Übergangsmanagement, Lockerungen und offener Vollzug."
+  },
+  {
+   "id": "bewaehrung",
+   "titel": "Bewährung und Register",
+   "icon": "⚖️",
+   "beschreibung": "Strafaussetzung zur Bewährung, Führungszeugnis, Tilgung im Bundeszentralregister."
+  },
+  {
+   "id": "existenz",
+   "titel": "Wohnung, Arbeit und Geld nach der Haft",
+   "icon": "🏠",
+   "beschreibung": "Wohnungssuche, Jobsuche, Grundsicherungsgeld und Schulden nach der Entlassung."
+  },
+  {
+   "id": "besondere",
+   "titel": "Wiedergutmachung und Sucht",
+   "icon": "🌱",
+   "beschreibung": "Täter-Opfer-Ausgleich und der Umgang mit Suchterkrankungen."
+  },
+  {
+   "id": "beratung",
+   "titel": "Beratung und Anlaufstellen",
+   "icon": "📞",
+   "beschreibung": "Bewährungshilfe, freie Straffälligenhilfe und Fachverbände."
+  }
+ ],
+ "seiten": [
+  {
+   "id": "ueberblick-rechte-strafvollzug",
+   "kategorie": "ueberblick",
+   "titel": "Rechte und Pflichten im Strafvollzug – der Überblick",
+   "icon": "🧭",
+   "teaser": "Strafvollzug ist Ländersache: Ihre Rechte während der Haft richten sich vor allem nach dem Justizvollzugsgesetz Ihres Bundeslandes, nicht nach einem einzigen Bundesgesetz.",
+   "schlagworte": [
+    "Strafvollzug",
+    "Justizvollzugsgesetz",
+    "Resozialisierung",
+    "Vollzugsziel",
+    "Angleichungsgrundsatz",
+    "Untersuchungshaft",
+    "Föderalismusreform"
+   ],
+   "kurz_html": "\n<p>Seit der Föderalismusreform 2006 ist der Strafvollzug in Deutschland <strong>Ländersache</strong>. Alle 16\nBundesländer haben inzwischen eigene Justizvollzugsgesetze erlassen (unterschiedlich benannt, z. B.\nStrafvollzugsgesetz, Justizvollzugsgesetzbuch, Landesjustizvollzugsgesetz). Das Bundesgesetz „StVollzG“ gilt\nnach Art. 125a Abs. 1 GG nur noch dort, wo ein Land kein eigenes Gesetz erlassen hat – das ist derzeit in\nkeinem Bundesland mehr der Fall, das StVollzG bleibt aber als historische Referenznorm und Vorbild vieler\nLandesregelungen wichtig. Bundeseinheitlich gelten dagegen weiterhin das Strafgesetzbuch (StGB), die\nStrafprozessordnung (StPO) und das Bundeszentralregistergesetz (BZRG).</p>\n<p>Gemeinsames Ziel aller Landesgesetze ist die <strong>Resozialisierung</strong>: Gefangene sollen befähigt\nwerden, künftig ein Leben ohne Straftaten zu führen. Ihre Grundrechte gelten auch in Haft, dürfen aber durch\nGesetz eingeschränkt werden, soweit dies für den geordneten Vollzug notwendig ist.</p>\n",
+   "schritte": [
+    {
+     "titel": "Zuständiges Landesgesetz kennen",
+     "text": "Finden Sie heraus, welches Justizvollzugsgesetz für Ihre Justizvollzugsanstalt (JVA) gilt – das Bundesland, in dem die JVA liegt, nicht Ihr Wohnort vor der Haft, ist maßgeblich."
+    },
+    {
+     "titel": "Untersuchungshaft von Strafhaft unterscheiden",
+     "text": "Für Untersuchungshaft gelten eigene Landesgesetze über den Vollzug der Untersuchungshaft sowie die §§ 112 ff. StPO für die Anordnung selbst – die Regeln unterscheiden sich teils deutlich von der Strafhaft."
+    },
+    {
+     "titel": "Vollzugsziel und Angleichungsgrundsatz einordnen",
+     "text": "Das Leben im Vollzug soll den allgemeinen Lebensverhältnissen so weit wie möglich angeglichen werden (Angleichungsgrundsatz) – das ist ein Leitprinzip, kein einklagbarer Einzelanspruch auf bestimmte Bedingungen."
+    },
+    {
+     "titel": "Rechtsquellen für den konkreten Fall zusammenstellen",
+     "text": "Kombinieren Sie das Landesgesetz Ihrer JVA mit den bundeseinheitlichen Normen (StGB, StPO, BZRG) – beide Ebenen sind für Ihre Situation gleichzeitig relevant."
+    },
+    {
+     "titel": "Bei Unsicherheit fragen",
+     "text": "Rechtsantragstelle des Gerichts, Anstaltsleitung, Ihre Verteidigung oder eine externe Straffälligenhilfe-Beratungsstelle können einordnen, welche Regeln in Ihrem Bundesland konkret gelten."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "2 Wochen",
+     "was": "Regelfrist für den Antrag auf gerichtliche Entscheidung gegen eine Vollzugsmaßnahme, in vergleichbarer Form in den Landesgesetzen vorgesehen",
+     "grundlage": "vgl. § 112 StVollzG (Bund) als Referenznorm"
+    },
+    {
+     "wert": "länderspezifisch",
+     "was": "Frist zur Erstellung des ersten Vollzugsplans nach Aufnahme – im jeweiligen Landesgesetz geregelt, nicht bundeseinheitlich",
+     "grundlage": "jeweiliges Landesstrafvollzugsgesetz"
+    }
+   ],
+   "achtung": [
+    "Es gibt nicht „das eine“ deutsche Strafvollzugsgesetz – korrekt ist: 16 Landesgesetze plus die bundeseinheitlichen Normen StGB, StPO und BZRG. Pauschale Aussagen aus dem Internet gelten oft nur für ein bestimmtes Bundesland.",
+    "Untersuchungshaft und Strafhaft folgen unterschiedlichen Regeln – wer beides verwechselt, orientiert sich am falschen Gesetz.",
+    "Fristen im Vollzugsrecht sind oft sehr kurz (häufig zwei Wochen) – nicht verstreichen lassen, im Zweifel sofort handeln statt abzuwarten.",
+    "Das Wahlrecht bleibt in aller Regel auch während der Haft erhalten. Ein Entzug ist nur in seltenen gesetzlich benannten Ausnahmefällen möglich, insbesondere bei bestimmten politischen Straftaten – für die meisten Verurteilungen spielt das keine Rolle."
+   ],
+   "fach_html": "\n<h3>Föderalismusreform 2006</h3>\n<p>Mit der Föderalismusreform (in Kraft seit 1. September 2006) ging die Gesetzgebungskompetenz für den\nStrafvollzug vom Bund auf die Länder über. In den folgenden knapp zehn Jahren erließen alle 16 Bundesländer\neigene Gesetze – den Anfang machte Bayern zum 1. Januar 2008, zuletzt trat 2016 das Berliner Gesetz in Kraft.\nDiese Landesgesetze gehen dem Bundesgesetz StVollzG in ihrem Geltungsbereich vor (Art. 125a Abs. 1 GG).</p>\n<h3>Vollzugsziel und Angleichungsgrundsatz</h3>\n<p>Alle Landesgesetze benennen als Vollzugsziel im Kern die Befähigung zu einem straffreien Leben\n(Resozialisierung) sowie den Schutz der Allgemeinheit vor weiteren Straftaten. Der Angleichungsgrundsatz und\nder Gegensteuerungsgrundsatz (schädlichen Folgen des Freiheitsentzugs soll aktiv entgegengewirkt werden) sind\nin nahezu allen Landesgesetzen in vergleichbarer, aber nicht wortgleicher Formulierung enthalten.</p>\n<h3>Untersuchungshaft gesondert geregelt</h3>\n<p>Für Personen in Untersuchungshaft gelten eigene Landesgesetze über den Vollzug der Untersuchungshaft\n(oft „UVollzG“ des jeweiligen Landes), während die Anordnung der Untersuchungshaft selbst bundeseinheitlich in\nden §§ 112 ff. StPO geregelt ist. Der Grundsatz der Unschuldsvermutung führt zu einigen Unterschieden gegenüber\nder Strafhaft, etwa bei Kleidung, eigener Verpflegung oder Kontakt zur Verteidigung.</p>\n<h3>Grundrechte mit Gesetzesvorbehalt</h3>\n<p>Grundrechte wie die Freiheit der Person (Art. 2 GG), das Brief- und Postgeheimnis (Art. 10 GG) oder die\nUnverletzlichkeit der Wohnung (Art. 13 GG) gelten auch für Gefangene, dürfen aber durch die jeweiligen\nLandesgesetze eingeschränkt werden, soweit dies für die Sicherheit oder Ordnung des Vollzugs notwendig ist.\nEinzelheiten zum Rechtsschutz gegen konkrete Einschränkungen finden Sie auf der Seite „Rechte während der\nHaft“.</p>\n",
+   "zustaendig": [
+    "Justizvollzugsanstalt (JVA) des jeweiligen Bundeslandes",
+    "Landesjustizministerium"
+   ],
+   "belege": [
+    "StGB, StPO, BZRG (gesetze-im-internet.de)",
+    "Art. 70, 74, 125a GG (gesetze-im-internet.de)",
+    "Jeweiliges Landesstrafvollzugsgesetz, z. B. StVollzG NRW, Stand 01.04.2026 (recht.nrw.de)"
+   ],
+   "siehe_auch": [
+    "rechte-waehrend-der-haft",
+    "entlassungsvorbereitung",
+    "beratung-anlaufstellen-straffaellige"
+   ],
+   "stand": "Stand: September 2026. Strafvollzug ist Ländersache (Art. 70, 74, 125a GG); bundesrechtliche Angaben (StGB, StPO, BZRG, SGB, BtMG, InsO, BGB) gelten bundeseinheitlich, landesrechtliche Angaben können vom jeweiligen Bundesland abweichen. <a href=\"../quellen.html\">Quellen und Methodik</a>"
+  },
+  {
+   "id": "rechte-waehrend-der-haft",
+   "kategorie": "rechte",
+   "titel": "Rechte während der Haft: Post, Besuch, Beschwerde",
+   "icon": "📨",
+   "teaser": "Auch in Haft haben Sie Rechte – mit gesetzlich vorgesehenen Einschränkungen und einem eigenen, fristgebundenen Rechtsweg.",
+   "schlagworte": [
+    "Beschwerderecht",
+    "Anstaltsbeirat",
+    "Postkontrolle",
+    "Besuchsrecht",
+    "Antrag auf gerichtliche Entscheidung",
+    "Strafvollstreckungskammer",
+    "§ 109 StVollzG"
+   ],
+   "kurz_html": "\n<p>Post, Besuch und Telefon dürfen aus Sicherheits- und Ordnungsgründen kontrolliert oder eingeschränkt werden –\nvollständig entziehen darf die Anstalt sie Ihnen aber nicht. Post an und von Ihrer Verteidigung genießt einen\nbesonderen Schutz und darf grundsätzlich nicht kontrolliert werden. Gegen konkrete Maßnahmen der Anstalt (z. B.\nAblehnung eines Besuchs, Anhalten eines Briefs) können Sie sich zunächst formlos beschweren und danach\ngerichtlich wehren.</p>\n",
+   "schritte": [
+    {
+     "titel": "Formlose Beschwerde",
+     "text": "Wenden Sie sich zunächst formlos an die Anstaltsleitung oder die Dienstaufsicht (Justizministerium des Landes) – viele Konflikte lassen sich so klären."
+    },
+    {
+     "titel": "Antrag auf gerichtliche Entscheidung stellen",
+     "text": "Hilft die formlose Beschwerde nicht, können Sie bei der Strafvollstreckungskammer des zuständigen Landgerichts einen Antrag auf gerichtliche Entscheidung gegen die konkrete Maßnahme stellen."
+    },
+    {
+     "titel": "Frist von zwei Wochen wahren",
+     "text": "Die Frist beginnt regelmäßig mit der Bekanntgabe der Maßnahme bzw. mit der Kenntnis von einer Unterlassung – notieren Sie sich das Datum sofort."
+    },
+    {
+     "titel": "Anstaltsbeirat einschalten",
+     "text": "Der ehrenamtliche Anstaltsbeirat kann vermitteln und Anregungen an die Anstalt weitergeben – er ersetzt aber keinen Rechtsbehelf und hat keine eigene Entscheidungsbefugnis."
+    },
+    {
+     "titel": "Verteidigerpost besonders schützen",
+     "text": "Weisen Sie bei Post an Ihre Verteidigung deutlich auf den Absender/Empfänger hin – diese Post darf grundsätzlich nicht inhaltlich kontrolliert werden."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "2 Wochen",
+     "was": "Frist für den Antrag auf gerichtliche Entscheidung ab Bekanntgabe der Maßnahme bzw. Kenntnis der Unterlassung",
+     "grundlage": "vgl. § 112 StVollzG (Bund); vergleichbar in den Landesgesetzen geregelt"
+    },
+    {
+     "wert": "länderspezifisch",
+     "was": "Mindestumfang von Besuchszeit pro Monat – von Bundesland zu Bundesland unterschiedlich geregelt",
+     "grundlage": "jeweiliges Landesstrafvollzugsgesetz"
+    }
+   ],
+   "achtung": [
+    "Eine formlose Beschwerde bei der Anstalt wahrt die gerichtliche Zwei-Wochen-Frist nicht – wer nur intern Beschwerde einlegt, kann den gerichtlichen Weg verpassen.",
+    "Post an und von der Verteidigung darf grundsätzlich nicht inhaltlich kontrolliert werden – anderer Schriftverkehr (auch mit Angehörigen) kann dagegen aus Sicherheitsgründen angehalten oder gelesen werden.",
+    "Besuchsrecht kann aus Sicherheits- oder Ordnungsgründen eingeschränkt, aber nicht vollständig entzogen werden – der genaue Mindestumfang unterscheidet sich je Bundesland und teils je Anstalt (Hausordnung).",
+    "Der Anstaltsbeirat ist eine Vermittlungsstelle, kein Gericht – verlassen Sie sich bei einer wichtigen Frist nicht allein auf ein Gespräch mit dem Beirat."
+   ],
+   "fach_html": "\n<h3>Rechtsgrundlage und Gesetzesvorbehalt</h3>\n<p>Grundrechte wie das Brief-, Post- und Fernmeldegeheimnis (Art. 10 GG) oder die allgemeine Handlungsfreiheit\ngelten auch für Gefangene, können aber durch die jeweiligen Landesgesetze eingeschränkt werden, soweit dies für\ndie Sicherheit oder den geordneten Ablauf des Vollzugs notwendig ist. Die konkrete Ausgestaltung von Post-,\nBesuchs- und Telefonregelungen unterscheidet sich zwischen den 16 Landesgesetzen im Detail.</p>\n<h3>Post- und Fernmeldeverkehr</h3>\n<p>Ein- und ausgehende Post kann kontrolliert und in Ausnahmefällen angehalten werden, wenn dies aus\nSicherheitsgründen erforderlich ist. Schriftverkehr mit der Verteidigung, Gerichten und bestimmten Institutionen\n(z. B. Datenschutz- und Antikorruptionsbeauftragte, teils auch Abgeordnete) genießt nach ganz überwiegender\nRechtslage einen besonderen, weitgehenden Schutz vor inhaltlicher Kontrolle.</p>\n<h3>Besuch</h3>\n<p>Alle Landesgesetze sehen ein Mindestmaß an Besuchszeit vor; die genaue Stundenzahl pro Monat und mögliche\nDifferenzierungen zwischen geschlossenem und offenem Vollzug unterscheiden sich zwischen den Ländern und sind\nhier bewusst nicht mit einer einzelnen bundesweiten Zahl benannt, da die Recherche keine einheitliche,\nverlässlich für alle 16 Länder geltende Angabe ergeben hat. Verbindlich ist die Hausordnung der jeweiligen JVA.</p>\n<h3>Rechtsschutz: Antrag auf gerichtliche Entscheidung</h3>\n<p>Gegen Maßnahmen der Vollzugsbehörde, die die eigenen Rechte berühren (z. B. Ablehnung eines Besuchs,\nPostkontrolle, Disziplinarmaßnahmen), kann bei der zuständigen Strafvollstreckungskammer ein Antrag auf\ngerichtliche Entscheidung gestellt werden. Die Regelfrist beträgt zwei Wochen. In vielen Verfahren wird von\nAmts wegen eine anwaltliche Vertretung beigeordnet.</p>\n<h3>Anstaltsbeirat</h3>\n<p>Der Anstaltsbeirat ist ein ehrenamtliches, extern besetztes Gremium, das gesetzlich in den Landesgesetzen\nvorgesehen ist. Er kann Anregungen und Beschwerden von Gefangenen entgegennehmen, vermitteln und gegenüber der\nAnstalt Stellung nehmen, hat aber keine eigene Entscheidungsbefugnis und ersetzt keinen förmlichen Rechtsbehelf.</p>\n",
+   "zustaendig": [
+    "JVA-Leitung",
+    "Landesjustizministerium (Dienstaufsicht)",
+    "Strafvollstreckungskammer beim zuständigen Landgericht"
+   ],
+   "belege": [
+    "Jeweiliges Landesstrafvollzugsgesetz (Post, Besuch, Rechtsbehelfe)",
+    "§ 112 StVollzG (Bund, als Referenznorm)",
+    "Art. 2, 10, 13, 19 Abs. 4 GG (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "ueberblick-rechte-strafvollzug",
+    "familie-und-kontakt",
+    "entlassungsvorbereitung"
+   ],
+   "stand": "Stand: September 2026. Strafvollzug ist Ländersache (Art. 70, 74, 125a GG); bundesrechtliche Angaben (StGB, StPO, BZRG, SGB, BtMG, InsO, BGB) gelten bundeseinheitlich, landesrechtliche Angaben können vom jeweiligen Bundesland abweichen. <a href=\"../quellen.html\">Quellen und Methodik</a>"
+  },
+  {
+   "id": "familie-und-kontakt",
+   "kategorie": "rechte",
+   "titel": "Familie und Kontakt während der Haft",
+   "icon": "👨‍👩‍👧",
+   "teaser": "Elterliche Sorge und Umgangsrecht bestehen während der Haft grundsätzlich fort – Kontakt zu Kindern muss aktiv organisiert werden.",
+   "schlagworte": [
+    "Umgangsrecht",
+    "Elterliche Sorge",
+    "Kindeswohl",
+    "Unterhalt",
+    "Umgangspflegschaft",
+    "§ 1666 BGB"
+   ],
+   "kurz_html": "\n<p>Eine Haft allein beendet weder die elterliche Sorge noch das Umgangsrecht. Beides richtet sich weiter nach\ndem Familienrecht (BGB): Die elterliche Sorge kann nur eingeschränkt oder entzogen werden, wenn das Familiengericht\nim Einzelfall eine konkrete Gefährdung des Kindeswohls feststellt – nicht schon wegen der Inhaftierung selbst.\nKontakt zu Kindern und Familie über Besuche, Briefe oder Telefonate ist grundsätzlich möglich, muss aber aktiv\nmit der Anstalt und dem anderen Elternteil bzw. Vormund organisiert werden.</p>\n",
+   "schritte": [
+    {
+     "titel": "Kontakt zum Jugendamt halten",
+     "text": "Informieren Sie das Jugendamt über Ihre Situation, wenn Sorge- oder Umgangsfragen anstehen – frühzeitige Kommunikation verhindert Missverständnisse."
+    },
+    {
+     "titel": "Umgang mit dem anderen Elternteil abstimmen",
+     "text": "Klären Sie Besuche, Telefonate und Briefkontakt möglichst einvernehmlich; bei Konflikten kann eine Umgangspflegschaft beantragt werden, die den Kontakt organisiert und begleitet."
+    },
+    {
+     "titel": "Kindgerechte Besuchsmöglichkeiten erfragen",
+     "text": "Erkundigen Sie sich bei der JVA, ob es besondere Besuchsräume oder Angehörigentage für Kinder gibt – das Angebot ist zwischen den Anstalten sehr unterschiedlich."
+    },
+    {
+     "titel": "Bei drohendem Sorgerechtsverfahren rechtlichen Beistand sichern",
+     "text": "Wird ein familiengerichtliches Verfahren zur Einschränkung der Sorge eingeleitet, sichern Sie sich frühzeitig anwaltliche Vertretung; Verfahrenskostenhilfe kann beantragt werden."
+    },
+    {
+     "titel": "Unterhalt aktiv ansprechen",
+     "text": "Warten Sie nicht, bis Rückstände auflaufen – informieren Sie Unterhaltsberechtigte bzw. das Jugendamt über Ihre eingeschränkte Leistungsfähigkeit und beantragen Sie ggf. eine Anpassung."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "einzelfallabhängig",
+     "was": "Familiengerichtliche Verfahren (Sorge, Umgang) folgen eigenen Fristen des FamFG – eine allgemeine, für alle Fälle gültige Frist gibt es nicht",
+     "grundlage": "FamFG"
+    }
+   ],
+   "achtung": [
+    "Haft allein rechtfertigt keinen automatischen Entzug der elterlichen Sorge – dafür braucht es eine vom Familiengericht festgestellte, konkrete Kindeswohlgefährdung.",
+    "Unterhaltspflichten bestehen während der Haft grundsätzlich weiter; das Arbeitsentgelt aus Gefangenenarbeit ist meist gering – kümmern Sie sich frühzeitig um eine Anpassung, statt Rückstände anwachsen zu lassen.",
+    "Kindgerechte Besuchsangebote sind nicht in jeder JVA gleich ausgebaut – uneinheitlich zwischen Anstalten und Bundesländern, aktiv nachfragen lohnt sich.",
+    "Eine Vaterschaftsanerkennung oder -feststellung sollte wegen der Haft nicht aufgeschoben werden – sie ist mit Amtshilfe des Jugendamts oder eines Notars auch aus der JVA heraus möglich."
+   ],
+   "fach_html": "\n<h3>Elterliche Sorge und Umgang während der Haft</h3>\n<p>Die elterliche Sorge (§§ 1626 ff. BGB) und das Umgangsrecht bestehen unabhängig von einer Inhaftierung fort.\nEine Einschränkung oder ein Entzug der Sorge ist nur nach § 1666 BGB möglich, wenn das Familiengericht eine\nkonkrete Gefährdung des Kindeswohls feststellt – die Haft selbst begründet diese Gefährdung nicht automatisch,\nkann aber im Rahmen der Gesamtwürdigung eine Rolle spielen.</p>\n<h3>Umgang organisieren</h3>\n<p>Bei Streit über den Umgang kann eine Umgangspflegschaft (§ 1684 Abs. 3 BGB) angeordnet werden, die Übergaben\nund Besuche begleitet und organisiert. Für Besuche in der JVA gelten zusätzlich die Vorgaben des jeweiligen\nLandesstrafvollzugsgesetzes und der Hausordnung der Anstalt.</p>\n<h3>Unterhalt</h3>\n<p>Unterhaltspflichten laufen während der Haft grundsätzlich weiter. Da das Einkommen aus Gefangenenarbeit\nregelmäßig deutlich unter einem üblichen Erwerbseinkommen liegt, sinkt die Leistungsfähigkeit oft erheblich –\ndas kann eine Herabsetzung des Unterhalts rechtfertigen, führt aber nicht automatisch zu dessen Wegfall.</p>\n<h3>Praxis der Anstalten</h3>\n<p>Manche Anstalten bieten kindgerechte Besuchsräume, Vater-Kind- oder Mutter-Kind-Angebote und spezielle\nAngehörigentage an. Ein bundesweit einheitliches Konzept dafür ist nach den vorliegenden Quellen nicht ersichtlich\n– das Angebot hängt von der jeweiligen Anstalt und dem Bundesland ab.</p>\n",
+   "zustaendig": [
+    "Familiengericht",
+    "Jugendamt",
+    "JVA (Organisation der Besuche)"
+   ],
+   "belege": [
+    "§§ 1626, 1666, 1684 BGB (gesetze-im-internet.de)",
+    "Jeweiliges Landesstrafvollzugsgesetz (Besuchsregelungen)"
+   ],
+   "siehe_auch": [
+    "rechte-waehrend-der-haft",
+    "entlassungsvorbereitung"
+   ],
+   "stand": "Stand: September 2026. Strafvollzug ist Ländersache (Art. 70, 74, 125a GG); bundesrechtliche Angaben (StGB, StPO, BZRG, SGB, BtMG, InsO, BGB) gelten bundeseinheitlich, landesrechtliche Angaben können vom jeweiligen Bundesland abweichen. <a href=\"../quellen.html\">Quellen und Methodik</a>"
+  },
+  {
+   "id": "entlassungsvorbereitung",
+   "kategorie": "vollzug",
+   "titel": "Entlassungsvorbereitung: Vollzugsplan und Übergangsmanagement",
+   "icon": "📋",
+   "teaser": "Der Vollzugsplan und ein rechtzeitiges Übergangsmanagement entscheiden mit darüber, ob der Start nach der Haft gelingt.",
+   "schlagworte": [
+    "Vollzugsplan",
+    "Übergangsmanagement",
+    "Entlassungsvorbereitung",
+    "Sozialdienst",
+    "Personalausweis"
+   ],
+   "kurz_html": "\n<p>Zu Beginn der Haft wird für Sie ein <strong>Vollzugsplan</strong> erstellt und im weiteren Verlauf\nfortgeschrieben. Er hält unter anderem die Vollzugsform, geplante Behandlungsmaßnahmen, mögliche Lockerungen und\nden voraussichtlichen Entlassungstermin fest. Parallel dazu soll ein <strong>Übergangsmanagement</strong> – die\norganisierte Zusammenarbeit von JVA, Bewährungshilfe, Jobcenter bzw. Agentur für Arbeit und\nWohnungs-/Schuldnerberatung – rechtzeitig vor der Entlassung klären, wo Sie wohnen, wovon Sie leben und wie Sie\nkrankenversichert sind. Wie intensiv dieses Übergangsmanagement ausgestaltet ist, unterscheidet sich zwischen\nden Bundesländern und Anstalten.</p>\n",
+   "schritte": [
+    {
+     "titel": "Vollzugsplangespräch aktiv mitgestalten",
+     "text": "Bringen Sie eigene Ziele und Wünsche zu Wohnort, Arbeit und Behandlungsmaßnahmen aktiv ein – der Vollzugsplan wird nicht nur über Sie, sondern mit Ihnen erarbeitet."
+    },
+    {
+     "titel": "Frühzeitig Kontakt zum Sozialdienst aufnehmen",
+     "text": "Sprechen Sie den Sozialdienst der JVA Monate vor der Entlassung auf Wohnung, Arbeit und Leistungsansprüche an, statt bis kurz vor dem Entlasstag zu warten."
+    },
+    {
+     "titel": "Ausweisdokumente rechtzeitig beantragen",
+     "text": "Prüfen Sie, ob Ihr Personalausweis während der Haft abgelaufen ist, und beantragen Sie rechtzeitig einen neuen – die Bearbeitungszeiten der Meldebehörden variieren."
+    },
+    {
+     "titel": "Anmeldungen vor der Entlassung vorbereiten",
+     "text": "Termine bei Krankenkasse und Jobcenter bzw. Agentur für Arbeit können häufig schon vor der Entlassung vorbereitet werden, damit ab dem Entlasstag keine Lücke entsteht."
+    },
+    {
+     "titel": "Wohnungssuche frühzeitig anstoßen",
+     "text": "Nehmen Sie Kontakt zu Übergangswohnheimen oder der kommunalen Wohnungsnotfallhilfe auf, sobald ein Entlasstermin absehbar ist."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "länderspezifisch",
+     "was": "Zeitpunkt der ersten Vollzugsplanerstellung nach Aufnahme – im jeweiligen Landesgesetz geregelt, häufig innerhalb weniger Wochen",
+     "grundlage": "jeweiliges Landesstrafvollzugsgesetz"
+    },
+    {
+     "wert": "länderspezifisch",
+     "was": "Rhythmus der Fortschreibung des Vollzugsplans – unterscheidet sich zwischen den Ländern und Anstalten",
+     "grundlage": "jeweiliges Landesstrafvollzugsgesetz"
+    }
+   ],
+   "achtung": [
+    "Wer sich erst in den letzten Tagen vor der Entlassung um Wohnung, Geld und Krankenversicherung kümmert, riskiert eine Versorgungslücke direkt nach der Haft.",
+    "Ein neuer Personalausweis sollte spätestens einige Monate vor der Entlassung beantragt werden – Bearbeitungszeiten bei den Meldebehörden lassen sich nicht immer verkürzen.",
+    "Ein Antrag auf Grundsicherungsgeld kann bereits vor der Entlassung gestellt werden, damit die Leistung ab dem Entlasstag beginnt – siehe die Seite „Grundsicherungsgeld nach der Entlassung“.",
+    "Wie intensiv Übergangsmanagement in der Praxis angeboten wird, ist nicht bundeseinheitlich – wo es kein aktives Angebot gibt, sollten Sie selbst aktiv auf Sozialdienst und Bewährungshilfe zugehen."
+   ],
+   "fach_html": "\n<h3>Vollzugsplan</h3>\n<p>Alle Landesgesetze sehen die Erstellung eines Vollzugsplans vor, der u. a. Angaben zur Vollzugsform, zu\nBehandlungs- und Förderungsmaßnahmen, zu möglichen Lockerungen, zu Verlegungen und zum voraussichtlichen\nEntlassungszeitpunkt enthält. Als bundesrechtliche Referenznorm dient § 7 StVollzG; die genaue Bezeichnung und\nSystematik unterscheidet sich zwischen den Landesgesetzen.</p>\n<h3>Übergangsmanagement</h3>\n<p>Unter Bezeichnungen wie „Übergangsmanagement“, „Entlassungsvorbereitung“ oder „Nachsorge“ kooperieren\nJustizvollzug, Bewährungshilfe, Arbeitsverwaltung und kommunale Stellen, um rechtzeitig vor der Entlassung\nWohnung, Arbeit, Sozialleistungen und gesundheitliche Versorgung zu klären. Ein bundeseinheitliches Konzept\nexistiert dafür nicht – Organisation und Intensität sind länderspezifisch unterschiedlich ausgestaltet.</p>\n<h3>Schnittstelle zu Sozialleistungen</h3>\n<p>Anträge auf Grundsicherungsgeld, Erstausstattung und weitere Leistungen können bereits vor der Entlassung\nvorbereitet und teilweise gestellt werden, damit die Leistung ab dem tatsächlichen Entlassungstag greift (siehe\ndie Seite „Grundsicherungsgeld nach der Entlassung“). Ein Leistungsanspruch für die Zeit der Haft selbst besteht\nin aller Regel nicht.</p>\n",
+   "zustaendig": [
+    "JVA-Sozialdienst",
+    "Bewährungshilfe",
+    "Jobcenter bzw. Agentur für Arbeit",
+    "Meldebehörde"
+   ],
+   "belege": [
+    "Jeweiliges Landesstrafvollzugsgesetz (Vollzugsplan)",
+    "§ 7 StVollzG (Bund, als Referenznorm)"
+   ],
+   "siehe_auch": [
+    "offener-vollzug-lockerungen",
+    "buergergeld-nach-entlassung",
+    "wohnung-nach-haft"
+   ],
+   "stand": "Stand: September 2026. Strafvollzug ist Ländersache (Art. 70, 74, 125a GG); bundesrechtliche Angaben (StGB, StPO, BZRG, SGB, BtMG, InsO, BGB) gelten bundeseinheitlich, landesrechtliche Angaben können vom jeweiligen Bundesland abweichen. <a href=\"../quellen.html\">Quellen und Methodik</a>"
+  },
+  {
+   "id": "offener-vollzug-lockerungen",
+   "kategorie": "vollzug",
+   "titel": "Offener Vollzug und Lockerungen",
+   "icon": "🔓",
+   "teaser": "Freigang, Ausgang und offener Vollzug sollen die Rückkehr in ein straffreies Leben erleichtern – Voraussetzung ist immer eine Prognose ohne Flucht- oder Missbrauchsgefahr.",
+   "schlagworte": [
+    "Lockerungen",
+    "Offener Vollzug",
+    "Freigang",
+    "Ausgang",
+    "Ausführung",
+    "§ 11 StVollzG",
+    "Fluchtgefahr",
+    "Strafvollstreckungskammer"
+   ],
+   "kurz_html": "\n<p>„Lockerungen“ ist der Oberbegriff für Außenbeschäftigung, Freigang (Arbeit außerhalb der Anstalt ohne\nständige Aufsicht), Ausführung (Verlassen der Anstalt unter Aufsicht) und Ausgang (Verlassen der Anstalt ohne\nAufsicht für eine begrenzte Zeit). Der <strong>offene Vollzug</strong> ist eine eigene, weniger gesicherte\nVollzugsform. Beides setzt voraus, dass keine Flucht- oder Missbrauchsgefahr zu befürchten ist, und ist in\naller Regel nur mit Ihrer Zustimmung möglich – ein automatischer Anspruch darauf besteht nicht.</p>\n",
+   "schritte": [
+    {
+     "titel": "Eignung im Vollzugsplan ansprechen",
+     "text": "Sprechen Sie Lockerungen und offenen Vollzug aktiv im Rahmen der Vollzugsplanung an, statt nur abzuwarten, ob die Anstalt von sich aus tätig wird."
+    },
+    {
+     "titel": "Zustimmung erklären",
+     "text": "Lockerungen setzen Ihre Zustimmung voraus – ohne sie kommen sie nicht in Betracht."
+    },
+    {
+     "titel": "Prognoseverfahren abwarten",
+     "text": "Die Anstalt prüft Flucht- und Missbrauchsgefahr; bei bestimmten Deliktsgruppen verlangen manche Landesgesetze zusätzliche Stellungnahmen oder Gutachten."
+    },
+    {
+     "titel": "Bei Ablehnung Begründung erfragen",
+     "text": "Lassen Sie sich die Ablehnungsgründe erläutern und prüfen Sie mit Verteidigung oder Rechtsantragstelle, ob ein Antrag auf gerichtliche Entscheidung sinnvoll ist."
+    },
+    {
+     "titel": "Lockerungen zuverlässig nutzen",
+     "text": "Halten Sie Meldezeiten und Auflagen strikt ein – ein einzelner Regelverstoß kann weitere Lockerungen und den offenen Vollzug gefährden."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "2 Wochen",
+     "was": "Frist für den Antrag auf gerichtliche Entscheidung gegen Ablehnung oder Widerruf von Lockerungen",
+     "grundlage": "vgl. § 112 StVollzG (Bund); vergleichbar in den Landesgesetzen geregelt"
+    }
+   ],
+   "achtung": [
+    "Ein Anspruch auf Lockerungen besteht nicht automatisch – es handelt sich um eine Ermessensentscheidung anhand einer Prognose, keine feste Regel nach Haftdauer.",
+    "Bei bestimmten Deliktsgruppen (u. a. Sexual- und Gewaltdelikte) verlangen viele Landesgesetze vor Lockerungen zusätzliche fachliche Stellungnahmen oder Gutachten – das ist nicht bundeseinheitlich geregelt.",
+    "Ein einzelner Regelverstoß während einer Lockerung, etwa eine verspätete Rückkehr, kann weitere Lockerungen und den offenen Vollzug insgesamt gefährden.",
+    "Offener Vollzug ist keine Entlassung – es gelten weiterhin Auflagen, Meldepflichten und eine engmaschige Kontrolle durch die Anstalt."
+   ],
+   "fach_html": "\n<h3>Rechtsgrundlage</h3>\n<p>§ 11 StVollzG (Bund) dient als Referenznorm für die in allen Landesgesetzen mit teils abweichender\nNummerierung und Begrifflichkeit übernommenen Regelungen zu Lockerungen. Gemeinsame materielle Voraussetzung\nist stets: keine zu befürchtende Flucht- oder Missbrauchsgefahr für weitere Straftaten.</p>\n<h3>Formen von Lockerungen</h3>\n<p>Unterschieden werden regelmäßig Außenbeschäftigung und Freigang (regelmäßige Arbeit außerhalb der Anstalt,\nbei Freigang ohne ständige Aufsicht), Ausführung (zeitlich begrenztes Verlassen der Anstalt unter Aufsicht) und\nAusgang (zeitlich begrenztes Verlassen der Anstalt ohne Aufsicht).</p>\n<h3>Offener Vollzug als eigene Vollzugsform</h3>\n<p>Der offene Vollzug ist eine eigenständige, weniger streng gesicherte Vollzugsform. Voraussetzung ist die\nEignung der oder des Gefangenen, insbesondere das Fehlen von Flucht- oder Missbrauchsgefahr; die Landesgesetze\nverlangen dafür regelmäßig zusätzlich die Zustimmung der betroffenen Person.</p>\n<h3>Rechtsschutz</h3>\n<p>Gegen die Ablehnung oder den Widerruf von Lockerungen bzw. der Zuweisung zum offenen Vollzug kann bei der\nzuständigen Strafvollstreckungskammer ein Antrag auf gerichtliche Entscheidung gestellt werden, regelmäßig\ninnerhalb von zwei Wochen.</p>\n",
+   "zustaendig": [
+    "JVA-Leitung (Entscheidung über Lockerungen)",
+    "Strafvollstreckungskammer (Rechtsschutz)"
+   ],
+   "belege": [
+    "§ 11 StVollzG (Bund)",
+    "Jeweiliges Landesstrafvollzugsgesetz"
+   ],
+   "siehe_auch": [
+    "entlassungsvorbereitung",
+    "bewaehrung",
+    "rechte-waehrend-der-haft"
+   ],
+   "stand": "Stand: September 2026. Strafvollzug ist Ländersache (Art. 70, 74, 125a GG); bundesrechtliche Angaben (StGB, StPO, BZRG, SGB, BtMG, InsO, BGB) gelten bundeseinheitlich, landesrechtliche Angaben können vom jeweiligen Bundesland abweichen. <a href=\"../quellen.html\">Quellen und Methodik</a>"
+  },
+  {
+   "id": "bewaehrung",
+   "kategorie": "bewaehrung",
+   "titel": "Strafaussetzung zur Bewährung",
+   "icon": "⚖️",
+   "teaser": "Eine Freiheitsstrafe kann von vornherein oder nach einem Teil der Haft zur Bewährung ausgesetzt werden – mit Auflagen, Weisungen und meist Bewährungshilfe.",
+   "schlagworte": [
+    "Strafaussetzung zur Bewährung",
+    "§ 57 StGB",
+    "§ 57a StGB",
+    "Bewährungshelfer",
+    "Bewährungszeit",
+    "Widerruf der Bewährung",
+    "§ 454 StPO",
+    "Strafvollstreckungskammer"
+   ],
+   "kurz_html": "\n<p>Es gibt zwei unterschiedliche Wege zur Bewährung: Eine Freiheitsstrafe bis zu zwei Jahren kann das Gericht\nschon im Urteil <strong>von vornherein</strong> zur Bewährung aussetzen (§ 56 StGB), wenn eine günstige Prognose\nbesteht. Bei einer bereits laufenden zeitigen Freiheitsstrafe kann der <strong>Strafrest</strong> nach in der\nRegel zwei Dritteln der verbüßten Strafe zur Bewährung ausgesetzt werden (§ 57 StGB), ausnahmsweise schon nach\nder Hälfte. Bei lebenslanger Freiheitsstrafe ist eine Aussetzung frühestens nach 15 Jahren möglich (§ 57a StGB),\nwenn keine besondere Schwere der Schuld entgegensteht. In der Bewährungszeit gelten Auflagen und Weisungen,\nhäufig verbunden mit einer Unterstellung unter eine Bewährungshelferin oder einen Bewährungshelfer.</p>\n",
+   "schritte": [
+    {
+     "titel": "Rechtzeitig vorbereiten",
+     "text": "Sprechen Sie mit Ihrer Verteidigung frühzeitig vor dem Zwei-Drittel-Termin über eine Aussetzung des Strafrestes – die JVA kann eine entsprechende Stellungnahme abgeben."
+    },
+    {
+     "titel": "Positive Faktoren für die Prognose schaffen",
+     "text": "Geklärte Wohnung, eine Arbeits- oder Ausbildungsperspektive und ggf. abgeschlossene Behandlungsmaßnahmen wirken sich regelmäßig positiv auf die Sozialprognose aus."
+    },
+    {
+     "titel": "Gerichtliches Verfahren nach § 454 StPO abwarten",
+     "text": "Das Gericht hört vor der Entscheidung die Staatsanwaltschaft, die Vollzugsbehörde und ggf. Sachverständige an."
+    },
+    {
+     "titel": "Auflagen und Weisungen genau kennen",
+     "text": "Lassen Sie sich die konkreten Bedingungen der Bewährung (z. B. Melde-, Wohnsitz- oder Kontaktauflagen) schriftlich erklären."
+    },
+    {
+     "titel": "Kontakt zur Bewährungshilfe früh aufnehmen",
+     "text": "Nehmen Sie vereinbarte Termine wahr – Bewährungshilfe hat neben der Aufsicht auch eine unterstützende Funktion, die aktiv genutzt werden kann."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "2/3 der Strafe",
+     "was": "Regelvoraussetzung für die Aussetzung des Strafrestes bei zeitiger Freiheitsstrafe, mindestens jedoch zwei Monate verbüßt",
+     "grundlage": "§ 57 Abs. 1 StGB"
+    },
+    {
+     "wert": "Hälfte der Strafe",
+     "was": "Ausnahmsweise möglich bei besonderen Umständen, insbesondere bei Ersttätern mit Strafen bis zu zwei Jahren",
+     "grundlage": "§ 57 Abs. 2 StGB"
+    },
+    {
+     "wert": "15 Jahre",
+     "was": "Frühestmöglicher Zeitpunkt der Aussetzung bei lebenslanger Freiheitsstrafe, sofern keine besondere Schwere der Schuld entgegensteht",
+     "grundlage": "§ 57a StGB"
+    },
+    {
+     "wert": "2 bis 5 Jahre",
+     "was": "Dauer der Bewährungszeit bei zeitiger Freiheitsstrafe (bei § 57a StGB einheitlich 5 Jahre)",
+     "grundlage": "§ 56a StGB, § 57a Abs. 3 StGB"
+    }
+   ],
+   "achtung": [
+    "Eine Aussetzung ist keine automatische Vergünstigung nach Ablauf einer bestimmten Zeit, sondern erfordert eine positive Sozialprognose – Vorbereitung (Wohnung, Arbeit, ggf. Therapie) erhöht die Chancen deutlich.",
+    "Ein Verstoß gegen Weisungen oder eine neue Straftat während der Bewährungszeit kann zum Widerruf führen – dann ist der Strafrest doch noch zu verbüßen.",
+    "Die Halbstrafenregelung ist eine Ausnahme für besondere Fallgestaltungen, kein Regelfall – verlassen Sie sich nicht automatisch darauf.",
+    "Bewährungshilfe ist keine reine Kontrollinstanz: Sie hat gesetzlich auch eine helfende Funktion – aktiv nutzen erhöht oft die eigenen Erfolgsaussichten."
+   ],
+   "fach_html": "\n<h3>Aussetzung von vornherein (§ 56 StGB)</h3>\n<p>Bei Freiheitsstrafen bis zu einem Jahr setzt das Gericht die Vollstreckung regelmäßig zur Bewährung aus, wenn\nzu erwarten ist, dass sich die verurteilte Person die Verurteilung zur Warnung dienen lässt und künftig keine\nStraftaten mehr begeht. Bei Strafen zwischen einem und zwei Jahren ist eine Aussetzung nur bei Vorliegen\nbesonderer Umstände in der Tat und Persönlichkeit möglich.</p>\n<h3>Aussetzung des Strafrestes bei zeitiger Freiheitsstrafe (§ 57 StGB)</h3>\n<p>Nach Verbüßung von zwei Dritteln, mindestens jedoch zwei Monaten, setzt das Gericht den Strafrest zur\nBewährung aus, wenn dies unter Berücksichtigung des Sicherheitsinteresses der Allgemeinheit verantwortet werden\nkann und die verurteilte Person einwilligt. Schon nach der Hälfte der Strafe ist dies ausnahmsweise möglich,\ninsbesondere bei Ersttäterinnen und Ersttätern mit einer Strafe von nicht mehr als zwei Jahren und dem\nVorliegen besonderer Umstände.</p>\n<h3>Lebenslange Freiheitsstrafe (§ 57a StGB)</h3>\n<p>Bei lebenslanger Freiheitsstrafe setzt das Gericht den Strafrest frühestens nach 15 Jahren Vollzugsdauer zur\nBewährung aus, wenn die besondere Schwere der Schuld der verurteilten Person eine weitere Vollstreckung nicht\ngebietet und die übrigen Voraussetzungen des § 57 Abs. 1 StGB vorliegen. Die Bewährungszeit beträgt einheitlich\nfünf Jahre; das Gericht kann eine Sperrfrist von bis zu zwei Jahren für einen erneuten Antrag festsetzen.</p>\n<h3>Verfahren (§ 454 StPO)</h3>\n<p>Über die Aussetzung des Strafrestes entscheidet die zuständige Strafvollstreckungskammer nach Anhörung der\nStaatsanwaltschaft, der Vollzugsbehörde und – bei bestimmten Verurteilungen gesetzlich vorgeschrieben oder im\nEinzelfall angeordnet – nach Einholung eines Sachverständigengutachtens.</p>\n<h3>Bewährungszeit, Weisungen, Widerruf</h3>\n<p>Während der Bewährungszeit können Auflagen (z. B. Schadenswiedergutmachung) und Weisungen (z. B. Wohnsitz,\nMeldepflichten, Kontaktverbote) auferlegt werden; häufig erfolgt eine Unterstellung unter Bewährungsaufsicht\n(§ 56d StGB). Bei Verstößen oder einer neuen Straftat während der Bewährungszeit kann die Aussetzung widerrufen\nwerden (§ 56f StGB), mit der Folge, dass der Strafrest zu verbüßen ist.</p>\n",
+   "zustaendig": [
+    "Strafvollstreckungskammer bzw. zuständiges Gericht",
+    "Bewährungshilfe (Sozialer Dienst der Justiz)"
+   ],
+   "belege": [
+    "§§ 56, 56a-f, 57, 57a StGB (gesetze-im-internet.de)",
+    "§ 454 StPO (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "offener-vollzug-lockerungen",
+    "beratung-anlaufstellen-straffaellige",
+    "taeter-opfer-ausgleich"
+   ],
+   "stand": "Stand: September 2026. Strafvollzug ist Ländersache (Art. 70, 74, 125a GG); bundesrechtliche Angaben (StGB, StPO, BZRG, SGB, BtMG, InsO, BGB) gelten bundeseinheitlich, landesrechtliche Angaben können vom jeweiligen Bundesland abweichen. <a href=\"../quellen.html\">Quellen und Methodik</a>"
+  },
+  {
+   "id": "fuehrungszeugnis",
+   "kategorie": "bewaehrung",
+   "titel": "Führungszeugnis: was Arbeitgeber sehen dürfen",
+   "icon": "📄",
+   "teaser": "Nicht jede Verurteilung erscheint im Führungszeugnis – vieles hängt von Strafhöhe, Deliktsart und davon ab, welche Zeugnisart überhaupt verlangt wird.",
+   "schlagworte": [
+    "Führungszeugnis",
+    "Erweitertes Führungszeugnis",
+    "Behördenführungszeugnis",
+    "§ 32 BZRG",
+    "Bagatellklausel"
+   ],
+   "kurz_html": "\n<p>Es gibt drei Arten von Führungszeugnissen: das <strong>einfache</strong> (für die meisten privaten\nArbeitgeber, § 30 BZRG), das <strong>erweiterte</strong> (u. a. für Tätigkeiten mit Kindern und Jugendlichen,\n§ 30a BZRG) und das <strong>Behördenführungszeugnis</strong> (für bestimmte behördliche Zwecke, § 31 BZRG, mit dem\numfassendsten Inhalt). Kleinere Verurteilungen – etwa eine Geldstrafe bis zu 90 Tagessätzen oder eine\nFreiheitsstrafe bis zu drei Monaten zur Bewährung – erscheinen im einfachen Führungszeugnis grundsätzlich nicht,\nwenn im Register keine weitere Strafe eingetragen ist. Für bestimmte Sexualstraftaten gilt diese Bagatellgrenze\nausdrücklich nicht: Sie erscheinen unabhängig von der Strafhöhe im Führungszeugnis.</p>\n",
+   "schritte": [
+    {
+     "titel": "Zeugnisart klären",
+     "text": "Prüfen Sie, ob wirklich ein einfaches Führungszeugnis genügt – ein erweitertes oder ein Behördenführungszeugnis darf nur verlangt werden, wenn dies gesetzlich vorgesehen ist."
+    },
+    {
+     "titel": "Eigene Auskunft vorab einholen",
+     "text": "Beantragen Sie beim Bundesamt für Justiz eine eigene Auskunft aus dem Bundeszentralregister (§ 41 BZRG), um zu wissen, was aktuell eingetragen ist."
+    },
+    {
+     "titel": "Führungszeugnis beantragen",
+     "text": "Die Beantragung erfolgt online (mit Online-Ausweisfunktion) oder persönlich beim Einwohnermeldeamt."
+    },
+    {
+     "titel": "Bei Fehlern Berichtigung beantragen",
+     "text": "Stellen Sie bei fehlerhaften Eintragungen einen Berichtigungsantrag beim Bundesamt für Justiz."
+    },
+    {
+     "titel": "Vorlagefrist beachten",
+     "text": "Viele Arbeitgeber verlangen ein Führungszeugnis, das nicht älter als drei Monate ist – das ist keine gesetzliche, sondern eine übliche Praxisvorgabe der jeweiligen Stelle."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "5/10/15/20 Jahre",
+     "was": "Tilgungsfristen im Bundeszentralregister, gestaffelt nach Strafart und -höhe (Details siehe Seite „Strafregister und Tilgung“)",
+     "grundlage": "§ 46 BZRG"
+    },
+    {
+     "wert": "Bagatellgrenze",
+     "was": "Geldstrafe bis 90 Tagessätze bzw. Freiheits-/Jugendstrafe bis 3 Monate zur Bewährung erscheinen im einfachen Führungszeugnis nicht, wenn keine weitere Eintragung vorliegt",
+     "grundlage": "§ 32 Abs. 2 Nr. 5 BZRG"
+    }
+   ],
+   "achtung": [
+    "Die Bagatellklausel gilt nur, wenn im Register sonst nichts weiter eingetragen ist – bei mehreren Verurteilungen erscheint auch die „kleine“ Strafe im Führungszeugnis.",
+    "Für Verurteilungen wegen bestimmter Sexualstraftaten (§§ 174 bis 180, 182 StGB) gilt die Bagatellklausel ausdrücklich nicht – sie erscheinen unabhängig von der Strafhöhe.",
+    "Ein erweitertes Führungszeugnis zeigt bei einschlägigen Delikten mehr als das einfache – die Bagatellgrenzen gelten dort eingeschränkt.",
+    "Außerhalb gesetzlich vorgeschriebener Fälle dürfen Arbeitgeber grundsätzlich kein Behördenführungszeugnis verlangen, das den umfassendsten Inhalt zeigt."
+   ],
+   "fach_html": "\n<h3>Arten des Führungszeugnisses</h3>\n<p>Das einfache Führungszeugnis (§ 30 BZRG) ist die Standardauskunft für die meisten privaten Zwecke. Das\nerweiterte Führungszeugnis (§ 30a BZRG) wird u. a. für Tätigkeiten verlangt, die Kontakt zu Kindern oder\nJugendlichen beinhalten, und zeigt auch bestimmte einschlägige Verurteilungen unterhalb der sonst geltenden\nBagatellgrenzen. Das Behördenführungszeugnis (§ 31 BZRG) ist nur für bestimmte behördliche Verfahren vorgesehen\nund hat den umfassendsten Inhalt.</p>\n<h3>Bagatellklausel (§ 32 Abs. 2 BZRG)</h3>\n<p>Im einfachen Führungszeugnis werden u. a. nicht aufgenommen: Verurteilungen zu Geldstrafe von nicht mehr als\n90 Tagessätzen oder zu Freiheits- bzw. Jugendstrafe von nicht mehr als drei Monaten, wenn diese zur Bewährung\nausgesetzt wurde, sowie bestimmte jugendrechtliche Entscheidungen – jeweils vorausgesetzt, dass im Register\nkeine weitere Strafe eingetragen ist. Für Verurteilungen wegen §§ 174 bis 180 und 182 StGB gilt diese\nBagatellklausel ausdrücklich nicht.</p>\n<h3>Verhältnis zur Tilgung</h3>\n<p>Die Aufnahmegrenzen des § 32 BZRG sind unabhängig von den Tilgungsfristen des § 46 BZRG zu betrachten: Eine\nVerurteilung kann bereits vor Ablauf der Tilgungsfrist aus dem Führungszeugnis herausfallen (Bagatellklausel),\numgekehrt kann eine schwerere Verurteilung bis zum Ablauf der vollen Tilgungsfrist im Führungszeugnis\nerscheinen.</p>\n<h3>Beantragung und Berichtigung</h3>\n<p>Führungszeugnisse werden über die Meldebehörde beim Bundesamt für Justiz beantragt. Für Berichtigungen bei\nfehlerhaften Eintragungen ist ebenfalls das Bundesamt für Justiz zuständig; jede Person hat zudem einen\neigenen Auskunftsanspruch nach § 41 BZRG.</p>\n",
+   "zustaendig": [
+    "Bundesamt für Justiz (Bundeszentralregister)",
+    "Einwohnermeldeamt (Antragstellung)"
+   ],
+   "belege": [
+    "§§ 30, 30a, 31, 32, 41 BZRG (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "strafregister-tilgung",
+    "arbeit-nach-haft"
+   ],
+   "stand": "Stand: September 2026. Strafvollzug ist Ländersache (Art. 70, 74, 125a GG); bundesrechtliche Angaben (StGB, StPO, BZRG, SGB, BtMG, InsO, BGB) gelten bundeseinheitlich, landesrechtliche Angaben können vom jeweiligen Bundesland abweichen. <a href=\"../quellen.html\">Quellen und Methodik</a>"
+  },
+  {
+   "id": "strafregister-tilgung",
+   "kategorie": "bewaehrung",
+   "titel": "Strafregister und Tilgung",
+   "icon": "🗂️",
+   "teaser": "Verurteilungen werden nicht ewig gespeichert – nach Ablauf gesetzlicher Tilgungsfristen dürfen sie in der Regel nicht mehr verwertet werden.",
+   "schlagworte": [
+    "Bundeszentralregister",
+    "Tilgungsfrist",
+    "§ 46 BZRG",
+    "Verwertungsverbot",
+    "§ 53 BZRG"
+   ],
+   "kurz_html": "\n<p>Das Bundeszentralregister erfasst strafrechtliche Verurteilungen bundeseinheitlich. Nach Ablauf der\ngesetzlichen Tilgungsfrist wird ein Eintrag getilgt und darf ab diesem Zeitpunkt grundsätzlich nicht mehr zu\nIhrem Nachteil verwertet werden. Die Fristen sind je nach Strafart, Strafhöhe und Deliktsgruppe abgestuft\n(vereinfacht: 5, 10, 15 oder 20 Jahre) – eine lebenslange Freiheitsstrafe oder Sicherungsverwahrung wird dagegen\nnicht getilgt.</p>\n",
+   "schritte": [
+    {
+     "titel": "Eigene Registerauskunft einholen",
+     "text": "Beantragen Sie beim Bundesamt für Justiz eine Auskunft über die eigenen Eintragungen (§ 41 BZRG) – so wissen Sie, wovon Sie tatsächlich betroffen sind."
+    },
+    {
+     "titel": "Tilgungsfrist grob einordnen",
+     "text": "Ordnen Sie die Eintragung anhand von § 46 BZRG grob einer Fristgruppe zu (5/10/15/20 Jahre) – die genaue Zuordnung ist im Detail komplex gestaffelt."
+    },
+    {
+     "titel": "Fristbeginn beachten",
+     "text": "Die Frist beginnt in der Regel mit dem Tag des ersten Urteils, nicht mit dem Ende der Haft oder der Bewährungszeit."
+    },
+    {
+     "titel": "Mehrere Eintragungen zusammen betrachten",
+     "text": "Sind mehrere Verurteilungen eingetragen, werden sie regelmäßig erst gemeinsam getilgt, wenn die Frist der am schwersten wiegenden Eintragung abgelaufen ist."
+    },
+    {
+     "titel": "Verwertungsverbot geltend machen",
+     "text": "Fragt eine Behörde oder ein Arbeitgeber nach einer bereits getilgten bzw. tilgungsreifen Verurteilung, können Sie sich auf das gesetzliche Verwertungsverbot berufen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "5 Jahre",
+     "was": "Kleinere Verurteilungen (u. a. Geldstrafe bis 90 Tagessätze, kurze Freiheits-/Jugendstrafe), wenn keine weitere Eintragung vorliegt – vereinfachte Angabe",
+     "grundlage": "§ 46 Abs. 1 BZRG"
+    },
+    {
+     "wert": "10/15/20 Jahre",
+     "was": "Weitere Fristgruppen für mittlere und schwerere Verurteilungen sowie eine Auffangfrist für alle übrigen Fälle; 20 Jahre insbesondere bei bestimmten Sexualstraftaten mit Freiheits-/Jugendstrafe über einem Jahr – vereinfachte Angabe",
+     "grundlage": "§ 46 Abs. 1 BZRG"
+    },
+    {
+     "wert": "keine Tilgung",
+     "was": "Lebenslange Freiheitsstrafe und Sicherungsverwahrung werden nicht getilgt",
+     "grundlage": "§ 46 Abs. 1 BZRG"
+    }
+   ],
+   "achtung": [
+    "Die Fristenmatrix des § 46 BZRG ist im Detail komplex gestaffelt mit mehreren Unterfällen je Absatz – diese Seite gibt nur eine vereinfachte Orientierung, keine verbindliche Einzelfallberechnung. Im Zweifel den Gesetzestext oder eine Rechtsberatung heranziehen.",
+    "Die Tilgungsfrist beginnt in der Regel mit dem ersten Urteil, nicht mit dem Ende der Haft – wer das verwechselt, schätzt den eigenen Tilgungstermin häufig falsch ein.",
+    "Mehrere Eintragungen „verlängern“ sich gegenseitig: Erst wenn die Frist der schwersten Eintragung abgelaufen ist, werden in der Regel auch die anderen getilgt.",
+    "Ein getilgter bzw. tilgungsreifer Eintrag muss grundsätzlich nicht offenbart werden, auch nicht auf ausdrückliche Frage – Ausnahmen bestehen für bestimmte Sicherheitsüberprüfungen."
+   ],
+   "fach_html": "\n<h3>Systematik des Bundeszentralregisters</h3>\n<p>Das Bundeszentralregistergesetz (BZRG) ist Bundesrecht und gilt bundeseinheitlich, unabhängig davon, in\nwelchem Bundesland eine Strafe vollstreckt wurde. Es erfasst u. a. strafgerichtliche Verurteilungen sowie\nbestimmte Entscheidungen von Verwaltungsbehörden und Gerichten.</p>\n<h3>Tilgungsfristen im Detail (§ 46 BZRG)</h3>\n<p>§ 46 Abs. 1 BZRG unterscheidet mehrere, jeweils nach Strafart, Strafhöhe und teils Deliktsgruppe abgestufte\nFristen von fünf, zehn, fünfzehn und zwanzig Jahren; für „alle übrigen Fälle“ gilt eine Auffangfrist von fünfzehn\nJahren. Bestimmte Sexualstraftaten (u. a. §§ 174 bis 180, 182 StGB) mit einer Freiheits- oder Jugendstrafe von\nmehr als einem Jahr werden erst nach zwanzig Jahren getilgt. Lebenslange Freiheitsstrafe und Sicherungsverwahrung\nwerden gar nicht getilgt. Da die genaue Zuordnung einzelner Unterfälle in der Praxis fehleranfällig ist, wird\nhier bewusst nur eine vereinfachte Übersicht gegeben statt einer vollständigen Paragraphen-für-Paragraphen-Liste.</p>\n<h3>Fristbeginn (§ 47 BZRG)</h3>\n<p>Die Tilgungsfrist beginnt grundsätzlich mit dem Tag des ersten Urteils. Bei mehreren Verurteilungen im\nRegister werden diese in der Regel erst gemeinsam getilgt, wenn die Frist der am schwersten wiegenden\nEintragung abgelaufen ist.</p>\n<h3>Verwertungsverbot und Offenbarungspflicht (§§ 51, 53 BZRG)</h3>\n<p>Nach Tilgung bzw. Tilgungsreife darf die Tat der betroffenen Person grundsätzlich nicht mehr vorgehalten und\nnicht zu ihrem Nachteil verwertet werden; sie darf sich in der Regel auch als „unbestraft“ bezeichnen und muss\ndie Verurteilung nicht offenbaren, selbst auf ausdrückliche Frage.</p>\n",
+   "zustaendig": [
+    "Bundesamt für Justiz"
+   ],
+   "belege": [
+    "§§ 46, 47, 51, 53 BZRG (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "fuehrungszeugnis",
+    "arbeit-nach-haft"
+   ],
+   "stand": "Stand: September 2026. Strafvollzug ist Ländersache (Art. 70, 74, 125a GG); bundesrechtliche Angaben (StGB, StPO, BZRG, SGB, BtMG, InsO, BGB) gelten bundeseinheitlich, landesrechtliche Angaben können vom jeweiligen Bundesland abweichen. <a href=\"../quellen.html\">Quellen und Methodik</a>"
+  },
+  {
+   "id": "wohnung-nach-haft",
+   "kategorie": "existenz",
+   "titel": "Wohnung nach der Haft",
+   "icon": "🏠",
+   "teaser": "Ohne eigene Wohnung ist ein Neuanfang schwer – wer sich rechtzeitig kümmert, kann Jobcenter-Hilfen und Übergangswohnheime nutzen.",
+   "schlagworte": [
+    "Erstausstattung",
+    "Mietkaution",
+    "Wohnungsnotfallhilfe",
+    "Übergangswohnheim",
+    "§ 22 SGB II",
+    "§ 24 SGB II"
+   ],
+   "kurz_html": "\n<p>Wohnungslosigkeit ist eines der größten Risiken direkt nach der Entlassung. Es gibt keinen automatischen\nstaatlichen Anspruch auf eine Wohnung, aber mehrere unterstützende Leistungen: Das Jobcenter kann eine\nMietkaution als Darlehen übernehmen und eine Erstausstattung für Wohnung und Kleidung bewilligen. Kommunale\nWohnungsnotfallhilfe und Übergangswohnheime der Wohnungslosenhilfe bzw. der freien Straffälligenhilfe können\nzusätzlich helfen – das konkrete Angebot ist von Kommune zu Kommune unterschiedlich.</p>\n",
+   "schritte": [
+    {
+     "titel": "Schon in der Haft mit der Wohnungssuche beginnen",
+     "text": "Nehmen Sie Kontakt zum Sozialdienst der JVA oder zu einer Straffälligenhilfe-Beratungsstelle auf, um frühzeitig Optionen zu sondieren."
+    },
+    {
+     "titel": "Meldeadresse klären",
+     "text": "Ohne eigene Wohnung ist eine Meldung bei einer sozialen Einrichtung oder – für die Übergangszeit – bei der JVA als letzter Wohnsitz möglich; ohne Meldeadresse lassen sich viele Anträge nicht stellen."
+    },
+    {
+     "titel": "Kostenübernahme vor Vertragsabschluss beantragen",
+     "text": "Beantragen Sie die Übernahme von Mietkaution oder Genossenschaftsanteilen beim Jobcenter, bevor Sie den Mietvertrag unterschreiben."
+    },
+    {
+     "titel": "Erstausstattung beantragen",
+     "text": "Erstausstattung für Wohnung und Kleidung kann gesondert vom laufenden Regelbedarf beim Jobcenter beantragt werden."
+    },
+    {
+     "titel": "Bei akuter Wohnungslosigkeit Fachstelle einschalten",
+     "text": "Wenden Sie sich an die kommunale Fachstelle für Wohnungsnotfälle oder ein Übergangswohnheim der Wohnungslosenhilfe."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "vor Vertragsabschluss",
+     "was": "Antrag auf Kostenübernahme für Kaution möglichst vor Unterschrift des Mietvertrags stellen, sonst droht Ablehnung",
+     "grundlage": "§ 22 Abs. 6 SGB II"
+    }
+   ],
+   "achtung": [
+    "Eine Meldeadresse ist Voraussetzung für viele Anträge (Bank, Jobcenter, Ausweis) – ohne festen Wohnsitz hilft die Meldung bei einer sozialen Einrichtung oder übergangsweise bei der JVA-Adresse.",
+    "Die Übernahme einer Mietkaution ist eine Ermessensleistung als Darlehen, kein automatischer Zuschuss – die Rückzahlung wird meist mit dem laufenden Regelbedarf verrechnet.",
+    "Übergangswohnheime und spezialisierte Angebote der Straffälligenhilfe sind nicht flächendeckend vorhanden – das Angebot ist kommunal- bzw. trägerabhängig sehr unterschiedlich.",
+    "Ob und wie private Vermieterinnen und Vermieter nach Vorstrafen fragen dürfen, ist rechtlich nicht abschließend einheitlich geklärt – das wird hier ausdrücklich als offene Frage benannt statt mit einer erfundenen Regel beantwortet."
+   ],
+   "fach_html": "\n<h3>Erstausstattung und Kaution (§§ 22, 24 SGB II)</h3>\n<p>Nach § 24 Abs. 3 SGB II kann eine Erstausstattung für die Wohnung sowie für Bekleidung gesondert vom\nRegelbedarf beantragt werden; die Entlassung aus einer Justizvollzugsanstalt gilt dabei als typischer\nAnwendungsfall, sofern kein eigener Hausstand mehr vorhanden ist. Die Übernahme einer Mietkaution erfolgt nach\n§ 22 Abs. 6 SGB II in der Regel als Darlehen und setzt voraus, dass sie zur Sicherung der Unterkunft gerechtfertigt\nist.</p>\n<h3>Meldewesen ohne festen Wohnsitz</h3>\n<p>Das Bundesmeldegesetz sieht für Personen ohne Wohnung Ersatzregelungen vor (z. B. Meldung bei einer sozialen\nEinrichtung); die konkrete Umsetzung im Übergang von der JVA in eine eigene Wohnung wird in der Praxis von\nMeldebehörde und JVA-Sozialdienst gemeinsam organisiert.</p>\n<h3>Kommunale Wohnungsnotfallhilfe</h3>\n<p>Städte und Landkreise unterhalten in unterschiedlichem Umfang Fachstellen für Wohnungsnotfälle und\nÜbergangswohnheime. Eine bundesweit einheitliche gesetzliche Vorgabe zu Umfang und Ausstattung dieser Hilfen\nist nach den vorliegenden Quellen nicht ersichtlich; das Angebot ist kommunal unterschiedlich.</p>\n<h3>Rolle der Straffälligenhilfe</h3>\n<p>Freie Träger wie Diakonie, Caritas oder eigenständige Straffälligenhilfevereine vermitteln vielerorts\nzusätzlich Übergangswohnraum. Ob und in welchem Umfang solche Angebote vor Ort bestehen, ist regional sehr\nunterschiedlich.</p>\n",
+   "zustaendig": [
+    "Jobcenter",
+    "Meldebehörde",
+    "Kommunale Fachstelle für Wohnungsnotfälle",
+    "Träger der freien Straffälligenhilfe"
+   ],
+   "belege": [
+    "§§ 22, 24 SGB II (gesetze-im-internet.de)",
+    "Bundesmeldegesetz (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "buergergeld-nach-entlassung",
+    "entlassungsvorbereitung",
+    "beratung-anlaufstellen-straffaellige"
+   ],
+   "stand": "Stand: September 2026. Strafvollzug ist Ländersache (Art. 70, 74, 125a GG); bundesrechtliche Angaben (StGB, StPO, BZRG, SGB, BtMG, InsO, BGB) gelten bundeseinheitlich, landesrechtliche Angaben können vom jeweiligen Bundesland abweichen. <a href=\"../quellen.html\">Quellen und Methodik</a>"
+  },
+  {
+   "id": "arbeit-nach-haft",
+   "kategorie": "existenz",
+   "titel": "Arbeit nach der Haft: Offenlegung und Fragerecht",
+   "icon": "💼",
+   "teaser": "Eine Vorstrafe muss im Vorstellungsgespräch nicht immer offengelegt werden – entscheidend ist, ob sie für die konkrete Stelle einschlägig ist.",
+   "schlagworte": [
+    "Offenbarungspflicht",
+    "Fragerecht des Arbeitgebers",
+    "Führungszeugnis im Bewerbungsverfahren",
+    "Wiedereingliederung"
+   ],
+   "kurz_html": "\n<p>Es gibt keine allgemeine Pflicht, im Vorstellungsgespräch von sich aus jede Vorstrafe offenzulegen.\nNach der Rechtsprechung muss eine Vorstrafe nur dann von sich aus genannt oder auf ausdrückliche, zulässige\nFrage wahrheitsgemäß beantwortet werden, wenn sie einen konkreten Bezug zur angestrebten Tätigkeit hat – etwa ein\nVermögensdelikt bei einer Kassiertätigkeit. Ein Führungszeugnis darf ein Arbeitgeber nur verlangen, wenn dies\ngesetzlich vorgeschrieben ist oder sachlich gerechtfertigt erscheint.</p>\n",
+   "schritte": [
+    {
+     "titel": "Prüfen, ob ein Führungszeugnis überhaupt verlangt werden darf",
+     "text": "Klären Sie vor der Bewerbung, ob die Stelle gesetzlich ein Führungszeugnis voraussetzt (z. B. Arbeit mit Kindern) oder der Arbeitgeber es freiwillig und ggf. unberechtigt verlangt."
+    },
+    {
+     "titel": "Eigene Registerauskunft einholen",
+     "text": "Holen Sie vorab eine eigene Auskunft aus dem Bundeszentralregister ein, um zu wissen, was im Führungszeugnis sichtbar würde."
+    },
+    {
+     "titel": "Tätigkeitsbezug abwägen",
+     "text": "Prüfen Sie bei einer konkreten Frage im Gespräch, ob die Vorstrafe einen Bezug zur angestrebten Tätigkeit hat – nur dann besteht eine Wahrheitspflicht."
+    },
+    {
+     "titel": "Förderangebote nutzen",
+     "text": "Nutzen Sie Unterstützungsangebote der Agentur für Arbeit bzw. des Jobcenters sowie spezialisierte Beschäftigungsprojekte der Straffälligenhilfe."
+    },
+    {
+     "titel": "Bei zweifelhafter Ablehnung Beratung suchen",
+     "text": "Wurden Sie trotz fehlendem Tätigkeitsbezug wegen einer Vorstrafe abgelehnt, lassen Sie mögliche Ansprüche im Einzelfall rechtlich prüfen."
+    }
+   ],
+   "fristen": [],
+   "achtung": [
+    "Es gibt keine pauschale Pflicht, jede Vorstrafe von sich aus offenzulegen – maßgeblich ist der Bezug zur konkreten Tätigkeit.",
+    "Ob und wann ein Arbeitgeber außerhalb gesetzlich vorgeschriebener Fälle überhaupt ein Führungszeugnis verlangen darf, ist einzelfallabhängig und nicht abschließend höchstrichterlich vereinheitlicht – das wird hier als unsicher gekennzeichnet statt als feste Regel behauptet.",
+    "Getilgte bzw. tilgungsreife Eintragungen müssen nach § 53 BZRG grundsätzlich nicht offenbart werden, auch nicht auf ausdrückliche Frage.",
+    "Arbeit während der Haft zählt nicht zur gesetzlichen Rentenversicherung: Obwohl eine Einbeziehung von Gefangenenarbeit in die Rentenversicherung schon 1976 im StVollzG vorgesehen wurde (§§ 190 ff. StVollzG), ist diese Regelung bis heute nicht in Kraft gesetzt worden. Für Gefangenenarbeit besteht in der Regel nur Unfall- und Arbeitslosenversicherungsschutz, keine Kranken- oder Rentenversicherungspflicht aus der Arbeit selbst."
+   ],
+   "fach_html": "\n<h3>Fragerecht des Arbeitgebers</h3>\n<p>Ein allgemeines Fragerecht zu Vorstrafen besteht arbeitsrechtlich nicht unbegrenzt; es wird von der\nRechtsprechung aus dem Verhältnismäßigkeitsgrundsatz und dem Persönlichkeitsrecht der Bewerberin oder des\nBewerbers hergeleitet. Zulässig sind regelmäßig nur Fragen mit Bezug zur ausgeübten oder angestrebten Tätigkeit.</p>\n<h3>Offenbarungspflicht bei einschlägigem Bezug</h3>\n<p>Besteht ein konkreter Zusammenhang zwischen der Vorstrafe und den Anforderungen der Stelle – etwa\nVermögensdelikte bei einer Tätigkeit mit Kassenverantwortung oder Gewaltdelikte bei einer Tätigkeit mit\nbesonderer Fürsorgepflicht –, muss eine entsprechende, zulässige Frage wahrheitsgemäß beantwortet werden.</p>\n<h3>Führungszeugnis im Bewerbungsverfahren</h3>\n<p>Ein Führungszeugnis darf regelmäßig nur verlangt werden, wenn dies gesetzlich vorgeschrieben ist (z. B. bei\nTätigkeiten mit Kindern und Jugendlichen) oder ein sachlicher Grund vorliegt. Ist dies zweifelhaft, kann eine\nrechtliche Prüfung im Einzelfall sinnvoll sein.</p>\n<h3>Rentenversicherung und Gefangenenarbeit</h3>\n<p>Trotz gesetzgeberischer Absicht bei der Strafvollzugsreform von 1976 (§§ 190 bis 193 StVollzG) wurde die\nEinbeziehung arbeitender Gefangener in die gesetzliche Kranken- und Rentenversicherung bis heute nicht\numgesetzt. Zeiten der Gefangenenarbeit begründen daher grundsätzlich keine Rentenansprüche – ein Umstand, der bei\nder Planung der Zeit nach der Haft mitbedacht werden sollte.</p>\n<h3>Förderangebote</h3>\n<p>Agentur für Arbeit und Jobcenter bieten reguläre arbeitsmarktpolitische Maßnahmen auch für Haftentlassene an;\ndaneben existieren spezialisierte Beschäftigungsprojekte der Straffälligenhilfe, deren Verfügbarkeit regional\nunterschiedlich ist.</p>\n",
+   "zustaendig": [
+    "Agentur für Arbeit bzw. Jobcenter",
+    "Träger der Straffälligenhilfe"
+   ],
+   "belege": [
+    "§ 53 BZRG (gesetze-im-internet.de)",
+    "§§ 190-193 StVollzG (gesetze-im-internet.de, nicht in Kraft gesetzt)"
+   ],
+   "siehe_auch": [
+    "fuehrungszeugnis",
+    "buergergeld-nach-entlassung",
+    "beratung-anlaufstellen-straffaellige"
+   ],
+   "stand": "Stand: September 2026. Strafvollzug ist Ländersache (Art. 70, 74, 125a GG); bundesrechtliche Angaben (StGB, StPO, BZRG, SGB, BtMG, InsO, BGB) gelten bundeseinheitlich, landesrechtliche Angaben können vom jeweiligen Bundesland abweichen. <a href=\"../quellen.html\">Quellen und Methodik</a>"
+  },
+  {
+   "id": "buergergeld-nach-entlassung",
+   "kategorie": "existenz",
+   "titel": "Grundsicherungsgeld (Bürgergeld) nach der Entlassung",
+   "icon": "💶",
+   "teaser": "Während der Haft besteht in der Regel kein Anspruch auf Grundsicherungsgeld – wohl aber können Sie den Antrag schon vor der Entlassung stellen.",
+   "schlagworte": [
+    "Grundsicherungsgeld",
+    "Bürgergeld",
+    "§ 7 SGB II",
+    "Freigänger",
+    "Antrag vor Entlassung"
+   ],
+   "kurz_html": "\n<p>Während der Haft sind Sie grundsätzlich vom Bezug des Grundsicherungsgeldes (Bürgergeld) ausgeschlossen, weil\ndas Gesetz die Unterbringung zum Vollzug einer richterlich angeordneten Freiheitsentziehung einer stationären\nEinrichtung gleichstellt. Eine Ausnahme gilt für Freigängerinnen und Freigänger, die unter den üblichen\nBedingungen des allgemeinen Arbeitsmarktes mindestens 15 Stunden wöchentlich außerhalb der Anstalt erwerbstätig\nsind. Wichtig: Sie können den Antrag auf Grundsicherungsgeld bereits vor Ihrer Entlassung stellen, damit die\nLeistung ab dem Tag der Entlassung fließt – ein rückwirkender Anspruch für die Zeit davor besteht nicht.</p>\n",
+   "schritte": [
+    {
+     "titel": "Antrag rechtzeitig vor der Entlassung stellen",
+     "text": "Stellen Sie den formlosen Antrag beim Jobcenter am künftigen Wohnort einige Wochen vor dem geplanten Entlassungstermin."
+    },
+    {
+     "titel": "Entlassungsdatum nachweisen",
+     "text": "Legen Sie eine Bescheinigung über den voraussichtlichen Entlassungstermin bei, die Sie über die JVA erhalten."
+    },
+    {
+     "titel": "Erstausstattung und Kaution mitbeantragen",
+     "text": "Beantragen Sie parallel eine Erstausstattung für Wohnung und Kleidung sowie ggf. die Übernahme einer Mietkaution."
+    },
+    {
+     "titel": "Krankenversicherung klären",
+     "text": "Melden Sie sich rechtzeitig bei einer Krankenkasse an, damit ab dem Entlassungstag kein Versicherungsschutz fehlt – während der Haft ist die gesundheitliche Versorgung Aufgabe der Vollzugsbehörde, kein gesetzliches Krankenversicherungsverhältnis."
+    },
+    {
+     "titel": "Freigänger-Ausnahme prüfen lassen",
+     "text": "Arbeiten Sie bereits während der Haft als Freigänger:in mindestens 15 Stunden wöchentlich außerhalb der Anstalt, lassen Sie vom Jobcenter prüfen, ob schon während der Haft ein ergänzender Anspruch besteht."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "kein Rückwirkungsanspruch",
+     "was": "Leistungen werden grundsätzlich erst ab dem Monat der Antragstellung gezahlt, nicht für die Zeit vor der Entlassung",
+     "grundlage": "§ 37 SGB II"
+    },
+    {
+     "wert": "15 Stunden/Woche",
+     "was": "Mindestumfang der Erwerbstätigkeit außerhalb der Anstalt unter üblichen Arbeitsmarktbedingungen, damit die Ausnahme vom Leistungsausschluss für Freigänger:innen greift",
+     "grundlage": "§ 7 Abs. 4 SGB II"
+    }
+   ],
+   "achtung": [
+    "Während der Haft besteht in der Regel kein Anspruch auf Grundsicherungsgeld (§ 7 Abs. 4 SGB II) – die Ausnahme für Freigänger:innen mit mindestens 15 Wochenstunden Arbeit außerhalb der Anstalt sollte konkret mit dem Jobcenter geklärt werden.",
+    "Wer erst am Entlassungstag selbst einen Antrag stellt, riskiert eine Versorgungslücke von mehreren Tagen bis zur ersten Zahlung.",
+    "Arbeitsentgelt aus Gefangenenarbeit ist kein reguläres, sozialversicherungspflichtiges Erwerbseinkommen und begründet für sich keinen Anspruch auf Arbeitslosengeld I.",
+    "Der Krankenversicherungsschutz kann direkt nach der Entlassung eine Lücke aufweisen, wenn die Anmeldung bei einer Krankenkasse nicht rechtzeitig vorbereitet wurde."
+   ],
+   "fach_html": "\n<h3>Leistungsausschluss während der Haft (§ 7 Abs. 4 SGB II)</h3>\n<p>Der Aufenthalt in einer Einrichtung zum Vollzug richterlich angeordneter Freiheitsentziehung wird dem\nAufenthalt in einer stationären Einrichtung gleichgestellt; für diese Zeit besteht grundsätzlich kein Anspruch\nauf Leistungen nach dem SGB II. Eine ausdrückliche gesetzliche Ausnahme gilt für Personen, die unter den\nüblichen Bedingungen des allgemeinen Arbeitsmarktes mindestens 15 Stunden wöchentlich erwerbstätig sind – in der\nPraxis vor allem Freigängerinnen und Freigänger.</p>\n<h3>Antragstellung vor Entlassung</h3>\n<p>Ein Antrag kann bereits vor der tatsächlichen Entlassung gestellt und bearbeitet werden; er entfaltet aber\nkeine Rückwirkung auf die Zeit der Haft selbst. Ziel ist, dass die Leistung ab dem tatsächlichen Entlassungstag\nausgezahlt werden kann.</p>\n<h3>Erstausstattung und Kaution</h3>\n<p>Ergänzend zum laufenden Regelbedarf können Erstausstattung für Wohnung und Kleidung sowie die Übernahme einer\nMietkaution beantragt werden (siehe die Seite „Wohnung nach der Haft“).</p>\n<h3>Krankenversicherung</h3>\n<p>Während der Haft ist die gesundheitliche Versorgung nach dem jeweiligen Landesstrafvollzugsgesetz Aufgabe der\nVollzugsbehörde; ein Versicherungsverhältnis in der gesetzlichen Krankenversicherung nach SGB V besteht in\ndieser Zeit in der Regel nicht. Die reguläre Pflichtversicherung setzt typischerweise wieder mit dem Tag der\nEntlassung ein.</p>\n",
+   "zustaendig": [
+    "Jobcenter",
+    "Krankenkasse"
+   ],
+   "belege": [
+    "§ 7 Abs. 4 SGB II (gesetze-im-internet.de)",
+    "§ 37 SGB II (gesetze-im-internet.de)",
+    "Jeweiliges Landesstrafvollzugsgesetz (Gesundheitsfürsorge während der Haft)"
+   ],
+   "siehe_auch": [
+    "wohnung-nach-haft",
+    "arbeit-nach-haft",
+    "entlassungsvorbereitung"
+   ],
+   "stand": "Stand: September 2026. Strafvollzug ist Ländersache (Art. 70, 74, 125a GG); bundesrechtliche Angaben (StGB, StPO, BZRG, SGB, BtMG, InsO, BGB) gelten bundeseinheitlich, landesrechtliche Angaben können vom jeweiligen Bundesland abweichen. <a href=\"../quellen.html\">Quellen und Methodik</a>"
+  },
+  {
+   "id": "schulden-nach-haft",
+   "kategorie": "existenz",
+   "titel": "Schulden nach der Haft",
+   "icon": "📉",
+   "teaser": "Viele Betroffene kommen mit Schulden aus der Haft – Schuldnerberatung und Privatinsolvenz sollen den Neuanfang nicht sofort belasten.",
+   "schlagworte": [
+    "Schuldnerberatung",
+    "Restschuldbefreiung",
+    "§ 302 InsO",
+    "Verfahrenskosten",
+    "Schadensersatz",
+    "§ 16a SGB II"
+   ],
+   "kurz_html": "\n<p>Schulden aus der Zeit vor der Haft laufen während der Inhaftierung meist weiter, oft mit zusätzlichen Zinsen\nund Mahnkosten. Dazu können eigene Forderungen aus dem Strafverfahren kommen: Gerichts- und Verfahrenskosten\nsowie Schadensersatzforderungen der Geschädigten. Eine Restschuldbefreiung über ein Insolvenzverfahren ist\ngrundsätzlich auch für Haftentlassene möglich – mit einer wichtigen Ausnahme: Forderungen aus einer vorsätzlichen\nunerlaubten Handlung, also aus der Straftat selbst, können von der Restschuldbefreiung ausgenommen sein, wenn\nGläubigerinnen oder Gläubiger sie im Verfahren ausdrücklich als solche anmelden.</p>\n",
+   "schritte": [
+    {
+     "titel": "Forderungsübersicht verschaffen",
+     "text": "Verschaffen Sie sich schon während der Haft einen Überblick über Gerichtskosten, private Schulden und Schadensersatzforderungen."
+    },
+    {
+     "titel": "Schuldnerberatung kontaktieren",
+     "text": "Nehmen Sie Kontakt zu einer anerkannten Schuldnerberatungsstelle auf – teils gibt es Beratungsangebote direkt in der JVA."
+    },
+    {
+     "titel": "Ratenzahlung bei der Staatskasse beantragen",
+     "text": "Beantragen Sie bei fehlender Zahlungsfähigkeit Ratenzahlung oder Stundung für Gerichtskosten und Verfahrensauslagen."
+    },
+    {
+     "titel": "Privatinsolvenz prüfen lassen",
+     "text": "Lassen Sie prüfen, ob ein Insolvenzverfahren mit Restschuldbefreiung sinnvoll ist – und welche Forderungen davon möglicherweise ausgenommen bleiben."
+    },
+    {
+     "titel": "Täter-Opfer-Ausgleich als Option ansprechen",
+     "text": "Bei Schadensersatzforderungen von Geschädigten kann ein Täter-Opfer-Ausgleich eine einvernehmliche Regelung ermöglichen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "3 Jahre",
+     "was": "Regelmäßig frühestmöglicher Zeitpunkt für die Restschuldbefreiung im Insolvenzverfahren, sofern die Verfahrensvoraussetzungen erfüllt sind",
+     "grundlage": "§ 287 InsO"
+    }
+   ],
+   "achtung": [
+    "Forderungen aus vorsätzlicher unerlaubter Handlung – etwa der durch die Straftat verursachte Schaden – können von der Restschuldbefreiung ausgenommen sein, wenn Gläubigerinnen oder Gläubiger sie im Verfahren ausdrücklich als solche anmelden (§ 302 Nr. 1 InsO). Das ist kein Automatismus, sondern hängt vom Verhalten der Gläubiger im Verfahren ab.",
+    "Gerichtskosten und Verfahrensauslagen aus dem eigenen Strafverfahren sind eigenständige Forderungen der Staatskasse und laufen unabhängig von zivilrechtlichen Schulden weiter.",
+    "Wer bestehende Ratenvereinbarungen aus der Zeit vor der Haft nicht meldet, riskiert Mahnbescheide und zusätzliche Kosten während der Haftzeit.",
+    "Schuldnerberatung ist zwar eine kommunale Pflichtleistung, das konkrete Angebot (Wartezeiten, Kapazitäten) ist aber kommunal unterschiedlich."
+   ],
+   "fach_html": "\n<h3>Schuldenarten nach einer Straftat</h3>\n<p>Typischerweise treffen nach der Haft drei Arten von Forderungen zusammen: Verfahrenskosten (Gerichtskosten,\nggf. Anwaltskosten), Schadensersatzforderungen von Geschädigten sowie „Alt“-Schulden aus der Zeit vor der Haft\n(z. B. Konsumentenkredite, Mietschulden).</p>\n<h3>Restschuldbefreiung und Ausnahme bei vorsätzlicher unerlaubter Handlung</h3>\n<p>Das Regelinsolvenzverfahren mit Restschuldbefreiung (§§ 287, 287a InsO) steht grundsätzlich auch\nHaftentlassenen offen; die Restschuldbefreiung kann frühestens nach drei Jahren erteilt werden, wenn die\nweiteren gesetzlichen Voraussetzungen vorliegen. Nach § 302 Nr. 1 InsO sind Forderungen aus einer vorsätzlich\nbegangenen unerlaubten Handlung von der Restschuldbefreiung ausgenommen, wenn die Gläubigerin oder der Gläubiger\ndies bei der Forderungsanmeldung ausdrücklich geltend macht.</p>\n<h3>Schuldnerberatung als Pflichtleistung</h3>\n<p>Nach § 16a SGB II gehört Schuldnerberatung zu den kommunalen Eingliederungsleistungen. Der Zugang steht auch\nPersonen offen, die (noch) keine Leistungen nach dem SGB II beziehen; Kapazitäten und Wartezeiten unterscheiden\nsich jedoch von Kommune zu Kommune.</p>\n<h3>Zusammenspiel mit Täter-Opfer-Ausgleich</h3>\n<p>Ein gelungener Täter-Opfer-Ausgleich (§ 46a StGB) kann Schadensersatzforderungen ganz oder teilweise\neinvernehmlich regeln und wirkt sich zugleich potenziell strafmildernd aus (siehe die Seite\n„Täter-Opfer-Ausgleich“).</p>\n",
+   "zustaendig": [
+    "Schuldnerberatungsstelle",
+    "Insolvenzgericht",
+    "Staatskasse (Gerichtskasse)"
+   ],
+   "belege": [
+    "§§ 287, 287a, 302 InsO (gesetze-im-internet.de)",
+    "§ 16a SGB II (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "taeter-opfer-ausgleich",
+    "buergergeld-nach-entlassung",
+    "beratung-anlaufstellen-straffaellige"
+   ],
+   "stand": "Stand: September 2026. Strafvollzug ist Ländersache (Art. 70, 74, 125a GG); bundesrechtliche Angaben (StGB, StPO, BZRG, SGB, BtMG, InsO, BGB) gelten bundeseinheitlich, landesrechtliche Angaben können vom jeweiligen Bundesland abweichen. <a href=\"../quellen.html\">Quellen und Methodik</a>"
+  },
+  {
+   "id": "taeter-opfer-ausgleich",
+   "kategorie": "besondere",
+   "titel": "Täter-Opfer-Ausgleich und Wiedergutmachung",
+   "icon": "🤝",
+   "teaser": "Wiedergutmachung gegenüber dem Opfer kann die Strafe mildern – ein Täter-Opfer-Ausgleich ist für beide Seiten freiwillig und kein Freikaufen von Schuld.",
+   "schlagworte": [
+    "Täter-Opfer-Ausgleich",
+    "§ 46a StGB",
+    "Wiedergutmachung",
+    "Schadenswiedergutmachung",
+    "§ 56b StGB"
+   ],
+   "kurz_html": "\n<p>Nach § 46a StGB kann das Gericht die Strafe mildern oder bei geringer Straferwartung sogar ganz von Strafe\nabsehen, wenn Sie sich ernsthaft um einen Ausgleich mit der geschädigten Person bemüht und die Tat ganz oder zum\nüberwiegenden Teil wiedergutgemacht haben – oder wenn eine Wiedergutmachung erhebliche persönliche Leistungen\noder Verzicht von Ihnen verlangt hat. Ein Täter-Opfer-Ausgleich (TOA) ist für beide Seiten freiwillig und wird\nmeist über eine spezialisierte, unabhängige Fachstelle vermittelt.</p>\n",
+   "schritte": [
+    {
+     "titel": "Bereitschaft signalisieren",
+     "text": "Signalisieren Sie frühzeitig gegenüber Ihrer Verteidigung, dem Gericht oder einer TOA-Fachstelle Ihre Bereitschaft zu einem Ausgleich."
+    },
+    {
+     "titel": "Vermittlung durch eine TOA-Fachstelle nutzen",
+     "text": "Eine unabhängige TOA-Fachstelle vermittelt kostenlos, freiwillig und vertraulich zwischen Ihnen und der geschädigten Person."
+    },
+    {
+     "titel": "Gespräch(e) vorbereiten",
+     "text": "Der Ausgleich kann in einem direkten Gespräch oder – wenn das Opfer das bevorzugt – ausschließlich über die Vermittlungsstelle erfolgen."
+    },
+    {
+     "titel": "Wiedergutmachung konkretisieren",
+     "text": "Legen Sie gemeinsam fest, wie die Wiedergutmachung aussieht – etwa eine Geldzahlung, eine Arbeitsleistung oder eine Entschuldigung."
+    },
+    {
+     "titel": "Ergebnis dem Gericht mitteilen lassen",
+     "text": "Lassen Sie das Ergebnis über Ihre Verteidigung oder die TOA-Fachstelle in das Verfahren einbringen, damit es bei der Strafzumessung berücksichtigt werden kann."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "keine feste Frist",
+     "was": "Ein Täter-Opfer-Ausgleich ist grundsätzlich in jedem Verfahrensstadium möglich, auch nachträglich als Bewährungsauflage – je früher vor der Hauptverhandlung, desto eher wirkt er sich auf das Urteil selbst aus",
+     "grundlage": "§ 46a StGB, § 56b Abs. 2 Nr. 1 StGB"
+    }
+   ],
+   "achtung": [
+    "Ein Täter-Opfer-Ausgleich ist für beide Seiten freiwillig – lehnt die geschädigte Person die Teilnahme ab, darf Ihnen daraus kein Nachteil entstehen.",
+    "§ 46a StGB ist eine Kann-Vorschrift: Auch ein gelungener Ausgleich führt nicht automatisch zu einer Strafmilderung, das Gericht entscheidet nach eigenem Ermessen.",
+    "Ein Täter-Opfer-Ausgleich ersetzt kein Zivilverfahren über weitergehende Schadensersatzansprüche, kann aber Grundlage einer einvernehmlichen Regelung sein.",
+    "Gerichte prüfen kritisch, ob ein Ausgleich ernsthaft gemeint ist – eine rein formale Erklärung ohne echtes Bemühen reicht nicht aus."
+   ],
+   "fach_html": "\n<h3>Voraussetzungen des § 46a StGB</h3>\n<p>Die Vorschrift kennt zwei Alternativen: Entweder hat die verurteilte Person sich ernsthaft um einen Ausgleich\nmit der geschädigten Person bemüht und die Tat dadurch ganz oder zum überwiegenden Teil wiedergutgemacht bzw.\nderen Wiedergutmachung ernsthaft erstrebt, oder die Wiedergutmachung hat erhebliche persönliche Leistungen bzw.\npersönlichen Verzicht erfordert und das Opfer wurde ganz oder überwiegend entschädigt.</p>\n<h3>Rechtsfolge</h3>\n<p>Das Gericht kann die Strafe nach § 49 Abs. 1 StGB mildern oder, wenn keine höhere Strafe als Freiheitsstrafe\nbis zu einem Jahr oder Geldstrafe bis zu 360 Tagessätzen verwirkt ist, ganz von Strafe absehen. Ein Anspruch der\nverurteilten Person auf diese Rechtsfolge besteht nicht – es handelt sich um eine Ermessensvorschrift.</p>\n<h3>Verfahren und Vermittlung</h3>\n<p>Die praktische Durchführung erfolgt meist über spezialisierte, unabhängige TOA-Fachstellen freier Träger, die\nbundesweit unterschiedlich organisiert sind. Eine bundesweite fachliche Koordination und Qualitätssicherung\nübernimmt u. a. das beim DBH-Fachverband angesiedelte Servicebüro für Täter-Opfer-Ausgleich.</p>\n<h3>TOA als Bewährungsweisung</h3>\n<p>Ein Täter-Opfer-Ausgleich bzw. eine Schadenswiedergutmachung kann auch nachträglich als Bewährungsauflage\nangeordnet werden (§ 56b Abs. 2 Nr. 1 StGB) – unabhängig davon, ob er schon im Erkenntnisverfahren eine Rolle\ngespielt hat.</p>\n",
+   "zustaendig": [
+    "Gericht bzw. Staatsanwaltschaft",
+    "TOA-Fachstelle (freier Träger)"
+   ],
+   "belege": [
+    "§§ 46a, 49, 56b StGB (gesetze-im-internet.de)",
+    "toa-servicebuero.de (DBH-Fachverband, Servicebüro für Täter-Opfer-Ausgleich)"
+   ],
+   "siehe_auch": [
+    "schulden-nach-haft",
+    "bewaehrung"
+   ],
+   "stand": "Stand: September 2026. Strafvollzug ist Ländersache (Art. 70, 74, 125a GG); bundesrechtliche Angaben (StGB, StPO, BZRG, SGB, BtMG, InsO, BGB) gelten bundeseinheitlich, landesrechtliche Angaben können vom jeweiligen Bundesland abweichen. <a href=\"../quellen.html\">Quellen und Methodik</a>"
+  },
+  {
+   "id": "sucht-waehrend-und-nach-haft",
+   "kategorie": "besondere",
+   "titel": "Sucht während und nach der Haft",
+   "icon": "💊",
+   "teaser": "Sucht und Straffälligkeit hängen oft zusammen – „Therapie statt Strafe“ und Suchtberatung im Vollzug eröffnen Wege aus dem Kreislauf.",
+   "schlagworte": [
+    "Therapie statt Strafe",
+    "§ 35 BtMG",
+    "§ 36 BtMG",
+    "Suchtberatung",
+    "Zurückstellung der Strafvollstreckung"
+   ],
+   "kurz_html": "\n<p>Ist eine Straftat auf eine Betäubungsmittelabhängigkeit zurückzuführen – auch bei sogenannter\nBeschaffungskriminalität wie Diebstahl zur Finanzierung des Konsums –, kann die Vollstreckung einer Strafe oder\nReststrafe von bis zu zwei Jahren zugunsten einer anerkannten Suchttherapie zurückgestellt werden\n(„Therapie statt Strafe“, § 35 BtMG). Unabhängig davon bieten viele Justizvollzugsanstalten eigene\nSuchtberatung an, oft in Kooperation mit externen Suchthilfeträgern – Umfang und Qualität sind zwischen den\nAnstalten und Bundesländern unterschiedlich.</p>\n",
+   "schritte": [
+    {
+     "titel": "Abhängigkeit und Tatzusammenhang offenlegen",
+     "text": "Sprechen Sie mit Ihrer Verteidigung, ob eine Zurückstellung nach § 35 BtMG für Sie infrage kommt."
+    },
+    {
+     "titel": "Therapieplatz und Kostenträger klären",
+     "text": "Klären Sie mit einer anerkannten Therapieeinrichtung und dem zuständigen Kostenträger (meist Rentenversicherung oder Krankenkasse) die Aufnahme."
+    },
+    {
+     "titel": "Antrag auf Zurückstellung stellen",
+     "text": "Der Antrag wird bei der zuständigen Vollstreckungsbehörde (Staatsanwaltschaft) gestellt, meist mit Unterstützung der Verteidigung."
+    },
+    {
+     "titel": "Suchtberatung in der JVA nutzen",
+     "text": "Kontaktieren Sie unabhängig von § 35 BtMG den Suchtberatungsdienst der Anstalt oder externe Suchtberatungsstellen."
+    },
+    {
+     "titel": "Nachsorge nach Therapieende organisieren",
+     "text": "Vereinbaren Sie rechtzeitig ambulante Anschlussbetreuung oder Selbsthilfeangebote, um einem Rückfall vorzubeugen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "bis zu 2 Jahre",
+     "was": "Höchstgrenze der Strafe bzw. Reststrafe, deren Vollstreckung zugunsten einer Therapie zurückgestellt werden kann",
+     "grundlage": "§ 35 Abs. 1 BtMG"
+    }
+   ],
+   "achtung": [
+    "§ 35 BtMG gilt nicht nur für Betäubungsmitteldelikte selbst, sondern auch für sogenannte Beschaffungskriminalität, wenn die Tat auf der Abhängigkeit beruht – das wird häufig übersehen.",
+    "Ein Therapieabbruch kann zur Widerrufung der Zurückstellung führen, mit der Folge, dass die Reststrafe zu vollstrecken ist.",
+    "Suchtberatungsangebote innerhalb der JVA sind nicht bundeseinheitlich ausgestaltet – Umfang und Qualität hängen von Anstalt und Bundesland ab.",
+    "Eine Therapie ersetzt nicht automatisch das gesamte Strafverfahren – bei schwereren Taten bleibt häufig eine (Rest-)Strafe bestehen, auch nach erfolgreicher Therapie."
+   ],
+   "fach_html": "\n<h3>Voraussetzungen der Zurückstellung (§ 35 BtMG)</h3>\n<p>Voraussetzung ist eine rechtskräftige Verurteilung zu einer Freiheits- oder Jugendstrafe bzw. ein\nentsprechender Strafrest von nicht mehr als zwei Jahren, eine zum Zeitpunkt der Tat bestehende, die Tat\nmitbedingende Betäubungsmittelabhängigkeit sowie die Bereitschaft, sich einer Behandlung in einer dafür\nanerkannten Einrichtung zu unterziehen.</p>\n<h3>Anrechnung der Therapiezeit (§ 36 BtMG)</h3>\n<p>Bei erfolgreichem Abschluss der Behandlung wird die Zeit der Therapie unter bestimmten Voraussetzungen auf\ndie Strafe angerechnet; die genaue Ausgestaltung ist im Gesetzestext gestaffelt und hängt vom Einzelfall ab.</p>\n<h3>Suchtbehandlung im Vollzug</h3>\n<p>Neben § 35 BtMG existieren in den Anstalten eigene, landesrechtlich nicht einheitlich ausgestaltete\nSuchtberatungs- und Behandlungsangebote, häufig in Kooperation mit externen Suchthilfeträgern der Region.</p>\n<h3>Nachsorge nach Haft bzw. Therapie</h3>\n<p>Für den nachhaltigen Erfolg ist eine organisierte Nachsorge – ambulante Suchtberatung, Selbsthilfegruppen,\nggf. betreutes Wohnen – von großer Bedeutung. Das regionale Angebot unterscheidet sich erheblich.</p>\n",
+   "zustaendig": [
+    "Staatsanwaltschaft (Vollstreckungsbehörde)",
+    "Suchtberatung der JVA",
+    "Externe Suchthilfeträger"
+   ],
+   "belege": [
+    "§§ 35, 36 BtMG (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "bewaehrung",
+    "beratung-anlaufstellen-straffaellige"
+   ],
+   "stand": "Stand: September 2026. Strafvollzug ist Ländersache (Art. 70, 74, 125a GG); bundesrechtliche Angaben (StGB, StPO, BZRG, SGB, BtMG, InsO, BGB) gelten bundeseinheitlich, landesrechtliche Angaben können vom jeweiligen Bundesland abweichen. <a href=\"../quellen.html\">Quellen und Methodik</a>"
+  },
+  {
+   "id": "beratung-anlaufstellen-straffaellige",
+   "kategorie": "beratung",
+   "titel": "Beratung und Anlaufstellen",
+   "icon": "📞",
+   "teaser": "Bewährungshilfe, freie Straffälligenhilfe und Fachverbände: Wer ist wofür zuständig, wenn Sie während oder nach der Haft Unterstützung brauchen?",
+   "schlagworte": [
+    "Bewährungshilfe",
+    "Straffälligenhilfe",
+    "DBH-Fachverband",
+    "TOA-Servicebüro",
+    "§ 68a StGB",
+    "§ 56d StGB"
+   ],
+   "kurz_html": "\n<p>Es gibt keine bundesweit einheitliche „eine“ Anlaufstelle für Straffällige – das Hilfesystem besteht aus\nstaatlichen Pflichtaufgaben und freien, meist kommunal organisierten Trägern nebeneinander. Die\n<strong>Bewährungshilfe</strong> (Sozialer Dienst der Justiz) ist gesetzlich vorgesehen, wenn eine Bewährung\noder Führungsaufsicht läuft. Daneben bieten freie Träger der <strong>Straffälligenhilfe</strong> – etwa\nDiakonie, Caritas oder eigenständige Vereine – Beratung unabhängig von einer laufenden Bewährung an. Der\n<strong>DBH-Fachverband für Soziale Arbeit, Strafrecht und Kriminalpolitik e. V.</strong> koordiniert diese\nArbeit bundesweit fachlich, berät aber nicht selbst im Einzelfall.</p>\n",
+   "schritte": [
+    {
+     "titel": "Gesetzliche Zuständigkeit klären",
+     "text": "Prüfen Sie, ob eine gesetzliche Zuständigkeit besteht – etwa die Bewährungshilfe bei laufender Bewährung oder Führungsaufsicht."
+    },
+    {
+     "titel": "Freie Träger vor Ort ansprechen",
+     "text": "Wenden Sie sich für allgemeinen Beratungsbedarf an Diakonie-, Caritas- oder spezialisierte Straffälligenhilfevereine vor Ort."
+    },
+    {
+     "titel": "Bundesweite Orientierung nutzen",
+     "text": "Der DBH-Fachverband und seine Mitgliedsorganisationen bieten einen guten Ausgangspunkt, wenn vor Ort kein passendes Angebot bekannt ist."
+    },
+    {
+     "titel": "TOA-Fachstelle für Wiedergutmachungsfragen kontaktieren",
+     "text": "Für Fragen rund um einen Täter-Opfer-Ausgleich hilft das TOA-Servicebüro bzw. die regionale TOA-Fachstelle weiter."
+    },
+    {
+     "titel": "Parallel mehrere Stellen einschalten",
+     "text": "Für Geld-, Wohnungs- und Schuldenfragen sollten Sie parallel die auf den jeweiligen Themenseiten genannten Stellen (Jobcenter, Schuldnerberatung, Wohnungsnotfallhilfe) ansprechen."
+    }
+   ],
+   "fristen": [],
+   "achtung": [
+    "Es gibt keine bundesweit einheitliche „eine“ Anlaufstelle – das Hilfesystem ist ein Nebeneinander aus staatlichen Pflichtaufgaben und freien, meist kommunal organisierten Trägern.",
+    "Bewährungshilfe hat neben der Unterstützung auch eine Aufsichts- und Berichtspflicht gegenüber dem Gericht – das ist keine „neutrale“ Beratung wie bei einem freien Träger.",
+    "Angebote der freien Straffälligenhilfe unterscheiden sich stark von Region zu Region – fehlt vor Ort ein Angebot, kann der DBH-Fachverband weiterverweisen.",
+    "Wer sich nicht sicher ist, wer zuständig ist, sollte nicht monatelang warten, sondern parallel mehrere Stellen ansprechen."
+   ],
+   "fach_html": "\n<h3>Bewährungshilfe</h3>\n<p>Die Bewährungshilfe ist gesetzlich in §§ 56d StGB (Bewährung) und § 68a StGB (Führungsaufsicht) vorgesehen.\nSie hat eine doppelte Funktion: helfend und überwachend zugleich. Die organisatorische Anbindung (Landesbedienstete\noder freie Träger im staatlichen Auftrag) unterscheidet sich zwischen den Bundesländern.</p>\n<h3>Freie Straffälligenhilfe</h3>\n<p>Träger wie Diakonie, Caritas und eigenständige Straffälligenhilfevereine bieten unabhängig von einer\nlaufenden Bewährung Beratung zu Wohnung, Arbeit, Schulden und sozialer Wiedereingliederung an. Das konkrete\nAngebot ist kommunal bzw. regional sehr unterschiedlich ausgeprägt.</p>\n<h3>DBH-Fachverband für Soziale Arbeit, Strafrecht und Kriminalpolitik e. V.</h3>\n<p>Der DBH-Fachverband ist ein bundesweiter Dachverband, der seit Jahrzehnten in den Bereichen Straffälligenhilfe,\nBewährungshilfe und Opferhilfe tätig ist. Er koordiniert zwischen Justiz, sozialen Diensten und freien Trägern,\nbetreibt Fachpolitik und trägt u. a. das Servicebüro für Täter-Opfer-Ausgleich. Er berät nicht selbst im\nEinzelfall, kann aber an geeignete regionale Stellen verweisen.</p>\n<h3>Weitere Schnittstellen</h3>\n<p>Für Geld-, Wohnungs- und Schuldenfragen sind zusätzlich Jobcenter bzw. Agentur für Arbeit, kommunale\nSchuldnerberatung und die kommunale Wohnungsnotfallhilfe relevant – siehe die jeweiligen Themenseiten dieses\nWegweisers.</p>\n",
+   "zustaendig": [
+    "Bewährungshilfe (Sozialer Dienst der Justiz)",
+    "Freie Träger der Straffälligenhilfe",
+    "DBH-Fachverband"
+   ],
+   "belege": [
+    "§§ 56d, 68a StGB (gesetze-im-internet.de)",
+    "dbh-online.de (DBH-Fachverband, Selbstdarstellung)",
+    "toa-servicebuero.de (Servicebüro für Täter-Opfer-Ausgleich)"
+   ],
+   "siehe_auch": [
+    "bewaehrung",
+    "wohnung-nach-haft",
+    "schulden-nach-haft"
+   ],
+   "stand": "Stand: September 2026. Strafvollzug ist Ländersache (Art. 70, 74, 125a GG); bundesrechtliche Angaben (StGB, StPO, BZRG, SGB, BtMG, InsO, BGB) gelten bundeseinheitlich, landesrechtliche Angaben können vom jeweiligen Bundesland abweichen. <a href=\"../quellen.html\">Quellen und Methodik</a>"
+  }
+ ]
+}

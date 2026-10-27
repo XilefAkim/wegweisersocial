@@ -1,0 +1,1109 @@
+{
+ "kategorien": [
+  {
+   "id": "ueberblick",
+   "titel": "Überblick und Grundlagen",
+   "icon": "🧭",
+   "beschreibung": "Was Trennung und Scheidung rechtlich bedeuten."
+  },
+  {
+   "id": "trennungsphase",
+   "titel": "Trennung: die Phase davor",
+   "icon": "📅",
+   "beschreibung": "Trennungsjahr, Wohnung und Hausrat während der Trennungszeit."
+  },
+  {
+   "id": "verfahren",
+   "titel": "Das Scheidungsverfahren",
+   "icon": "⚖️",
+   "beschreibung": "Ablauf, Kosten und Verfahrenskostenhilfe, einvernehmlich oder streitig."
+  },
+  {
+   "id": "vermoegen",
+   "titel": "Vermögen und Altersvorsorge",
+   "icon": "💰",
+   "beschreibung": "Versorgungsausgleich und Zugewinnausgleich."
+  },
+  {
+   "id": "unterhalt",
+   "titel": "Unterhalt",
+   "icon": "🧾",
+   "beschreibung": "Trennungsunterhalt, nachehelicher Unterhalt und Kindesunterhalt."
+  },
+  {
+   "id": "kinder",
+   "titel": "Kinder nach der Trennung",
+   "icon": "👨‍👩‍👧",
+   "beschreibung": "Sorgerecht, Umgangsrecht und Wechselmodell."
+  },
+  {
+   "id": "steuern-beratung",
+   "titel": "Steuern und Beratung",
+   "icon": "🧮",
+   "beschreibung": "Steuerliche Folgen sowie Mediation und Anlaufstellen."
+  }
+ ],
+ "seiten": [
+  {
+   "id": "ueberblick-trennung-scheidung",
+   "kategorie": "ueberblick",
+   "titel": "Überblick: Trennung und Scheidung in Deutschland",
+   "icon": "🧭",
+   "teaser": "Trennung und Scheidung sind zwei rechtlich unterschiedliche Schritte mit eigenen Fristen und Folgen. Diese Seite ordnet ein, was wann passiert.",
+   "schlagworte": [
+    "Trennungsjahr",
+    "Scheidung",
+    "Zerrüttungsprinzip",
+    "Verbundverfahren",
+    "Familiengericht",
+    "§ 1564 BGB",
+    "§ 1565 BGB",
+    "§ 1566 BGB"
+   ],
+   "kurz_html": "\n<p>Eine <strong>Trennung</strong> ist ein tatsächlicher Vorgang: Sie und Ihr Ehepartner oder Ihre Ehepartnerin leben nicht mehr als Paar\nzusammen. Eine <strong>Scheidung</strong> ist dagegen ein gerichtliches Verfahren, das die Ehe rechtlich auflöst (§ 1564 BGB). Zwischen\nbeidem liegt in aller Regel mindestens ein Jahr – das sogenannte Trennungsjahr (§ 1566 BGB). Deutschland kennt kein Verschulden als\nScheidungsgrund: Entscheidend ist allein, ob die Ehe „gescheitert“ ist, also die eheliche Lebensgemeinschaft nicht mehr besteht und nicht\nwiederhergestellt werden kann (Zerrüttungsprinzip, § 1565 BGB).</p>\n<p>Mit der Scheidung selbst werden meist weitere Fragen zusammen verhandelt: Versorgungsausgleich, Unterhalt, Ehewohnung und Hausrat, teils\nauch Sorge- und Umgangsrecht (sogenanntes Verbundverfahren, § 137 FamFG). Diese Seiten begleiten Sie durch die einzelnen Etappen – von der\nTrennung bis zu den steuerlichen Folgen danach.</p>\n",
+   "schritte": [
+    {
+     "titel": "Trennung dokumentieren",
+     "text": "Halten Sie den Trennungszeitpunkt fest (z. B. durch Auszug oder eine klar erkennbare Trennung innerhalb der Wohnung) – er ist Ausgangspunkt für das Trennungsjahr und spätere Stichtage."
+    },
+    {
+     "titel": "Erste Weichen stellen",
+     "text": "Klären Sie frühzeitig Wohnung, Hausrat, Kontovollmachten und laufende gemeinsame Verträge, damit sich niemand einseitig Vorteile verschafft."
+    },
+    {
+     "titel": "Trennungsjahr abwarten",
+     "text": "In der Regel müssen Sie ein Jahr getrennt leben, bevor ein Scheidungsantrag Erfolg hat – Ausnahme: Härtefallscheidung."
+    },
+    {
+     "titel": "Scheidungsantrag stellen",
+     "text": "Nach Ablauf des Trennungsjahres stellt eine Anwältin oder ein Anwalt den Scheidungsantrag beim zuständigen Familiengericht."
+    },
+    {
+     "titel": "Folgesachen klären",
+     "text": "Der Versorgungsausgleich läuft automatisch mit; Unterhalt, Vermögen und Umgang können Sie einvernehmlich regeln oder dem Gericht vorlegen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "1 Jahr",
+     "was": "Getrenntleben als Regelvoraussetzung für die Scheidung",
+     "grundlage": "§ 1566 Abs. 1 BGB"
+    },
+    {
+     "wert": "3 Jahre",
+     "was": "Nach drei Jahren Getrenntleben gilt die Ehe unwiderleglich als gescheitert – unabhängig vom Willen beider Ehegatten",
+     "grundlage": "§ 1566 Abs. 2 BGB"
+    },
+    {
+     "wert": "Keine gesetzliche Frist",
+     "was": "Für die Härtefallscheidung ohne Trennungsjahr gibt es keine Wartezeit – nur enge inhaltliche Voraussetzungen (unzumutbare Härte)",
+     "grundlage": "§ 1565 Abs. 2 BGB"
+    }
+   ],
+   "achtung": [
+    "Trennung und Scheidung sind zwei verschiedene Rechtsakte – schon mit der Trennung beginnen Fristen und Ansprüche (z. B. Trennungsunterhalt), nicht erst mit der Scheidung.",
+    "Wenn Gewalt im Spiel ist, hat Ihr Schutz Vorrang vor dem Scheidungsverfahren: Wenden Sie sich vorrangig an die Polizei oder eine Fachberatungsstelle für Gewaltschutz, nicht nur an das Familienrecht.",
+    "Ein Verbundverfahren bedeutet: Ohne Klärung des Versorgungsausgleichs kann sich die Scheidung selbst verzögern, weil beides zusammen entschieden wird."
+   ],
+   "fach_html": "\n<h3>Zerrüttungsprinzip statt Verschuldensprinzip</h3>\n<p>Seit der Eherechtsreform 1977 kennt das deutsche Recht kein Verschuldensprinzip mehr. Maßgeblich ist allein, ob die eheliche\nLebensgemeinschaft nicht mehr besteht und nicht erwartet werden kann, dass die Ehegatten sie wiederherstellen (§ 1565 Abs. 1 BGB). Das\nGetrenntleben für die gesetzlich vorgesehene Zeit begründet eine gesetzliche Vermutung des Scheiterns (§ 1566 BGB).</p>\n<h3>Verbundverfahren (§ 137 FamFG)</h3>\n<p>Mit dem Scheidungsantrag wird der Versorgungsausgleich von Amts wegen zum sogenannten Verbund. Auf Antrag können weitere „Folgesachen“\nhinzukommen: Unterhalt, Güterrecht (Zugewinn), Ehewohnung und Haushaltsgegenstände. Das Familiengericht entscheidet über all diese Punkte\ngrundsätzlich in einem einzigen Beschluss (§ 137 Abs. 1, 2 FamFG).</p>\n<h3>Zuständiges Gericht</h3>\n<p>Zuständig ist das Familiengericht (eine Abteilung des Amtsgerichts) am gewöhnlichen Aufenthaltsort der Familie bzw. – wenn kein\nEhegatte mehr dort lebt – am Wohnort des Antragsgegners bzw. der Antragsgegnerin.</p>\n",
+   "zustaendig": [
+    "Familiengericht (Amtsgericht) am gemeinsamen bzw. zuletzt gemeinsamen Wohnort",
+    "Rechtsanwältinnen und Rechtsanwälte für Familienrecht (Anwaltszwang für den Scheidungsantrag)"
+   ],
+   "belege": [
+    "§§ 1564, 1565, 1566 BGB (gesetze-im-internet.de)",
+    "§ 137 FamFG (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "trennungsjahr",
+    "scheidungsantrag-und-verfahren",
+    "beratung-mediation-familienberatung"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "trennungsjahr",
+   "kategorie": "trennungsphase",
+   "titel": "Trennungsjahr: Voraussetzungen und Ausnahmen",
+   "icon": "📅",
+   "teaser": "Ein Jahr getrennt leben ist die Regelvoraussetzung für die Scheidung – mit einer engen Ausnahme für unzumutbare Härtefälle.",
+   "schlagworte": [
+    "Trennungsjahr",
+    "Getrenntleben",
+    "Härtefallscheidung",
+    "§ 1566 BGB",
+    "§ 1565 Abs. 2 BGB",
+    "§ 1567 BGB"
+   ],
+   "kurz_html": "\n<p>Damit ein Familiengericht eine Ehe scheidet, muss sie in der Regel „gescheitert“ sein – und das wird gesetzlich vermutet, wenn die\nEhegatten seit mindestens einem Jahr getrennt leben und beide der Scheidung zustimmen oder der andere Ehegatte ihr nicht widerspricht\n(§ 1566 Abs. 1 BGB). Getrenntleben bedeutet: keine häusliche Gemeinschaft mehr, und mindestens ein Ehegatte will diese erkennbar nicht\nwiederherstellen (§ 1567 Abs. 1 BGB). Das ist auch innerhalb derselben Wohnung möglich.</p>\n<p>Nach drei Jahren Getrenntleben wird das Scheitern der Ehe unwiderleglich vermutet – dann kann geschieden werden, auch wenn ein\nEhegatte widerspricht (§ 1566 Abs. 2 BGB). Nur in engen Ausnahmefällen ist eine Scheidung schon vor Ablauf des Trennungsjahres möglich:\nbei der Härtefallscheidung (§ 1565 Abs. 2 BGB).</p>\n",
+   "schritte": [
+    {
+     "titel": "Trennungszeitpunkt festhalten",
+     "text": "Notieren Sie Datum und Umstände der Trennung (Auszug, getrennte Haushaltsführung) – im Streitfall müssen Sie das Getrenntleben beweisen können."
+    },
+    {
+     "titel": "Häusliche Gemeinschaft erkennbar beenden",
+     "text": "Getrennte Kasse, getrenntes Wirtschaften, keine gegenseitige Versorgung mehr – auch bei Verbleib in derselben Wohnung."
+    },
+    {
+     "titel": "Ein Jahr abwarten",
+     "text": "Erst nach Ablauf des Trennungsjahres kann der Scheidungsantrag gestellt werden, außer im Härtefall."
+    },
+    {
+     "titel": "Bei Härtefall sofort anwaltlich beraten lassen",
+     "text": "Prüfen Sie mit einer Fachanwältin oder einem Fachanwalt für Familienrecht, ob die engen Voraussetzungen der Härtefallscheidung vorliegen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "1 Jahr",
+     "was": "Regelvoraussetzung für die Scheidung bei Zustimmung oder Nichtwiderspruch des anderen Ehegatten",
+     "grundlage": "§ 1566 Abs. 1 BGB"
+    },
+    {
+     "wert": "3 Jahre",
+     "was": "Unwiderlegliche Vermutung des Scheiterns, Scheidung auch gegen den Willen eines Ehegatten möglich",
+     "grundlage": "§ 1566 Abs. 2 BGB"
+    },
+    {
+     "wert": "Keine gesetzliche Frist",
+     "was": "Härtefallscheidung: keine Wartezeit, aber nur bei unzumutbarer Härte aus Gründen, die in der Person des anderen Ehegatten liegen",
+     "grundlage": "§ 1565 Abs. 2 BGB"
+    }
+   ],
+   "achtung": [
+    "Ein kurzzeitiger Versöhnungsversuch von wenigen Wochen unterbricht das Trennungsjahr nach verbreiteter Praxis nicht zwingend – ein längerer oder wiederholter Versuch kann die Frist aber neu beginnen lassen; im Zweifel anwaltlich prüfen lassen.",
+    "Gerichte legen die Härtefallscheidung sehr eng aus (z. B. schwere Gewalt, gravierende Straftaten) – bloße Zerrüttung oder ein neuer Partner reichen nicht.",
+    "Getrenntleben in derselben Wohnung müssen Sie im Zweifel besonders sorgfältig nachweisen – siehe die eigene Themenseite dazu."
+   ],
+   "fach_html": "\n<h3>Gesetzliche Vermutung nach § 1566 BGB</h3>\n<p>§ 1566 BGB stellt eine unwiderlegliche (Abs. 2) bzw. bei einjähriger Trennung und beiderseitigem Einvernehmen oder fehlendem\nWiderspruch widerlegliche (Abs. 1) Vermutung auf: Das Scheitern der Ehe im Sinne des § 1565 Abs. 1 BGB muss dann nicht mehr im\nEinzelnen dargelegt werden.</p>\n<h3>Härtefallscheidung (§ 1565 Abs. 2 BGB)</h3>\n<p>Vor Ablauf des Trennungsjahres kann nur geschieden werden, wenn die Fortsetzung der Ehe für die antragstellende Person aus Gründen,\ndie in der Person des anderen Ehegatten liegen, eine unzumutbare Härte darstellen würde. Die Rechtsprechung verlangt gravierende\nUmstände, etwa schwere Misshandlung, erhebliche Straftaten gegen den anderen Ehegatten oder gemeinsame Kinder, oder eine besonders\nschwerwiegende, fortgesetzte Eheverfehlung. Bloße Zerrüttung, eine neue Beziehung ohne weitere Umstände oder der bloße Wunsch nach\nrascher Trennung genügen nach überwiegender Rechtsprechung nicht.</p>\n<h3>Getrenntleben in derselben Wohnung</h3>\n<p>Nach § 1567 Abs. 1 Satz 2 BGB steht das Zusammenleben in einer Wohnung dem Getrenntleben nicht entgegen, wenn die häusliche\nGemeinschaft – also gemeinsames Wirtschaften und Versorgen – tatsächlich aufgehoben ist. Ausführlich dazu die eigene Themenseite.</p>\n",
+   "zustaendig": [
+    "Familiengericht (prüft im Scheidungsverfahren, ob die Voraussetzungen vorliegen)",
+    "Fachanwältin/Fachanwalt für Familienrecht für die Prüfung im Einzelfall"
+   ],
+   "belege": [
+    "§§ 1565, 1566, 1567 BGB (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "trennung-in-der-wohnung",
+    "scheidungsantrag-und-verfahren",
+    "ueberblick-trennung-scheidung"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "trennung-in-der-wohnung",
+   "kategorie": "trennungsphase",
+   "titel": "Trennung innerhalb der gemeinsamen Wohnung",
+   "icon": "🏠",
+   "teaser": "Auch ohne Auszug können Sie rechtlich getrennt leben – wenn die häusliche Gemeinschaft erkennbar endet. Was dafür nötig ist und wie Sie es später nachweisen.",
+   "schlagworte": [
+    "Getrenntleben",
+    "Trennung von Tisch und Bett",
+    "Häusliche Gemeinschaft",
+    "§ 1567 BGB",
+    "Wohnungszuweisung"
+   ],
+   "kurz_html": "\n<p>Sie müssen nicht ausziehen, um das Trennungsjahr zu beginnen. Getrenntleben „von Tisch und Bett“ ist auch innerhalb derselben Wohnung\nmöglich, wenn keine häusliche Gemeinschaft mehr besteht (§ 1567 Abs. 1 Satz 2 BGB). Das bedeutet: getrennte Schlafbereiche, keine\ngemeinsame Haushaltsführung, kein gegenseitiges Versorgen (kein Kochen oder Waschen füreinander) und, soweit möglich, getrennte\nFinanzen.</p>\n<p>Wenn Sie sich später scheiden lassen wollen, müssen Sie im Zweifel darlegen und notfalls beweisen können, ab wann diese häusliche\nTrennung bestand. Deshalb lohnt es sich, den Alltag früh entsprechend zu organisieren und wichtige Schritte zu dokumentieren.</p>\n",
+   "schritte": [
+    {
+     "titel": "Räume trennen",
+     "text": "Getrennte Schlafzimmer, wenn möglich getrennte Bereiche der Wohnung."
+    },
+    {
+     "titel": "Haushalt trennen",
+     "text": "Kein gemeinsames Kochen, Waschen oder Einkaufen füreinander – jede und jeder versorgt sich selbst."
+    },
+    {
+     "titel": "Finanzen trennen",
+     "text": "Eigene Konten führen, gemeinsame Konten möglichst auflösen oder Vollmachten widerrufen, laufende Kosten aufteilen."
+    },
+    {
+     "titel": "Trennung kommunizieren",
+     "text": "Sprechen Sie die Trennung klar aus – der Trennungswille muss nach außen erkennbar sein, nicht nur innerlich bestehen."
+    },
+    {
+     "titel": "Beweise sichern",
+     "text": "Dokumentieren Sie den Zeitpunkt, etwa durch Mitteilungen an Dritte oder Zeuginnen und Zeugen aus dem Umfeld."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine feste Vorgabe",
+     "was": "Das Gesetz schreibt keine bestimmte Frist vor, ab wann die häusliche Trennung „vollständig“ sein muss – entscheidend ist die tatsächliche und erkennbare Aufhebung der häuslichen Gemeinschaft",
+     "grundlage": "§ 1567 Abs. 1 BGB"
+    },
+    {
+     "wert": "1 Jahr",
+     "was": "Ab dem glaubhaft gemachten Trennungszeitpunkt läuft das Trennungsjahr wie bei einer Trennung mit Auszug",
+     "grundlage": "§ 1566 Abs. 1 BGB"
+    }
+   ],
+   "achtung": [
+    "Wer weiterhin gemeinsam kocht, wäscht oder isst, riskiert, dass ein Gericht die häusliche Gemeinschaft als fortbestehend ansieht – das verzögert den Beginn des Trennungsjahres.",
+    "Eine Trennung „nur auf dem Papier“ ohne echte Umsetzung im Alltag hält einer gerichtlichen Prüfung oft nicht stand.",
+    "Wenn die Situation in der Wohnung eskaliert oder Gewalt droht, hat Ihr Schutz Vorrang vor dem Verbleib in der gemeinsamen Wohnung – wenden Sie sich an die Polizei oder eine Beratungsstelle.",
+    "Bei Uneinigkeit über den Verbleib in der Wohnung während der Trennungszeit kann eine vorübergehende Wohnungszuweisung durch das Familiengericht beantragt werden – siehe die Themenseite zu Ehewohnung und Hausrat."
+   ],
+   "fach_html": "\n<h3>Rechtsprechung zur häuslichen Gemeinschaft</h3>\n<p>Die Rechtsprechung verlangt für das Getrenntleben in der gemeinsamen Wohnung eine erkennbare Trennung „von Tisch und Bett“: keine\ngemeinsame Wirtschaftsführung, kein gegenseitiges Versorgen, in der Regel getrennte Schlafbereiche. Maßgeblich ist eine Gesamtschau der\nobjektiven Umstände und des erkennbaren subjektiven Trennungswillens mindestens eines Ehegatten (§ 1567 Abs. 1 BGB).</p>\n<h3>Beweisfragen</h3>\n<p>Bestreitet der andere Ehegatte im Scheidungsverfahren das Getrenntleben oder dessen Beginn, muss die antragstellende Person es\nbeweisen. Als Indizien dienen etwa eigene Kontoauszüge, getrennte Meldeadressen (soweit vorhanden), Zeugenaussagen aus dem persönlichen\nUmfeld oder eine Mitteilung, mit der die Trennung erklärt wurde.</p>\n",
+   "zustaendig": [
+    "Familiengericht (prüft im Streitfall die Voraussetzungen des Getrenntlebens)"
+   ],
+   "belege": [
+    "§ 1567 BGB (gesetze-im-internet.de)",
+    "§ 1566 BGB (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "trennungsjahr",
+    "ehewohnung-und-hausrat",
+    "scheidungsantrag-und-verfahren"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "ehewohnung-und-hausrat",
+   "kategorie": "trennungsphase",
+   "titel": "Ehewohnung und Hausrat bei Trennung",
+   "icon": "🔑",
+   "teaser": "Wer darf in der Wohnung bleiben, wem gehört was? Für die Trennungszeit und für die Zeit nach der Scheidung gelten unterschiedliche Regeln.",
+   "schlagworte": [
+    "Ehewohnung",
+    "Hausrat",
+    "Wohnungszuweisung",
+    "§ 1361a BGB",
+    "§ 1361b BGB",
+    "§ 1568a BGB",
+    "§ 1568b BGB"
+   ],
+   "kurz_html": "\n<p>Für die Zeit der Trennung kann jeder Ehegatte verlangen, dass ihm die Ehewohnung ganz oder teilweise zur alleinigen Nutzung\nüberlassen wird, wenn dies notwendig ist, um eine unbillige Härte zu vermeiden – etwa bei Gewalt oder wenn Kinder im Haushalt betroffen\nsind (§ 1361b BGB). Auch Haushaltsgegenstände können für die Trennungszeit vorläufig verteilt werden (§ 1361a BGB). Diese Regelungen\ngelten nur vorübergehend, bis zur Scheidung.</p>\n<p>Erst mit der Scheidung selbst wird über die endgültige Zuweisung der Ehewohnung (§ 1568a BGB) und die endgültige Verteilung der\nHaushaltsgegenstände (§ 1568b BGB) entschieden – auf Antrag, nach Billigkeitsgesichtspunkten und insbesondere unter Berücksichtigung\ndes Kindeswohls.</p>\n",
+   "schritte": [
+    {
+     "titel": "Einigung versuchen",
+     "text": "Klären Sie möglichst einvernehmlich, wer vorübergehend in der Wohnung bleibt und wie der Hausrat aufgeteilt wird."
+    },
+    {
+     "titel": "Bei Gefahr sofort Hilfe holen",
+     "text": "Bei Gewalt oder Bedrohung hat Ihr Schutz Vorrang – wenden Sie sich an die Polizei oder eine Beratungsstelle, unabhängig vom familienrechtlichen Verfahren."
+    },
+    {
+     "titel": "Antrag auf Wohnungszuweisung prüfen",
+     "text": "Ohne Einigung kann das Familiengericht die Ehewohnung für die Trennungszeit vorläufig einem Ehegatten zuweisen (§ 1361b BGB)."
+    },
+    {
+     "titel": "Hausrat vorläufig verteilen lassen",
+     "text": "Auch für Haushaltsgegenstände ist eine vorläufige gerichtliche Regelung möglich (§ 1361a BGB)."
+    },
+    {
+     "titel": "Endgültige Regelung mit der Scheidung",
+     "text": "Im Scheidungsverfahren oder danach kann die endgültige Zuweisung von Wohnung und Hausrat beantragt werden (§§ 1568a, 1568b BGB)."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "6 Monate",
+     "was": "Wer freiwillig auszieht und dem anderen Ehegatten nicht innerhalb von 6 Monaten seine ernsthafte Rückkehrabsicht mitteilt, begründet unwiderleglich die Vermutung, dass er dem anderen die Wohnung zur alleinigen Nutzung überlassen hat",
+     "grundlage": "§ 1361b Abs. 4 BGB"
+    },
+    {
+     "wert": "1 Jahr nach Rechtskraft der Scheidung",
+     "was": "Ausschlussfrist: Der Anspruch auf Eintritt in oder Begründung eines Mietverhältnisses erlischt, wenn er nicht vorher rechtshängig gemacht wurde; die Rechtsprechung wendet dies entsprechend auch auf den Überlassungsanspruch selbst an",
+     "grundlage": "§ 1568a Abs. 6 BGB (entsprechende Anwendung)"
+    }
+   ],
+   "achtung": [
+    "Wer die Wohnung eigenmächtig wechselt oder den anderen aussperrt, riskiert unzulässige Selbsthilfe – lassen Sie Konflikte über den Verbleib in der Wohnung im Zweifel gerichtlich klären.",
+    "Nach 6 Monaten Auszug ohne erkennbaren Rückkehrwillen wird unwiderleglich vermutet, dass Sie dem anderen Ehegatten die Wohnung überlassen haben – wichtig, wenn Sie sich eine Rückkehr noch offenhalten wollen.",
+    "Warten Sie mit einem Antrag auf endgültige Wohnungs- oder Hausratszuweisung nach der Scheidung nicht zu lange – nach einem Jahr seit Rechtskraft der Scheidung kann der Anspruch erloschen sein.",
+    "Bei akuter Gewalt kann eine sofortige Wohnungszuweisung auch unabhängig vom familienrechtlichen Regelverfahren möglich sein (Gewaltschutzgesetz) – wenden Sie sich in einer Gefährdungslage zuerst an Polizei oder eine Beratungsstelle."
+   ],
+   "fach_html": "\n<h3>Trennungszeit: §§ 1361a und 1361b BGB</h3>\n<p>Für die Zeit des Getrenntlebens regelt § 1361b BGB die vorübergehende Überlassung der Ehewohnung, wenn dies notwendig ist, um eine\nunbillige Härte zu vermeiden – etwa bei Gewalt in der Beziehung, wofür das Gewaltschutzgesetz zusätzlich eigene, oft schnellere\nVerfahren vorsieht. § 1361a BGB regelt parallel die vorläufige Verteilung von Haushaltsgegenständen für die Trennungszeit.</p>\n<h3>Nach der Scheidung: §§ 1568a, 1568b BGB</h3>\n<p>Erst mit der Scheidung wird über die endgültige Zuweisung der Ehewohnung entschieden. § 1568a BGB gewährt einen Anspruch auf\nÜberlassung, wenn ein Ehegatte – insbesondere unter Berücksichtigung des Kindeswohls – in stärkerem Maß auf die Wohnung angewiesen ist\noder dies aus anderen Gründen der Billigkeit entspricht. Ist der andere Ehegatte Allein- oder Miteigentümer, kann Überlassung nur zur\nVermeidung unbilliger Härte verlangt werden. § 1568b BGB regelt entsprechend die endgültige Verteilung von Haushaltsgegenständen, die im\ngemeinsamen Eigentum stehen; für während der Ehe angeschaffte Gegenstände gilt eine Eigentumsvermutung zugunsten beider Ehegatten.</p>\n<h3>Ausschlussfrist</h3>\n<p>Nach § 1568a Abs. 6 BGB erlischt der Anspruch auf Eintritt in oder Begründung eines Mietverhältnisses ein Jahr nach Rechtskraft der\nScheidung, wenn er nicht vorher rechtshängig gemacht wurde. Die Rechtsprechung wendet diese Ausschlussfrist entsprechend auch auf den\nÜberlassungsanspruch selbst an.</p>\n",
+   "zustaendig": [
+    "Familiengericht (Wohnungs- und Haushaltssachen)",
+    "Polizei und Gewaltschutzstellen bei akuter Gefährdung"
+   ],
+   "belege": [
+    "§§ 1361a, 1361b BGB (gesetze-im-internet.de)",
+    "§§ 1568a, 1568b BGB (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "trennung-in-der-wohnung",
+    "scheidungsantrag-und-verfahren",
+    "beratung-mediation-familienberatung"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "scheidungsantrag-und-verfahren",
+   "kategorie": "verfahren",
+   "titel": "Scheidungsantrag und Ablauf des Verfahrens",
+   "icon": "⚖️",
+   "teaser": "Wie ein Scheidungsverfahren abläuft, wer den Antrag stellen muss und was im Verbund mitentschieden wird.",
+   "schlagworte": [
+    "Scheidungsantrag",
+    "Anwaltszwang",
+    "Verbundverfahren",
+    "Persönliche Anhörung",
+    "§ 128 FamFG",
+    "§ 133 FamFG",
+    "§ 137 FamFG"
+   ],
+   "kurz_html": "\n<p>Die Scheidung selbst kann nur eine Anwältin oder ein Anwalt beim Familiengericht beantragen (Anwaltszwang, § 114 FamFG) – das gilt\nauch, wenn beide Ehegatten sich vollständig einig sind. Der andere Ehegatte kann dem Antrag ohne eigene anwaltliche Vertretung\nzustimmen. Mit dem Scheidungsantrag wird automatisch der Versorgungsausgleich mitentschieden (Zwangsverbund); auf Antrag können\nweitere Fragen wie Unterhalt, Zugewinn oder die Ehewohnung im selben Verfahren mitverhandelt werden (§ 137 FamFG).</p>\n<p>Das Gericht hört beide Ehegatten in der Regel persönlich an (§ 128 FamFG) und prüft, ob die Voraussetzungen der Scheidung –\ninsbesondere das Trennungsjahr – vorliegen. Sind alle Punkte im Verbund entscheidungsreif, ergeht ein einheitlicher Beschluss.</p>\n",
+   "schritte": [
+    {
+     "titel": "Anwältin oder Anwalt beauftragen",
+     "text": "Für den Scheidungsantrag selbst benötigen Sie eine anwaltliche Vertretung; nur eine Seite muss anwaltlich vertreten sein, wenn der andere Ehegatte zustimmt."
+    },
+    {
+     "titel": "Antrag einreichen",
+     "text": "Die Anwältin oder der Anwalt reicht den Scheidungsantrag mit den erforderlichen Angaben, u. a. zum Trennungszeitpunkt, beim zuständigen Familiengericht ein (§ 133 FamFG)."
+    },
+    {
+     "titel": "Zustellung und Stellungnahme",
+     "text": "Der andere Ehegatte erhält den Antrag zugestellt und kann zustimmen oder sich äußern."
+    },
+    {
+     "titel": "Versorgungsausgleichsformulare ausfüllen",
+     "text": "Beide Ehegatten machen Angaben zu ihren Rentenanwartschaften; das Gericht fragt diese zusätzlich direkt bei den Versorgungsträgern ab."
+    },
+    {
+     "titel": "Anhörungstermin",
+     "text": "Das Gericht hört beide Ehegatten in der Regel persönlich an, bevor es entscheidet (§ 128 FamFG)."
+    },
+    {
+     "titel": "Beschluss und Rechtskraft",
+     "text": "Die Scheidung wird mit Zustellung des Beschlusses und Ablauf der Rechtsmittelfrist rechtskräftig – bei beiderseitigem Rechtsmittelverzicht bereits im Termin."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "1 Monat",
+     "was": "Übliche Frist zur Einlegung der Beschwerde gegen familiengerichtliche Beschlüsse, soweit kein Rechtsmittelverzicht erklärt wurde",
+     "grundlage": "§ 63 FamFG"
+    },
+    {
+     "wert": "Keine feste Verfahrensdauer",
+     "was": "Wie lange ein Scheidungsverfahren dauert, hängt von der Auslastung des Gerichts und dem Umfang der Folgesachen ab – eine feste gesetzliche Dauer gibt es nicht"
+    }
+   ],
+   "achtung": [
+    "Ohne eigene Anwältin oder eigenen Anwalt können Sie dem Scheidungsantrag zwar zustimmen, aber keine eigenen Anträge (z. B. zum Unterhalt) stellen.",
+    "Unvollständige Versorgungsausgleichsformulare verzögern das Verfahren oft am meisten – füllen Sie sie frühzeitig und vollständig aus.",
+    "Ein Rechtsmittelverzicht direkt im Termin macht die Scheidung sofort rechtskräftig – danach ist sie nicht mehr rückgängig zu machen."
+   ],
+   "fach_html": "\n<h3>Anwaltszwang</h3>\n<p>Für Anträge im Scheidungsverbund gilt Anwaltszwang (§ 114 Abs. 1 FamFG). Der Antragsgegner oder die Antragsgegnerin kann der\nScheidung ohne eigene anwaltliche Vertretung zustimmen, aber keine eigenen Sachanträge stellen.</p>\n<h3>Verbund und Folgesachen</h3>\n<p>Der Versorgungsausgleich wird von Amts wegen zum Verbundverfahren (§ 137 Abs. 2 Nr. 1 FamFG). Weitere Folgesachen wie nachehelicher\nUnterhalt, Güterrecht sowie Ehewohnungs- und Haushaltssachen werden nur auf Antrag eines Ehegatten in den Verbund einbezogen\n(§ 137 Abs. 2 Nr. 2–4 FamFG). Kindschaftssachen können ebenfalls einbezogen werden, wenn ein Ehegatte dies beantragt und das\nFamiliengericht dies für sachgerecht hält.</p>\n<h3>Persönliche Anhörung</h3>\n<p>Das Gericht soll beide Ehegatten grundsätzlich persönlich anhören, um sich einen Eindruck vom Vorliegen der Scheidungsvoraussetzungen\nzu verschaffen (§ 128 FamFG).</p>\n",
+   "zustaendig": [
+    "Familiengericht (Amtsgericht) am zuständigen Wohnort",
+    "Rechtsanwältin/Rechtsanwalt für Familienrecht (Pflicht für den Antrag)"
+   ],
+   "belege": [
+    "§§ 114, 128, 133, 137 FamFG (gesetze-im-internet.de)",
+    "§ 63 FamFG (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "trennungsjahr",
+    "einvernehmliche-und-streitige-scheidung",
+    "kosten-der-scheidung-verfahrenskostenhilfe",
+    "versorgungsausgleich"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "kosten-der-scheidung-verfahrenskostenhilfe",
+   "kategorie": "verfahren",
+   "titel": "Kosten der Scheidung und Verfahrenskostenhilfe",
+   "icon": "💶",
+   "teaser": "Gerichts- und Anwaltskosten richten sich nach dem Verfahrenswert. Wer sich das nicht leisten kann, kann Verfahrenskostenhilfe beantragen.",
+   "schlagworte": [
+    "Verfahrenswert",
+    "Verfahrenskostenhilfe",
+    "Gerichtskosten",
+    "Anwaltskosten",
+    "§ 43 FamGKG",
+    "§ 76 FamFG"
+   ],
+   "kurz_html": "\n<p>Die Kosten einer Scheidung setzen sich aus Gerichtskosten und Anwaltskosten zusammen. Beide richten sich nach dem sogenannten\nVerfahrenswert, der sich grob am dreifachen monatlichen Nettoeinkommen beider Ehegatten orientiert, abzüglich eines Abzugsbetrags je\nunterhaltsberechtigtem Kind; der gesetzliche Mindestwert liegt bei 3.000 Euro (§ 43 FamGKG). Da für den Scheidungsantrag Anwaltszwang\ngilt, kommen Sie um Anwaltskosten in der Regel nicht herum – außer der andere Ehegatte hat bereits eine Anwältin oder einen Anwalt\nbeauftragt und Sie stimmen lediglich zu.</p>\n<p>Wer die Kosten nicht aufbringen kann, kann Verfahrenskostenhilfe beantragen (§§ 76 ff. FamFG i. V. m. §§ 114 ff. ZPO). Das Gericht\nprüft dabei Einkommen und Vermögen sowie, ob das Verfahren hinreichende Erfolgsaussicht bietet – was bei einer Scheidung nach Ablauf\ndes Trennungsjahres regelmäßig der Fall ist.</p>\n",
+   "schritte": [
+    {
+     "titel": "Verfahrenswert grob schätzen",
+     "text": "Addieren Sie die monatlichen Nettoeinkommen beider Ehegatten der letzten drei Monate, multiplizieren Sie mit 3, und ziehen Sie einen Abzugsbetrag je unterhaltsberechtigtem Kind ab; Mindestwert ist 3.000 Euro."
+    },
+    {
+     "titel": "Kostenvoranschlag einholen",
+     "text": "Bitten Sie Ihre Anwältin oder Ihren Anwalt vor Beauftragung um eine Einschätzung der voraussichtlichen Gesamtkosten."
+    },
+    {
+     "titel": "Verfahrenskostenhilfe prüfen",
+     "text": "Bei geringem Einkommen und Vermögen können Sie Verfahrenskostenhilfe beantragen – Formular und Belege zu Einkommen und Vermögen sind erforderlich."
+    },
+    {
+     "titel": "Antrag beim Familiengericht stellen",
+     "text": "Der Antrag auf Verfahrenskostenhilfe wird zusammen mit oder vor dem Scheidungsantrag gestellt."
+    },
+    {
+     "titel": "Ratenzahlung einplanen",
+     "text": "Wird Verfahrenskostenhilfe nur gegen Raten bewilligt, müssen diese über bis zu 48 Monate an die Staatskasse zurückgezahlt werden."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine feste Antragsfrist",
+     "was": "Verfahrenskostenhilfe kann grundsätzlich während des laufenden Verfahrens beantragt werden, sollte aber möglichst frühzeitig gestellt werden"
+    },
+    {
+     "wert": "Bis zu 48 Monate",
+     "was": "Maximale Dauer der Ratenzahlung, wenn Verfahrenskostenhilfe nur gegen Raten bewilligt wird",
+     "grundlage": "§ 76 FamFG i. V. m. §§ 115, 120 ZPO"
+    }
+   ],
+   "achtung": [
+    "Auch bei bewilligter Verfahrenskostenhilfe kann das Gericht bis zu vier Jahre später prüfen, ob sich Ihre wirtschaftlichen Verhältnisse verbessert haben, und Raten nachfordern.",
+    "Verfahrenskostenhilfe deckt Ihre eigenen Kosten – Kostenerstattungsansprüche der Gegenseite deckt sie nicht automatisch, auch wenn im Scheidungsverfahren meist jede Seite ihre Kosten selbst trägt.",
+    "Ein zu niedrig angegebener Verfahrenswert kann sich rächen, wenn später Folgesachen hinzukommen – lassen Sie sich die Wertfestsetzung genau erklären."
+   ],
+   "fach_html": "\n<h3>Verfahrenswert (§ 43 FamGKG)</h3>\n<p>Der Verfahrenswert für die Scheidung selbst berechnet sich nach § 43 FamGKG regelmäßig aus dem dreifachen Nettoeinkommen beider\nEhegatten, abzüglich eines Abzugsbetrags je unterhaltsberechtigtem Kind; der Mindestwert beträgt 3.000 Euro. Für Folgesachen\n(Versorgungsausgleich, Unterhalt, Güterrecht) werden jeweils eigene Verfahrenswerte festgesetzt, die sich zum Gesamtstreitwert addieren\nund die Kosten entsprechend erhöhen.</p>\n<h3>Gerichts- und Anwaltsgebühren</h3>\n<p>Die Gerichtsgebühren richten sich nach dem Gebührenverzeichnis zum FamGKG, die Anwaltsgebühren nach dem Rechtsanwaltsvergütungsgesetz\n(RVG) auf Basis desselben Verfahrenswerts. Bei einer einvernehmlichen Scheidung ohne streitige Folgesachen fallen die Kosten\nentsprechend niedriger aus als bei einem umfangreichen Verbundverfahren.</p>\n<h3>Verfahrenskostenhilfe (§§ 76 ff. FamFG)</h3>\n<p>Verfahrenskostenhilfe wird bewilligt, wenn die antragstellende Person nach ihren persönlichen und wirtschaftlichen Verhältnissen die\nKosten nicht, nur zum Teil oder nur in Raten aufbringen kann und die beabsichtigte Rechtsverfolgung hinreichende Aussicht auf Erfolg\nbietet (§ 76 FamFG i. V. m. § 114 ZPO). Bei bewilligter Verfahrenskostenhilfe wird eine Anwältin oder ein Anwalt beigeordnet, die bzw.\nder die Gebühren nicht der Partei, sondern der Staatskasse in Rechnung stellt.</p>\n",
+   "zustaendig": [
+    "Familiengericht (Bewilligung der Verfahrenskostenhilfe und Kostenfestsetzung)"
+   ],
+   "belege": [
+    "§ 43 FamGKG (gesetze-im-internet.de)",
+    "§§ 76, 114 FamFG (gesetze-im-internet.de)",
+    "§§ 114 ff., 120 ZPO (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "scheidungsantrag-und-verfahren",
+    "einvernehmliche-und-streitige-scheidung",
+    "beratung-mediation-familienberatung"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "einvernehmliche-und-streitige-scheidung",
+   "kategorie": "verfahren",
+   "titel": "Einvernehmliche vs. streitige Scheidung",
+   "icon": "🤝",
+   "teaser": "Sind Sie sich über die wichtigsten Folgen einig, geht die Scheidung meist schneller und günstiger. Was den Unterschied ausmacht.",
+   "schlagworte": [
+    "Einvernehmliche Scheidung",
+    "Streitige Scheidung",
+    "Interessenkonflikt",
+    "§ 43a BRAO"
+   ],
+   "kurz_html": "\n<p>Von einer „einvernehmlichen Scheidung“ spricht man, wenn beide Ehegatten die Scheidung wollen und sich über die wesentlichen Folgen –\netwa Unterhalt, Vermögen, Umgang mit den Kindern – bereits geeinigt haben oder diese Punkte gar nicht streitig gerichtlich klären lassen\nwollen. Rechtlich reicht es, wenn eine Seite den Antrag stellt und die andere zustimmt (§ 1566 Abs. 1 BGB) – dann kann auch nur eine\nAnwältin oder ein Anwalt beauftragt werden.</p>\n<p>Bei einer „streitigen Scheidung“ sind sich die Ehegatten uneinig, meist über Folgesachen wie Unterhalt oder Zugewinn, die dann im\nVerbundverfahren gerichtlich entschieden werden. Das dauert in der Regel länger und kostet mehr, weil beide Seiten eigene Anwältinnen\noder Anwälte benötigen und unter Umständen Gutachten oder mehrere Termine nötig werden. Der Versorgungsausgleich läuft in beiden\nFällen automatisch mit, unabhängig davon, ob die Scheidung einvernehmlich oder streitig ist.</p>\n",
+   "schritte": [
+    {
+     "titel": "Einigungspunkte klären",
+     "text": "Sprechen Sie möglichst frühzeitig über Unterhalt, Vermögen, Wohnung und – bei Kindern – Sorge- und Umgangsrecht."
+    },
+    {
+     "titel": "Vereinbarung schriftlich festhalten",
+     "text": "Regelungen zu Unterhalt oder Zugewinn sollten notariell oder gerichtlich protokolliert werden, um wirksam und vollstreckbar zu sein."
+    },
+    {
+     "titel": "Eine gemeinsame Anwältin oder einen gemeinsamen Anwalt beauftragen",
+     "text": "Bei echtem Einvernehmen reicht rechtlich eine anwaltliche Vertretung für den Scheidungsantrag; die andere Seite stimmt nur zu."
+    },
+    {
+     "titel": "Bei Uneinigkeit eigene Vertretung sichern",
+     "text": "Wenn Folgesachen streitig sind, sollte jede Seite eine eigene Anwältin oder einen eigenen Anwalt beauftragen, um eigene Anträge stellen zu können."
+    },
+    {
+     "titel": "Mediation erwägen",
+     "text": "Bei Konflikten kann eine Mediation helfen, eine einvernehmliche Lösung zu finden, bevor das Gericht streitig entscheiden muss."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine gesetzliche Unterscheidung",
+     "was": "Das Gesetz unterscheidet nicht formal zwischen „einvernehmlicher“ und „streitiger“ Scheidung – entscheidend ist allein, ob und wie viele Folgesachen streitig zur Entscheidung gestellt werden"
+    }
+   ],
+   "achtung": [
+    "Eine Anwältin oder ein Anwalt darf rechtlich nur eine Partei vertreten – auch bei völligem Einvernehmen kann dieselbe Person nicht beide Ehegatten anwaltlich beraten (Interessenkonflikt, § 43a Abs. 4 BRAO).",
+    "„Einvernehmlich“ bezieht sich auf die Scheidung selbst und die Folgesachen – der Versorgungsausgleich wird davon unabhängig grundsätzlich immer von Amts wegen durchgeführt, außer bei Kurzehen unter drei Jahren.",
+    "Mündliche Absprachen ohne notarielle oder gerichtliche Protokollierung sind oft schwer durchsetzbar – schriftliche, rechtssichere Vereinbarungen schützen beide Seiten."
+   ],
+   "fach_html": "\n<h3>Rechtlicher Rahmen</h3>\n<p>Das Gesetz kennt den Begriff „einvernehmliche Scheidung“ nicht ausdrücklich; er beschreibt in der Praxis den Fall, dass ein Ehegatte\nden Scheidungsantrag stellt und der andere zustimmt (§ 1566 Abs. 1 BGB), sowie meist, dass keine Folgesachen streitig in den Verbund\neingebracht werden. Je weniger Folgesachen streitig sind, desto schneller und kostengünstiger verläuft das Verfahren in der Praxis, weil\nweniger Beweisaufnahmen und Termine nötig sind.</p>\n<h3>Interessenkonflikt der Anwältin oder des Anwalts</h3>\n<p>Nach § 43a Abs. 4 BRAO (Bundesrechtsanwaltsordnung) darf eine Rechtsanwältin oder ein Rechtsanwalt nicht widerstreitende Interessen\nvertreten – bei einer Scheidung schließt das eine gemeinsame Vertretung beider Ehegatten durch dieselbe Person aus, selbst bei\nvollständigem Einvernehmen.</p>\n<h3>Vorteile notarieller oder gerichtlicher Protokollierung</h3>\n<p>Vereinbarungen zu Unterhalt, Zugewinn oder Versorgungsausgleich sollten notariell beurkundet oder gerichtlich protokolliert werden,\ndamit sie vollstreckbar sind und – bei bestimmten Regelungen wie einem Ausschluss des Versorgungsausgleichs oder Verzicht auf\nnachehelichen Unterhalt – einer gerichtlichen Wirksamkeitskontrolle standhalten.</p>\n",
+   "zustaendig": [
+    "Familiengericht",
+    "Notarinnen und Notare (für vollstreckbare Vereinbarungen)"
+   ],
+   "belege": [
+    "§ 1566 BGB (gesetze-im-internet.de)",
+    "§ 43a BRAO (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "scheidungsantrag-und-verfahren",
+    "beratung-mediation-familienberatung",
+    "versorgungsausgleich"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "versorgungsausgleich",
+   "kategorie": "vermoegen",
+   "titel": "Versorgungsausgleich",
+   "icon": "🏦",
+   "teaser": "Bei der Scheidung werden die während der Ehe erworbenen Rentenanwartschaften grundsätzlich hälftig geteilt – automatisch, außer bei kurzen Ehen.",
+   "schlagworte": [
+    "Versorgungsausgleich",
+    "Ehezeit",
+    "Kurzehe",
+    "Interne Teilung",
+    "§ 1 VersAusglG",
+    "§ 3 VersAusglG",
+    "§ 10 VersAusglG"
+   ],
+   "kurz_html": "\n<p>Der Versorgungsausgleich sorgt dafür, dass beide Ehegatten von den Alters- und Invaliditätsvorsorge-Anwartschaften profitieren, die\nwährend der Ehe aufgebaut wurden – unabhängig davon, wer sie erworben hat (§ 1 VersAusglG). Erfasst werden unter anderem gesetzliche\nRentenansprüche, Betriebsrenten, private Rentenversicherungen und Beamtenversorgung. Das Familiengericht führt den Versorgungsausgleich\nbei der Scheidung von Amts wegen durch, ohne dass Sie ihn extra beantragen müssen.</p>\n<p>Eine wichtige Ausnahme gilt bei kurzen Ehen: Hat die Ehe nicht mehr als drei Jahre gedauert, findet ein Versorgungsausgleich nur\nstatt, wenn ihn ein Ehegatte ausdrücklich beantragt (§ 3 Abs. 3 VersAusglG). Auch per Ehevertrag können Ehegatten den\nVersorgungsausgleich unter bestimmten Voraussetzungen ganz oder teilweise ausschließen.</p>\n",
+   "schritte": [
+    {
+     "titel": "Formulare der Versorgungsträger ausfüllen",
+     "text": "Das Familiengericht schickt beiden Ehegatten Formulare zu den während der Ehe erworbenen Anwartschaften, die an die jeweiligen Versorgungsträger weitergeleitet werden."
+    },
+    {
+     "titel": "Ehezeit prüfen",
+     "text": "Die für den Ausgleich maßgebliche Ehezeit beginnt mit dem ersten Tag des Heiratsmonats und endet am letzten Tag des Monats vor Zustellung des Scheidungsantrags."
+    },
+    {
+     "titel": "Bei Kurzehe Antrag stellen",
+     "text": "Dauerte die Ehe nicht mehr als drei Jahre, müssen Sie den Versorgungsausgleich aktiv beantragen, sonst findet er nicht statt."
+    },
+    {
+     "titel": "Auskünfte der Versorgungsträger abwarten",
+     "text": "Das Gericht wertet die eingegangenen Auskünfte aus und entscheidet über die Teilung der jeweiligen Anrechte."
+    },
+    {
+     "titel": "Beschluss prüfen",
+     "text": "Der Versorgungsausgleich wird meist zusammen mit der Scheidung entschieden – prüfen Sie den Beschluss auf Vollständigkeit aller Anrechte."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "3 Jahre",
+     "was": "Bis zu dieser Ehedauer findet ein Versorgungsausgleich nur auf Antrag statt, nicht automatisch",
+     "grundlage": "§ 3 Abs. 3 VersAusglG"
+    },
+    {
+     "wert": "Keine besondere Frist",
+     "was": "Der Antrag auf Durchführung bei Kurzehe kann formlos und ohne besondere Voraussetzungen bis zur Endentscheidung gestellt werden",
+     "grundlage": "§ 3 Abs. 3 VersAusglG"
+    }
+   ],
+   "achtung": [
+    "Verschweigen Sie keine Versorgungsanrechte – unvollständige Angaben können später zu einer Abänderung des Versorgungsausgleichs führen.",
+    "Ein vertraglicher Ausschluss des Versorgungsausgleichs unterliegt einer gerichtlichen Wirksamkeits- und Ausübungskontrolle – er kann unwirksam sein, wenn er einen Ehegatten unangemessen benachteiligt.",
+    "Bei Kurzehen unter drei Jahren müssen Sie selbst aktiv werden: Ohne Antrag verlieren Sie automatisch jeden Ausgleichsanspruch aus dieser Ehezeit."
+   ],
+   "fach_html": "\n<h3>Grundprinzip: hälftige Teilhabe</h3>\n<p>Der Versorgungsausgleich beruht auf dem Grundgedanken, dass beide Ehegatten während der Ehe gemeinsam für die Altersvorsorge gesorgt\nhaben, unabhängig davon, wer formal die Beiträge gezahlt hat. Er wird seit dem Versorgungsausgleichsgesetz (VersAusglG, in Kraft seit\n1. September 2009) grundsätzlich intern geteilt: Jedes Anrecht wird bei seinem jeweiligen Versorgungsträger direkt hälftig zwischen den\nEhegatten aufgeteilt (interne Teilung, § 10 VersAusglG), statt wie früher überwiegend über die gesetzliche Rentenversicherung.</p>\n<h3>Ausschluss bei Kurzehe (§ 3 Abs. 3 VersAusglG)</h3>\n<p>Bei einer Ehezeit von nicht mehr als drei Jahren führt das Gericht den Versorgungsausgleich nur auf Antrag eines Ehegatten durch. Die\nEhezeit im Sinne des Versorgungsausgleichs beginnt mit dem ersten Tag des Monats der Eheschließung und endet mit dem letzten Tag des\nMonats vor Zustellung des Scheidungsantrags (§ 3 Abs. 1 VersAusglG) – sie ist damit meist kürzer als die tatsächliche Trennungs- und\nVerfahrensdauer.</p>\n<h3>Vertraglicher Ausschluss</h3>\n<p>Ehegatten können den Versorgungsausgleich durch Ehevertrag oder gerichtlichen Vergleich ganz oder teilweise ausschließen (§§ 6–8\nVersAusglG). Solche Vereinbarungen unterliegen einer richterlichen Wirksamkeits- und Ausübungskontrolle, insbesondere wenn sie kurz vor\nder Scheidung geschlossen werden oder einen Ehegatten unangemessen benachteiligen.</p>\n",
+   "zustaendig": [
+    "Familiengericht (führt den Versorgungsausgleich von Amts wegen durch)",
+    "Deutsche Rentenversicherung und andere Versorgungsträger (erteilen Auskünfte)"
+   ],
+   "belege": [
+    "§§ 1, 3, 6–10 VersAusglG (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "scheidungsantrag-und-verfahren",
+    "zugewinnausgleich",
+    "einvernehmliche-und-streitige-scheidung"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "zugewinnausgleich",
+   "kategorie": "vermoegen",
+   "titel": "Zugewinnausgleich",
+   "icon": "💰",
+   "teaser": "Ohne Ehevertrag leben Ehegatten im gesetzlichen Güterstand: Bei der Scheidung wird der während der Ehe erwirtschaftete Vermögenszuwachs hälftig ausgeglichen.",
+   "schlagworte": [
+    "Zugewinnausgleich",
+    "Zugewinngemeinschaft",
+    "Anfangsvermögen",
+    "Endvermögen",
+    "Ausgleichsforderung",
+    "§ 1378 BGB",
+    "§ 1379 BGB"
+   ],
+   "kurz_html": "\n<p>Haben Sie keinen Ehevertrag geschlossen, leben Sie automatisch im gesetzlichen Güterstand der Zugewinngemeinschaft (§ 1363 BGB). Das\nbedeutet nicht, dass Ihr Vermögen während der Ehe automatisch gemeinsam gehört – jeder behält sein Vermögen. Bei der Scheidung wird\naber verglichen, wie stark das Vermögen jedes Ehegatten während der Ehe gewachsen ist (Zugewinn); wer mehr hinzugewonnen hat, muss die\nHälfte der Differenz an den anderen auszahlen (Ausgleichsforderung, § 1378 BGB).</p>\n<p>Um den Zugewinn zu berechnen, muss jeder Ehegatte Auskunft über sein Vermögen zu mehreren Stichtagen geben: bei Eheschließung\n(Anfangsvermögen), bei Trennung (auf Verlangen) und bei Zustellung des Scheidungsantrags bzw. am Ende der Ehe (Endvermögen)\n(§ 1379 BGB).</p>\n",
+   "schritte": [
+    {
+     "titel": "Vermögensübersicht erstellen",
+     "text": "Listen Sie Ihr Vermögen zum Trennungszeitpunkt auf – Konten, Immobilien, Wertpapiere, Schulden."
+    },
+    {
+     "titel": "Auskunft verlangen",
+     "text": "Sie können vom anderen Ehegatten Auskunft über dessen Vermögen zum Trennungszeitpunkt sowie zum Zeitpunkt der Zustellung des Scheidungsantrags verlangen (§ 1379 BGB)."
+    },
+    {
+     "titel": "Anfangsvermögen ermitteln",
+     "text": "Klären Sie, welches Vermögen bei Eheschließung vorhanden war – auch Schulden zählen und werden gegebenenfalls fortgeschrieben."
+    },
+    {
+     "titel": "Zugewinn berechnen lassen",
+     "text": "Die Differenz zwischen Anfangs- und Endvermögen ergibt den Zugewinn jedes Ehegatten; die Hälfte der Differenz beider Zugewinne ist die Ausgleichsforderung."
+    },
+    {
+     "titel": "Vereinbarung oder Klage",
+     "text": "Einigen Sie sich außergerichtlich oder lassen Sie die Ausgleichsforderung als Folgesache im Scheidungsverbund oder gesondert gerichtlich klären."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "3 Jahre",
+     "was": "Regelmäßige Verjährungsfrist für die Ausgleichsforderung, beginnend mit Kenntnis von der Beendigung des Güterstands (in der Regel ab Rechtskraft der Scheidung)",
+     "grundlage": "§§ 195, 199 BGB"
+    },
+    {
+     "wert": "Keine besondere Frist",
+     "was": "Der Auskunftsanspruch zum Vermögen bei Trennung und bei Antragszustellung kann grundsätzlich ab Getrenntleben geltend gemacht werden",
+     "grundlage": "§ 1379 BGB"
+    }
+   ],
+   "achtung": [
+    "Verschenktes oder verschwiegenes Vermögen kurz vor der Trennung kann als „illoyale Vermögensminderung“ dem Endvermögen wieder hinzugerechnet werden (§ 1375 Abs. 2 BGB).",
+    "Der Zugewinnausgleich ist unabhängig vom Versorgungsausgleich – beide Ausgleichssysteme laufen parallel und betreffen unterschiedliches Vermögen.",
+    "Warten Sie mit der Geltendmachung nicht zu lange – die Ausgleichsforderung verjährt wie eine gewöhnliche Geldforderung.",
+    "Auch ein selbst genutztes Familienheim zählt grundsätzlich zum Vermögen und fließt in die Berechnung ein, unabhängig davon, wer dort wohnen bleibt."
+   ],
+   "fach_html": "\n<h3>Gesetzlicher Güterstand</h3>\n<p>Ohne Ehevertrag gilt die Zugewinngemeinschaft (§ 1363 BGB): Die Vermögen der Ehegatten bleiben während der Ehe rechtlich getrennt,\nwerden aber am Ende der Ehe rechnerisch verglichen. Alternative Güterstände (Gütertrennung, Gütergemeinschaft) müssen notariell\nvereinbart werden.</p>\n<h3>Berechnung nach § 1378 BGB</h3>\n<p>Übersteigt der Zugewinn eines Ehegatten den des anderen, steht dem anderen Ehegatten die Hälfte des Überschusses als\nAusgleichsforderung zu (§ 1378 Abs. 1 BGB). Der Zugewinn ist der Betrag, um den das Endvermögen eines Ehegatten dessen Anfangsvermögen\nübersteigt (§ 1373 BGB); Vermögensmehrungen durch Erbschaft oder Schenkung während der Ehe werden dem Anfangsvermögen hinzugerechnet,\nsodass sie grundsätzlich nicht ausgleichspflichtig werden (§ 1374 Abs. 2 BGB).</p>\n<h3>Auskunftsanspruch (§ 1379 BGB)</h3>\n<p>Seit der Güterrechtsreform 2009 kann jeder Ehegatte bereits ab Getrenntleben Auskunft über das Vermögen des anderen zum\nTrennungszeitpunkt verlangen – nicht erst über das Endvermögen bei Zustellung des Scheidungsantrags. Das erschwert es, Vermögen\nzwischen Trennung und Scheidungsantrag beiseitezuschaffen, weil beide Stichtage bekannt und vergleichbar sind.</p>\n",
+   "zustaendig": [
+    "Familiengericht (als Folgesache im Verbund oder gesondertes Verfahren)"
+   ],
+   "belege": [
+    "§§ 1363, 1373–1379 BGB (gesetze-im-internet.de)",
+    "§§ 195, 199 BGB (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "versorgungsausgleich",
+    "scheidungsantrag-und-verfahren",
+    "ehewohnung-und-hausrat"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "trennungsunterhalt-und-nachehelicher-unterhalt",
+   "kategorie": "unterhalt",
+   "titel": "Trennungsunterhalt und nachehelicher Unterhalt",
+   "icon": "🧾",
+   "teaser": "Während der Trennung gilt ein großzügigerer Unterhaltsanspruch als nach der Scheidung – danach muss grundsätzlich jede und jeder wieder für sich selbst sorgen.",
+   "schlagworte": [
+    "Trennungsunterhalt",
+    "Nachehelicher Unterhalt",
+    "Betreuungsunterhalt",
+    "Aufstockungsunterhalt",
+    "§ 1361 BGB",
+    "§ 1570 BGB",
+    "§ 1578b BGB"
+   ],
+   "kurz_html": "\n<p>Ab der Trennung kann der wirtschaftlich schwächere Ehegatte Trennungsunterhalt verlangen (§ 1361 BGB). Der Maßstab ist bewusst\ngroßzügig: Sie müssen grundsätzlich noch keine Erwerbstätigkeit aufnehmen oder ausweiten, die Sie während der Ehe nicht hatten – die\nEhe soll nicht durch finanzielle Not sofort erzwungen beendet werden.</p>\n<p>Nach der Scheidung gilt dagegen der Grundsatz der Eigenverantwortung (§ 1569 BGB): Jede und jeder soll grundsätzlich selbst für den\neigenen Unterhalt sorgen. Nachehelicher Unterhalt kommt nur noch in gesetzlich benannten Fällen in Betracht, etwa wegen\nKinderbetreuung (§ 1570 BGB), Alter (§ 1571 BGB), Krankheit (§ 1572 BGB) oder wenn trotz Bemühens keine angemessene Erwerbstätigkeit\ngefunden wird (§ 1573 BGB).</p>\n",
+   "schritte": [
+    {
+     "titel": "Bedarf und Bedürftigkeit klären",
+     "text": "Vergleichen Sie die Einkommen beider Ehegatten und prüfen Sie, ob eine Unterhaltslücke besteht."
+    },
+    {
+     "titel": "Trennungsunterhalt schriftlich fordern",
+     "text": "Fordern Sie den Trennungsunterhalt schriftlich an, um Ihren Anspruch möglichst früh und rückwirkend abzusichern."
+    },
+    {
+     "titel": "Auskunft über Einkommen verlangen",
+     "text": "Beide Ehegatten müssen sich gegenseitig Auskunft über ihr Einkommen erteilen, um den Unterhalt zu berechnen (§ 1605 BGB)."
+    },
+    {
+     "titel": "Anspruchsgrund für die Zeit nach der Scheidung prüfen",
+     "text": "Klären Sie frühzeitig, ob ein gesetzlicher Tatbestand für nachehelichen Unterhalt vorliegt (z. B. Kinderbetreuung, Alter, Krankheit, Erwerbslosigkeit)."
+    },
+    {
+     "titel": "Vereinbarung oder gerichtliche Klärung",
+     "text": "Einigen Sie sich außergerichtlich oder lassen Sie den Unterhalt als Folgesache im Scheidungsverbund festsetzen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine Rückwirkung ohne Aufforderung",
+     "was": "Unterhalt kann grundsätzlich erst ab dem Zeitpunkt verlangt werden, ab dem der andere Ehegatte zur Auskunft aufgefordert oder in Verzug gesetzt wurde bzw. ab Rechtshängigkeit",
+     "grundlage": "§ 1613 BGB"
+    },
+    {
+     "wert": "Bis zur Rechtskraft der Scheidung",
+     "was": "Trennungsunterhalt wird grundsätzlich bis zur Rechtskraft der Scheidung geschuldet – danach gelten die engeren Regeln des nachehelichen Unterhalts",
+     "grundlage": "§ 1361 BGB, §§ 1570 ff. BGB"
+    }
+   ],
+   "achtung": [
+    "Nachehelicher Unterhalt ist kein Automatismus – ohne einen der gesetzlich benannten Gründe endet die Unterhaltspflicht mit der Scheidung.",
+    "Auch ein bestehender Anspruch kann zeitlich und der Höhe nach begrenzt werden, wenn eine unbegrenzte Fortdauer unbillig wäre (§ 1578b BGB) – etwa bei kurzer Ehedauer oder guter eigener Erwerbsfähigkeit.",
+    "Wer den Unterhalt nicht rechtzeitig schriftlich fordert, verschenkt oft rückwirkende Ansprüche.",
+    "Für minderjährige und privilegiert volljährige Kinder gilt eine eigene, vorrangige Unterhaltspflicht – siehe die Themenseite zum Kindesunterhalt."
+   ],
+   "fach_html": "\n<h3>Trennungsunterhalt (§ 1361 BGB)</h3>\n<p>Der Trennungsunterhalt soll den ehelichen Lebensstandard während der Trennungszeit übergangsweise sichern. Erwerbsobliegenheiten\nsind hier zurückhaltender als beim nachehelichen Unterhalt: Eine Erwerbstätigkeit, die während des Zusammenlebens nicht ausgeübt wurde,\nmuss im ersten Trennungsjahr in der Regel nicht aufgenommen werden, soweit dies nach den ehelichen Lebensverhältnissen und der Dauer\ndes Getrenntlebens nicht erwartet werden kann.</p>\n<h3>Eigenverantwortung nach der Scheidung (§ 1569 BGB)</h3>\n<p>Mit der Scheidung endet der eheliche Solidaritätsgedanke weitgehend. Nachehelicher Unterhalt ist gesetzlich als Ausnahme konzipiert\nund setzt einen der in §§ 1570–1576 BGB genannten Gründe voraus, u. a.:</p>\n<ul>\n<li><strong>Betreuungsunterhalt</strong> (§ 1570 BGB) wegen der Pflege oder Erziehung eines gemeinsamen Kindes, mindestens bis zum\ndritten Geburtstag des Kindes, darüber hinaus nach Billigkeitsgesichtspunkten;</li>\n<li><strong>Unterhalt wegen Alters</strong> (§ 1571 BGB), wenn von der geschiedenen Person bei Scheidung wegen ihres Alters keine\nErwerbstätigkeit mehr erwartet werden kann;</li>\n<li><strong>Unterhalt wegen Krankheit oder Gebrechen</strong> (§ 1572 BGB);</li>\n<li><strong>Unterhalt wegen Erwerbslosigkeit</strong> (§ 1573 Abs. 1 BGB) oder wegen unzureichenden Einkommens trotz angemessener\nErwerbstätigkeit (Aufstockungsunterhalt, § 1573 Abs. 2 BGB).</li>\n</ul>\n<h3>Begrenzung und Befristung (§ 1578b BGB)</h3>\n<p>Auch ein dem Grunde nach bestehender nachehelicher Unterhaltsanspruch kann nach Billigkeitsgesichtspunkten der Höhe nach herabgesetzt\nund/oder zeitlich befristet werden, insbesondere wenn eine unbegrenzte Fortdauer angesichts der ehebedingten Nachteile unbillig wäre.</p>\n",
+   "zustaendig": [
+    "Familiengericht (als Folgesache oder gesondertes Verfahren)"
+   ],
+   "belege": [
+    "§§ 1361, 1569–1578b, 1605, 1613 BGB (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "kindesunterhalt-duesseldorfer-tabelle",
+    "scheidungsantrag-und-verfahren",
+    "steuerliche-folgen-trennung-scheidung"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "kindesunterhalt-duesseldorfer-tabelle",
+   "kategorie": "unterhalt",
+   "titel": "Kindesunterhalt und Düsseldorfer Tabelle",
+   "icon": "👶",
+   "teaser": "Eltern schulden ihrem minderjährigen Kind Unterhalt unabhängig vom eigenen Auskommen. Die Düsseldorfer Tabelle ist die bundesweit verwendete Berechnungshilfe.",
+   "schlagworte": [
+    "Kindesunterhalt",
+    "Düsseldorfer Tabelle",
+    "Mindestunterhalt",
+    "Selbstbehalt",
+    "Zahlbetrag",
+    "§ 1601 BGB",
+    "§ 1612b BGB",
+    "§ 1609 BGB"
+   ],
+   "kurz_html": "\n<p>Eltern schulden ihrem minderjährigen Kind Unterhalt, unabhängig davon, ob sie miteinander verheiratet waren oder sind (§ 1601 BGB).\nDer Elternteil, bei dem das Kind lebt, erfüllt seine Unterhaltspflicht in der Regel durch Betreuung und Versorgung (Naturalunterhalt);\nder andere Elternteil zahlt Barunterhalt (§ 1606 Abs. 3 BGB). Wie hoch dieser ist, richtet sich nach dem Einkommen des zahlenden\nElternteils und dem Alter des Kindes – als bundesweite Orientierungshilfe dient die Düsseldorfer Tabelle des Oberlandesgerichts\nDüsseldorf.</p>\n<p>Kindesunterhalt hat gegenüber den meisten anderen Unterhaltsansprüchen Vorrang (§ 1609 Nr. 1 BGB). Für alleinerziehende Elternteile\ngibt es zusätzliche Leistungen wie den Unterhaltsvorschuss, wenn der andere Elternteil nicht oder nicht vollständig zahlt – dazu und\nzur praktischen Durchsetzung finden Sie mehr im Wegweiser für Alleinerziehende Mütter.</p>\n",
+   "schritte": [
+    {
+     "titel": "Einkommen ermitteln",
+     "text": "Berechnen Sie das unterhaltsrelevante Nettoeinkommen des zahlenden Elternteils, bereinigt um berufsbedingte Aufwendungen und bestimmte Schulden."
+    },
+    {
+     "titel": "Einkommensgruppe und Altersstufe finden",
+     "text": "Die Düsseldorfer Tabelle ordnet dem Einkommen eine von 15 Einkommensgruppen und dem Kind eine von vier Altersstufen zu."
+    },
+    {
+     "titel": "Kindergeld anrechnen",
+     "text": "Vom Tabellenbetrag wird das hälftige Kindergeld abgezogen, um den tatsächlich zu zahlenden Betrag (Zahlbetrag) zu ermitteln."
+    },
+    {
+     "titel": "Selbstbehalt prüfen",
+     "text": "Prüfen Sie, ob dem zahlenden Elternteil nach Abzug des Unterhalts der notwendige Selbstbehalt verbleibt."
+    },
+    {
+     "titel": "Titel schaffen",
+     "text": "Lassen Sie den Unterhaltsanspruch notariell, per Jugendamtsurkunde oder gerichtlich titulieren, damit er im Zweifel vollstreckbar ist."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine gesetzliche Frist zur Geltendmachung",
+     "was": "Der Anspruch entsteht laufend mit der Bedürftigkeit des Kindes; rückwirkend kann Unterhalt aber nur eingeschränkt verlangt werden",
+     "grundlage": "§ 1613 BGB"
+    },
+    {
+     "wert": "Ab 1. Januar 2026",
+     "was": "Seit diesem Datum gelten die aktuellen Mindestunterhaltsbeträge und Einkommensgruppen der Düsseldorfer Tabelle 2026",
+     "grundlage": "Düsseldorfer Tabelle, Stand 1.1.2026 (OLG Düsseldorf)"
+    }
+   ],
+   "achtung": [
+    "Die Düsseldorfer Tabelle ist keine Rechtsnorm, sondern eine von der Rechtsprechung entwickelte Richtlinie – Gerichte können im Einzelfall davon abweichen.",
+    "Die genannten Beträge gelten für den Regelfall von zwei unterhaltsberechtigten Personen; bei mehr oder weniger Berechtigten verschiebt sich die maßgebliche Einkommensgruppe.",
+    "Beträge und Einkommensgruppen der Tabelle werden regelmäßig, meist jährlich zum 1. Januar, angepasst – prüfen Sie vor einer Berechnung, ob die hier genannten Werte (Stand 1.1.2026) noch aktuell sind.",
+    "Zahlt der andere Elternteil nicht, müssen Sie selbst tätig werden (Mahnung, Titel, notfalls Vollstreckung) oder Unterhaltsvorschuss beim Jugendamt beantragen – siehe der Wegweiser für Alleinerziehende Mütter."
+   ],
+   "fach_html": "\n<h3>Rechtsgrundlage</h3>\n<p>Die Unterhaltspflicht der Eltern gegenüber ihren Kindern ergibt sich aus §§ 1601 ff. BGB. Kindesunterhalt ist nach § 1609 Nr. 1 BGB\nin der höchsten Rangstufe privilegiert: Minderjährige und ihnen nach § 1603 Abs. 2 Satz 2 BGB gleichgestellte volljährige Kinder in\nSchul- oder Erstausbildung bis 21 Jahre gehen praktisch allen anderen Unterhaltsberechtigten vor.</p>\n<h3>Düsseldorfer Tabelle 2026</h3>\n<p>Die vom Oberlandesgericht Düsseldorf herausgegebene und mit den anderen Oberlandesgerichten sowie dem Deutschen Familiengerichtstag\nabgestimmte Tabelle gilt bundesweit als Orientierungshilfe. Seit dem 1. Januar 2026 beträgt der Mindestunterhalt in der ersten\nEinkommensgruppe (bereinigtes Nettoeinkommen bis 2.100 €) 486 € monatlich für Kinder von 0–5 Jahren, 558 € für 6–11-Jährige und 653 €\nfür 12–17-Jährige. Die Tabelle umfasst weiterhin 15 Einkommensgruppen bis zu einem bereinigten Nettoeinkommen von 11.200 €. Vom\nTabellenbetrag wird gemäß § 1612b BGB das hälftige Kindergeld (2026: 259 € monatlich, davon 129,50 € anrechenbar) abgezogen, sodass\nsich der tatsächliche Zahlbetrag ergibt.</p>\n<h3>Selbstbehalt</h3>\n<p>Die der Düsseldorfer Tabelle beigefügten Leitlinien der Oberlandesgerichte legen zugleich Selbstbehaltssätze fest, die dem\nunterhaltspflichtigen Elternteil in jedem Fall verbleiben müssen. Die genauen Selbstbehaltsbeträge werden ebenfalls regelmäßig\nangepasst und sind den aktuellen Leitlinien des zuständigen Oberlandesgerichts zu entnehmen.</p>\n<p><strong>Hinweis zur Aktualität:</strong> Die genannten Eurobeträge stammen aus der zum 1. Januar 2026 veröffentlichten Fassung der\nDüsseldorfer Tabelle. Sie ändern sich erfahrungsgemäß regelmäßig; prüfen Sie vor einer konkreten Berechnung die jeweils aktuelle\nFassung beim Oberlandesgericht Düsseldorf.</p>\n",
+   "zustaendig": [
+    "Jugendamt (Beistandschaft, Beurkundung, Unterhaltsvorschuss)",
+    "Familiengericht (Unterhaltsfestsetzung bei Streit)"
+   ],
+   "belege": [
+    "§§ 1601, 1603, 1606, 1609, 1612b, 1613 BGB (gesetze-im-internet.de)",
+    "Düsseldorfer Tabelle, Stand 1. Januar 2026, Oberlandesgericht Düsseldorf (olg-duesseldorf.nrw.de)"
+   ],
+   "siehe_auch": [
+    "trennungsunterhalt-und-nachehelicher-unterhalt",
+    "sorgerecht-und-umgangsrecht",
+    "beratung-mediation-familienberatung"
+   ],
+   "stand": "Stand: September 2026 (Düsseldorfer Tabelle in der seit 1. Januar 2026 geltenden Fassung)."
+  },
+  {
+   "id": "sorgerecht-und-umgangsrecht",
+   "kategorie": "kinder",
+   "titel": "Sorgerecht und Umgangsrecht nach Trennung",
+   "icon": "👨‍👩‍👧",
+   "teaser": "Die gemeinsame elterliche Sorge bleibt nach Trennung und Scheidung meist bestehen. Was sich ändert, ist die Ausübung im Alltag – und das Umgangsrecht des anderen Elternteils.",
+   "schlagworte": [
+    "Elterliche Sorge",
+    "Umgangsrecht",
+    "Kindeswohl",
+    "Alleinsorge",
+    "§ 1626 BGB",
+    "§ 1671 BGB",
+    "§ 1684 BGB",
+    "§ 1687 BGB"
+   ],
+   "kurz_html": "\n<p>Trennung und Scheidung ändern grundsätzlich nichts am Sorgerecht: Waren beide Elternteile bei der Geburt verheiratet oder haben sie\neine Sorgeerklärung abgegeben, bleibt es bei der gemeinsamen elterlichen Sorge (§ 1626 BGB), auch wenn ein Elternteil auszieht. Für\nAlltagsentscheidungen ist allein der Elternteil zuständig, bei dem das Kind lebt (§ 1687 Abs. 1 BGB); Entscheidungen von erheblicher\nBedeutung für das Kind – etwa Schulwahl, größere medizinische Eingriffe, Umzug ins Ausland – erfordern weiterhin das Einvernehmen\nbeider Elternteile.</p>\n<p>Unabhängig vom Sorgerecht hat jedes Kind das Recht auf Umgang mit beiden Elternteilen, und jeder Elternteil hat ein eigenes\nUmgangsrecht mit dem Kind (§ 1684 BGB). Können sich die Eltern nicht einigen, entscheidet das Familiengericht am Maßstab des\nKindeswohls (§ 1697a BGB).</p>\n",
+   "schritte": [
+    {
+     "titel": "Gemeinsame Sorge grundsätzlich fortführen",
+     "text": "Klären Sie, welche Entscheidungen als Alltagsangelegenheiten allein getroffen werden können und welche gemeinsam abgestimmt werden müssen."
+    },
+    {
+     "titel": "Umgangsregelung vereinbaren",
+     "text": "Legen Sie möglichst einvernehmlich fest, wann und wie oft der andere Elternteil Umgang mit dem Kind hat."
+    },
+    {
+     "titel": "Bei Uneinigkeit Jugendamt einschalten",
+     "text": "Das Jugendamt berät kostenlos bei Sorge- und Umgangsfragen und kann bei der Vermittlung helfen (§ 18 SGB VIII)."
+    },
+    {
+     "titel": "Antrag beim Familiengericht",
+     "text": "Kommt keine Einigung zustande, kann jeder Elternteil eine gerichtliche Regelung von Sorge- oder Umgangsrecht beantragen."
+    },
+    {
+     "titel": "Kindeswohl im Blick behalten",
+     "text": "Binden Sie das Kind altersgerecht ein, aber belasten Sie es nicht mit dem Elternkonflikt – Beratungsstellen unterstützen dabei."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine gesetzliche Antragsfrist",
+     "was": "Anträge zu Sorge- und Umgangsrecht können jederzeit gestellt werden, solange ein Regelungsbedarf besteht"
+    },
+    {
+     "wert": "Beschleunigungsgebot",
+     "was": "Kindschaftssachen sind vorrangig und beschleunigt zu behandeln; das Gericht soll die Sache in der Regel innerhalb eines Monats mit den Beteiligten erörtern",
+     "grundlage": "§§ 155, 155a FamFG"
+    }
+   ],
+   "achtung": [
+    "Ein Umzug mit dem Kind in eine andere Stadt oder ins Ausland ist bei gemeinsamer Sorge grundsätzlich zustimmungspflichtig – ein eigenmächtiger Umzug kann rechtliche Konsequenzen haben.",
+    "Die Verweigerung von Umgang ohne triftigen Grund kann sich negativ auf spätere Sorgerechtsentscheidungen auswirken, weil Gerichte die sogenannte Bindungstoleranz jedes Elternteils berücksichtigen.",
+    "Für alleinerziehungsspezifische Leistungen wie Unterhaltsvorschuss, Mehrbedarf in der Grundsicherung oder den Entlastungsbetrag informiert der Wegweiser für Alleinerziehende Mütter – diese Seite behandelt nur die familienrechtlichen Grundlagen von Sorge und Umgang.",
+    "Bei häuslicher Gewalt kann das Familiengericht den Umgang einschränken oder ausschließen, wenn dies zum Schutz des Kindes oder des betroffenen Elternteils erforderlich ist."
+   ],
+   "fach_html": "\n<h3>Gemeinsame elterliche Sorge (§ 1626 BGB)</h3>\n<p>Die gemeinsame elterliche Sorge besteht unabhängig vom Zusammenleben der Eltern fort, solange sie nicht gerichtlich geändert wird.\nNach § 1687 Abs. 1 BGB bedürfen Entscheidungen in Angelegenheiten von erheblicher Bedeutung für das Kind der gegenseitigen Zustimmung,\nwenn die Eltern getrennt leben und die gemeinsame Sorge fortbesteht; Entscheidungen des täglichen Lebens trifft dagegen der Elternteil\nallein, bei dem sich das Kind mit Einverständnis des anderen Elternteils gewöhnlich aufhält.</p>\n<h3>Übertragung der Alleinsorge (§ 1671 BGB)</h3>\n<p>Ein Elternteil kann beantragen, dass ihm die elterliche Sorge oder ein Teilbereich davon allein übertragen wird, wenn entweder der\nandere Elternteil zustimmt (soweit das Kind nicht widerspricht und älter als 14 Jahre ist) oder zu erwarten ist, dass die Aufhebung der\ngemeinsamen Sorge und die Übertragung auf den Antragsteller dem Kindeswohl am besten entspricht (§ 1671 Abs. 1 BGB).</p>\n<h3>Umgangsrecht (§ 1684 BGB) und Wechselmodell</h3>\n<p>Das Umgangsrecht steht Kind und Elternteil wechselseitig zu. Der Bundesgerichtshof hat entschieden, dass ein Gericht im Rahmen einer\nUmgangsregelung nach § 1684 BGB auch ein paritätisches Wechselmodell anordnen kann, wenn dies dem Kindeswohl im Einzelfall am besten\nentspricht – vorausgesetzt, die Eltern sind grundsätzlich kommunikations- und kooperationsfähig (BGH, Beschluss vom 1. Februar 2017,\nXII ZB 601/15). Ausführlich dazu die eigene Themenseite zum Wechselmodell.</p>\n<h3>Beratung durch das Jugendamt</h3>\n<p>Nach § 18 SGB VIII haben Eltern Anspruch auf Beratung bei der Ausübung der elterlichen Sorge und des Umgangsrechts, insbesondere bei\nTrennung und Scheidung.</p>\n",
+   "zustaendig": [
+    "Familiengericht",
+    "Jugendamt (Beratung, Vermittlung, Umgangsbegleitung)"
+   ],
+   "belege": [
+    "§§ 1626, 1671, 1684, 1687, 1697a BGB (gesetze-im-internet.de)",
+    "§§ 155, 155a FamFG (gesetze-im-internet.de)",
+    "§ 18 SGB VIII (gesetze-im-internet.de)",
+    "BGH, Beschluss v. 01.02.2017, XII ZB 601/15"
+   ],
+   "siehe_auch": [
+    "wechselmodell",
+    "kindesunterhalt-duesseldorfer-tabelle",
+    "beratung-mediation-familienberatung"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "wechselmodell",
+   "kategorie": "kinder",
+   "titel": "Wechselmodell: rechtliche Grundlagen",
+   "icon": "🔄",
+   "teaser": "Beim Wechselmodell betreuen beide Eltern das Kind zu etwa gleichen Anteilen. Eine ausdrückliche gesetzliche Regelung gibt es noch nicht – wohl aber gefestigte Rechtsprechung.",
+   "schlagworte": [
+    "Wechselmodell",
+    "Paritätisches Wechselmodell",
+    "Residenzmodell",
+    "Kindeswohl",
+    "§ 1684 BGB",
+    "§ 1697a BGB",
+    "XII ZB 601/15"
+   ],
+   "kurz_html": "\n<p>Beim sogenannten (paritätischen) Wechselmodell lebt das Kind abwechselnd bei beiden Elternteilen, meist zu etwa gleichen\nZeitanteilen. Das deutsche Recht kennt bisher kein eigenes Gesetz, das das Wechselmodell ausdrücklich regelt oder bevorzugt –\nGrundmodell des Gesetzes ist nach wie vor das Residenzmodell, bei dem das Kind seinen gewöhnlichen Aufenthalt bei einem Elternteil hat\nund beim anderen Umgang wahrnimmt.</p>\n<p>Der Bundesgerichtshof hat 2017 entschieden, dass Familiengerichte ein Wechselmodell im Rahmen einer Umgangsregelung anordnen können,\nauch gegen den Willen eines Elternteils, wenn dies dem Kindeswohl im Einzelfall am besten entspricht (§ 1684 BGB, Maßstab § 1697a BGB).\nVorausgesetzt wird dabei eine grundlegende Fähigkeit der Eltern, miteinander zu kommunizieren und zu kooperieren.</p>\n",
+   "schritte": [
+    {
+     "titel": "Kommunikationsfähigkeit ehrlich einschätzen",
+     "text": "Ein Wechselmodell funktioniert nur, wenn beide Eltern organisatorisch und persönlich einigermaßen konfliktfrei zusammenarbeiten können."
+    },
+    {
+     "titel": "Praktische Fragen klären",
+     "text": "Wohnortnähe, Schule, Betreuungszeiten, Kosten und Ferienregelung sollten vor Einführung eines Wechselmodells besprochen werden."
+    },
+    {
+     "titel": "Einvernehmliche Vereinbarung anstreben",
+     "text": "Am tragfähigsten ist ein Wechselmodell, das beide Eltern freiwillig vereinbaren, ggf. mit Unterstützung einer Mediation oder Beratungsstelle."
+    },
+    {
+     "titel": "Bei Uneinigkeit gerichtliche Klärung",
+     "text": "Ohne Einigung kann ein Elternteil beim Familiengericht eine Umgangsregelung beantragen, die im Einzelfall auch als Wechselmodell ausgestaltet werden kann."
+    },
+    {
+     "titel": "Unterhalt und Kindergeld gesondert klären",
+     "text": "Beim Wechselmodell gelten für Kindesunterhalt und Kindergeld eigene, von der Rechtsprechung entwickelte Berechnungsregeln, die von der Regel beim Residenzmodell abweichen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine gesetzliche Frist",
+     "was": "Für die Beantragung oder Änderung eines Betreuungsmodells gibt es keine feste gesetzliche Frist – maßgeblich ist allein das aktuelle Kindeswohl",
+     "grundlage": "§ 1697a BGB"
+    }
+   ],
+   "achtung": [
+    "Ein Wechselmodell gegen den ausdrücklichen und begründeten Willen eines hochstrittigen Elternteils ordnen Gerichte nur an, wenn die Grundvoraussetzungen an Kooperation dennoch erfüllt sind – bei starkem Elternkonflikt ist ein Wechselmodell meist nicht kindeswohldienlich.",
+    "Beim Wechselmodell entfällt der klassische Anspruch auf Naturalunterhalt/Barunterhalt in Reinform – die Unterhaltsberechnung erfolgt nach besonderen, von der Rechtsprechung entwickelten Grundsätzen, die im Einzelfall anwaltlich geprüft werden sollten.",
+    "Eine gesetzliche Reform, die das Wechselmodell und andere Betreuungsmodelle erstmals ausdrücklich im BGB benennen soll (Referentenentwurf zur Modernisierung des Kindschaftsrechts, Stand Mai 2026), war zum Stand dieser Seite noch nicht in Kraft getreten und wurde nach den vorliegenden Informationen nicht vor 2027 erwartet – bis dahin gilt die hier dargestellte Rechtslage samt Rechtsprechung."
+   ],
+   "fach_html": "\n<h3>Rechtsgrundlage: Residenzmodell als gesetzlicher Regelfall</h3>\n<p>Das BGB geht nach wie vor vom Residenzmodell aus: ein gewöhnlicher Aufenthalt des Kindes bei einem Elternteil, Umgang mit dem\nanderen (§ 1684 BGB). Ein eigener Gesetzestatbestand für das Wechselmodell existiert bislang nicht.</p>\n<h3>BGH-Rechtsprechung (XII ZB 601/15)</h3>\n<p>Mit Beschluss vom 1. Februar 2017 (XII ZB 601/15) entschied der Bundesgerichtshof, dass eine gerichtliche Umgangsregelung, die im\nErgebnis zu einer annähernd hälftigen Betreuung durch beide Eltern führt (paritätisches Wechselmodell), nicht von vornherein\nausgeschlossen ist. Die Ablehnung des Wechselmodells durch einen Elternteil steht einer entsprechenden gerichtlichen Regelung nicht\ngrundsätzlich entgegen. Maßgeblich ist ausschließlich, ob das Wechselmodell im konkreten Einzelfall im Vergleich zu anderen\nBetreuungsmodellen dem Kindeswohl am besten entspricht (§ 1697a BGB). Der BGH betont zugleich, dass eine hinreichende Kommunikations-\nund Kooperationsfähigkeit der Eltern Grundvoraussetzung ist; bei erheblich zerstrittenen Eltern wird ein angeordnetes Wechselmodell\nregelmäßig nicht als kindeswohldienlich angesehen.</p>\n<h3>Geplante Reform (Kindschaftsrechtsmodernisierung)</h3>\n<p>Die Bundesministerin der Justiz hat am 11. Mai 2026 einen Referentenentwurf zur Reform des Kindschaftsrechts vorgestellt, der unter\nanderem einen neuen § 1679 Abs. 3 BGB vorsieht: Familiengerichte sollen danach ausdrücklich auch eine Betreuung durch beide\nElternteile, insbesondere ein annähernd hälftiges Wechselmodell, anordnen können, wenn dies dem Kindeswohl am besten entspricht – ohne\ndass ein Betreuungsmodell gesetzlich bevorzugt wird. Die Verbändeanhörung lief bis zum 10. Juli 2026; ein Inkrafttreten wurde zum Stand\ndieser Seite nicht vor 2027 erwartet. Bis zum tatsächlichen Inkrafttreten eines solchen Gesetzes gilt weiterhin die dargestellte\nRechtslage nach § 1684 BGB und der BGH-Rechtsprechung.</p>\n",
+   "zustaendig": [
+    "Familiengericht",
+    "Jugendamt (Beratung und Vermittlung)"
+   ],
+   "belege": [
+    "§§ 1684, 1697a BGB (gesetze-im-internet.de)",
+    "BGH, Beschluss v. 01.02.2017, XII ZB 601/15",
+    "Bundesministerium der Justiz, Referentenentwurf und FAQ zur Reform des Kindschaftsrechts (KiMoG), Stand Mai 2026 (bmj.de)"
+   ],
+   "siehe_auch": [
+    "sorgerecht-und-umgangsrecht",
+    "kindesunterhalt-duesseldorfer-tabelle",
+    "beratung-mediation-familienberatung"
+   ],
+   "stand": "Stand: September 2026. Hinweis: Eine Gesetzesreform zum Wechselmodell war zu diesem Stand angekündigt, aber noch nicht in Kraft."
+  },
+  {
+   "id": "steuerliche-folgen-trennung-scheidung",
+   "kategorie": "steuern-beratung",
+   "titel": "Steuerliche Folgen von Trennung und Scheidung",
+   "icon": "🧮",
+   "teaser": "Im Trennungsjahr können Sie meist noch einmal gemeinsam veranlagt werden. Danach ändern sich Steuerklassen – und Unterhaltszahlungen können steuerlich absetzbar sein.",
+   "schlagworte": [
+    "Steuerklassenwechsel",
+    "Zusammenveranlagung",
+    "Ehegattensplitting",
+    "Realsplitting",
+    "Anlage U",
+    "§ 26 EStG",
+    "§ 10 Abs. 1a EStG"
+   ],
+   "kurz_html": "\n<p>Im Kalenderjahr der Trennung können Sie in der Regel noch ein letztes Mal die Zusammenveranlagung mit Ehegattensplitting wählen\n(§ 26 Abs. 1 EStG) – es genügt, dass Sie an mindestens einem Tag dieses Jahres noch nicht dauernd getrennt gelebt haben. Ab dem\nfolgenden Kalenderjahr müssen beide Ehegatten einzeln veranlagt werden und in der Regel die Steuerklasse wechseln, üblicherweise beide\nin Steuerklasse I (bzw. II bei Alleinerziehenden mit Anspruch auf den Entlastungsbetrag).</p>\n<p>Zahlt ein Ehegatte dem anderen nach der Scheidung oder während dauernden Getrenntlebens Unterhalt, kann er diesen bis zu einem\ngesetzlichen Höchstbetrag als Sonderausgaben steuerlich absetzen (begrenztes Realsplitting, § 10 Abs. 1a Nr. 1 EStG) – dafür muss die\nunterhaltsempfangende Person zustimmen, weil sie die erhaltenen Zahlungen dann selbst versteuern muss.</p>\n",
+   "schritte": [
+    {
+     "titel": "Trennungszeitpunkt im Steuerjahr festhalten",
+     "text": "Für die letzte gemeinsame Veranlagung zählt, ob Sie im betreffenden Kalenderjahr noch mindestens einen Tag nicht dauernd getrennt gelebt haben."
+    },
+    {
+     "titel": "Zusammenveranlagung für das Trennungsjahr prüfen",
+     "text": "Beide Ehegatten müssen der Zusammenveranlagung schriftlich zustimmen; sie ist steuerlich oft günstiger als die Einzelveranlagung."
+    },
+    {
+     "titel": "Steuerklasse rechtzeitig wechseln",
+     "text": "Spätestens zu Beginn des Folgejahres der Trennung müssen Sie beim Finanzamt die Steuerklasse ändern lassen."
+    },
+    {
+     "titel": "Realsplitting erwägen",
+     "text": "Prüfen Sie mit steuerlicher Beratung, ob sich das begrenzte Realsplitting für Unterhaltszahlungen lohnt, und holen Sie die Zustimmung der unterhaltsberechtigten Person ein (Anlage U)."
+    },
+    {
+     "titel": "Anlage U jährlich einreichen",
+     "text": "Für das Realsplitting müssen zahlende und empfangende Person die Anlage U jedes Jahr neu bei ihrer Steuererklärung einreichen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Bis Ende des Trennungsjahres",
+     "was": "Letztmalige Möglichkeit der Zusammenveranlagung mit Ehegattensplitting für das Kalenderjahr der Trennung",
+     "grundlage": "§ 26 Abs. 1 EStG"
+    },
+    {
+     "wert": "Ab dem Folgejahr der Trennung",
+     "was": "Pflicht zum Wechsel in die Einzelveranlagung und die entsprechende Steuerklasse",
+     "grundlage": "§ 26 Abs. 1, § 38b EStG"
+    },
+    {
+     "wert": "13.805 € pro Jahr (2026)",
+     "was": "Höchstbetrag für den Sonderausgabenabzug von Unterhaltsleistungen an den geschiedenen oder dauernd getrennt lebenden Ehegatten beim begrenzten Realsplitting, zzgl. übernommener Kranken-/Pflegeversicherungsbeiträge",
+     "grundlage": "§ 10 Abs. 1a Nr. 1 EStG"
+    }
+   ],
+   "achtung": [
+    "Das Realsplitting lohnt sich nur, wenn die unterhaltsempfangende Person zustimmt – sie muss die Zahlungen dann als sonstige Einkünfte versteuern (§ 22 Nr. 1a EStG); ein finanzieller Nachteilsausgleich für diese Zustimmung ist üblich und sollte vereinbart werden.",
+    "Ohne fristgerechten Steuerklassenwechsel kann es zu Nachzahlungen kommen, wenn die alte Steuerklassenkombination (z. B. III/V) über das Trennungsjahr hinaus angewendet wird.",
+    "Alternative zum Realsplitting ist der Abzug als außergewöhnliche Belastung nach § 33a EStG bis zu einem eigenen, niedrigeren Höchstbetrag – ohne Zustimmungserfordernis, aber ohne Steuervorteil über den Höchstbetrag hinaus.",
+    "Die genannten Höchstbeträge werden gelegentlich angepasst – prüfen Sie den aktuellen Stand bei Ihrer Steuerberatung oder dem Finanzamt."
+   ],
+   "fach_html": "\n<h3>Zusammenveranlagung im Trennungsjahr (§ 26 EStG)</h3>\n<p>Voraussetzung für die Wahl der Zusammenveranlagung ist nach § 26 Abs. 1 EStG, dass die Ehegatten nicht dauernd getrennt gelebt haben.\nNach gefestigter Rechtsprechung und Verwaltungspraxis genügt es, wenn diese Voraussetzung an einem einzigen Tag des jeweiligen\nKalenderjahres vorlag. Wer sich also z. B. im November trennt, kann für das gesamte laufende Jahr noch die Zusammenveranlagung wählen;\nab dem 1. Januar des Folgejahres ist das nicht mehr möglich.</p>\n<h3>Steuerklassenwechsel</h3>\n<p>Mit Ablauf des Trennungsjahres im steuerlichen Sinn ist auch die Steuerklasse anzupassen – in der Regel wechseln beide (vormals)\nEhegatten in Steuerklasse I; wer alleinerziehend ist und die Voraussetzungen erfüllt, kann Steuerklasse II mit Entlastungsbetrag für\nAlleinerziehende beantragen (§ 24b EStG) – dazu mehr im Wegweiser für Alleinerziehende Mütter.</p>\n<h3>Begrenztes Realsplitting (§ 10 Abs. 1a Nr. 1 EStG)</h3>\n<p>Unterhaltsleistungen an den geschiedenen oder dauernd getrennt lebenden Ehegatten können auf Antrag der zahlenden Person als\nSonderausgaben abgezogen werden, bis zu einem Höchstbetrag von 13.805 Euro im Jahr 2026 zuzüglich der für den unterhaltsberechtigten\nEhegatten aufgewandten Basis-Kranken- und Pflegeversicherungsbeiträge. Voraussetzung ist die Zustimmung der unterhaltsempfangenden\nPerson auf der „Anlage U“, weil diese die erhaltenen Beträge dann als sonstige Einkünfte versteuern muss (§ 22 Nr. 1a EStG). Alternativ\n– ohne Zustimmungserfordernis, aber mit niedrigerem Höchstbetrag (12.348 Euro im Jahr 2026) – können Unterhaltsleistungen als\naußergewöhnliche Belastung nach § 33a EStG geltend gemacht werden.</p>\n",
+   "zustaendig": [
+    "Finanzamt",
+    "Steuerberatung"
+   ],
+   "belege": [
+    "§§ 10 Abs. 1a Nr. 1, 22 Nr. 1a, 24b, 26, 33a, 38b EStG (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "trennungsunterhalt-und-nachehelicher-unterhalt",
+    "beratung-mediation-familienberatung"
+   ],
+   "stand": "Stand: September 2026 (Beträge Realsplitting/außergewöhnliche Belastung: Veranlagungszeitraum 2026)."
+  },
+  {
+   "id": "beratung-mediation-familienberatung",
+   "kategorie": "steuern-beratung",
+   "titel": "Beratung, Mediation und Familienberatungsstellen",
+   "icon": "📞",
+   "teaser": "Sie müssen Trennung und Scheidung nicht allein bewältigen. Beratungsstellen, Mediation und das Jugendamt unterstützen kostenlos oder kostengünstig.",
+   "schlagworte": [
+    "Trennungsberatung",
+    "Mediation",
+    "Erziehungsberatung",
+    "Beratungshilfe",
+    "§ 17 SGB VIII",
+    "§ 28 SGB VIII"
+   ],
+   "kurz_html": "\n<p>Jugendämter und viele freie Träger bieten Beratung „in Fragen der Partnerschaft, Trennung und Scheidung“ ausdrücklich als\ngesetzliche Aufgabe an (§ 17 SGB VIII), vor allem für Eltern minderjähriger Kinder. Ergänzend gibt es die allgemeine\nErziehungsberatung nach § 28 SGB VIII, die auch bei elterlichen Konflikten rund um Trennung und Scheidung unterstützt.</p>\n<p>Wollen Sie Konflikte einvernehmlich statt gerichtlich klären, kann eine Mediation helfen: Eine neutrale Person moderiert das\nGespräch zwischen den Ehegatten, ohne selbst zu entscheiden (Mediationsgesetz). Mediation ersetzt keine Rechtsberatung, kann aber die\nGrundlage für eine spätere notarielle oder gerichtliche Vereinbarung schaffen.</p>\n",
+   "schritte": [
+    {
+     "titel": "Beratungsstelle vor Ort finden",
+     "text": "Jugendamt, Caritas, Diakonie, AWO, Pro Familia und weitere freie Träger bieten Trennungs- und Scheidungsberatung an, oft kostenlos oder nach Einkommen gestaffelt."
+    },
+    {
+     "titel": "Angebot klären",
+     "text": "Fragen Sie, ob reine Beratung, Mediation oder beides angeboten wird, und ob die Beratung auch ohne den anderen Elternteil möglich ist."
+    },
+    {
+     "titel": "Anwaltliche Erstberatung einholen",
+     "text": "Für rechtsverbindliche Fragen (Unterhalt, Vermögen, Sorgerecht) ist eine anwaltliche Beratung sinnvoll – bei geringem Einkommen ggf. mit Beratungshilfe."
+    },
+    {
+     "titel": "Mediation bei Bedarf nutzen",
+     "text": "Bei grundsätzlicher Gesprächsbereitschaft kann eine Mediation helfen, eine gemeinsame Lösung zu finden, bevor das Gericht entscheidet."
+    },
+    {
+     "titel": "Bei Kindern das Jugendamt einbeziehen",
+     "text": "Das Jugendamt berät kostenlos zu Sorge- und Umgangsfragen und vermittelt bei Konflikten (§ 18 SGB VIII)."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine gesetzliche Frist",
+     "was": "Beratung, Mediation und die Beratungshilfe können grundsätzlich jederzeit in Anspruch genommen werden, unabhängig vom Stand eines gerichtlichen Verfahrens"
+    }
+   ],
+   "achtung": [
+    "Mediation setzt voraus, dass beide Seiten grundsätzlich gesprächsbereit sind – bei starkem Machtgefälle oder Gewalt in der Beziehung ist Mediation nicht geeignet; wenden Sie sich dann direkt an eine Fachberatungsstelle statt an eine gemeinsame Mediation.",
+    "Eine Mediatorin oder ein Mediator berät nicht rechtlich und vertritt keine Partei – lassen Sie eine erzielte Einigung im Zweifel anwaltlich prüfen, bevor Sie sie unterschreiben.",
+    "Beratungshilfe für die außergerichtliche anwaltliche Beratung ist etwas anderes als Verfahrenskostenhilfe für das gerichtliche Verfahren – beides muss gegebenenfalls getrennt beantragt werden."
+   ],
+   "fach_html": "\n<h3>Beratung nach SGB VIII</h3>\n<p>§ 17 SGB VIII verpflichtet die Träger der öffentlichen Jugendhilfe, Mütter und Väter bei Fragen der Partnerschaft sowie bei\nTrennung und Scheidung zu beraten, insbesondere im Hinblick auf die Entwicklung einer einvernehmlichen Lösung der elterlichen Sorge.\n§ 28 SGB VIII regelt ergänzend die allgemeine Erziehungsberatung, die auch in Trennungssituationen in Anspruch genommen werden kann.</p>\n<h3>Mediationsgesetz</h3>\n<p>Das Gesetz zur Förderung der Mediation und anderer Verfahren der außergerichtlichen Konfliktbeilegung (Mediationsgesetz, in Kraft\nseit 2012) definiert Mediation als vertrauliches, strukturiertes Verfahren, bei dem die Parteien mithilfe eines neutralen Mediators\noder einer neutralen Mediatorin eigenverantwortlich eine einvernehmliche Lösung ihres Konflikts anstreben. Es schafft keinen eigenen\nneuen Leistungsanspruch nach SGB VIII, sondern einen allgemeinen Rahmen; Beratungsstellen können mediative Methoden in ihre Arbeit\nnach §§ 17, 28 SGB VIII einbeziehen.</p>\n<h3>Beratungshilfe</h3>\n<p>Für außergerichtliche anwaltliche Beratung bei geringem Einkommen und Vermögen kann Beratungshilfe beim zuständigen Amtsgericht\nbeantragt werden (Beratungshilfegesetz). Sie ist von der Verfahrenskostenhilfe für ein bereits laufendes gerichtliches Verfahren zu\nunterscheiden.</p>\n",
+   "zustaendig": [
+    "Jugendamt",
+    "Freie Träger der Familienberatung (Caritas, Diakonie, AWO, Pro Familia u. a.)",
+    "Rechtsanwältinnen/Rechtsanwälte",
+    "Amtsgericht (Beratungshilfe)"
+   ],
+   "belege": [
+    "§§ 17, 18, 28 SGB VIII (gesetze-im-internet.de)",
+    "Mediationsgesetz (gesetze-im-internet.de)",
+    "Beratungshilfegesetz (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "einvernehmliche-und-streitige-scheidung",
+    "sorgerecht-und-umgangsrecht",
+    "kosten-der-scheidung-verfahrenskostenhilfe"
+   ],
+   "stand": "Stand: September 2026."
+  }
+ ]
+}

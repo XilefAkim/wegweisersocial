@@ -1,0 +1,1129 @@
+{
+  "kategorien": [
+    {
+      "id": "ueberblick",
+      "titel": "Überblick",
+      "icon": "🧭",
+      "beschreibung": "Grundlagen: welche Rechte Verbraucher beim Kaufen und bei Verträgen haben und wo sie durchgesetzt werden."
+    },
+    {
+      "id": "kaufen",
+      "titel": "Kaufen & Reklamieren",
+      "icon": "📦",
+      "beschreibung": "Widerruf, Mängel, Garantie und Sicherheit beim Onlinekauf."
+    },
+    {
+      "id": "vertraege",
+      "titel": "Verträge & Abos",
+      "icon": "📄",
+      "beschreibung": "Abofallen, Kündigung per Klick, Telefonwerbung, Energie und Bankkonto."
+    },
+    {
+      "id": "geld",
+      "titel": "Geld & Schulden",
+      "icon": "💶",
+      "beschreibung": "Mahnung, Inkasso, Schufa, Kredite und Verbraucherinsolvenz."
+    },
+    {
+      "id": "reisen-daten",
+      "titel": "Reisen & Daten",
+      "icon": "✈️",
+      "beschreibung": "Fluggastrechte und Datenschutz gegenüber Werbung."
+    },
+    {
+      "id": "durchsetzung",
+      "titel": "Recht durchsetzen",
+      "icon": "⚖️",
+      "beschreibung": "Schlichtung, Sammelklagen und Verbandsklagen."
+    },
+    {
+      "id": "beratung",
+      "titel": "Beratung",
+      "icon": "🤝",
+      "beschreibung": "Verbraucherzentralen und weitere belegte bundesweite Stellen."
+    }
+  ],
+  "seiten": [
+    {
+      "id": "ueberblick-verbraucherrechte",
+      "kategorie": "ueberblick",
+      "titel": "Überblick Verbraucherrechte",
+      "icon": "🧭",
+      "teaser": "Was Verbraucher gesetzlich schützt: Widerruf, Mängelrechte, Kündigungsbutton, Werbeschutz. Und wo Sie Hilfe bekommen.",
+      "schlagworte": [
+        "Verbraucher",
+        "Verbraucherschutz",
+        "BGB",
+        "Rechte beim Kaufen",
+        "AGB",
+        "Neuerungen 2026",
+        "Zwingendes Recht",
+        "Verbraucherzentrale"
+      ],
+      "kurz_html": "<p>Verbraucher sind Menschen, die etwas für den privaten Gebrauch kaufen oder einen Vertrag abschließen. Für sie gelten besondere Schutzregeln, vor allem im Bürgerlichen Gesetzbuch (BGB).</p><ul><li>Beim Kauf im Internet können Sie meist 14 Tage widerrufen.</li><li>Ist eine Ware mangelhaft, haben Sie Mängelrechte gegen den Verkäufer.</li><li>Abos müssen online mit einem Kündigungsbutton kündbar sein.</li><li>Werbeanrufe ohne Ihre ausdrückliche Einwilligung sind verboten.</li></ul><p>Einige Regeln sind neu oder ändern sich 2026. Diese Seiten zeigen, was schon gilt und was erst kommt.</p>",
+      "schritte": [
+        {
+          "titel": "Vertrag und Belege sichern",
+          "text": "Bewahren Sie Bestellbestätigung, Rechnung, Chat und E-Mails auf."
+        },
+        {
+          "titel": "Recht einordnen",
+          "text": "Prüfen Sie mit den Themenseiten: Widerruf, Mangel, Kündigung oder Werbung?"
+        },
+        {
+          "titel": "Schriftlich reagieren",
+          "text": "Erklären Sie Widerruf, Mängelrüge oder Kündigung in Textform und heben Sie den Nachweis auf."
+        },
+        {
+          "titel": "Hilfe holen",
+          "text": "Bei Streit: Verbraucherzentrale oder Schlichtungsstelle fragen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "14 Tage",
+          "was": "Regel-Widerrufsfrist bei Verbraucherverträgen",
+          "grundlage": "§ 355 Abs. 2 BGB"
+        },
+        {
+          "wert": "2 Jahre",
+          "was": "Verjährung von Mängelansprüchen beim Kauf (Regelfall)",
+          "grundlage": "§ 438 Abs. 1 Nr. 3 BGB"
+        }
+      ],
+      "achtung": [
+        "Fristen laufen oft ab Lieferung, nicht ab Bestellung. Datum notieren.",
+        "Mündliche Zusagen sind schwer zu beweisen. Schriftlich bestätigen lassen.",
+        "Diese Seite ist Information, keine Rechtsberatung.",
+        "Widerrufsbutton (seit 19.06.2026) und Recht auf Reparatur (seit 31.07.2026) gelten bereits. Noch aus: Verbraucherkredit (20.11.2026) und Fluggastrechte-Reform. Achten Sie auf den Hinweis „Stand“ je Seite."
+      ],
+      "fach_html": "<h3>Zwingendes Verbraucherrecht</h3><p>Nach § 476 Abs. 1 BGB kann sich der Unternehmer beim Verbrauchsgüterkauf auf eine vor Mitteilung eines Mangels getroffene Vereinbarung, die zum Nachteil des Verbrauchers von den §§ 433 bis 435, 437, 439 bis 441 und 443 abweicht, nicht berufen. Das heißt: AGB können die Kernrechte nicht aushebeln.</p><h3>Neuerungen 2026</h3><p>Der Widerrufsbutton nach § 356a BGB gilt seit 19. Juni 2026. Das Verbraucherkredit-Umsetzungsgesetz wurde am 18.05.2026 verkündet (BGBl. 2026 I Nr. 139); die neuen Regeln gelten ab 20.11.2026. Das Recht auf Reparatur (Richtlinie (EU) 2024/1799) wurde am 22.07.2026 verkündet (BGBl. 2026 I Nr. 212), trat am 23.07.2026 in Kraft und gilt für Kaufverträge ab 31.07.2026. Die EU-Reform der Fluggastrechte: Das Europäische Parlament stimmte am 07.07.2026 zu, die Amtsblattveröffentlichung stand im Juli 2026 aus, Inkrafttreten voraussichtlich erst 2027. Einzelheiten stehen auf den Themenseiten.</p>",
+      "zustaendig": [
+        "Verbraucherzentralen der Länder",
+        "Schlichtungsstellen (Universalschlichtungsstelle des Bundes)",
+        "Amtsgericht / Landgericht je nach Streitwert"
+      ],
+      "belege": [
+        "gesetze-im-internet.de, § 476 BGB, abgerufen 20.09.2026",
+        "gesetze-im-internet.de, § 355 BGB, abgerufen 20.09.2026",
+        "gesetze-im-internet.de, § 438 BGB, abgerufen 20.09.2026",
+        "Bundesregierung, Richtlinie über Verbraucherkreditverträge umgesetzt, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "widerrufsrecht",
+        "beratung-anlaufstellen"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "widerrufsrecht",
+      "kategorie": "kaufen",
+      "titel": "Widerrufsrecht und Widerrufsbutton",
+      "icon": "↩️",
+      "teaser": "Online und am Telefon gekaufte Waren können Sie meist 14 Tage widerrufen. Seit 19.06.2026 muss es dafür einen Widerrufsbutton geben.",
+      "schlagworte": [
+        "Widerruf",
+        "Fernabsatz",
+        "14 Tage",
+        "Widerrufsbutton",
+        "Rücksendung",
+        "Widerrufsbelehrung",
+        "Rückerstattung",
+        "§ 356a BGB"
+      ],
+      "kurz_html": "<p>Wenn Sie im Internet, am Telefon oder per Katalog kaufen, dürfen Sie den Vertrag meist ohne Grund widerrufen. Die Frist beträgt 14 Tage.</p><ul><li>Bei Waren beginnt die Frist, wenn Sie die Ware erhalten haben.</li><li>Sie müssen klar erklären, dass Sie widerrufen.</li><li>Der Händler zahlt das Geld spätestens nach 14 Tagen zurück.</li><li>Manche Waren sind ausgenommen, zum Beispiel individuell angefertigte.</li></ul><p>Neu seit 19. Juni 2026: Online-Shops müssen einen Widerrufsbutton anbieten.</p>",
+      "schritte": [
+        {
+          "titel": "Frist prüfen",
+          "text": "Wann haben Sie die Ware erhalten? Ab da zählen 14 Tage."
+        },
+        {
+          "titel": "Widerruf erklären",
+          "text": "Nutzen Sie den Widerrufsbutton des Shops oder schreiben Sie eindeutig per E-Mail oder Brief."
+        },
+        {
+          "titel": "Eingangsbestätigung aufheben",
+          "text": "Der Shop muss den Eingang bestätigen. Machen Sie einen Screenshot."
+        },
+        {
+          "titel": "Ware zurücksenden, Geld zurückfordern",
+          "text": "Der Händler darf die Rückzahlung verweigern, bis die Ware zurück ist oder Sie den Versand nachweisen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "14 Tage",
+          "was": "Widerrufsfrist",
+          "grundlage": "§ 355 Abs. 2 BGB"
+        },
+        {
+          "wert": "14 Tage",
+          "was": "Rückgewähr der empfangenen Leistungen nach Widerruf",
+          "grundlage": "§ 357 Abs. 1 BGB"
+        },
+        {
+          "wert": "12 Monate und 14 Tage",
+          "was": "Spätestes Erlöschen des Widerrufsrechts bei fehlender Widerrufsinformation",
+          "grundlage": "§ 356 Abs. 3 S. 2 BGB"
+        }
+      ],
+      "achtung": [
+        "Ausnahmen: individuell angefertigte Ware, schnell verderbliche Ware, versiegelte Hygieneartikel nach Entfernen der Versiegelung (§ 312g Abs. 2 BGB).",
+        "Ein bloßes Zurücksenden ohne Erklärung ist unsicher. Erklären Sie den Widerruf ausdrücklich.",
+        "Im Laden gekaufte Ware hat kein gesetzliches Widerrufsrecht.",
+        "Ob Sie die Rücksendekosten tragen, hängt von der Information des Händlers ab."
+      ],
+      "fach_html": "<h3>Widerruf (§§ 355 ff. BGB)</h3><p>Nach § 355 Abs. 1 BGB erfolgt der Widerruf durch Erklärung gegenüber dem Unternehmer; der Entschluss zum Widerruf muss eindeutig hervorgehen. Die Frist beträgt nach § 355 Abs. 2 BGB 14 Tage und beginnt mit Vertragsschluss, soweit nichts anderes bestimmt ist. Beim Warenkauf beginnt sie nach § 356 Abs. 2 BGB, sobald der Verbraucher oder ein von ihm benannter Dritter, der nicht Frachtführer ist, die Waren erhalten hat. Sie beginnt nicht, bevor der Unternehmer nach Art. 246a § 1 Abs. 2 Satz 1 Nr. 1 EGBGB unterrichtet hat. Das Widerrufsrecht erlischt spätestens zwölf Monate und 14 Tage nach dem Fristbeginn.</p><h3>Rückabwicklung</h3><p>Nach § 357 Abs. 1 BGB sind empfangene Leistungen spätestens nach 14 Tagen zurückzugewähren. Nach § 357 Abs. 4 BGB kann der Unternehmer bei einem Verbrauchsgüterkauf die Rückzahlung verweigern, bis er die Waren zurückerhalten hat oder der Verbraucher nachweist, dass er sie abgesandt hat.</p><h3>Widerrufsbutton (§ 356a BGB) seit 19.06.2026</h3><p>Das Umsetzungsgesetz zur Richtlinie (EU) 2023/2673 wurde am 5. Februar 2026 im Bundesgesetzblatt verkündet (BGBl. 2026 I Nr. 28 v. 05.02.2026). § 356a BGB gilt seit dem 19. Juni 2026 für Fernabsatzverträge, die über eine Online-Benutzeroberfläche geschlossen werden, einschließlich Finanzdienstleistungen. Der Unternehmer muss eine ständig verfügbare, mit „Vertrag widerrufen“ beschriftete Funktion bereitstellen (Abs. 1). Der Verbraucher gibt Name, Vertragsidentifikation und Kommunikationsmittel an und bestätigt dann mit „Widerruf bestätigen“ (Abs. 3). Der Unternehmer muss den Eingang unverzüglich auf einem dauerhaften Datenträger bestätigen (Abs. 4). Zur Rechtzeitigkeit des Widerrufs siehe Abs. 5. Die Widerrufsfrist selbst ändert sich nicht. Der Button ist kein Ersatz für das Widerrufsrecht: fehlt er, bleibt der Widerruf auf anderem Weg möglich. Rechtsfolgen bei Fehlen (zum Beispiel Fristverlängerung) sind hier nicht geprüft.</p>",
+      "zustaendig": [
+        "Händler / Shopbetreiber (Adressat des Widerrufs)",
+        "Verbraucherzentrale",
+        "Amtsgericht"
+      ],
+      "belege": [
+        "gesetze-im-internet.de, §§ 355, 356, 357, 312g BGB, abgerufen 20.09.2026",
+        "§ 356a BGB, BGBl. 2026 I Nr. 28 v. 05.02.2026"
+      ],
+      "siehe_auch": [
+        "gewaehrleistung-maengel",
+        "abofallen-kuendigungsbutton"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "gewaehrleistung-maengel",
+      "kategorie": "kaufen",
+      "titel": "Gewährleistung und Mängel",
+      "icon": "🔧",
+      "teaser": "Ist die Ware kaputt oder falsch, haften Verkäufer. Sie haben Anspruch auf Reparatur oder Ersatz. Für neue Ware gelten 2 Jahre.",
+      "schlagworte": [
+        "Gewährleistung",
+        "Mangel",
+        "Nacherfüllung",
+        "Beweislastumkehr",
+        "Verjährung",
+        "Rücktritt",
+        "Minderung",
+        "Recht auf Reparatur"
+      ],
+      "kurz_html": "<p>Wenn Ihre gekaufte Ware einen Mangel hat, haftet der Verkäufer. Das nennt man Gewährleistung. Sie gilt unabhängig von einer Garantie des Herstellers.</p><ul><li>Zuerst können Sie Reparatur oder Ersatzlieferung verlangen.</li><li>Klappt das nicht, können Sie mindern oder vom Vertrag zurücktreten.</li><li>Zeigt sich der Mangel im ersten Jahr, wird vermutet: er war von Anfang an da.</li><li>Neue Ware: Anspruch verjährt nach 2 Jahren.</li></ul>",
+      "schritte": [
+        {
+          "titel": "Mangel dokumentieren",
+          "text": "Fotos, Video, Fehlerbeschreibung, Kaufbeleg."
+        },
+        {
+          "titel": "Mangel melden",
+          "text": "Schreiben Sie dem Verkäufer, nicht dem Hersteller. Setzen Sie eine Frist zur Nachbesserung."
+        },
+        {
+          "titel": "Nacherfüllung wählen",
+          "text": "Sie wählen: Reparatur oder mangelfreie Sache."
+        },
+        {
+          "titel": "Bei Scheitern eskalieren",
+          "text": "Minderung, Rücktritt oder Beratung durch Verbraucherzentrale."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "2 Jahre",
+          "was": "Verjährung von Mängelansprüchen (im Übrigen); seit 31.07.2026 bis 3 Jahre nach Reparatur (§ 475e Abs. 5 BGB)",
+          "grundlage": "§ 438 Abs. 1 Nr. 3 BGB"
+        },
+        {
+          "wert": "1 Jahr",
+          "was": "Beweislastumkehr zugunsten des Verbrauchers ab Gefahrübergang",
+          "grundlage": "§ 477 Abs. 1 BGB"
+        },
+        {
+          "wert": "mind. 1 Jahr",
+          "was": "Untergrenze der Verkürzung bei gebrauchten Waren",
+          "grundlage": "§ 476 Abs. 2 BGB"
+        }
+      ],
+      "achtung": [
+        "Die Verjährung beginnt mit Ablieferung der Sache (§ 438 Abs. 2 BGB), nicht mit dem Kaufdatum im Laden.",
+        "Bei gebrauchten Waren ist eine Verkürzung auf 1 Jahr nur zulässig, wenn der Verbraucher vor seiner Vertragserklärung gesondert davon Kenntnis erhielt und dies ausdrücklich und gesondert vereinbart wurde (§ 476 Abs. 2 S. 2 BGB).",
+        "Nach dem ersten Jahr müssen Sie den Mangel eher selbst beweisen.",
+        "Recht auf Reparatur: Neuregelung 2026 siehe Fachteil."
+      ],
+      "fach_html": "<h3>Rechte nach § 437 ff. BGB</h3><p>Nach § 439 Abs. 1 BGB kann der Käufer als Nacherfüllung nach seiner Wahl die Beseitigung des Mangels oder die Lieferung einer mangelfreien Sache verlangen. Rücktritt und Minderung folgen bei Scheitern der Nacherfüllung; die Voraussetzungen im Einzelnen wurden hier nicht aus dem Gesetzestext abgerufen.</p><h3>Beweislastumkehr, Verjährung</h3><p>§ 477 Abs. 1 BGB: Zeigt sich innerhalb eines Jahres seit Gefahrübergang ein von den Anforderungen nach § 434 oder § 475b abweichender Zustand, wird vermutet, dass die Ware bereits bei Gefahrübergang mangelhaft war; bei lebenden Tieren sechs Monate. Bei Waren mit digitalen Elementen mit dauerhafter Bereitstellung gilt nach § 477 Abs. 2 BGB eine Vermutung für zwei Jahre. § 438 Abs. 1 Nr. 3 BGB: Verjährung in zwei Jahren; bei arglistig verschwiegenem Mangel gilt die regelmäßige Verjährung (§ 438 Abs. 3 BGB). § 476 Abs. 2 BGB verbietet eine Verjährung von weniger als zwei Jahren, bei gebrauchten Waren von weniger als einem Jahr, sofern vor Mängelmitteilung vereinbart. Die Verkürzung auf ein Jahr bei gebrauchten Waren setzt zusätzlich voraus, dass der Verbraucher vor Abgabe seiner Vertragserklärung gesondert davon Kenntnis erhielt und dies ausdrücklich und gesondert vereinbart wurde (§ 476 Abs. 2 S. 2 BGB).</p><h3>Recht auf Reparatur 2026</h3><p>Umsetzung der Richtlinie (EU) 2024/1799: verkündet BGBl. 2026 I Nr. 212 v. 22.07.2026, in Kraft seit 23.07.2026, anwendbar auf Kaufverträge ab 31.07.2026. Nach § 475e Abs. 5 BGB verlängert sich bei gewählter Nachbesserung die Verjährung einmalig um 12 Monate (bis zu 3 Jahre). Herstellerreparaturpflicht: §§ 479a ff. BGB (neuer Untertitel 4). Reparierbarkeit ist eine objektive Anforderung an die Ware.</p>",
+      "zustaendig": [
+        "Verkäufer (nicht Hersteller) als Ansprechpartner",
+        "Verbraucherzentrale",
+        "Universalschlichtungsstelle oder Amtsgericht"
+      ],
+      "belege": [
+        "gesetze-im-internet.de, §§ 438, 439, 476, 477 BGB, abgerufen 20.09.2026",
+        "Deutscher Bundestag, Bundestag stimmt Recht-auf-Reparatur-Richtlinie zu, abgerufen 20.09.2026",
+        "BGBl. 2026 I Nr. 212 v. 22.07.2026 (Recht auf Reparatur; §§ 475e, 479a ff. BGB)"
+      ],
+      "siehe_auch": [
+        "garantie-reklamation",
+        "onlinekauf-betrug"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "garantie-reklamation",
+      "kategorie": "kaufen",
+      "titel": "Garantie und Reklamation",
+      "icon": "🧾",
+      "teaser": "Garantie ist freiwillig und kommt vom Hersteller oder Händler. Gewährleistung ist Pflicht. Beides ist nicht dasselbe.",
+      "schlagworte": [
+        "Garantie",
+        "Herstellergarantie",
+        "Gewährleistung",
+        "Reklamation",
+        "Kulanz",
+        "Garantiebedingungen",
+        "Kaufbeleg",
+        "Reparatur"
+      ],
+      "kurz_html": "<p>Eine Garantie ist ein zusätzliches Versprechen, zum Beispiel „3 Jahre Garantie“. Der Verkäufer muss sie nicht geben. Die gesetzliche Gewährleistung bleibt trotzdem.</p><ul><li>Lesen Sie die Garantiebedingungen: Wer haftet, was ist ausgeschlossen?</li><li>Meist brauchen Sie den Kaufbeleg.</li><li>Sie dürfen wählen, ob Sie sich auf Garantie oder Gewährleistung berufen.</li></ul>",
+      "schritte": [
+        {
+          "titel": "Beleg und Bedingungen finden",
+          "text": "Kaufbeleg, Garantiekarte, Garantiebedingungen."
+        },
+        {
+          "titel": "Anspruch anmelden",
+          "text": "Kontaktieren Sie Garantiegeber oder Verkäufer schriftlich, Fehler genau beschreiben."
+        },
+        {
+          "titel": "Gewährleistung parallel prüfen",
+          "text": "Der Verkäufer haftet unabhängig von der Garantie."
+        },
+        {
+          "titel": "Kulanz erfragen",
+          "text": "Nach Ablauf der Fristen ist Entgegenkommen freiwillig."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "Laut Garantieerklärung",
+          "was": "Dauer der Garantie legt der Garantiegeber fest",
+          "grundlage": "§ 443 BGB"
+        },
+        {
+          "wert": "2 Jahre",
+          "was": "Gesetzliche Gewährleistung läuft unabhängig davon weiter",
+          "grundlage": "§ 438 Abs. 1 Nr. 3 BGB"
+        }
+      ],
+      "achtung": [
+        "Garantie kann Bedingungen haben (nur Herstellerwerkstatt, Wartungsnachweis).",
+        "Nach § 476 Abs. 1 BGB können Gewährleistungsrechte nicht zum Nachteil des Verbrauchers durch Vereinbarung eingeschränkt werden, § 443 ist ausdrücklich genannt.",
+        "Nicht jedes Reparaturangebot ist eine Garantie. Klären Sie, ob Kosten anfallen."
+      ],
+      "fach_html": "<h3>Garantie und Gewährleistung</h3><p>§ 443 BGB regelt die Garantie. § 476 Abs. 1 BGB nennt § 443 unter den Vorschriften, von denen nicht zum Nachteil des Verbrauchers abgewichen werden darf. Die Garantie ergänzt die Rechte aus §§ 437 ff. BGB; sie ersetzt sie nicht. Inhalt und Dauer bestimmen sich nach der Garantieerklärung.</p><h3>Garantieerklärung, § 479 BGB</h3><p>Abs. 1: Die Garantieerklärung muss einfach und verständlich sein und den Hinweis auf die gesetzlichen Mängelrechte, den Garantiegeber, das Verfahren, die Waren und die Bedingungen enthalten. Abs. 2: Sie ist dem Verbraucher spätestens bei Lieferung auf einem dauerhaften Datenträger zur Verfügung zu stellen. Abs. 3: Bei einer Haltbarkeitsgarantie des Herstellers besteht die Nacherfüllung nach §§ 439, 475. Abs. 4: Ein Formverstoß lässt die Garantie wirksam.</p><h3>Herstellerreparaturpflicht</h3><p>Geregelt in §§ 479a ff. BGB (Anhang II der Richtlinie (EU) 2024/1799).</p>",
+      "zustaendig": [
+        "Garantiegeber (Hersteller oder Händler)",
+        "Verkäufer",
+        "Verbraucherzentrale bei Streit"
+      ],
+      "belege": [
+        "gesetze-im-internet.de, § 476 BGB (Nennung von § 443), abgerufen 20.09.2026",
+        "gesetze-im-internet.de, § 438 BGB, abgerufen 20.09.2026",
+        "gesetze-im-internet.de, §§ 479, 479a ff. BGB, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "gewaehrleistung-maengel",
+        "beratung-anlaufstellen"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "abofallen-kuendigungsbutton",
+      "kategorie": "vertraege",
+      "titel": "Abofallen, Kündigungsbutton und Vertragslaufzeiten",
+      "icon": "🪤",
+      "teaser": "Abos müssen online mit zwei Klicks kündbar sein. Lange Laufzeiten und stille Verlängerung sind in AGB begrenzt.",
+      "schlagworte": [
+        "Abofalle",
+        "Kündigungsbutton",
+        "Abo",
+        "Vertragslaufzeit",
+        "Verlängerung",
+        "Kündigungsfrist",
+        "Fitnessstudio",
+        "§ 312k BGB"
+      ],
+      "kurz_html": "<p>Wenn Sie einen Vertrag online abschließen können, muss der Anbieter ihn auch online kündbar machen. Dafür gibt es den Kündigungsbutton.</p><ul><li>Der Button heißt „Verträge hier kündigen“.</li><li>Danach bestätigen Sie mit „jetzt kündigen“.</li><li>Der Anbieter muss die Kündigung sofort in Textform bestätigen.</li><li>Fehlt der Button, können Sie jederzeit ohne Frist kündigen.</li></ul>",
+      "schritte": [
+        {
+          "titel": "Button suchen",
+          "text": "Auf der Webseite: „Verträge hier kündigen“."
+        },
+        {
+          "titel": "Angaben machen und bestätigen",
+          "text": "Vertrag, Name, Kündigungszeitpunkt eintragen. Dann „jetzt kündigen“."
+        },
+        {
+          "titel": "Bestätigung sichern",
+          "text": "Der Anbieter muss Inhalt, Datum und Uhrzeit bestätigen. Speichern Sie sie."
+        },
+        {
+          "titel": "Bei Problemen",
+          "text": "Kündigung zusätzlich per E-Mail oder Brief senden und Verbraucherzentrale fragen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "Sofort",
+          "was": "Bestätigung der Kündigung durch den Anbieter",
+          "grundlage": "§ 312k BGB"
+        },
+        {
+          "wert": "2 Jahre",
+          "was": "Maximale Bindung durch AGB-Laufzeit",
+          "grundlage": "§ 309 Nr. 9 Buchst. a BGB"
+        },
+        {
+          "wert": "1 Monat",
+          "was": "Höchstfrist für Kündigung des verlängerten Vertrags / Frist vor Ablauf",
+          "grundlage": "§ 309 Nr. 9 Buchst. b, c BGB"
+        }
+      ],
+      "achtung": [
+        "Der Kündigungsbutton gilt nicht für Finanzdienstleistungen (Ausnahme in § 312k).",
+        "Der Button muss mit nichts anderem beschriftet sein als den vorgegebenen Wörtern (oder gleichwertig).",
+        "Fehlt der Button, ist jederzeitige Kündigung ohne Frist möglich (§ 312k Abs. 6 BGB).",
+        "Bei „kostenlos“-Angeboten mit versteckten Abos: Bestellbutton und Preis genau prüfen."
+      ],
+      "fach_html": "<h3>Kündigungsbutton, § 312k BGB</h3><p>§ 312k BGB gilt für Verbraucherverträge im elektronischen Geschäftsverkehr über Dauerschuldverhältnisse; Finanzdienstleistungen und Verträge mit strengeren Kündigungsformen sind ausgenommen. Der Unternehmer muss eine Schaltfläche mit nichts anderem als „Verträge hier kündigen“ und auf der Bestätigungsseite eine Schaltfläche mit „jetzt kündigen“ bereitstellen und die Kündigung sofort elektronisch in Textform mit Inhalt, Datum, Uhrzeit bestätigen. Nach § 312k Abs. 6 kann der Verbraucher bei fehlenden Schaltflächen jederzeit ohne Kündigungsfrist kündigen.</p><h3>Laufzeiten in AGB, § 309 Nr. 9 BGB</h3><p>Die Regel gilt nur für AGB in Verträgen über die regelmäßige Lieferung von Waren oder die regelmäßige Erbringung von Dienst- oder Werkleistungen. Unwirksam sind eine den anderen Vertragsteil länger als zwei Jahre bindende Laufzeit, eine bindende stillschweigende Verlängerung, es sei denn, der Vertrag wird nur auf unbestimmte Zeit verlängert und der Kunde kann jederzeit mit höchstens einem Monat Frist kündigen, sowie eine längere Kündigungsfrist als einen Monat vor Ablauf der zunächst vorgesehenen Vertragsdauer.</p><h3>Kostenfalle, § 312j BGB</h3><p>Nach § 312j Abs. 3 BGB muss die Bestell-Schaltfläche mit „zahlungspflichtig bestellen“ oder einer entsprechend eindeutigen Formulierung beschriftet sein. Nach Abs. 4 kommt sonst kein Vertrag zustande.</p>",
+      "zustaendig": [
+        "Anbieter (Adressat der Kündigung)",
+        "Verbraucherzentrale",
+        "Amtsgericht"
+      ],
+      "belege": [
+        "gesetze-im-internet.de, § 312k BGB, abgerufen 20.09.2026",
+        "gesetze-im-internet.de, § 309 BGB, abgerufen 20.09.2026",
+        "Noerr, Umsetzungsgesetz Widerrufsbutton (Vergleich Kündigungsbutton), abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "widerrufsrecht",
+        "telefonwerbung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "telefonwerbung",
+      "kategorie": "vertraege",
+      "titel": "Telefonwerbung und unerwünschte Anrufe",
+      "icon": "📞",
+      "teaser": "Werbeanrufe an Verbraucher brauchen deren vorherige ausdrückliche Einwilligung. Verstöße kann die Bundesnetzagentur mit Bußgeld ahnden.",
+      "schlagworte": [
+        "Telefonwerbung",
+        "Cold Call",
+        "Einwilligung",
+        "Bundesnetzagentur",
+        "Bußgeld",
+        "Gewinnspiel",
+        "Anrufmaschine",
+        "§ 7 UWG"
+      ],
+      "kurz_html": "<p>Firmen dürfen Sie nicht zu Werbezwecken anrufen, wenn Sie nicht vorher ausdrücklich zugestimmt haben.</p><ul><li>Das gilt auch für automatische Anrufe, Fax und E-Mail-Werbung.</li><li>Firmen müssen Ihre Einwilligung dokumentieren und aufbewahren.</li><li>Die Bundesnetzagentur kann hohe Bußgelder verhängen.</li></ul><p>Sagen Sie am Telefon nichts verbindlich zu. Verträge am Telefon können Sie oft widerrufen.</p>",
+      "schritte": [
+        {
+          "titel": "Nichts bestätigen",
+          "text": "Kein „Ja“ am Telefon, keine Daten nennen."
+        },
+        {
+          "titel": "Anruf notieren",
+          "text": "Datum, Uhrzeit, angezeigte Nummer, Firma, Inhalt."
+        },
+        {
+          "titel": "Bei der Bundesnetzagentur melden",
+          "text": "Beschwerde für Telefonwerbung. Die Anleitung finden Sie auf bundesnetzagentur.de."
+        },
+        {
+          "titel": "Vertrag prüfen",
+          "text": "Kam ein Vertrag zustande? Dann widerrufen (siehe Seite Widerruf)."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "bis 300.000 €",
+          "was": "Bußgeld bei unerlaubter Telefonwerbung",
+          "grundlage": "§ 20 Abs. 1 Nr. 1 i. V. m. Abs. 2 UWG"
+        },
+        {
+          "wert": "bis 50.000 €",
+          "was": "Bußgeld bei Dokumentationsverstößen",
+          "grundlage": "§ 20 Abs. 1 Nr. 2 UWG"
+        },
+        {
+          "wert": "5 Jahre",
+          "was": "Aufbewahrung der Einwilligungsdokumentation",
+          "grundlage": "§ 7a Abs. 2 UWG"
+        }
+      ],
+      "achtung": [
+        "Rufnummernunterdrückung bei Werbeanrufen ist verboten (§ 15 Abs. 2 TDDDG); Bußgeld bis 300.000 € (§ 28 Abs. 1 Nr. 9, Abs. 2 TDDDG).",
+        "Gewinnspiel-Teilnahme ist keine Einwilligung in Werbeanrufe für andere Firmen.",
+        "Bußgelder gehen an den Staat, nicht an Sie. Schadenersatz ist eigene Frage."
+      ],
+      "fach_html": "<h3>Rechtsgrundlage</h3><p>§ 7 Abs. 2 Nr. 1 UWG: Eine unzumutbare Belästigung ist stets anzunehmen bei Werbung mit einem Telefonanruf gegenüber einem Verbraucher ohne dessen vorherige ausdrückliche Einwilligung. Nr. 2 erfasst automatische Anrufmaschinen, Fax und elektronische Post ohne vorherige ausdrückliche Einwilligung. § 7a UWG verlangt die Dokumentation der Einwilligung; die Aufbewahrungsfrist beträgt nach § 7a Abs. 2 UWG fünf Jahre.</p><h3>Durchsetzung</h3><p>Nach § 20 Abs. 1 Nr. 1 i. V. m. Abs. 2 UWG drohen bis zu 300.000 Euro, nach Nr. 2 bis zu 50.000 Euro; zuständig ist die Bundesnetzagentur (§ 20 Abs. 3 UWG). Wie genau die Beschwerde einzureichen ist, war auf der abgerufenen Seite nicht ausgeführt; siehe bundesnetzagentur.de.</p>",
+      "zustaendig": [
+        "Bundesnetzagentur (Beschwerde Telefonwerbung)",
+        "Verbraucherzentrale",
+        "Wettbewerbszentrale und Verbände (Abmahnung)"
+      ],
+      "belege": [
+        "gesetze-im-internet.de, § 7 UWG, abgerufen 20.09.2026",
+        "Bundesnetzagentur, Telefonwerbung, abgerufen 20.09.2026",
+        "Bundesnetzagentur, Bußgelder unerlaubte Telefonwerbung (Suchergebnis), abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "datenschutz-werbung",
+        "widerrufsrecht"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "mahnung-inkasso-schufa",
+      "kategorie": "geld",
+      "titel": "Mahnung, Inkasso und Schufa",
+      "icon": "📬",
+      "teaser": "Zahlen Sie nicht blind. Prüfen Sie Forderung, Mahnung und Inkasso. Bei Schufa-Einträgen haben Sie Auskunftsrecht.",
+      "schlagworte": [
+        "Mahnung",
+        "Inkasso",
+        "Verzug",
+        "Schufa",
+        "Selbstauskunft",
+        "Mahnbescheid",
+        "Forderung prüfen",
+        "Datenkopie"
+      ],
+      "kurz_html": "<p>Eine Rechnung oder Mahnung bedeutet nicht automatisch, dass die Forderung stimmt. Prüfen Sie, ob Sie den Vertrag geschlossen haben und ob der Betrag richtig ist.</p><ul><li>Lassen Sie sich die Forderung belegen.</li><li>Bezahlen Sie berechtigte Forderungen, bevor Kosten steigen.</li><li>Fordern Sie eine kostenlose Schufa-Datenkopie an.</li><li>Falsche Einträge können Sie korrigieren lassen.</li></ul>",
+      "schritte": [
+        {
+          "titel": "Prüfen",
+          "text": "Vertrag, Rechnung, Fälligkeit, Betrag, Absender."
+        },
+        {
+          "titel": "Schriftlich widersprechen, wenn falsch",
+          "text": "Begründen Sie kurz, senden Sie per Einschreiben oder mit Nachweis."
+        },
+        {
+          "titel": "Selbstauskunft holen",
+          "text": "Kostenlose Datenkopie nach Art. 15 DSGVO über meineschufa.de."
+        },
+        {
+          "titel": "Beratung nutzen",
+          "text": "Verbraucherzentrale oder Schuldnerberatung."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "30 Tage",
+          "was": "Spätestens Verzug bei Entgeltforderung nach Fälligkeit und Zugang der Rechnung (gegenüber Verbrauchern nur bei besonderem Hinweis auf die Verzugsfolgen in der Rechnung)",
+          "grundlage": "§ 286 Abs. 3 BGB"
+        },
+        {
+          "wert": "3 Jahre (in Teilfällen 18 Monate)",
+          "was": "Negative Schufa-Einträge in der Regel nach Erledigung löschen; 18 Monate bei Begleichung binnen 100 Tagen nach Einmeldung (Verhaltensregeln)",
+          "grundlage": "Verbraucherzentrale; BGH 18.12.2025 – I ZR 97/25"
+        },
+        {
+          "wert": "6 Monate",
+          "was": "Speicherung der Restschuldbefreiung",
+          "grundlage": "Angabe Verbraucherzentrale"
+        }
+      ],
+      "achtung": [
+        "Mahnbescheide haben eigene kurze Widerspruchsfrist. Frist auf dem Schreiben lesen und nicht ignorieren.",
+        "Nur Vertragspartner der Schufa dürfen Schulden melden; private Gläubiger wie Vermieter nicht.",
+        "Während eine Eintragung geklärt wird, muss die Schufa sie sperren (Angabe VZ).",
+        "Die 18-Monats-Löschfrist gilt nur in Teilfällen (Begleichung binnen 100 Tagen nach Einmeldung)."
+      ],
+      "fach_html": "<h3>Verzug, § 286 BGB</h3><p>Nach § 286 Abs. 1 BGB kommt der Schuldner durch eine Mahnung, die nach Fälligkeit erfolgt, in Verzug. Nach § 286 Abs. 3 kommt der Schuldner einer Entgeltforderung spätestens in Verzug, wenn er nicht innerhalb von 30 Tagen nach Fälligkeit und Zugang einer Rechnung oder gleichwertigen Zahlungsaufstellung leistet. Gegenüber Verbrauchern gilt das nur, wenn auf die Verzugsfolgen in der Rechnung besonders hingewiesen wurde (§ 286 Abs. 3 S. 1 BGB).</p><h3>Schufa</h3><p>Nach der Verbraucherzentrale ist bei der Schufa und jeder anderen Auskunftei eine kostenlose Selbstauskunft möglich (Datenkopie nach Art. 15 DSGVO über meineschufa.de). Negative Einträge müssen in der Regel drei Jahre nach Erledigung gelöscht werden, in Teilfällen nach 18 Monaten (Verhaltensregeln: Begleichung binnen 100 Tagen nach Einmeldung). Der BGH (18.12.2025 – I ZR 97/25) bestätigt die 3-Jahres-Orientierung (Quelle: verbraucherzentrale.de, BGH-Pressemitteilung 233/2025). Die Erteilung der Restschuldbefreiung darf nur sechs Monate gespeichert bleiben. Bei falschen Einträgen: Schufa und Gläubiger zur Richtigstellung auffordern.</p><h3>Inkassokosten</h3><p>Darlegungs- und Informationspflichten: §§ 13a, 13b RDG. Erstattungsfähigkeit: § 13e RDG. Die Vergütung richtet sich nach dem RVG. Wenden Sie sich bei überhöhten Kosten an die Verbraucherzentrale.</p>",
+      "zustaendig": [
+        "Gläubiger / Inkassounternehmen",
+        "Schufa (Auskunft, Korrektur)",
+        "Verbraucherzentrale, Schuldnerberatung"
+      ],
+      "belege": [
+        "gesetze-im-internet.de, § 286 BGB, abgerufen 20.09.2026",
+        "Verbraucherzentrale, Was tun bei einem Schufa-Eintrag?, abgerufen 20.09.2026",
+        "Suchergebnis zu Schufa-Selbstauskunft (Art. 15 DSGVO), abgerufen 20.09.2026\", \"BGH-Pressemitteilung 233/2025 (Urteil 18.12.2025 – I ZR 97/25); verbraucherzentrale.de"
+      ],
+      "siehe_auch": [
+        "kredite-ratenkauf-insolvenz",
+        "beratung-anlaufstellen"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "onlinekauf-betrug",
+      "kategorie": "kaufen",
+      "titel": "Onlinekauf und Betrug",
+      "icon": "🛑",
+      "teaser": "Fake-Shops erkennen und mit sicherer Zahlungsart bezahlen. Bei Betrug schnell Geld zurückfordern.",
+      "schlagworte": [
+        "Fake-Shop",
+        "Zahlungsart",
+        "Chargeback",
+        "Vorkasse",
+        "PayPal Käuferschutz",
+        "Kreditkarte",
+        "Lastschrift",
+        "Betrug"
+      ],
+      "kurz_html": "<p>Betrügerische Online-Shops locken mit sehr niedrigen Preisen. Oft können Sie nur per Vorkasse zahlen.</p><ul><li>Kauf auf Rechnung ist am sichersten: Sie zahlen nach Erhalt.</li><li>Vorkasse per Überweisung können Sie kaum zurückholen.</li><li>Bei Kreditkarte gibt es Rückbuchung (Chargeback).</li><li>Zahlungsarten, die vorher angezeigt waren, verschwinden im Kauf: Warnsignal.</li></ul>",
+      "schritte": [
+        {
+          "titel": "Shop prüfen",
+          "text": "Impressum, Bewertungen, Preise, Zahlungsarten vorher prüfen."
+        },
+        {
+          "titel": "Sicher zahlen",
+          "text": "Rechnung, Lastschrift, Kreditkarte oder PayPal mit Käuferschutz wählen."
+        },
+        {
+          "titel": "Bei Betrug schnell handeln",
+          "text": "Zahlungsdienstleister oder Bank sofort informieren und Rückbuchung verlangen."
+        },
+        {
+          "titel": "Anzeige und Beratung",
+          "text": "Polizei-Onlinewache und Verbraucherzentrale."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "8 Wochen",
+          "was": "Rückbuchung SEPA-Lastschrift",
+          "grundlage": "§ 675x Abs. 4, § 675u, § 676b Abs. 2 BGB"
+        },
+        {
+          "wert": "120 Tage",
+          "was": "Chargeback bei Kreditkarte",
+          "grundlage": "keine gesetzliche Grundlage; folgt aus Kartenorganisations-Regelwerk/Bank-AGB"
+        },
+        {
+          "wert": "180 Tage",
+          "was": "PayPal-Käuferschutz-Frist",
+          "grundlage": "PayPal-Nutzungsbedingungen/Hilfe (ab Zahlungsdatum)"
+        }
+      ],
+      "achtung": [
+        "Käuferschutz gilt nur für „Waren und Dienstleistungen“, nicht für „Freunde und Familie“.",
+        "Fristen der Zahlungsdienstleister können abweichen. Bei Zweifeln dort nachlesen.",
+        "Mit Vorkasse auf fremdes Konto ist das Geld meist verloren.",
+        "Geben Sie niemals TAN oder Kartendaten an Dritte weiter."
+      ],
+      "fach_html": "<h3>Zahlungsarten</h3><p>Nach Angaben von Verbraucherzentralen ist Kauf auf Rechnung am sichersten, gefolgt von PayPal mit Käuferschutz und Kreditkarte mit Chargeback. Bei Vorkasse lässt sich die Summe bei ausbleibender Lieferung nicht einfach zurückbuchen. Ein typisches Warnzeichen: Zahlungsarten wie PayPal oder Rechnung werden beworben, erst im Checkout verschwinden sie und es bleibt die Vorabüberweisung auf ein fremdes Konto.</p><h3>Rückbuchungsfristen</h3><p>SEPA-Lastschrift, 8 Wochen: § 675x Abs. 4 BGB (autorisierte Zahlung), § 675u BGB (nicht autorisierte Zahlung); für nicht autorisierte Zahlungen gilt die Anzeige binnen 13 Monaten (§ 676b Abs. 2 BGB). Kreditkarten-Chargeback, 120 Tage: keine gesetzliche Grundlage, folgt aus dem Regelwerk der Kartenorganisationen bzw. den Bank-AGB. PayPal, 180 Tage ab Zahlungsdatum (PayPal-Nutzungsbedingungen/Hilfe); bei „nicht wie beschrieben“ gilt zusätzlich eine 30-Tage-Regel ab Lieferung.</p><h3>Rechtlich</h3><p>Ein Vertrag mit einem Fake-Shop kommt oft nicht wie beworben zustande; Rückforderung und Strafanzeige sind möglich. Konkrete Rechtsgrundlagen (Anfechtung, Betrug § 263 StGB) wurden nicht abgerufen.</p>",
+      "zustaendig": [
+        "Zahlungsdienstleister / Bank",
+        "Polizei (Anzeige)",
+        "Verbraucherzentrale"
+      ],
+      "belege": [
+        "Verbraucherzentrale Hamburg, Fieser PayPal-Trick in Fake Shops (Suchergebnis), abgerufen 20.09.2026",
+        "Verbraucherzentrale Finanzen und Versicherungen, Fake-Shops erkennen 2026 (Suchergebnis), abgerufen 20.09.2026",
+        "gesetze-im-internet.de, § 357 BGB, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "widerrufsrecht",
+        "beratung-anlaufstellen"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "reisen-fluggastrechte",
+      "kategorie": "reisen-daten",
+      "titel": "Reisen und Fluggastrechte",
+      "icon": "✈️",
+      "teaser": "Bei Verspätung, Annullierung oder Überbuchung können Fluggäste 250, 400 oder 600 Euro erhalten. Reform kommt frühestens 2027.",
+      "schlagworte": [
+        "Fluggastrechte",
+        "Flugverspätung",
+        "Entschädigung",
+        "Annullierung",
+        "Verordnung 261/2004",
+        "250 Euro",
+        "600 Euro",
+        "Reform"
+      ],
+      "kurz_html": "<p>Wenn Ihr Flug stark verspätet ist oder ausfällt, können Sie Entschädigung verlangen. Die Höhe hängt von der Strecke ab: 250, 400 oder 600 Euro.</p><ul><li>Grundlage ist die EU-Verordnung 261/2004.</li><li>Sie brauchen Ihre Buchungsbestätigung und die Flugdaten.</li><li>Schreiben Sie zuerst die Fluggesellschaft an.</li></ul><p>Eine EU-Reform ist auf dem Weg, gilt aber noch nicht. Bis dahin gilt das bisherige Recht.</p>",
+      "schritte": [
+        {
+          "titel": "Belege sammeln",
+          "text": "Buchung, Bordkarte, tatsächliche Ankunftszeit, Mitteilungen der Airline."
+        },
+        {
+          "titel": "Airline anschreiben",
+          "text": "Entschädigung schriftlich verlangen, Frist setzen."
+        },
+        {
+          "titel": "Schlichtung nutzen",
+          "text": "Bei Ablehnung: Schlichtungsstelle für den Luftverkehr oder Universalschlichtungsstelle prüfen."
+        },
+        {
+          "titel": "Beratung holen",
+          "text": "Verbraucherzentrale."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "3 Stunden",
+          "was": "Ankunftsverspätung als Schwelle für Ausgleich (derzeit und nach Reform)",
+          "grundlage": "VO (EG) 261/2004; vzbv zur Reform"
+        },
+        {
+          "wert": "250 / 400 / 600 €",
+          "was": "Ausgleichszahlung je nach Entfernung",
+          "grundlage": "VO (EG) 261/2004"
+        },
+        {
+          "wert": "voraussichtlich erst 2027",
+          "was": "Inkrafttreten der Reform; Amtsblattveröffentlichung stand im Juli 2026 aus",
+          "grundlage": "EP-Zustimmung 07.07.2026 (646:12)"
+        }
+      ],
+      "achtung": [
+        "Kein Anspruch bei außergewöhnlichen Umständen (nicht im Detail geprüft).",
+        "Reform: Antragsfrist 9 Monate und Reaktion der Airline in 30 Tagen stammen nur aus einer österreichischen Sekundärquelle und sind ungeprüft; noch nicht geltend.",
+        "Verjährung in Deutschland: regelmäßig 3 Jahre (§§ 195, 199 BGB, ständige Rechtsprechung des BGH zu VO 261/2004).",
+        "Pauschalreisen (§§ 651a ff. BGB) folgen anderen Regeln; hier nicht behandelt."
+      ],
+      "fach_html": "<h3>Geltendes Recht</h3><p>Die Verordnung (EG) Nr. 261/2004 sieht Ausgleichsansprüche bei Nichtbeförderung, Annullierung und großer Verspätung vor. Nach Angaben zu den laufenden Reformplänen bleiben die Beträge von 250, 400 und 600 Euro und die Drei-Stunden-Schwelle bestehen. Der Volltext der Verordnung wurde nicht einzeln abgerufen; Details wie Ausnahmen und Streckenklassen bitte bei EUR-Lex prüfen.</p><h3>Reform 2026</h3><p>Das Europäische Parlament stimmte der Reform am 07.07.2026 zu (646:12). Die Amtsblattveröffentlichung stand im Juli 2026 aus; Inkrafttreten voraussichtlich erst 2027. Nach dem vzbv bestätigt: Schwelle von 3 Stunden Verspätung, elektronische Information binnen 96 Stunden. Antragsfrist 9 Monate und Reaktion der Airline binnen 30 Tagen sind nur aus einer österreichischen Sekundärquelle bekannt und ungeprüft. Solange nicht veröffentlicht, gilt das bisherige Recht.</p>",
+      "zustaendig": [
+        "Fluggesellschaft",
+        "Schlichtungsstelle (Luftverkehr) / Universalschlichtungsstelle",
+        "Verbraucherzentrale"
+      ],
+      "belege": [
+        "Bundeskanzleramt Österreich, EU-Fluggastrechte werden vereinfacht, präzisiert und gestärkt, abgerufen 20.09.2026",
+        "EUR-Lex, Verordnung (EG) Nr. 261/2004 (Suchergebnis), abgerufen 20.09.2026",
+        "EUR-Lex, P10_TA(2026)0009 Fluggastrechte (Suchergebnis), abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "schlichtung-klage",
+        "beratung-anlaufstellen"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "energie-tarifwechsel",
+      "kategorie": "vertraege",
+      "titel": "Energieversorger, Tarifwechsel und Preiserhöhungen",
+      "icon": "💡",
+      "teaser": "Bei Preiserhöhung des Energielieferanten können Sie ohne Frist kündigen. Der Lieferantenwechsel dauert höchstens drei Wochen.",
+      "schlagworte": [
+        "Strom",
+        "Gas",
+        "Preiserhöhung",
+        "Sonderkündigungsrecht",
+        "Lieferantenwechsel",
+        "Tarifwechsel",
+        "Energiepreise",
+        "§ 41 EnWG"
+      ],
+      "kurz_html": "<p>Energieversorger müssen Preiserhöhungen rechtzeitig ankündigen. Bei Erhöhung dürfen Sie den Vertrag ohne Kündigungsfrist beenden.</p><ul><li>Haushaltskunden werden spätestens einen Monat vor der Änderung informiert.</li><li>Sie können zu einem anderen Anbieter wechseln.</li><li>Der Wechselvorgang darf höchstens drei Wochen dauern.</li></ul><p>Vergleichen Sie Tarife, bevor Sie kündigen. Sichern Sie sich zuerst den neuen Vertrag.</p>",
+      "schritte": [
+        {
+          "titel": "Ankündigung prüfen",
+          "text": "Kam das Schreiben rechtzeitig? Wann gilt der neue Preis?"
+        },
+        {
+          "titel": "Tarife vergleichen",
+          "text": "Nutzen Sie unabhängige Vergleiche und die Verbraucherzentrale."
+        },
+        {
+          "titel": "Neuen Vertrag abschließen",
+          "text": "Der neue Anbieter organisiert meist die Kündigung."
+        },
+        {
+          "titel": "Kündigung bestätigen lassen",
+          "text": "Der alte Anbieter muss den Zugang in Textform bestätigen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "1 Monat",
+          "was": "Ankündigung von Preisänderungen bei Haushaltskunden",
+          "grundlage": "§ 41 Abs. 5 EnWG"
+        },
+        {
+          "wert": "ohne Frist",
+          "was": "Kündigung bei Preis-/Vertragsänderung zum Änderungszeitpunkt",
+          "grundlage": "§ 41 Abs. 5 EnWG"
+        },
+        {
+          "wert": "3 Wochen",
+          "was": "Höchstdauer Lieferantenwechsel",
+          "grundlage": "§ 20a Abs. 2 EnWG"
+        }
+      ],
+      "achtung": [
+        "Preisänderung und Kündigungsrecht: § 41 Abs. 5 EnWG.",
+        "Ab 1. Januar 2026: technischer Wechsel binnen 24 Stunden und an Werktagen möglich (§ 20a Abs. 2 EnWG).",
+        "Fallen Sie nicht auf Haustürverkäufer herein. Verträge prüfen, ggf. widerrufen.",
+        "Grundversorgung und Ersatzversorgung sind hier nicht behandelt."
+      ],
+      "fach_html": "<h3>Preisänderung, § 41 Abs. 5 EnWG</h3><p>Der Auszug lautet: „Über Preisänderungen ist spätestens zwei Wochen, bei Haushaltskunden spätestens einen Monat, vor Eintritt der beabsichtigten Änderung zu unterrichten.“ Übt der Lieferant ein Recht zur Änderung der Preise oder sonstigen Vertragsbedingungen aus, kann der Letztverbraucher den Vertrag ohne Einhaltung einer Frist zum Zeitpunkt des Wirksamwerdens kündigen. Verträge müssen Zusammenfassungen mit Kündigungsfrist und Mindestvertragslaufzeit enthalten; der Zugang der Kündigung ist in Textform zu bestätigen.</p><h3>Wechsel, § 20a EnWG</h3><p>Der neue Lieferant hat unverzüglich in Textform zu bestätigen, ob und wann er liefern kann. Das Wechselverfahren darf drei Wochen ab Zugang der Anmeldung zur Netznutzung beim Netzbetreiber nicht überschreiten. Zusätzlich: ab 1. Januar 2026 technischer Wechsel innerhalb von 24 Stunden und an Werktagen (§ 20a Abs. 2 EnWG).</p>",
+      "zustaendig": [
+        "Energielieferant",
+        "Verbraucherzentrale (Energieberatung)",
+        "Schlichtungsstelle Energie (nicht einzeln geprüft)"
+      ],
+      "belege": [
+        "gesetze-im-internet.de, § 41 EnWG (Auszug), abgerufen 20.09.2026",
+        "gesetze-im-internet.de, § 20a EnWG, abgerufen 20.09.2026",
+        "Verbraucherzentrale, Beratungsübersicht (verbraucherzentrale.de/beratung), abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "abofallen-kuendigungsbutton",
+        "schlichtung-klage"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "konto-basiskonto",
+      "kategorie": "vertraege",
+      "titel": "Konto, Basiskonto und Bankgebühren",
+      "icon": "🏦",
+      "teaser": "Wer rechtmäßig in der EU lebt, hat Anspruch auf ein Basiskonto. Die Bank muss binnen zehn Geschäftstagen ein Angebot machen.",
+      "schlagworte": [
+        "Basiskonto",
+        "Girokonto",
+        "Zahlungskontengesetz",
+        "Bankgebühren",
+        "Kontowechsel",
+        "Ablehnung",
+        "Asylsuchende",
+        "§ 31 ZKG"
+      ],
+      "kurz_html": "<p>Auch wer kein normales Girokonto bekommt, hat Anspruch auf ein Basiskonto. Das gilt für Verbraucher mit rechtmäßigem Aufenthalt in der EU. Auch Menschen ohne festen Wohnsitz, Asylsuchende und Geduldete gehören dazu.</p><ul><li>Sie stellen den Antrag bei einer Bank, die Konten für Verbraucher anbietet.</li><li>Die Bank muss unverzüglich, spätestens in zehn Geschäftstagen den Vertrag anbieten.</li><li>Die Bank muss den Antragseingang schriftlich bestätigen.</li></ul>",
+      "schritte": [
+        {
+          "titel": "Antrag stellen",
+          "text": "Schriftlich oder in der Filiale, Antragseingang bestätigen lassen."
+        },
+        {
+          "titel": "Nachweise beilegen",
+          "text": "Ausweis oder Ersatzpapiere, Aufenthaltsnachweis; Details erfragen."
+        },
+        {
+          "titel": "Frist notieren",
+          "text": "Zehn Geschäftstage ab Eingang."
+        },
+        {
+          "titel": "Bei Ablehnung",
+          "text": "Verbraucherzentrale oder Schlichtung; bei Ablehnung Aufsicht prüfen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "10 Geschäftstage",
+          "was": "Angebot des Basiskontovertrags nach Antragseingang",
+          "grundlage": "§ 31 Abs. 2 ZKG"
+        }
+      ],
+      "achtung": [
+        "Gebühren für das Basiskonto müssen angemessen sein; die Höhe wurde hier nicht geprüft.",
+        "Ablehnungsgründe: §§ 34–37 ZKG.",
+        "Ohne Identitätsnachweis kann der Antrag scheitern: Ersatzpapiere klären.",
+        "Diese Seite ist keine Rechtsberatung."
+      ],
+      "fach_html": "<h3>Anspruch, § 31 ZKG</h3><p>Nach § 31 Abs. 1 ZKG hat ein Institut, das Zahlungskonten für Verbraucher anbietet, mit einem Berechtigten einen Basiskontovertrag zu schließen, wenn dessen Antrag die Voraussetzungen des § 33 erfüllt. Berechtigt sind Verbraucher mit rechtmäßigem Aufenthalt in der EU einschließlich Personen ohne festen Wohnsitz, Asylsuchender und Personen ohne Aufenthaltstitel, die nicht abgeschoben werden können. Nach Abs. 2 ist der Vertrag unverzüglich, spätestens innerhalb von zehn Geschäftstagen nach Antragseingang anzubieten; der Eingang ist schriftlich mit Kopie zu bestätigen.</p><h3>Rechtsbehelf</h3><p>Verwaltungsverfahren bei der BaFin (§ 48 ZKG); bei unrechtmäßiger Ablehnung kann die BaFin eine Anordnung treffen (§ 49 ZKG).</p><h3>Nicht geprüft</h3><p>Preisregeln, Kündigung durch die Bank, Kontowechselservice und die Gebührentransparenz der Institute wurden in dieser Recherche nicht abgerufen.</p>",
+      "zustaendig": [
+        "Kreditinstitut",
+        "BaFin (Verwaltungsverfahren bei Ablehnung, § 48 ZKG)",
+        "Verbraucherzentrale",
+        "Schlichtungsstelle der Bank (nicht einzeln geprüft)"
+      ],
+      "belege": [
+        "gesetze-im-internet.de, § 31 ZKG, abgerufen 20.09.2026",
+        "Verbraucherzentrale, Beratung bei den Verbraucherzentralen, abgerufen 20.09.2026",
+        "Bundesamt für Justiz, Liste der Verbraucherschlichtungsstellen (Suchergebnis), abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "mahnung-inkasso-schufa",
+        "beratung-anlaufstellen"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "kredite-ratenkauf-insolvenz",
+      "kategorie": "geld",
+      "titel": "Kredite, Ratenkauf und Verbraucherinsolvenz",
+      "icon": "💳",
+      "teaser": "Ab 20.11.2026 gelten neue Kreditregeln, auch für Buy now, pay later. Bei Überschuldung hilft die Insolvenz mit drei Jahren Abtretungsfrist.",
+      "schlagworte": [
+        "Verbraucherkredit",
+        "Ratenkauf",
+        "Buy now pay later",
+        "Kreditwürdigkeitsprüfung",
+        "Verbraucherinsolvenz",
+        "Restschuldbefreiung",
+        "Schuldnerberatung",
+        "Widerruf Kredit"
+      ],
+      "kurz_html": "<p>Kredite und Ratenzahlung kosten Geld. Prüfen Sie Zinsen und Gesamtbetrag. Neue Regeln kommen im November 2026.</p><ul><li>Auch kleine Kredite bis 200 Euro und Buy-now-pay-later werden erfasst.</li><li>Sie haben ein Recht auf menschliche Überprüfung, wenn eine automatisierte Kreditprüfung entscheidet.</li><li>Das „ewige“ Widerrufsrecht wird auf höchstens 12 Monate und 14 Tage begrenzt.</li></ul><p>Bei Überschuldung: zuerst Schuldnerberatung. Siehe auch die Seiten zu Armut und Schulden.</p>",
+      "schritte": [
+        {
+          "titel": "Gesamtkosten prüfen",
+          "text": "Effektivzins, Laufzeit, Gesamtbetrag vergleichen."
+        },
+        {
+          "titel": "Nicht überschulden",
+          "text": "Raten nur, wenn sie sicher zu zahlen sind."
+        },
+        {
+          "titel": "Bei Zahlungsproblemen früh handeln",
+          "text": "Gläubiger ansprechen, Schuldnerberatung."
+        },
+        {
+          "titel": "Insolvenz erwägen",
+          "text": "Nur mit Beratung; Restschuldbefreiung nach dem Verfahren."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "20.11.2026",
+          "was": "Anwendungszeitpunkt der Verbraucherkreditrichtlinie 2023/2225",
+          "grundlage": "Art. 48 Abs. 2 RL (EU) 2023/2225; Umsetzungsgesetz BGBl. 2026 I Nr. 139 v. 18.05.2026"
+        },
+        {
+          "wert": "12 Monate und 14 Tage",
+          "was": "Maximalfrist Widerruf bei fehlerhaften Informationen (neu)",
+          "grundlage": "Angabe Bundesregierung"
+        },
+        {
+          "wert": "3 Jahre",
+          "was": "Abtretungsfrist im Insolvenzverfahren",
+          "grundlage": "§ 287 Abs. 2 InsO"
+        }
+      ],
+      "achtung": [
+        "Das Umsetzungsgesetz wurde am 18.05.2026 verkündet (BGBl. 2026 I Nr. 139); Inkrafttreten 20.11.2026.",
+        "Die neuen Regeln gelten nicht rückwirkend für alte Verträge (nicht geprüft).",
+        "Insolvenz hat Folgen (Schufa, Pflichten). Nicht ohne Beratung.",
+        "Textform statt notarieller Beglaubigung bei Allgemein-Verbraucherdarlehen laut Bundesregierung."
+      ],
+      "fach_html": "<h3>Neue Kreditregeln 2026</h3><p>Laut Bundesregierung werden Kleinkredite bis 200 Euro, zins- und gebührenfreie Kredite, Kredite mit einer Laufzeit bis zu drei Monaten sowie „Buy now, pay later“-Modelle in die verbraucherschützenden Regelungen einbezogen. Das „ewige Widerrufsrecht“ wird abgeschafft; die Frist beschränkt sich auf maximal 12 Monate und 14 Tage bei fehlerhaften Informationen. Bei automatisierter Kreditwürdigkeitsprüfung besteht das Recht auf menschliche Überprüfung. Objektive Grenzen für sittenwidrig überhöhte Kreditzinsen werden gesetzlich festgeschrieben (Zahlenwerte hier nicht abgerufen). Die Verbraucherkreditbestimmungen gelten ab dem 20.11.2026 (verkündet BGBl. 2026 I Nr. 139 v. 18.05.2026).</p><h3>Verbraucherinsolvenz</h3><p>Nach § 287 Abs. 2 InsO ist dem Antrag die Erklärung beizufügen, dass der Schuldner seine pfändbaren Forderungen auf Bezüge für den Zeitraum von drei Jahren nach Eröffnung des Insolvenzverfahrens (Abtretungsfrist) an einen Treuhänder abtritt. Weitere Voraussetzungen des Verfahrens wurden hier nicht recherchiert.</p>",
+      "zustaendig": [
+        "Schuldnerberatungsstellen (anerkannte Stellen)",
+        "Verbraucherzentrale",
+        "Insolvenzgericht"
+      ],
+      "belege": [
+        "Bundesregierung, Richtlinie über Verbraucherkreditverträge umgesetzt, abgerufen 20.09.2026",
+        "Deutscher Bundestag, Bundestag beschließt Gesetz zu Verbraucherkrediten (kw16/2026), abgerufen 20.09.2026",
+        "gesetze-im-internet.de, § 287 InsO, abgerufen 20.09.2026",
+        "Noerr, Gesetz zur Umsetzung der Verbraucherkreditrichtlinie 2023 beschlossen, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "mahnung-inkasso-schufa",
+        "beratung-anlaufstellen"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "datenschutz-werbung",
+      "kategorie": "reisen-daten",
+      "titel": "Datenschutz und Werbung als Verbraucher",
+      "icon": "🔒",
+      "teaser": "Sie können Auskunft über Ihre Daten verlangen und Werbung widersprechen. Auskunfteien wie die Schufa müssen einmal jährlich kostenlos auskunften.",
+      "schlagworte": [
+        "Datenschutz",
+        "DSGVO",
+        "Auskunft",
+        "Werbewiderspruch",
+        "Schufa",
+        "Einwilligung",
+        "Cookies",
+        "Newsletter"
+      ],
+      "kurz_html": "<p>Firmen dürfen Ihre Daten nur nutzen, wenn ein Rechtsgrund besteht. Sie haben Rechte gegenüber Firmen.</p><ul><li>Sie können Auskunft über gespeicherte Daten verlangen.</li><li>Die Schufa gibt nach eigener Praxis einmal im Jahr kostenlos Auskunft; Art. 15 DSGVO kennt keine Jahresbegrenzung.</li><li>Werbeanrufe und Werbe-E-Mails brauchen Ihre ausdrückliche Einwilligung.</li><li>Sie können Einwilligungen widerrufen.</li></ul>",
+      "schritte": [
+        {
+          "titel": "Auskunft verlangen",
+          "text": "Schriftlich an den Verantwortlichen: Art. 15 DSGVO."
+        },
+        {
+          "titel": "Werbung widersprechen",
+          "text": "Schriftlich der Werbenutzung widersprechen."
+        },
+        {
+          "titel": "Einwilligungen widerrufen",
+          "text": "Newsletter, Cookie-Banner, Gewinnspiele."
+        },
+        {
+          "titel": "Beschwerde",
+          "text": "Bei Datenschutzbehörde oder Verbraucherzentrale melden."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "Kostenlose Auskunft (Schufa: einmal jährlich)",
+          "was": "Schufa-Datenkopie",
+          "grundlage": "Art. 15 Abs. 3 DSGVO kennt keine Jahresbegrenzung; Entgelt nur bei offenkundig unbegründeten oder exzessiven Anträgen (Art. 12 Abs. 5 DSGVO). „Einmal jährlich“ ist Schufa-Praxis laut Verbraucherzentrale."
+        }
+      ],
+      "achtung": [
+        "Rechtsgrundlagen und Antwortfristen (Art. 12, 15, 21 DSGVO) wurden hier nicht aus dem Gesetzestext abgerufen.",
+        "§ 7 UWG verlangt für Telefon-, Fax- und E-Mail-Werbung eine vorherige ausdrückliche Einwilligung.",
+        "Nicht auf dubiose „Datenlösch“-Angebote gegen Geld hereinfallen."
+      ],
+      "fach_html": "<h3>Auskunft</h3><p>Die Verbraucherzentrale nennt für die Schufa und jede andere Auskunftei die kostenlose Selbstauskunft über meineschufa.de mit „Datenkopie (nach Art. 15 DSGVO)“. Art. 15 Abs. 3 DSGVO kennt keine Jahresbegrenzung; ein Entgelt ist nur bei offenkundig unbegründeten oder exzessiven Anträgen zulässig (Art. 12 Abs. 5 DSGVO). „Einmal jährlich kostenlos“ ist die Praxis der Schufa nach Angabe der Verbraucherzentrale.</p><h3>Werbung</h3><p>§ 7 Abs. 2 Nr. 1 und 2 UWG: Telefonwerbung ohne vorherige ausdrückliche Einwilligung sowie Werbung mit automatischer Anrufmaschine, Fax oder elektronischer Post ohne vorherige ausdrückliche Einwilligung ist eine unzumutbare Belästigung.</p><h3>Nicht geprüft</h3><p>Widerspruchsrecht gegen Direktwerbung nach Art. 21 DSGVO, Antwortfrist des Verantwortlichen und Zuständigkeit der Landesdatenschutzbehörden wurden in dieser Recherche nicht abgerufen.</p>",
+      "zustaendig": [
+        "Verantwortliches Unternehmen",
+        "Landesdatenschutzbehörde",
+        "Verbraucherzentrale"
+      ],
+      "belege": [
+        "Verbraucherzentrale, Was tun bei einem Schufa-Eintrag?, abgerufen 20.09.2026",
+        "gesetze-im-internet.de, § 7 UWG, abgerufen 20.09.2026",
+        "Suchergebnis zu Schufa-Selbstauskunft, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "telefonwerbung",
+        "mahnung-inkasso-schufa"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "schlichtung-klage",
+      "kategorie": "durchsetzung",
+      "titel": "Verbraucherschlichtung und Klagemöglichkeiten",
+      "icon": "⚖️",
+      "teaser": "Erst Schlichtung, dann Klage. Für viele Betroffene gibt es Verbandsklagen (Abhilfeklage, Musterfeststellungsklage).",
+      "schlagworte": [
+        "Schlichtung",
+        "Universalschlichtungsstelle",
+        "Verbandsklage",
+        "Abhilfeklage",
+        "Musterfeststellungsklage",
+        "VDuG",
+        "Klage",
+        "Streitbeilegung"
+      ],
+      "kurz_html": "<p>Wenn der Händler nicht zahlt oder repariert, können Sie eine Schlichtungsstelle einschalten. Das Verfahren kostet Verbraucher in der Regel nichts.</p><ul><li>Die Universalschlichtungsstelle des Bundes ist zuständig, wenn keine andere Stelle zuständig ist.</li><li>Für viele Betroffene gleichzeitig gibt es Verbandsklagen.</li><li>Klageberechtigte Verbände erheben sie, nicht Einzelne.</li></ul>",
+      "schritte": [
+        {
+          "titel": "Unternehmen anschreiben",
+          "text": "Forderung schriftlich mit Frist."
+        },
+        {
+          "titel": "Schlichtungsstelle prüfen",
+          "text": "Branchenstelle oder Universalschlichtungsstelle."
+        },
+        {
+          "titel": "Verbandsklage prüfen",
+          "text": "Fragen Sie die Verbraucherzentrale, ob ein Verfahren läuft."
+        },
+        {
+          "titel": "Klage erwägen",
+          "text": "Nur nach Beratung. Kosten und Fristen prüfen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "kostenlos für Verbraucher (in der Regel)",
+          "was": "Verfahren vor der Universalschlichtungsstelle",
+          "grundlage": "§ 31 VSBG"
+        }
+      ],
+      "achtung": [
+        "Klagefristen und Verjährung im Blick behalten; Schlichtung kann die Verjährung hemmen (hier nicht geprüft).",
+        "Ob ein Verfahren läuft, klären Sie bei Verbraucherzentrale/Verbänden.",
+        "Kleine Unternehmen können nach dem VDuG als Verbraucher gelten (unter 10 Beschäftigten, bis 2 Mio. Euro)."
+      ],
+      "fach_html": "<h3>Schlichtung</h3><p>Die Universalschlichtungsstelle des Bundes wurde zum 1. Januar 2020 aus der Allgemeinen Verbraucherschlichtungsstelle in Kehl gebildet; § 29 VSBG regelt die Errichtung; Zuständigkeit und Verfahren regelt § 30 VSBG. Sie ist zuständig, wenn keine sektorspezifische Stelle zuständig ist. Kostenlos für Verbraucher nach § 31 VSBG: Die Gebühr trägt der Unternehmer; vom Verbraucher nur bei missbräuchlichem Antrag. Website: www.universalschlichtungsstelle.de.</p><h3>Verbandsklagen (VDuG)</h3><p>Das Verbraucherrechtedurchsetzungsgesetz (VDuG) erfasst bürgerliche Rechtsstreitigkeiten, die Ansprüche und Rechtsverhältnisse einer Vielzahl von Verbrauchern gegen einen Unternehmer betreffen. Klageberechtigte Stellen können Abhilfeklagen und Musterfeststellungsklagen erheben. Kleine Unternehmen gelten als Verbraucher, wenn sie weniger als 10 Personen beschäftigen und Jahresumsatz oder -bilanz 2 Millionen Euro nicht übersteigen. Die genaue Ausgestaltung von Abhilfeklage (Leistung, Zahlung) wurde hier nicht im Volltext geprüft. Anmeldung zum Verbandsklageregister: nach § 46 Abs. 1 VDuG bis drei Wochen nach Schluss der mündlichen Verhandlung (§ 193 BGB gilt nicht).</p>",
+      "zustaendig": [
+        "Universalschlichtungsstelle des Bundes",
+        "Branchenschlichtungsstellen (Liste Bundesamt für Justiz)",
+        "Klageberechtigte Verbände (Verbraucherzentralen)"
+      ],
+      "belege": [
+        "gesetze-im-internet.de, VDuG §§ 1, 46; VSBG §§ 29–31, abgerufen 20.09.2026",
+        "Universalschlichtungsstelle des Bundes, Schlichtung (Suchergebnis), abgerufen 20.09.2026",
+        "Bundesamt für Justiz, Liste der Verbraucherschlichtungsstellen (Suchergebnis), abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "beratung-anlaufstellen",
+        "gewaehrleistung-maengel"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "beratung-anlaufstellen",
+      "kategorie": "beratung",
+      "titel": "Beratung und Anlaufstellen",
+      "icon": "🤝",
+      "teaser": "Verbraucherzentralen in allen 16 Bundesländern beraten. Teils kostenlos, teils gegen Gebühr. Ergänzend: Bundesnetzagentur und Schlichtung.",
+      "schlagworte": [
+        "Verbraucherzentrale",
+        "Beratung",
+        "Kosten",
+        "Bundesnetzagentur",
+        "Schlichtungsstelle",
+        "Rechtsberatung",
+        "Rabatt Grundsicherungsgeld",
+        "Anlaufstellen"
+      ],
+      "kurz_html": "<p>Die Verbraucherzentralen beraten zu Kauf, Verträgen, Energie, Schulden und mehr. Es gibt sie in allen 16 Bundesländern.</p><ul><li>Beratung persönlich, am Telefon oder per Video.</li><li>Die Kosten unterscheiden sich je nach Bundesland und Thema.</li><li>Empfänger von Grundsicherungsgeld, BAföG oder Grundsicherung erhalten je nach Verbraucherzentrale Ermäßigung (nicht bundeseinheitlich, bitte erfragen).</li></ul><p>Bringen Sie Verträge, Rechnungen und Schriftverkehr mit.</p>",
+      "schritte": [
+        {
+          "titel": "Zuständige Zentrale finden",
+          "text": "Über verbraucherzentrale.de/beratung Ihr Bundesland wählen."
+        },
+        {
+          "titel": "Thema und Preis klären",
+          "text": "Preisliste der Landeszentrale lesen."
+        },
+        {
+          "titel": "Unterlagen bereitlegen",
+          "text": "Vertrag, Rechnungen, Mails, Fristen."
+        },
+        {
+          "titel": "Weitere Stellen nutzen",
+          "text": "Bundesnetzagentur (Telefonwerbung), Schlichtungsstellen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "16 Verbraucherzentralen",
+          "was": "Eine je Bundesland",
+          "grundlage": "verbraucherzentrale.de"
+        },
+        {
+          "wert": "Preise je Landeszentrale unterschiedlich",
+          "was": "Beratung mit Termin",
+          "grundlage": "nicht bundeseinheitlich, bitte erfragen"
+        },
+        {
+          "wert": "Ermäßigung möglich",
+          "was": "Für Empfänger von Grundsicherungsgeld, BAföG, Grundsicherung bei Nachweis; je Landeszentrale unterschiedlich, nicht bundeseinheitlich, bitte erfragen",
+          "grundlage": "Verbraucherzentralen"
+        }
+      ],
+      "achtung": [
+        "Preise und Angebote unterscheiden sich je Bundesland. Preise vorher erfragen.",
+        "Keine Rechtsberatung durch diese Website. Für Rechtsvertretung Anwalt.",
+        "Fristen im Auge behalten. Beratung erst kurz vor Fristablauf ist riskant."
+      ],
+      "fach_html": "<h3>Verbraucherzentralen</h3><p>Die Verbraucherzentralen der 16 Bundesländer bieten Beratung und Information, helfen bei Rechtsproblemen und vertreten Verbraucherinteressen auf Landesebene. Beratungen sind Angebote der Länder und teils kostenpflichtig. Formen: Vor-Ort, Telefon-Rückruf, Video. Zentrale Übersicht: www.verbraucherzentrale.de/beratung. Preise sind je Landeszentrale unterschiedlich, nicht bundeseinheitlich, bitte erfragen.</p><h3>Weitere belegte Stellen</h3><ul><li>Bundesnetzagentur: Beschwerden und Bußgeld bei unerlaubter Telefonwerbung (bundesnetzagentur.de).</li><li>Universalschlichtungsstelle des Bundes: www.universalschlichtungsstelle.de.</li><li>Bundesamt für Justiz: Liste der Verbraucherschlichtungsstellen nach § 33 Abs. 1 VSBG.</li><li>Schufa: kostenlose Datenkopie über meineschufa.de.</li></ul><p>Anschriften und Telefonnummern einzelner Beratungsstellen werden hier bewusst nicht aufgeführt, da sie sich je Standort ändern.</p>",
+      "zustaendig": [
+        "Verbraucherzentrale des Bundeslandes",
+        "Bundesnetzagentur",
+        "Universalschlichtungsstelle des Bundes"
+      ],
+      "belege": [
+        "Verbraucherzentrale, Beratung bei den Verbraucherzentralen (verbraucherzentrale.de/beratung), abgerufen 20.09.2026",
+        "Bundesnetzagentur, Telefonwerbung, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "schlichtung-klage",
+        "ueberblick-verbraucherrechte"
+      ],
+      "stand": "September 2026"
+    }
+  ]
+}

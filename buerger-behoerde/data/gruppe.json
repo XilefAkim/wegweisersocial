@@ -1,0 +1,34 @@
+{
+  "titel": "Bürger und Behörde",
+  "zusatz": "Bürger und Behörde &middot; Ihre Rechte im Verwaltungsverfahren",
+  "icon": "🏛️",
+  "teaser": "Bescheid verstehen, Anhörung, Widerspruch, Klage, Untätigkeit, Akteneinsicht, Auskunft, Überprüfung und Kosten: verständlich erklärt, mit Rechtsgrundlagen und Fristen.",
+  "suche_placeholder": "Suchen: Widerspruch, Bescheid, Frist, Akteneinsicht, Untätigkeit, § 44 SGB X …",
+  "meta_description": "Bürger gegenüber Behörden, Stand September 2026: Bescheid und Rechtsbehelfsbelehrung, Anhörung, Widerspruch (wo vorgesehen, 1 Monat), Klage, Untätigkeitsklage, Akteneinsicht, DSGVO-Auskunft, IFG, § 44 SGB X, Wiedereinsetzung, Beratungshilfe, Petition.",
+  "hinweis": "<p><strong>Rechtsstand September 2026.</strong> Diese Gruppe behandelt das Verfahren gegenüber Behörden (VwVfG des Bundes und der Länder, VwGO, SGB X, SGG; Landesrecht nur BY, NRW, BE). Sie ergänzt die Gruppen „Gesellschaft“ (Grundrechte, Beteiligung) und „Armut“ (Leistungen selbst). Ob ein Widerspruchsverfahren vorgeschrieben ist, hängt vom Land und Rechtsgebiet ab; maßgeblich ist die Rechtsbehelfsbelehrung im Bescheid. Angekündigte, nicht verabschiedete Reformen sind hier nicht als geltendes Recht dargestellt. Information, keine Rechtsberatung. <a href=\"quellen.html\">Quellen und Grenzen</a></p>",
+  "haeufig": [
+    "bescheid-verstehen",
+    "widerspruch-einlegen",
+    "fristen-wiedereinsetzung",
+    "untaetigkeit-behoerde",
+    "ueberpruefungsantrag-44-sgb-x",
+    "beratungshilfe-prozesskostenhilfe"
+  ],
+  "fusszeile": "Allgemeine Information zum Verfahren gegenüber Behörden, Stand September 2026; keine Rechtsberatung.",
+  "beratung_id": "beratung-anlaufstellen",
+  "quellen_teaser": "<p>Alle Angaben stammen aus den unten genannten Quellen (abgerufen am 20.09.2026). Unsichere Punkte sind offen benannt.</p>",
+  "quellen_abschnitte": [
+    {
+      "h": "Quellen",
+      "html": "<ol><li>gesetze-im-internet.de: VwVfG (§§ 25, 28, 29, 31, 32, 39, 41, 80), VwGO (§§ 58, 60, 67, 68, 70, 74, 75, 80, 166), SGG (§§ 66, 67, 73, 73a, 78, 84, 86a, 87, 88, 183), SGB X (§§ 24, 25, 37, 44, 63, 83), IFG (§§ 1, 7, 10, 12), IFGGebV (§ 1 und Anlage), BerHG (§§ 1, 2, 6, 12), RVG (Anlage 1, Nr. 2500 bis 2503), ZPO (§ 114), GG (Art. 17).</li><li>dsgvo-gesetz.de: Art. 12 und Art. 15 DSGVO (Volltext-Wiedergabe der Verordnung).</li><li>Deutscher Bundestag, Petitionsausschuss: Allgemeine Hinweise zum Petitionsverfahren; epetitionen.bundestag.de.</li><li>BfDI (bfdi.bund.de): Beschwerde bei Datenschutzbehörden, Zuständigkeit der BfDI, Recht auf Auskunft.</li><li>Sekundärquellen zum Widerspruchsverfahren der Länder (Niedersächsisches Ministerium für Inneres und Sport; Suchergebnisse, u. a. dijuf.de).</li><li>Landesrecht (nicht im Volltext geprüft, überwiegend Sekundärquellen): BayVwVfG, VwVfG NRW, VwVfG Bln, AGVwGO (Bayern), JustG NRW, BayDSG, IFG NRW, IFG Bln, BayPetG.</li></ol>"
+    },
+    {
+      "h": "Unsichere Punkte",
+      "html": "<ul><li>Widerspruchsverfahren im Verwaltungsrecht: Nordrhein-Westfalen (§ 110 JustG NRW), Niedersachsen (§ 8a Nds. AG VwGO) und Bayern (Art. 12 AGVwGO, Widerspruch nur in aufgezählten Bereichen fakultativ), Berlin (Widerspruch Regelfall) geprüft; die übrigen Länder nicht je Land. Maßgeblich ist die Rechtsbehelfsbelehrung.</li><li>Gerichts- und Verwaltungsgebühren im Verwaltungsverfahren (GKG, Kostenverzeichnisse der Länder): Beträge nicht geprüft und daher nicht genannt.</li><li>Auskunftsrecht und Informationsfreiheit gegenüber Landes- und Kommunalbehörden: nur Bayern, NRW und Berlin angesprochen (BayDSG, IFG NRW, IFG Bln), nicht im Volltext geprüft; 13 Länder nicht geprüft. IFG des Bundes gilt nur für Bundesbehörden.</li><li>Verwaltungsverfahrensgesetze der Länder (BayVwVfG, VwVfG NRW, VwVfG Bln): nur BY, NRW, BE, nicht im Volltext geprüft.</li><li>Bei Fristen und Zahlen bitte den amtlichen Volltext prüfen.</li><li>Nicht behandelt: Steuerverfahren (AO, FGO), Bußgeldverfahren, Ausländerrecht, Beamtenrecht, Kammer- und Schulrecht.</li></ul>"
+    },
+    {
+      "h": "Was diese Plattform leistet – und was nicht",
+      "html": "<p>Diese Seiten geben verständliche Informationen zum Verfahren gegenüber Behörden und nennen Rechtsgrundlagen, Fristen und bundesweite Anlaufstellen. Sie ersetzen keine Rechtsberatung nach dem Rechtsdienstleistungsgesetz und beurteilen keinen Einzelfall. Es werden keine personenbezogenen Daten gespeichert. Wenn eine Frist läuft, wenden Sie sich rasch an eine Rechtsanwältin oder einen Rechtsanwalt oder an eine anerkannte Beratungsstelle.</p>"
+    }
+  ]
+}

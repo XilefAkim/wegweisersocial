@@ -1,0 +1,1148 @@
+{
+  "kategorien": [
+    {
+      "id": "grundlagen",
+      "titel": "Grundlagen",
+      "icon": "📋",
+      "beschreibung": "Überblick, Mietvertrag, Kaution, Untermiete und WG."
+    },
+    {
+      "id": "miete",
+      "titel": "Miete und Erhöhung",
+      "icon": "💶",
+      "beschreibung": "Mietpreisbremse, Indexmiete, Mieterhöhung, Modernisierung, Wohngeld."
+    },
+    {
+      "id": "nebenkosten",
+      "titel": "Nebenkosten und Heizung",
+      "icon": "🔥",
+      "beschreibung": "Nebenkostenabrechnung, Heizkosten, CO2-Kostenaufteilung."
+    },
+    {
+      "id": "wohnung",
+      "titel": "Zustand der Wohnung",
+      "icon": "🛠️",
+      "beschreibung": "Mängel, Mietminderung, Übergabe, Schönheitsreparaturen."
+    },
+    {
+      "id": "kuendigung",
+      "titel": "Kündigung und Räumung",
+      "icon": "📨",
+      "beschreibung": "Eigenbedarf, Mietschulden, Härtefall, Räumungsklage, eigene Kündigung."
+    },
+    {
+      "id": "hilfe",
+      "titel": "Hilfe",
+      "icon": "🤝",
+      "beschreibung": "Mieterverein, Beratungshilfe und weitere Anlaufstellen."
+    }
+  ],
+  "seiten": [
+    {
+      "id": "ueberblick",
+      "kategorie": "grundlagen",
+      "titel": "Überblick Mieterrechte",
+      "icon": "🏠",
+      "teaser": "Was das Mietrecht schützt, welche Fristen besonders wichtig sind und wo Sie zuerst hinschauen sollten.",
+      "schlagworte": [
+        "Mieterrechte",
+        "BGB",
+        "Mietrecht",
+        "Wohnraummiete",
+        "Fristen",
+        "Mieterschutz",
+        "Überblick"
+      ],
+      "kurz_html": "<p>Das Mietrecht für Wohnungen steht vor allem im Bürgerlichen Gesetzbuch (BGB), ab § 535. Viele Regeln schützen Sie zwingend. Das heißt: Steht im Mietvertrag etwas Schlechteres für Sie, ist diese Klausel oft unwirksam.</p><p>Die wichtigsten Punkte:</p><ul><li><strong>Kaution:</strong> höchstens drei Monatsmieten ohne Nebenkosten.</li><li><strong>Kündigung durch den Vermieter:</strong> nur mit berechtigtem Interesse, schriftlich und mit Begründung.</li><li><strong>Nebenkosten:</strong> Sie haben nach Erhalt der Abrechnung zwölf Monate Zeit für Einwände.</li><li><strong>Mängel:</strong> Melden Sie sie sofort. Dann kann die Miete gemindert sein.</li><li><strong>Mietschulden:</strong> Zahlen Sie rechtzeitig, kann eine Kündigung unwirksam werden.</li></ul><p>Fristen sind im Mietrecht oft kurz und streng. Prüfen Sie bei jedem Brief zuerst das Datum. Holen Sie früh Rat, zum Beispiel beim Mieterverein.</p>",
+      "schritte": [
+        {
+          "titel": "Brief oder Nachricht sichern",
+          "text": "Bewahren Sie alle Schreiben des Vermieters auf. Notieren Sie das Datum, an dem Sie sie erhalten haben."
+        },
+        {
+          "titel": "Frist prüfen",
+          "text": "Suchen Sie im Schreiben nach Fristen. Lesen Sie die passende Themenseite in diesem Wegweiser."
+        },
+        {
+          "titel": "Nicht vorschnell unterschreiben",
+          "text": "Geben Sie keine Zustimmung und keine Zahlungszusage, bevor Sie das Schreiben verstanden haben."
+        },
+        {
+          "titel": "Rat holen",
+          "text": "Wenden Sie sich an einen Mieterverein oder nutzen Sie Beratungshilfe, wenn das Geld knapp ist."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "12 Monate",
+          "was": "Einwände gegen die Nebenkostenabrechnung nach Zugang",
+          "grundlage": "§ 556 Abs. 3 BGB"
+        },
+        {
+          "wert": "2 Kalendermonate",
+          "was": "Zeit für die Zustimmung zu einer Mieterhöhung auf die Vergleichsmiete",
+          "grundlage": "§ 558b Abs. 2 BGB"
+        },
+        {
+          "wert": "3 Monate",
+          "was": "Kündigungsfrist des Mieters",
+          "grundlage": "§ 573c Abs. 1 BGB"
+        }
+      ],
+      "achtung": [
+        "Dieser Wegweiser ist Information, keine Rechtsberatung.",
+        "Viele Fristen laufen ab Zugang des Schreibens. Versäumen Sie sie nicht.",
+        "Nicht jede Klausel im Mietvertrag ist wirksam. Prüfen lassen lohnt sich.",
+        "Reformen wie „Mietrecht II“ sind Stand September 2026 noch nicht verabschiedet."
+      ],
+      "fach_html": "<h3>Rechtsquellen</h3><p>Das Wohnraummietrecht ist im BGB geregelt (§§ 535 ff.). Ergänzend gelten unter anderem die Betriebskostenverordnung (BetrKV), die Heizkostenverordnung (HeizkostenV), das CO2-Kostenaufteilungsgesetz (CO2KostAufG) und das Wohngeldgesetz (WoGG). Für Räumung und Räumungsfristen ist die Zivilprozessordnung (ZPO) maßgeblich.</p><h3>Zwingende Mieterschutzvorschriften</h3><p>Viele Vorschriften sind zulasten des Mieters nicht abdingbar, etwa § 551 Abs. 4 (Kaution), § 536 Abs. 4 (Minderung), § 558 Abs. 6 (Mieterhöhung) und § 573c Abs. 4 (Kündigungsfristen). Abweichende Vereinbarungen sind unwirksam.</p><h3>Stand der Gesetzgebung</h3><p>Die Mietpreisbremse (§ 556d BGB) gilt in Gebieten mit angespanntem Wohnungsmarkt, die Landesregierungen per Verordnung bestimmen. Die Verordnungen müssen spätestens mit Ablauf des 31. Dezember 2029 außer Kraft treten. Das Gesetz „Mietrecht II“ (Regierungsentwurf vom 29. April 2026, erste Lesung im Bundestag am 9. Juli 2026) war nach den geprüften Quellen zum Redaktionsstand noch nicht verabschiedet. Es gilt weiter das bisherige Recht.</p><h3>Wo Streit entschieden wird</h3><p>Mietstreitigkeiten über Wohnraum gehören zum Amtsgericht am Ort der Wohnung (§ 23 Nr. 2a GVG: sachlich zuständig, streitwertunabhängig; § 29a ZPO: ausschließlicher Gerichtsstand). Die Rechtsprechung des Bundesgerichtshofs (VIII. Zivilsenat) prägt viele Auslegungsfragen.</p>",
+      "zustaendig": [
+        "Mieterverein (Mitglied im Deutschen Mieterbund)",
+        "Amtsgericht am Ort der Wohnung",
+        "Rechtsanwältin oder Rechtsanwalt für Mietrecht"
+      ],
+      "belege": [
+        "Bundesministerium der Justiz, Gesetze im Internet, § 556 BGB, abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, Gesetze im Internet, § 556d BGB, abgerufen 20.09.2026",
+        "BMJV, Pressemitteilung Mietrecht II vom 29.04.2026, sowie Bundestag hib (Beratung am 9. Juli 2026), abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "beratung",
+        "mietvertrag-kaution",
+        "miete-mietpreisbremse"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "mietvertrag-kaution",
+      "kategorie": "grundlagen",
+      "titel": "Mietvertrag und Kaution",
+      "icon": "📝",
+      "teaser": "Was in den Mietvertrag gehört, wie hoch die Kaution sein darf und wie sie angelegt werden muss.",
+      "schlagworte": [
+        "Mietvertrag",
+        "Kaution",
+        "Mietsicherheit",
+        "Ratenzahlung",
+        "Zeitmietvertrag",
+        "Klauseln",
+        "Rückgabe"
+      ],
+      "kurz_html": "<p>Ein Mietvertrag für eine Wohnung muss nicht schriftlich sein. Schriftlich ist aber sicherer. Lesen Sie ihn vor der Unterschrift genau.</p><p>Bei der Kaution gilt:</p><ul><li>Sie darf höchstens das Dreifache der Monatsmiete betragen. Nebenkosten zählen nicht mit.</li><li>Sie dürfen die Kaution in drei gleichen Monatsraten zahlen.</li><li>Der Vermieter muss das Geld getrennt von seinem eigenen Vermögen bei einer Bank anlegen.</li><li>Die Zinsen gehören Ihnen.</li></ul><p>Verlangt der Vermieter mehr, ist das unwirksam. Befristete Mietverträge sind nur aus bestimmten Gründen erlaubt. Der Grund muss im Vertrag stehen.</p>",
+      "schritte": [
+        {
+          "titel": "Vertrag prüfen",
+          "text": "Achten Sie auf Miete, Nebenkosten, Befristung, Kaution und Klauseln zu Renovierung."
+        },
+        {
+          "titel": "Kaution begrenzen",
+          "text": "Zahlen Sie nicht mehr als das Dreifache der Nettokaltmiete. Bitten Sie bei Bedarf um Ratenzahlung."
+        },
+        {
+          "titel": "Nachweis verlangen",
+          "text": "Lassen Sie sich schriftlich bestätigen, bei welcher Bank die Kaution getrennt angelegt ist."
+        },
+        {
+          "titel": "Zum Auszug",
+          "text": "Fordern Sie die Kaution nach der Wohnungsübergabe schriftlich zurück."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "3 Monatsmieten",
+          "was": "Höchstbetrag der Kaution (ohne Betriebskosten)",
+          "grundlage": "§ 551 Abs. 1 BGB"
+        },
+        {
+          "wert": "3 Raten",
+          "was": "Mieter darf die Kaution in drei gleichen Monatsraten zahlen",
+          "grundlage": "§ 551 Abs. 2 BGB"
+        }
+      ],
+      "achtung": [
+        "Eine höhere Kaution ist unwirksam, auch wenn sie im Vertrag steht.",
+        "Zahlen Sie die Kaution nicht bar ohne Quittung.",
+        "Ein Zeitmietvertrag braucht einen gesetzlichen Grund (§ 575 BGB). Fehlt er, gilt der Vertrag unbefristet.",
+        "Wie lange der Vermieter die Kaution nach dem Auszug zur Prüfung behalten darf, steht nicht im Gesetz. Die Praxis richtet sich nach Gerichtsurteilen; hier nicht geprüft."
+      ],
+      "fach_html": "<h3>Mietsicherheit, § 551 BGB</h3><p>Die Sicherheit darf höchstens das Dreifache der auf einen Monat entfallenden Miete betragen, Betriebskosten ausgenommen. Der Mieter kann die Geldsumme in drei gleichen monatlichen Raten zahlen. Die erste Rate ist zu Beginn des Mietverhältnisses fällig, die weiteren zusammen mit den folgenden Mietzahlungen. Der Vermieter muss eine Geldsumme getrennt von seinem Vermögen bei einem Kreditinstitut anlegen, üblicherweise zu dem für Spareinlagen mit dreimonatiger Kündigungsfrist üblichen Zinssatz. Die Erträge stehen dem Mieter zu und erhöhen die Sicherheit. Für Studenten- und Jugendwohnheime entfällt die Verzinsungspflicht. Abweichende Vereinbarungen zulasten des Mieters sind unwirksam.</p><h3>Zeitmietvertrag, § 575 BGB</h3><p>Ein befristeter Wohnraummietvertrag ist nur zulässig, wenn der Vermieter die Räume nach Ablauf für sich, Familien- oder Haushaltsangehörige nutzen will, sie beseitigen oder wesentlich verändern oder instand setzen will, oder sie einem zur Dienstleistung Verpflichteten überlassen will. Den Grund muss er dem Mieter bei Vertragsschluss schriftlich mitteilen, sonst gilt der Vertrag als unbefristet. Der Mieter kann frühestens vier Monate vor Ablauf Auskunft verlangen, ob der Grund noch besteht.</p><h3>Räumungsfrist bei Zeitmiete</h3><p>Für Zeitmietverträge nach § 575 BGB gelten die gerichtlichen Räumungsfristen nach § 721 ZPO nicht. Endet ein Zeitmietverhältnis durch außerordentliche Kündigung, kann eine Räumungsfrist höchstens bis zum vertraglich bestimmten Beendigungszeitpunkt gewährt werden (§ 721 Abs. 7 Satz 2 ZPO).</p>",
+      "zustaendig": [
+        "Mieterverein (Vertragsprüfung)",
+        "Amtsgericht (bei Streit um Kaution)",
+        "Verbraucherzentrale (allgemeine Vertragsfragen)"
+      ],
+      "belege": [
+        "Bundesministerium der Justiz, Gesetze im Internet, § 551 BGB, abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, Gesetze im Internet, § 575 BGB, abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, Gesetze im Internet, § 721 ZPO, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "uebergabe-schoenheitsreparaturen",
+        "kuendigung-mieter"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "miete-mietpreisbremse",
+      "kategorie": "miete",
+      "titel": "Miete, Mietpreisbremse und Indexmiete",
+      "icon": "📊",
+      "teaser": "Wie hoch die Miete bei Vertragsbeginn sein darf, bis wann die Mietpreisbremse gilt und was bei Indexmiete gilt.",
+      "schlagworte": [
+        "Mietpreisbremse",
+        "ortsübliche Vergleichsmiete",
+        "Rüge",
+        "Indexmiete",
+        "angespannter Wohnungsmarkt",
+        "Vormiete",
+        "Neubau"
+      ],
+      "kurz_html": "<p>In Städten mit angespanntem Wohnungsmarkt gilt die Mietpreisbremse. Bei einem neuen Vertrag darf die Miete höchstens 10 Prozent über der ortsüblichen Vergleichsmiete liegen. Welche Gebiete betroffen sind, bestimmt Ihr Bundesland.</p><p>Die Bremse wurde bis Ende 2029 verlängert.</p><p>Zahlen Sie mehr als erlaubt, können Sie Geld zurückverlangen. Sie müssen den Verstoß aber gegenüber dem Vermieter rügen. Tun Sie das früh: Wer erst nach 30 Monaten rügt, bekommt nur die Miete ab dem Zugang der Rüge zurück.</p><p>Es gibt Ausnahmen, etwa für Neubauten (erste Nutzung nach dem 1. Oktober 2014) oder wenn die Vormiete schon höher war.</p><p>Bei einer Indexmiete folgt die Miete den Verbraucherpreisen. Sie darf dann höchstens einmal im Jahr steigen.</p>",
+      "schritte": [
+        {
+          "titel": "Gebiet prüfen",
+          "text": "Fragen Sie bei Ihrem Bundesland oder Mieterverein, ob Ihre Gemeinde in der Mietpreisbremse-Verordnung steht."
+        },
+        {
+          "titel": "Vergleichsmiete ermitteln",
+          "text": "Nutzen Sie den örtlichen Mietspiegel. Rechnen Sie 10 Prozent auf."
+        },
+        {
+          "titel": "Ausnahmen klären",
+          "text": "Fragen Sie nach der Vormiete und nach Modernisierung oder Neubau."
+        },
+        {
+          "titel": "Schriftlich rügen",
+          "text": "Teilen Sie dem Vermieter mit, dass die Miete zu hoch ist. Bewahren Sie einen Nachweis über den Zugang auf."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "10 Prozent",
+          "was": "Höchstaufschlag auf die ortsübliche Vergleichsmiete bei Vertragsbeginn",
+          "grundlage": "§ 556d Abs. 1 BGB"
+        },
+        {
+          "wert": "31.12.2029",
+          "was": "Spätestes Auslaufen der Mietpreisbremse-Verordnungen der Länder",
+          "grundlage": "§ 556d Abs. 2 BGB"
+        },
+        {
+          "wert": "30 Monate",
+          "was": "Rüge nach mehr als 30 Monaten: nur Miete ab Zugang der Rüge rückforderbar",
+          "grundlage": "§ 556g Abs. 2 BGB"
+        },
+        {
+          "wert": "1 Jahr",
+          "was": "Bei Indexmiete muss die Miete mindestens ein Jahr unverändert bleiben",
+          "grundlage": "§ 557b Abs. 2 BGB"
+        }
+      ],
+      "achtung": [
+        "Ohne Rüge gibt es keine Rückzahlung (§ 556g BGB).",
+        "Ausnahmen: Vormiete, Modernisierung in den letzten drei Jahren, Neubau (erste Nutzung und Vermietung nach 1. Oktober 2014), erste Vermietung nach umfassender Modernisierung.",
+        "Ob Ihr Ort zum angespannten Markt gehört, hängt von der Landesverordnung ab. Diese Liste kann sich ändern.",
+        "Regeln zur Begrenzung der Indexmiete in angespannten Märkten sind nur ein Gesetzentwurf (Mietrecht II), noch nicht Recht."
+      ],
+      "fach_html": "<h3>Mietpreisbremse, §§ 556d ff. BGB</h3><p>Nach § 556d Abs. 1 BGB darf die Miete zu Beginn des Mietverhältnisses in Gebieten mit angespanntem Wohnungsmarkt die ortsübliche Vergleichsmiete höchstens um 10 Prozent übersteigen. Die Landesregierungen bestimmen die Gebiete per Rechtsverordnung (§ 556d Abs. 2). Die Verordnungen müssen spätestens mit Ablauf des 31. Dezember 2029 außer Kraft treten und begründet werden: welche Tatsachen den angespannten Markt belegen und welche Abhilfemaßnahmen die Landesregierung ergreift. Der Bundestag hat die Verlängerung am 26. Juni 2025 beschlossen; zuvor war die Regelung bis 31. Dezember 2025 befristet.</p><h3>Ausnahmen, §§ 556e und 556f BGB</h3><p>Eine höhere Vormiete darf weiter verlangt werden, wobei Mietminderungen und Mieterhöhungen im letzten Jahr vor Ende des Vormietverhältnisses unberücksichtigt bleiben. Nach Modernisierungen der letzten drei Jahre ist ein Aufschlag nach § 559 zulässig. § 556d gilt nicht für Wohnungen, die nach dem 1. Oktober 2014 erstmals genutzt und vermietet wurden, und nicht für die erste Vermietung nach umfassender Modernisierung.</p><h3>Rückforderung, § 556g BGB</h3><p>Zu viel gezahlte Miete ist nach Bereicherungsrecht herauszugeben, aber nur, wenn der Mieter den Verstoß gerügt hat. Rügt er mehr als 30 Monate nach Mietbeginn oder erst nach Ende des Mietverhältnisses, kann er nur die nach Zugang der Rüge fällig gewordene Miete zurückverlangen.</p><h3>Indexmiete, § 557b BGB</h3><p>Die Parteien können schriftlich vereinbaren, dass sich die Miete nach dem vom Statistischen Bundesamt ermittelten Preisindex für die Lebenshaltung richtet. Die Miete muss jeweils mindestens ein Jahr unverändert bleiben. Erhöhungen nach § 558 sind ausgeschlossen; Erhöhungen nach §§ 559, 559e sind nur in engen Grenzen möglich. Die Änderung erfordert eine Erklärung in Textform mit Angabe der Indexänderung und der neuen Miete und gilt ab Beginn des übernächsten Monats nach Zugang.</p><h3>Geplante Reform (nicht geltendes Recht)</h3><p>Der Regierungsentwurf „Mietrecht II“ sieht laut BMJV und Bundestag vor: In angespannten Märkten soll bei Indexmieten der Teil der Preissteigerung über 3 Prozent pro Jahr nur zur Hälfte weitergegeben werden dürfen. Für möblierte Wohnungen sollen Möblierungszuschläge gesondert auszuweisen sein. Erste Lesung im Bundestag am 9. Juli 2026, Stand danach: keine Verabschiedung nachgewiesen.</p>",
+      "zustaendig": [
+        "Mieterverein (Prüfung der Miethöhe)",
+        "Landesregierung bzw. zuständiges Landesministerium (Gebietsverordnung)",
+        "Amtsgericht (Rückforderungsklage)"
+      ],
+      "belege": [
+        "Bundesministerium der Justiz, Gesetze im Internet, § 556d, § 556e, § 556f, § 556g BGB, abgerufen 20.09.2026",
+        "Deutscher Bundestag, Textarchiv: Mietpreisbremse bis 2029 verlängert (Beschluss 26.06.2025), abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, Gesetze im Internet, § 557b BGB, abgerufen 20.09.2026",
+        "BMJV, Pressemitteilung Mietrecht II vom 29.04.2026, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "mieterhoehung-modernisierung",
+        "mietvertrag-kaution"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "mieterhoehung-modernisierung",
+      "kategorie": "miete",
+      "titel": "Mieterhöhung und Modernisierung",
+      "icon": "📈",
+      "teaser": "Wann und wie stark der Vermieter die Miete erhöhen darf und welche Fristen Sie haben.",
+      "schlagworte": [
+        "Mieterhöhung",
+        "Kappungsgrenze",
+        "Zustimmung",
+        "Modernisierung",
+        "Sonderkündigung",
+        "Mietspiegel",
+        "Härteeinwand"
+      ],
+      "kurz_html": "<p>Der Vermieter darf die Miete bis zur ortsüblichen Vergleichsmiete erhöhen. Vorher muss die Miete 15 Monate unverändert gewesen sein. Innerhalb von drei Jahren darf sie höchstens um 20 Prozent steigen. In Gebieten mit angespanntem Wohnungsmarkt sind es 15 Prozent.</p><p>Sie müssen nicht sofort zustimmen. Sie haben Zeit bis zum Ende des zweiten Kalendermonats nach Erhalt des Schreibens. Prüfen Sie es in Ruhe.</p><p>Bei einer Modernisierung muss der Vermieter die Arbeiten mindestens drei Monate vorher in Textform ankündigen. Danach darf er 8 Prozent der Kosten pro Jahr auf die Miete aufschlagen, aber nur bis zu bestimmten Obergrenzen.</p><p>Sie können bei einer Mieterhöhung oder Modernisierungsankündigung unter bestimmten Fristen sonderkündigen.</p>",
+      "schritte": [
+        {
+          "titel": "Schreiben prüfen",
+          "text": "Ist der Grund genannt? Wurde die Vergleichsmiete belegt, zum Beispiel durch den Mietspiegel?"
+        },
+        {
+          "titel": "Grenzen nachrechnen",
+          "text": "Prüfen Sie die 15-Monats-Frist und die 20- oder 15-Prozent-Grenze in drei Jahren."
+        },
+        {
+          "titel": "Rat holen",
+          "text": "Lassen Sie das Schreiben vom Mieterverein prüfen, bevor die Frist abläuft."
+        },
+        {
+          "titel": "Antworten",
+          "text": "Stimmen Sie nur dem berechtigten Teil zu. Antworten Sie schriftlich und fristgerecht."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "15 Monate",
+          "was": "Miete muss vor der Erhöhung bis zur Vergleichsmiete unverändert sein",
+          "grundlage": "§ 558 Abs. 1 BGB"
+        },
+        {
+          "wert": "2 Kalendermonate",
+          "was": "Zeit bis zur Zustimmung nach Zugang; danach 3 weitere Monate für die Klage des Vermieters",
+          "grundlage": "§ 558b Abs. 2 BGB"
+        },
+        {
+          "wert": "3 Monate",
+          "was": "Mindestvorlauf der Modernisierungsankündigung in Textform",
+          "grundlage": "§ 555c BGB"
+        },
+        {
+          "wert": "Ende des Folgemonats",
+          "was": "Härteeinwand gegen Modernisierung in Textform, gerechnet ab Zugang der Ankündigung",
+          "grundlage": "§ 555d Abs. 3 BGB"
+        }
+      ],
+      "achtung": [
+        "Die Kappungsgrenze beträgt 20 Prozent in drei Jahren, in angespannten Gebieten 15 Prozent.",
+        "Modernisierungsumlage: 8 Prozent der Kosten pro Jahr; Obergrenzen 3 Euro pro m² in sechs Jahren, 2 Euro bei Ausgangsmiete unter 7 Euro pro m².",
+        "Sonderkündigung nach Mieterhöhung: bis Ende des zweiten Monats nach Zugang (§ 561 BGB).",
+        "Nach Modernisierungsankündigung: Sonderkündigung zum Ablauf des übernächsten Monats, zu erklären bis zum Ablauf des Monats, der auf den Zugang folgt (§ 555e Abs. 1 BGB)."
+      ],
+      "fach_html": "<h3>Erhöhung auf die ortsübliche Vergleichsmiete, § 558 BGB</h3><p>Die Miete muss zum Zeitpunkt der Erhöhung seit 15 Monaten unverändert sein. Das Erhöhungsverlangen kann frühestens ein Jahr nach der letzten Erhöhung geltend gemacht werden. Die Miete darf sich innerhalb von drei Jahren um höchstens 20 Prozent erhöhen; in Gebieten mit angespanntem Wohnungsmarkt, die die Landesregierungen für höchstens fünf Jahre bestimmen, um höchstens 15 Prozent. Abweichungen zulasten des Mieters sind unwirksam (Abs. 6).</p><h3>Zustimmung und Klage, § 558b BGB</h3><p>Stimmt der Mieter nicht bis zum Ablauf des zweiten Kalendermonats nach Zugang zu, kann der Vermieter auf Zustimmung klagen. Die Klage muss innerhalb von drei weiteren Monaten erhoben werden.</p><h3>Modernisierung, §§ 555c, 555d, 559 BGB</h3><p>Der Vermieter muss die Maßnahme spätestens drei Monate vor Beginn in Textform ankündigen (Art, Umfang, Beginn, Dauer, erwartete Mieterhöhung und künftige Betriebskosten). Er soll auf Form und Frist des Härteeinwands hinweisen. Härtegründe muss der Mieter bis zum Ablauf des Monats, der auf den Zugang der Ankündigung folgt, in Textform mitteilen. Nach § 559 Abs. 1 kann die jährliche Miete um 8 Prozent der aufgewendeten Kosten erhöht werden. Nach § 559 Abs. 3a darf die monatliche Miete innerhalb von sechs Jahren um höchstens 3 Euro je m² Wohnfläche steigen, bei einer Ausgangsmiete unter 7 Euro je m² um höchstens 2 Euro je m². Beim Einbau einer neuen Heizungsanlage (§ 559e-Fälle) gilt zusätzlich eine Sonderkappung von 0,50 Euro je m² in sechs Jahren. Nach § 536 Abs. 1a entfällt die Minderung für drei Monate bei energetischer Modernisierung.</p><h3>Sonderkündigungsrechte</h3><p>Nach § 561 BGB kann der Mieter bei einer Erhöhung nach §§ 558 oder 559 bis zum Ablauf des zweiten Monats nach Zugang zum Ablauf des übernächsten Monats kündigen; die Erhöhung tritt dann nicht ein. Nach § 555e Abs. 1 BGB kann er außerordentlich zum Ablauf des übernächsten Monats kündigen, zu erklären bis zum Ablauf des Monats, der auf den Zugang der Modernisierungsankündigung folgt.</p><h3>Geplante Änderung</h3><p>Der Regierungsentwurf „Mietrecht II“ sieht laut Bundestag vor, die Grenze für das vereinfachte Verfahren bei Modernisierung von 10.000 Euro auf 20.000 Euro anzuheben. Nicht geltendes Recht (Stand September 2026).</p>",
+      "zustaendig": [
+        "Mieterverein (Prüfung des Schreibens)",
+        "Amtsgericht (bei Zustimmungsklage)",
+        "Kommunale Mietspiegelstelle (Mietspiegel, sofern vorhanden)"
+      ],
+      "belege": [
+        "Bundesministerium der Justiz, Gesetze im Internet, § 558 und § 558b BGB, abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, Gesetze im Internet, § 559, § 555c, § 555d, § 555e BGB, abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, Gesetze im Internet, § 561 BGB, abgerufen 20.09.2026",
+        "Deutscher Bundestag, hib-Meldung zum Mietrechtsgesetzentwurf (Beratung am 09.07.2026), abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "miete-mietpreisbremse",
+        "kuendigung-mieter"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "nebenkosten",
+      "kategorie": "nebenkosten",
+      "titel": "Nebenkostenabrechnung",
+      "icon": "🧾",
+      "teaser": "Wie Sie die Abrechnung prüfen, Belege einsehen und welche Einspruchsfrist von zwölf Monaten gilt.",
+      "schlagworte": [
+        "Nebenkosten",
+        "Betriebskosten",
+        "Abrechnung",
+        "Belegeinsicht",
+        "Einspruchsfrist",
+        "Nachzahlung",
+        "Vorauszahlung"
+      ],
+      "kurz_html": "<p>Der Vermieter muss die Nebenkosten einmal im Jahr abrechnen. Er muss Ihnen die Abrechnung spätestens zwölf Monate nach Ende des Abrechnungszeitraums schicken. Kommt sie später, kann er in der Regel keine Nachzahlung mehr verlangen.</p><p>Sie haben nach Erhalt der Abrechnung zwölf Monate Zeit für Einwände. Danach ist es meist zu spät. Zahlen Sie eine Nachzahlung also erst nach Prüfung und legen Sie Einwände schriftlich ein.</p><p>Sie dürfen die Belege sehen. Das geht auch elektronisch. Nur Kosten, die im Mietvertrag vereinbart sind und zu den gesetzlichen Betriebskostenarten gehören, dürfen umgelegt werden.</p>",
+      "schritte": [
+        {
+          "titel": "Eingangsdatum notieren",
+          "text": "Notieren Sie, wann die Abrechnung bei Ihnen ankam. Ab dann laufen zwölf Monate."
+        },
+        {
+          "titel": "Abrechnungszeitraum prüfen",
+          "text": "Kam die Abrechnung innerhalb von zwölf Monaten nach Ende des Abrechnungsjahres?"
+        },
+        {
+          "titel": "Belege verlangen",
+          "text": "Fordern Sie Einsicht in die Belege schriftlich an."
+        },
+        {
+          "titel": "Einwände schriftlich erheben",
+          "text": "Nennen Sie die Positionen, die Sie beanstanden, und behalten Sie einen Nachweis über den Zugang."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "12 Monate",
+          "was": "Vermieter muss abrechnen (nach Ende des Abrechnungszeitraums)",
+          "grundlage": "§ 556 Abs. 3 Satz 2 BGB"
+        },
+        {
+          "wert": "12 Monate",
+          "was": "Mieter muss Einwendungen mitteilen (nach Zugang der Abrechnung)",
+          "grundlage": "§ 556 Abs. 3 Satz 5 BGB"
+        }
+      ],
+      "achtung": [
+        "Nach Ablauf der Einwendungsfrist sind Einwände in der Regel ausgeschlossen.",
+        "Nur vertraglich vereinbarte Kostenarten dürfen umgelegt werden.",
+        "Verwaltungskosten und Instandhaltung gehören nicht zu den Betriebskosten (§ 1 Abs. 2 BetrKV).",
+        "Heizkosten haben eigene Regeln, siehe Seite „Heizkosten und CO2-Kosten“."
+      ],
+      "fach_html": "<h3>Abrechnung und Einwendungen, § 556 Abs. 3 BGB</h3><p>Über die Vorauszahlungen für Betriebskosten ist jährlich abzurechnen. Die Abrechnung ist dem Mieter spätestens bis zum Ablauf des zwölften Monats nach Ende des Abrechnungszeitraums mitzuteilen. Nach Ablauf dieser Frist ist die Geltendmachung einer Nachforderung durch den Vermieter ausgeschlossen, es sei denn, er hat die verspätete Geltendmachung nicht zu vertreten. Einwendungen gegen die Abrechnung hat der Mieter dem Vermieter spätestens bis zum Ablauf des zwölften Monats nach Zugang der Abrechnung mitzuteilen. Nach Ablauf dieser Frist kann der Mieter Einwendungen nur geltend machen, wenn er die verspätete Geltendmachung nicht zu vertreten hat.</p><h3>Belegeinsicht, § 556 Abs. 4 BGB</h3><p>Der Vermieter hat dem Mieter auf Verlangen Einsicht in die der Abrechnung zugrunde liegenden Belege zu gewähren. Die Belege dürfen elektronisch bereitgestellt werden.</p><h3>Begriff, § 1 BetrKV</h3><p>Verwaltungs- und Instandhaltungskosten sind keine Betriebskosten (§ 1 Abs. 2 BetrKV).</p><h3>Kostenarten, § 2 BetrKV</h3><p>§ 2 BetrKV zählt 17 Kostenarten auf, darunter öffentliche Lasten (etwa Grundsteuer), Wasserversorgung, Entwässerung, Heizung, Warmwasser, Aufzug, Straßenreinigung und Müllbeseitigung, Gebäudereinigung, Gartenpflege, Beleuchtung, Schornsteinreinigung, Versicherungen, Hauswart, Antennen- und Breitbandanlagen, Wäschepflegeanlagen und sonstige Betriebskosten.</p>",
+      "zustaendig": [
+        "Mieterverein (Abrechnungsprüfung)",
+        "Verbraucherzentrale (allgemeine Fragen)",
+        "Amtsgericht (Klage auf Nachzahlung oder Rückzahlung)"
+      ],
+      "belege": [
+        "Bundesministerium der Justiz, Gesetze im Internet, § 556 BGB, abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, Gesetze im Internet, §§ 1, 2 BetrKV, abgerufen 20.09.2026",
+        "Deutscher Mieterbund, Startseite (Beratung bei Betriebskosten), abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "heizkosten-co2",
+        "beratung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "maengel-minderung",
+      "kategorie": "wohnung",
+      "titel": "Mängel und Mietminderung",
+      "icon": "💧",
+      "teaser": "Was bei Schimmel, defekter Heizung und anderen Mängeln zu tun ist und wann die Miete gemindert sein kann.",
+      "schlagworte": [
+        "Mängel",
+        "Mietminderung",
+        "Schimmel",
+        "Mängelanzeige",
+        "Heizungsausfall",
+        "Instandhaltung",
+        "fristlose Kündigung"
+      ],
+      "kurz_html": "<p>Hat die Wohnung einen Mangel, der den Gebrauch einschränkt, kann die Miete kraft Gesetzes gemindert sein. Unbedeutende Beeinträchtigungen zählen nicht.</p><p>Wichtig: Melden Sie den Mangel dem Vermieter sofort. Tun Sie das nicht, verlieren Sie das Recht zur Minderung und können sogar Schadensersatz schulden.</p><p>Wie viel Sie mindern dürfen, hängt vom Einzelfall ab. Es gibt keine feste Prozenttabelle im Gesetz. Fragen Sie vor dem Kürzen den Mieterverein, damit Sie kein Risiko eingehen.</p><p>Bei energetischen Modernisierungen ist die Minderung für drei Monate ausgeschlossen.</p>",
+      "schritte": [
+        {
+          "titel": "Mangel dokumentieren",
+          "text": "Machen Sie Fotos mit Datum. Notieren Sie, seit wann der Mangel besteht."
+        },
+        {
+          "titel": "Vermieter sofort informieren",
+          "text": "Schreiben Sie ihm den Mangel und setzen Sie eine Frist zur Behebung. Bewahren Sie einen Nachweis auf."
+        },
+        {
+          "titel": "Rat vor dem Kürzen",
+          "text": "Lassen Sie den Minderungsbetrag prüfen, zum Beispiel beim Mieterverein."
+        },
+        {
+          "titel": "Weiterverfolgen",
+          "text": "Bleibt der Mangel, sprechen Sie mit dem Mieterverein über nächste Schritte."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "unverzüglich",
+          "was": "Anzeige eines Mangels an den Vermieter",
+          "grundlage": "§ 536c BGB"
+        },
+        {
+          "wert": "3 Monate",
+          "was": "Keine Minderung bei energetischer Modernisierung",
+          "grundlage": "§ 536 Abs. 1a BGB"
+        }
+      ],
+      "achtung": [
+        "Ohne Anzeige verlieren Sie das Minderungsrecht und können Schadensersatz schulden (§ 536c BGB).",
+        "Die Höhe der Minderung ist Einzelfallfrage. Ich nenne hier bewusst keine Prozentsätze.",
+        "Wer zu viel mindert, riskiert Zahlungsverzug und Kündigung. Holen Sie vorher Rat.",
+        "Auf Ihre Minderungsrechte können Sie im Mietvertrag nicht wirksam verzichten (§ 536 Abs. 4 BGB)."
+      ],
+      "fach_html": "<h3>Minderung, § 536 BGB</h3><p>Hat die Mietsache zur Zeit der Überlassung einen Mangel, der ihre Tauglichkeit zum vertragsgemäßen Gebrauch aufhebt, oder entsteht ein solcher später, ist der Mieter für die Zeit der Aufhebung von der Zahlung der Miete befreit. Bei nur geminderter Tauglichkeit gilt eine angemessen herabgesetzte Miete. Eine unerhebliche Minderung der Tauglichkeit bleibt außer Betracht. Für drei Monate entfällt die Minderung bei energetischer Modernisierung (Abs. 1a). Die Regelung gilt entsprechend, wenn ein Dritter dem Mieter den Gebrauch ganz oder teilweise entzieht (Abs. 3). Abweichende Vereinbarungen zulasten des Mieters sind bei Wohnraum unwirksam.</p><h3>Anzeigepflicht, § 536c BGB</h3><p>Der Mieter muss Mängel unverzüglich anzeigen. Unterlässt er das, kann er sich nicht auf die Minderung, Schadensersatz nach § 536a oder die fristlose Kündigung nach § 543 berufen und haftet dem Vermieter für Schäden aus der unterlassenen Anzeige.</p><h3>Prozentsätze</h3><p>Das Gesetz nennt keine festen Minderungsquoten. Die Gerichte entscheiden nach den Umständen des Einzelfalls. Konkrete Quoten wurden für diesen Wegweiser nicht aus Primärquellen geprüft.</p>",
+      "zustaendig": [
+        "Vermieter oder Hausverwaltung (Mängelanzeige)",
+        "Mieterverein (Beratung zur Minderung)",
+        "Amtsgericht (bei Streit)"
+      ],
+      "belege": [
+        "Bundesministerium der Justiz, Gesetze im Internet, § 536 BGB, abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, Gesetze im Internet, § 536c BGB, abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, Gesetze im Internet, § 543 BGB, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "mietschulden-schonfrist",
+        "beratung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "kuendigung-vermieter",
+      "kategorie": "kuendigung",
+      "titel": "Kündigung durch den Vermieter und Eigenbedarf",
+      "icon": "📨",
+      "teaser": "Wann der Vermieter kündigen darf, welche Frist gilt und was Sie bei Eigenbedarf tun können.",
+      "schlagworte": [
+        "Kündigung",
+        "Eigenbedarf",
+        "berechtigtes Interesse",
+        "Kündigungsfrist",
+        "Widerspruch",
+        "Schriftform",
+        "Kündigungssperrfrist"
+      ],
+      "kurz_html": "<p>Der Vermieter darf einer Mietwohnung nicht einfach so kündigen. Er braucht ein berechtigtes Interesse. Er muss die Kündigung schriftlich schicken und den Grund angeben. Eine Kündigung, nur um die Miete zu erhöhen, ist nicht erlaubt.</p><p>Ein Grund ist Eigenbedarf. Das heißt: Er braucht die Wohnung für sich, Familienangehörige oder Haushaltsangehörige.</p><p>Die Kündigungsfrist beträgt für den Vermieter drei Monate. Nach fünf Jahren Mietdauer sind es sechs, nach acht Jahren neun Monate.</p><p>Sie können widersprechen, wenn die Kündigung für Sie eine besondere Härte wäre. Der Widerspruch muss spätestens zwei Monate vor dem Ende des Mietverhältnisses erfolgen.</p><p>Ziehen Sie nicht sofort aus. Lassen Sie die Kündigung prüfen.</p>",
+      "schritte": [
+        {
+          "titel": "Form und Grund prüfen",
+          "text": "Ist die Kündigung schriftlich? Steht der Grund drin? Ist die Frist eingehalten?"
+        },
+        {
+          "titel": "Widerspruch bedenken",
+          "text": "Wenn ein Härtegrund vorliegt, widersprechen Sie in Textform und begründen Sie ihn."
+        },
+        {
+          "titel": "Rat holen",
+          "text": "Gehen Sie schnell zum Mieterverein oder zur Rechtsberatung."
+        },
+        {
+          "titel": "Nicht vorzeitig ausziehen",
+          "text": "Ein Auszug ist nicht nötig, bevor ein Gericht entschieden hat."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "3 / 6 / 9 Monate",
+          "was": "Kündigungsfrist des Vermieters (Grundfrist 3 Monate; nach 5 bzw. 8 Jahren je 3 Monate mehr)",
+          "grundlage": "§ 573c Abs. 1 BGB"
+        },
+        {
+          "wert": "2 Monate vor Ende",
+          "was": "Widerspruch des Mieters gegen die Kündigung, in Textform",
+          "grundlage": "§ 574b Abs. 2 BGB"
+        },
+        {
+          "wert": "3 Jahre",
+          "was": "Kündigungssperre nach Umwandlung in Wohneigentum und Verkauf (Länder können bis 10 Jahre verlängern)",
+          "grundlage": "§ 577a BGB"
+        }
+      ],
+      "achtung": [
+        "Die Kündigung muss schriftlich sein und begründet werden (§§ 568, 573 Abs. 3 BGB).",
+        "Der Vermieter soll auf Ihr Widerspruchsrecht hinweisen. Fehlt der Hinweis, können Sie noch im ersten Gerichtstermin widersprechen.",
+        "Kündigungsfristen zulasten des Mieters zu verkürzen ist unwirksam (§ 573c Abs. 4 BGB).",
+        "Ob Eigenbedarf wirklich besteht, ist oft streitig. Lassen Sie ihn prüfen."
+      ],
+      "fach_html": "<h3>Berechtigtes Interesse, § 573 BGB</h3><p>Der Vermieter kann nur kündigen, wenn er ein berechtigtes Interesse an der Beendigung des Mietverhältnisses hat. Die Kündigung zum Zweck der Mieterhöhung ist ausgeschlossen. Ein berechtigtes Interesse liegt nach Abs. 2 Nr. 2 vor, wenn er die Räume als Wohnung für sich, seine Familienangehörigen oder Angehörige seines Haushalts benötigt. Die Gründe müssen im Kündigungsschreiben angegeben werden (Abs. 3); später entstandene Gründe werden nur berücksichtigt, soweit sie nachträglich entstanden sind.</p><h3>Form und Frist, §§ 568, 573c BGB</h3><p>Die Kündigung bedarf der schriftlichen Form. Die Frist des Mieters beträgt drei Monate. Für den Vermieter verlängert sie sich nach fünf und acht Jahren seit Überlassung des Wohnraums um jeweils drei Monate.</p><h3>Sozialklausel, §§ 574, 574b BGB</h3><p>Der Mieter kann der Kündigung widersprechen, wenn die Beendigung für ihn, seine Familie oder Angehörige seines Haushalts eine Härte bedeuten würde, die auch unter Würdigung der berechtigten Interessen des Vermieters nicht zu rechtfertigen ist. Der Widerspruch bedarf der Textform und muss spätestens zwei Monate vor der Beendigung erklärt werden. Der Bundesgerichtshof hat die Anforderungen an die Härteprüfung zuletzt präzisiert. Urteil vom 16. April 2025 (VIII ZR 270/22): ein fachärztliches Attest ist nicht zwingend, auch ein anderer medizinisch qualifizierter Behandler kann die Härte belegen (§ 574 Abs. 1 Satz 1 BGB). Beschluss vom 28. Oktober 2025 (VIII ZR 17/25): Gerichte dürfen ein Sachverständigengutachten zur Umzugsfähigkeit nicht übergehen (rechtliches Gehör).</p><h3>Sperrfrist nach Umwandlung, § 577a BGB</h3><p>Nach Umwandlung in Wohnungseigentum und Verkauf kann sich der Erwerber bei Eigenbedarfskündigung erst nach drei Jahren berufen. Die Länder können die Frist in Gebieten mit Wohnungsknappheit per Verordnung verlängern (bis zu zehn Jahre).</p>",
+      "zustaendig": [
+        "Mieterverein",
+        "Amtsgericht am Ort der Wohnung",
+        "Rechtsanwältin oder Rechtsanwalt für Mietrecht (ggf. Beratungshilfe)"
+      ],
+      "belege": [
+        "Bundesministerium der Justiz, Gesetze im Internet, § 573 und § 573c BGB, abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, Gesetze im Internet, § 568, § 574, § 574b, § 577a BGB, abgerufen 20.09.2026",
+        "Bundesgerichtshof, Urteil vom 16.04.2025 – VIII ZR 270/22 (Attest, § 574 Abs. 1 S. 1 BGB) und Beschluss vom 28.10.2025 – VIII ZR 17/25 (Sachverständigengutachten, rechtliches Gehör), abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "raeumung-haertefall",
+        "mietschulden-schonfrist"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "raeumung-haertefall",
+      "kategorie": "kuendigung",
+      "titel": "Räumungsklage und Härtefall",
+      "icon": "⚖️",
+      "teaser": "Was bei einer Räumungsklage gilt, wie die Sozialklausel wirkt und wie Sie eine Räumungsfrist beantragen.",
+      "schlagworte": [
+        "Räumungsklage",
+        "Räumungsfrist",
+        "Sozialklausel",
+        "Härtefall",
+        "Gerichtsvollzieher",
+        "Zwangsräumung",
+        "Fortsetzung des Mietverhältnisses"
+      ],
+      "kurz_html": "<p>Der Vermieter darf Sie nicht selbst aus der Wohnung setzen. Das darf nur ein Gerichtsvollzieher, und nur nach einem Urteil.</p><p>Bekommen Sie eine Räumungsklage, reagieren Sie sofort. Melden Sie sich innerhalb der gesetzten Fristen bei Gericht. Holen Sie Rat. Das Gericht kann Ihnen eine Räumungsfrist geben. Sie beträgt insgesamt höchstens ein Jahr.</p><p>Einen Antrag auf Räumungsfrist stellen Sie spätestens zwei Wochen vor dem Räumungstag. Verlängerungen ebenfalls zwei Wochen vor Ablauf.</p><p>Bei einer Kündigung können Sie sich auf die Sozialklausel berufen, wenn ein Umzug eine besondere Härte wäre, zum Beispiel wegen hohen Alters, schwerer Krankheit oder Schwangerschaft. Das Gericht wägt dann Ihre Interessen und die des Vermieters ab.</p>",
+      "schritte": [
+        {
+          "titel": "Klage nicht ignorieren",
+          "text": "Melden Sie sich fristgerecht bei Gericht. Wer nicht reagiert, riskiert ein Versäumnisurteil."
+        },
+        {
+          "titel": "Beratung holen",
+          "text": "Gehen Sie sofort zum Mieterverein oder beantragen Sie Beratungshilfe."
+        },
+        {
+          "titel": "Härtegründe belegen",
+          "text": "Sammeln Sie Nachweise, zum Beispiel ärztliche Atteste. Sie helfen bei der Abwägung."
+        },
+        {
+          "titel": "Räumungsfrist beantragen",
+          "text": "Beantragen Sie sie beim Amtsgericht, spätestens zwei Wochen vor dem Räumungstag."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "1 Jahr",
+          "was": "Höchstdauer der Räumungsfrist, gerechnet ab Rechtskraft des Urteils",
+          "grundlage": "§ 721 ZPO"
+        },
+        {
+          "wert": "2 Wochen",
+          "was": "Antrag auf Räumungsfrist bzw. Verlängerung vor dem Räumungstag bzw. vor Ablauf",
+          "grundlage": "§ 721 ZPO"
+        },
+        {
+          "wert": "2 Monate vor Ende",
+          "was": "Widerspruch nach der Sozialklausel",
+          "grundlage": "§ 574b Abs. 2 BGB"
+        }
+      ],
+      "achtung": [
+        "Nur ein Gerichtsvollzieher darf räumen, nicht der Vermieter.",
+        "Bei Zeitmietverträgen nach § 575 BGB gelten die gerichtlichen Räumungsfristen nicht.",
+        "Räumungsvergleiche haben eigene Regeln (§ 794a ZPO): Antrag spätestens zwei Wochen vor dem vereinbarten Räumungstag.",
+        "Ein Härtegrund ist kein Automatismus. Das Gericht wägt im Einzelfall ab."
+      ],
+      "fach_html": "<h3>Räumungsfrist, § 721 ZPO</h3><p>Wird auf Räumung von Wohnraum erkannt, kann das Gericht dem Schuldner auf Antrag oder von Amts wegen eine den Umständen nach angemessene Räumungsfrist einräumen. Sie darf insgesamt ein Jahr, gerechnet vom Tag der Rechtskraft des Urteils, nicht übersteigen. Der Antrag ist bei künftiger Räumung spätestens zwei Wochen vor dem Räumungstag zu stellen; Verlängerungsanträge sind spätestens zwei Wochen vor Ablauf einzureichen. Über den Antrag wird durch Beschluss nach Anhörung des Gegners entschieden; die sofortige Beschwerde ist möglich. Die Vorschrift gilt nicht für Mietverhältnisse nach § 549 Abs. 2 Nr. 3 und § 575 BGB. Nach Abs. 7 Satz 2 kann bei einem Zeitmietverhältnis nach § 575 BGB, das durch außerordentliche Kündigung endet, die Räumungsfrist höchstens bis zum vertraglich bestimmten Beendigungszeitpunkt gewährt werden.</p><h3>Räumungsvergleich, § 794a ZPO</h3><p>Bei einem Räumungsvergleich kann der Schuldner beim Amtsgericht eine angemessene Räumungsfrist beantragen, spätestens zwei Wochen vor dem vereinbarten Räumungstag. Die Frist darf insgesamt ein Jahr ab Vergleichsabschluss nicht überschreiten.</p><h3>Sozialklausel, § 574 BGB</h3><p>Der Mieter kann der ordentlichen Kündigung widersprechen und die Fortsetzung des Mietverhältnisses verlangen, wenn die Beendigung eine Härte darstellt, die auch bei Würdigung der berechtigten Interessen des Vermieters nicht zu rechtfertigen ist. Das gilt nicht bei Gründen, die eine fristlose Kündigung rechtfertigen. Die Härteprüfung verlangt laut Bundesgerichtshof eine sorgfältige Aufklärung von Erkrankungen und ihren Auswirkungen (BGH 22.05.2019 – VIII ZR 180/18 und VIII ZR 167/17: Amtsermittlung und Sachverständigengutachten bei attestierter Gesundheitsverschlechterung; ferner Beschluss vom 28. Oktober 2025, VIII ZR 17/25).</p><h3>Behörden bei Räumungsklage wegen Mietschulden</h3><p>Nach § 22 Abs. 9 SGB II teilt das Gericht dem zuständigen Träger (Jobcenter) den Eingang einer Räumungsklage wegen Zahlungsverzugs unverzüglich mit, sofern Zahlungsunfähigkeit nicht offensichtlich ausscheidet.</p>",
+      "zustaendig": [
+        "Amtsgericht (Rechtsantragstelle, Räumungsfrist)",
+        "Mieterverein oder Rechtsanwalt",
+        "Jobcenter oder Sozialamt (bei drohender Wohnungslosigkeit)"
+      ],
+      "belege": [
+        "Bundesministerium der Justiz, Gesetze im Internet, § 721 ZPO, abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, Gesetze im Internet, § 794a ZPO, abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, Gesetze im Internet, § 574 und § 574b BGB, abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, Gesetze im Internet, § 22 SGB II, abgerufen 20.09.2026",
+        "Bundesgerichtshof, Urteile vom 22.05.2019 – VIII ZR 180/18 und VIII ZR 167/17, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "kuendigung-vermieter",
+        "mietschulden-schonfrist",
+        "beratung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "mietschulden-schonfrist",
+      "kategorie": "kuendigung",
+      "titel": "Mietschulden und Schonfristzahlung",
+      "icon": "⏳",
+      "teaser": "Wann der Vermieter wegen Zahlungsverzugs kündigen darf und wie Sie die fristlose Kündigung noch unwirksam machen können.",
+      "schlagworte": [
+        "Mietschulden",
+        "Schonfristzahlung",
+        "fristlose Kündigung",
+        "Zahlungsverzug",
+        "Jobcenter",
+        "Rechtshängigkeit",
+        "Wohnungslosigkeit"
+      ],
+      "kurz_html": "<p>Der Vermieter darf fristlos kündigen, wenn Sie mit der Miete für zwei aufeinanderfolgende Termine in Verzug sind. Oder wenn sich über mehrere Termine Schulden von zwei Monatsmieten ansammeln.</p><p>Es gibt eine Rettung, die Schonfristzahlung. Sie zahlen die ganzen offenen Beträge spätestens zwei Monate nach Zustellung der Räumungsklage. Dann wird die fristlose Kündigung unwirksam. Das kann auch das Jobcenter oder das Sozialamt für Sie tun.</p><p>Bei Wohnraum ist außerdem ein Rückstand von mehr als einer Monatsmiete nötig (§ 543 Abs. 2 Nr. 3, § 569 Abs. 3 Nr. 1 BGB). Wichtig: Diese Rettung gilt nach gefestigter BGH-Rechtsprechung nicht auch für eine gleichzeitig ausgesprochene ordentliche Kündigung. Ob der Gesetzentwurf „Mietrecht II“ das ändert, ist noch offen.</p><p>Warten Sie nicht. Melden Sie sich sofort beim Jobcenter oder Sozialamt und bei einer Beratungsstelle.</p>",
+      "schritte": [
+        {
+          "titel": "Schulden beziffern",
+          "text": "Rechnen Sie aus, was offen ist. Bewahren Sie Zahlungsbelege auf."
+        },
+        {
+          "titel": "Sofort Hilfe suchen",
+          "text": "Wenden Sie sich an Jobcenter oder Sozialamt. Beantragen Sie die Übernahme der Schulden."
+        },
+        {
+          "titel": "Nach Klage zahlen",
+          "text": "Wenn eine Räumungsklage kommt, sorgen Sie dafür, dass der gesamte Rückstand innerhalb von zwei Monaten nach Zustellung bezahlt ist."
+        },
+        {
+          "titel": "Beratung nutzen",
+          "text": "Prüfen Sie mit einem Mieterverein oder einer Schuldnerberatung, ob auch eine ordentliche Kündigung droht."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "2 aufeinanderfolgende Termine",
+          "was": "Zahlungsverzug als Grund für fristlose Kündigung (oder Rückstand von zwei Monatsmieten)",
+          "grundlage": "§ 543 Abs. 2 Nr. 3 BGB"
+        },
+        {
+          "wert": "2 Monate",
+          "was": "Schonfrist: vollständige Zahlung nach Eintritt der Rechtshängigkeit der Räumungsklage",
+          "grundlage": "§ 569 Abs. 3 Nr. 2 BGB"
+        },
+        {
+          "wert": "mehr als 1 Monatsmiete",
+          "was": "Rückstand gilt nur dann als nicht unerheblich (Wohnraum)",
+          "grundlage": "§ 569 Abs. 3 Nr. 1 BGB"
+        }
+      ],
+      "achtung": [
+        "Die Schonfristzahlung erfasst nach dem Gesetzeswortlaut die fristlose Kündigung. Eine ordentliche Kündigung heilt sie nach gefestigter BGH-Rechtsprechung nicht (BGH 13.10.2021 – VIII ZR 91/20; 2024 – VIII ZR 106/23); nur Teile der Instanzrechtsprechung (LG Berlin) sehen das anders.",
+        "Der Entwurf „Mietrecht II“ will die Schonfristzahlung auf ordentliche Kündigungen ausdehnen; er ist nicht in Kraft.",
+        "Zahlt das Amt, gilt die Schonfrist ebenfalls, wenn der Vermieter „befriedigt“ wird.",
+        "Ohne Zahlung droht Räumungsurteil und Wohnungsverlust. Reagieren Sie früh."
+      ],
+      "fach_html": "<h3>Fristlose Kündigung, § 543 Abs. 2 Nr. 3 BGB</h3><p>Ein wichtiger Grund liegt vor, wenn der Mieter für zwei aufeinanderfolgende Termine mit der Entrichtung der Miete oder eines nicht unerheblichen Teils der Miete in Verzug ist oder in einem Zeitraum, der sich über mehr als zwei Termine erstreckt, mit der Entrichtung der Miete in Höhe eines Betrages in Verzug ist, der die Miete für zwei Monate erreicht. Nach § 543 Abs. 3 ist eine Abmahnung bei Zahlungsverzug nicht erforderlich.</p><h3>Wohnraum, § 569 Abs. 3 BGB</h3><p>Der rückständige Teil der Miete ist nur dann als nicht unerheblich anzusehen, wenn er die Miete für einen Monat übersteigt (Nr. 1). Nach Nr. 2 wird die Kündigung unwirksam, wenn der Vermieter spätestens bis zum Ablauf von zwei Monaten nach Eintritt der Rechtshängigkeit des Räumungsanspruchs hinsichtlich der fälligen Miete und der fälligen Entschädigung befriedigt wird oder sich eine öffentliche Stelle zur Befriedigung verpflichtet. Die Nr. 2 findet keine Anwendung, wenn der Kündigung vor nicht länger als zwei Jahren bereits eine unwirksam gewordene Kündigung vorausgegangen ist (§ 569 Abs. 3 Nr. 2 Satz 2 BGB).</p><h3>Ordentliche Kündigung</h3><p>Nach gefestigter BGH-Rechtsprechung heilt die Schonfristzahlung eine hilfsweise ausgesprochene ordentliche Kündigung nicht (BGH 13.10.2021 – VIII ZR 91/20; 2024 – VIII ZR 106/23). Nur Teile der Instanzrechtsprechung (LG Berlin) weichen ab.</p><h3>Übernahme durch das Amt, § 22 Abs. 8 SGB II</h3><p>Schulden können übernommen werden, wenn dies zur Sicherung der Unterkunft oder zur Behebung einer vergleichbaren Notlage gerechtfertigt ist; sie sollen übernommen werden, wenn sonst Wohnungslosigkeit einzutreten droht. Vermögen ist vorrangig einzusetzen; Geldleistungen sollen als Darlehen erbracht werden.</p><h3>Geplante Änderung</h3><p>Laut BMJV soll die Schonfristzahlung künftig einmal auch eine ordentliche Kündigung wegen Mietrückstands abwenden können (Regierungsentwurf „Mietrecht II“, Stand September 2026 nicht verabschiedet).</p>",
+      "zustaendig": [
+        "Jobcenter (bei Grundsicherungsgeld)",
+        "Sozialamt (bei Grundsicherung im Alter und bei Erwerbsminderung)",
+        "Schuldnerberatung",
+        "Mieterverein"
+      ],
+      "belege": [
+        "Bundesministerium der Justiz, Gesetze im Internet, § 569 BGB, abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, Gesetze im Internet, § 543 BGB, abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, Gesetze im Internet, § 22 SGB II, abgerufen 20.09.2026",
+        "BMJV, Pressemitteilung vom 29.04.2026 (Schonfristzahlungen), abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "raeumung-haertefall",
+        "beratung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "kuendigung-mieter",
+      "kategorie": "kuendigung",
+      "titel": "Kündigung durch den Mieter",
+      "icon": "✉️",
+      "teaser": "Wie Sie fristgerecht kündigen, welche Sonderkündigungsrechte es gibt und was bei Zeitmietverträgen gilt.",
+      "schlagworte": [
+        "Kündigung",
+        "Kündigungsfrist",
+        "Sonderkündigung",
+        "Nachmieter",
+        "Schriftform",
+        "Zeitmietvertrag",
+        "dritter Werktag"
+      ],
+      "kurz_html": "<p>Sie können einen unbefristeten Mietvertrag jederzeit kündigen. Die Frist beträgt drei Monate. Die Kündigung muss spätestens am dritten Werktag eines Monats beim Vermieter sein, dann endet der Vertrag mit dem Ablauf des übernächsten Monats.</p><p>Die Kündigung muss schriftlich sein. Das heißt: Brief mit eigenhändiger Unterschrift. Eine E-Mail reicht nicht. Sie brauchen keinen Grund.</p><p>Es gibt Sonderfälle mit anderen Fristen, zum Beispiel nach einer Mieterhöhung oder Modernisierungsankündigung, oder wenn der Vermieter eine Untermiete ohne Grund verweigert.</p><p>Ob Sie einen Nachmieter stellen dürfen, um früher aus dem Vertrag zu kommen, hängt vom Vertrag ab. Ein allgemeines gesetzliches Recht darauf ist hier nicht belegt.</p>",
+      "schritte": [
+        {
+          "titel": "Frist berechnen",
+          "text": "Planen Sie das Ende des Vertrags. Das Schreiben muss bis zum dritten Werktag des Monats beim Vermieter sein."
+        },
+        {
+          "titel": "Schriftlich kündigen",
+          "text": "Schreiben Sie es auf Papier und unterschreiben Sie. Sichern Sie den Zugang, zum Beispiel per Einwurf mit Zeugen oder Einschreiben."
+        },
+        {
+          "titel": "Übergabe planen",
+          "text": "Vereinbaren Sie den Übergabetermin und machen Sie ein Protokoll."
+        },
+        {
+          "titel": "Nebenkosten und Kaution klären",
+          "text": "Fordern Sie die Kaution zurück und achten Sie auf die Nebenkostenabrechnung."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "3 Monate",
+          "was": "Kündigungsfrist für Mieter: spätestens am dritten Werktag zum Ablauf des übernächsten Monats",
+          "grundlage": "§ 573c Abs. 1 BGB"
+        },
+        {
+          "wert": "bis Ende des 2. Monats nach Zugang",
+          "was": "Sonderkündigung nach Mieterhöhung (§§ 558, 559)",
+          "grundlage": "§ 561 BGB"
+        },
+        {
+          "wert": "bis Ende des Folgemonats",
+          "was": "Sonderkündigung nach Modernisierungsankündigung: zu erklären bis zum Ablauf des Monats, der auf den Zugang folgt; wirkt zum Ablauf des übernächsten Monats",
+          "grundlage": "§ 555e BGB"
+        }
+      ],
+      "achtung": [
+        "Schriftform: E-Mail oder Messenger genügen nicht (§ 568 Abs. 1 BGB).",
+        "Ein Zeitmietvertrag ist grundsätzlich nicht vorzeitig kündbar. Sonderkündigungsrechte bleiben.",
+        "Verweigert der Vermieter grundlos die Erlaubnis zur Untervermietung, gibt es ein Sonderkündigungsrecht mit gesetzlicher Frist (§ 540 BGB).",
+        "Ob Ihr Vertrag Klauseln zu Nachmietern oder Mindestlaufzeit hat, prüfen Sie im Vertrag."
+      ],
+      "fach_html": "<h3>Kündigungsfrist, § 573c BGB</h3><p>Die Kündigung ist spätestens am dritten Werktag eines Kalendermonats zum Ablauf des übernächsten Monats zulässig. Für den Vermieter verlängert sich die Frist nach fünf und acht Jahren seit Überlassung um jeweils drei Monate. Abweichungen zum Nachteil des Mieters sind unwirksam (Abs. 4).</p><h3>Form, § 568 BGB</h3><p>Die Kündigung bedarf der schriftlichen Form.</p><h3>Sonderkündigungsrechte</h3><p>§ 561 BGB: Nach Erhöhung der Miete auf die Vergleichsmiete oder nach Modernisierung kann der Mieter bis zum Ablauf des zweiten Monats nach Zugang der Erklärung zum Ablauf des übernächsten Monats kündigen. § 555e BGB: Nach Zugang der Modernisierungsankündigung kann der Mieter außerordentlich zum Ablauf des übernächsten Monats kündigen, zu erklären bis zum Ablauf des Monats, der auf den Zugang der Ankündigung folgt (Abs. 1). § 540 BGB: Verweigert der Vermieter die Erlaubnis zur Gebrauchsüberlassung an Dritte ohne wichtigen Grund, kann der Mieter außerordentlich mit der gesetzlichen Frist kündigen, außer wenn ein wichtiger Grund in der Person des Dritten vorliegt.</p><h3>Zeitmietvertrag</h3><p>Bei einem wirksamen Zeitmietvertrag nach § 575 BGB endet das Mietverhältnis mit Fristablauf. Fehlt der Befristungsgrund, gilt der Vertrag als unbefristet (siehe Seite „Mietvertrag und Kaution“).</p>",
+      "zustaendig": [
+        "Vermieter oder Hausverwaltung (Adressat der Kündigung)",
+        "Mieterverein (Prüfung von Vertrag und Fristen)",
+        "Verbraucherzentrale (allgemeine Fragen)"
+      ],
+      "belege": [
+        "Bundesministerium der Justiz, Gesetze im Internet, § 573c und § 568 BGB, abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, Gesetze im Internet, § 561, § 555e, § 540 BGB, abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, Gesetze im Internet, § 575 BGB, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "uebergabe-schoenheitsreparaturen",
+        "mietvertrag-kaution"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "untermiete-wg",
+      "kategorie": "grundlagen",
+      "titel": "Untermiete und WG",
+      "icon": "👥",
+      "teaser": "Wann Sie einen Teil der Wohnung untervermieten dürfen und was in einer WG rechtlich zu beachten ist.",
+      "schlagworte": [
+        "Untermiete",
+        "WG",
+        "Erlaubnis",
+        "Wohngemeinschaft",
+        "Untermieter",
+        "Sonderkündigung",
+        "Gebrauchsüberlassung"
+      ],
+      "kurz_html": "<p>Ohne Erlaubnis des Vermieters dürfen Sie die Wohnung nicht an Dritte überlassen, auch nicht als Untermiete.</p><p>Wenn nach Vertragsschluss ein berechtigtes Interesse entsteht, einen Teil der Wohnung Dritten zu überlassen, können Sie die Erlaubnis verlangen. Das kann zum Beispiel eine Wohnung sein, die wegen Jobwechsels teilweise leersteht. Der Vermieter darf ablehnen, wenn in der Person des Dritten ein wichtiger Grund liegt oder die Wohnung überbelegt wäre.</p><p>Stimmt der Vermieter nur gegen einen Aufschlag zu, kann das zulässig sein, wenn die Untervermietung sonst unzumutbar wäre.</p><p>In einer WG hängt viel davon ab, ob alle im Hauptmietvertrag stehen oder ob es Untermietverträge gibt. Lesen Sie Ihren Vertrag genau.</p>",
+      "schritte": [
+        {
+          "titel": "Erlaubnis einholen",
+          "text": "Bitten Sie den Vermieter schriftlich um Erlaubnis. Nennen Sie Person und Grund."
+        },
+        {
+          "titel": "Vertrag schließen",
+          "text": "Halten Sie mit dem Untermieter Miete, Nebenkosten und Kündigungsfristen schriftlich fest."
+        },
+        {
+          "titel": "Bei Ablehnung prüfen",
+          "text": "Fragen Sie den Mieterverein, ob die Ablehnung zulässig war."
+        },
+        {
+          "titel": "WG-Regeln klären",
+          "text": "Klären Sie, wer im Hauptvertrag steht und wer wem was schuldet."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "Erlaubnis nötig",
+          "was": "Ohne Erlaubnis keine Untervermietung",
+          "grundlage": "§ 540 Abs. 1 BGB"
+        },
+        {
+          "wert": "Anspruch bei berechtigtem Interesse",
+          "was": "Erlaubnis für einen Teil des Wohnraums verlangen",
+          "grundlage": "§ 553 Abs. 1 BGB"
+        }
+      ],
+      "achtung": [
+        "Untervermietung ohne Erlaubnis kann zur Kündigung führen.",
+        "Sie haften auch für Fehlverhalten des Untermieters (§ 540 Abs. 2 BGB).",
+        "Der Vermieter darf die Zustimmung an einen Mietaufschlag knüpfen, wenn sie sonst unzumutbar wäre (§ 553 Abs. 2 BGB).",
+        "Zu Gesamtschuld, Auszug einzelner WG-Mitglieder und Kaution in der WG gibt dieser Wegweiser keine geprüften Aussagen."
+      ],
+      "fach_html": "<h3>Erlaubnispflicht, § 540 BGB</h3><p>Der Mieter ist ohne Erlaubnis des Vermieters nicht berechtigt, den Gebrauch der Mietsache einem Dritten zu überlassen, insbesondere sie weiter zu vermieten. Verweigert der Vermieter die Erlaubnis, kann der Mieter das Mietverhältnis außerordentlich mit der gesetzlichen Frist kündigen, sofern nicht in der Person des Dritten ein wichtiger Grund vorliegt. Der Mieter hat ein dem Dritten bei dem Gebrauch zur Last fallendes Verschulden auch dann zu vertreten, wenn der Vermieter die Erlaubnis erteilt hat (Abs. 2).</p><h3>Anspruch auf Gestattung, § 553 BGB</h3><p>Entsteht für den Mieter nach Abschluss des Mietvertrags ein berechtigtes Interesse, einen Teil des Wohnraums einem Dritten zum Gebrauch zu überlassen, kann er vom Vermieter die Erlaubnis verlangen. Das gilt nicht, wenn in der Person des Dritten ein wichtiger Grund vorliegt, der Wohnraum übermäßig belegt würde oder die Überlassung dem Vermieter aus anderen Gründen nicht zugemutet werden kann. Ist dem Vermieter die Überlassung nur bei einer angemessenen Erhöhung der Miete zuzumuten, kann er die Erlaubnis davon abhängig machen. Abweichende Vereinbarungen zum Nachteil des Mieters sind unwirksam.</p><h3>Lücke</h3><p>Zu WG-typischen Fragen (mehrere Hauptmieter, Ausscheiden einzelner Mieter, Gesamtschuldner) wurden für diesen Wegweiser keine Primärquellen ausgewertet. Bitte Beratung im Einzelfall.</p>",
+      "zustaendig": [
+        "Vermieter (Erlaubnis)",
+        "Mieterverein (Beratung zu Untermiete und WG)",
+        "Amtsgericht (bei Streit um Erlaubnis)"
+      ],
+      "belege": [
+        "Bundesministerium der Justiz, Gesetze im Internet, § 540 BGB, abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, Gesetze im Internet, § 553 BGB, abgerufen 20.09.2026",
+        "Deutscher Mieterbund, Startseite (Beratungsangebot), abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "mietvertrag-kaution",
+        "kuendigung-mieter"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "uebergabe-schoenheitsreparaturen",
+      "kategorie": "wohnung",
+      "titel": "Wohnungsübergabe und Schönheitsreparaturen",
+      "icon": "🖌️",
+      "teaser": "Was bei Ein- und Auszug zu beachten ist, wann Renovierungsklauseln unwirksam sind und welche Verjährung gilt.",
+      "schlagworte": [
+        "Wohnungsübergabe",
+        "Übergabeprotokoll",
+        "Schönheitsreparaturen",
+        "Renovierungsklausel",
+        "Verjährung",
+        "unrenoviert",
+        "Kaution"
+      ],
+      "kurz_html": "<p>Bei Ein- und Auszug lohnt ein schriftliches Übergabeprotokoll. Halten Sie den Zustand der Wohnung fest, mit Fotos und Zeugen.</p><p>Schönheitsreparaturen sind zum Beispiel Streichen. Ob Sie dazu verpflichtet sind, steht im Mietvertrag. Viele Klauseln sind unwirksam. Nach einem Urteil des Bundesgerichtshofs von 2020 gilt: Haben Sie die Wohnung unrenoviert übernommen und keinen angemessenen Ausgleich bekommen, gilt eine Renovierungsklausel nicht gegen Sie.</p><p>Wird die unrenovierte Wohnung später stark abgewohnt, können Sie sogar verlangen, dass der Vermieter renoviert. Sie müssen sich dann in der Regel zur Hälfte an den Kosten beteiligen.</p><p>Wegen Schäden an der Wohnung verjähren Ansprüche des Vermieters nach sechs Monaten ab Rückgabe.</p>",
+      "schritte": [
+        {
+          "titel": "Protokoll führen",
+          "text": "Notieren Sie beim Einzug und Auszug alle Mängel. Beide Seiten unterschreiben."
+        },
+        {
+          "titel": "Fotos machen",
+          "text": "Fotografieren Sie Zustand, Zählerstände und Schlüsselübergabe mit Datum."
+        },
+        {
+          "titel": "Klausel prüfen lassen",
+          "text": "Lassen Sie Renovierungsklauseln vor dem Streichen prüfen."
+        },
+        {
+          "titel": "Frist im Blick",
+          "text": "Ansprüche wegen Schäden verjähren nach sechs Monaten. Heben Sie das Protokoll lange auf."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "6 Monate",
+          "was": "Verjährung von Ersatzansprüchen des Vermieters wegen Veränderungen oder Verschlechterungen, ab Rückerhalt der Sache",
+          "grundlage": "§ 548 Abs. 1 BGB"
+        },
+        {
+          "wert": "6 Monate",
+          "was": "Verjährung von Ansprüchen des Mieters auf Ersatz von Aufwendungen oder auf Gestattung der Wegnahme von Einrichtungen, ab Ende des Mietverhältnisses",
+          "grundlage": "§ 548 Abs. 2 BGB"
+        }
+      ],
+      "achtung": [
+        "Starre Renovierungsfristen und Farbvorgaben sind oft unwirksam. Lassen Sie das prüfen.",
+        "Haben Sie eine unrenovierte Wohnung ohne Ausgleich übernommen, sind Schönheitsreparaturklauseln unwirksam (BGH, 8.7.2020).",
+        "Kostenbeteiligung bei Renovierung durch den Vermieter: in der Regel hälftig.",
+        "Fristen für die Rückgabe der Kaution stehen nicht im Gesetz; hier nicht geprüft."
+      ],
+      "fach_html": "<h3>Verjährung, § 548 BGB</h3><p>Die Ersatzansprüche des Vermieters wegen Veränderungen oder Verschlechterungen der Mietsache verjähren in sechs Monaten. Die Verjährung beginnt mit dem Zeitpunkt, in dem er die Mietsache zurückerhält. Ansprüche des Mieters auf Ersatz von Aufwendungen oder auf Gestattung der Wegnahme einer Einrichtung verjähren in sechs Monaten nach der Beendigung des Mietverhältnisses.</p><h3>Unrenoviert überlassene Wohnung, BGH 8. Juli 2020 (VIII ZR 163/18, VIII ZR 270/18)</h3><p>Nach der Pressemitteilung des Bundesgerichtshofs kann der Mieter einer unrenoviert überlassenen Wohnung vom Vermieter Schönheitsreparaturen verlangen, wenn sich der Dekorationszustand wesentlich verschlechtert hat und die Renovierungsklausel wegen fehlenden angemessenen Ausgleichs unwirksam ist. Der Mieter hat sich nach Treu und Glauben angemessen an den erforderlichen Kosten zu beteiligen, weil die Renovierung über den vertragsgemäßen unrenovierten Zustand hinausgeht. Als Maßstab gilt in der Regel eine hälftige Beteiligung. Rechtsgrundlagen: §§ 535, 242 BGB.</p><h3>Lücken</h3><p>Zu Fristen für die Kautionsabrechnung, zum Umfang zulässiger Klauseln bei renoviert übergebenen Wohnungen und zur Rechtsprechung nach 2020 wurden keine weiteren Primärquellen ausgewertet.</p>",
+      "zustaendig": [
+        "Mieterverein (Klausel- und Schadensprüfung)",
+        "Amtsgericht (bei Streit)",
+        "Verbraucherzentrale (Ratgeber)"
+      ],
+      "belege": [
+        "Bundesgerichtshof, Pressemitteilung zu VIII ZR 163/18 und VIII ZR 270/18 vom 08.07.2020, abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, Gesetze im Internet, § 548 BGB, abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, Gesetze im Internet, § 551 BGB, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "mietvertrag-kaution",
+        "kuendigung-mieter"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "wohngeld",
+      "kategorie": "miete",
+      "titel": "Wohngeld für Mieter",
+      "icon": "🏷️",
+      "teaser": "Zuschuss zur Miete für Haushalte mit geringem Einkommen: wer ihn bekommt, wo er beantragt wird und was 2026 gilt.",
+      "schlagworte": [
+        "Wohngeld",
+        "Mietzuschuss",
+        "Wohngeldbehörde",
+        "Heizkostenkomponente",
+        "Klimakomponente",
+        "Antrag",
+        "Wohngeld Plus"
+      ],
+      "kurz_html": "<p>Wohngeld ist ein staatlicher Zuschuss zur Miete. Er ist für Haushalte mit geringem Einkommen, die kein Grundsicherungsgeld oder ähnliche Leistungen bekommen. Auch Rentnerinnen, Rentner, Familien und Geringverdienende können Anspruch haben.</p><p>Sie beantragen Wohngeld bei der Wohngeldbehörde Ihrer Gemeinde oder Ihres Kreises. Viele Bundesländer bieten Online-Anträge an. Wohngeld wird in der Regel ab dem Monat gezahlt, in dem der Antrag bei der Behörde eingeht. Eine Zahlung für frühere Monate gibt es meist nicht. Stellen Sie den Antrag also früh.</p><p>Mit der Wohngeld-Plus-Reform zum 1. Januar 2023 stieg das durchschnittliche Wohngeld um 190 Euro auf etwa 370 Euro pro Monat. Die Fortschreibung zum 1. Januar 2025 brachte im Schnitt rund 30 Euro mehr pro Monat (etwa 15 Prozent gegenüber 2023). Die nächste gesetzliche Anpassung ist für den 1. Januar 2027 vorgesehen. Die genaue Höhe hängt von Einkommen, Miete, Haushaltsgröße und Mietenstufe ab.</p>",
+      "schritte": [
+        {
+          "titel": "Vorab prüfen",
+          "text": "Nutzen Sie einen Wohngeldrechner Ihres Landes oder Ihrer Kommune."
+        },
+        {
+          "titel": "Antrag stellen",
+          "text": "Reichen Sie den Antrag bei der Wohngeldbehörde ein. Ein formloser Antrag sichert oft den Beginn."
+        },
+        {
+          "titel": "Unterlagen sammeln",
+          "text": "Mietvertrag, Einkommensnachweise und Angaben zu allen Haushaltsmitgliedern."
+        },
+        {
+          "titel": "Bescheid prüfen",
+          "text": "Legen Sie bei Fehlern Widerspruch ein. Die Frist steht im Bescheid."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "ca. 370 Euro (2023); +ca. 30 Euro (2025)",
+          "was": "Durchschnittliches Wohngeld pro Monat nach der Wohngeld-Plus-Reform 1.1.2023 (Anstieg um 190 Euro auf etwa 370 Euro); Fortschreibung 1.1.2025 im Schnitt ca. +30 Euro/Monat (+15 % ggü. 2023)",
+          "grundlage": "BMWSB-Seite zum Wohngeld"
+        },
+        {
+          "wert": "1. Januar 2027",
+          "was": "Nächste vorgesehene gesetzliche Anpassung (Zweijahresrhythmus)",
+          "grundlage": "BMWSB-Seite zum Wohngeld"
+        },
+        {
+          "wert": "ab Antragsmonat",
+          "was": "Zahlung beginnt in der Regel im Monat des Antrags",
+          "grundlage": "BMWSB-Seite zum Wohngeld"
+        }
+      ],
+      "achtung": [
+        "Wer Grundsicherungsgeld oder Grundsicherung bekommt, hat in der Regel keinen Wohngeldanspruch daneben; der Wohnkostenanteil steckt schon in diesen Leistungen (hier nicht im Wortlaut geprüft).",
+        "Wohngeld gibt es meist nicht rückwirkend. Stellen Sie den Antrag früh.",
+        "Höchstbeträge stehen in Anlage 1 zum WoGG (§ 12 Abs. 1), die Mietenstufen in § 12 Abs. 5 WoGG. Sie hängen vom Wohnort ab.",
+        "Die Höchstbeträge (Anlage 1 WoGG i. d. F. BGBl. 2024 I Nr. 314) gelten seit 1. Januar 2025 unverändert fort; die Dynamisierung erfolgt im Zweijahresrhythmus, die nächste zum 1. Januar 2027."
+      ],
+      "fach_html": "<h3>Rechtsgrundlage</h3><p>Wohngeld ist im Wohngeldgesetz (WoGG) geregelt. § 12 WoGG legt fest: Abs. 1 mit Anlage 1 die monatlichen Höchstbeträge für Miete und Belastung nach Mietenstufe und Haushaltsgröße, Abs. 5 die Mietenstufen, Abs. 6 die Heizkostenkomponente, Abs. 7 die Klimakomponente. Anlage 1 in der Fassung BGBl. 2024 I Nr. 314 gilt seit 1. Januar 2025 unverändert fort; die Dynamisierung erfolgt im Zweijahresrhythmus, die nächste zum 1. Januar 2027. Die Mietenstufen reichen von I (Mietenniveau unter minus 15 Prozent) bis VII (Mietenniveau ab 35 Prozent).</p><h3>Heizkosten- und Klimakomponente</h3><p>Heizkostenkomponente, § 12 Abs. 6 WoGG, monatlich bei 1 / 2 / 3 / 4 / 5 Haushaltsmitgliedern: 110,40 / 142,60 / 170,20 / 197,80 / 225,40 Euro; je weiteres Haushaltsmitglied 27,60 Euro mehr. Klimakomponente, § 12 Abs. 7 WoGG: 19,20 / 24,80 / 29,60 / 34,40 / 39,20 Euro; je weiteres Haushaltsmitglied 4,80 Euro mehr.</p><h3>Antrag und Zuständigkeit</h3><p>Anträge sind bei der örtlichen Wohngeldbehörde zu stellen. Das Bundesbauministerium nennt rund 1,2 Millionen Wohngeldhaushalte, eine Wohngeld-Hotline (030 20179050, Mo bis Do 8 bis 18 Uhr, Fr 8 bis 12 Uhr) und die Anpassung im Zweijahresrhythmus, zuletzt zum 1. Januar 2025, die nächste zum 1. Januar 2027.</p><h3>Wohngeld-Plus-Reform</h3><p>Die Reform vom 1. Januar 2023 hat laut BMWSB den Kreis der Berechtigten deutlich vergrößert und die Heizkosten- und Klimakomponente eingeführt.</p>",
+      "zustaendig": [
+        "Wohngeldbehörde der Gemeinde oder des Kreises",
+        "Bundesbauministerium (BMWSB, Informationsseite und Hotline)",
+        "Sozialberatung vor Ort"
+      ],
+      "belege": [
+        "Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen, Seite Wohngeld, abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, Gesetze im Internet, § 12 WoGG, abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, Gesetze im Internet, Anlage 1 zu § 12 WoGG (Fassung BGBl. 2024 I Nr. 314), abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "heizkosten-co2",
+        "miete-mietpreisbremse"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "heizkosten-co2",
+      "kategorie": "nebenkosten",
+      "titel": "Heizkosten und CO2-Kostenaufteilung",
+      "icon": "🌡️",
+      "teaser": "Wie Heizkosten abgerechnet werden, wann Sie kürzen dürfen und wie sich Vermieter und Mieter den CO2-Preis teilen.",
+      "schlagworte": [
+        "Heizkosten",
+        "Heizkostenverordnung",
+        "CO2-Kosten",
+        "Stufenmodell",
+        "Kürzungsrecht",
+        "verbrauchsabhängig",
+        "Energie"
+      ],
+      "kurz_html": "<p>Heizung und Warmwasser müssen in der Regel nach Verbrauch abgerechnet werden. Geschieht das nicht, dürfen Sie Ihren Kostenanteil um 15 Prozent kürzen.</p><p>Der Staat verlangt einen CO2-Preis auf Öl und Gas. Diese Kosten müssen sich Vermieter und Mieter teilen. Wie, hängt vom Energieverbrauch des Gebäudes ab: Je schlechter das Gebäude, desto mehr zahlt der Vermieter. Im schlechtesten Fall trägt er 95 Prozent, im besten Fall 0 Prozent.</p><p>Prüfen Sie in der Abrechnung, ob der CO2-Kostenanteil ausgewiesen und richtig aufgeteilt ist.</p><p>Auch für Heizkostenabrechnungen gilt die zwölfmonatige Einwendungsfrist nach Erhalt.</p>",
+      "schritte": [
+        {
+          "titel": "Abrechnung lesen",
+          "text": "Suchen Sie Verbrauchswerte, Kosten pro Einheit und den CO2-Kostenanteil."
+        },
+        {
+          "titel": "Aufteilung prüfen",
+          "text": "Ist der CO2-Preis nach dem Stufenmodell zwischen Vermieter und Mieter geteilt?"
+        },
+        {
+          "titel": "Kürzung prüfen",
+          "text": "Wurde nicht nach Verbrauch abgerechnet? Dann ist ein Kürzungsrecht möglich."
+        },
+        {
+          "titel": "Einwände fristgerecht",
+          "text": "Erheben Sie Einwände schriftlich, spätestens zwölf Monate nach Zugang der Abrechnung."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "15 Prozent",
+          "was": "Kürzungsrecht bei nicht verbrauchsabhängiger Abrechnung",
+          "grundlage": "§ 12 Abs. 1 HeizkostenV"
+        },
+        {
+          "wert": "0 bis 95 Prozent",
+          "was": "Anteil des Vermieters an den CO2-Kosten im Stufenmodell (Extremwerte)",
+          "grundlage": "§ 5 CO2KostAufG"
+        },
+        {
+          "wert": "12 Monate",
+          "was": "Einwendungsfrist ab Zugang der Abrechnung",
+          "grundlage": "§ 556 Abs. 3 BGB"
+        }
+      ],
+      "achtung": [
+        "Zusätzliche Kürzung um 3 Prozent möglich, wenn keine fernablesbare Verbrauchserfassung installiert ist oder Informationen fehlen (§ 12 HeizkostenV).",
+        "Bei eigener Wärmeversorgung durch den Mieter gilt eine gesonderte Einstufung (§ 5 Abs. 3 CO2KostAufG).",
+        "Die genauen Zwischenstufen des Stufenmodells stehen in der Anlage zum CO2KostAufG; nicht im Detail geprüft.",
+        "Wohngeld enthält eine Heizkosten- und Klimakomponente (siehe Seite Wohngeld)."
+      ],
+      "fach_html": "<h3>Kürzungsrecht, § 12 HeizkostenV</h3><p>Soweit die Kosten der Versorgung mit Wärme oder Warmwasser entgegen den Vorschriften der Verordnung nicht verbrauchsabhängig abgerechnet werden, hat der Nutzer das Recht, den auf ihn entfallenden Anteil um 15 vom Hundert zu kürzen. Zusätzlich kann er um 3 Prozent kürzen, wenn der Gebäudeeigentümer keine fernablesbare Verbrauchserfassungsausstattung installiert hat, sowie um weitere 3 Prozent, wenn erforderliche Informationen nicht oder unvollständig mitgeteilt werden. Die Regelung gilt nicht für Wohnungseigentümer im Verhältnis zur Gemeinschaft.</p><h3>CO2-Kostenaufteilung, § 5 CO2KostAufG</h3><p>Der spezifische Kohlendioxidausstoß des Gebäudes in Kilogramm CO2 je Quadratmeter Wohnfläche und Jahr wird ermittelt und einer Stufe der Anlage zugeordnet. Bei höchstem Ausstoß trägt der Vermieter 95 Prozent und der Mieter 5 Prozent, bei niedrigstem Ausstoß trägt der Mieter 100 Prozent. Bei eigenständiger Wärmeversorgung durch den Mieter gilt Abs. 3. Die Zwischenstufen ergeben sich aus der Anlage zum Gesetz.</p><h3>Verhältnis zur Betriebskostenabrechnung</h3><p>Heizkosten sind Betriebskosten nach § 2 BetrKV. Für die Abrechnung und die Einwendungsfristen gilt § 556 Abs. 3 BGB.</p>",
+      "zustaendig": [
+        "Mieterverein (Prüfung der Heizkostenabrechnung)",
+        "Verbraucherzentrale (Energieberatung)",
+        "Amtsgericht (bei Streit)"
+      ],
+      "belege": [
+        "Bundesministerium der Justiz, Gesetze im Internet, § 12 HeizkostenV, abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, Gesetze im Internet, § 5 CO2KostAufG, abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, Gesetze im Internet, § 556 BGB und § 2 BetrKV, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "nebenkosten",
+        "wohngeld"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "beratung",
+      "kategorie": "hilfe",
+      "titel": "Beratung und Anlaufstellen",
+      "icon": "🤝",
+      "teaser": "Wo Sie Rat bekommen: Mieterverein, Beratungshilfe, Amtsgericht und Ämter.",
+      "schlagworte": [
+        "Mieterverein",
+        "Mieterbund",
+        "Beratungshilfe",
+        "Rechtsberatung",
+        "Amtsgericht",
+        "Rechtsantragstelle",
+        "Verbraucherzentrale"
+      ],
+      "kurz_html": "<p>Bei Streit ums Wohnen müssen Sie nicht allein bleiben.</p><ul><li><strong>Mieterverein:</strong> Der Deutsche Mieterbund ist der Dachverband von 15 Landesverbänden und über 300 örtlichen Mietervereinen. Sie beraten persönlich, am Telefon und online, zum Beispiel bei Mieterhöhung, Kündigung, Kaution und Nebenkosten. Sie werden dort in der Regel Mitglied.</li><li><strong>Beratungshilfe:</strong> Wenn Ihr Geld nicht reicht, kann Beratungshilfe die Kosten für eine anwaltliche Beratung übernehmen. Voraussetzung ist unter anderem, dass es keine andere zumutbare Hilfe gibt und die Inanspruchnahme nicht mutwillig ist.</li><li><strong>Amtsgericht:</strong> Beratungshilfe wird meist dort beantragt (die Rechtsantragstelle hilft). Ihr Amtsgericht ist auch für Klagen zuständig.</li><li><strong>Jobcenter und Sozialamt:</strong> bei Mietschulden und drohendem Wohnungsverlust.</li></ul><p>Gehen Sie früh hin, am besten mit allen Unterlagen: Mietvertrag, Schreiben des Vermieters und Zahlungsbelege.</p>",
+      "schritte": [
+        {
+          "titel": "Unterlagen bündeln",
+          "text": "Mietvertrag, Schreiben mit Datum, Abrechnungen, Fotos, Zahlungsnachweise."
+        },
+        {
+          "titel": "Mieterverein suchen",
+          "text": "Nutzen Sie die Suche auf der Seite des Deutschen Mieterbunds nach Ihrem örtlichen Verein."
+        },
+        {
+          "titel": "Bei geringem Einkommen",
+          "text": "Fragen Sie beim Amtsgericht nach Beratungshilfe für die anwaltliche Erstberatung."
+        },
+        {
+          "titel": "Bei Notlage",
+          "text": "Bei drohendem Wohnungsverlust sofort Jobcenter oder Sozialamt kontaktieren."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "über 300",
+          "was": "Örtliche Mietervereine im Deutschen Mieterbund (Angabe DMB)",
+          "grundlage": "mieterbund.de"
+        },
+        {
+          "wert": "3 Voraussetzungen",
+          "was": "Beratungshilfe: Bedürftigkeit, keine andere zumutbare Hilfe, keine Mutwilligkeit",
+          "grundlage": "§ 1 BerHG"
+        },
+        {
+          "wert": "15,00 Euro",
+          "was": "Beratungshilfegebühr, einziger Kostenanteil der Rechtsuchenden; keine Auslagen; kann erlassen werden",
+          "grundlage": "Nr. 2500 VV RVG (Anlage 1 zum RVG); § 8 BerHG"
+        }
+      ],
+      "achtung": [
+        "Konkrete Adressen und Telefonnummern örtlicher Stellen sind hier nicht aufgeführt. Suchen Sie sie über die Seite des Deutschen Mieterbunds oder Ihres Amtsgerichts.",
+        "Eine Mitgliedschaft im Mieterverein kostet einen Beitrag. Höhe hängt vom Verein ab, hier nicht geprüft.",
+        "Beratungshilfe ist keine Prozesskostenhilfe. Sie deckt die Beratung außerhalb eines Verfahrens.",
+        "Dieser Wegweiser ersetzt keine Rechtsberatung."
+      ],
+      "fach_html": "<h3>Deutscher Mieterbund (DMB)</h3><p>Nach eigener Darstellung ist der DMB der größte Mieterverband Deutschlands: Dachverband von 15 Landesverbänden und über 300 örtlichen Mietervereinen mit rund 1,25 Millionen Mitgliedshaushalten und mehr als 500 Beratungsstellen. Angebot: persönliche und telefonische Rechtsberatung, Online-Beratung, Rechtsschutzversicherung, Unterstützung bei Mieterhöhung, Kündigung, Kaution und Betriebskosten. Mitglieder finden ihren regionalen Verein über die Website mieterbund.de.</p><h3>Beratungshilfe, BerHG</h3><p>Nach § 1 BerHG wird Beratungshilfe gewährt, wenn der Rechtsuchende die erforderlichen Mittel nach seinen persönlichen und wirtschaftlichen Verhältnissen nicht aufbringen kann, keine anderen zumutbaren Hilfemöglichkeiten bestehen und die Inanspruchnahme nicht mutwillig ist. Mutwillig ist sie, wenn eine Person ohne finanzielle Mittel bei verständiger Würdigung aller Umstände auf eigene Kosten verzichten würde. Nach § 8 BerHG richtet sich die Vergütung der Beratungsperson nach dem Rechtsanwaltsvergütungsgesetz; Rechtsuchende können nur mit der Beratungshilfegebühr (§ 44 Satz 2 RVG) belastet werden. Die Beratungshilfegebühr beträgt 15,00 Euro (Nr. 2500 VV RVG, Anlage 1 zum RVG), Auslagen werden nicht erhoben, die Gebühr kann erlassen werden. Antrag nach §§ 4, 6 BerHG beim Amtsgericht des allgemeinen Gerichtsstands des Rechtsuchenden, mündlich oder schriftlich; ein nachträglicher Antrag ist binnen vier Wochen möglich.</p><h3>Sozialbehörden</h3><p>Bei Mietschulden und drohender Wohnungslosigkeit kommen Jobcenter (§ 22 Abs. 8 SGB II) und Sozialamt in Betracht. Nach § 22 Abs. 9 SGB II informiert das Gericht das zuständige Amt über Räumungsklagen wegen Mietrückstands.</p><h3>Wohngeld</h3><p>Für laufende Mietentlastung ist die örtliche Wohngeldbehörde zuständig. Die Bundes-Hotline des BMWSB ist unter 030 20179050 erreichbar (Mo bis Do 8 bis 18 Uhr, Fr 8 bis 12 Uhr).</p>",
+      "zustaendig": [
+        "Örtlicher Mieterverein (über den Deutschen Mieterbund zu finden)",
+        "Amtsgericht, Rechtsantragstelle (Beratungshilfe)",
+        "Jobcenter oder Sozialamt (Mietschulden, Wohnungsnot)",
+        "Wohngeldbehörde"
+      ],
+      "belege": [
+        "Deutscher Mieterbund, Startseite mieterbund.de, abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, Gesetze im Internet, §§ 1, 4, 6 und 8 BerHG; Nr. 2500 VV RVG (Anlage 1 zum RVG), abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, Gesetze im Internet, § 22 SGB II, abgerufen 20.09.2026",
+        "Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen, Seite Wohngeld (Hotline), abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "ueberblick",
+        "raeumung-haertefall",
+        "wohngeld"
+      ],
+      "stand": "September 2026"
+    }
+  ]
+}

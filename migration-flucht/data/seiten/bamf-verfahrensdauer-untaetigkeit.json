@@ -1,0 +1,84 @@
+{
+  "id": "bamf-verfahrensdauer-untaetigkeit",
+  "kategorie": "behoerde-untaetig",
+  "titel": "Asylverfahren dauert lange: Nachfragen und Untätigkeitsklage gegen das BAMF",
+  "icon": "📂",
+  "teaser": "Das BAMF entscheidet nicht über Ihren Asylantrag? Sie können nachfragen und nach drei Monaten eine Untätigkeitsklage erheben. Gerichtskosten fallen dafür nicht an.",
+  "schlagworte": [
+    "BAMF",
+    "Asylverfahren",
+    "Verfahrensdauer",
+    "Untätigkeitsklage",
+    "§ 83b AsylG",
+    "Asylverfahrensverordnung",
+    "GEAS",
+    "Anhörung"
+  ],
+  "kurz_html": "<p>Sie warten schon lange auf eine Entscheidung über Ihren Asylantrag? Dann können Sie beim Bundesamt für Migration und Flüchtlinge (BAMF) schriftlich nachfragen.</p><p>Für Asylanträge ab dem 12. Juni 2026 gilt das neue europäische Asylrecht (GEAS). Danach soll das BAMF in der Regel innerhalb von <strong>sechs Monaten</strong> entscheiden. Die Frist kann verlängert werden. Ältere Anträge bearbeitet das BAMF nach den alten Vorschriften weiter.</p><p>Wenn nichts passiert, ist eine <strong>Untätigkeitsklage</strong> beim Verwaltungsgericht möglich, frühestens drei Monate nach dem Antrag. Das Gericht verpflichtet das BAMF meist nur, zu entscheiden. Es entscheidet nicht selbst über Ihren Schutz.</p><p><strong>Gerichtskosten gibt es in Asylsachen nicht.</strong> Einen Anwalt brauchen Sie nicht, er kann aber helfen.</p><p>Diese Seite informiert allgemein. Sie ersetzt keine Rechtsberatung.</p>",
+  "schritte": [
+    {
+      "titel": "Daten sammeln",
+      "text": "Datum der Asylantragstellung, Aktenzeichen, Datum der Anhörung (falls es eine gab) notieren."
+    },
+    {
+      "titel": "Beim BAMF nachfragen",
+      "text": "Schriftlich nach dem Stand fragen und um Mitteilung bitten, wann entschieden wird. Kopie aufheben."
+    },
+    {
+      "titel": "Beratung holen",
+      "text": "Mit einer Asylverfahrensberatung besprechen, ob eine Klage sinnvoll ist. Eine schnelle Ablehnung kann auch ein Nachteil sein."
+    },
+    {
+      "titel": "Klage erheben",
+      "text": "Beim Verwaltungsgericht, das für Ihren zugewiesenen Wohnort zuständig ist: schriftlich oder bei der Rechtsantragstelle."
+    }
+  ],
+  "fristen": [
+    {
+      "wert": "6 Monate",
+      "was": "Regelfrist für den Abschluss der Prüfung ab Einreichung des Antrags; Verlängerung um höchstens sechs weitere Monate möglich.",
+      "grundlage": "Art. 35 Abs. 4 und 5 VO (EU) 2024/1348"
+    },
+    {
+      "wert": "3 Monate",
+      "was": "Frühester Zeitpunkt der Untätigkeitsklage nach Antragstellung (außer bei besonderen Umständen).",
+      "grundlage": "§ 75 VwGO"
+    },
+    {
+      "wert": "0 € Gerichtskosten",
+      "was": "In Streitigkeiten nach dem Asylgesetz werden Gerichtskosten (Gebühren und Auslagen) nicht erhoben.",
+      "grundlage": "§ 83b AsylG"
+    },
+    {
+      "wert": "11,9 Monate",
+      "was": "Durchschnittliche Verfahrensdauer der Erst- und Folgeanträge 2026 (bis August) bei Antragstellung vor dem 12. Juni 2026 laut BAMF.",
+      "grundlage": "BAMF, Asylzahlen August 2026 (Meldung vom 16.09.2026)"
+    }
+  ],
+  "achtung": [
+    "Für Asylanträge ab dem 12.06.2026 ist § 24 AsylG weggefallen. Wurde der Antrag vor dem 12.06.2026 förmlich gestellt, bearbeitet das BAMF ihn nach den alten Verfahrensvorschriften; dann gilt auch der Mitteilungsanspruch nach sechs Monaten (§ 24 Abs. 4 AsylG alte Fassung) weiter.",
+    "Die Klage führt meist nur zur Pflicht des BAMF, zu entscheiden – nicht automatisch zu Schutz.",
+    "Eine beschleunigte Entscheidung kann auch eine Ablehnung sein; dann laufen kurze Klagefristen (1 bzw. 2 Wochen, § 74 AsylG).",
+    "Laut BAMF gelten für Anträge, die vor dem 12.06.2026 gestellt wurden, weiter die alten Verfahrensvorschriften; die Fristen des Art. 35 der Verordnung (EU) 2024/1348 betreffen Anträge ab dem 12.06.2026.",
+    "Keine Gerichtskosten heißt nicht kostenlos: Eigene Anwaltskosten können anfallen."
+  ],
+  "fach_html": "<h3>Rechtslage seit GEAS (12.06.2026)</h3><p>§ 24 AsylG ist durch das GEAS-Anpassungsgesetz vom 23.04.2026 (BGBl. 2026 I Nr. 111) mit Wirkung zum 12.06.2026 weggefallen; damit auch der frühere Mitteilungsanspruch nach Abs. 4. Für Anträge, die vor dem 12.06.2026 förmlich gestellt wurden, wendet das BAMF nach eigener Auskunft weiter die alten Verfahrensvorschriften an (§§ 24, 25 AsylG alte Fassung). Für Anträge ab dem 12.06.2026 ist maßgeblich Art. 35 der Asylverfahrensverordnung (EU) 2024/1348: Die Asylbehörde stellt sicher, dass das Verfahren „so schnell wie möglich, spätestens jedoch innerhalb von sechs Monaten nach dem Zeitpunkt der Einreichung des Antrags abgeschlossen wird“ (Abs. 4). Sie kann diese Frist „um höchstens sechs weitere Monate verlängern“, etwa bei unverhältnismäßig vielen gleichzeitigen Anträgen oder komplexen Sach- und Rechtsfragen (Abs. 5). Beschleunigte Verfahren sind „spätestens jedoch innerhalb von drei Monaten“ abzuschließen (Abs. 3). Bei vorübergehend ungewisser Lage im Herkunftsland kann der Abschluss aufgeschoben werden; die Antragsteller sind über die Gründe zu unterrichten, das Verfahren ist „in jedem Fall innerhalb von 21 Monaten nach der Einreichung des Antrags“ abzuschließen (Abs. 7). Die Absatznummern konnten nicht am Amtsblatt-Text geprüft werden (EUR-Lex bei Abruf nicht erreichbar); die Fristen selbst sind durch Sekundärquellen bestätigt. Ob Gerichte diese Fristen als Maßstab für die „angemessene Frist“ in § 75 VwGO heranziehen, ist noch nicht durch Rechtsprechung belegt.</p><h3>Untätigkeitsklage gegen das BAMF</h3><p>Die Klage richtet sich gegen die Bundesrepublik Deutschland (BAMF) und ist nach § 75 VwGO frühestens drei Monate nach Antragstellung zulässig. Örtlich zuständig ist in Asylstreitigkeiten grundsätzlich das Verwaltungsgericht, „in dessen Bezirk der Ausländer nach dem Asylgesetz seinen Aufenthalt zu nehmen hat“ (§ 52 Nr. 2 Satz 3 VwGO). Das BVerwG (Urteil vom 11.07.2018, 1 C 18.17) bejaht ein Rechtsschutzbedürfnis für eine Klage „mit dem Ziel, das Bundesamt für Migration und Flüchtlinge zur Bescheidung seines Antrages zu verpflichten“, jedenfalls wenn noch keine Anhörung stattgefunden hat; offen blieb, ob auch direkt auf Schutzgewährung geklagt werden kann. Praktisch erreicht die Klage daher meist eine Entscheidungspflicht.</p><h3>Kosten</h3><p>§ 83b AsylG: „Gerichtskosten (Gebühren und Auslagen) werden in Streitigkeiten nach diesem Gesetz nicht erhoben.“ Für Anwaltsgebühren beträgt der Gegenstandswert nach § 30 Abs. 1 RVG „in Klageverfahren nach dem Asylgesetz […] 5 000 Euro“. Durfte der Kläger vor Klageerhebung mit einer Entscheidung rechnen, trägt der Bund die außergerichtlichen Kosten (§ 161 Abs. 3 VwGO).</p><h3>Verfahrensdauer laut BAMF</h3><p>Laut BAMF (Asylzahlen August 2026, Meldung vom 16.09.2026) betrug die Verfahrensdauer der Erst- und Folgeanträge 2026 für Verfahren mit Antragstellung vor dem 12. Juni 2026 im Durchschnitt 11,9 Monate. Für Anträge ab dem 12. Juni 2026 liegen noch keine verlässlichen Angaben vor. Ende August 2026 waren 54.917 Verfahren anhängig.</p><h3>Sonderfall Zuständigkeitsverfahren</h3><p>Ist ein anderer EU-Staat zuständig, gelten seit 12.06.2026 statt der Dublin-III-Verordnung die Regeln der Verordnung (EU) 2024/1351 mit eigenen Fristen; diese sind hier nicht dargestellt.</p><h3>Selbst machen oder Anwalt?</h3><p>Vor dem Verwaltungsgericht besteht kein Anwaltszwang (§ 67 Abs. 1 VwGO); die Klage kann schriftlich oder zu Protokoll der Rechtsantragstelle erhoben werden (§ 81 Abs. 1 VwGO). Gerichtskosten fallen nicht an (§ 83b AsylG); eigene Anwaltskosten trägt, wer unterliegt oder wem sie auferlegt werden. Anwaltliche Hilfe oder Asylverfahrensberatung ist wichtig, weil eine erzwungene schnelle Entscheidung negativ ausfallen kann und dann sehr kurze Klagefristen gelten, sowie bei Dublin- bzw. Zuständigkeitsfällen.</p>",
+  "zustaendig": [
+    "Bundesamt für Migration und Flüchtlinge (Außenstelle, die das Verfahren führt)",
+    "Verwaltungsgericht am zugewiesenen Aufenthaltsort",
+    "Asylverfahrensberatung, Rechtsanwältin/Rechtsanwalt für Asylrecht"
+  ],
+  "belege": [
+    "Gesetze im Internet, § 83b AsylG und § 24 AsylG (weggefallen); dejure.org zu § 24 AsylG (GEAS-Anpassungsgesetz, BGBl. 2026 I Nr. 111), abgerufen 24.09.2026",
+    "Verordnung (EU) 2024/1348, Art. 35 (Textausgabe HRRF, Stand 1. März 2026), abgerufen 24.09.2026",
+    "Gesetze im Internet, §§ 52, 67, 75, 81, 161 VwGO und § 30 RVG, abgerufen 24.09.2026",
+    "BVerwG, Urteil vom 11.07.2018 – 1 C 18.17 (Leitsätze), abgerufen 24.09.2026",
+    "BAMF, Asylzahlen August 2026 (Meldung vom 16.09.2026) und BAMF, Altverfahren (Anträge vor dem 12.06.2026), abgerufen 24.09.2026"
+  ],
+  "siehe_auch": [
+    "akteneinsicht-auslaenderakte",
+    "beratung-anlaufstellen",
+    "ueberblick-selbst-handeln"
+  ],
+  "stand": "September 2026"
+}

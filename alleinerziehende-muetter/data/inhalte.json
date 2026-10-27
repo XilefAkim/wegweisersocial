@@ -1,0 +1,514 @@
+{
+ "kategorien": [
+  {
+   "id": "ueberblick",
+   "titel": "Überblick und Grundlagen",
+   "icon": "🧭",
+   "beschreibung": "Einstieg: Ihre Rechte als Alleinerziehende im Überblick."
+  },
+  {
+   "id": "unterhalt",
+   "titel": "Unterhalt für das Kind",
+   "icon": "💶",
+   "beschreibung": "Unterhaltsvorschuss beantragen und Kindesunterhalt durchsetzen."
+  },
+  {
+   "id": "steuer-familie",
+   "titel": "Steuer- und Familienleistungen",
+   "icon": "💰",
+   "beschreibung": "Entlastungsbetrag und Kinderzuschlag."
+  },
+  {
+   "id": "grundsicherung-wohnen",
+   "titel": "Grundsicherung und Wohnen",
+   "icon": "🏠",
+   "beschreibung": "Grundsicherungsgeld, Mehrbedarf, Wohngeld und Wohnraum."
+  },
+  {
+   "id": "kinder-sorgerecht",
+   "titel": "Kinder, Betreuung und Sorgerecht",
+   "icon": "👨‍👩‍👧",
+   "beschreibung": "Kitaplatz, Sorgerecht und Umgangsrecht."
+  },
+  {
+   "id": "beruf-alltag",
+   "titel": "Beruf und Alltag",
+   "icon": "💼",
+   "beschreibung": "Vereinbarkeit von Beruf und Familie, Krankheit des Kindes."
+  },
+  {
+   "id": "rechtsschutz-schulden",
+   "titel": "Schulden und Rechtsschutz",
+   "icon": "📉",
+   "beschreibung": "Schulden, Pfändungsschutz und Unterhaltsvollstreckung."
+  },
+  {
+   "id": "beratung",
+   "titel": "Beratung und Anlaufstellen",
+   "icon": "📞",
+   "beschreibung": "Wer bei welchem Anliegen hilft."
+  }
+ ],
+ "seiten": [
+  {
+   "id": "ueberblick-rechte-alleinerziehende",
+   "kategorie": "ueberblick",
+   "titel": "Rechte und Unterstützung im Überblick",
+   "icon": "🧭",
+   "teaser": "Welche Leistungen es für Alleinerziehende gibt, wer dafür zuständig ist und wie die einzelnen Systeme zusammenspielen.",
+   "schlagworte": ["Alleinerziehend", "Unterhaltsvorschuss", "Entlastungsbetrag", "Kinderzuschlag", "Grundsicherungsgeld", "Wechselmodell", "§ 24b EStG", "§ 21 SGB II"],
+   "kurz_html": "\n<p>„Alleinerziehend“ ist kein einheitlicher Rechtsbegriff. Jedes Gesetz definiert eigene Voraussetzungen: Das Steuerrecht verlangt „allein stehend“ mit eigenem Haushalt (§ 24b EStG), das Unterhaltsvorschussgesetz verlangt ledig, verwitwet, geschieden oder dauernd getrennt lebend, und das Sozialrecht verlangt, dass Sie die Personensorge für Ihr Kind tatsächlich allein ausüben (§ 21 Abs. 3 SGB II). Das bedeutet: Sie müssen für unterschiedliche Leistungen unter Umständen unterschiedliche Nachweise erbringen.</p>\n<p>Grob lassen sich die Unterstützungen in sechs Bereiche einteilen: Kindesunterhalt (privatrechtlich gegen den anderen Elternteil), Unterhaltsvorschuss (wenn der Unterhalt ausfällt), Einkommensergänzung (Kinderzuschlag, Wohngeld oder Grundsicherungsgeld mit Mehrbedarf), Steuerentlastung (Entlastungsbetrag), Kinderbetreuung (Rechtsanspruch auf einen Kitaplatz) sowie Sorge- und Umgangsrecht. Die einzelnen Themenseiten dieses Wegweisers gehen jeden Bereich im Detail durch.</p>\n",
+   "schritte": [
+    {"titel": "Sorgerecht und Trennungsstatus klären", "text": "Prüfen Sie, ob Sie das alleinige oder das gemeinsame Sorgerecht haben und seit wann Sie dauernd getrennt leben – das ist Voraussetzung für fast alle folgenden Leistungen."},
+    {"titel": "Kindesunterhalt einfordern", "text": "Fordern Sie den anderen Elternteil zur Auskunft über sein Einkommen auf und lassen Sie den Unterhalt notfalls über eine Beistandschaft beim Jugendamt titulieren."},
+    {"titel": "Bei Ausfall: Unterhaltsvorschuss beantragen", "text": "Zahlt der andere Elternteil nicht oder nicht regelmäßig, beantragen Sie beim Jugendamt Unterhaltsvorschuss."},
+    {"titel": "Einkommenslage vergleichen", "text": "Lassen Sie prüfen, ob Kinderzuschlag und Wohngeld Ihre Bedürftigkeit vollständig decken – das geht in der Regel vor einem Bezug von Grundsicherungsgeld (Bürgergeld)."},
+    {"titel": "Steuerklasse und Entlastungsbetrag beantragen", "text": "Lassen Sie beim Finanzamt die Steuerklasse II eintragen und den Entlastungsbetrag für Alleinerziehende berücksichtigen."},
+    {"titel": "Betreuung frühzeitig sichern", "text": "Melden Sie Ihr Kind so früh wie möglich für einen Kitaplatz oder die Ganztagsbetreuung in der Grundschule an."}
+   ],
+   "fristen": [
+    {"wert": "18. Geburtstag", "was": "Bis dahin kann Unterhaltsvorschuss bezogen werden (unter zusätzlichen Voraussetzungen ab dem 12. Geburtstag)", "grundlage": "§ 1 Abs. 1, 1a UVG"},
+    {"wert": "1 Monat", "was": "Regel-Widerspruchsfrist gegen Bescheide von Jobcenter, Familienkasse oder Jugendamt", "grundlage": "§ 84 SGG bzw. § 70 VwGO je nach Behörde"},
+    {"wert": "3 Jahre", "was": "Regelmäßige Verjährungsfrist für Unterhaltsansprüche, beginnend mit Ablauf des Jahres der Fälligkeit und Kenntnis", "grundlage": "§§ 195, 199 BGB"}
+   ],
+   "achtung": [
+    "Die Begriffe „Bürgergeld“ und „Grundsicherungsgeld“ bezeichnen seit 1. Juli 2026 dieselbe Leistung – ältere Formulare und Bescheide tragen noch den alten Namen.",
+    "Kinderzuschlag und Wohngeld schließen einen Bezug von Grundsicherungsgeld nicht automatisch aus; Jobcenter, Familienkasse und Wohngeldstelle prüfen die günstigste Kombination oft nicht von sich aus – fragen Sie aktiv nach einer Vergleichsberechnung.",
+    "Beim echten (paritätischen) Wechselmodell gelten für Unterhaltsvorschuss, Mehrbedarf und Entlastungsbetrag jeweils eigene Sonderregeln, die von der Alleinerziehenden-Situation abweichen – lassen Sie sich hierzu gesondert beraten.",
+    "Ein einmal gestellter Antrag gilt nicht automatisch für alle Leistungen mit – Kinderzuschlag, Wohngeld, Unterhaltsvorschuss und Grundsicherungsgeld müssen jeweils gesondert beantragt werden."
+   ],
+   "fach_html": "\n<h3>Unterschiedliche Alleinerziehenden-Begriffe</h3>\n<p>Der Entlastungsbetrag (§ 24b EStG) verlangt „allein stehend“ mit einer widerlegbaren Vermutung der Haushaltsgemeinschaft, sobald eine weitere volljährige Person mit Haupt- oder Nebenwohnsitz gemeldet ist. Der Mehrbedarf nach § 21 Abs. 3 SGB II verlangt, dass Sie mit minderjährigen Kindern zusammenleben und deren Pflege und Erziehung allein wahrnehmen. Das Unterhaltsvorschussgesetz verlangt in § 1 Abs. 1 Nr. 2 UVG, dass Sie ledig, verwitwet oder geschieden sind oder dauernd getrennt leben. Diese Definitionen überschneiden sich meist, sind aber nicht identisch – insbesondere beim Wechselmodell oder bei einer neuen Partnerschaft ohne gemeinsamen Haushalt kann eine Leistung zustehen und eine andere nicht.</p>\n<h3>Nachrangigkeit der Sozialleistungen</h3>\n<p>Wie im gesamten deutschen Sozialrecht gilt: Eigenes Einkommen, Vermögen und vorrangige Leistungen (Kindesunterhalt, Unterhaltsvorschuss, Kindergeld, Kinderzuschlag, Wohngeld) müssen zuerst eingesetzt werden, bevor ergänzend Grundsicherungsgeld gezahlt wird. Kindesunterhalt und Unterhaltsvorschuss gelten dabei als Einkommen des Kindes und mindern zunächst dessen eigenen Bedarf innerhalb der Bedarfsgemeinschaft, nicht direkt Ihren eigenen Regelbedarf.</p>\n<h3>Wechselmodell als Sonderfall</h3>\n<p>Betreuen beide Elternteile das Kind zu etwa gleichen Anteilen (echtes Wechselmodell), sind mehrere Alleinerziehenden-Leistungen nicht oder nur eingeschränkt anwendbar: Der Entlastungsbetrag kann nach der seit dem Veranlagungszeitraum 2021 geltenden Regelung in § 24b Abs. 1 Satz 3 EStG auf gemeinsamen Antrag hälftig zwischen beiden Elternteilen aufgeteilt werden. Beim Mehrbedarf nach § 21 Abs. 3 SGB II und beim Unterhaltsvorschuss ist die Rechtslage von der überwiegenden tatsächlichen Betreuung abhängig und in der Praxis einzelfallabhängiger – holen Sie hierzu gezielt Beratung ein.</p>\n",
+   "zustaendig": [
+    "Jugendamt (Unterhaltsvorschuss, Beistandschaft)",
+    "Familienkasse (Kindergeld, Kinderzuschlag)",
+    "Finanzamt (Entlastungsbetrag)",
+    "Jobcenter (Grundsicherungsgeld, Mehrbedarf)",
+    "Wohngeldstelle der Kommune (Wohngeld)",
+    "Familiengericht (Sorge- und Umgangsrecht)"
+   ],
+   "belege": [
+    "§ 24b EStG (gesetze-im-internet.de)",
+    "§ 21 Abs. 3 SGB II (gesetze-im-internet.de)",
+    "§ 1 UVG (gesetze-im-internet.de)",
+    "§§ 195, 199 BGB (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": ["unterhaltsvorschuss", "buergergeld-fuer-alleinerziehende", "alleinerziehenden-entlastungsbetrag"],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "unterhaltsvorschuss",
+   "kategorie": "unterhalt",
+   "titel": "Unterhaltsvorschuss (UVG)",
+   "icon": "💶",
+   "teaser": "Wenn der andere Elternteil keinen oder zu wenig Unterhalt zahlt, zahlt das Jugendamt einen Vorschuss – bis zum 18. Geburtstag Ihres Kindes.",
+   "schlagworte": ["Unterhaltsvorschuss", "UVG", "Jugendamt", "Mindestunterhalt", "Beistandschaft", "§ 1 UVG", "§ 2 UVG", "§ 1612a BGB"],
+   "kurz_html": "\n<p>Zahlt der andere Elternteil keinen oder nicht regelmäßig Unterhalt für Ihr Kind, kann das Jugendamt auf Antrag Unterhaltsvorschuss zahlen. Das Kind muss bei Ihnen leben, Sie müssen ledig, verwitwet oder geschieden sein oder dauernd getrennt leben, und der andere Elternteil darf nicht regelmäßig den Mindestunterhalt zahlen (§ 1 Abs. 1 UVG). Seit der Reform 2017 gibt es keine feste Höchstbezugsdauer mehr; der Anspruch besteht grundsätzlich bis zum 18. Geburtstag.</p>\n<p>Rechtlich handelt es sich um einen Vorschuss: Der Staat tritt in Höhe der gezahlten Leistung in den Unterhaltsanspruch Ihres Kindes gegen den anderen Elternteil ein und versucht, das Geld von diesem zurückzuholen. Das nimmt Ihnen das eigene Vollstreckungsrisiko ab.</p>\n",
+   "schritte": [
+    {"titel": "Antrag stellen", "text": "Stellen Sie den schriftlichen Antrag beim Jugendamt Ihres Wohnorts – Formulare gibt es online oder vor Ort."},
+    {"titel": "Unterlagen einreichen", "text": "Legen Sie Geburtsurkunde, Nachweis über das Sorgerecht und Angaben zum anderen Elternteil (Name, Anschrift, ggf. Arbeitgeber) vor."},
+    {"titel": "Bei Kindern ab 12 Jahren", "text": "Weisen Sie nach, dass Sie mindestens 600 Euro eigenes Einkommen monatlich haben oder Ihr Kind keine SGB-II-Leistungen bezieht – sonst besteht ab diesem Alter kein Anspruch."},
+    {"titel": "Mitwirken", "text": "Erteilen Sie die zur Vaterschaftsfeststellung oder Aufenthaltsermittlung des anderen Elternteils erforderlichen Auskünfte – verweigern Sie diese, entfällt der Anspruch (§ 1 Abs. 3 UVG)."},
+    {"titel": "Änderungen sofort melden", "text": "Melden Sie dem Jugendamt unverzüglich, wenn Sie mit dem anderen Elternteil zusammenziehen, heiraten oder der andere Elternteil doch zahlt."}
+   ],
+   "fristen": [
+    {"wert": "bis 18. Geburtstag", "was": "Höchstalter für den Bezug von Unterhaltsvorschuss seit der Reform 2017 (zuvor 12 Jahre)", "grundlage": "§ 1 Abs. 1, 1a UVG"},
+    {"wert": "12. Geburtstag", "was": "Ab diesem Alter gelten zusätzliche Voraussetzungen: eigenes Mindesteinkommen von 600 € oder kein SGB-II-Bezug des Kindes", "grundlage": "§ 1 Abs. 1a UVG"}
+   ],
+   "achtung": [
+    "Der Anspruch entfällt vollständig, wenn Sie mit dem anderen Elternteil zusammenleben oder die notwendige Mitwirkung (Auskünfte, Vaterschaftsfeststellung) verweigern (§ 1 Abs. 3 UVG).",
+    "Für Monate, in denen der andere Elternteil den Unterhalt bereits vollständig gezahlt hat, besteht kein zusätzlicher Anspruch (§ 1 Abs. 4 UVG) – Unterhaltsvorschuss ersetzt keinen doppelten Bezug.",
+    "Ab dem 12. Geburtstag des Kindes prüfen viele Elternteile die 600-Euro-Einkommensgrenze zu spät – ohne ausreichendes eigenes Einkommen und bei gleichzeitigem SGB-II-Bezug des Kindes kann der Anspruch entfallen, weil der Vorschuss sonst nur auf den SGB-II-Bedarf angerechnet würde.",
+    "Beim echten Wechselmodell ist die Zuordnung zu einem hauptbetreuenden Elternteil oft strittig; nach der Rechtsprechung ist der Anspruch dort regelmäßig ausgeschlossen oder nur eingeschränkt möglich – lassen Sie das im Einzelfall prüfen."
+   ],
+   "fach_html": "\n<h3>Berechnung der Höhe (§ 2 UVG)</h3>\n<p>Die monatliche Unterhaltsleistung orientiert sich am gesetzlichen Mindestunterhalt nach § 1612a Abs. 1 BGB, gestaffelt nach drei Altersstufen des Kindes (0–5, 6–11, 12–17 Jahre). Von diesem Mindestunterhalt wird das für ein erstes Kind zu zahlende Kindergeld in voller Höhe abgezogen, wenn Sie oder ein Dritter (außer dem anderen Elternteil) kindergeldberechtigt sind. <strong>Die exakten Zahlbeträge je Altersstufe für 2026 ändern sich jährlich mit der Mindestunterhaltsverordnung und der Kindergeldhöhe und wurden im Rahmen dieser Recherche nicht anhand einer einzelnen amtlichen Primärquelle (Bekanntmachung des BMFSFJ) geprüft – verlassen Sie sich für die genaue Eurosumme auf die Auskunft Ihres Jugendamts, siehe auch <a href=\"../quellen.html\">Quellen und Methodik</a>.</strong></p>\n<h3>Cessio legis: Rückgriff durch das Jugendamt</h3>\n<p>Mit der Zahlung geht der zivilrechtliche Unterhaltsanspruch Ihres Kindes gegen den anderen Elternteil kraft Gesetzes auf das Land bzw. die Kommune über (§ 7 UVG). Das Jugendamt macht den Rückgriff gegen den anderen Elternteil geltend – dafür sind Ihre Angaben zu dessen Aufenthalt und Einkommen wichtig, auch wenn Sie selbst nicht vollstrecken müssen.</p>\n<h3>Anrechnung von Einkünften des Kindes</h3>\n<p>Eigene Einkünfte des Kindes mindern die Leistung: Waisenbezüge in voller Höhe, eigenes Arbeitseinkommen älterer Kinder, die keine allgemeinbildende Schule mehr besuchen, zur Hälfte nach Abzug eines Pauschbetrags (bei Auszubildenden zusätzlich 100 Euro).</p>\n<h3>Verfahren und Auszahlung</h3>\n<p>Über den Antrag wird schriftlich entschieden, die Leistung wird monatlich im Voraus gezahlt (§ 9 UVG); Beträge unter 5 Euro entfallen. Stellen Sie den Antrag möglichst sofort nach Bekanntwerden des Unterhaltsausfalls – zu Beginn und Umfang einer Rückwirkung auf frühere Monate berät Sie das Jugendamt im Einzelfall verbindlich.</p>\n",
+   "zustaendig": ["Jugendamt / Unterhaltsvorschusskasse der Kommune"],
+   "belege": ["§§ 1, 2, 7, 9 UVG (gesetze-im-internet.de, abgerufen September 2026)", "§ 1612a BGB (gesetze-im-internet.de)"],
+   "siehe_auch": ["kindesunterhalt-durchsetzen", "buergergeld-fuer-alleinerziehende", "alleinerziehenden-entlastungsbetrag"],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "kindesunterhalt-durchsetzen",
+   "kategorie": "unterhalt",
+   "titel": "Kindesunterhalt durchsetzen",
+   "icon": "📋",
+   "teaser": "Auskunft verlangen, Unterhalt titulieren lassen und notfalls vollstrecken – so setzen Sie den Anspruch Ihres Kindes durch.",
+   "schlagworte": ["Kindesunterhalt", "Düsseldorfer Tabelle", "Jugendamtsurkunde", "Auskunftsanspruch", "Mindestunterhalt", "Verzug", "§ 1601 BGB", "§ 1605 BGB", "§ 1613 BGB", "§ 60 SGB VIII"],
+   "kurz_html": "\n<p>Verwandte in gerader Linie sind einander zum Unterhalt verpflichtet (§ 1601 BGB) – Eltern also ihren minderjährigen Kindern gegenüber unabhängig davon, ob sie zusammenleben. Der Elternteil, bei dem das Kind lebt, erfüllt seine Unterhaltspflicht bereits durch Betreuung und Erziehung (Naturalunterhalt, § 1606 Abs. 3 BGB); der andere Elternteil schuldet Barunterhalt.</p>\n<p>Damit Sie den Unterhalt durchsetzen können, brauchen Sie in der Regel zunächst Auskunft über das Einkommen des anderen Elternteils, dann einen vollstreckbaren Titel, und erst danach – falls nötig – die Zwangsvollstreckung.</p>\n",
+   "schritte": [
+    {"titel": "Auskunft verlangen", "text": "Fordern Sie den anderen Elternteil schriftlich zur Auskunft über sein Einkommen und Vermögen auf (§ 1605 BGB) – das ist Voraussetzung, um die Unterhaltshöhe zu berechnen."},
+    {"titel": "Unterhalt berechnen", "text": "Ermitteln Sie anhand der Düsseldorfer Tabelle und des Nettoeinkommens des Zahlungspflichtigen den Bedarfssatz, abzüglich des hälftigen Kindergeldanteils."},
+    {"titel": "In Verzug setzen", "text": "Mahnen Sie den Unterhalt schriftlich an oder verlangen Sie Auskunft – erst ab diesem Zeitpunkt können Sie Unterhalt auch rückwirkend verlangen (§ 1613 BGB)."},
+    {"titel": "Titel schaffen", "text": "Lassen Sie den Unterhalt kostenlos in einer Jugendamtsurkunde beurkunden (§ 60 Abs. 1 Nr. 3 SGB VIII) oder – bei Streit – gerichtlich festsetzen."},
+    {"titel": "Beistandschaft nutzen", "text": "Beantragen Sie beim Jugendamt eine Beistandschaft: Das Jugendamt macht den Unterhaltsanspruch Ihres Kindes dann kostenlos für Sie geltend (§§ 1712 ff. BGB)."},
+    {"titel": "Vollstrecken", "text": "Zahlt der Verpflichtete trotz Titel nicht, betreiben Sie die Zwangsvollstreckung – Unterhaltsansprüche sind bei der Lohnpfändung privilegiert (§ 850d ZPO)."}
+   ],
+   "fristen": [
+    {"wert": "ab Verzug/Mahnung", "was": "Rückwirkend können Sie Unterhalt nur ab dem Zeitpunkt verlangen, zu dem Sie zur Auskunft aufgefordert, in Verzug gesetzt oder der Anspruch rechtshängig gemacht haben", "grundlage": "§ 1613 BGB"},
+    {"wert": "3 Jahre", "was": "Regelmäßige Verjährungsfrist für fällige Unterhaltsansprüche, beginnend mit Schluss des Jahres der Fälligkeit und Kenntnis", "grundlage": "§§ 195, 199 BGB"}
+   ],
+   "achtung": [
+    "Ohne rechtzeitige Mahnung oder Auskunftsaufforderung verlieren Sie faktisch Unterhalt für die Vergangenheit – warten Sie mit der schriftlichen Aufforderung nicht ab, bis der Streit eskaliert.",
+    "Die Jugendamtsurkunde kostet nichts und ist ein vollwertiger vollstreckbarer Titel – ein Gerichtsverfahren ist dafür nicht nötig, wird aber von vielen Betroffenen aus Unkenntnis trotzdem eingeleitet.",
+    "Die exakten Bedarfssätze der Düsseldorfer Tabelle ändern sich regelmäßig zum Jahreswechsel; verlassen Sie sich für die aktuelle Fassung 2026 nicht auf ältere Tabellen aus dem Internet, sondern auf die Fassung des Oberlandesgerichts Düsseldorf oder eine Beratungsstelle.",
+    "Der Zahlungspflichtige darf einen Selbstbehalt zurückbehalten; wie hoch dieser genau ausfällt, hängt vom Einzelfall (erwerbstätig oder nicht) ab und wird ebenfalls jährlich angepasst."
+   ],
+   "fach_html": "\n<h3>Mindestunterhalt und Düsseldorfer Tabelle</h3>\n<p>Der gesetzliche Mindestunterhalt (§ 1612a BGB) wird jährlich per Verordnung an das steuerliche Existenzminimum eines Kindes angepasst und bildet die unterste Zeile der Düsseldorfer Tabelle, die vom Oberlandesgericht Düsseldorf herausgegeben wird. Sie ist keine Rechtsnorm, sondern eine Richtlinie, an der sich Gerichte und Jugendämter bundesweit orientieren. <strong>Die konkreten Bedarfssätze für 2026 stammen aus mehreren übereinstimmenden, aber nicht amtlich geprüften Sekundärquellen und werden hier bewusst nicht als geprüfte Zahl übernommen – siehe <a href=\"../quellen.html\">Quellen und Methodik</a>.</strong></p>\n<h3>Auskunftsanspruch (§ 1605 BGB)</h3>\n<p>Verwandte in gerader Linie sind einander verpflichtet, über ihre Einkünfte und ihr Vermögen Auskunft zu erteilen, soweit dies zur Feststellung eines Unterhaltsanspruchs erforderlich ist. Eine erneute Auskunft kann grundsätzlich erst nach zwei Jahren verlangt werden, es sei denn, es liegt ein begründeter Anlass zu der Annahme vor, dass sich die Verhältnisse wesentlich geändert haben.</p>\n<h3>Beistandschaft (§§ 1712–1717 BGB)</h3>\n<p>Auf schriftlichen Antrag eines Elternteils wird das Jugendamt Beistand des Kindes für die Feststellung der Vaterschaft und/oder die Geltendmachung von Unterhaltsansprüchen. Der Antrag kann nur vom Elternteil selbst gestellt werden, nicht durch einen Vertreter (§ 1713 BGB). Die Beistandschaft ist für Sie kostenlos und lässt Ihr eigenes Sorgerecht unberührt.</p>\n<h3>Privilegierte Vollstreckung (§ 850d ZPO)</h3>\n<p>Bei der Pfändung von Arbeitseinkommen wegen gesetzlicher Unterhaltsansprüche gelten nicht die üblichen Pfändungsfreigrenzen des § 850c ZPO – dem Schuldner muss lediglich so viel verbleiben, wie er für seinen notwendigen Unterhalt und zur Erfüllung laufender gesetzlicher Unterhaltspflichten benötigt, mindestens jedoch die Hälfte des nach § 850a unpfändbaren Betrags. Kindesunterhalt lässt sich dadurch oft schneller und in größerem Umfang vollstrecken als andere Forderungen.</p>\n",
+   "zustaendig": ["Jugendamt (Beistandschaft, Jugendamtsurkunde)", "Familiengericht (streitige Festsetzung, Vollstreckung)"],
+   "belege": ["§§ 1601, 1605, 1606, 1612a, 1613 BGB (gesetze-im-internet.de)", "§§ 1712, 1713 BGB (gesetze-im-internet.de)", "§ 850d ZPO (gesetze-im-internet.de)", "§ 60 SGB VIII (gesetze-im-internet.de)"],
+   "siehe_auch": ["unterhaltsvorschuss", "schulden-und-alleinerziehende", "beratung-anlaufstellen-alleinerziehende"],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "alleinerziehenden-entlastungsbetrag",
+   "kategorie": "steuer-familie",
+   "titel": "Entlastungsbetrag für Alleinerziehende",
+   "icon": "💰",
+   "teaser": "Wer allein mit Kind lebt, zahlt weniger Steuern – über die Steuerklasse II oder mit der Steuererklärung.",
+   "schlagworte": ["Entlastungsbetrag", "Steuerklasse II", "Haushaltsgemeinschaft", "§ 24b EStG", "ELStAM"],
+   "kurz_html": "\n<p>Alleinstehende mit mindestens einem Kind im Haushalt können den Entlastungsbetrag für Alleinerziehende von ihrem zu versteuernden Einkommen abziehen (§ 24b EStG). Er beträgt 4.260 Euro pro Jahr für das erste Kind und erhöht sich um 240 Euro für jedes weitere Kind, für das Sie Kindergeld oder einen Kinderfreibetrag erhalten.</p>\n<p>„Allein stehend“ heißt: keine Haushaltsgemeinschaft mit einer anderen volljährigen Person – außer diese Person ist selbst noch kindergeld- oder freibetragsberechtigt (z. B. ein volljähriges eigenes Kind in Ausbildung). Ist eine andere volljährige Person mit Haupt- oder Nebenwohnsitz in Ihrer Wohnung gemeldet, wird gesetzlich vermutet, dass Sie gemeinsam wirtschaften – diese Vermutung können Sie widerlegen.</p>\n",
+   "schritte": [
+    {"titel": "Steuerklasse II beantragen", "text": "Beantragen Sie beim Finanzamt die Steuerklasse II, damit der Entlastungsbetrag bereits monatlich beim Lohnsteuerabzug berücksichtigt wird."},
+    {"titel": "Meldeverhältnisse prüfen", "text": "Achten Sie darauf, dass keine andere volljährige Person (außer eigenen kindergeldberechtigten Kindern) mit Haupt- oder Nebenwohnsitz in Ihrer Wohnung gemeldet ist – sonst müssen Sie die Vermutung der Haushaltsgemeinschaft widerlegen."},
+    {"titel": "Änderungen melden", "text": "Ziehen Sie zusammen mit einer neuen Partnerin oder einem neuen Partner, entfällt der Entlastungsbetrag anteilig ab diesem Monat – melden Sie das dem Finanzamt."},
+    {"titel": "Mit der Steuererklärung nachholen", "text": "Wurde die Steuerklasse II nicht rechtzeitig eingetragen, holen Sie den Entlastungsbetrag über die jährliche Einkommensteuererklärung nach."}
+   ],
+   "fristen": [
+    {"wert": "monatliche Kürzung", "was": "Der Jahresbetrag vermindert sich um ein Zwölftel für jeden vollen Kalendermonat, in dem die Voraussetzungen nicht vorlagen", "grundlage": "§ 24b Abs. 3 EStG"}
+   ],
+   "achtung": [
+    "Zieht ein neuer Partner oder eine neue Partnerin bei Ihnen ein und meldet sich mit Haupt- oder Nebenwohnsitz an, entfällt der Entlastungsbetrag ab diesem Monat – unabhängig davon, ob tatsächlich gemeinsam gewirtschaftet wird, es sei denn, Sie widerlegen die gesetzliche Vermutung im Einzelfall.",
+    "Ein volljähriges eigenes Kind, das noch kindergeldberechtigt ist (z. B. in Ausbildung) und bei Ihnen gemeldet ist, schadet dem Entlastungsbetrag nicht – das wird häufig fälschlich angenommen.",
+    "Beim echten Wechselmodell muss der Entlastungsbetrag gegebenenfalls zwischen beiden Elternteilen hälftig aufgeteilt werden; das erfordert einen gemeinsamen Antrag oder eine entsprechende Erklärung – ohne diese droht ein Elternteil leer auszugehen.",
+    "Die Steuerklasse II wird nicht automatisch vergeben, auch wenn Sie tatsächlich alleinerziehend sind – Sie müssen sie aktiv beim Finanzamt beantragen."
+   ],
+   "fach_html": "\n<h3>Gesetzlicher Wortlaut und Beträge</h3>\n<p>§ 24b EStG gewährt allein stehenden Steuerpflichtigen mit mindestens einem im Haushalt gemeldeten, kindergeld- oder freibetragsberechtigten Kind einen Entlastungsbetrag von 4.260 Euro im Kalenderjahr für das erste Kind, zuzüglich 240 Euro für jedes weitere Kind. Diese Beträge sind im Gesetzestext selbst festgelegt (gesetze-im-internet.de, abgerufen September 2026) und unterliegen keiner automatischen jährlichen Anpassung – Änderungen erfordern eine Gesetzesänderung.</p>\n<h3>Definition „allein stehend“</h3>\n<p>Allein stehend ist, wer nicht die Voraussetzungen des Splitting-Verfahrens erfüllt oder verwitwet ist und keine Haushaltsgemeinschaft mit einer anderen volljährigen Person bildet – es sei denn, für diese Person besteht ebenfalls ein Kindergeld- oder Freibetragsanspruch oder sie leistet einen Freiwilligendienst nach § 32 Abs. 5 EStG. Die Meldung einer weiteren volljährigen Person in Ihrer Wohnung löst eine widerlegbare gesetzliche Vermutung der Haushaltsgemeinschaft aus.</p>\n<h3>Aufteilung im Wechselmodell</h3>\n<p>Leben Kind und Eltern in einem echten Wechselmodell, kann der Entlastungsbetrag seit der Neuregelung für Veranlagungszeiträume ab 2021 auf gemeinsamen Antrag hälftig zwischen beiden Berechtigten aufgeteilt werden, statt ihn nur einem Elternteil vollständig zuzuordnen (§ 24b Abs. 1 Satz 3 f. EStG). Ohne einen solchen Antrag verbleibt es bei der Zuordnung zu dem Elternteil, bei dem das Kind gemeldet ist.</p>\n",
+   "zustaendig": ["Finanzamt"],
+   "belege": ["§ 24b EStG (gesetze-im-internet.de, abgerufen September 2026)"],
+   "siehe_auch": ["kinderzuschlag", "buergergeld-fuer-alleinerziehende", "ueberblick-rechte-alleinerziehende"],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "kinderzuschlag",
+   "kategorie": "steuer-familie",
+   "titel": "Kinderzuschlag",
+   "icon": "👨‍👧",
+   "teaser": "Reicht Ihr Einkommen für sich selbst, aber nicht für die Kinder, kann der Kinderzuschlag Grundsicherungsgeld überflüssig machen.",
+   "schlagworte": ["Kinderzuschlag", "Sofortzuschlag", "Mindesteinkommen", "§ 6a BKGG"],
+   "kurz_html": "\n<p>Der Kinderzuschlag ergänzt das Kindergeld für Familien, deren eigenes Einkommen zwar für sie selbst reicht, aber nicht für ihre Kinder. Als Alleinerziehende brauchen Sie dafür ein monatliches Mindesteinkommen von 600 Euro (Paare: 900 Euro) – zusätzlich müssen Sie Anspruch auf Kindergeld haben und dürfen mit Kinderzuschlag nicht hilfebedürftig im Sinne der Grundsicherung sein.</p>\n<p>Zum Kinderzuschlag zählt ein monatlicher Sofortzuschlag von 25 Euro pro Kind hinzu. Der Kinderzuschlag wird jeweils für sechs Monate bewilligt und in dieser Zeit nicht neu an schwankendes Einkommen angepasst, außer bei erheblichen Änderungen.</p>\n",
+   "schritte": [
+    {"titel": "Mindesteinkommen prüfen", "text": "Weisen Sie ein Bruttoeinkommen von mindestens 600 Euro monatlich nach (als Alleinerziehende)."},
+    {"titel": "Antrag bei der Familienkasse stellen", "text": "Stellen Sie den Antrag auf Kinderzuschlag bei der Familienkasse der Bundesagentur für Arbeit, am besten zusammen mit dem Kindergeldantrag."},
+    {"titel": "Wohngeld mitdenken", "text": "Prüfen Sie parallel einen Wohngeldanspruch – Kinderzuschlag und Wohngeld werden oft gemeinsam benötigt, um Hilfebedürftigkeit zu vermeiden."},
+    {"titel": "Bewilligungszeitraum nutzen", "text": "Der Zuschlag wird für sechs Monate bewilligt; melden Sie nur wesentliche Einkommensänderungen, kleinere Schwankungen wirken sich in diesem Zeitraum in der Regel nicht aus."},
+    {"titel": "Rechtzeitig neu beantragen", "text": "Stellen Sie vor Ablauf der sechs Monate einen Folgeantrag, damit die Zahlung nicht unterbrochen wird."}
+   ],
+   "fristen": [
+    {"wert": "6 Monate", "was": "Bewilligungszeitraum, für den der Kinderzuschlag jeweils festgesetzt wird", "grundlage": "§ 6a Abs. 4 BKGG"}
+   ],
+   "achtung": [
+    "Unterschreiten Sie das Mindesteinkommen von 600 Euro (alleinerziehend), entfällt der Anspruch auf Kinderzuschlag vollständig – dann kommt in der Regel nur Grundsicherungsgeld in Betracht.",
+    "Der Kinderzuschlag wird gemindert, wenn Ihr Kind eigenes Einkommen hat, etwa Unterhalt oder Unterhaltsvorschuss – rechnen Sie das vorher mit ein.",
+    "Der genaue monatliche Höchstbetrag pro Kind ist kein fester Eurobetrag, sondern richtet sich nach dem jährlich neu festgesetzten steuerfreien Existenzminimum eines Kindes zuzüglich des Sofortzuschlags – verlassen Sie sich nicht auf ältere Zahlen aus dem Internet.",
+    "Kinderzuschlag und Grundsicherungsgeld schließen sich gegenseitig aus – wer mit Kinderzuschlag hilfebedürftig bliebe, hat keinen Anspruch auf Kinderzuschlag, sondern muss Grundsicherungsgeld beantragen."
+   ],
+   "fach_html": "\n<h3>Voraussetzungen im Einzelnen (§ 6a BKGG)</h3>\n<p>Anspruch auf Kinderzuschlag haben Personen für unverheiratete Kinder unter 25 Jahren im eigenen Haushalt, wenn sie für diese Kindergeld beziehen, ein Mindesteinkommen von 900 Euro brutto (Paare) bzw. 600 Euro (Alleinerziehende) nachweisen und durch die Zahlung des Kinderzuschlags keine Hilfebedürftigkeit nach dem SGB II eintritt oder fortbesteht (mit begrenzten Ausnahmen nach § 6a Abs. 1a BKGG).</p>\n<h3>Berechnung des Höchstbetrags</h3>\n<p>Der Höchstbetrag pro Kind entspricht einem Zwölftel des steuerfrei zu stellenden sächlichen Existenzminimums eines Kindes (ohne den Bildungsanteil), zuzüglich eines Sofortzuschlags von 25 Euro monatlich (§ 6a Abs. 2 BKGG). <strong>Der daraus jährlich neu berechnete konkrete Eurobetrag wurde im Rahmen dieser Recherche nicht anhand einer amtlichen Einzelquelle für 2026 geprüft – siehe <a href=\"../quellen.html\">Quellen und Methodik</a>.</strong></p>\n<h3>Minderung durch Einkommen</h3>\n<p>Der Zuschlag mindert sich um 45 Prozent des zu berücksichtigenden Einkommens des Kindes. Übersteigt das Elterneinkommen den eigenen Bedarf, wird der übersteigende Teil aus Erwerbseinkommen ebenfalls zu 45 Prozent angerechnet, sonstiges übersteigendes Einkommen in voller Höhe.</p>\n<h3>Verhältnis zu anderen Leistungen</h3>\n<p>Kinderzuschlag, Wohngeld und Bildungs- und Teilhabeleistungen werden häufig gemeinsam benötigt und beantragt, um eine Bedürftigkeit im Sinne des SGB II zu vermeiden. Das Jobcenter, die Familienkasse und die Wohngeldstelle prüfen die günstigste Kombination in der Praxis nicht immer von sich aus.</p>\n",
+   "zustaendig": ["Familienkasse der Bundesagentur für Arbeit"],
+   "belege": ["§ 6a BKGG (gesetze-im-internet.de, abgerufen September 2026)"],
+   "siehe_auch": ["alleinerziehenden-entlastungsbetrag", "wohngeld-fuer-alleinerziehende", "buergergeld-fuer-alleinerziehende"],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "buergergeld-fuer-alleinerziehende",
+   "kategorie": "grundsicherung-wohnen",
+   "titel": "Grundsicherungsgeld (Bürgergeld) für Alleinerziehende",
+   "icon": "📝",
+   "teaser": "Seit 1. Juli 2026 heißt das Bürgergeld amtlich „Grundsicherungsgeld“. Als Alleinerziehende haben Sie zusätzlich Anspruch auf einen Mehrbedarf.",
+   "schlagworte": ["Grundsicherungsgeld", "Bürgergeld", "Bedarfsgemeinschaft", "Zumutbarkeit", "§ 7 SGB II", "§ 9 SGB II", "§ 10 SGB II"],
+   "kurz_html": "\n<p>Grundsicherungsgeld (bis 30. Juni 2026 „Bürgergeld“ genannt) sichert Ihren Lebensunterhalt und den Ihrer Kinder, wenn Einkommen und Vermögen dafür nicht ausreichen. Sie und Ihre minderjährigen Kinder bilden eine Bedarfsgemeinschaft; jeder hat einen eigenen Regelbedarf, zusätzlich erhalten Sie als Alleinerziehende einen Mehrbedarf.</p>\n<p>Vorrangig zu prüfen sind Kindesunterhalt, Unterhaltsvorschuss, Kindergeld und – wenn diese ausreichen – Kinderzuschlag und Wohngeld statt Grundsicherungsgeld. Kindesunterhalt und Unterhaltsvorschuss zählen dabei zunächst als Einkommen Ihres Kindes und mindern dessen eigenen Bedarf.</p>\n",
+   "schritte": [
+    {"titel": "Antrag stellen", "text": "Stellen Sie den Antrag beim zuständigen Jobcenter, möglichst formlos und sofort – Grundsicherungsgeld wird grundsätzlich erst ab Antragstellung gezahlt."},
+    {"titel": "Vorrangige Leistungen klären", "text": "Geben Sie Kindesunterhalt, Unterhaltsvorschuss und Kindergeld an; das Jobcenter rechnet diese zunächst dem Bedarf Ihres Kindes zu."},
+    {"titel": "Mehrbedarf angeben", "text": "Weisen Sie nach, dass Sie mit Ihrem minderjährigen Kind allein leben und die Personensorge allein ausüben – der Mehrbedarf wird dann automatisch mit berücksichtigt."},
+    {"titel": "Zumutbarkeit der Arbeit klären", "text": "Legen Sie dar, wenn und warum Ihnen wegen fehlender Kinderbetreuung bestimmte Arbeitszeiten nicht zumutbar sind."},
+    {"titel": "Kooperationsplan besprechen", "text": "Stimmen Sie mit dem Jobcenter im Kooperationsplan realistische Schritte ab, die Ihre Betreuungssituation berücksichtigen."}
+   ],
+   "fristen": [
+    {"wert": "1 Monat", "was": "Regel-Widerspruchsfrist gegen Jobcenter-Bescheide", "grundlage": "§ 84 SGG"},
+    {"wert": "unverzüglich", "was": "Mitteilungspflicht bei Änderungen der persönlichen oder finanziellen Verhältnisse, z. B. neue Partnerschaft, Unterhaltszahlungen", "grundlage": "§ 60 SGB I"}
+   ],
+   "achtung": [
+    "Kindesunterhalt und Unterhaltsvorschuss werden nicht automatisch Ihrem eigenen Bedarf zugerechnet, sondern zunächst dem Bedarf des Kindes – das wird häufig missverstanden und führt zu falschen Erwartungen bei der Berechnung.",
+    "Nach § 10 Abs. 1 Nr. 3 SGB II ist Ihnen eine Arbeit nicht zumutbar, wenn die Erziehung eines Kindes unter 14 Monaten gefährdet würde und keine zumutbare Betreuungsmöglichkeit besteht – bei älteren Kindern greift diese Ausnahme nicht automatisch, hier zählt die tatsächliche Verfügbarkeit von Betreuung.",
+    "Prüfen Sie vor der Antragstellung, ob Kinderzuschlag und Wohngeld Ihre Bedürftigkeit nicht bereits vollständig beseitigen – dann sind diese Leistungen vorrangig zu beantragen.",
+    "Ein Kooperationsplan oder eine Meldeaufforderung ist auch dann verbindlich, wenn Sie sie für unangemessen halten – Einwände gehören in den Widerspruch, nicht ins Ignorieren eines Termins."
+   ],
+   "fach_html": "\n<h3>Bedarfsgemeinschaft und Einkommensanrechnung</h3>\n<p>Sie und Ihre minderjährigen, unverheirateten Kinder im Haushalt bilden eine Bedarfsgemeinschaft (§ 7 Abs. 3 SGB II). Jedes Mitglied hat grundsätzlich einen eigenen Bedarf; Einkommen des Kindes (Unterhalt, Unterhaltsvorschuss, Kindergeld) wird zunächst auf den Bedarf des Kindes selbst angerechnet (§ 9 Abs. 2, § 11 SGB II). Reicht das Einkommen des Kindes für dessen eigenen Bedarf nicht aus, füllt Grundsicherungsgeld die Lücke; ein etwaiger Überschuss beim Kindeseinkommen wird nicht automatisch Ihrem Bedarf gutgeschrieben.</p>\n<h3>Zumutbarkeit bei Kinderbetreuung</h3>\n<p>Grundsätzlich ist nach § 10 SGB II jede Arbeit zumutbar, für die Sie geistig, seelisch und körperlich in der Lage sind. Eine ausdrückliche Ausnahme besteht, wenn die Erziehung eines Kindes unter 14 Monaten gefährdet würde und eine Betreuungsmöglichkeit nicht besteht oder nicht zumutbar organisiert werden kann. Bei älteren Kindern ist die Zumutbarkeit im Einzelfall anhand der tatsächlich verfügbaren Betreuungsangebote (Kita, Hort, Ganztagsschule) zu prüfen und mit dem Jobcenter im Kooperationsplan abzustimmen.</p>\n<h3>Verhältnis zu Kinderzuschlag und Wohngeld</h3>\n<p>Kinderzuschlag setzt gerade voraus, dass mit ihm keine Hilfebedürftigkeit im Sinne des SGB II eintritt (§ 6a Abs. 1 Nr. 4 BKGG) – Kinderzuschlag und Grundsicherungsgeld schließen sich damit im Regelfall gegenseitig aus. Wohngeld hat gegenüber Grundsicherungsgeld ebenfalls Vorrang, wenn es die Hilfebedürftigkeit der gesamten Bedarfsgemeinschaft für einen ausreichenden Zeitraum beseitigen würde (§ 12a SGB II).</p>\n<h3>Was sich am 1. Juli 2026 geändert hat</h3>\n<p>Das Dreizehnte Gesetz zur Änderung des Zweiten Buches Sozialgesetzbuch und anderer Gesetze (BGBl. 2026 I Nr. 107, ausgegeben 22.04.2026) hat „Bürgergeld“ in „Grundsicherungsgeld“ umbenannt und unter anderem den Vermittlungsvorrang, ein einheitliches Sanktionsmodell und ein nach Lebensalter gestaffeltes Schonvermögen eingeführt – Details dazu finden Sie im Wegweiser für Arbeitslose dieses Portals.</p>\n",
+   "zustaendig": ["Jobcenter"],
+   "belege": ["§§ 7, 9, 10, 11, 12a SGB II (gesetze-im-internet.de)", "§ 6a BKGG (gesetze-im-internet.de)", "§ 60 SGB I (gesetze-im-internet.de)", "BGBl. 2026 I Nr. 107 vom 22.04.2026 (recht.bund.de)"],
+   "siehe_auch": ["mehrbedarf-alleinerziehende-grundsicherung", "kinderzuschlag", "wohngeld-fuer-alleinerziehende"],
+   "stand": "Stand: September 2026 (Rechtsstand seit 1. Juli 2026, 13. SGB-II-Änderungsgesetz, BGBl. 2026 I Nr. 107)."
+  },
+  {
+   "id": "mehrbedarf-alleinerziehende-grundsicherung",
+   "kategorie": "grundsicherung-wohnen",
+   "titel": "Mehrbedarf für Alleinerziehende in der Grundsicherung",
+   "icon": "➕",
+   "teaser": "Wer als Alleinerziehende Grundsicherungsgeld bezieht, erhält zusätzlich zum Regelbedarf einen Mehrbedarf – die Höhe richtet sich nach Alter und Zahl der Kinder.",
+   "schlagworte": ["Mehrbedarf", "Regelbedarf", "Regelbedarfsstufe", "§ 21 SGB II", "§ 20 SGB II"],
+   "kurz_html": "\n<p>Leben Sie mit einem oder mehreren minderjährigen Kindern zusammen und üben die Personensorge allein aus, erhalten Sie zum Grundsicherungsgeld einen zusätzlichen Mehrbedarf für Alleinerziehende (§ 21 Abs. 3 SGB II). Er soll die höheren Kosten ausgleichen, die durch die alleinige Verantwortung für Erziehung und Haushalt entstehen.</p>\n<p>Die Höhe richtet sich nach der Zahl und dem Alter Ihrer Kinder: Je nach Konstellation wird automatisch die für Sie günstigere von zwei gesetzlichen Berechnungsvarianten angewendet.</p>\n",
+   "schritte": [
+    {"titel": "Personensorge nachweisen", "text": "Legen Sie dar, dass Sie mit Ihrem minderjährigen Kind zusammenleben und die Pflege und Erziehung tatsächlich allein wahrnehmen."},
+    {"titel": "Kinderzahl und -alter angeben", "text": "Geben Sie im Antrag Anzahl und Geburtsdaten aller im Haushalt lebenden minderjährigen Kinder an – davon hängt die Berechnungsvariante ab."},
+    {"titel": "Berechnung prüfen lassen", "text": "Lassen Sie sich vom Jobcenter erläutern, welche der beiden Varianten (36 Prozent oder gestaffelt nach Kinderzahl) in Ihrem Fall angewendet wurde."},
+    {"titel": "Änderungen melden", "text": "Melden Sie unverzüglich, wenn ein Kind volljährig wird, auszieht oder sich die Betreuungssituation ändert (z. B. Wechselmodell) – das kann den Mehrbedarf verändern."}
+   ],
+   "fristen": [],
+   "achtung": [
+    "Der Mehrbedarf wird nicht gesondert beantragt, sondern automatisch mit dem Grundsicherungsgeld-Antrag geprüft – prüfen Sie im Bescheid trotzdem, ob er tatsächlich berücksichtigt wurde.",
+    "Der Prozentsatz wird nicht auf Ihr gesamtes Haushaltseinkommen bezogen, sondern ausschließlich auf den für Sie maßgebenden Regelbedarf – Verwechslungen mit anderen Mehrbedarfen (z. B. bei Behinderung oder kostenaufwändiger Ernährung) führen häufig zu falschen Erwartungen.",
+    "Wechselt die Betreuungssituation zu einem echten Wechselmodell, kann der Mehrbedarf entfallen oder anteilig aufgeteilt werden müssen – melden Sie solche Änderungen aktiv.",
+    "Der exakte Eurobetrag des Mehrbedarfs hängt von der jährlich angepassten Regelbedarfsstufe 1 ab; er ist daher kein fester Betrag, sondern muss jedes Jahr neu berechnet werden."
+   ],
+   "fach_html": "\n<h3>Zwei Berechnungsvarianten (§ 21 Abs. 3 SGB II)</h3>\n<p>Das Gesetz sieht zwei Varianten vor, von denen die für Sie günstigere angewendet wird:</p>\n<ul>\n<li><strong>Variante 1:</strong> 36 Prozent des nach § 20 Abs. 2 SGB II maßgebenden Regelbedarfs, wenn Sie mit einem Kind unter 7 Jahren oder mit zwei bis drei Kindern unter 16 Jahren zusammenleben.</li>\n<li><strong>Variante 2:</strong> 12 Prozent des maßgebenden Regelbedarfs für jedes Kind, wenn dies einen höheren Prozentsatz als Variante 1 ergibt – gedeckelt auf höchstens 60 Prozent des Regelbedarfs.</li>\n</ul>\n<p>Beide Prozentsätze (36 %, 12 % je Kind, Deckel 60 %) sind im Gesetzestext selbst festgelegt und wurden anhand von gesetze-im-internet.de geprüft (abgerufen September 2026).</p>\n<h3>Rechnerisches Beispiel zur Regelbedarfsstufe 1 (2026)</h3>\n<p>Die monatliche Regelbedarfsstufe 1 beträgt im Jahr 2026 laut der vom Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium der Finanzen vorgelegten Fortschreibungsverordnung (veröffentlicht im Bundesgesetzblatt am 22.10.2025) unverändert 563 Euro. Rechnerisch ergäbe sich daraus ein Mehrbedarf von rund 202,68 Euro (36 Prozent) bzw. höchstens rund 337,80 Euro (60 Prozent). <strong>Diese rechnerisch aus dem amtlich bestätigten Regelbedarf abgeleiteten Werte wurden nicht zusätzlich anhand einer gesonderten Verwaltungsquelle (z. B. eines Merkblatts eines einzelnen Jobcenters) gegengeprüft – die maßgebliche Zahl in Ihrem Bescheid kann im Einzelfall abweichen, etwa durch Übergangs- oder Besitzstandsregelungen.</strong></p>\n<h3>Verhältnis zu anderen Mehrbedarfen</h3>\n<p>Der Mehrbedarf für Alleinerziehende kann neben anderen Mehrbedarfen bestehen, etwa für werdende Mütter oder bei kostenaufwändiger Ernährung aus medizinischen Gründen; die Summe aller Mehrbedarfe darf jedoch die Höhe des maßgebenden Regelbedarfs nicht übersteigen (§ 21 Abs. 8 SGB II).</p>\n",
+   "zustaendig": ["Jobcenter"],
+   "belege": ["§ 21 Abs. 3 und 8, § 20 Abs. 2 SGB II (gesetze-im-internet.de, abgerufen September 2026)", "Regelbedarfsstufen-Fortschreibungsverordnung 2026, BGBl. veröffentlicht 22.10.2025 (BMAS/Bundesregierung)"],
+   "siehe_auch": ["buergergeld-fuer-alleinerziehende", "kinderzuschlag", "wohngeld-fuer-alleinerziehende"],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "wohngeld-fuer-alleinerziehende",
+   "kategorie": "grundsicherung-wohnen",
+   "titel": "Wohngeld für Alleinerziehende",
+   "icon": "🏠",
+   "teaser": "Wohngeld ist ein Mietzuschuss für Haushalte mit Einkommen oberhalb der Grundsicherung – oft in Kombination mit Kinderzuschlag der Schlüssel, um ohne Jobcenter auszukommen.",
+   "schlagworte": ["Wohngeld", "Mietstufe", "Gesamteinkommen", "§ 19 WoGG", "§ 12a SGB II"],
+   "kurz_html": "\n<p>Wohngeld ist ein Zuschuss zur Miete oder zur Belastung bei Wohneigentum für Haushalte, deren Einkommen zwar den allgemeinen Lebensunterhalt deckt, aber durch hohe Wohnkosten knapp wird. Für Alleinerziehende gibt es keine eigene Sonderregelung im Wohngeldgesetz – maßgeblich sind wie bei allen Haushalten die Haushaltsgröße, die zu berücksichtigende Miete (nach Mietstufe der Gemeinde) und das Gesamteinkommen aller Haushaltsmitglieder, einschließlich der Kinder.</p>\n<p>Wohngeld hat gegenüber Grundsicherungsgeld Vorrang, wenn es zusammen mit sonstigem Einkommen die Hilfebedürftigkeit Ihrer Bedarfsgemeinschaft für einen ausreichenden Zeitraum beseitigen würde.</p>\n",
+   "schritte": [
+    {"titel": "Haushaltseinkommen zusammenstellen", "text": "Ermitteln Sie das Gesamteinkommen aller im Haushalt lebenden Personen, einschließlich Kindesunterhalt, Unterhaltsvorschuss und Kindergeld Ihrer Kinder."},
+    {"titel": "Mietstufe der Gemeinde prüfen", "text": "Erfragen Sie bei der Wohngeldstelle die für Ihre Gemeinde geltende Mietstufe – sie beeinflusst, wie viel Miete als angemessen berücksichtigt wird."},
+    {"titel": "Antrag stellen", "text": "Stellen Sie den Wohngeldantrag bei der Wohngeldstelle Ihrer Kommune, meist beim Bürgeramt oder Sozialamt."},
+    {"titel": "Kombination mit Kinderzuschlag prüfen", "text": "Lassen Sie parallel prüfen, ob Kinderzuschlag zusammen mit Wohngeld Ihre Bedürftigkeit vollständig deckt – dann sind beide Leistungen gemeinsam gegenüber Grundsicherungsgeld vorrangig."},
+    {"titel": "Änderungen melden", "text": "Melden Sie der Wohngeldstelle wesentliche Einkommens- oder Mietänderungen; Wohngeld wird in der Regel für zwölf Monate bewilligt."}
+   ],
+   "fristen": [],
+   "achtung": [
+    "Wohngeld wird nicht automatisch geprüft, wenn Sie Grundsicherungsgeld beantragen – Jobcenter und Wohngeldstelle sind unterschiedliche Behörden, die Sie in der Regel getrennt ansprechen müssen.",
+    "Kindesunterhalt und Unterhaltsvorschuss Ihres Kindes zählen beim Wohngeld zum Gesamteinkommen des Haushalts – das wird bei der eigenen Einkommensplanung oft übersehen.",
+    "Es gibt keine eigene, bundesweit einheitliche „Alleinerziehenden-Komponente“ im Wohngeldgesetz; Unterschiede zwischen Familientypen ergeben sich ausschließlich aus der unterschiedlichen Haushaltsgröße und dem Einkommen.",
+    "Wenn Wohngeld zusammen mit anderem Einkommen Ihre Hilfebedürftigkeit für einen ausreichenden Zeitraum nicht vollständig beseitigt, bleibt ergänzend ein Anspruch auf Grundsicherungsgeld möglich."
+   ],
+   "fach_html": "\n<h3>Berechnungsformel (§ 19 WoGG)</h3>\n<p>Das monatliche Wohngeld berechnet sich nach der Formel 1,15 · (M − (a + b · M + c · Y) · Y), wobei M die zu berücksichtigende Miete oder Belastung, Y das monatliche Gesamteinkommen und a, b, c von der Haushaltsgröße abhängige Koeffizienten aus Anlage 2 des Gesetzes sind. Der Gesetzestext selbst enthält keine gesonderte Regelung speziell für Alleinerziehende – Unterschiede ergeben sich ausschließlich über die Haushaltsgröße, die die Koeffizienten verändert (gesetze-im-internet.de, abgerufen September 2026).</p>\n<h3>Verhältnis zu Kinderzuschlag und Grundsicherungsgeld</h3>\n<p>Kinderzuschlag setzt voraus, dass mit ihm keine Hilfebedürftigkeit eintritt (§ 6a Abs. 1 Nr. 4 BKGG); Wohngeld wird bei dieser Prüfung als Einkommen berücksichtigt. Umgekehrt hat Wohngeld gegenüber Grundsicherungsgeld Vorrang, wenn es die Hilfebedürftigkeit der Bedarfsgemeinschaft für einen ausreichenden Zeitraum beseitigen würde (§ 12a SGB II). In der Praxis prüfen Jobcenter, Familienkasse und Wohngeldstelle diese Kombination nicht immer von sich aus gemeinsam – eine unabhängige Beratungsstelle kann die günstigste Kombination durchrechnen.</p>\n<h3>Wohngeld-Reform seit 2023</h3>\n<p>Seit der Wohngeldreform zum 1. Januar 2023 sind eine dauerhafte Heizkostenkomponente und eine Klimakomponente in die Berechnung eingeflossen, um gestiegene Energiekosten und energetische Sanierungen abzubilden. Die genauen Auswirkungen im Einzelfall hängen von der Wohnsituation ab und werden von der Wohngeldstelle individuell berechnet.</p>\n",
+   "zustaendig": ["Wohngeldstelle der Kommune (meist Bürgeramt oder Sozialamt)"],
+   "belege": ["§ 19 WoGG (gesetze-im-internet.de, abgerufen September 2026)", "§ 12a SGB II (gesetze-im-internet.de)", "§ 6a BKGG (gesetze-im-internet.de)"],
+   "siehe_auch": ["kinderzuschlag", "buergergeld-fuer-alleinerziehende", "wohnraum-fuer-alleinerziehende"],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "wohnraum-fuer-alleinerziehende",
+   "kategorie": "grundsicherung-wohnen",
+   "titel": "Wohnraum finden als Alleinerziehende",
+   "icon": "🔑",
+   "teaser": "Wohnungssuche mit Kind ist oft schwieriger. Wohnberechtigungsschein, Diskriminierungsschutz und kommunale Vorrangregeln können helfen.",
+   "schlagworte": ["Wohnberechtigungsschein", "Sozialwohnung", "Diskriminierungsverbot", "§ 19 AGG", "§ 549 BGB"],
+   "kurz_html": "\n<p>Bei der Wohnungssuche erleben Alleinerziehende häufig Nachteile: geringeres Haushaltseinkommen, Sorge der Vermieter vor Lärm oder Zahlungsausfällen. Rechtlich haben Sie dennoch Ansprüche und Instrumente, die die Suche erleichtern können – von der Sozialwohnung mit Wohnberechtigungsschein bis zum Diskriminierungsschutz.</p>\n<p>Für öffentlich geförderten Wohnraum (Sozialwohnungen) benötigen Sie einen Wohnberechtigungsschein (WBS), den Sie bei Ihrer Kommune beantragen. Die Einkommensgrenzen dafür legt jedes Bundesland selbst fest.</p>\n",
+   "schritte": [
+    {"titel": "Wohnberechtigungsschein beantragen", "text": "Beantragen Sie bei Ihrer Kommune einen WBS, wenn Ihr Einkommen unterhalb der landesrechtlichen Grenze liegt – als Alleinerziehende gelten in vielen Bundesländern günstigere Freibeträge pro Kind."},
+    {"titel": "Kommunale Vorrangprogramme erfragen", "text": "Fragen Sie beim Wohnungsamt, ob es für Alleinerziehende ein Vorrang- oder Punktesystem bei der Vergabe von Sozialwohnungen gibt – das ist von Kommune zu Kommune unterschiedlich geregelt."},
+    {"titel": "Bewerbung vorbereiten", "text": "Legen Sie Einkommensnachweise, Mietschuldenfreiheitsbescheinigung (falls vorhanden) und ggf. eine Bonitätsauskunft bereit."},
+    {"titel": "Diskriminierung erkennen und melden", "text": "Wird Ihnen eine Wohnung erkennbar wegen Ihres Familienstands verweigert, prüfen Sie einen Anspruch nach dem Allgemeinen Gleichbehandlungsgesetz – Beratung bietet die Antidiskriminierungsstelle des Bundes."},
+    {"titel": "Untermiete als Übergang prüfen", "text": "Bei akuter Wohnungsnot kann eine erlaubte Untervermietung eines Zimmers eine Übergangslösung sein – der Vermieter muss zustimmen (§ 553 BGB)."}
+   ],
+   "fristen": [],
+   "achtung": [
+    "Der Schutz vor Diskriminierung nach dem AGG gilt bei der Wohnraumvermietung nur eingeschränkt: Vermietet der Vermieter insgesamt nicht mehr als 50 Wohnungen, entfällt lediglich das allgemeine Benachteiligungsverbot des § 19 Abs. 1 AGG (z. B. wegen Religion, Alter, sexueller Identität oder Weltanschauung) – ein großer Teil privater Vermieter fällt damit aus diesem Anwendungsbereich heraus. Der besondere Schutz vor Benachteiligung wegen der Rasse oder der ethnischen Herkunft nach § 19 Abs. 2 AGG gilt dagegen unabhängig von der Zahl der vermieteten Wohnungen (§ 19 Abs. 5 AGG).",
+    "Familienstand oder die Zahl der Kinder ist im AGG selbst kein ausdrücklich geschütztes Merkmal – ein Diskriminierungsschutz kommt in der Praxis meist nur über andere Merkmale (z. B. Geschlecht) oder über kommunales/landesrechtliches Antidiskriminierungsrecht in Betracht.",
+    "Die Einkommensgrenzen für den Wohnberechtigungsschein sind nicht bundeseinheitlich, sondern werden von jedem Bundesland selbst festgelegt – informieren Sie sich konkret bei Ihrer Landes- oder Kommunalbehörde.",
+    "Ein Vorrang für Alleinerziehende bei Sozialwohnungen besteht nicht überall automatisch – ob und wie stark ein solches Kriterium gewichtet wird, ist kommunal unterschiedlich geregelt."
+   ],
+   "fach_html": "\n<h3>Zivilrechtliches Benachteiligungsverbot (§ 19 AGG)</h3>\n<p>Das AGG verbietet Benachteiligungen unter anderem wegen des Geschlechts bei zivilrechtlichen Massengeschäften (§ 19 Abs. 1 AGG), wozu grundsätzlich auch die Wohnraumvermietung zählen kann. Der Gesetzgeber erlaubt jedoch bei der Wohnraumvermietung eine unterschiedliche Behandlung, um „sozial stabile Bewohnerstrukturen“ und „ausgeglichene wirtschaftliche, soziale und kulturelle Verhältnisse“ zu schaffen, und nimmt Vermieter mit insgesamt nicht mehr als 50 Wohnungen ausdrücklich vom Anwendungsbereich dieses allgemeinen Benachteiligungsverbots als Massengeschäft aus (§ 19 Abs. 5 AGG, gesetze-im-internet.de, abgerufen September 2026). Für die Mehrheit privater Kleinvermieter greift dieser weitergehende Schutz (z. B. wegen Alter, Religion oder sexueller Identität) damit faktisch nicht. Unbeschadet davon gilt der besondere Schutz vor Benachteiligung wegen der Rasse oder der ethnischen Herkunft nach § 19 Abs. 2 AGG unabhängig von der Zahl der vermieteten Wohnungen.</p>\n<h3>Wohnberechtigungsschein und soziale Wohnraumförderung</h3>\n<p>Rechtsgrundlage für den sozialen Wohnungsbau ist das Wohnraumförderungsgesetz des Bundes, das den Ländern die Ausgestaltung überlässt. Die konkreten Einkommensgrenzen und etwaige Kinderfreibeträge für den WBS regelt jedes Bundesland durch eigene Wohnraumförderbestimmungen; eine bundeseinheitliche Zahl gibt es nicht.</p>\n<h3>Untermiete als Übergangslösung</h3>\n<p>Möchten Sie vorübergehend ein Zimmer untervermieten oder selbst zur Untermiete wohnen, benötigt eine Untervermietung durch den Hauptmieter grundsätzlich die Erlaubnis des Vermieters (§ 553 BGB); bei einem berechtigten Interesse (z. B. finanzielle Entlastung) kann ein Anspruch auf Erlaubnis bestehen.</p>\n",
+   "zustaendig": ["Wohnungsamt der Kommune (WBS)", "Antidiskriminierungsstelle des Bundes (Beratung bei Diskriminierung)"],
+   "belege": ["§ 19 AGG (gesetze-im-internet.de, abgerufen September 2026)", "§ 553 BGB (gesetze-im-internet.de)", "Wohnraumförderungsgesetz (WoFG) des Bundes"],
+   "siehe_auch": ["wohngeld-fuer-alleinerziehende", "buergergeld-fuer-alleinerziehende", "beratung-anlaufstellen-alleinerziehende"],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "kita-platz-und-betreuung",
+   "kategorie": "kinder-sorgerecht",
+   "titel": "Kitaplatz und Betreuung",
+   "icon": "🧒",
+   "teaser": "Ab dem ersten Geburtstag haben Kinder einen Rechtsanspruch auf einen Betreuungsplatz – ab Schuljahr 2026/2027 auch auf Ganztagsbetreuung in der Grundschule.",
+   "schlagworte": ["Kitaplatz", "Rechtsanspruch", "Ganztagsbetreuung", "Kindertagespflege", "§ 24 SGB VIII"],
+   "kurz_html": "\n<p>Kinder haben ab Vollendung des ersten Lebensjahres einen Rechtsanspruch auf frühkindliche Förderung in einer Kindertageseinrichtung oder in Kindertagespflege, bis sie in die Schule kommen (§ 24 SGB VIII). Für Kinder unter einem Jahr besteht ein Anspruch, wenn die Förderung für die Entwicklung erforderlich ist oder ein Elternteil erwerbstätig ist, eine Arbeit sucht oder sich in Ausbildung befindet.</p>\n<p>Für Grundschulkinder gibt es seit dem Schuljahr 2026/2027 zusätzlich einen stufenweise eingeführten Rechtsanspruch auf Ganztagsbetreuung: Kinder, die ab diesem Schuljahr in die erste Klasse kommen, haben ab Schuleintritt bis zum Beginn der fünften Klasse Anspruch auf acht Stunden Förderung täglich an Werktagen.</p>\n",
+   "schritte": [
+    {"titel": "Frühzeitig anmelden", "text": "Melden Sie Ihr Kind so früh wie möglich, idealerweise direkt nach der Geburt, über das kommunale Kita-Portal oder Jugendamt an – Wartelisten sind vielerorts lang."},
+    {"titel": "Bedarf begründen", "text": "Legen Sie bei einem Betreuungsbedarf unter einem Jahr dar, warum die Förderung für die Entwicklung Ihres Kindes erforderlich ist oder Sie erwerbstätig, arbeitsuchend oder in Ausbildung sind."},
+    {"titel": "Bei Ablehnung Widerspruch einlegen", "text": "Erhalten Sie trotz Rechtsanspruch keinen Platz, legen Sie fristgerecht Widerspruch ein und lassen Sie sich zu einem Eilantrag beim Verwaltungsgericht beraten."},
+    {"titel": "Schäden dokumentieren", "text": "Entstehen Ihnen durch einen fehlenden Platz nachweisbare finanzielle Schäden (z. B. entgangener Verdienst), dokumentieren Sie diese für einen möglichen Amtshaftungsanspruch."},
+    {"titel": "Ganztagsbetreuung Grundschule anmelden", "text": "Melden Sie Ihr Kind bei Schuleintritt ab dem Schuljahr 2026/2027 für die Ganztagsbetreuung an, sofern es die erste Klasse besucht."}
+   ],
+   "fristen": [
+    {"wert": "ab 1. Geburtstag", "was": "Beginn des Rechtsanspruchs auf frühkindliche Förderung in Kindertageseinrichtung oder Kindertagespflege", "grundlage": "§ 24 Abs. 2 SGB VIII"},
+    {"wert": "Schuljahr 2026/2027", "was": "Beginn des stufenweise eingeführten Rechtsanspruchs auf Ganztagsbetreuung ab der ersten Klassenstufe", "grundlage": "§ 24 Abs. 4 SGB VIII"}
+   ],
+   "achtung": [
+    "Ein Rechtsanspruch bedeutet nicht automatisch einen wohnortnahen oder zeitlich passenden Platz – die Kommune darf grundsätzlich auf zumutbare Alternativangebote verweisen.",
+    "Wird der Rechtsanspruch verletzt, kann nach der Rechtsprechung des Bundesgerichtshofs von 2020 unter bestimmten Voraussetzungen ein Amtshaftungsanspruch gegen die Kommune bestehen – dafür müssen Sie den Schaden (z. B. Verdienstausfall) konkret nachweisen.",
+    "Die Ganztagsbetreuung im Grundschulalter wird stufenweise nach Klassenstufen eingeführt; ob und wie schnell weitere Jahrgangsstufen nach der ersten Klasse folgen, war zum Redaktionsschluss nicht abschließend zu verifizieren – erkundigen Sie sich bei Ihrer Kommune.",
+    "Elternbeiträge für Kita und Hort sind Ländersache und teils gestaffelt oder beitragsfrei – eine bundeseinheitliche Regelung gibt es nicht."
+   ],
+   "fach_html": "\n<h3>Drei Altersstufen des Rechtsanspruchs (§ 24 SGB VIII)</h3>\n<p>Für Kinder unter einem Jahr besteht der Anspruch, wenn die Förderung für die Entwicklung des Kindes erforderlich ist oder die Erziehungsberechtigten erwerbstätig sind, eine Arbeit suchen, sich in Ausbildung befinden oder vergleichbare Gründe vorliegen. Ab Vollendung des ersten bis zur Vollendung des dritten Lebensjahres besteht ein unbedingter Rechtsanspruch auf frühkindliche Förderung in einer Tageseinrichtung oder Kindertagespflege. Ab dem dritten Lebensjahr bis zum Schuleintritt besteht der Anspruch vorrangig auf einen Platz in einer Tageseinrichtung; Kindertagespflege kommt bei besonderem Bedarf in Betracht (gesetze-im-internet.de, abgerufen September 2026).</p>\n<h3>Ganztagsanspruch im Grundschulalter</h3>\n<p>Nach § 24 Abs. 4 SGB VIII hat ein Kind, das im Schuljahr 2026/2027 oder in einem folgenden Schuljahr die erste Klassenstufe besucht, ab Schuleintritt bis zum Beginn der fünften Klassenstufe Anspruch auf Förderung in einer Tageseinrichtung im Umfang von acht Stunden werktäglich. Der Anspruch gilt bereits durch Unterricht, Ganztagsangebote der Schule sowie Angebote der Jugendarbeit in den Schulferien als erfüllt.</p>\n<h3>Durchsetzung und Amtshaftung</h3>\n<p>Wird Ihnen trotz erfüllter Voraussetzungen kein Betreuungsplatz zur Verfügung gestellt, können Sie den Anspruch im Wege des Eilrechtsschutzes vor dem Verwaltungsgericht durchsetzen. Nach einer Grundsatzentscheidung des Bundesgerichtshofs aus dem Jahr 2020 zum U3-Rechtsanspruch kommt bei schuldhafter Nichterfüllung zusätzlich ein Amtshaftungsanspruch (§ 839 BGB i. V. m. Art. 34 GG) gegen die Kommune in Betracht, etwa für nachweisbaren Verdienstausfall wegen verzögerter Rückkehr in den Beruf.</p>\n",
+   "zustaendig": ["Jugendamt / kommunales Kita-Portal", "Träger der Kindertageseinrichtung oder Kindertagespflege"],
+   "belege": ["§ 24 SGB VIII (gesetze-im-internet.de, abgerufen September 2026)", "§ 839 BGB, Art. 34 GG (gesetze-im-internet.de)"],
+   "siehe_auch": ["vereinbarkeit-beruf-und-familie", "sorgerecht-und-umgangsrecht", "beratung-anlaufstellen-alleinerziehende"],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "sorgerecht-und-umgangsrecht",
+   "kategorie": "kinder-sorgerecht",
+   "titel": "Sorgerecht und Umgangsrecht",
+   "icon": "⚖️",
+   "teaser": "Wer die elterliche Sorge hat und wie der Umgang mit dem anderen Elternteil geregelt wird – die wichtigsten Grundlagen aus dem BGB.",
+   "schlagworte": ["Sorgerecht", "Alleinsorge", "Umgangsrecht", "Kindeswohl", "§ 1626 BGB", "§ 1671 BGB", "§ 1684 BGB"],
+   "kurz_html": "\n<p>Waren Sie mit dem anderen Elternteil verheiratet, steht Ihnen die elterliche Sorge nach der Trennung zunächst weiterhin gemeinsam zu, sofern kein Gericht etwas anderes entscheidet. Waren Sie nicht verheiratet, haben Sie als Mutter zunächst automatisch die Alleinsorge, es sei denn, beide Eltern geben eine gemeinsame Sorgeerklärung ab oder das Familiengericht überträgt die gemeinsame Sorge auf Antrag des Vaters.</p>\n<p>Unabhängig vom Sorgerecht hat Ihr Kind grundsätzlich ein Recht auf Umgang mit beiden Elternteilen – und beide Elternteile sind zum Umgang berechtigt und verpflichtet.</p>\n",
+   "schritte": [
+    {"titel": "Sorgerechtslage klären", "text": "Prüfen Sie, ob eine gemeinsame Sorgeerklärung vorliegt oder ob Ihnen als nicht verheirateter Mutter die Alleinsorge zusteht."},
+    {"titel": "Bei Bedarf Alleinsorge beantragen", "text": "Beantragen Sie beim Familiengericht die Übertragung der Alleinsorge, wenn die gemeinsame Sorge dem Kindeswohl nicht mehr entspricht und der andere Elternteil nicht zustimmt."},
+    {"titel": "Umgang einvernehmlich regeln", "text": "Versuchen Sie zunächst, eine Umgangsregelung einvernehmlich zu vereinbaren – etwa mit Unterstützung einer Erziehungs- oder Familienberatungsstelle."},
+    {"titel": "Gerichtliche Regelung beantragen", "text": "Gelingt keine Einigung, kann das Familiengericht Umfang und Ausgestaltung des Umgangs festlegen und bei wiederholten schweren Pflichtverstößen eine Umgangspflegschaft anordnen."},
+    {"titel": "Wohlverhalten beachten", "text": "Unterlassen Sie alles, was das Verhältnis Ihres Kindes zum anderen Elternteil beeinträchtigen könnte – das ist eine eigenständige gesetzliche Pflicht."}
+   ],
+   "fristen": [],
+   "achtung": [
+    "Auch bei Alleinsorge haben Sie keine automatische Befugnis, den Umgang mit dem anderen Elternteil zu verweigern – ein Umgangsausschluss setzt eine gerichtliche Entscheidung wegen Kindeswohlgefährdung voraus.",
+    "Ein Sorgerechtsantrag des anderen Elternteils gegen Ihre Alleinsorge kann auch ohne Ihre Zustimmung Erfolg haben, wenn die Übertragung der gemeinsamen Sorge nach Einschätzung des Gerichts dem Kindeswohl am besten entspricht.",
+    "Bei Kindern über 14 Jahren hat deren eigener, ausdrücklich erklärter Wille bei Sorgerechtsentscheidungen erhebliches Gewicht – eine Übertragung gegen den klaren Willen des Kindes ist erschwert.",
+    "Verletzungen der Wohlverhaltenspflicht (z. B. systematisches Schlechtreden des anderen Elternteils) können vor Gericht zu Ihrem Nachteil gewertet werden, auch wenn Sie die Alleinsorge haben."
+   ],
+   "fach_html": "\n<h3>Gemeinsame Sorge bei nicht verheirateten Eltern</h3>\n<p>Nicht miteinander verheiratete Eltern erhalten die gemeinsame Sorge entweder durch eine gemeinsame Sorgeerklärung (§ 1626a BGB) oder durch eine Entscheidung des Familiengerichts auf Antrag eines Elternteils, wenn die gemeinsame Sorge dem Kindeswohl nicht widerspricht. Ohne eine solche Erklärung oder Entscheidung steht der Mutter zunächst die Alleinsorge zu.</p>\n<h3>Übertragung der Alleinsorge bei Getrenntleben (§ 1671 BGB)</h3>\n<p>Leben Eltern mit gemeinsamer Sorge nicht nur vorübergehend getrennt, kann jeder Elternteil beim Familiengericht beantragen, ihm die elterliche Sorge oder einen Teil davon allein zu übertragen. Dem Antrag ist stattzugeben, wenn der andere Elternteil zustimmt (außer bei Widerspruch eines über 14-jährigen Kindes) oder wenn zu erwarten ist, dass die Aufhebung der gemeinsamen Sorge und die Übertragung auf den Antragsteller dem Kindeswohl am besten entspricht.</p>\n<h3>Umgangsrecht (§ 1684 BGB)</h3>\n<p>Das Kind hat das Recht auf Umgang mit jedem Elternteil; jeder Elternteil ist zum Umgang berechtigt und verpflichtet. Beide Eltern müssen alles unterlassen, was das Verhältnis des Kindes zum jeweils anderen Elternteil beeinträchtigt oder die Erziehung erschwert (Wohlverhaltenspflicht) – das gilt auch, wenn das Kind bei einer anderen Person lebt. Das Familiengericht kann den Umfang des Umgangs bestimmen, eine Umgangspflegschaft anordnen und den Umgang einschränken oder ausschließen, soweit dies zum Wohl des Kindes erforderlich ist; eine dauerhafte Einschränkung setzt eine Gefährdung des Kindeswohls voraus.</p>\n<h3>Beistandschaft und Beratung</h3>\n<p>Örtliche Erziehungsberatungsstellen (§ 28 SGB VIII) unterstützen bei Konflikten rund um Sorge- und Umgangsrecht kostenlos und unabhängig vom familiengerichtlichen Verfahren.</p>\n",
+   "zustaendig": ["Familiengericht", "Jugendamt (Beratung, Vermittlung)"],
+   "belege": ["§§ 1626, 1626a, 1671, 1684 BGB (gesetze-im-internet.de, abgerufen September 2026)", "§ 28 SGB VIII (gesetze-im-internet.de)"],
+   "siehe_auch": ["kita-platz-und-betreuung", "kindesunterhalt-durchsetzen", "beratung-anlaufstellen-alleinerziehende"],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "vereinbarkeit-beruf-und-familie",
+   "kategorie": "beruf-alltag",
+   "titel": "Vereinbarkeit von Beruf und Familie",
+   "icon": "💼",
+   "teaser": "Teilzeitanspruch, Elternzeit und Kündigungsschutz: Diese arbeitsrechtlichen Instrumente können helfen, Job und Kinderbetreuung zusammenzubringen.",
+   "schlagworte": ["Teilzeitanspruch", "Elternzeit", "Kündigungsschutz", "Sozialauswahl", "§ 8 TzBfG", "§ 15 BEEG", "§ 18 BEEG"],
+   "kurz_html": "\n<p>Als Alleinerziehende können Sie mehrere arbeitsrechtliche Instrumente nutzen, um Beruf und Kinderbetreuung zu vereinbaren: den allgemeinen Anspruch auf Verringerung der Arbeitszeit, die Elternzeit mit besonderem Kündigungsschutz und – bei betriebsbedingten Kündigungen – eine bevorzugte Berücksichtigung Ihrer Unterhaltspflichten in der Sozialauswahl.</p>\n<p>Einen allgemeinen gesetzlichen Anspruch speziell für Alleinerziehende auf Homeoffice oder bevorzugte Arbeitszeiten gibt es in Deutschland nicht – solche Regelungen ergeben sich, wenn überhaupt, aus Tarifvertrag, Betriebsvereinbarung oder individueller Absprache mit dem Arbeitgeber.</p>\n",
+   "schritte": [
+    {"titel": "Teilzeit beantragen", "text": "Beantragen Sie bei einem Betrieb mit mehr als 15 Beschäftigten und nach mindestens sechsmonatiger Betriebszugehörigkeit spätestens drei Monate vor dem gewünschten Beginn schriftlich eine Verringerung Ihrer Arbeitszeit (§ 8 TzBfG)."},
+    {"titel": "Elternzeit anmelden", "text": "Melden Sie Elternzeit bis zum dritten Geburtstag spätestens sieben Wochen, für den Zeitraum zwischen drittem und achtem Geburtstag spätestens 13 Wochen vor Beginn schriftlich beim Arbeitgeber an (§ 16 BEEG)."},
+    {"titel": "Teilzeit während der Elternzeit", "text": "Sie dürfen während der Elternzeit bis zu durchschnittlich 32 Wochenstunden monatlich arbeiten, ohne die Elternzeit zu beenden."},
+    {"titel": "Kündigungsschutz kennen", "text": "Der besondere Kündigungsschutz beginnt bereits acht Wochen (bzw. 14 Wochen bei Elternzeit zwischen drittem und achtem Geburtstag) vor dem gewünschten Beginn der Elternzeit – informieren Sie Ihren Arbeitgeber daher frühzeitig."},
+    {"titel": "Bei Kündigungsgefahr Unterhaltspflichten geltend machen", "text": "Weisen Sie bei einer drohenden betriebsbedingten Kündigung aktiv auf Ihre Unterhaltspflichten hin – sie sind ein gesetzlich zu berücksichtigendes Kriterium der Sozialauswahl."}
+   ],
+   "fristen": [
+    {"wert": "3 Monate vorher", "was": "Anmeldefrist für den Teilzeitantrag nach § 8 TzBfG", "grundlage": "§ 8 Abs. 2 TzBfG"},
+    {"wert": "7 bzw. 13 Wochen vorher", "was": "Anmeldefrist für Elternzeit (bis 3. bzw. zwischen 3. und 8. Geburtstag)", "grundlage": "§ 16 Abs. 1 BEEG"},
+    {"wert": "8 bzw. 14 Wochen vorher", "was": "Beginn des besonderen Kündigungsschutzes vor dem gewünschten Start der Elternzeit", "grundlage": "§ 18 Abs. 1 BEEG"}
+   ],
+   "achtung": [
+    "Der Teilzeitanspruch nach § 8 TzBfG gilt nur in Betrieben mit in der Regel mehr als 15 Beschäftigten – in Kleinbetrieben besteht dieser gesetzliche Anspruch nicht.",
+    "Lehnt der Arbeitgeber Ihren Teilzeitantrag nicht spätestens einen Monat vor dem gewünschten Beginn schriftlich ab, gilt die Arbeitszeit automatisch wie beantragt als verringert – prüfen Sie diese Frist genau.",
+    "§ 616 BGB (kurzfristige bezahlte Freistellung bei persönlicher Verhinderung) wird in vielen Arbeitsverträgen und Tarifverträgen wirksam ausgeschlossen – verlassen Sie sich nicht darauf, ohne Ihren Vertrag geprüft zu haben.",
+    "Ein genereller gesetzlicher Anspruch auf Homeoffice besteht in Deutschland nicht; Ansprüche ergeben sich nur aus Tarifvertrag, Betriebsvereinbarung oder individueller Vereinbarung."
+   ],
+   "fach_html": "\n<h3>Anspruch auf Arbeitszeitverringerung (§ 8 TzBfG)</h3>\n<p>Beschäftigte mit mindestens sechsmonatiger Betriebszugehörigkeit in einem Betrieb mit in der Regel mehr als 15 Arbeitnehmern können eine Verringerung ihrer Arbeitszeit verlangen. Der Antrag ist spätestens drei Monate vor dem gewünschten Beginn in Textform zu stellen; der Arbeitgeber muss zustimmen, soweit keine betrieblichen Gründe entgegenstehen, und seine Entscheidung spätestens einen Monat vor dem gewünschten Beginn mitteilen. Lehnt er nicht fristgerecht ab, gilt die Verringerung als in der gewünschten Form genehmigt. Eine erneute Verringerung kann frühestens nach zwei Jahren erneut verlangt werden (gesetze-im-internet.de, abgerufen September 2026).</p>\n<h3>Elternzeit und Kündigungsschutz (§§ 15, 18 BEEG)</h3>\n<p>Anspruch auf Elternzeit haben Beschäftigte, die mit ihrem Kind in einem Haushalt leben und es selbst betreuen und erziehen – bis zur Vollendung des dritten Lebensjahres, mit der Möglichkeit, bis zu 24 Monate auf die Zeit zwischen dem dritten und achten Geburtstag zu übertragen. Während der Elternzeit darf im Durchschnitt des Monats nicht mehr als 32 Wochenstunden gearbeitet werden. Der Kündigungsschutz beginnt acht Wochen vor Beginn einer Elternzeit bis zum dritten Geburtstag bzw. 14 Wochen vor Beginn einer Elternzeit zwischen drittem und achtem Geburtstag und besteht während der gesamten Elternzeit fort; Ausnahmen bedürfen der Zulassung durch die zuständige Landesbehörde.</p>\n<h3>Sozialauswahl bei betriebsbedingter Kündigung</h3>\n<p>Bei einer betriebsbedingten Kündigung muss der Arbeitgeber nach § 1 Abs. 3 KSchG soziale Gesichtspunkte ausreichend berücksichtigen, darunter ausdrücklich Unterhaltspflichten. Als alleinerziehender Elternteil mit alleiniger Unterhaltspflicht wirkt sich dieses Kriterium in der Regel zu Ihren Gunsten aus, ersetzt aber keinen allgemeinen Sonderkündigungsschutz.</p>\n<h3>Kurzfristige Verhinderung (§ 616 BGB)</h3>\n<p>Wer für eine verhältnismäßig nicht erhebliche Zeit unverschuldet aus einem in der eigenen Person liegenden Grund an der Arbeitsleistung verhindert ist, behält grundsätzlich den Vergütungsanspruch – etwa bei einer kurzfristigen Betreuungslücke. Die Vorschrift ist jedoch dispositiv und wird in der Praxis häufig arbeits- oder tarifvertraglich ausgeschlossen.</p>\n",
+   "zustaendig": ["Arbeitgeber (Teilzeit, Elternzeit)", "Arbeitsgericht (bei Streit über Kündigungsschutz)"],
+   "belege": ["§ 8 TzBfG (gesetze-im-internet.de, abgerufen September 2026)", "§§ 15, 16, 18 BEEG (gesetze-im-internet.de)", "§ 1 Abs. 3 KSchG", "§ 616 BGB (gesetze-im-internet.de)"],
+   "siehe_auch": ["krankheit-des-kindes-und-freistellung", "kita-platz-und-betreuung", "buergergeld-fuer-alleinerziehende"],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "krankheit-des-kindes-und-freistellung",
+   "kategorie": "beruf-alltag",
+   "titel": "Krankheit des Kindes und Freistellung",
+   "icon": "🩺",
+   "teaser": "Wird Ihr Kind krank, haben Sie als Alleinerziehende Anspruch auf doppelt so viele Kinderkrankentage wie Elternpaare – für 2026 gilt zusätzlich eine befristete Aufstockung.",
+   "schlagworte": ["Kinderkrankengeld", "Kinderkrankentage", "Freistellung", "§ 45 SGB V"],
+   "kurz_html": "\n<p>Wird Ihr gesetzlich versichertes Kind unter 12 Jahren krank und muss betreut werden, haben Sie als gesetzlich versicherte, alleinerziehende Berufstätige Anspruch auf Freistellung von der Arbeit und auf Kinderkrankengeld Ihrer Krankenkasse – und zwar für doppelt so viele Tage wie Elternpaare. Ein ärztliches Zeugnis über die Erforderlichkeit der Betreuung ist Voraussetzung.</p>\n<p>Für 2026 gilt eine befristete Sonderregelung mit erhöhten Tagen. Das Kinderkrankengeld selbst zahlt Ihre gesetzliche Krankenkasse in Höhe von 90 Prozent des ausgefallenen Nettoarbeitsentgelts.</p>\n",
+   "schritte": [
+    {"titel": "Ärztliches Zeugnis besorgen", "text": "Lassen Sie sich von der Kinderärztin oder dem Kinderarzt bescheinigen, dass die Betreuung Ihres kranken Kindes erforderlich ist und keine andere im Haushalt lebende Person sie übernehmen kann."},
+    {"titel": "Arbeitgeber informieren", "text": "Informieren Sie Ihren Arbeitgeber unverzüglich über die Arbeitsverhinderung und legen Sie die Bescheinigung vor."},
+    {"titel": "Kinderkrankengeld beantragen", "text": "Reichen Sie die Bescheinigung bei Ihrer gesetzlichen Krankenkasse ein, um Kinderkrankengeld für die Ausfalltage zu erhalten."},
+    {"titel": "Verfügbare Tage im Blick behalten", "text": "Führen Sie bei mehreren Kindern oder mehreren Krankheitsfällen im Jahr Buch über bereits genutzte Tage, da eine jährliche Höchstgrenze gilt."},
+    {"titel": "Bei Privatversicherung Freistellung geltend machen", "text": "Sind Sie oder Ihr Kind privat krankenversichert, besteht zwar kein Anspruch auf Kinderkrankengeld von der GKV, wohl aber grundsätzlich weiterhin ein Freistellungsanspruch von der Arbeit – klären Sie die Bezahlung dieser Zeit mit Ihrem Arbeitgeber."}
+   ],
+   "fristen": [
+    {"wert": "unter 12 Jahren", "was": "Altersgrenze des Kindes für den Anspruch (Ausnahme bei Behinderung und Hilfebedürftigkeit)", "grundlage": "§ 45 Abs. 1 SGB V"},
+    {"wert": "je Kind und Jahr", "was": "Regel-Anspruch: 10 Arbeitstage je Kind, für Alleinerziehende 20 Arbeitstage; insgesamt höchstens 25 bzw. 50 Arbeitstage im Jahr unabhängig von der Kinderzahl", "grundlage": "§ 45 Abs. 2 SGB V"}
+   ],
+   "achtung": [
+    "Kinderkrankengeld erhalten nur gesetzlich versicherte Berufstätige für gesetzlich versicherte Kinder – bei privater Krankenversicherung eines der beiden Beteiligten entfällt der Zahlungsanspruch, der reine Freistellungsanspruch von der Arbeit kann aber unabhängig davon bestehen.",
+    "Für 2026 gilt eine befristete Aufstockung der Tage; § 45 Abs. 2a SGB V nennt ausdrücklich nur „das Kalenderjahr 2026“ (15/30 Arbeitstage je Kind, höchstens 35/70). Ab 1. Januar 2027 gilt nach dem Gesetzestext wieder der Regelfall (10/20 je Kind, höchstens 25/50), sofern der Gesetzgeber nichts anderes beschließt; eine Verlängerung ist nicht belegt – prüfen Sie den aktuellen Stand bei Ihrer Krankenkasse.",
+    "§ 616 BGB wird von vielen Arbeitgebern vertraglich ausgeschlossen – verlassen Sie sich bei kurzen Betreuungsnotfällen nicht automatisch auf eine bezahlte Freistellung ohne Kinderkrankengeld.",
+    "Die Höchstgrenze gilt pro Jahr und Person, nicht pro Krankheitsfall – bei mehreren Kindern zählen die Tage zusammen bis zur Gesamthöchstgrenze."
+   ],
+   "fach_html": "\n<h3>Regelanspruch und Sonderregelung 2026 (§ 45 SGB V)</h3>\n<p>Der gesetzliche Regelanspruch beträgt 10 Arbeitstage je Kind und Kalenderjahr, für alleinerziehende Versicherte 20 Arbeitstage; unabhängig von der Kinderzahl gilt eine jährliche Gesamthöchstgrenze von 25 Arbeitstagen (Alleinerziehende: 50 Arbeitstage). Für das Jahr 2026 gilt nach dem aktuellen Gesetzestext eine befristet erhöhte Regelung: 15 Arbeitstage je Kind (Alleinerziehende: 30 Arbeitstage), insgesamt höchstens 35 Arbeitstage (Alleinerziehende: 70 Arbeitstage) (gesetze-im-internet.de, abgerufen September 2026).</p>\n<h3>Höhe der Leistung</h3>\n<p>Das Kinderkrankengeld beträgt 90 Prozent des ausgefallenen Nettoarbeitsentgelts, bei zusätzlich einmalig gezahltem Arbeitsentgelt 100 Prozent, begrenzt auf 70 Prozent der Beitragsbemessungsgrenze. Selbstständige erhalten 70 Prozent ihres regelmäßigen Arbeitseinkommens.</p>\n<h3>Voraussetzungen</h3>\n<p>Anspruchsvoraussetzung ist, dass das Kind das zwölfte Lebensjahr noch nicht vollendet hat oder behindert und auf Hilfe angewiesen ist, ein ärztliches Zeugnis die Erforderlichkeit der Beaufsichtigung, Betreuung oder Pflege bescheinigt und im Haushalt keine andere Person die Betreuung übernehmen kann.</p>\n<h3>Freistellung unabhängig vom Krankengeld</h3>\n<p>Der Anspruch auf Freistellung von der Arbeit zur Betreuung eines kranken Kindes ist von der Zahlung des Kinderkrankengeldes zu unterscheiden: Die Freistellung selbst kann grundsätzlich auch unabhängig vom Versicherungsstatus in Betracht kommen, während das Kinderkrankengeld als Lohnersatzleistung nur gesetzlich Versicherten zusteht.</p>\n",
+   "zustaendig": ["Gesetzliche Krankenkasse"],
+   "belege": ["§ 45 SGB V (gesetze-im-internet.de, abgerufen September 2026)"],
+   "siehe_auch": ["vereinbarkeit-beruf-und-familie", "kita-platz-und-betreuung", "beratung-anlaufstellen-alleinerziehende"],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "schulden-und-alleinerziehende",
+   "kategorie": "rechtsschutz-schulden",
+   "titel": "Schulden und Alleinerziehende",
+   "icon": "📉",
+   "teaser": "Alleinerziehende sind überdurchschnittlich häufig von Überschuldung betroffen. Schuldnerberatung, Pfändungsschutz und Privatinsolvenz helfen aus der Spirale.",
+   "schlagworte": ["Schuldnerberatung", "Pfändungsfreigrenze", "Privatinsolvenz", "Restschuldbefreiung", "§ 850c ZPO", "§ 850d ZPO"],
+   "kurz_html": "\n<p>Ein Wegfall von Unterhalt, geringeres Haushaltseinkommen und hohe Fixkosten machen Alleinerziehende besonders anfällig für Überschuldung. Schuldnerberatungsstellen helfen kostenlos bei der Bestandsaufnahme, bei Verhandlungen mit Gläubigern und bei der Vorbereitung einer Privatinsolvenz.</p>\n<p>Bei einer Lohnpfändung erhöht sich Ihr unpfändbarer Betrag mit der Zahl der Personen, denen Sie gesetzlich zum Unterhalt verpflichtet sind – Ihre Kinder zählen also mit und verbessern Ihren Pfändungsschutz.</p>\n",
+   "schritte": [
+    {"titel": "Schuldnerberatung aufsuchen", "text": "Wenden Sie sich an eine anerkannte, meist kostenlose Schuldnerberatungsstelle Ihrer Kommune, von Caritas, Diakonie oder Verbraucherzentrale."},
+    {"titel": "Übersicht verschaffen", "text": "Lassen Sie sich helfen, alle Forderungen, Fristen und Gläubiger systematisch zu erfassen."},
+    {"titel": "Pfändungsschutz prüfen", "text": "Lassen Sie beim Amtsgericht oder von der Schuldnerberatung Ihren erhöhten unpfändbaren Betrag unter Berücksichtigung Ihrer unterhaltsberechtigten Kinder berechnen."},
+    {"titel": "Außergerichtliche Einigung versuchen", "text": "Versuchen Sie mit Unterstützung der Beratungsstelle eine außergerichtliche Einigung mit den Gläubigern, bevor Sie ein Insolvenzverfahren einleiten."},
+    {"titel": "Privatinsolvenz als letzten Schritt prüfen", "text": "Scheitert die außergerichtliche Einigung, kann ein Verbraucherinsolvenzverfahren mit dem Ziel der Restschuldbefreiung der richtige Weg sein."}
+   ],
+   "fristen": [
+    {"wert": "3 Jahre", "was": "Regel-Verjährung für die meisten vertraglichen Forderungen, beginnend mit Schluss des Jahres der Entstehung und Kenntnis", "grundlage": "§§ 195, 199 BGB"}
+   ],
+   "achtung": [
+    "Kindesunterhalt, den Sie für Ihr Kind einziehen, ist rechtlich Vermögen des Kindes und darf nicht mit Ihren eigenen Schulden verrechnet oder gepfändet werden.",
+    "Sind Sie selbst Gläubigerin von rückständigem Kindesunterhalt gegen den anderen Elternteil, können Sie bei dessen Lohnpfändung von der Privilegierung nach § 850d ZPO profitieren – informieren Sie sich, ob dieser Weg für Sie in Betracht kommt.",
+    "Nicht jede Schuldnerberatungsstelle ist kostenlos – informieren Sie sich vorab, ob es sich um eine anerkannte, öffentlich geförderte Stelle handelt.",
+    "Die genauen Pfändungsfreigrenzen ändern sich regelmäßig; verlassen Sie sich für die aktuelle Tabelle 2026 nicht auf ältere Angaben, sondern lassen Sie sich die für Sie geltenden Beträge konkret berechnen."
+   ],
+   "fach_html": "\n<h3>Erhöhter Pfändungsschutz durch unterhaltsberechtigte Kinder</h3>\n<p>Die Pfändungsfreigrenzentabelle zu § 850c ZPO staffelt den unpfändbaren Grundbetrag nach der Zahl der Personen, denen der Schuldner gesetzlich zum Unterhalt verpflichtet ist. Mit jedem unterhaltsberechtigten Kind erhöht sich dieser Freibetrag. <strong>Die konkreten Eurobeträge der aktuellen Pfändungsfreigrenzentabelle für 2026 wurden im Rahmen dieser Recherche nicht anhand einer amtlichen Einzelquelle geprüft – lassen Sie sich die für Sie geltenden Beträge von einer Schuldnerberatungsstelle oder dem Vollstreckungsgericht konkret berechnen.</strong></p>\n<h3>Privilegierte Vollstreckung eigener Unterhaltsforderungen (§ 850d ZPO)</h3>\n<p>Ziehen Sie selbst rückständigen Kindesunterhalt beim anderen Elternteil ein, können Sie dessen Arbeitseinkommen ohne die üblichen Beschränkungen des § 850c ZPO pfänden lassen; dem Schuldner muss dabei lediglich so viel verbleiben, wie er für seinen notwendigen Unterhalt und laufende gesetzliche Unterhaltspflichten benötigt.</p>\n<h3>Schuldnerberatung als kommunale Aufgabe</h3>\n<p>Schuldnerberatung wird in Deutschland überwiegend als kommunale bzw. von Ländern geförderte Aufgabe angeboten, häufig durch Wohlfahrtsverbände wie Caritas, Diakonie oder Verbraucherzentralen – eine bundeseinheitliche gesetzliche Fördergrundlage in einer einzigen Vorschrift besteht dafür nicht; die konkrete Ausgestaltung ist von Kommune zu Kommune unterschiedlich.</p>\n<h3>Restschuldbefreiung</h3>\n<p>Seit der Reform der Insolvenzordnung 2020/2021 ist eine Restschuldbefreiung im Verbraucherinsolvenzverfahren regelmäßig bereits nach drei Jahren möglich (§ 287 InsO), statt wie zuvor nach sechs Jahren – das verkürzt den Weg aus der Überschuldung erheblich.</p>\n",
+   "zustaendig": ["Anerkannte Schuldnerberatungsstelle", "Amtsgericht / Insolvenzgericht"],
+   "belege": ["§ 850c, § 850d ZPO (gesetze-im-internet.de, abgerufen September 2026)", "§ 287 InsO (gesetze-im-internet.de)", "§§ 195, 199 BGB (gesetze-im-internet.de)"],
+   "siehe_auch": ["kindesunterhalt-durchsetzen", "buergergeld-fuer-alleinerziehende", "beratung-anlaufstellen-alleinerziehende"],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "beratung-anlaufstellen-alleinerziehende",
+   "kategorie": "beratung",
+   "titel": "Beratung und Anlaufstellen",
+   "icon": "📞",
+   "teaser": "Wer ist wofür zuständig – und wo bekommen Sie unabhängige Unterstützung als Alleinerziehende?",
+   "schlagworte": ["Beratungsstelle", "VAMV", "Erziehungsberatung", "Hilfetelefon", "Jugendamt"],
+   "kurz_html": "\n<p>Für die verschiedenen Themen rund um das Alleinerziehen gibt es jeweils eigene Zuständigkeiten – von Behörden für konkrete Anträge bis zu unabhängigen Beratungsstellen für Orientierung und Konfliktfälle. Diese Übersicht bündelt die wichtigsten Anlaufstellen.</p>\n<p>Im Zweifel gilt: Wenden Sie sich lieber einmal zu oft an eine Beratungsstelle als zu spät – viele Fristen im Sozial- und Familienrecht sind kurz und laufen unabhängig davon, ob Sie sich bereits informiert haben.</p>\n",
+   "schritte": [
+    {"titel": "Erste Orientierung", "text": "Wenden Sie sich für einen allgemeinen Überblick über Ihre Ansprüche an das Jugendamt oder eine Beratungsstelle des Verbands alleinerziehender Mütter und Väter (VAMV)."},
+    {"titel": "Finanzielle Leistungen klären", "text": "Für Unterhaltsvorschuss und Beistandschaft ist das Jugendamt zuständig, für Kindergeld und Kinderzuschlag die Familienkasse, für Grundsicherungsgeld und Mehrbedarf das Jobcenter, für Wohngeld die Wohngeldstelle und für den Entlastungsbetrag das Finanzamt."},
+    {"titel": "Familienrechtliche Fragen", "text": "Für Sorge- und Umgangsrecht sowie streitige Unterhaltsfestsetzung wenden Sie sich an eine Fachanwältin oder einen Fachanwalt für Familienrecht oder direkt an das Familiengericht."},
+    {"titel": "Erziehungs- und Konfliktberatung", "text": "Örtliche Erziehungsberatungsstellen (§ 28 SGB VIII) helfen kostenlos bei Erziehungsfragen und Konflikten mit dem anderen Elternteil."},
+    {"titel": "Bei Gewalt sofort Hilfe holen", "text": "Bei häuslicher Gewalt wenden Sie sich rund um die Uhr, kostenlos und anonym an das bundesweite Hilfetelefon Gewalt gegen Frauen (116 016) oder direkt an die Polizei."}
+   ],
+   "fristen": [],
+   "achtung": [
+    "Verschiedene Leistungen haben unterschiedliche Antragsbehörden – ein Antrag beim Jobcenter deckt nicht automatisch Kindergeld, Kinderzuschlag, Wohngeld oder den Entlastungsbetrag mit ab.",
+    "Beratung beim VAMV, bei Wohlfahrtsverbänden oder Erziehungsberatungsstellen ist in der Regel kostenlos – lassen Sie sich nicht von Angeboten kommerzieller Anbieter verunsichern, die Geld für allgemeine Erstberatung verlangen.",
+    "Bei akuter häuslicher Gewalt zählt jede Minute – zögern Sie nicht, die Polizei (110) oder das Hilfetelefon zu kontaktieren, auch wenn Sie sich noch nicht sicher sind, ob die Situation „schlimm genug“ ist."
+   ],
+   "fach_html": "\n<h3>Anlaufstellen im Überblick</h3>\n<ul>\n<li><strong>Jugendamt:</strong> Unterhaltsvorschuss, Beistandschaft, Kitaplatz-Vermittlung, Erziehungsberatung, allgemeine Beratung für Alleinerziehende.</li>\n<li><strong>Familienkasse der Bundesagentur für Arbeit:</strong> Kindergeld, Kinderzuschlag.</li>\n<li><strong>Jobcenter:</strong> Grundsicherungsgeld (Bürgergeld), Mehrbedarf für Alleinerziehende.</li>\n<li><strong>Wohngeldstelle der Kommune:</strong> Wohngeld.</li>\n<li><strong>Finanzamt:</strong> Entlastungsbetrag für Alleinerziehende, Steuerklasse II.</li>\n<li><strong>Familiengericht / Fachanwalt für Familienrecht:</strong> Sorgerecht, Umgangsrecht, streitige Unterhaltsfestsetzung.</li>\n<li><strong>Verband alleinerziehender Mütter und Väter (VAMV):</strong> unabhängige, bundesweite Interessenvertretung und Beratung speziell für Alleinerziehende.</li>\n<li><strong>Schuldnerberatungsstellen (Caritas, Diakonie, Verbraucherzentrale):</strong> Überschuldung, Pfändungsschutz, Privatinsolvenz.</li>\n<li><strong>Hilfetelefon Gewalt gegen Frauen (116 016):</strong> kostenlose, anonyme Beratung rund um die Uhr bei häuslicher Gewalt, mehrsprachig.</li>\n</ul>\n<h3>Wann welche Stelle zuständig ist</h3>\n<p>Eine Faustregel: Geht es um Geld vom Staat, ist meist Jugendamt, Familienkasse, Jobcenter, Wohngeldstelle oder Finanzamt zuständig. Geht es um den anderen Elternteil (Unterhalt, Sorge, Umgang), sind Jugendamt (Beistandschaft, Beratung) und Familiengericht die richtigen Ansprechpartner. Geht es um Konflikte, Überforderung oder Krisen, helfen unabhängige Beratungsstellen wie Erziehungsberatung, VAMV oder Schuldnerberatung – unabhängig davon, ob bereits ein Antrag läuft.</p>\n",
+   "zustaendig": ["Jugendamt", "Familienkasse", "Jobcenter", "Familiengericht", "Wohlfahrtsverbände und VAMV"],
+   "belege": ["§ 28 SGB VIII (gesetze-im-internet.de, abgerufen September 2026)", "Angaben des Hilfetelefons Gewalt gegen Frauen (hilfetelefon.de)"],
+   "siehe_auch": ["ueberblick-rechte-alleinerziehende", "kindesunterhalt-durchsetzen", "schulden-und-alleinerziehende"],
+   "stand": "Stand: September 2026."
+  }
+ ]
+}

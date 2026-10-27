@@ -1,0 +1,1110 @@
+{
+  "kategorien": [
+    {
+      "id": "start",
+      "titel": "Erste Schritte",
+      "icon": "🚨",
+      "beschreibung": "Überblick, Verhalten am Unfallort und Beweise sichern."
+    },
+    {
+      "id": "haftung",
+      "titel": "Haftung und Sonderfälle",
+      "icon": "⚖️",
+      "beschreibung": "Wer zahlt, Mitverschulden, Unfallflucht, Radfahrer und Fußgänger."
+    },
+    {
+      "id": "sachschaden",
+      "titel": "Sachschaden und Regulierung",
+      "icon": "🚗",
+      "beschreibung": "Kfz-Haftpflicht, Gutachten, Mietwagen, Kasko und Rückstufung."
+    },
+    {
+      "id": "personenschaden",
+      "titel": "Verletzung und Folgeschäden",
+      "icon": "🩹",
+      "beschreibung": "Schmerzensgeld, Verdienstausfall und Haushaltsführungsschaden."
+    },
+    {
+      "id": "kosten",
+      "titel": "Kosten, Fristen und Verfahren",
+      "icon": "📅",
+      "beschreibung": "Anwalt, Rechtsschutz, Verjährung, Straf- und Bußgeldverfahren."
+    },
+    {
+      "id": "hilfe",
+      "titel": "Hilfe",
+      "icon": "🤝",
+      "beschreibung": "Beratung und bundesweite Anlaufstellen."
+    }
+  ],
+  "seiten": [
+    {
+      "id": "ueberblick",
+      "kategorie": "start",
+      "titel": "Überblick: Nach dem Verkehrsunfall",
+      "icon": "🧭",
+      "teaser": "Was Sie nach einem Unfall in welcher Reihenfolge tun und welche Ansprüche Sie gegen den Unfallgegner und seine Versicherung haben können.",
+      "schlagworte": [
+        "Verkehrsunfall",
+        "Überblick",
+        "Schadensersatz",
+        "Kfz-Haftpflicht",
+        "Ansprüche",
+        "Reihenfolge",
+        "Unfallopfer"
+      ],
+      "kurz_html": "<p>Nach einem Unfall zählt zuerst die Sicherheit. Danach geht es um Beweise und Ihre Ansprüche.</p><ul><li>Sichern Sie die Unfallstelle und helfen Sie Verletzten.</li><li>Halten Sie fest, was passiert ist: Fotos, Zeugen, Daten des Gegners.</li><li>Melden Sie den Schaden. Die Kfz-Haftpflichtversicherung des Verursachers zahlt in der Regel den Schaden, soweit er haftet.</li><li>Sie können einen Anwalt beauftragen. Bei Haftung des Gegners zahlt dessen Versicherung die Anwaltskosten entsprechend der Haftungsquote.</li><li>Verletzungen können Schmerzensgeld und Ersatz für Verdienstausfall auslösen.</li></ul><p>Fristen gelten besonders für die Verjährung. Prüfen Sie diese früh.</p>",
+      "schritte": [
+        {
+          "titel": "Sicherheit",
+          "text": "Unfallstelle absichern, Verletzten helfen, bei Verletzten die Polizei rufen."
+        },
+        {
+          "titel": "Beweise",
+          "text": "Fotos, Zeugen, Unfallbericht ausfüllen, Daten aller Beteiligten festhalten."
+        },
+        {
+          "titel": "Melden",
+          "text": "Schaden der gegnerischen Kfz-Haftpflichtversicherung melden; eigene Versicherung nach Vertrag informieren."
+        },
+        {
+          "titel": "Arzt und Belege",
+          "text": "Verletzungen ärztlich dokumentieren lassen; Rechnungen und Belege sammeln."
+        },
+        {
+          "titel": "Rat holen",
+          "text": "Bei Streit über die Schuld, bei Verletzungen oder hohem Schaden Anwalt oder Beratungsstelle einbeziehen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "3 Jahre",
+          "was": "Regelmäßige Verjährung von Schadensersatzansprüchen (Beginn: Ende des Jahres, in dem der Anspruch entsteht und Sie Kenntnis haben)",
+          "grundlage": "§ 195, § 199 Abs. 1 BGB"
+        },
+        {
+          "wert": "1 Woche",
+          "was": "Anzeigepflicht des Versicherungsnehmers gegenüber dem eigenen Haftpflichtversicherer bei Umständen, die zu einer Haftung führen können",
+          "grundlage": "§ 104 VVG"
+        }
+      ],
+      "achtung": [
+        "Geben Sie am Unfallort kein Schuldanerkenntnis ab; der Unfallbericht ist eine Wiedergabe des Hergangs.",
+        "Fahren Sie bei einem Unfall nicht weg, bevor die Feststellungen ermöglicht sind (§ 142 StGB).",
+        "Ansprüche gegen den Gegner sind nicht das Gleiche wie Ihre eigene Kasko: Prüfen Sie, welcher Weg zu welchen Folgen führt.",
+        "Unterschreiben Sie keine Abfindungserklärung, bevor Folgen von Verletzungen absehbar sind."
+      ],
+      "fach_html": "<h3>Anspruchsgrundlagen</h3><p>Der Halter eines Kraftfahrzeugs muss nach § 7 Abs. 1 StVG Schaden ersetzen, wenn bei dem Betrieb des Kraftfahrzeugs ein Mensch getötet, Körper oder Gesundheit verletzt oder eine Sache beschädigt wird. Der Geschädigte kann seinen Anspruch nach § 115 Abs. 1 VVG in den Fällen des § 115 Abs. 1 Satz 1 VVG (Pflichtversicherung, Insolvenz des Versicherungsnehmers, unbekannter Aufenthalt des Versicherungsnehmers) auch direkt gegen den Versicherer richten; Versicherer und Versicherungsnehmer haften als Gesamtschuldner.</p><h3>Haftungshöchstbeträge</h3><p>§ 12 Abs. 1 StVG: bei Tötung oder Verletzung insgesamt fünf Millionen Euro, bei Sachschaden eine Million Euro (bei automatisierten oder autonomen Fahrfunktionen zehn beziehungsweise zwei Millionen Euro). Der Höchstbetrag gilt auch für den Kapitalwert einer Rente. Bei entgeltlicher geschäftsmäßiger Personenbeförderung erhöht er sich um 600.000 Euro je weiterer Person über acht. Die Höchstbeträge gelten nur für die Gefährdungshaftung nach dem StVG; bei Verschulden (§ 823 BGB) haftet der Schädiger unbegrenzt.</p><h3>Schadenpositionen (Überblick)</h3><p>Nach ADAC-Darstellung zählen zu den Ersatzpositionen unter anderem Reparaturkosten, Gutachterkosten, Mietwagen oder Nutzungsausfall, Wertminderung, Anwaltskosten und Schmerzensgeld. Die einzelnen Seiten dieser Gruppe vertiefen diese Punkte.</p><h3>Grenze dieser Seite</h3><p>Ob und in welcher Höhe ein Anspruch besteht, hängt vom Einzelfall ab (Hergang, Mitverschulden, Beweislage). Diese Seite gibt Überblick, keine Einzelfallprüfung.</p>",
+      "zustaendig": [
+        "Polizei (Notruf) bei Verletzten und Streit",
+        "Kfz-Haftpflichtversicherung des Unfallgegners",
+        "Eigene Kfz-Versicherung",
+        "Rechtsanwalt für Verkehrsrecht"
+      ],
+      "belege": [
+        "Bundesministerium der Justiz, Gesetze im Internet: StVG §§ 7, 12; VVG §§ 104, 115; BGB §§ 195, 199; StGB § 142, abgerufen 20.09.2026",
+        "ADAC, Verkehrsunfall: Diese Kosten muss die gegnerische Versicherung zahlen, abgerufen 20.09.2026",
+        "ADAC, Was tun nach einem Unfall, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "unfallort-beweise",
+        "schadensregulierung",
+        "verjaehrung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "unfallort-beweise",
+      "kategorie": "start",
+      "titel": "Verhalten am Unfallort und Beweissicherung",
+      "icon": "📸",
+      "teaser": "Anhalten, absichern, helfen, Daten austauschen und Beweise sichern: was das Gesetz verlangt und was Ihnen später hilft.",
+      "schlagworte": [
+        "Unfallort",
+        "Warndreieck",
+        "Polizei",
+        "Unfallbericht",
+        "Zeugen",
+        "Fotos",
+        "Datenaustausch",
+        "Erste Hilfe"
+      ],
+      "kurz_html": "<p>Halten Sie sofort an. Sichern Sie die Stelle ab. Schalten Sie das Warnblinklicht ein und stellen Sie das Warndreieck auf.</p><p>Helfen Sie Verletzten und rufen Sie bei Verletzten die Polizei.</p><ul><li>Tauschen Sie Name, Anschrift, Kennzeichen und Versicherungsdaten aus.</li><li>Machen Sie Fotos von der Unfallstelle, den Fahrzeugen und den Schäden.</li><li>Notieren Sie Name und Anschrift von Zeugen.</li><li>Füllen Sie gemeinsam mit dem Gegner einen Unfallbericht aus. Das ist kein Schuldeingeständnis, sondern eine Beschreibung des Hergangs.</li></ul><p>Bei Streit, Alkohol oder hohem Schaden rufen Sie die Polizei.</p>",
+      "schritte": [
+        {
+          "titel": "Anhalten und sichern",
+          "text": "Warnblinker, Warnweste, Warndreieck (nach ADAC 50 bis 150 Schritte Abstand)."
+        },
+        {
+          "titel": "Helfen",
+          "text": "Erste Hilfe leisten, Notruf bei Verletzten."
+        },
+        {
+          "titel": "Daten austauschen",
+          "text": "Personalien, Kennzeichen, Versicherung der Beteiligten; Zeugen notieren."
+        },
+        {
+          "titel": "Beweise sichern",
+          "text": "Fotos aus mehreren Winkeln (Gesamtlage, Schäden, Bremsspuren, Verkehrszeichen), Unfallbericht gemeinsam ausfüllen."
+        },
+        {
+          "titel": "Arztbesuch",
+          "text": "Auch bei scheinbar leichten Verletzungen ärztlich untersuchen lassen und Befund festhalten lassen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "24 Stunden",
+          "was": "Nachträgliche Feststellung bei nicht fließendem Verkehr und nur unbedeutendem Sachschaden: Das Gericht kann die Strafe mildern oder von Strafe absehen, wenn Sie die Feststellungen freiwillig innerhalb dieser Frist nachholen",
+          "grundlage": "§ 142 Abs. 4 StGB (Gericht kann die Strafe mildern oder von Strafe absehen)"
+        }
+      ],
+      "achtung": [
+        "Wer am Unfall beteiligt sein kann, muss bleiben und Feststellungen ermöglichen oder eine angemessene Zeit warten (§ 142 StGB).",
+        "Kein Schuldanerkenntnis unterschreiben und keine Zahlung „auf die Hand“ vereinbaren, ohne den Schaden zu kennen.",
+        "Polizei rufen, wenn Personen verletzt wurden, Streit besteht, Strafe im Raum steht oder Sie nicht der Halter sind.",
+        "Verletzungen können sich verzögert zeigen: Beschwerden früh dokumentieren."
+      ],
+      "fach_html": "<h3>Pflichten nach § 34 StVO</h3><p>Wer an einem Unfall beteiligt ist, muss unverzüglich halten, den Verkehr sichern, sich über die Unfallfolgen vergewissern, Verletzten helfen, Name und Anschrift, Führerschein und Fahrzeugschein sowie Versicherungsdaten auf Verlangen angeben und am Unfallort bleiben, bis die Feststellungen ermöglicht sind. Unfallbeteiligter ist jeder, dessen Verhalten nach den Umständen zur Verursachung des Unfalls beigetragen haben kann.</p><h3>Unerlaubtes Entfernen, § 142 StGB</h3><p>Strafrahmen: Freiheitsstrafe bis zu drei Jahren oder Geldstrafe. Wer sich berechtigt oder entschuldigt entfernt hat, muss die Feststellungen unverzüglich nachträglich ermöglichen, etwa durch Mitteilung an den Berechtigten oder eine nahe Polizeidienststelle mit Anschrift und Kennzeichen.</p><p>§ 142 StGB gilt unverändert; eine angekündigte Herabstufung ist nicht verabschiedet.</p><h3>Beweiswert</h3><p>Nach ADAC dient der Europäische Unfallbericht der einheitlichen Dokumentation; Versicherer und Behörden ziehen ihn zur Schadensabwicklung heran. Fotos und Zeugendaten erleichtern die spätere Klärung der Haftungsfrage.</p><h3>Unsicher</h3><p>Ob und in welchem Umfang Dashcam-Aufnahmen vor Gericht verwertet werden können, wurde hier nicht geprüft.</p>",
+      "zustaendig": [
+        "Notruf 112 (Rettung) und Polizei",
+        "Gegnerische Kfz-Haftpflichtversicherung",
+        "Eigene Versicherung",
+        "Arzt (Dokumentation der Verletzungen)"
+      ],
+      "belege": [
+        "Bundesministerium der Justiz, Gesetze im Internet: StVO § 34; StGB § 142, abgerufen 20.09.2026",
+        "ADAC, 10 Tipps: Was tun nach einem Unfall, abgerufen 20.09.2026",
+        "ADAC, Unfall: Wann Sie die Polizei rufen müssen, abgerufen 20.09.2026",
+        "ADAC, Europäischer Unfallbericht, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "haftung-mitverschulden",
+        "unfallflucht-verkehrsopferhilfe",
+        "strafverfahren-owi"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "haftung-mitverschulden",
+      "kategorie": "haftung",
+      "titel": "Haftung und Mitverschulden",
+      "icon": "⚖️",
+      "teaser": "Wer haftet nach einem Unfall, und was passiert, wenn auch Sie eine Mitschuld trifft?",
+      "schlagworte": [
+        "Haftung",
+        "Mitverschulden",
+        "Haftungsquote",
+        "Betriebsgefahr",
+        "unabwendbares Ereignis",
+        "§ 7 StVG",
+        "§ 254 BGB"
+      ],
+      "kurz_html": "<p>Der Halter eines Autos haftet grundsätzlich für Schäden, die beim Betrieb des Autos entstehen. Das gilt auch ohne eigenes Verschulden. Auch der Fahrer kann haften.</p><p>Trifft Sie selbst eine Mitschuld, wird Ihr Ersatzanspruch gekürzt. Das nennt man Haftungsquote.</p><ul><li>Beispiel: Bei 30 Prozent Mitschuld bekommen Sie 70 Prozent Ihres Schadens.</li><li>Auch Anwaltskosten werden nach der Quote erstattet.</li><li>Zwischen zwei Fahrzeugen kommt es darauf an, wer den Schaden überwiegend verursacht hat.</li></ul><p>Stimmen Sie einer Quote nicht vorschnell zu. Lassen Sie sie prüfen.</p>",
+      "schritte": [
+        {
+          "titel": "Hergang festhalten",
+          "text": "Skizze, Fotos, Zeugen, Unfallbericht sichern."
+        },
+        {
+          "titel": "Quote prüfen",
+          "text": "Vorschlag der Versicherung nicht ungeprüft annehmen."
+        },
+        {
+          "titel": "Beweise ordnen",
+          "text": "Belege für Schaden und Hergang zusammenstellen."
+        },
+        {
+          "titel": "Rat einholen",
+          "text": "Bei streitiger Schuld Anwalt für Verkehrsrecht beauftragen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "3 Jahre",
+          "was": "Verjährung von Schadensersatzansprüchen (regelmäßig)",
+          "grundlage": "§ 195, § 199 Abs. 1 BGB"
+        },
+        {
+          "wert": "5 Mio. Euro / 1 Mio. Euro",
+          "was": "Höchstbetrag der Halterhaftung: Personenschaden / Sachschaden (nur Gefährdungshaftung nach StVG; bei Verschulden nach § 823 BGB unbegrenzt; +600.000 Euro je weiterer Person über acht bei entgeltlicher geschäftsmäßiger Personenbeförderung; gilt auch für den Kapitalwert einer Rente)",
+          "grundlage": "§ 12 Abs. 1 StVG"
+        }
+      ],
+      "achtung": [
+        "Eine Mitschuld mindert Ihre Ansprüche, führt aber nicht automatisch zum Verlust aller Ansprüche.",
+        "Das Nichtvorhandensein eines Verschuldens des Gegners schließt die Haftung aus Betriebsgefahr nicht automatisch aus.",
+        "Zugeständnisse an der Unfallstelle können später gegen Sie verwendet werden.",
+        "Kinder unter 10 Jahren haften im Straßenverkehr bei fahrlässigem Handeln nicht gegenüber Kfz, wenn sich die typische Kfz-Gefahr im fließenden Verkehr verwirklicht (§ 828 Abs. 2 BGB); bei parkenden Fahrzeugen gilt das nicht."
+      ],
+      "fach_html": "<h3>Gefährdungshaftung, § 7 StVG</h3><p>Wird bei dem Betrieb eines Kraftfahrzeugs ein Mensch getötet, der Körper oder die Gesundheit verletzt oder eine Sache beschädigt, ist der Halter zum Schadensersatz verpflichtet. Ausgeschlossen ist die Haftung bei höherer Gewalt. Bei Schwarzfahrt haftet primär der Benutzer; der Halter bleibt nur bei schuldhafter Ermöglichung mithaftend. § 8 StVG nennt Ausnahmen, unter anderem für Fahrzeuge, die bauartbedingt nicht schneller als 20 km/h fahren können.</p><h3>Fahrerhaftung, § 18 StVG</h3><p>Auch der Fahrer haftet nach § 18 Abs. 1 StVG. Sein Verschulden wird vermutet; er kann sich entlasten (Exkulpation), wenn er beweist, dass der Schaden nicht durch sein Verschulden verursacht wurde.</p><h3>Mehrere Kraftfahrzeuge, § 17 StVG</h3><p>§ 17 Abs. 1 bis 3 StVG gilt zwischen Kfz-Haltern. Gegenüber Fußgängern und Radfahrern entfällt die Haftung des Halters nur bei höherer Gewalt (§ 7 Abs. 2 StVG). Die Ersatzpflicht der Halter untereinander richtet sich danach, inwieweit der Schaden vorwiegend von dem einen oder dem anderen Teil verursacht worden ist. Die Haftung entfällt für den Halter, wenn der Unfall durch ein unabwendbares Ereignis verursacht wird, und ein Ereignis gilt nur als unabwendbar, wenn Halter und Fahrer jede nach den Umständen des Falles gebotene Sorgfalt beobachtet haben. Nach § 17 Abs. 3 Satz 2 StVG setzt das zusätzlich voraus, dass der Unfall nicht auf einem Fehler des Fahrzeugs oder einem Versagen seiner Vorrichtungen beruht.</p><h3>Mitverschulden, § 9 StVG, § 254 BGB</h3><p>Hat ein Verschulden des Verletzten bei der Entstehung des Schadens mitgewirkt, gilt § 254 BGB: Umfang der Ersatzpflicht richtet sich nach den Umständen, insbesondere danach, inwieweit der Schaden vorwiegend von dem einen oder dem anderen Teil verursacht worden ist. Mitverschulden umfasst auch das Unterlassen, den Schaden zu mindern (§ 254 Abs. 2 BGB).</p><h3>Kinder, § 828 Abs. 2 BGB</h3><p>Das Haftungsprivileg für Kinder von 7 bis 10 Jahren gilt nur, wenn sich die typische Gefahr des Kfz im fließenden Verkehr verwirklicht hat, nicht bei parkenden Fahrzeugen (BGH 30.11.2004, VI ZR 335/03 und VI ZR 365/03).</p><h3>Quoten</h3><p>Konkrete Quoten für typische Konstellationen wurden hier nicht aus Primärquellen belegt. Sie hängen vom Einzelfall und der Rechtsprechung ab.</p>",
+      "zustaendig": [
+        "Gegnerische Kfz-Haftpflichtversicherung",
+        "Rechtsanwalt für Verkehrsrecht",
+        "Gericht (bei Klage)"
+      ],
+      "belege": [
+        "Bundesministerium der Justiz, Gesetze im Internet: StVG §§ 7, 8, 9, 12, 17, 18; BGB §§ 254, 828, abgerufen 20.09.2026",
+        "ADAC, Verkehrsunfall: Diese Kosten muss die gegnerische Versicherung zahlen (Mitverschulden und Anwaltskosten nach Quote), abgerufen 20.09.2026",
+        "Bundesgerichtshof, Pressemitteilung zu VI ZR 281/13 vom 17.06.2014, abgerufen 20.09.2026",
+        "Bundesgerichtshof, Urteile vom 30.11.2004, VI ZR 335/03 und VI ZR 365/03 (§ 828 Abs. 2 BGB)"
+      ],
+      "siehe_auch": [
+        "radfahrer-fussgaenger",
+        "schadensregulierung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "unfallflucht-verkehrsopferhilfe",
+      "kategorie": "haftung",
+      "titel": "Unfallflucht und Verkehrsopferhilfe",
+      "icon": "🏃",
+      "teaser": "Was Sie tun können, wenn der Verursacher geflüchtet oder nicht versichert ist, und wann die Verkehrsopferhilfe einspringt.",
+      "schlagworte": [
+        "Unfallflucht",
+        "Fahrerflucht",
+        "Verkehrsopferhilfe",
+        "nicht versichert",
+        "Entschädigungsfonds",
+        "unbekannter Fahrer",
+        "§ 12 PflVG",
+        "§ 142 StGB"
+      ],
+      "kurz_html": "<p>Der Unfallverursacher ist geflüchtet oder hat keine Versicherung? Dann gibt es Hilfe.</p><ul><li>Rufen Sie die Polizei und zeigen Sie die Unfallflucht an. Notieren Sie Kennzeichen, Fahrzeugtyp, Zeugen.</li><li>Wenn der Verursacher unbekannt oder nicht versichert ist, kann die Verkehrsopferhilfe e.V. zuständig sein.</li><li>Bei unbekanntem Fahrzeug werden Sachschäden nur ersetzt, wenn der Fonds wegen desselben Ereignisses auch für eine Tötung oder erhebliche Verletzung leistet. Es gibt eine Selbstbeteiligung von 500 Euro.</li><li>Schmerzensgeld gibt es bei nicht ermitteltem Fahrzeug im Regelfall nicht, nur bei besonderer Schwere der Verletzung, wenn es zur Vermeidung grober Unbilligkeit erforderlich ist.</li></ul><p>Sie müssen glaubhaft machen, dass Sie von anderer Seite keinen Ersatz bekommen.</p>",
+      "schritte": [
+        {
+          "titel": "Polizei",
+          "text": "Unfall und Flucht sofort melden; Anzeige aufnehmen lassen."
+        },
+        {
+          "titel": "Hinweise sammeln",
+          "text": "Kennzeichenteile, Fahrzeugbeschreibung, Zeugen, Kamera-Aufnahmen aus der Umgebung festhalten."
+        },
+        {
+          "titel": "Eigene Versicherung",
+          "text": "Prüfen, ob eine Kasko oder Unfallversicherung den Schaden deckt."
+        },
+        {
+          "titel": "Verkehrsopferhilfe",
+          "text": "Schaden dort anmelden (Formular auf verkehrsopferhilfe.de)."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "500 Euro",
+          "was": "Selbstbeteiligung bei Sachschäden, wenn das Fahrzeug nicht ermittelt wird",
+          "grundlage": "§ 12 Abs. 2 PflVG"
+        },
+        {
+          "wert": "Sonderfrist",
+          "was": "Die Verjährung richtet sich nach § 12 Abs. 3 PflVG (Kenntnis der Umstände), nicht nach §§ 195, 199 BGB; sie ist gehemmt, bis dem Anspruchsteller die schriftliche Entscheidung oder der Einigungsvorschlag nach § 26 PflVG zugeht",
+          "grundlage": "§ 12 Abs. 3 PflVG, § 26 PflVG"
+        }
+      ],
+      "achtung": [
+        "Die Verkehrsopferhilfe ist nachrangig: Sie müssen glaubhaft machen, dass Sie von Halter, Eigentümer, Fahrer oder Schadensversicherer keinen Ersatz erlangen können.",
+        "Bei nicht ermittelten Fahrzeugen sind Sachschäden nur ersetzbar, wenn der Fonds wegen desselben Ereignisses wegen Tötung oder erheblicher Verletzung zur Entschädigung verpflichtet ist oder geleistet hat (§ 12 Abs. 2 Satz 3 PflVG). Schmerzensgeld gibt es nur bei besonderer Schwere der Verletzung.",
+        "Zeigen Sie die Flucht zügig an, damit der Fahrer noch ermittelt werden kann.",
+        "Auch Sie selbst müssen nach § 142 StGB bleiben: Flucht kann Strafe bis zu drei Jahren Freiheitsstrafe nach sich ziehen."
+      ],
+      "fach_html": "<h3>Entschädigungsfonds, § 12 PflVG</h3><p>§ 12 Abs. 1 Satz 1 PflVG hat seit 2024 (BGBl. 2024 I Nr. 119, Umsetzung der Richtlinie (EU) 2021/2118) sechs Nummern. Der Entschädigungsfonds leistet unter anderem, wenn das schadenverursachende Fahrzeug nicht ermittelt werden kann, die erforderliche Haftpflichtversicherung fehlt oder der Versicherer wegen vorsätzlichen Handelns nicht leistet. Der Geschädigte muss glaubhaft machen, weder von Halter, Eigentümer oder Fahrer noch von einem Schadensversicherer noch vom Deutschen Büro Grüne Karte Ersatz erlangen zu können.</p><h3>Nicht ermitteltes Fahrzeug, § 12 Abs. 2 PflVG</h3><p>Schmerzensgeld (§ 253 Abs. 2 BGB) wird nach Satz 1 nur geleistet, wenn dies wegen der besonderen Schwere der Verletzung zur Vermeidung einer groben Unbilligkeit erforderlich ist, also im Regelfall nicht. Sachschäden werden nur ersetzt, wenn der Fonds wegen desselben Ereignisses wegen Tötung oder erheblicher Verletzung zur Entschädigung verpflichtet ist oder geleistet hat (Satz 3); es gilt eine Selbstbeteiligung von 500 Euro.</p><h3>Verjährung, § 12 Abs. 3 PflVG</h3><p>Die Vorschrift regelt die Verjährung als Sonderregel: Maßgeblich ist die Kenntnis der Umstände. Die Verjährung ist gehemmt, bis dem Anspruchsteller die schriftliche Entscheidung oder der Einigungsvorschlag nach § 26 PflVG zugeht.</p><h3>Verkehrsopferhilfe e.V.</h3><p>Die VOH nennt sich Garantiefonds für Unfälle in Deutschland durch nicht ermittelte oder nicht versicherte Kraftfahrzeuge oder bei vorsätzlicher Nutzung eines Fahrzeugs als „Tatwaffe“; zuständig auch bei Insolvenz des Versicherers. Zudem ist sie Entschädigungsstelle bei Unfällen im Ausland nach § 12a PflVG (Richtlinie 2009/103/EG in der Fassung der Richtlinie (EU) 2021/2118). Schadenmeldung über <a href=\"https://www.verkehrsopferhilfe.de/unfallmeldung/\">verkehrsopferhilfe.de/unfallmeldung</a>. Eine allgemeine Anschrift ist auf der Startseite nicht angegeben; die Website ist die belegte Kontaktstelle.</p><h3>Strafrecht</h3><p>Zu § 142 StGB siehe die Seite zum Verhalten am Unfallort.</p>",
+      "zustaendig": [
+        "Polizei (Anzeige)",
+        "Verkehrsopferhilfe e.V. (verkehrsopferhilfe.de)",
+        "Eigene Kasko- oder Unfallversicherung"
+      ],
+      "belege": [
+        "Bundesministerium der Justiz, Gesetze im Internet: PflVG §§ 12, 12a, 26, StGB § 142, abgerufen 20.09.2026",
+        "Verkehrsopferhilfe e.V., verkehrsopferhilfe.de (Startseite), abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "unfallort-beweise",
+        "personenschaden-schmerzensgeld",
+        "beratung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "radfahrer-fussgaenger",
+      "kategorie": "haftung",
+      "titel": "Radfahrer und Fußgänger als Unfallopfer",
+      "icon": "🚲",
+      "teaser": "Als Radfahrer oder zu Fuß verunglückt: Ansprüche gegen den Autofahrer, Helm und Mitverschulden, Sonderregeln für Kinder.",
+      "schlagworte": [
+        "Radfahrer",
+        "Fußgänger",
+        "Fahrradhelm",
+        "Dooring",
+        "Kinder",
+        "Mitverschulden",
+        "Betriebsgefahr",
+        "Schmerzensgeld"
+      ],
+      "kurz_html": "<p>Wenn ein Auto Sie als Radfahrer oder Fußgänger verletzt, haftet der Halter grundsätzlich für die Gefahr des Autos. Das gilt auch, wenn den Fahrer kein Verschulden trifft.</p><ul><li>Auch ohne Fahrradhelm bekommen Sie nach dem Bundesgerichtshof nicht automatisch weniger Geld. Das entschied der BGH 2014; auch das Kammergericht Berlin blieb 2022 bei dieser Linie. Für S-Pedelecs gilt dagegen eine Helmpflicht.</li><li>Wenn Sie sich selbst falsch verhalten haben, kann Ihr Anspruch gekürzt werden.</li><li>Kinder unter 10 Jahren sind bei Unfällen mit Kraftfahrzeugen im fließenden Verkehr nach dem Gesetz nicht verantwortlich, außer bei Absicht; bei parkenden Fahrzeugen gilt das nicht.</li></ul><p>Sichern Sie Beweise und lassen Sie Verletzungen ärztlich festhalten.</p>",
+      "schritte": [
+        {
+          "titel": "Helfen lassen",
+          "text": "Rettungsdienst und Polizei rufen, Verletzungen ärztlich versorgen lassen."
+        },
+        {
+          "titel": "Beweise",
+          "text": "Fotos von Stelle, Fahrrad, Kleidung, Zeugen; Rad und Ausrüstung nicht sofort wegwerfen."
+        },
+        {
+          "titel": "Schaden erfassen",
+          "text": "Sachschaden (Rad, Kleidung, Brille), Heilkosten, Verdienstausfall auflisten."
+        },
+        {
+          "titel": "Melden",
+          "text": "Ansprüche bei der gegnerischen Kfz-Haftpflichtversicherung anmelden, ggf. mit Anwalt."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "bis 10 Jahre",
+          "was": "Kinder: keine Verantwortung bei Kfz-Unfall bis zur Vollendung des 10. Lebensjahres, außer bei Vorsatz (7 bis 10 Jahre)",
+          "grundlage": "§ 828 BGB"
+        },
+        {
+          "wert": "3 Jahre",
+          "was": "Verjährung von Ansprüchen (regelmäßig)",
+          "grundlage": "§ 195, § 199 Abs. 1 BGB"
+        }
+      ],
+      "achtung": [
+        "Die Helm-Entscheidung des BGH (2014) wurde 2022 vom KG Berlin bestätigt: Es gibt kein allgemeines Verkehrsbewusstsein für Helmtragen. Offen gelassen ist der Fall sportlich ambitionierter Rennradfahrer.",
+        "Für normale Fahrräder zwingt kein Gesetz zum Helm; das begründete nach BGH kein Mitverschulden. Für S-Pedelecs besteht Helmpflicht (§ 21a Abs. 2 StVO); die BGH-Entscheidung greift dort nicht.",
+        "Eigenes Fehlverhalten (Rotlicht, falsche Straßenseite) kann Ihre Quote mindern.",
+        "Eine Haftungsverteilung ist Einzelfallsache."
+      ],
+      "fach_html": "<h3>BGH zum Fahrradhelm</h3><p>Der Bundesgerichtshof entschied am 17.06.2014 (VI ZR 281/13), dass das Nichttragen eines Fahrradhelms nicht zu einer Anspruchskürzung wegen Mitverschuldens führt. Das Berufungsgericht hatte 20 Prozent abgezogen. Der BGH begründete dies damit, dass keine Helmpflicht bestand und zum Zeitpunkt des Unfalls 2011 nach Verkehrsbeobachtungen nur etwa 11 Prozent der innerstädtischen Radfahrer einen Helm trugen. Der Fall betraf eine geöffnete Autotür. Das Kammergericht Berlin bestätigte diese Linie 2022 (kein allgemeines Verkehrsbewusstsein). Offen gelassen wurde der Fall sportlich ambitionierter Rennradfahrer. Für S-Pedelecs gilt Helmpflicht nach § 21a Abs. 2 StVO; die BGH-Entscheidung greift dort nicht.</p><h3>Kinder, § 828 BGB</h3><p>Wer das siebente Lebensjahr nicht vollendet hat, ist für einen Schaden nicht verantwortlich. Zwischen 7 und 10 Jahren gilt das bei Unfällen mit Kraftfahrzeug, Schienen- oder Schwebebahn, außer bei vorsätzlicher Verursachung. Das Privileg gilt nur, wenn sich die typische Kfz-Gefahr im fließenden Verkehr verwirklicht hat, nicht bei parkenden Fahrzeugen (BGH 30.11.2004, VI ZR 335/03 und VI ZR 365/03). Ab 10 bis 18 kann Verantwortung entfallen, wenn die Einsichtsfähigkeit fehlte.</p><h3>Gefährdungshaftung</h3><p>§ 7 StVG gilt auch gegenüber Fußgängern und Radfahrern als Verletzten; die Mitverschuldensregeln von § 9 StVG und § 254 BGB bleiben anwendbar. Die Halterhaftung entfällt gegenüber Fußgängern und Radfahrern nur bei höherer Gewalt (§ 7 Abs. 2 StVG); § 17 Abs. 1 bis 3 StVG gilt zwischen Kfz-Haltern, nicht ihnen gegenüber.</p>",
+      "zustaendig": [
+        "Gegnerische Kfz-Haftpflichtversicherung",
+        "Rechtsanwalt für Verkehrsrecht",
+        "Polizei (Unfallaufnahme)"
+      ],
+      "belege": [
+        "Bundesgerichtshof, Pressemitteilung Nr. 095/2014 zu VI ZR 281/13 vom 17.06.2014, abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, Gesetze im Internet: BGB §§ 254, 828; StVG §§ 7, 9, abgerufen 20.09.2026",
+        "ADAC, Verkehrsunfall: Diese Kosten muss die gegnerische Versicherung zahlen, abgerufen 20.09.2026",
+        "Bundesgerichtshof, Urteile vom 30.11.2004, VI ZR 335/03 und VI ZR 365/03 (§ 828 Abs. 2 BGB)"
+      ],
+      "siehe_auch": [
+        "haftung-mitverschulden",
+        "personenschaden-schmerzensgeld"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "schadensregulierung",
+      "kategorie": "sachschaden",
+      "titel": "Schadensregulierung über die Kfz-Haftpflicht",
+      "icon": "📨",
+      "teaser": "Wie Sie den Schaden bei der gegnerischen Versicherung anmelden und welche Positionen erstattet werden können.",
+      "schlagworte": [
+        "Schadensregulierung",
+        "Kfz-Haftpflicht",
+        "Direktanspruch",
+        "Reparaturkosten",
+        "Wertminderung",
+        "Kostenpauschale",
+        "Totalschaden",
+        "Schadenmeldung"
+      ],
+      "kurz_html": "<p>Die Kfz-Haftpflichtversicherung des Unfallverursachers bezahlt Ihren Schaden, soweit er haftet. Sie können Ihre Ansprüche direkt bei dieser Versicherung anmelden.</p><ul><li>Dazu gehören zum Beispiel Reparaturkosten, Gutachter, Mietwagen oder Nutzungsausfall, Abschleppen.</li><li>Auch eine Wertminderung kann ersetzt werden. Nach ADAC-Faustregel kommt sie bei Fahrzeugen unter 5 Jahren und unter 100.000 km in Frage; das ist keine absolute Grenze, im Einzelfall entscheidet ein Sachverständiger.</li><li>Kleinkosten wie Telefon und Porto werden pauschal erstattet. Überwiegend sind es 25 Euro (Spanne 20 bis 30 Euro).</li><li>Den Gutachter dürfen Sie frei wählen. Bei fiktiver Reparaturabrechnung kann der Versicherer aber auf eine gleichwertige, günstigere, zumutbare freie Fachwerkstatt verweisen (BGH VI ZR 53/09).</li></ul><p>Die Versicherung darf Sie nicht drängen, schnell etwas zu unterschreiben.</p>",
+      "schritte": [
+        {
+          "titel": "Anmelden",
+          "text": "Schaden mit Kennzeichen, Hergang und Unfallbericht bei der gegnerischen Versicherung melden."
+        },
+        {
+          "titel": "Schaden ermitteln",
+          "text": "Gutachten oder Kostenvoranschlag einholen (siehe Seite Gutachten)."
+        },
+        {
+          "titel": "Belege sammeln",
+          "text": "Rechnungen, Abschleppbeleg, Quittungen zu Nebenkosten aufbewahren."
+        },
+        {
+          "titel": "Abrechnung prüfen",
+          "text": "Kürzungen der Versicherung nachfragen; bei Streit Anwalt einschalten."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "10 Jahre (Höchstgrenze)",
+          "was": "Verjährung von Ansprüchen gegen den Versicherer beginnt wie beim Schädiger; sie ist gehemmt, bis die Entscheidung des Versicherers in Textform zugeht",
+          "grundlage": "§ 115 Abs. 2 VVG"
+        },
+        {
+          "wert": "3 Jahre",
+          "was": "Regelmäßige Verjährung",
+          "grundlage": "§ 195, § 199 Abs. 1 BGB"
+        }
+      ],
+      "achtung": [
+        "Bei Mithaftung werden Schaden und Anwaltskosten nur nach der Quote erstattet.",
+        "Zahlungen der Versicherung nicht als endgültige Abfindung unterschreiben, wenn noch Folgeschäden möglich sind.",
+        "Die Kostenpauschale (überwiegend 25 Euro, Spanne 20 bis 30 Euro) ist Rechtsprechung, keine gesetzliche Zahl.",
+        "Prüfen Sie Kürzungen bei Verrechnungssätzen oder Gutachtenpositionen; nicht jede Kürzung ist berechtigt."
+      ],
+      "fach_html": "<h3>Direktanspruch, § 115 VVG</h3><p>Der Dritte kann seinen Anspruch auf Schadensersatz auch gegen den Versicherer geltend machen, in den drei Fällen des § 115 Abs. 1 Satz 1 VVG: bei Pflichtversicherung, bei Insolvenz des Versicherungsnehmers und bei unbekanntem Aufenthalt des Versicherungsnehmers. Versicherer und ersatzpflichtiger Versicherungsnehmer haften als Gesamtschuldner. Der Anspruch verjährt wie der Anspruch gegen den Versicherungsnehmer; Beginn ist derselbe Zeitpunkt, jedoch höchstens zehn Jahre ab Schadenseintritt. Die Verjährung ist gehemmt, bis die Entscheidung des Versicherers dem Anspruchsteller in Textform zugeht.</p><h3>Naturalherstellung und Geldersatz, § 249 BGB</h3><p>Bei Verletzung einer Person oder Beschädigung einer Sache kann der Gläubiger statt der Herstellung den dafür erforderlichen Geldbetrag verlangen. Die Umsatzsteuer gehört dazu nur, soweit sie tatsächlich angefallen ist.</p><h3>Wertminderung</h3><p>Die ADAC-Faustregel (Fahrzeug unter 5 Jahren und unter 100.000 km) ist keine absolute Grenze; im Einzelfall entscheidet ein Sachverständiger.</p><h3>Positionen nach ADAC</h3><p>Reparaturrechnung (bei Privatpersonen einschließlich Umsatzsteuer), Gutachterkosten, Mietwagen, Abschleppkosten; Wertminderung; Kleidung, Brille, Gepäck; bei Totalschaden Ummelde- und Zulassungskosten sowie Entsorgung. ADAC: Geschädigte müssen nicht den günstigsten Gutachter suchen; entscheidend ist die Sicht eines verständigen Geschädigten.</p>",
+      "zustaendig": [
+        "Gegnerische Kfz-Haftpflichtversicherung",
+        "Kfz-Sachverständiger",
+        "Rechtsanwalt für Verkehrsrecht"
+      ],
+      "belege": [
+        "Bundesministerium der Justiz, Gesetze im Internet: VVG § 115; BGB §§ 195, 199, 249, abgerufen 20.09.2026",
+        "ADAC, Verkehrsunfall: Diese Kosten muss die gegnerische Versicherung zahlen, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "fiktive-abrechnung-gutachten",
+        "mietwagen-nutzungsausfall",
+        "rechtsschutz-anwaltskosten"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "fiktive-abrechnung-gutachten",
+      "kategorie": "sachschaden",
+      "titel": "Fiktive Abrechnung und Gutachten",
+      "icon": "🧾",
+      "teaser": "Geld statt Reparatur: Wann Sie fiktiv abrechnen können, was ein Gutachten leistet und warum die Umsatzsteuer entfällt.",
+      "schlagworte": [
+        "fiktive Abrechnung",
+        "Gutachten",
+        "Kostenvoranschlag",
+        "Umsatzsteuer",
+        "130-Prozent-Regel",
+        "Wiederbeschaffungswert",
+        "Bagatellschaden",
+        "Totalschaden"
+      ],
+      "kurz_html": "<p>Sie müssen Ihr Auto nach einem Unfall nicht reparieren lassen. Sie können sich den Schaden auch auszahlen lassen. Das heißt fiktive Abrechnung.</p><ul><li>Grundlage ist meist ein Gutachten eines Kfz-Sachverständigen oder ein Kostenvoranschlag.</li><li>Die Umsatzsteuer bekommen Sie nur, wenn sie wirklich angefallen ist. Bei fiktiver Abrechnung entfällt sie.</li><li>Bei kleinen Schäden (Rechtsprechung: etwa 700 bis 750 Euro, steigend) sind Gutachterkosten nicht erstattungsfähig; ein Kostenvoranschlag genügt.</li><li>Reparaturkosten bis 130 Prozent des Wiederbeschaffungswerts sind nur ersatzfähig, wenn Sie vollständig und fachgerecht nach dem Gutachten reparieren lassen und das Auto mindestens 6 Monate weiternutzen. Ohne Reparatur bekommen Sie höchstens den Wiederbeschaffungswert minus Restwert.</li><li>Bei Totalschaden zählt der Wiederbeschaffungsaufwand: Wiederbeschaffungswert minus Restwert.</li></ul>",
+      "schritte": [
+        {
+          "titel": "Schadenshöhe klären",
+          "text": "Bei nicht ganz kleinem Schaden Kfz-Sachverständigen beauftragen."
+        },
+        {
+          "titel": "Entscheiden",
+          "text": "Reparieren lassen oder fiktiv abrechnen."
+        },
+        {
+          "titel": "Gutachten weitergeben",
+          "text": "Gutachten der gegnerischen Versicherung übermitteln."
+        },
+        {
+          "titel": "Beträge prüfen",
+          "text": "Prüfen, ob Positionen (Nutzungsausfall, Wertminderung) berücksichtigt wurden."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "130 Prozent",
+          "was": "Grenze der Reparaturkosten gegenüber dem Wiederbeschaffungswert; ersatzfähig nur bei vollständiger fachgerechter Reparatur nach Gutachten und mindestens 6 Monaten Weiternutzung; fiktive Abrechnung auf 130-Prozent-Basis ist ausgeschlossen",
+          "grundlage": "gefestigte BGH-Rechtsprechung zu § 249 BGB (u. a. VI ZR 89/07)"
+        },
+        {
+          "wert": "ca. 700 bis 750 Euro",
+          "was": "Bagatellgrenze (steigend): darunter sind Gutachterkosten nicht erstattungsfähig, ein Kostenvoranschlag genügt",
+          "grundlage": "Rechtsprechung, uneinheitlich"
+        }
+      ],
+      "achtung": [
+        "Bei fiktiver Abrechnung gibt es keine Umsatzsteuer; tatsächlich angefallene Umsatzsteuer wird ersetzt.",
+        "Die Bagatellgrenze ist keine gesetzliche Zahl und wird von der Rechtsprechung angehoben; im Einzelfall prüfen lassen.",
+        "Der Gutachter ist frei wählbar. Bei fiktiver Reparaturabrechnung kann der Versicherer aber auf eine gleichwertige, günstigere, zumutbare freie Fachwerkstatt verweisen (BGH VI ZR 53/09).",
+        "Nutzungsausfall und Wertminderung nicht vergessen."
+      ],
+      "fach_html": "<h3>Rechtsgrundlage, § 249 Abs. 2 BGB</h3><p>Bei Beschädigung einer Sache kann der Gläubiger statt der Herstellung den dazu erforderlichen Geldbetrag verlangen. Nach Satz 2 gehört Umsatzsteuer nur dazu, wenn und soweit sie tatsächlich angefallen ist. Damit ist bei fiktiver Abrechnung der Betrag netto.</p><h3>130-Prozent-Grenze</h3><p>Nach gefestigter Rechtsprechung des BGH dürfen Reparaturkosten den Wiederbeschaffungswert um bis zu 30 Prozent übersteigen, aber nur bei vollständiger fachgerechter Reparatur nach Gutachten und mindestens 6 Monaten Weiternutzung (BGH VI ZR 89/07). Ohne Reparatur ist eine fiktive Abrechnung auf 130-Prozent-Basis ausgeschlossen; es gibt nur den Wiederbeschaffungswert minus Restwert.</p><h3>Totalschaden und Restwert</h3><p>Der Wiederbeschaffungsaufwand ist der Wiederbeschaffungswert minus Restwert. Der Geschädigte darf den Restwert zugrunde legen, den ein regionaler Sachverständiger ermittelt hat; er muss Angebote aus Restwertbörsen, die der Versicherer nennt, nicht abwarten.</p><h3>Bagatellgrenze und Gutachterkosten</h3><p>Nach der Rechtsprechung (etwa 700 bis 750 Euro, steigend) sind unterhalb dieser Grenze Gutachterkosten nicht erstattungsfähig; ein Kostenvoranschlag genügt. Darüber sind Gutachterkosten erstattungsfähig.</p><h3>Wahlfreiheit und Verweisung</h3><p>Der Geschädigte muss nicht den günstigsten Gutachter suchen (ADAC). Bei fiktiver Reparaturabrechnung kann der Versicherer ihn jedoch auf eine gleichwertige, günstigere, zumutbare freie Fachwerkstatt verweisen (BGH VI ZR 53/09).</p>",
+      "zustaendig": [
+        "Unabhängiger Kfz-Sachverständiger",
+        "Gegnerische Kfz-Haftpflichtversicherung",
+        "Werkstatt"
+      ],
+      "belege": [
+        "Bundesministerium der Justiz, Gesetze im Internet: BGB § 249, abgerufen 20.09.2026",
+        "ADAC, Verkehrsunfall: Diese Kosten muss die gegnerische Versicherung zahlen, abgerufen 20.09.2026",
+        "Bundesgerichtshof, Urteile VI ZR 89/07 (130-Prozent-Grenze) und VI ZR 53/09 (Verweisung auf freie Fachwerkstatt)"
+      ],
+      "siehe_auch": [
+        "schadensregulierung",
+        "mietwagen-nutzungsausfall"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "mietwagen-nutzungsausfall",
+      "kategorie": "sachschaden",
+      "titel": "Mietwagen und Nutzungsausfall",
+      "icon": "🚙",
+      "teaser": "Ihr Auto fällt aus: Mietwagen oder pauschale Entschädigung, und was dafür gilt.",
+      "schlagworte": [
+        "Mietwagen",
+        "Nutzungsausfall",
+        "Nutzungsausfallentschädigung",
+        "Tagessatz",
+        "Ausfallzeit",
+        "Zweitwagen",
+        "Schadenminderung",
+        "Werkstatt"
+      ],
+      "kurz_html": "<p>Wenn Ihr Auto nach dem Unfall nicht nutzbar ist, können Sie entweder einen Mietwagen nehmen oder eine Entschädigung für den Ausfall verlangen.</p><ul><li>Nutzungsausfall ist ein Tagessatz je nach Fahrzeugtyp und Alter. Er steht meist im Gutachten.</li><li>Die Nutzungsausfalltabelle (EurotaxSchwacke, Gruppen A bis L) nennt Tagessätze von etwa 23 bis 175 Euro. Das ist keine gesetzliche Zahl.</li><li>Haben Sie ein freies Zweitfahrzeug oder stellt die Werkstatt ein Auto, gibt es in der Regel keinen Nutzungsausfall.</li><li>Sie müssen den Schaden gering halten. Reparieren Sie zügig.</li></ul>",
+      "schritte": [
+        {
+          "titel": "Entscheiden",
+          "text": "Mietwagen oder Nutzungsausfall wählen."
+        },
+        {
+          "titel": "Schadenminderung beachten",
+          "text": "Reparaturzeit und Mietdauer angemessen halten; Angebote vergleichen."
+        },
+        {
+          "titel": "Versicherung informieren",
+          "text": "Mietwagen mit der gegnerischen Versicherung abstimmen, bevor hohe Kosten entstehen."
+        },
+        {
+          "titel": "Belege sichern",
+          "text": "Mietvertrag, Rechnung und Ausfalldauer belegen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "ca. 23 bis 175 Euro pro Tag",
+          "was": "Spanne der Tagessätze der Nutzungsausfalltabelle (EurotaxSchwacke, Gruppen A bis L)",
+          "grundlage": "Nutzungsausfalltabelle Sanden/Danner/Küppersbusch (EurotaxSchwacke); § 249 BGB"
+        }
+      ],
+      "achtung": [
+        "Tagessätze werden jährlich angepasst; maßgeblich ist die aktuelle Tabelle.",
+        "Ein Mietwagen und Nutzungsausfall schließen sich für denselben Zeitraum aus.",
+        "Wer einen Ersatzwagen ohne Bedarf mietet, bekommt Kosten möglicherweise gekürzt.",
+        "Die Erforderlichkeit von Mietwagenkosten kann von der Versicherung bestritten werden. Belege und Rat helfen."
+      ],
+      "fach_html": "<h3>Grundlage</h3><p>Nach ADAC kann der Geschädigte bei Ausfall des Fahrzeugs entweder Mietwagenkosten oder eine pauschale Nutzungsausfallentschädigung verlangen; die pauschale Entschädigung ist typischerweise im Sachverständigengutachten angegeben. Rechtsgrundlage ist der Schadensersatzanspruch nach § 249 BGB in Verbindung mit § 7 StVG.</p><h3>Mietwagen</h3><p>Bei klassengleicher Anmietung wird ein Abzug für ersparte Eigenaufwendungen vorgenommen (verbreitet 3 bis 10 Prozent). Nach § 249 Abs. 2 BGB ist der erforderliche Betrag zu ersetzen: Ein Unfallersatztarif ist gegenüber dem Normaltarif nur erstattungsfähig, wenn er nach Unfallbesonderheiten betriebswirtschaftlich gerechtfertigt und ein günstigerer Tarif nicht zugänglich war; sonst wird auf den Normaltarif gekürzt.</p><h3>Nutzungsausfalltabelle</h3><p>Die jährlich aktualisierte Nutzungsausfalltabelle von Sanden/Danner/Küppersbusch wird von EurotaxSchwacke herausgegeben. Sie hat zwölf Gruppen (A bis L) mit Tagessätzen von 23 bis 175 Euro. Sie ist nicht mit der Schwacke-Mietpreisliste zu verwechseln. Ab 5 Jahren Fahrzeugalter wird eine Gruppe herabgestuft, ab 10 Jahren zwei Gruppen.</p><h3>Ausschlüsse</h3><p>Nach der Ratgeberdarstellung besteht kein Anspruch, wenn Werkstatt oder Dritte einen Mietwagen kostenlos stellen oder ein frei verfügbares Zweitfahrzeug vorhanden ist. Die Dauer der zu ersetzenden Ausfallzeit hängt von Reparatur- oder Wiederbeschaffungsdauer ab und ist nicht in einer Frist im Gesetz geregelt.</p>",
+      "zustaendig": [
+        "Gegnerische Kfz-Haftpflichtversicherung",
+        "Kfz-Sachverständiger (Angabe im Gutachten)",
+        "Rechtsanwalt für Verkehrsrecht"
+      ],
+      "belege": [
+        "ADAC, Verkehrsunfall: Diese Kosten muss die gegnerische Versicherung zahlen, abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, Gesetze im Internet: BGB § 249; StVG § 7, abgerufen 20.09.2026",
+        "EurotaxSchwacke, Nutzungsausfalltabelle (Sanden/Danner/Küppersbusch), zwölf Gruppen A bis L, Tagessätze 23 bis 175 Euro"
+      ],
+      "siehe_auch": [
+        "schadensregulierung",
+        "fiktive-abrechnung-gutachten"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "kasko-rabattverlust",
+      "kategorie": "sachschaden",
+      "titel": "Kaskoversicherung und Rabattverlust",
+      "icon": "🛡️",
+      "teaser": "Wann Sie die eigene Kasko nutzen können, was Rückstufung bedeutet und wie der Rabattschutz wirkt.",
+      "schlagworte": [
+        "Kasko",
+        "Vollkasko",
+        "Teilkasko",
+        "Rückstufung",
+        "Schadenfreiheitsklasse",
+        "Rabattschutz",
+        "Selbstbeteiligung",
+        "Unfallverursacher"
+      ],
+      "kurz_html": "<p>Ihre eigene Vollkasko kann Ihren Schaden zahlen, auch wenn der Gegner schuld ist. Das kann sinnvoll sein, wenn dessen Versicherung zögert.</p><ul><li>Wer einen Schaden der Versicherung meldet und bezahlen lässt, wird im nächsten Jahr meist zurückgestuft. Ihre Beiträge steigen dann.</li><li>Bei einem Teilkaskoschaden gibt es meist keine Rückstufung.</li><li>Ein Rabattschutz kann die Rückstufung des ersten Haftpflicht- oder Vollkaskoschadens im Kalenderjahr verhindern.</li></ul><p>Fragen Sie Ihre Versicherung, wie sich ein Schaden auf Ihren Beitrag auswirkt, bevor Sie melden.</p>",
+      "schritte": [
+        {
+          "titel": "Vertrag prüfen",
+          "text": "Welche Kasko haben Sie, welche Selbstbeteiligung, welcher Rabattschutz?"
+        },
+        {
+          "titel": "Vergleichen",
+          "text": "Kasko nutzen oder Gegner-Versicherung: Folgen für Beitrag und Selbstbeteiligung abwägen."
+        },
+        {
+          "titel": "Rechtzeitig melden",
+          "text": "Schaden gemäß Vertrag unverzüglich melden."
+        },
+        {
+          "titel": "Rückstufung nachfragen",
+          "text": "Die Versicherung fragen, wie sich Ihr Schaden auf die SF-Klasse auswirkt."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "1 Kalenderjahr",
+          "was": "Rabattschutz: keine Rückstufung des ersten Haftpflicht- oder Vollkaskoschadens in einem Kalenderjahr (nach ADAC-Darstellung)",
+          "grundlage": "Vertragsbedingungen der Versicherer (nicht einheitlich)"
+        }
+      ],
+      "achtung": [
+        "Wenn Ihre Kasko den Schaden zahlt, kann sie sich beim Schädiger und dessen Versicherung wiederholen; Ihre Selbstbeteiligung wird dann ggf. erstattet.",
+        "Bedingungen zu Rabattschutz, Rückstufung und Meldefristen unterscheiden sich je Vertrag.",
+        "Die Aussagen hier beruhen auf ADAC-Ratgeberseiten, nicht auf Vertragsbedingungen.",
+        "Eine Rückstufung tritt nicht ein, wenn der Gegner den Schaden voll trägt und die Kasko nicht belastet wird."
+      ],
+      "fach_html": "<h3>Schadenfreiheitsklasse</h3><p>Nach ADAC gilt: Je höher die Schadenfreiheitsklasse, desto günstiger der Beitrag; jedes schadenfreie Jahr wird mit besserer Einstufung honoriert. Wer einen Schaden meldet und von der Versicherung bezahlen lässt, wird im kommenden Versicherungsjahr zurückgestuft. Bei Teilkaskoschäden erfolgt überwiegend keine Rückstufung, da es dort meist keine Schadenfreiheitsklassen gibt.</p><h3>Rabattschutz</h3><p>Nach ADAC: Keine Rückstufung des ersten Haftpflicht- oder Vollkaskoschadens in einem Kalenderjahr; die SF-Klasse bleibt unverändert.</p><h3>Unfall mit fremdem Verschulden</h3><p>Hier kann Ihre Versicherung den Schaden zunächst ersetzen; der Anspruch geht nach § 86 Abs. 1 Satz 1 VVG auf die Kaskoversicherung über (Forderungsübergang); der Regress gegen den Schädiger ist Sache des Versicherers. Nach § 86 Abs. 1 Satz 2 VVG darf der Übergang nicht zum Nachteil des Versicherungsnehmers geltend gemacht werden (Quotenvorrecht): Bei Mithaftung werden Ihre nicht gedeckten Schäden, etwa die Selbstbeteiligung, zuerst befriedigt.</p>",
+      "zustaendig": [
+        "Eigene Kfz-Versicherung (Schadenabteilung)",
+        "Gegnerische Kfz-Haftpflichtversicherung",
+        "Rechtsanwalt für Verkehrsrecht"
+      ],
+      "belege": [
+        "ADAC, Schadenfreiheitsklasse: Tabelle der SF-Klassen und Berechnung, abgerufen 20.09.2026",
+        "ADAC, Rabattschutz in der ADAC Kfz-Versicherung, abgerufen 20.09.2026",
+        "ADAC, Teilkasko / Kaskoversicherung (Suchtreffer), abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, Gesetze im Internet: VVG § 86, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "schadensregulierung",
+        "rechtsschutz-anwaltskosten"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "personenschaden-schmerzensgeld",
+      "kategorie": "personenschaden",
+      "titel": "Personenschaden und Schmerzensgeld",
+      "icon": "🩹",
+      "teaser": "Wenn Sie verletzt wurden: Anspruch auf Schmerzensgeld und Ersatz der Heilungskosten, und wie die Höhe bestimmt wird.",
+      "schlagworte": [
+        "Schmerzensgeld",
+        "Personenschaden",
+        "Heilbehandlung",
+        "Verletzung",
+        "Schmerzensgeldtabelle",
+        "§ 253 BGB",
+        "Dauerschaden",
+        "Abfindung"
+      ],
+      "kurz_html": "<p>Wenn Sie bei einem Unfall verletzt wurden, können Sie Schmerzensgeld verlangen. Das steht in § 253 Abs. 2 BGB. Dazu kommen Heilbehandlungskosten und weitere Schäden.</p><ul><li>Das Gesetz nennt keine festen Beträge. Die Höhe hängt von der Schwere der Verletzung, den Leiden und der Dauer ab.</li><li>Gerichte nutzen Schmerzensgeldtabellen nur zur Orientierung.</li><li>Bei Tötung eines Angehörigen können Hinterbliebene Beerdigungskosten, Unterhalt und Hinterbliebenengeld verlangen (§ 844 BGB).</li><li>Halten Sie Beschwerden, Arztbesuche und Heilverlauf schriftlich fest.</li><li>Unterschreiben Sie keine Abfindung, solange Spätfolgen möglich sind.</li></ul>",
+      "schritte": [
+        {
+          "titel": "Arzt aufsuchen",
+          "text": "Verletzungen früh untersuchen und dokumentieren lassen."
+        },
+        {
+          "titel": "Unterlagen sammeln",
+          "text": "Arztberichte, Atteste, Rechnungen, Beschwerdetagebuch."
+        },
+        {
+          "titel": "Ansprüche anmelden",
+          "text": "Schmerzensgeld und Kosten bei der gegnerischen Kfz-Haftpflicht anmelden."
+        },
+        {
+          "titel": "Abfindung prüfen",
+          "text": "Vor einer Abfindung Rat einholen, besonders bei Dauerfolgen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "3 Jahre",
+          "was": "Regelmäßige Verjährung ab Ende des Jahres der Entstehung und Kenntnis",
+          "grundlage": "§ 195, § 199 Abs. 1 BGB"
+        },
+        {
+          "wert": "30 Jahre",
+          "was": "Höchstfrist für Schadensersatzansprüche wegen Verletzung von Leben, Körper, Gesundheit oder Freiheit, unabhängig von der Kenntnis",
+          "grundlage": "§ 199 Abs. 2 BGB"
+        },
+        {
+          "wert": "5 Mio. Euro",
+          "was": "Haftungshöchstbetrag bei Tötung oder Verletzung; nur Gefährdungshaftung nach StVG (bei Verschulden nach § 823 BGB unbegrenzt); auch für den Kapitalwert einer Rente; +600.000 Euro je weiterer Person über acht bei entgeltlicher geschäftsmäßiger Personenbeförderung",
+          "grundlage": "§ 12 Abs. 1 StVG"
+        }
+      ],
+      "achtung": [
+        "Kein Anspruch auf einen festen Betrag: Tabellen sind Orientierung, keine Rechtsnorm.",
+        "Auch Mitverschulden kann das Schmerzensgeld mindern.",
+        "Krankenkasse, Berufsgenossenschaft und Rentenversicherung können Ansprüche auf sich überleiten lassen; das betrifft Ihre Verhandlungen mit dem Versicherer.",
+        "Bei Wegeunfall oder Dienstfahrt sind weitere Leistungen der Unfallversicherung möglich; dies wurde hier nicht vertieft."
+      ],
+      "fach_html": "<h3>Anspruch, § 253 BGB</h3><p>Nach § 253 Abs. 1 BGB kann Entschädigung in Geld für Nichtvermögensschaden nur in den gesetzlich bestimmten Fällen verlangt werden. Ist wegen einer Verletzung des Körpers, der Gesundheit, der Freiheit oder der sexuellen Selbstbestimmung Schadensersatz zu leisten, kann nach Abs. 2 auch wegen des Nichtvermögensschadens eine billige Entschädigung in Geld gefordert werden.</p><h3>Bemessung</h3><p>Nach der Rechtsprechung bestimmen vor allem Schwere der Verletzungen, das durch sie bedingte Leiden, dessen Dauer, das Ausmaß der Wahrnehmung der Beeinträchtigung und der Grad des Verschuldens die Höhe; es ist eine Gesamtbetrachtung aller Umstände vorzunehmen. Der BGH lehnt eine taggenaue Berechnung ab (VI ZR 937/20, 15.02.2022). Das Schmerzensgeld ist grundsätzlich einheitlich zu bemessen und kann unbeziffert beantragt werden; vorhersehbare Spätfolgen sind mit abgegolten (VI ZR 259/15, 10.07.2018). Das ist wichtig für Abfindungserklärungen. Schmerzensgeldtabellen (etwa die frühere ADAC-Tabelle, heute SchmerzensgeldBeträge) sind reine Orientierung.</p><h3>Tötungsfall, § 844 BGB, § 10 StVG</h3><p>Bei Tod des Verletzten sind die Beerdigungskosten zu ersetzen (§ 844 Abs. 1 BGB). Unterhaltsberechtigte Hinterbliebene haben einen Anspruch auf Ersatz des Unterhaltsschadens (§ 844 Abs. 2 BGB). Nahestehende Personen können seit 22.07.2017 Hinterbliebenengeld verlangen (§ 844 Abs. 3 BGB). Für die Gefährdungshaftung gilt § 10 StVG entsprechend.</p><h3>Haftungshöchstbeträge, § 12 StVG</h3><p>Die Höchstbeträge des § 12 StVG (Abs. 1: 5 Millionen Euro bei Tötung oder Verletzung, auch für den Kapitalwert einer Rente) gelten nur für die Gefährdungshaftung nach dem StVG. Bei Verschulden (§ 823 BGB) ist die Haftung unbegrenzt. Bei entgeltlicher geschäftsmäßiger Personenbeförderung erhöht sich der Betrag um 600.000 Euro je weiterer Person über acht.</p><h3>Weitere Positionen</h3><p>Heilbehandlungskosten, vermehrte Bedürfnisse, Verdienstausfall und Haushaltsführungsschaden siehe eigene Seite. Bei Beeinträchtigung der Erwerbsfähigkeit oder Mehrbedarf sieht § 843 BGB grundsätzlich eine Geldrente vor; auf Verlangen kann bei wichtigem Grund eine Kapitalabfindung verlangt werden.</p>",
+      "zustaendig": [
+        "Gegnerische Kfz-Haftpflichtversicherung",
+        "Behandelnde Ärztinnen und Ärzte (Dokumentation)",
+        "Rechtsanwalt für Verkehrsrecht"
+      ],
+      "belege": [
+        "Bundesministerium der Justiz, Gesetze im Internet: BGB §§ 195, 199, 253, 843, 844; StVG §§ 10, 12, abgerufen 20.09.2026",
+        "ADAC, Schmerzensgeld nach Verkehrsunfall: Tabellen und Tipps der ADAC Juristen, abgerufen 20.09.2026",
+        "Bundesgerichtshof, Entscheidungen VI ZR 259/15 (10.07.2018) und VI ZR 937/20 (15.02.2022), nur als Suchtreffer ausgewertet, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "verdienstausfall-haushalt",
+        "verjaehrung",
+        "radfahrer-fussgaenger"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "verdienstausfall-haushalt",
+      "kategorie": "personenschaden",
+      "titel": "Verdienstausfall und Haushaltsführungsschaden",
+      "icon": "💶",
+      "teaser": "Wenn Sie wegen des Unfalls nicht arbeiten oder den Haushalt nicht führen können: Was Sie ersetzt verlangen können.",
+      "schlagworte": [
+        "Verdienstausfall",
+        "Haushaltsführungsschaden",
+        "Erwerbsschaden",
+        "Krankengeld",
+        "Forderungsübergang",
+        "Rente",
+        "§ 843 BGB",
+        "§ 116 SGB X"
+      ],
+      "kurz_html": "<p>Wenn Sie wegen des Unfalls weniger oder nichts verdienen, kann der Verursacher für den Verdienstausfall aufkommen. Dasselbe gilt für Arbeit im Haushalt, die Sie nicht mehr schaffen.</p><ul><li>Erhalten Sie Krankengeld oder Lohnfortzahlung, geht der Anspruch insoweit oft auf Arbeitgeber oder Krankenkasse über.</li><li>Der Haushaltsführungsschaden ist ein eigener Schaden. Er kann auch bestehen, wenn Sie kein Geld verdienen.</li><li>Führen Sie eine Übersicht: Krankheitstage, Ausfälle, Hilfe im Haushalt.</li></ul>",
+      "schritte": [
+        {
+          "titel": "Krankschreibung",
+          "text": "Arbeitsunfähigkeit ärztlich bescheinigen lassen."
+        },
+        {
+          "titel": "Einkommen belegen",
+          "text": "Lohnabrechnungen, Steuerbescheide, Auftragslage sichern."
+        },
+        {
+          "titel": "Haushalt dokumentieren",
+          "text": "Aufstellen, welche Haushaltstätigkeiten Sie nicht mehr ausführen können."
+        },
+        {
+          "titel": "Anmelden",
+          "text": "Anspruch bei der gegnerischen Versicherung anmelden, ggf. mit Anwalt."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "3 Jahre",
+          "was": "Regelmäßige Verjährung von Schadensersatzansprüchen",
+          "grundlage": "§ 195, § 199 Abs. 1 BGB"
+        },
+        {
+          "wert": "30 Jahre",
+          "was": "Höchstfrist bei Verletzung von Leben, Körper, Gesundheit oder Freiheit",
+          "grundlage": "§ 199 Abs. 2 BGB"
+        }
+      ],
+      "achtung": [
+        "Beträge für den Haushaltsführungsschaden wurden hier nicht aus Quellen belegt; Berechnung und Stundensätze sind Einzelfallfragen.",
+        "Ansprüche können übergehen: auf Sozialversicherungsträger nach § 116 SGB X, auf den Arbeitgeber bei Entgeltfortzahlung nach § 6 EFZG, auf die Kaskoversicherung nach § 86 Abs. 1 VVG. Das Quotenvorrecht (§ 86 Abs. 1 Satz 2 VVG) schützt Sie bei Kasko-Leistungen.",
+        "Rentenzahlung oder Kapitalabfindung: Kapitalabfindung nur bei wichtigem Grund (§ 843 Abs. 3 BGB).",
+        "Selbstständige müssen ihren entgangenen Gewinn belegen können."
+      ],
+      "fach_html": "<h3>Erwerbsschaden und vermehrte Bedürfnisse, § 843 BGB</h3><p>Wird infolge einer Verletzung des Körpers oder der Gesundheit die Erwerbsfähigkeit aufgehoben oder gemindert oder tritt eine Vermehrung der Bedürfnisse ein, ist dem Verletzten durch Entrichtung einer Geldrente Schadensersatz zu leisten. Statt der Rente kann der Verletzte bei wichtigem Grund eine Abfindung in Kapital verlangen. Der Anspruch wird nicht dadurch ausgeschlossen, dass ein anderer dem Verletzten Unterhalt zu gewähren hat.</p><h3>Haushaltsführungsschaden</h3><p>Nach rechtlichen Darstellungen (u. a. Rechtsanwaltsseiten und verkehrslexikon.de) ergibt sich der Haushaltsführungsschaden aus §§ 842, 843 BGB. Er besteht aus einem erwerbsschadenähnlichen Teil (Fremdversorgung) und einem Teil vermehrter Bedürfnisse (Eigenversorgung); für Letzteren findet nach der Darstellung kein Forderungsübergang nach § 116 SGB X statt. Diese Einordnung ist Sekundärquellen entnommen und im Einzelfall zu prüfen.</p><h3>Forderungsübergang</h3><p>Zahlt der Arbeitgeber Entgelt weiter, geht der Anspruch nach § 6 EFZG auf ihn über. Leistet ein Sozialversicherungsträger (etwa Krankenkasse), geht der Anspruch nach § 116 SGB X über. Leistet die Kaskoversicherung, gilt § 86 Abs. 1 Satz 1 VVG; nach Satz 2 darf der Übergang nicht zum Nachteil des Versicherten geltend gemacht werden (Quotenvorrecht).</p><h3>Anrechnung</h3><p>Leistungen wie Verletztenrente der Unfallversicherung können den Anspruch mindern, soweit sie sachlich dem Schaden entsprechen (Kongruenz). Details hängen vom Einzelfall ab.</p>",
+      "zustaendig": [
+        "Gegnerische Kfz-Haftpflichtversicherung",
+        "Rechtsanwalt für Verkehrsrecht",
+        "Krankenkasse und Arbeitgeber (Entgeltersatz)"
+      ],
+      "belege": [
+        "Bundesministerium der Justiz, Gesetze im Internet: BGB §§ 195, 199, 843, abgerufen 20.09.2026",
+        "verkehrslexikon.de, Beiträge zur Kongruenz und Anrechnung beim Haushaltsführungsschaden (Suchtreffer), abgerufen 20.09.2026",
+        "ADAC, Verkehrsunfall: Diese Kosten muss die gegnerische Versicherung zahlen, abgerufen 20.09.2026",
+        "Bundesministerium der Justiz, Gesetze im Internet: SGB X § 116; EFZG § 6; VVG § 86, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "personenschaden-schmerzensgeld",
+        "verjaehrung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "rechtsschutz-anwaltskosten",
+      "kategorie": "kosten",
+      "titel": "Rechtsschutz und Anwaltskosten",
+      "icon": "🧑‍⚖️",
+      "teaser": "Wer den Anwalt nach einem Unfall bezahlt und wann eine Verkehrsrechtsschutzversicherung hilft.",
+      "schlagworte": [
+        "Anwaltskosten",
+        "Rechtsschutz",
+        "Verkehrsrechtsschutz",
+        "Haftungsquote",
+        "Gerichtskosten",
+        "Kostenübernahme",
+        "Anwalt",
+        "Deckungszusage"
+      ],
+      "kurz_html": "<p>Sie dürfen nach einem Unfall einen Rechtsanwalt beauftragen. Ist der Gegner allein schuld, zahlt dessen Kfz-Haftpflichtversicherung Ihre Anwaltskosten.</p><ul><li>Bei Mitschuld zahlt sie die Anwaltskosten nur nach der Haftungsquote.</li><li>Eine Verkehrsrechtsschutzversicherung übernimmt je nach Vertrag Anwalts- und Gerichtskosten, etwa nach einem Unfall oder im Bußgeldverfahren.</li><li>Informieren Sie den Rechtsschutzversicherer, bevor Sie hohe Kosten auslösen, und holen Sie eine Deckungszusage ein.</li></ul>",
+      "schritte": [
+        {
+          "titel": "Vertrag prüfen",
+          "text": "Haben Sie Verkehrsrechtsschutz? Welche Leistungen und Selbstbeteiligung?"
+        },
+        {
+          "titel": "Deckungsanfrage",
+          "text": "Anfrage an den Rechtsschutzversicherer stellen und Zusage abwarten."
+        },
+        {
+          "titel": "Anwalt beauftragen",
+          "text": "Anwalt für Verkehrsrecht wählen."
+        },
+        {
+          "titel": "Kosten klären",
+          "text": "Vorab klären, wer welche Kosten trägt und wie nach Quote abgerechnet wird."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "nach Quote",
+          "was": "Anwaltskosten werden von der gegnerischen Versicherung entsprechend der Haftungsquote getragen",
+          "grundlage": "ADAC-Darstellung; Schadensersatz nach § 249 BGB"
+        }
+      ],
+      "achtung": [
+        "Bei Mithaftung müssen Sie einen Teil der Anwaltskosten selbst tragen, wenn keine Rechtsschutzversicherung besteht.",
+        "Leistungsumfang, Wartezeiten und Selbstbeteiligung der Rechtsschutz stehen im Vertrag; hier nicht belegt.",
+        "Für Menschen mit geringem Einkommen können Beratungshilfe und Prozesskostenhilfe in Betracht kommen; Voraussetzungen hier nicht vertieft.",
+        "Ohne eigenes Verschulden sollten Sie nicht erst warten, bis die Versicherung die Sache „klärt“."
+      ],
+      "fach_html": "<h3>Anwaltskosten als Schaden</h3><p>Nach ADAC kann jeder Geschädigte einen Rechtsanwalt zur Geltendmachung seines Schadens hinzuziehen; dieser wird von der gegnerischen Kfz-Versicherung entsprechend der Haftungsquote bezahlt. Verlangen Sie zunächst vollen Schadensersatz, erhalten aber bei der Regulierung eine Teilschuld, werden Schaden und Anwaltskosten nur anteilig erstattet.</p><h3>Verkehrsrechtsschutz</h3><p>Nach ADAC- und GDV-Informationen (dieversicherer.de) übernimmt der Verkehrsrechtsschutz je nach gewähltem Schutz Anwalts- und Gerichtskosten bei Streitigkeiten nach einem Verkehrsunfall, beim Gebrauchtwagenkauf, mit der Werkstatt oder im Bußgeldverfahren. Der Leistungsumfang hängt vom Vertrag ab.</p><h3>Lücke</h3><p>Höhe der Anwaltsgebühren (RVG), Regelungen zur Erstberatung und zu Beratungs- und Prozesskostenhilfe wurden hier nicht aus Primärquellen geprüft.</p>",
+      "zustaendig": [
+        "Rechtsanwälte für Verkehrsrecht (Suche über anwaltauskunft.de oder verkehrsanwaelte.de)",
+        "Eigener Rechtsschutzversicherer",
+        "Gegnerische Kfz-Haftpflichtversicherung"
+      ],
+      "belege": [
+        "ADAC, Was kostet ein Anwalt und wer zahlt bei Unfall, Bußgeld oder Ärger mit der Werkstatt, abgerufen 20.09.2026",
+        "ADAC, Verkehrsrechtsschutzversicherung, abgerufen 20.09.2026",
+        "GDV, dieversicherer.de, Was leistet eine Verkehrsrechtsschutzversicherung, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "schadensregulierung",
+        "beratung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "verjaehrung",
+      "kategorie": "kosten",
+      "titel": "Verjährung von Unfallansprüchen",
+      "icon": "⏳",
+      "teaser": "Wann Ihre Ansprüche nach dem Unfall verjähren und wie Sie das verhindern.",
+      "schlagworte": [
+        "Verjährung",
+        "3 Jahre",
+        "Hemmung",
+        "30 Jahre",
+        "Ende des Jahres",
+        "Direktanspruch",
+        "Verkehrsopferhilfe",
+        "Fristen"
+      ],
+      "kurz_html": "<p>Ihre Schadensersatzansprüche verjähren. Nach Ablauf der Frist kann der Gegner die Zahlung verweigern.</p><ul><li>Die Regelfrist beträgt 3 Jahre. Sie beginnt am Ende des Jahres, in dem der Anspruch entstanden ist und Sie vom Schaden und dem Schädiger erfahren haben.</li><li>Für Verletzungen an Körper und Gesundheit gilt zusätzlich eine Höchstfrist von 30 Jahren.</li><li>Solange Ihr Anspruch bei der Kfz-Haftpflichtversicherung angemeldet ist, ist die Verjährung gehemmt, bis die Versicherung ihre Entscheidung in Textform mitteilt.</li></ul><p>Melden Sie Ansprüche früh an und heben Sie Schreiben auf.</p>",
+      "schritte": [
+        {
+          "titel": "Datum notieren",
+          "text": "Unfalldatum und Kenntnis von Schaden und Schädiger festhalten; das Jahresende ist der Fristbeginn."
+        },
+        {
+          "titel": "Frühzeitig anmelden",
+          "text": "Ansprüche schriftlich bei der Versicherung anmelden."
+        },
+        {
+          "titel": "Antwort abwarten",
+          "text": "Schriftliche Entscheidung der Versicherung aufbewahren."
+        },
+        {
+          "titel": "Rechtzeitig handeln",
+          "text": "Bei Streit rechtzeitig Rat einholen, damit die Frist nicht abläuft."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "3 Jahre",
+          "was": "Regelmäßige Verjährungsfrist, Beginn am Ende des Jahres der Entstehung und Kenntnis",
+          "grundlage": "§ 195, § 199 Abs. 1 BGB"
+        },
+        {
+          "wert": "30 Jahre",
+          "was": "Höchstfrist bei Verletzung von Leben, Körper, Gesundheit oder Freiheit",
+          "grundlage": "§ 199 Abs. 2 BGB"
+        },
+        {
+          "wert": "10 Jahre",
+          "was": "Höchstfrist ab Schadenseintritt beim Direktanspruch gegen die Kfz-Haftpflicht (Hemmung bis Entscheidung des Versicherers in Textform)",
+          "grundlage": "§ 115 Abs. 2 VVG"
+        },
+        {
+          "wert": "3 Monate",
+          "was": "Bei Hemmung durch Verhandlungen tritt die Verjährung frühestens 3 Monate nach dem Ende der Hemmung ein; Klage und Mahnbescheid hemmen ebenfalls",
+          "grundlage": "§ 203, § 204 Abs. 1 BGB"
+        }
+      ],
+      "achtung": [
+        "Die 30-Jahres-Frist ersetzt nicht die 3-Jahres-Frist: Nach Kenntnis läuft die kürzere Frist.",
+        "Für die Verkehrsopferhilfe gilt eine Sonderregel (§ 12 Abs. 3 PflVG): Kenntnis der Umstände, Hemmung bis zur schriftlichen Entscheidung.",
+        "Für Ordnungswidrigkeiten gelten eigene Verfolgungsfristen (siehe Strafverfahren/OWi).",
+        "Verhandlungen hemmen die Verjährung (§ 203 BGB); sie tritt frühestens 3 Monate nach dem Ende der Hemmung ein. Klage und Mahnbescheid hemmen ebenfalls (§ 204 Abs. 1 BGB)."
+      ],
+      "fach_html": "<h3>§ 199 BGB</h3><p>Die regelmäßige Verjährung beginnt mit dem Ende des Jahres, in dem der Anspruch entstanden ist und der Gläubiger von den anspruchsbegründenden Umständen und der Person des Schuldners Kenntnis erlangt oder ohne grobe Fahrlässigkeit erlangen müsste. Schadensersatzansprüche wegen der Verletzung von Leben, Körper, Gesundheit oder Freiheit verjähren ohne Rücksicht auf die Kenntnis in 30 Jahren ab Begehung der Handlung. Sonstige Schadensersatzansprüche verjähren ohne Rücksicht auf Kenntnis in zehn Jahren ab Entstehung, spätestens in 30 Jahren ab der schadensauslösenden Handlung.</p><h3>Hemmung, §§ 203, 204 BGB</h3><p>Schweben zwischen Schuldner und Gläubiger Verhandlungen, ist die Verjährung gehemmt, bis eine Seite die Fortsetzung verweigert; sie tritt frühestens drei Monate nach dem Ende der Hemmung ein (§ 203 BGB). Klageerhebung und Zustellung eines Mahnbescheids hemmen ebenfalls (§ 204 Abs. 1 BGB).</p><h3>§ 115 Abs. 2 VVG</h3><p>Der Direktanspruch gegen den Versicherer verjährt wie der Anspruch gegen den Versicherungsnehmer; die Verjährung beginnt zu demselben Zeitpunkt und endet spätestens nach zehn Jahren vom Schadenseintritt. Ist der Anspruch bei dem Versicherer angemeldet worden, ist die Verjährung bis zu dem Zeitpunkt gehemmt, zu dem die Entscheidung des Versicherers dem Anspruchsteller in Textform zugeht.</p><h3>§ 12 PflVG</h3><p>Für die Verkehrsopferhilfe gilt als Sonderregel § 12 Abs. 3 PflVG (Kenntnis der Umstände; Hemmung bis zum Zugang der schriftlichen Entscheidung oder des Einigungsvorschlags nach § 26 PflVG); siehe die eigene Seite.</p>",
+      "zustaendig": [
+        "Gegnerische Kfz-Haftpflichtversicherung (Anmeldung)",
+        "Rechtsanwalt für Verkehrsrecht",
+        "Gericht (Klage)"
+      ],
+      "belege": [
+        "Bundesministerium der Justiz, Gesetze im Internet: BGB §§ 195, 199, 203, 204; VVG § 115; PflVG § 12, abgerufen 20.09.2026",
+        "Verkehrsopferhilfe e.V., verkehrsopferhilfe.de, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "schadensregulierung",
+        "unfallflucht-verkehrsopferhilfe",
+        "strafverfahren-owi"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "strafverfahren-owi",
+      "kategorie": "kosten",
+      "titel": "Strafverfahren und Ordnungswidrigkeiten",
+      "icon": "📄",
+      "teaser": "Nach dem Unfall kann ein Straf- oder Bußgeldverfahren laufen: Was das für Sie als Geschädigten oder Zeugen bedeutet.",
+      "schlagworte": [
+        "Strafverfahren",
+        "Ordnungswidrigkeit",
+        "fahrlässige Körperverletzung",
+        "Zeuge",
+        "Anzeige",
+        "Akteneinsicht",
+        "Verfolgungsverjährung",
+        "Strafantrag"
+      ],
+      "kurz_html": "<p>Die Polizei nimmt einen Unfall oft auf und gibt den Fall an die Staatsanwaltschaft oder die Bußgeldstelle. Das ist ein anderes Verfahren als Ihre Schadensersatzforderung.</p><ul><li>Fahrlässige Körperverletzung ist strafbar (§ 229 StGB), bis zu drei Jahre Freiheitsstrafe oder Geldstrafe. Verfolgt wird sie nur auf Antrag oder bei besonderem öffentlichen Interesse (§ 230 StGB).</li><li>Verkehrsverstöße ohne Straftat sind Ordnungswidrigkeiten. Sie verjähren seit 01.07.2026 einheitlich nach 6 Monaten (bis 30.06.2026: 3 Monate bis zum Bußgeldbescheid, danach 6).</li><li>Als Geschädigter oder Zeuge werden Sie oft befragt. Sagen Sie nur, was Sie sicher wissen.</li><li>Ein Anwalt kann für Sie Akteneinsicht beantragen. Das hilft bei der Haftungsfrage.</li><li>Als Verletzter können Sie im Strafverfahren Schadensersatz per Adhäsionsverfahren geltend machen (§§ 403 ff. StPO).</li></ul>",
+      "schritte": [
+        {
+          "titel": "Aussage überlegen",
+          "text": "Bei Vorladung Rat einholen, nur Sicheres angeben."
+        },
+        {
+          "titel": "Akteneinsicht",
+          "text": "Über einen Anwalt Einsicht in die Ermittlungsakte beantragen."
+        },
+        {
+          "titel": "Zivilrecht trennen",
+          "text": "Schadensersatz läuft unabhängig; ein Strafverfahren ersetzt ihn nicht."
+        },
+        {
+          "titel": "Ergebnis nutzen",
+          "text": "Einstellung oder Urteil bei der Regulierung berücksichtigen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "6 Monate",
+          "was": "Verfolgungsverjährung bei Ordnungswidrigkeiten nach § 24 Abs. 1 StVG, einheitlich seit 01.07.2026; bis 30.06.2026 gab es zwei Stufen (3 Monate bis zum Bußgeldbescheid, danach 6); für Unfälle vor dem 01.07.2026 gilt die alte Staffelung",
+          "grundlage": "§ 26 Abs. 3 Satz 1 StVG (5. StVG-Änderungsgesetz vom 12.05.2026, BGBl. 2026 I Nr. 142)"
+        },
+        {
+          "wert": "bis 3 Jahre",
+          "was": "Strafrahmen Freiheitsstrafe bei fahrlässiger Körperverletzung und unerlaubtem Entfernen vom Unfallort",
+          "grundlage": "§ 229 StGB, § 142 StGB"
+        },
+        {
+          "wert": "3 Monate",
+          "was": "Antragsfrist für den Strafantrag bei fahrlässiger Körperverletzung, ab Kenntnis von Tat und Täter",
+          "grundlage": "§ 230 Abs. 1 StGB, § 77b StGB"
+        }
+      ],
+      "achtung": [
+        "Als Beschuldigter haben Sie das Recht zu schweigen; lassen Sie sich anwaltlich beraten. Dazu wurde hier keine Quelle abgerufen.",
+        "Ein Freispruch oder eine Einstellung im Strafverfahren bindet das Zivilgericht nicht.",
+        "Die Frist von 6 Monaten gilt für die Verfolgung nach § 24 Abs. 1 StVG; Ausnahmen (2 bzw. 5 Jahre) betreffen andere Fälle. Für Unfälle vor dem 01.07.2026 gilt die alte zweistufige Staffelung.",
+        "Wenn gegen Ihren Versicherungsnehmer ermittelt wird, muss dies dem Haftpflichtversicherer unverzüglich angezeigt werden (§ 104 Abs. 2 VVG)."
+      ],
+      "fach_html": "<h3>Fahrlässige Körperverletzung, §§ 229, 230 StGB</h3><p>Wer durch Fahrlässigkeit die Körperverletzung einer anderen Person verursacht, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft. Nach § 230 Abs. 1 StGB wird sie nur auf Antrag verfolgt, es sei denn, die Strafverfolgungsbehörde hält wegen des besonderen öffentlichen Interesses ein Einschreiten von Amts wegen für geboten. Die Antragsfrist beträgt drei Monate ab Kenntnis von Tat und Täter (§ 77b StGB). Bei Tod des Opfers kommt fahrlässige Tötung (§ 222 StGB) in Betracht, bei grober Verkehrsverletzung die Straßenverkehrsgefährdung (§ 315c StGB). Zur Unfallflucht siehe § 142 StGB (Strafrahmen bis drei Jahre).</p><h3>Adhäsionsverfahren, §§ 403 ff. StPO</h3><p>Der Verletzte kann seinen zivilrechtlichen Anspruch schon im Strafverfahren gegen den Angeklagten geltend machen; das Gericht kann darüber im Strafurteil entscheiden.</p><h3>Verfolgungsverjährung, § 26 Abs. 3 StVG</h3><p>Seit 01.07.2026 beträgt die Frist bei Ordnungswidrigkeiten nach § 24 Abs. 1 StVG einheitlich sechs Monate (5. StVG-Änderungsgesetz vom 12.05.2026, BGBl. 2026 I Nr. 142). Bis 30.06.2026 galt eine zweistufige Frist: drei Monate bis zum Bußgeldbescheid, danach sechs Monate; für Unfälle vor dem 01.07.2026 gilt die alte Staffelung. Zwei Jahre gelten für bestimmte Ordnungswidrigkeiten zu Bauartgenehmigungen (§ 6 Abs. 1 Satz 1 Nr. 5 oder 10), fünf Jahre für bestimmte Ordnungswidrigkeiten nach § 24 Abs. 2 (Buchstaben c und d).</p><h3>Anzeigepflicht gegenüber dem Versicherer</h3><p>Nach § 104 Abs. 2 VVG muss der Versicherungsnehmer dem Haftpflichtversicherer unverzüglich anzeigen, wenn wegen des Schadensereignisses ein Ermittlungsverfahren eingeleitet wird.</p>",
+      "zustaendig": [
+        "Staatsanwaltschaft und Polizei (Ermittlung)",
+        "Bußgeldstelle (Ordnungswidrigkeiten)",
+        "Rechtsanwalt für Verkehrsrecht"
+      ],
+      "belege": [
+        "Bundesministerium der Justiz, Gesetze im Internet: StGB §§ 77b, 142, 222, 229, 230, 315c; StPO §§ 403 ff.; StVG § 26 (5. StVG-Änderungsgesetz vom 12.05.2026, BGBl. 2026 I Nr. 142); VVG § 104, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "unfallort-beweise",
+        "unfallflucht-verkehrsopferhilfe",
+        "verjaehrung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "beratung",
+      "kategorie": "hilfe",
+      "titel": "Beratung und Anlaufstellen",
+      "icon": "🤝",
+      "teaser": "Wo Sie nach einem Verkehrsunfall bundesweit Rat und Hilfe finden.",
+      "schlagworte": [
+        "Beratung",
+        "Anwaltsuche",
+        "Verkehrsanwalt",
+        "Verkehrsopferhilfe",
+        "Weißer Ring",
+        "Opfer-Telefon",
+        "ADAC",
+        "Rechtsberatung"
+      ],
+      "kurz_html": "<p>Sie müssen die Folgen eines Unfalls nicht allein regeln. Diese bundesweiten Stellen sind belegt:</p><ul><li><strong>Anwalt für Verkehrsrecht:</strong> Suche über <a href=\"https://anwaltauskunft.de/\">anwaltauskunft.de</a> (Deutscher Anwaltverein) oder <a href=\"https://www.verkehrsanwaelte.de/anwaltsuche/\">verkehrsanwaelte.de</a>.</li><li><strong>Verkehrsopferhilfe e.V.:</strong> bei geflüchtetem oder unversichertem Verursacher, <a href=\"https://www.verkehrsopferhilfe.de\">verkehrsopferhilfe.de</a>.</li><li><strong>WEISSER RING Opfer-Telefon 116 006:</strong> kostenfrei, täglich von 7 bis 22 Uhr, für Menschen, die von einer Straftat betroffen sind, zum Beispiel bei Unfallflucht mit Verletzten. Siehe <a href=\"https://weisser-ring.de/hilfe-fuer-opfer/opfer-telefon\">weisser-ring.de</a>.</li><li><strong>ADAC:</strong> Mitglieder erhalten nach eigener Angabe Rechtsberatung durch Partneranwälte.</li></ul><p>Bei akuter Gefahr rufen Sie den Notruf 112 oder die Polizei.</p>",
+      "schritte": [
+        {
+          "titel": "Akut",
+          "text": "Bei Verletzten Notruf 112, Polizei rufen."
+        },
+        {
+          "titel": "Rechtsrat",
+          "text": "Anwalt für Verkehrsrecht oder Rechtsschutzversicherung ansprechen."
+        },
+        {
+          "titel": "Opferhilfe",
+          "text": "Bei belastenden Folgen das Opfer-Telefon 116 006 nutzen."
+        },
+        {
+          "titel": "Ansprüche sichern",
+          "text": "Unterlagen ordnen und Fristen notieren."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "116 006",
+          "was": "Opfer-Telefon des WEISSEN RINGS, kostenfrei, täglich von 7 bis 22 Uhr",
+          "grundlage": "weisser-ring.de"
+        },
+        {
+          "wert": "3 Jahre",
+          "was": "Regelmäßige Verjährung von Schadensersatzansprüchen",
+          "grundlage": "§ 195, § 199 Abs. 1 BGB"
+        }
+      ],
+      "achtung": [
+        "Das Opfer-Telefon richtet sich an von Straftaten Betroffene; nicht jeder Verkehrsunfall ist eine Straftat.",
+        "Diese Seite nennt keine örtlichen Beratungsstellen, weil dazu keine belegten Angaben vorliegen.",
+        "Der ADAC-Rechtsrat gilt nach eigener Angabe für Mitglieder.",
+        "Information ersetzt keine Rechtsberatung."
+      ],
+      "fach_html": "<h3>Anwaltsuche</h3><p>Die Deutsche Anwaltauskunft (Portal des Deutschen Anwaltvereins) bietet eine Suche nach Anwälten im Verkehrsrecht. Die Arbeitsgemeinschaft Verkehrsrecht (verkehrsanwaelte.de) nennt sich einen Zusammenschluss von fast 5.000 Anwälten und bietet eine Suche über die Postleitzahl. Den Titel Fachanwalt für Verkehrsrecht gibt es seit einem Beschluss der Satzungsversammlung vom 22.11.2004.</p><h3>Verkehrsopferhilfe</h3><p>Garantiefonds bei nicht ermittelten oder nicht versicherten Fahrzeugen, vorsätzlicher Nutzung als Tatwaffe und Versicherungsinsolvenz; Entschädigungsstelle bei Auslandsunfällen (§ 12a PflVG, Richtlinie 2009/103/EG in der Fassung der Richtlinie (EU) 2021/2118). Schadenmeldung online auf der Website.</p><h3>WEISSER RING</h3><p>Das Opfer-Telefon 116 006 (Rufnummer 2010 von der Bundesnetzagentur zugeteilt) wird von ehrenamtlichen Beraterinnen und Beratern betreut. Hilfe für Opfer von Straftaten, ihre Angehörigen und Zeugen.</p><h3>Lücken</h3><p>Nicht geprüft: Verbraucherzentralen zu Verkehrsunfällen, Beratungs- und Prozesskostenhilfe, Angebote der Unfallopfer-Selbsthilfe.</p>",
+      "zustaendig": [
+        "Deutsche Anwaltauskunft (anwaltauskunft.de)",
+        "Verkehrsopferhilfe e.V. (verkehrsopferhilfe.de)",
+        "WEISSER RING Opfer-Telefon 116 006",
+        "Notruf 112 und Polizei"
+      ],
+      "belege": [
+        "Deutsche Anwaltauskunft, anwaltauskunft.de, abgerufen 20.09.2026",
+        "Arbeitsgemeinschaft Verkehrsrecht, verkehrsanwaelte.de, abgerufen 20.09.2026",
+        "Verkehrsopferhilfe e.V., verkehrsopferhilfe.de, abgerufen 20.09.2026",
+        "WEISSER RING e. V., Opfer-Telefon, weisser-ring.de, abgerufen 20.09.2026"
+      ],
+      "siehe_auch": [
+        "rechtsschutz-anwaltskosten",
+        "unfallflucht-verkehrsopferhilfe",
+        "ueberblick"
+      ],
+      "stand": "September 2026"
+    }
+  ]
+}

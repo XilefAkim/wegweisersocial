@@ -1,0 +1,1118 @@
+{
+  "kategorien": [
+    {
+      "id": "ueberblick",
+      "titel": "Überblick und Grundlagen",
+      "icon": "🧭",
+      "beschreibung": "Einstieg: Was Sucht ist und wie die Hilfe in Deutschland aufgebaut ist."
+    },
+    {
+      "id": "beratung",
+      "titel": "Beratung und Selbsthilfe",
+      "icon": "📞",
+      "beschreibung": "Beratungsstellen finden, Hotlines und Selbsthilfegruppen."
+    },
+    {
+      "id": "behandlung",
+      "titel": "Behandlung",
+      "icon": "🏥",
+      "beschreibung": "Entzug, Substitution, Reha/Entwöhnung und Nachsorge."
+    },
+    {
+      "id": "recht",
+      "titel": "Recht und Justiz",
+      "icon": "⚖️",
+      "beschreibung": "Therapie statt Strafe und Führerschein/MPU."
+    },
+    {
+      "id": "arbeit",
+      "titel": "Arbeit und Jobcenter",
+      "icon": "💼",
+      "beschreibung": "Sucht im Bürgergeld/Grundsicherungsgeld-Bezug und am Arbeitsplatz."
+    },
+    {
+      "id": "geld",
+      "titel": "Schulden und Geld",
+      "icon": "💶",
+      "beschreibung": "Schuldnerberatung und Privatinsolvenz bei suchtbedingter Verschuldung."
+    },
+    {
+      "id": "familie",
+      "titel": "Familie und Angehörige",
+      "icon": "👪",
+      "beschreibung": "Unterstützung für Angehörige und Kinder suchtbelasteter Eltern."
+    },
+    {
+      "id": "gluecksspiel",
+      "titel": "Glücksspielsucht",
+      "icon": "🎰",
+      "beschreibung": "Spielersperre, Einzahlungslimits und Rückforderung von Verlusten."
+    }
+  ],
+  "seiten": [
+    {
+      "id": "ueberblick-hilfe-bei-sucht",
+      "kategorie": "ueberblick",
+      "titel": "Überblick: Hilfe bei Sucht",
+      "icon": "🧭",
+      "teaser": "Was als Suchterkrankung zählt, wie die Suchthilfe in Deutschland aufgebaut ist – und wo Sie auf diesen Seiten welche Hilfe finden.",
+      "schlagworte": [
+        "Suchterkrankung",
+        "Suchthilfesystem",
+        "DHS",
+        "BIÖG (vormals BZgA)",
+        "Epidemiologischer Suchtsurvey (ESA)"
+      ],
+      "kurz_html": "<p>„Sucht“ umfasst nach Fachverständnis sowohl stoffgebundene Abhängigkeiten (Alkohol, Tabak, Cannabis, andere illegale Drogen, Medikamente) als auch die nichtstoffgebundene Glücksspielsucht. Nach dem Epidemiologischen Suchtsurvey (ESA) 2024 sind unter den 18- bis 64-jährigen Erwachsenen in Deutschland rund 4,2 % von einer Alkoholabhängigkeit betroffen; dazu kommen Millionen Menschen mit riskantem Konsum oder Abhängigkeit von Tabak, Medikamenten oder anderen Substanzen.</p><p>Es gibt in Deutschland kein einziges „Suchtgesetz“. Hilfe, Behandlung und Rechte verteilen sich auf viele Sozialgesetzbücher (SGB II, V, VI, VIII, IX), das Betäubungsmittelrecht (BtMG) und den Glücksspielstaatsvertrag. Diese Seiten führen Sie von der ersten Beratung über Entzug, Substitution und Reha bis zu Rechtsfragen bei Arbeit, Führerschein, Schulden und Familie.</p><p>Fachliche Dachorganisation ist die Deutsche Hauptstelle für Suchtfragen (DHS); für Aufklärung und Prävention ist seit Februar 2025 das Bundesinstitut für Öffentliche Gesundheit (BIÖG, vormals Bundeszentrale für gesundheitliche Aufklärung/BZgA) zuständig.</p>",
+      "schritte": [
+        {
+          "titel": "Erste Orientierung verschaffen",
+          "text": "Lesen Sie sich in die für Sie relevanten Themen ein oder rufen Sie direkt eine Hotline an (siehe „Beratung und Anlaufstellen“)."
+        },
+        {
+          "titel": "Beratungsstelle kontaktieren",
+          "text": "Suchtberatungsstellen sind auf Wunsch anonym, kostenlos und ohne Überweisung erreichbar (siehe „Suchtberatung finden“)."
+        },
+        {
+          "titel": "Nächste Schritte gemeinsam klären",
+          "text": "Ob Entzug, Substitution, Reha, Selbsthilfegruppe oder rechtliche Fragen – die Beratungsstelle hilft, den passenden Weg und die zuständigen Kostenträger zu finden."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "2 Wochen",
+          "was": "Frist für den zuerst angegangenen Sozialleistungsträger, seine Zuständigkeit für einen Reha-Antrag zu prüfen und diesen ggf. weiterzuleiten.",
+          "grundlage": "§ 14 Abs. 1 SGB IX"
+        },
+        {
+          "wert": "1 Monat",
+          "was": "Regelfrist für Widerspruch gegen Bescheide von Jobcenter, Renten- oder Krankenversicherung.",
+          "grundlage": "§ 84 SGG"
+        },
+        {
+          "wert": "kein Rechtsanspruch",
+          "was": "Auf Suchtberatung selbst besteht bundesweit kein einheitlicher individueller Rechtsanspruch; sie ist meist eine kommunale Ermessensleistung.",
+          "grundlage": "§ 16a SGB II; DHS-Position 2023"
+        }
+      ],
+      "achtung": [
+        "Es gibt keinen bundesweiten Rechtsanspruch auf einen Suchtberatungs- oder Therapieplatz „auf Knopfdruck“ – Wartezeiten und Angebote unterscheiden sich je nach Kommune und Kostenträger.",
+        "Viele Leistungen (Reha, Substitution, Entzug) setzen einen förmlichen Antrag bei einem bestimmten Träger voraus – ohne Antrag meist keine Kostenübernahme.",
+        "Wer akut in Gefahr ist (z. B. Entzugsdelir, Überdosis, Suizidgedanken), sollte nicht auf einen Beratungstermin warten, sondern den Rettungsdienst (112) oder eine Notaufnahme aufsuchen."
+      ],
+      "fach_html": "<h3>Rechtlicher Rahmen: kein einheitliches Suchtgesetz</h3><p>Suchthilfe verteilt sich unter anderem auf: SGB V (Krankenbehandlung, Entzug), SGB VI (Rehabilitation/Entwöhnung), SGB II (Grundsicherung, Eingliederungsleistungen einschließlich Suchtberatung nach § 16a Nr. 4 SGB II), SGB VIII (Kinder- und Jugendhilfe), SGB IX (Teilhabe, Verfahrensfristen), das Betäubungsmittelgesetz (BtMG, u. a. § 35 „Therapie statt Strafe“) sowie den Glücksspielstaatsvertrag 2021 (GlüStV).</p><h3>Zahlen (ESA 2024)</h3><p>Nach dem ESA 2024 (BMG/IFT München, Erhebung 18–64 Jahre) lag die 30-Tage-Prävalenz von Alkoholkonsum bei 68,6 % (rund 35,3 Mio. Personen), die Abhängigkeitsquote bei 4,2 %. Für Tabak wird eine Abhängigkeitsquote von 8,3 % genannt, für Cannabis ein 12-Monats-Konsum von 9,8 % bei einer Abhängigkeitsquote von 1,0 %. Glücksspiel ist nicht Teil des ESA; hierzu liegt der gesonderte Glücksspielsurvey vor (siehe Themenseite „Glücksspielsucht“).</p><h3>Struktur der Suchthilfe</h3><p>Nach DHS-Angaben gibt es bundesweit in der Größenordnung von rund 1.300 bis 1.400 ambulante Suchtberatungsstellen (unterschiedliche DHS-Unterseiten nennen leicht abweichende Werte). Nach einem DHS-Bericht vom 26.09.2024 können rund drei Viertel der öffentlich finanzierten Suchtberatungsstellen ihre Kosten nicht vollständig decken; die DHS fordert deshalb einen gesetzlichen Rechtsanspruch auf Finanzierung, den es aktuell nicht gibt.</p><h3>Unsicher/nicht abschließend geklärt</h3><p>Die exakte bundesweite Zahl an Beratungsstellen, die genaue Trägerverteilung sowie tagesaktuelle Wartezeiten sind nicht zentral und einheitlich dokumentiert; im Zweifel die örtliche Beratungsstelle direkt fragen.</p>",
+      "zustaendig": [
+        "Örtliche Suchtberatungsstelle (erste Anlaufstelle für fast alle Fragen)",
+        "Krankenkasse (Entzug, medizinische Behandlung)",
+        "Deutsche Rentenversicherung (Entwöhnungsbehandlung/Reha bei Erwerbstätigen)",
+        "Jobcenter (Eingliederungsleistungen inkl. Suchtberatung nach § 16a SGB II)"
+      ],
+      "belege": [
+        "Epidemiologischer Suchtsurvey (ESA) 2024, BMG/IFT München (esa-survey.de)",
+        "DHS, „Versorgungssystem“ und „Suchtberatung“, dhs.de (abgerufen 09/2026)",
+        "DHS, Bericht zur Finanzierung der Suchtberatungsstellen in Deutschland, 26.09.2024",
+        "§ 16a SGB II; § 14 SGB IX; § 84 SGG (gesetze-im-internet.de)",
+        "BMG-Pressemitteilung vom 13.02.2025: Umbenennung BZgA in BIÖG"
+      ],
+      "siehe_auch": [
+        "suchtberatung-finden",
+        "beratung-anlaufstellen-sucht",
+        "entzug-entgiftung"
+      ],
+      "stand": "Stand: September 2026. Zahlen nach ESA 2024 (Erhebungsjahr 2024); Rechtsstand September 2026."
+    },
+    {
+      "id": "suchtberatung-finden",
+      "kategorie": "beratung",
+      "titel": "Suchtberatung finden",
+      "icon": "🔍",
+      "teaser": "Wie Sie eine Suchtberatungsstelle in Ihrer Nähe finden – kostenlos, auf Wunsch anonym, ohne Überweisung.",
+      "schlagworte": [
+        "Suchtberatungsstelle",
+        "Schweigepflicht",
+        "DHS-Suchthilfeverzeichnis",
+        "Anonymität",
+        "DigiSucht"
+      ],
+      "kurz_html": "<p>Suchtberatungsstellen sind die zentrale erste Anlaufstelle bei Alkohol-, Drogen-, Medikamenten- oder Glücksspielproblemen – für Betroffene ebenso wie für Angehörige. Der Zugang ist nach DHS-Angaben „bedingungslos“: Sie können auf Wunsch anonym bleiben, brauchen keine ärztliche Überweisung und keinen Versicherungsnachweis. Die Beratung ist kostenlos; die Fachkräfte unterliegen der Schweigepflicht.</p><p>Beratungsstellen werden meist von Wohlfahrtsverbänden (z. B. Caritas, Diakonie, AWO, DRK) oder kommunalen Trägern betrieben. Eine bundesweit einheitliche, zentrale Trägerübersicht gibt es nicht – die Landschaft ist je nach Kommune und Bundesland unterschiedlich.</p>",
+      "schritte": [
+        {
+          "titel": "Örtliche Beratungsstelle suchen",
+          "text": "Nutzen Sie das DHS-Suchthilfeverzeichnis (über dhs.de) oder fragen Sie bei Hausarzt, Jobcenter oder Krankenkasse nach."
+        },
+        {
+          "titel": "Digital oder telefonisch vorfühlen",
+          "text": "Wenn eine persönliche Kontaktaufnahme eine zu hohe Hürde ist, nutzen Sie DigiSucht (suchtberatung.digital) oder die Sucht & Drogen Hotline (01806 313031, rund um die Uhr)."
+        },
+        {
+          "titel": "Erstgespräch vereinbaren",
+          "text": "Das Erstgespräch dient der Bestandsaufnahme; die Beratungsstelle hilft, weitere Schritte zu organisieren und Anträge vorzubereiten."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "01806 313031",
+          "was": "Sucht & Drogen Hotline, bundesweit, rund um die Uhr (20 Cent/Anruf aus dem deutschen Fest- und Mobilfunknetz).",
+          "grundlage": "Verbund regionaler Drogennotdienste"
+        },
+        {
+          "wert": "0 €",
+          "was": "Beratung ist grundsätzlich kostenlos; auf Wunsch anonym, ohne Überweisung.",
+          "grundlage": "DHS, Grundsatz der Suchtberatung"
+        },
+        {
+          "wert": "~1.300–1.400",
+          "was": "Größenordnung ambulanter Suchtberatungsstellen bundesweit (als Bandbreite, nicht als exakte Zahl zu verstehen).",
+          "grundlage": "DHS, dhs.de (nicht amtlich einheitlich beziffert)"
+        }
+      ],
+      "achtung": [
+        "Es gibt keine bundeseinheitliche Trägerliste – die tatsächliche Auswahl vor Ort variiert von Kommune zu Kommune.",
+        "Anonyme Beratung heißt nicht automatisch anonyme Kostenübernahme: Sobald eine Leistung (z. B. Reha) beantragt wird, sind Angaben zur Person gegenüber dem Kostenträger nötig.",
+        "Die konkrete Wartezeit auf einen Beratungstermin ist nicht bundesweit einheitlich dokumentiert; fragen Sie im Zweifel bei mehreren Stellen nach."
+      ],
+      "fach_html": "<h3>Rechtlicher Hintergrund</h3><p>Ein flächendeckender, individuell einklagbarer Rechtsanspruch auf Suchtberatung existiert nicht. Für Bezieherinnen und Bezieher von Bürgergeld/Grundsicherungsgeld kann Suchtberatung als kommunale Eingliederungsleistung nach § 16a Nr. 4 SGB II erbracht werden – eine Ermessens- („Kann“-)Leistung, kein Individualanspruch. Die DHS hat 2023 einen gesetzlichen Rechtsanspruch auf Finanzierung der Suchtberatung gefordert, weil dieser nach ihrer Einschätzung fehlt.</p><h3>Bundesweite Vermittlungsangebote</h3><p>Neben dem DHS-Suchthilfeverzeichnis gibt es DigiSucht (suchtberatung.digital) als kostenlose, anonyme Online-Beratung, die Sucht & Drogen Hotline (01806 313031) sowie BIÖG-Infotelefone (vormals BZgA), z. B. Suchtvorbeugung (0221 89 20 31), Rauchentwöhnung (0800 8 31 31 31) und Glücksspielsucht (0800 1 37 27 00).</p><h3>Finanzierungskrise</h3><p>Nach einem DHS-Bericht vom 26.09.2024 können rund drei Viertel der öffentlich finanzierten Suchtberatungsstellen ihre Kosten nicht decken; teils wurden Öffnungszeiten gekürzt oder Stellen geschlossen.</p><h3>Unsicher/uneinheitlich</h3><p>Die genaue bundesweite Gesamtzahl an Beratungsstellen, die exakte Trägerverteilung sowie tagesaktuelle Wartezeiten sind nicht zentral und einheitlich erfasst.</p>",
+      "zustaendig": [
+        "Örtliche Suchtberatungsstelle (Caritas, Diakonie, AWO, DRK, kommunal)",
+        "Jobcenter (Finanzierung nach § 16a SGB II bei Bürgergeld/Grundsicherungsgeld-Bezug)",
+        "DigiSucht/BIÖG-Infotelefone (bundesweite Erstanlaufstellen)"
+      ],
+      "belege": [
+        "DHS, „Suchtberatung“, dhs.de/suchthilfe/suchtberatung/ (abgerufen 09/2026)",
+        "DHS, Eckpunkte für gesetzliche Regelungen zur Finanzierung der Suchtberatung, 2023",
+        "DHS, Bericht zur Finanzierung der Suchtberatungsstellen, 26.09.2024",
+        "§ 16a SGB II (gesetze-im-internet.de)",
+        "Beauftragter der Bundesregierung für Sucht- und Drogenfragen, bundesdrogenbeauftragter.de"
+      ],
+      "siehe_auch": [
+        "ueberblick-hilfe-bei-sucht",
+        "beratung-anlaufstellen-sucht",
+        "selbsthilfegruppen"
+      ],
+      "stand": "Stand: September 2026."
+    },
+    {
+      "id": "selbsthilfegruppen",
+      "kategorie": "beratung",
+      "titel": "Selbsthilfegruppen",
+      "icon": "🤝",
+      "teaser": "Selbsthilfe- und Abstinenzverbände in Deutschland: für Betroffene und für Angehörige – ein Überblick.",
+      "schlagworte": [
+        "Selbsthilfegruppe",
+        "Anonyme Alkoholiker",
+        "Al-Anon",
+        "Kreuzbund",
+        "Guttempler"
+      ],
+      "kurz_html": "<p>Neben professioneller Suchtberatung gibt es ein dichtes Netz an Selbsthilfegruppen. Die fünf traditionellen Abstinenzverbände – Blaues Kreuz in Deutschland, Blaues Kreuz in der Evangelischen Kirche, Kreuzbund, Guttempler in Deutschland und Freundeskreise für Suchtkrankenhilfe – haben nach eigenen Angaben zusammen rund 5.000 Gruppen mit etwa 85.000 wöchentlichen Teilnehmenden, davon rund 70 % Betroffene und rund 30 % Angehörige.</p><p>Daneben gibt es die international organisierten 12-Schritte-Gruppen Anonyme Alkoholiker (AA, rund 1.800 Gruppen in Deutschland) und Narcotics Anonymous (NA, rund 420 Meetings, für illegale Drogen). Speziell für Angehörige gibt es Al-Anon (rund 450 Gruppen) mit dem Jugendprogramm Alateen.</p>",
+      "schritte": [
+        {
+          "titel": "Passende Richtung wählen",
+          "text": "Betroffene finden Gruppen z. B. bei AA (Alkohol), NA (illegale Drogen) oder den Abstinenzverbänden; Angehörige speziell bei Al-Anon oder in Angehörigengruppen der Abstinenzverbände."
+        },
+        {
+          "titel": "Meetingsuche nutzen",
+          "text": "Jeder Verband hat eine eigene Meetingsuche im Internet (z. B. anonyme-alkoholiker.de/meetings, al-anon.de, kreuzbund.de, guttempler.de)."
+        },
+        {
+          "titel": "Offenes Meeting ausprobieren",
+          "text": "Viele Gruppen bieten offene Meetings an, zu denen auch Interessierte und Angehörige ohne Anmeldung kommen können."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "~5.000",
+          "was": "Gruppen der fünf traditionellen Abstinenzverbände bundesweit, nach Verbandsangaben.",
+          "grundlage": "Verbandsangaben (u. a. kreuzbund.de)"
+        },
+        {
+          "wert": "~1.800",
+          "was": "Gruppen der Anonymen Alkoholiker (AA) im deutschsprachigen Raum.",
+          "grundlage": "anonyme-alkoholiker.de"
+        },
+        {
+          "wert": "~450",
+          "was": "Gruppen von Al-Anon für Angehörige von Alkoholikern in Deutschland.",
+          "grundlage": "al-anon.de"
+        }
+      ],
+      "achtung": [
+        "Selbsthilfegruppen ersetzen keine medizinische Behandlung oder Entgiftung – sie sind eine wichtige Ergänzung, insbesondere zur Stabilisierung und Rückfallvorbeugung.",
+        "Die genaue Aufteilung Betroffene/Angehörige (z. B. „70 % zu 30 %“) ist eine grobe Verbandsangabe, keine amtliche Statistik.",
+        "Nicht jede Gruppe passt zu jedem Menschen – ein Wechsel der Gruppe oder des Verbands ist üblich und in Ordnung."
+      ],
+      "fach_html": "<h3>Die fünf traditionellen Abstinenzverbände</h3><p>Blaues Kreuz in Deutschland, Blaues Kreuz in der Evangelischen Kirche, Kreuzbund, Guttempler in Deutschland und die Freundeskreise für Suchtkrankenhilfe sind Mitglieder der DHS und bilden das Rückgrat der Sucht-Selbsthilfe. Sie nehmen nach Verbandsangaben sowohl Betroffene als auch Angehörige auf.</p><h3>12-Schritte-Gruppen</h3><p>Anonyme Alkoholiker (AA) arbeiten nach dem 12-Schritte-Programm zu Alkohol; es gibt offene Meetings (auch für Angehörige/Interessierte) und geschlossene Meetings (nur für Betroffene). Narcotics Anonymous (NA) ist das Pendant für illegale Drogen, in Deutschland seit 1978 aktiv, mit kostenloser Info-Hotline (0800 44533 62).</p><h3>Angehörige: eine eigene Selbsthilfetradition</h3><p>Al-Anon ist eine eigenständige Selbsthilfeorganisation ausschließlich für Angehörige und Freunde von Menschen mit Alkoholproblemen; Alateen richtet sich als Unterprogramm an Jugendliche aus betroffenen Familien.</p><h3>Unsicher/nicht amtlich geprüft</h3><p>Alle genannten Gruppen- und Teilnahmezahlen stammen von den Verbänden selbst, nicht von einer unabhängigen amtlichen Statistik, und sind als Größenordnung zu verstehen.</p>",
+      "zustaendig": [
+        "Jeweiliger Selbsthilfeverband (eigenständig, keine staatliche Stelle)",
+        "Suchtberatungsstelle (vermittelt oft ergänzend an Selbsthilfegruppen)"
+      ],
+      "belege": [
+        "Kreuzbund e.V., Selbsthilfe- und Abstinenzverbände der Freien Wohlfahrtspflege (kreuzbund.de)",
+        "Anonyme Alkoholiker Deutschland, anonyme-alkoholiker.de/meetings/",
+        "Narcotics Anonymous Deutschland, narcotics-anonymous.de",
+        "Al-Anon Familiengruppen Deutschland, al-anon.de"
+      ],
+      "siehe_auch": [
+        "suchtberatung-finden",
+        "familie-und-angehoerige",
+        "rueckfall-und-nachsorge"
+      ],
+      "stand": "Stand: September 2026."
+    },
+    {
+      "id": "beratung-anlaufstellen-sucht",
+      "kategorie": "beratung",
+      "titel": "Beratung und Anlaufstellen",
+      "icon": "☎️",
+      "teaser": "Die wichtigsten bundesweiten Hotlines und Online-Anlaufstellen bei Sucht – für den akuten Fall wie für die erste Orientierung.",
+      "schlagworte": [
+        "Notfall",
+        "Telefonseelsorge",
+        "BIÖG-Infotelefone",
+        "Sucht & Drogen Hotline",
+        "DigiSucht"
+      ],
+      "kurz_html": "<p>Diese Seite bündelt die wichtigsten bundesweiten Kontaktangebote. Für die persönliche, ortsnahe Beratung siehe „Suchtberatung finden“; hier geht es um Angebote, die Sie sofort und ohne Terminvereinbarung telefonisch oder online erreichen.</p>",
+      "schritte": [
+        {
+          "titel": "Im Notfall zuerst",
+          "text": "Bei akuter Lebensgefahr (z. B. Überdosis, schwerer Entzugsverlauf, Suizidgedanken): Rettungsdienst 112 oder die nächste Notaufnahme, keine Hotline."
+        },
+        {
+          "titel": "Für ein erstes Gespräch",
+          "text": "Sucht & Drogen Hotline 01806 313031 (rund um die Uhr) oder Telefonseelsorge 0800 111 0 111 / 0800 111 0 222 (kostenfrei, rund um die Uhr, für jedes Anliegen)."
+        },
+        {
+          "titel": "Für ein spezifisches Thema",
+          "text": "BIÖG-Infotelefone (vormals BZgA): Suchtvorbeugung 0221 89 20 31, Rauchentwöhnung 0800 8 31 31 31, Glücksspielsucht 0800 1 37 27 00; für illegale Drogen zusätzlich Narcotics Anonymous 0800 44533 62."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "112",
+          "was": "Rettungsdienst/Notfall, bundesweit, kostenfrei, rund um die Uhr.",
+          "grundlage": "Bundeseinheitliche Notrufnummer"
+        },
+        {
+          "wert": "0800 111 0 111",
+          "was": "Telefonseelsorge, kostenfrei, anonym, rund um die Uhr (auch 0800 111 0 222).",
+          "grundlage": "Telefonseelsorge Deutschland"
+        },
+        {
+          "wert": "01806 313031",
+          "was": "Sucht & Drogen Hotline, rund um die Uhr (20 Cent/Anruf aus dem deutschen Netz).",
+          "grundlage": "Verbund regionaler Drogennotdienste"
+        }
+      ],
+      "achtung": [
+        "Hotlines ersetzen keine Notfallversorgung – bei akuter Gefahr immer zuerst 112.",
+        "Manche Nummern sind kostenpflichtig (01806-Nummer 20 Cent/Anruf), andere kostenfrei (0800) – vorher prüfen, wenn das relevant ist.",
+        "Bei Minderjährigen oder akuter Kindeswohlgefährdung zusätzlich das Jugendamt einbeziehen (siehe „Familie und Angehörige“)."
+      ],
+      "fach_html": "<h3>Bundesweite telefonische Angebote</h3><p>Sucht & Drogen Hotline (01806 313031, rund um die Uhr), Telefonseelsorge (0800 111 0 111 / 0800 111 0 222, kostenfrei), sowie die BIÖG-Infotelefone (vormals BZgA): Suchtvorbeugung 0221 89 20 31, Rauchentwöhnung 0800 8 31 31 31, Glücksspielsucht 0800 1 37 27 00. Für illegale Drogen zusätzlich die Info-Hotline von Narcotics Anonymous (0800 44533 62).</p><h3>Online-Angebote</h3><p>DigiSucht (suchtberatung.digital) bietet kostenlose, anonyme digitale Suchtberatung für Betroffene, Angehörige und Eltern. Check-dein-Spiel.de (BIÖG) richtet sich an Menschen mit Glücksspielproblemen. Das DHS-Suchthilfeverzeichnis (über dhs.de) hilft bei der Suche vor Ort.</p><h3>Hinweis zur Namensänderung</h3><p>Die frühere Bundeszentrale für gesundheitliche Aufklärung (BZgA) wurde zum 13. Februar 2025 per Erlass des BMG in „Bundesinstitut für Öffentliche Gesundheit“ (BIÖG) umbenannt. Bekannte Kampagnen wie „Kenn dein Limit“ laufen unter dem neuen Institutsnamen weiter.</p>",
+      "zustaendig": [
+        "Jeweiliger Hotline-/Onlineanbieter (siehe oben)",
+        "Rettungsdienst (112) im Notfall",
+        "Örtliche Suchtberatungsstelle für die weitere Begleitung"
+      ],
+      "belege": [
+        "Beauftragter der Bundesregierung für Sucht- und Drogenfragen, bundesdrogenbeauftragter.de",
+        "BIÖG, Infotelefone (bioeg.de/service/infotelefone/)",
+        "BMG-Pressemitteilung vom 13.02.2025 zur Umbenennung BZgA → BIÖG",
+        "Telefonseelsorge Deutschland (telefonseelsorge.de)"
+      ],
+      "siehe_auch": [
+        "suchtberatung-finden",
+        "ueberblick-hilfe-bei-sucht",
+        "gluecksspielsucht"
+      ],
+      "stand": "Stand: September 2026."
+    },
+    {
+      "id": "entzug-entgiftung",
+      "kategorie": "behandlung",
+      "titel": "Entzug und Entgiftung",
+      "icon": "🏥",
+      "teaser": "Körperlicher Entzug und qualifizierter Entzug: der Unterschied, die Kostenträger und wie es danach weitergeht.",
+      "schlagworte": [
+        "Entzug",
+        "Entgiftung",
+        "Qualifizierter Entzug",
+        "§ 39 SGB V",
+        "Krankenkasse"
+      ],
+      "kurz_html": "<p>Ein körperlicher Entzug (Entgiftung) behandelt die akuten körperlichen Absetzerscheinungen (z. B. Kreislaufprobleme, Krampfanfälle, Delir) meist über wenige Tage bis gut eine Woche, in der Regel im Krankenhaus. Ein „qualifizierter Entzug“ dauert länger und ergänzt die körperliche Entgiftung um Motivationsarbeit, Aufklärung und die Vorbereitung auf eine anschließende Entwöhnungsbehandlung (Reha).</p><p>Kostenträger für Entzug und qualifizierten Entzug ist die gesetzliche Krankenversicherung. Die anschließende Entwöhnungsbehandlung ist dagegen meist eine Leistung der Rentenversicherung (siehe „Reha/Entwöhnungsbehandlung“).</p>",
+      "schritte": [
+        {
+          "titel": "Kontakt aufnehmen",
+          "text": "Über Hausarzt, Suchtberatungsstelle oder direkt eine Klinik mit Suchtstation; im akuten Notfall Rettungsdienst/Notaufnahme."
+        },
+        {
+          "titel": "Aufnahme im Krankenhaus",
+          "text": "Entzug/qualifizierter Entzug erfolgt in aller Regel (teil-)stationär in einer Klinik mit entsprechender Fachabteilung."
+        },
+        {
+          "titel": "Anschluss klären",
+          "text": "Bereits während des Entzugs wird meist die weitere Behandlung (Entwöhnung, ambulante Nachsorge, Selbsthilfegruppe) vorbereitet."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "§ 39 SGB V",
+          "was": "Rechtsgrundlage für die (voll- oder teilstationäre) Krankenhausbehandlung, die auch Entzug und qualifizierten Entzug umfasst.",
+          "grundlage": "§ 39 SGB V"
+        },
+        {
+          "wert": "~21 Tage",
+          "was": "In der Fachpraxis häufig genannte, ungefähre Dauer eines qualifizierten Entzugs bei Alkoholabhängigkeit; bei anderen Substanzen kann die Dauer abweichen.",
+          "grundlage": "Fachlicher Richtwert (AKQE/LWL-Rahmenkonzept), keine gesetzliche Frist"
+        },
+        {
+          "wert": "§ 27 SGB V",
+          "was": "Allgemeiner Anspruch auf Krankenbehandlung, Grundlage für die Kostenübernahme durch die Krankenkasse.",
+          "grundlage": "§ 27 SGB V"
+        }
+      ],
+      "achtung": [
+        "Ein reiner körperlicher Entzug ohne begleitende Motivations- und Nachsorgearbeit senkt die Rückfallwahrscheinlichkeit erfahrungsgemäß wenig – ein qualifizierter Entzug oder eine anschließende Reha ist meist sinnvoller.",
+        "Es gibt keine gesetzlich fest vorgeschriebene Dauer für den qualifizierten Entzug – die oft genannten „drei Wochen“ sind ein fachlicher Richtwert, kein Rechtsanspruch auf genau diese Dauer.",
+        "Entzug (Krankenkasse) und Entwöhnung/Reha (meist Rentenversicherung) sind unterschiedliche Leistungen mit unterschiedlichen Zuständigkeiten – Verwechslung riskiert Verzögerungen bei der Kostenklärung."
+      ],
+      "fach_html": "<h3>Rechtsgrundlage und Abgrenzung zur Reha</h3><p>Entzug und qualifizierter Entzug sind Krankenhausbehandlung nach § 39 SGB V i. V. m. § 27 SGB V; Kostenträger ist die gesetzliche Krankenkasse. Die anschließende Entwöhnungsbehandlung ist eine Leistung zur medizinischen Rehabilitation, für die bei Erwerbstätigen in der Regel die Deutsche Rentenversicherung zuständig ist (§§ 9, 11, 12, 15 SGB VI); erfüllt jemand deren versicherungsrechtliche Voraussetzungen nicht, ist subsidiär die Krankenkasse zuständig (§ 40 SGB V).</p><h3>Qualifizierter Entzug (QE)</h3><p>Der qualifizierte Entzug ergänzt die körperliche Entgiftung fachärztlich geleitet um Motivationsarbeit, Psychoedukation und sozialarbeiterische Unterstützung sowie die Vorbereitung auf Entwöhnung oder Reha. Eine feste gesetzliche Dauer gibt es nicht; in der Fachpraxis wird bei Alkoholabhängigkeit häufig eine Größenordnung von etwa drei Wochen genannt (Rahmenkonzept AKQE/LWL) – bei anderen Substanzen kann die Dauer abweichen.</p><h3>Unsicher/nicht gesetzlich fixiert</h3><p>Die genaue Dauer eines qualifizierten Entzugs ist keine Rechtsnorm, sondern ein fachlicher Richtwert einzelner Fachverbände, der je nach Klinik, Substanz und Einzelfall abweichen kann.</p>",
+      "zustaendig": [
+        "Gesetzliche Krankenkasse (Kostenträger für Entzug/qualifizierten Entzug)",
+        "Krankenhaus mit Suchtfachabteilung",
+        "Suchtberatungsstelle (Vermittlung, Vorbereitung des Anschlusses)"
+      ],
+      "belege": [
+        "§ 39 SGB V, § 27 SGB V (gesetze-im-internet.de)",
+        "Rahmenkonzept für die stationäre qualifizierte Entzugsbehandlung, AKQE/LWL (lwl.org)",
+        "DRV, Vereinbarungen im Suchtbereich (deutsche-rentenversicherung.de)"
+      ],
+      "siehe_auch": [
+        "substitutionstherapie",
+        "reha-entwoehnungsbehandlung",
+        "suchtberatung-finden"
+      ],
+      "stand": "Stand: September 2026."
+    },
+    {
+      "id": "substitutionstherapie",
+      "kategorie": "behandlung",
+      "titel": "Substitutionstherapie",
+      "icon": "💊",
+      "teaser": "Substitutionsbehandlung bei Opioidabhängigkeit: Rechtsgrundlage, Qualifikation der Ärztin/des Arztes und die Regeln für Take-Home.",
+      "schlagworte": [
+        "Substitution",
+        "§ 5 BtMVV",
+        "Take-Home",
+        "Bundesärztekammer-Richtlinie",
+        "Diamorphin"
+      ],
+      "kurz_html": "<p>Die Substitutionstherapie ersetzt bei Opioidabhängigkeit die konsumierte Substanz durch ein ärztlich verschriebenes Substitutionsmittel (z. B. Methadon, Buprenorphin). Rechtsgrundlage ist § 5 der Betäubungsmittel-Verschreibungsverordnung (BtMVV); Kostenträger ist die gesetzliche Krankenversicherung.</p><p>Substituieren dürfen nur „suchtmedizinisch qualifizierte“ Ärztinnen und Ärzte unbeschränkt; andere Ärztinnen und Ärzte dürfen nur eine begrenzte Zahl an Patientinnen und Patienten behandeln. Für die Mitgabe des Substitutionsmittels zur eigenständigen Einnahme zu Hause („Take-Home“) gelten besondere, im Regelfall auf 7 Tage begrenzte Zeiträume, die im Einzelfall verlängert werden können.</p>",
+      "schritte": [
+        {
+          "titel": "Ärztliche Praxis mit Substitutionsangebot finden",
+          "text": "Über die Suchtberatungsstelle, die Kassenärztliche Vereinigung oder direkt bei einer suchtmedizinisch qualifizierten Praxis nachfragen."
+        },
+        {
+          "titel": "Behandlung beginnen",
+          "text": "Nach ärztlicher Diagnose und Aufklärung wird das Substitutionsmittel individuell eingestellt, meist zunächst mit täglicher Vergabe vor Ort."
+        },
+        {
+          "titel": "Stabilisierung und Take-Home prüfen",
+          "text": "Bei stabilem Verlauf kann die Ärztin/der Arzt eine Mitgabe für mehrere Tage genehmigen, mit regelmäßigen persönlichen Kontrollterminen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "7 Tage",
+          "was": "Regelfall für die Mitgabe des Substitutionsmittels zur eigenständigen Einnahme (Take-Home).",
+          "grundlage": "§ 5 Abs. 8 BtMVV"
+        },
+        {
+          "wert": "bis 30 Tage",
+          "was": "In begründeten Einzelfällen kann Take-Home auf bis zu 30 Tage ausgeweitet werden; mindestens ein persönlicher Kontakt pro 30 Tage bleibt erforderlich.",
+          "grundlage": "§ 5 Abs. 8 BtMVV"
+        },
+        {
+          "wert": "max. 10 Patient:innen",
+          "was": "Nicht suchtmedizinisch qualifizierte Ärztinnen/Ärzte dürfen höchstens 10 Personen gleichzeitig substituieren und müssen sich mit einer qualifizierten Praxis abstimmen.",
+          "grundlage": "§ 5 Abs. 4 BtMVV"
+        }
+      ],
+      "achtung": [
+        "§ 35 BtMG „Therapie statt Strafe“ ist etwas anderes als die Substitutionstherapie – Substitution ist eine medizinische Behandlung, keine strafrechtliche Regelung (siehe „Therapie statt Strafe“).",
+        "Nicht jede Arztpraxis darf unbeschränkt substituieren – die Qualifikationspflicht nach § 5 Abs. 3/4 BtMVV schränkt die freie Arztwahl faktisch ein.",
+        "Ältere Merkblätter nennen teils engere Take-Home-Grenzen – das entspricht nicht mehr der aktuellen BtMVV-Fassung; im Zweifel den Gesetzestext auf gesetze-im-internet.de prüfen."
+      ],
+      "fach_html": "<h3>Rechtsgrundlage</h3><p>Substitution ist in § 5 BtMVV geregelt (i. V. m. dem BtMG). Fachliche Standards konkretisiert die Richtlinie der Bundesärztekammer zur substitutionsgestützten Behandlung Opioidabhängiger (Fassung vom 16.07.2026); Kostenträger ist die GKV (§§ 27, 31 SGB V). Nur „suchtmedizinisch qualifizierte“ Ärztinnen und Ärzte dürfen unbeschränkt substituieren; andere höchstens 10 Personen, mit Abstimmungspflicht.</p><h3>Diamorphin (heroingestützte Behandlung)</h3><p>Seit einer Novelle mit Wirkung zum 5. Dezember 2024 ist die Diamorphinbehandlung in einem eigenen § 5a BtMVV geregelt; die Zugangsvoraussetzungen wurden gelockert (u. a. Mindestdauer der Opioidabhängigkeit von 5 auf 2 Jahre, Mindestalter von 23 auf 18 Jahre gesenkt). Die exakte amtliche Bezeichnung dieser Änderungsverordnung konnte nicht abschließend verifiziert werden.</p><h3>Zahlen</h3><p>Nach dem BfArM-Bericht zum Substitutionsregister (Januar 2025) waren zum Stichtag 1. Juli 2024 rund 80.400 Personen substituiert gemeldet, bei rund 2.434 meldenden Substitutionsärztinnen und -ärzten. Neuere Zahlen lagen zum Redaktionsschluss nicht vor.</p><h3>Unsicher/nicht abschließend geklärt</h3><p>Die exakte amtliche Bezeichnung und Bundesgesetzblatt-Fundstelle der BtMVV-Änderung vom 5.12.2024 sowie aktuellere Zahlen als Juli 2024 konnten nicht sicher verifiziert werden.</p>",
+      "zustaendig": [
+        "Suchtmedizinisch qualifizierte Arztpraxis",
+        "Gesetzliche Krankenversicherung (Kostenträger)",
+        "Suchtberatungsstelle (ergänzende Begleitung)"
+      ],
+      "belege": [
+        "§ 5 BtMVV (gesetze-im-internet.de)",
+        "Richtlinie der Bundesärztekammer zur substitutionsgestützten Behandlung Opioidabhängiger, Stand 16.07.2026",
+        "BfArM, Bericht zum Substitutionsregister, Januar 2025",
+        "§§ 27, 31 SGB V (gesetze-im-internet.de)"
+      ],
+      "siehe_auch": [
+        "entzug-entgiftung",
+        "therapie-statt-strafe",
+        "reha-entwoehnungsbehandlung"
+      ],
+      "stand": "Stand: September 2026. Zahlen zum Substitutionsregister mit Stichtag 01.07.2024 (Bericht Januar 2025)."
+    },
+    {
+      "id": "reha-entwoehnungsbehandlung",
+      "kategorie": "behandlung",
+      "titel": "Reha / Entwöhnungsbehandlung",
+      "icon": "🌿",
+      "teaser": "Die Entwöhnungsbehandlung (Reha) nach Sucht: Zuständigkeit, Antrag, übliche Dauer und die nötigen Formulare.",
+      "schlagworte": [
+        "Entwöhnungsbehandlung",
+        "Reha",
+        "Deutsche Rentenversicherung",
+        "§ 14 SGB IX",
+        "Adaption"
+      ],
+      "kurz_html": "<p>Die Entwöhnungsbehandlung – umgangssprachlich oft „Reha“ oder „Therapie“ genannt – ist eine Leistung zur medizinischen Rehabilitation. Bei Erwerbstätigen ist in der Regel die Deutsche Rentenversicherung (DRV) zuständig; erfüllen Sie deren versicherungsrechtliche Voraussetzungen nicht, springt die Krankenkasse ein.</p><p>Den Antrag bereitet meist die Suchtberatungsstelle mit vor (Sozialbericht); die DRV muss die Zuständigkeit innerhalb bestimmter Fristen klären. Die Behandlung dauert je nach Substanz und Form typischerweise mehrere Wochen bis wenige Monate.</p>",
+      "schritte": [
+        {
+          "titel": "Antrag vorbereiten",
+          "text": "Die Suchtberatungsstelle erstellt einen Sozialbericht (Formular G0450/G0451/G0452); dazu ein ärztlicher Befundbericht (S0051)."
+        },
+        {
+          "titel": "Antrag stellen",
+          "text": "Formular G0100/G0110 „Antrag auf Leistungen zur Teilhabe“ bei der Deutschen Rentenversicherung (oder Krankenkasse) einreichen."
+        },
+        {
+          "titel": "Zuständigkeit und Bewilligung abwarten",
+          "text": "Der Träger muss die Zuständigkeit innerhalb von 2 Wochen klären und in der Regel binnen 3 Wochen über den Antrag entscheiden."
+        },
+        {
+          "titel": "Behandlung antreten",
+          "text": "Stationär, ganztägig ambulant oder ambulant, ggf. anschließend Adaption als Übergang in den Alltag."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "2 Wochen",
+          "was": "Frist für den zuerst angegangenen Träger, die eigene Zuständigkeit zu prüfen und den Antrag ggf. weiterzuleiten.",
+          "grundlage": "§ 14 Abs. 1 SGB IX"
+        },
+        {
+          "wert": "3 Wochen",
+          "was": "Regelfrist für die Entscheidung über den Reha-Antrag durch den zuständigen Träger.",
+          "grundlage": "§ 14 Abs. 2 SGB IX"
+        },
+        {
+          "wert": "4 Jahre",
+          "was": "Reha-Leistungen werden grundsätzlich nicht vor Ablauf von 4 Jahren nach einer vorangegangenen gleichartigen Reha erneut erbracht – außer wenn sie aus gesundheitlichen Gründen dringend erforderlich sind, etwa nach einem Rückfall.",
+          "grundlage": "§ 12 Abs. 2 SGB VI"
+        }
+      ],
+      "achtung": [
+        "Die häufig genannten Wochenangaben zur Reha-Dauer sind Richtwerte aus der Fachpraxis, keine gesetzlich fixierten Zeiträume – die tatsächliche Dauer wird individuell festgelegt.",
+        "Ältere Quellen zitieren noch „§ 26 SGB IX“ als Rechtsgrundlage der medizinischen Reha – seit der SGB-IX-Reform zum 1.1.2018 ist die richtige Norm § 42 SGB IX.",
+        "Übergangsgeld muss gesondert beantragt werden – es wird nicht automatisch mit der Reha bewilligt, und Krankengeld läuft während der Reha nicht parallel weiter."
+      ],
+      "fach_html": "<h3>Rechtsgrundlage und Zuständigkeit</h3><p>Grundlage der medizinischen Rehabilitation ist § 42 SGB IX (Nachfolgenorm zum früheren § 26 SGB IX a. F. seit 1.1.2018); §§ 9, 11, 12, 15 SGB VI konkretisieren Ziel, Voraussetzungen und Grenzen bei der Rentenversicherung. Die DRV ist zuständig, wenn die Reha der Erwerbsfähigkeit dient und die versicherungsrechtlichen Voraussetzungen nach § 11 Abs. 2 SGB VI erfüllt sind. Andernfalls ist die Krankenkasse nach § 40 SGB V zuständig.</p><h3>Antrag und Formulare</h3><p>Die DRV nutzt ein eigenes Formularpaket „Rehabilitation bei Abhängigkeitskranken“: Antrag G0100/Anlage G0110, Sozialbericht der Suchtberatungsstelle (G0450 ff.) sowie ärztlicher Befundbericht (S0051). Suchtberatungsstellen bereiten den Antrag in der Regel vor oder vermitteln dabei.</p><h3>Dauer (Richtwerte, nicht gesetzlich fixiert)</h3><p>In der Fachpraxis werden für die stationäre Entwöhnung bei Alkohol/Medikamenten häufig rund 12–15 Wochen genannt, bei illegalen Drogen tendenziell länger (grob 16–26 Wochen); diese Angaben stammen aus Sekundärquellen (Fachverband Sucht+, Sozialdienste) und wurden nicht anhand einer vollständig auswertbaren DRV-Primärquelle verifiziert. Nach der Entwöhnung folgt bei Bedarf eine Adaptionsphase, meist ebenfalls von der DRV getragen.</p><h3>Übergangsgeld</h3><p>Wer vor der Reha rentenversicherungspflichtig beschäftigt war, kann Übergangsgeld erhalten – dies muss als eigener Antrag gestellt werden und läuft nicht automatisch mit der Reha-Bewilligung mit.</p><h3>Unsicher/nicht abschließend geklärt</h3><p>Exakte Wochenzahlen zur Reha-Dauer sowie die genaue Höhe des Übergangsgeldes in Prozent des Nettoentgelts konnten nicht anhand einer vollständig auswertbaren Primärquelle verifiziert werden und sollten im Einzelfall bei der DRV erfragt werden.</p>",
+      "zustaendig": [
+        "Deutsche Rentenversicherung (bei erfüllten versicherungsrechtlichen Voraussetzungen)",
+        "Gesetzliche Krankenkasse (subsidiär)",
+        "Suchtberatungsstelle (Antragsvorbereitung)"
+      ],
+      "belege": [
+        "§ 42 SGB IX, § 14 SGB IX (gesetze-im-internet.de)",
+        "§§ 9, 11, 12, 15 SGB VI (gesetze-im-internet.de)",
+        "§ 40 SGB V (gesetze-im-internet.de)",
+        "DRV-Formularpaket „Rehabilitation bei Abhängigkeitskranken“",
+        "Fachverband Sucht+ e.V., sucht.de"
+      ],
+      "siehe_auch": [
+        "entzug-entgiftung",
+        "rueckfall-und-nachsorge",
+        "eingliederungsvereinbarung-bei-sucht"
+      ],
+      "stand": "Stand: September 2026."
+    },
+    {
+      "id": "rueckfall-und-nachsorge",
+      "kategorie": "behandlung",
+      "titel": "Rückfall und Nachsorge",
+      "icon": "🔄",
+      "teaser": "Ein Rückfall ist bei Suchterkrankungen keine Ausnahme, sondern Teil vieler Krankheitsverläufe. Was danach rechtlich und praktisch möglich ist.",
+      "schlagworte": [
+        "Rückfall",
+        "Nachsorge",
+        "Adaption",
+        "Curriculum Hannover",
+        "G0101"
+      ],
+      "kurz_html": "<p>Ein Rückfall nach Entzug oder Reha bedeutet nicht automatisch, dass alle bisherigen Bemühungen umsonst waren. Fachlich gilt Sucht als chronisch-rezidivierende (rückfallanfällige) Erkrankung; wichtig ist der Umgang danach, nicht die reine Zahl der Rückfälle.</p><p>Nachsorge – etwa ambulante Gruppenangebote der Rentenversicherung, Adaptionseinrichtungen oder Selbsthilfegruppen – soll erreichte Fortschritte stabilisieren. Bricht eine laufende Reha ab, kann unter bestimmten Voraussetzungen eine Fortsetzung beantragt werden.</p>",
+      "schritte": [
+        {
+          "titel": "Direkt nach einem Rückfall Kontakt aufnehmen",
+          "text": "Suchtberatungsstelle, behandelnde Ärztin/Arzt oder Reha-Einrichtung informieren, statt sich zurückzuziehen."
+        },
+        {
+          "titel": "Ursachen besprechen",
+          "text": "Gemeinsam klären, was zum Rückfall geführt hat und ob die bisherige Behandlung/Nachsorge angepasst werden muss."
+        },
+        {
+          "titel": "Bei Abbruch: Fortsetzung prüfen",
+          "text": "Bei Abbruch einer laufenden Reha kann innerhalb bestimmter Fristen ein Antrag auf Fortsetzung gestellt werden (Formular G0101 bei der DRV)."
+        },
+        {
+          "titel": "Nachsorge/Selbsthilfe nutzen",
+          "text": "Ambulante Reha-Nachsorge der Rentenversicherung, Adaptionseinrichtungen oder Selbsthilfegruppen zur weiteren Stabilisierung."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "4 Wochen",
+          "was": "Zeitraum, innerhalb dessen nach Abbruch einer Reha ein Antrag auf Fortsetzung der abgebrochenen Leistung gestellt werden kann (Formular G0101).",
+          "grundlage": "DRV-Formularverfahren G0101"
+        },
+        {
+          "wert": "4 Jahre",
+          "was": "Grundsätzliche Sperrfrist für eine erneute gleichartige Reha – mit Ausnahme, wenn eine erneute Reha aus gesundheitlichen Gründen dringend erforderlich ist, etwa nach einem Rückfall.",
+          "grundlage": "§ 12 Abs. 2 SGB VI"
+        },
+        {
+          "wert": "kein Automatismus",
+          "was": "Ein Rückfall führt nicht automatisch zum Abbruch oder zur Entlassung aus einer laufenden Behandlung – die Reaktion richtet sich nach der medizinisch-therapeutischen Einschätzung im Einzelfall.",
+          "grundlage": "Fachpraxis der Reha-Einrichtungen, keine feste gesetzliche Regel"
+        }
+      ],
+      "achtung": [
+        "Ein Rückfall ist kein automatischer Ausschlussgrund für weitere Hilfe – verschweigen Sie ihn gegenüber Beratungsstelle oder Behandelnden nicht aus Scham.",
+        "Die 4-Jahres-Sperrfrist für eine erneute Reha (§ 12 Abs. 2 SGB VI) hat eine Ausnahme bei dringender gesundheitlicher Erforderlichkeit – diese muss aber ärztlich begründet werden, sie gilt nicht automatisch.",
+        "Das oft genannte Nachsorgeprogramm „Curriculum Hannover“ ist ursprünglich vor allem für psychosomatische Indikationen dokumentiert; ob es 1:1 identisch auch als Sucht-Nachsorgeprogramm der DRV bezeichnet wird, ist nicht abschließend verifiziert."
+      ],
+      "fach_html": "<h3>Rückfall als Teil des Krankheitsverlaufs</h3><p>In der Fachpraxis gilt: Eine disziplinarische Reaktion allein auf einen Rückfall gilt als wenig hilfreich; entscheidend ist die medizinisch-therapeutische Einschätzung im Einzelfall. Ein Reha-Abbruch führt nicht automatisch dazu, dass keine weitere Hilfe mehr möglich ist.</p><h3>Fortsetzung nach Abbruch</h3><p>Wird eine Reha-Maßnahme abgebrochen, kann innerhalb von 4 Wochen ein Antrag auf Fortsetzung einer abgebrochenen Leistung zur medizinischen Rehabilitation (Formular G0101) bei der DRV gestellt werden. Die 4-Jahres-Sperrfrist des § 12 Abs. 2 SGB VI greift nur, wenn zuvor eine Reha tatsächlich durchgeführt wurde – mit Ausnahme bei dringender gesundheitlicher Erforderlichkeit, etwa nach einem gravierenden Rückfall.</p><h3>Nachsorgeformen</h3><p>Nach einer stationären oder ganztägig ambulanten Reha bietet die Rentenversicherung strukturierte ambulante Nachsorge an (häufig als Gruppenprogramm über mehrere Monate). Eine Adaptionseinrichtung kann als Zwischenschritt zwischen stationärer Entwöhnung und selbstständigem Alltag dienen. Der Fachverband Sucht+ e.V. und die DHS (u. a. über nachderreha.de) bieten weiterführende Informationen und verweisen zusätzlich auf Selbsthilfegruppen als dauerhafte Nachsorgeform.</p><h3>Unsicher/nicht abschließend geklärt</h3><p>Ob und in welcher exakten, suchtspezifischen Ausgestaltung das Nachsorgeprogramm „Curriculum Hannover“ der DRV bundesweit einheitlich für Sucht-Nachsorge eingesetzt wird, konnte nicht abschließend verifiziert werden.</p>",
+      "zustaendig": [
+        "Deutsche Rentenversicherung (Nachsorge, Fortsetzungsantrag G0101)",
+        "Suchtberatungsstelle",
+        "Adaptionseinrichtung bzw. Reha-Klinik"
+      ],
+      "belege": [
+        "§ 12 Abs. 2 SGB VI (gesetze-im-internet.de)",
+        "DRV, Rahmenkonzept Adaption, 27.03.2019",
+        "DRV-Formular G0101",
+        "Fachverband Sucht+ e.V. (sucht.de); DHS, nachderreha.de"
+      ],
+      "siehe_auch": [
+        "reha-entwoehnungsbehandlung",
+        "selbsthilfegruppen",
+        "suchtberatung-finden"
+      ],
+      "stand": "Stand: September 2026."
+    },
+    {
+      "id": "therapie-statt-strafe",
+      "kategorie": "recht",
+      "titel": "Therapie statt Strafe (§ 35 BtMG)",
+      "icon": "⚖️",
+      "teaser": "„Therapie statt Strafe“ nach § 35 BtMG: Wann eine Freiheitsstrafe zugunsten einer Suchtbehandlung zurückgestellt werden kann – und wann nicht.",
+      "schlagworte": [
+        "§ 35 BtMG",
+        "Therapie statt Strafe",
+        "§ 36 BtMG",
+        "Zurückstellung der Strafvollstreckung"
+      ],
+      "kurz_html": "<p>§ 35 des Betäubungsmittelgesetzes (BtMG) erlaubt es, die Vollstreckung einer Freiheitsstrafe von bis zu zwei Jahren zurückzustellen, wenn die Straftat im Zusammenhang mit einer Betäubungsmittelabhängigkeit steht und die verurteilte Person eine Behandlung beginnt oder sich dazu verpflichtet. Wichtig: Das gilt ausschließlich bei Abhängigkeit von Stoffen im Sinne des BtMG – nicht bei reiner Alkohol- oder Medikamentenabhängigkeit.</p><p>Wird die Behandlung erfolgreich durchgeführt, kann die Zeit in der Einrichtung auf die Strafe angerechnet werden (§ 36 BtMG), bis zu zwei Drittel der Strafe als erledigt gelten. Bricht die Person die Behandlung ohne unverzügliche Wiederaufnahme ab, kann die Zurückstellung widerrufen werden.</p>",
+      "schritte": [
+        {
+          "titel": "Voraussetzungen prüfen (mit anwaltlicher Beratung)",
+          "text": "Verurteilung zu höchstens 2 Jahren Freiheitsstrafe, Tat im Zusammenhang mit Betäubungsmittelabhängigkeit, Behandlungsbereitschaft."
+        },
+        {
+          "titel": "Therapieplatz und Anerkennung klären",
+          "text": "Die Behandlungseinrichtung muss staatlich anerkannt sein; Suchtberatungsstelle oder Klinik helfen bei der Suche und stellen eine Aufnahmebescheinigung aus."
+        },
+        {
+          "titel": "Antrag bei der Vollstreckungsbehörde",
+          "text": "Die Staatsanwaltschaft entscheidet mit Zustimmung des erkennenden Gerichts über die Zurückstellung."
+        },
+        {
+          "titel": "Behandlung durchführen und nachweisen",
+          "text": "Aufnahme und Fortführung der Behandlung müssen in bestimmten Abständen nachgewiesen werden; die Einrichtung muss einen Abbruch melden."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "bis 2 Jahre",
+          "was": "Höchstmaß der Freiheitsstrafe bzw. des Strafrests, deren Vollstreckung zugunsten einer Behandlung zurückgestellt werden kann (Zurückstellung selbst ebenfalls für längstens 2 Jahre).",
+          "grundlage": "§ 35 Abs. 1 BtMG"
+        },
+        {
+          "wert": "2/3",
+          "was": "Bis zu zwei Drittel der Strafe können durch die nachgewiesene Zeit in der Behandlungseinrichtung als erledigt angerechnet werden.",
+          "grundlage": "§ 36 Abs. 1 BtMG"
+        },
+        {
+          "wert": "nur BtMG-Stoffe",
+          "was": "§ 35 BtMG gilt ausschließlich bei Abhängigkeit von Betäubungsmitteln im Sinne des BtMG (Anlagen I–III) – nicht bei ausschließlicher Alkohol- oder Medikamentenabhängigkeit.",
+          "grundlage": "§ 35 BtMG"
+        }
+      ],
+      "achtung": [
+        "§ 35 BtMG gilt nicht für reine Alkohol- oder Medikamentenabhängigkeit – wer das annimmt, verschenkt möglicherweise Zeit mit dem falschen Antrag.",
+        "Die Regelung setzt eine rechtskräftige Verurteilung voraus; sie greift erst im Vollstreckungsverfahren, nicht während einer Untersuchungshaft vor Rechtskraft.",
+        "Ein Abbruch der Therapie ohne unverzügliche Wiederaufnahme kann zum Widerruf der Zurückstellung und zu einem Haftbefehl führen."
+      ],
+      "fach_html": "<h3>§ 35 BtMG im Wortlaut (zusammengefasst)</h3><p>Ist jemand wegen einer Straftat zu einer Freiheitsstrafe von nicht mehr als zwei Jahren verurteilt und beruht die Tat auf einer Betäubungsmittelabhängigkeit, kann die Vollstreckungsbehörde mit Zustimmung des Gerichts des ersten Rechtszuges die Vollstreckung der Strafe, eines Strafrests oder der Unterbringung in einer Entziehungsanstalt (§ 64 StGB) für längstens zwei Jahre zurückstellen, wenn sich die verurteilte Person in einer der Rehabilitation dienenden Behandlung befindet oder sich hierzu verpflichtet und der Behandlungsbeginn gesichert ist. Bei Verweigerung der gerichtlichen Zustimmung ist Beschwerde zum Oberlandesgericht möglich.</p><h3>Anrechnung nach § 36 BtMG</h3><p>Die nachgewiesene Zeit des Aufenthalts in einer staatlich anerkannten Behandlungseinrichtung wird auf die Strafe angerechnet, bis infolge der Anrechnung zwei Drittel der Strafe erledigt sind. Bei anderen Behandlungsformen setzt das Gericht die Reststrafe zur Bewährung aus, sobald die Voraussetzungen erfüllt sind.</p><h3>Abbruch und Widerruf</h3><p>Bricht die verurteilte Person die Behandlung ab, ohne sie unverzüglich fortzusetzen bzw. wiederaufzunehmen, kann die Zurückstellung widerrufen werden; danach kann ein Haftbefehl erlassen werden.</p><h3>Jugendstrafrecht</h3><p>Nach übereinstimmenden Fachquellen gelten §§ 35, 36 BtMG sinngemäß auch bei Jugendstrafe, mit dem Jugendrichter als Vollstreckungsleiter; zusätzlich existiert eine eigene Regelung für Jugendliche und Heranwachsende (§ 38 BtMG), deren genauer Inhalt in dieser Recherche nicht im Volltext verifiziert werden konnte.</p><h3>Unsicher/nicht abschließend geklärt</h3><p>Der genaue Inhalt von § 38 BtMG sowie die Anwendung der § 35-BtMG-Grundsätze auf Untersuchungshaft konnten nicht mit einer Primärquelle abschließend verifiziert werden.</p>",
+      "zustaendig": [
+        "Staatsanwaltschaft als Vollstreckungsbehörde",
+        "Gericht des ersten Rechtszuges (Zustimmung)",
+        "Staatlich anerkannte Therapieeinrichtung"
+      ],
+      "belege": [
+        "§ 35 BtMG, § 36 BtMG (gesetze-im-internet.de)",
+        "§ 38 BtMG (dejure.org – Fundstelle, Inhalt nicht im Volltext geprüft)",
+        "Beispiel Niedersachsen: Verfahren der Anerkennung nach § 35 BtMG"
+      ],
+      "siehe_auch": [
+        "substitutionstherapie",
+        "fuehrerschein-und-sucht",
+        "reha-entwoehnungsbehandlung"
+      ],
+      "stand": "Stand: September 2026."
+    },
+    {
+      "id": "fuehrerschein-und-sucht",
+      "kategorie": "recht",
+      "titel": "Führerschein und Sucht (MPU)",
+      "icon": "🚗",
+      "teaser": "Führerschein weg wegen Alkohol oder Drogen: wann eine MPU angeordnet wird, was Anlage 4 FeV zur Fahreignung sagt und wie die Wiedererteilung abläuft.",
+      "schlagworte": [
+        "MPU",
+        "Fahreignung",
+        "Anlage 4 FeV",
+        "§ 13 FeV",
+        "§ 14 FeV"
+      ],
+      "kurz_html": "<p>Bei Auffälligkeiten mit Alkohol oder anderen Substanzen im Straßenverkehr prüft die Fahrerlaubnisbehörde die Fahreignung nach der Fahrerlaubnis-Verordnung (FeV). Ab bestimmten Schwellenwerten – etwa 1,6 Promille bei einer Trunkenheitsfahrt – ist die Anordnung einer medizinisch-psychologischen Untersuchung (MPU) zwingend; bei Betäubungsmitteln kann bereits ein einmaliger Vorfall genügen.</p><p>Anlage 4 FeV unterscheidet zwischen Missbrauch (Nichteignung nur solange Konsum und Fahren nicht sicher getrennt werden) und Abhängigkeit (grundsätzliche Nichteignung bis zum Nachweis einer Abstinenz nach erfolgreicher Behandlung, in der Regel über etwa ein Jahr).</p>",
+      "schritte": [
+        {
+          "titel": "Anordnung abwarten oder Wiedererteilung beantragen",
+          "text": "Nach Entzug der Fahrerlaubnis wird ein Antrag bei der örtlichen Führerscheinstelle gestellt."
+        },
+        {
+          "titel": "Amtlich anerkannte Begutachtungsstelle wählen",
+          "text": "Die MPU darf nur bei einer nach § 66 FeV amtlich anerkannten Begutachtungsstelle für Fahreignung (z. B. TÜV, DEKRA) durchgeführt werden."
+        },
+        {
+          "titel": "Abstinenz- bzw. Verhaltensnachweise vorbereiten",
+          "text": "Je nach Substanz und Einzelfall verlangen Gutachterstellen Abstinenznachweise über mehrere Monate – die genaue Dauer ist fallabhängig, keine feste Gesetzesfrist."
+        },
+        {
+          "titel": "Begutachtung durchführen lassen",
+          "text": "Nach positivem Gutachten erteilt die Fahrerlaubnisbehörde die Fahrerlaubnis neu."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "1,6 ‰",
+          "was": "Ab diesem Blutalkoholwert bei einer Trunkenheitsfahrt ist die Anordnung einer MPU zwingend, auch ohne Wiederholung.",
+          "grundlage": "§ 13 FeV"
+        },
+        {
+          "wert": "8 Punkte",
+          "was": "Ab 8 Punkten im Fahreignungsregister erfolgt der zwingende Entzug der Fahrerlaubnis; bei der Wiedererteilung wird regelmäßig eine MPU verlangt.",
+          "grundlage": "§§ 4, 4a StVG"
+        },
+        {
+          "wert": "6 Monate bis 5 Jahre",
+          "was": "Sperrfrist für die Neuerteilung der Fahrerlaubnis nach gerichtlicher Entziehung (in Ausnahmefällen lebenslang); mindestens 1 Jahr, wenn in den letzten 3 Jahren bereits einmal gesperrt wurde.",
+          "grundlage": "§ 69a StGB"
+        }
+      ],
+      "achtung": [
+        "Feste Monatsangaben für Abstinenznachweise (z. B. „12 Monate“) sind Praxis-Richtwerte der Begutachtungsstellen, keine im Gesetz stehende feste Frist – der Einzelfall entscheidet.",
+        "MPU-Kosten sind seit 2018 nicht mehr staatlich reguliert; Angaben zu Gesamtkosten sind Marktwerte, keine amtlich festgelegten Gebühren – vor Beauftragung Angebote vergleichen.",
+        "Anlage 4 FeV wurde 2024 im Zuge der Cannabis-Reform angepasst – ältere Online-Quellen können insoweit veraltet sein."
+      ],
+      "fach_html": "<h3>Rechtsgrundlagen</h3><p>Maßgeblich sind §§ 11–14 FeV (Eignungszweifel, Gutachtenanordnung) und Anlage 4 FeV (Eignung/bedingte Eignung bei Erkrankungen und Mängeln). Bei Missbrauch besteht Nichteignung nur, solange der Missbrauch andauert; nach gefestigter Verhaltensänderung kann die Eignung wieder bestehen. Bei Abhängigkeit besteht grundsätzliche Nichteignung; nach erfolgreicher Entwöhnung wird Eignung in der Regel erst nach einer Abstinenzzeit von etwa einem Jahr angenommen. Bei Einnahme von Betäubungsmitteln (außer Cannabis) führt bereits jede Einnahme unabhängig von der Häufigkeit in der Regel zur Nichteignung.</p><h3>MPU-Schwellen</h3><p>§ 13 FeV macht die MPU bei Alkohol ab 1,6 ‰ zwingend, zusätzlich möglich bereits ab niedrigeren Werten bei Zusatztatsachen oder wiederholten Auffälligkeiten. § 14 FeV sieht die MPU bei Hinweisen auf Betäubungsmittelmissbrauch oder -abhängigkeit unabhängig von einem Promille-Äquivalent vor. Das Fahreignungs-Bewertungssystem (§§ 4, 4a StVG) führt bei 8 Punkten zum zwingenden Entzug der Fahrerlaubnis.</p><h3>Begutachtung und Wiedererteilung</h3><p>Begutachtungen dürfen ausschließlich amtlich anerkannte Begutachtungsstellen nach § 66 i. V. m. Anlage 14 FeV durchführen. Nach gerichtlicher Entziehung der Fahrerlaubnis (§ 69 StGB) setzt das Gericht zugleich eine Sperrfrist nach § 69a StGB fest (6 Monate bis 5 Jahre, in Ausnahmefällen lebenslang); eine vorzeitige Aufhebung ist möglich, wenn die Nichteignung nachweislich entfallen ist.</p><h3>Unsicher/fallabhängig</h3><p>Konkrete Monatszahlen für Abstinenznachweise (häufig genannt: rund 6 bis 15 Monate je nach Substanz) sowie MPU-Kosten stammen aus der Praxis der Begutachtungsstellen bzw. aus Marktangaben, nicht unmittelbar aus dem Gesetzestext.</p>",
+      "zustaendig": [
+        "Örtliche Fahrerlaubnisbehörde (Führerscheinstelle)",
+        "Amtlich anerkannte Begutachtungsstelle für Fahreignung (z. B. TÜV, DEKRA)"
+      ],
+      "belege": [
+        "§§ 11–14 FeV, Anlage 4 FeV, § 66 FeV, Anlage 14 FeV (gesetze-im-internet.de)",
+        "§§ 4, 4a StVG; § 69, § 69a StGB (gesetze-im-internet.de)",
+        "Bundesanstalt für Straßenwesen (BASt), Begutachtungsleitlinien zur Kraftfahreignung"
+      ],
+      "siehe_auch": [
+        "therapie-statt-strafe",
+        "arbeit-und-sucht",
+        "entzug-entgiftung"
+      ],
+      "stand": "Stand: September 2026. Anlage 4 FeV zuletzt im Zuge der Cannabis-Reform 2024 angepasst (BGBl. 2024 I Nr. 109)."
+    },
+    {
+      "id": "eingliederungsvereinbarung-bei-sucht",
+      "kategorie": "arbeit",
+      "titel": "Kooperationsplan bei Sucht (vormals Eingliederungsvereinbarung)",
+      "icon": "📋",
+      "teaser": "Sucht und Jobcenter: Wie eine Suchterkrankung im Kooperationsplan berücksichtigt wird – und was bei Sanktionen gilt.",
+      "schlagworte": [
+        "Kooperationsplan",
+        "Eingliederungsvereinbarung",
+        "§ 15 SGB II",
+        "Grundsicherungsgeld",
+        "§ 44a SGB II"
+      ],
+      "kurz_html": "<p>Seit dem 1. Juli 2026 heißt das frühere „Bürgergeld“ amtlich „Grundsicherungsgeld“ (13. Gesetz zur Änderung des SGB II, BGBl. 2026 I Nr. 107). Die frühere „Eingliederungsvereinbarung“ wurde davon unabhängig bereits zum 1. Januar 2023 in „Kooperationsplan“ umbenannt (§ 15 SGB II) und blieb bei der Reform 2026 unverändert benannt.</p><p>Eine Suchterkrankung wird im SGB II als mögliches gesundheitliches Vermittlungshemmnis behandelt: Sie kann die Zumutbarkeit einer Arbeit einschränken (§ 10 SGB II) und im Kooperationsplan vorrangig eine Behandlung statt sofortiger Arbeitsvermittlung vorsehen. Nimmt jemand eine vereinbarte Suchtberatung/-behandlung ohne wichtigen Grund nicht wahr, kann das grundsätzlich sanktioniert werden – ein „wichtiger Grund“ schließt eine Sanktion aber aus.</p>",
+      "schritte": [
+        {
+          "titel": "Suchterkrankung gegenüber dem Jobcenter ansprechen",
+          "text": "Am besten mit Unterstützung der Suchtberatungsstelle, die als Kooperationspartnerin des Jobcenters auftreten kann."
+        },
+        {
+          "titel": "Kooperationsplan gemeinsam gestalten",
+          "text": "Suchtberatung/-behandlung kann als Bestandteil des Kooperationsplans vereinbart werden; er wird regelmäßig überprüft und fortgeschrieben."
+        },
+        {
+          "titel": "Bei Zweifeln an der Erwerbsfähigkeit: Begutachtung",
+          "text": "Bestehen Zweifel, ob die Erwerbsfähigkeit durch die Sucht eingeschränkt ist, entscheidet das Jobcenter nach einem Gutachten des Rentenversicherungsträgers (§ 44a SGB II)."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "Kann-Leistung",
+          "was": "Suchtberatung ist eine kommunale Eingliederungsleistung, die das Jobcenter/die Kommune erbringen kann, wenn sie für die Eingliederung erforderlich ist – kein individueller Rechtsanspruch.",
+          "grundlage": "§ 16a Nr. 4 SGB II"
+        },
+        {
+          "wert": "wichtiger Grund",
+          "was": "Eine Pflichtverletzung (z. B. Nichtwahrnehmung der vereinbarten Suchtbehandlung) wird nicht sanktioniert, wenn ein wichtiger Grund vorliegt und glaubhaft gemacht wird.",
+          "grundlage": "§ 31 Abs. 1 SGB II"
+        },
+        {
+          "wert": "nicht abschließend geklärt",
+          "was": "Die genaue Höhe der Leistungsminderung bei Pflichtverletzungen wurde zum 1.7.2026 reformiert; Sekundärquellen nennen abweichende Prozentsätze – vor verbindlicher Aussage die aktuelle Fachliche Weisung der Bundesagentur für Arbeit prüfen.",
+          "grundlage": "§§ 31, 31a SGB II (Stand 01.07.2026, im Detail nicht abschließend verifiziert)"
+        }
+      ],
+      "achtung": [
+        "Eine Suchterkrankung schützt nicht automatisch vor jeder Sanktion – ohne „wichtigen Grund“ gelten grundsätzlich dieselben Regeln wie bei anderen Pflichtverletzungen.",
+        "§ 16a SGB II wird oft fälschlich als Pflichtleistung der Kommune verstanden – es handelt sich um eine Ermessensleistung, kein Individualanspruch.",
+        "Die genauen aktuellen Sanktionsprozentsätze nach der Reform 2026 sind in verschiedenen Quellen widersprüchlich dargestellt – lassen Sie sich hierzu im Einzelfall von Suchtberatungsstelle oder Rechtsberatung die aktuelle Fassung erläutern."
+      ],
+      "fach_html": "<h3>Terminologie: Bürgergeld, Grundsicherungsgeld, Kooperationsplan</h3><p>Zum 1. Juli 2026 wurde durch das 13. Gesetz zur Änderung des SGB II (BGBl. 2026 I Nr. 107 vom 22.04.2026) die Leistung „Bürgergeld“ in „Grundsicherungsgeld“ umbenannt. Der „Kooperationsplan“ nach § 15 SGB II besteht davon unabhängig bereits seit dem Bürgergeld-Gesetz vom 1.1.2023 als Nachfolger der früheren „Eingliederungsvereinbarung“ und wurde durch die Reform 2026 nicht erneut umbenannt. Weil viele Menschen weiterhin nach „Eingliederungsvereinbarung“ suchen, verwendet diese Seite beide Begriffe.</p><h3>Zumutbarkeit und Vermittlungshemmnis</h3><p>§ 10 SGB II erklärt Arbeit für unzumutbar, wenn die betroffene Person körperlich, geistig oder seelisch nicht dazu in der Lage ist; eine Suchterkrankung kann diesen Ausschlussgrund im Einzelfall erfüllen. Bei Zweifeln an der Erwerbsfähigkeit insgesamt entscheidet das Jobcenter nach § 44a SGB II auf Grundlage eines bindenden Gutachtens des zuständigen Rentenversicherungsträgers.</p><h3>Suchtberatung als kommunale Eingliederungsleistung</h3><p>§ 16a Nr. 4 SGB II nennt Suchtberatung als eine von mehreren kommunalen Eingliederungsleistungen. Nach überwiegender Kommentierung handelt es sich um eine Ermessensleistung ohne individuellen Rechtsanspruch auf eine bestimmte Kostenübernahme.</p><h3>Sanktionen</h3><p>Nimmt jemand eine im Kooperationsplan vereinbarte Suchtbehandlung/-beratung ohne wichtigen Grund nicht wahr, kann grundsätzlich eine Leistungsminderung nach §§ 31, 31a SGB II erfolgen; ein wichtiger Grund schließt die Sanktion aus. Zur exakten Höhe der Leistungsminderung nach der Reform 2026 liegen widersprüchliche Sekundärquellen vor – ältere Quellen nennen ein Stufenmodell (10 %/20 %/30 %), neuere berichten von einer Verschärfung. Diese Prozentsätze wurden in dieser Recherche nicht abschließend am Gesetzestext bzw. an der Fachlichen Weisung der Bundesagentur für Arbeit verifiziert.</p><h3>Unsicher/nicht abschließend geklärt</h3><p>Die exakte aktuelle Staffelung der Sanktionsprozentsätze nach §§ 31, 31a SGB II seit 1.7.2026 sowie eine mögliche suchtspezifische Sonderregelung zum Begutachtungsverfahren nach § 44a SGB II konnten nicht abschließend verifiziert werden.</p>",
+      "zustaendig": [
+        "Jobcenter",
+        "Suchtberatungsstelle (als Kooperationspartner)",
+        "Rentenversicherungsträger (Gutachten nach § 44a SGB II)"
+      ],
+      "belege": [
+        "§ 10, § 15, § 16a, §§ 31, 31a, § 44a SGB II (gesetze-im-internet.de)",
+        "BGBl. 2026 I Nr. 107 vom 22.04.2026 (recht.bund.de)",
+        "Haufe-Kommentierung, SGB II § 16a Nr. 4 (Suchtberatung)"
+      ],
+      "siehe_auch": [
+        "arbeit-und-sucht",
+        "suchtberatung-finden",
+        "reha-entwoehnungsbehandlung"
+      ],
+      "stand": "Stand: September 2026. Rechtsstand seit 1. Juli 2026 (13. SGB-II-Änderungsgesetz); exakte Sanktionsprozentsätze im Detail nicht abschließend verifiziert."
+    },
+    {
+      "id": "arbeit-und-sucht",
+      "kategorie": "arbeit",
+      "titel": "Arbeit und Sucht",
+      "icon": "💼",
+      "teaser": "Sucht am Arbeitsplatz: warum Alkoholabhängigkeit rechtlich als Krankheit gilt, was das Betriebliche Eingliederungsmanagement (BEM) bedeutet und welche Grenzen es für Arbeitgeber gibt.",
+      "schlagworte": [
+        "Kündigung wegen Sucht",
+        "BEM",
+        "§ 167 SGB IX",
+        "Betriebsarzt",
+        "Schweigepflicht"
+      ],
+      "kurz_html": "<p>Die Rechtsprechung des Bundesarbeitsgerichts (BAG) behandelt Alkoholabhängigkeit konsequent als Krankheit, nicht als Fehlverhalten. Eine Kündigung ist deshalb, wenn überhaupt, nur als personenbedingte Kündigung möglich, mit strengen Voraussetzungen – unter anderem einer negativen Zukunftsprognose, für die die Therapiebereitschaft der betroffenen Person eine zentrale Rolle spielt.</p><p>Unabhängig von der Diagnose gilt: Wer innerhalb von 12 Monaten länger als 6 Wochen arbeitsunfähig war, hat Anspruch auf ein Betriebliches Eingliederungsmanagement (BEM) – die Teilnahme ist freiwillig. Betriebsärztinnen und -ärzte unterliegen der Schweigepflicht auch gegenüber dem Arbeitgeber.</p>",
+      "schritte": [
+        {
+          "titel": "Erkrankung nicht verheimlichen, aber auch nicht ungefragt offenlegen müssen",
+          "text": "Bei Arbeitsunfähigkeit müssen Sie nur die Arbeitsunfähigkeit selbst und ihre voraussichtliche Dauer mitteilen, keine Diagnose."
+        },
+        {
+          "titel": "BEM-Angebot prüfen",
+          "text": "Ab 6 Wochen Arbeitsunfähigkeit innerhalb von 12 Monaten muss der Arbeitgeber ein BEM anbieten; die Teilnahme entscheiden Sie freiwillig."
+        },
+        {
+          "titel": "Betriebliche/externe Unterstützung nutzen",
+          "text": "Viele Betriebe haben Suchtbeauftragte oder Betriebsvereinbarungen zur Suchtprävention; zusätzlich hilft die externe Suchtberatungsstelle."
+        },
+        {
+          "titel": "Bei drohender Kündigung: rechtlichen Rat einholen",
+          "text": "Insbesondere die Frage der Therapiebereitschaft ist für die Erfolgsaussichten einer Kündigungsschutzklage zentral."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "6 Wochen",
+          "was": "Ab dieser Arbeitsunfähigkeitsdauer (durchgehend oder wiederholt) innerhalb von 12 Monaten besteht Anspruch auf Angebot eines Betrieblichen Eingliederungsmanagements (BEM), unabhängig von der Diagnose.",
+          "grundlage": "§ 167 Abs. 2 SGB IX"
+        },
+        {
+          "wert": "3-Stufen-Prüfung",
+          "was": "Für eine krankheitsbedingte (auch suchtbedingte) Kündigung prüft das Arbeitsgericht: negative Zukunftsprognose, erhebliche betriebliche Beeinträchtigung, Interessenabwägung.",
+          "grundlage": "Ständige BAG-Rechtsprechung, z. B. BAG, Urteil v. 20.03.2014 – 2 AZR 565/12"
+        },
+        {
+          "wert": "freiwillig",
+          "was": "Die Teilnahme am BEM ist für Beschäftigte freiwillig; eine Ablehnung darf nicht automatisch zulasten der Beschäftigten gewertet werden.",
+          "grundlage": "§ 167 Abs. 2 SGB IX"
+        }
+      ],
+      "achtung": [
+        "Ablehnung einer Entzugsbehandlung durch die betroffene Person kann bei einer späteren Kündigungsschutzklage die negative Zukunftsprognose des Arbeitgebers stützen – Therapiebereitschaft ist rechtlich relevant.",
+        "Ärztinnen und Ärzte (auch Betriebsärztinnen/-ärzte) dürfen Diagnosen nicht ohne Einwilligung an den Arbeitgeber weitergeben.",
+        "Es gibt keinen allgemeinen gesetzlichen Anspruch auf betriebliche Suchtkrankenhilfe oder Suchtbeauftragte – das ist freiwillige betriebliche Praxis, meist über Betriebsvereinbarungen geregelt."
+      ],
+      "fach_html": "<h3>Kündigung wegen Alkoholsucht: BAG-Linie</h3><p>Nach ständiger BAG-Rechtsprechung (u. a. BAG, Urteil v. 20.03.2014 – 2 AZR 565/12; BAG, Urteil v. 20.12.2012 – 2 AZR 32/11) ist Alkoholabhängigkeit eine Krankheit; eine Kündigung kommt daher nur als personenbedingte, nicht als verhaltensbedingte Kündigung in Betracht. Geprüft wird ein dreistufiges Schema: negative Prognose, erhebliche betriebliche Beeinträchtigung, Interessenabwägung. Zentral für die Prognose ist die Therapiebereitschaft zum Kündigungszeitpunkt: Lehnt die betroffene Person eine Entzugsbehandlung ab, stützt das regelmäßig die negative Prognose. Nach einer Entzugstherapie begründet in der Regel erst ein erneuter Rückfall eine neue negative Prognose.</p><h3>Betriebliches Eingliederungsmanagement (BEM)</h3><p>§ 167 Abs. 2 SGB IX verpflichtet Arbeitgeber ab dem ersten Beschäftigten bei mehr als 6 Wochen Arbeitsunfähigkeit innerhalb von 12 Monaten, ein BEM anzubieten – die Diagnose spielt für die Pflicht selbst keine Rolle. Die Teilnahme ist freiwillig; eine Ablehnung darf nicht automatisch zulasten der Beschäftigten gewertet werden, kann aber in einem späteren Kündigungsschutzprozess die Darlegungslast des Arbeitgebers zu milderen Mitteln beeinflussen.</p><h3>Betriebsarzt, Datenschutz, betriebliche Suchtprävention</h3><p>Der Betriebsarzt/die Betriebsärztin unterliegt der ärztlichen Schweigepflicht auch gegenüber dem Arbeitgeber; Befunde dürfen nur mit Einwilligung weitergegeben werden. Verdeckte oder anlasslose Alkohol-/Drogentests sind unzulässig. Betriebliche Suchtbeauftragte oder Suchtkrankenhilfe-Programme beruhen auf betrieblicher Praxis und Betriebsvereinbarungen, ergänzt durch DGUV-Empfehlungen zur Suchtprävention. Bei Krankschreibung müssen Beschäftigte nur die Arbeitsunfähigkeit und ihre voraussichtliche Dauer mitteilen, keine Diagnose.</p><h3>Unsicher/nicht abschließend geklärt</h3><p>Der genaue rechtliche Effekt einer BEM-Verweigerung auf eine spätere Kündigungsschutzklage speziell bei Sucht ist in der Kommentierung nicht einheitlich geklärt und wurde hier nicht vertieft recherchiert.</p>",
+      "zustaendig": [
+        "Arbeitgeber (BEM-Angebotspflicht)",
+        "Betriebsarzt/Betriebsärztin",
+        "Externe Suchtberatungsstelle",
+        "Arbeitsgericht (im Streitfall)"
+      ],
+      "belege": [
+        "§ 167 Abs. 2 SGB IX (gesetze-im-internet.de)",
+        "BAG, Urteil v. 20.03.2014 – 2 AZR 565/12",
+        "BAG, Urteil v. 20.12.2012 – 2 AZR 32/11",
+        "DGUV, Suchtprävention in der Arbeitswelt (publikationen.dguv.de)"
+      ],
+      "siehe_auch": [
+        "eingliederungsvereinbarung-bei-sucht",
+        "fuehrerschein-und-sucht",
+        "suchtberatung-finden"
+      ],
+      "stand": "Stand: September 2026."
+    },
+    {
+      "id": "schulden-durch-sucht",
+      "kategorie": "geld",
+      "titel": "Schulden durch Sucht",
+      "icon": "💶",
+      "teaser": "Sucht und Verschuldung hängen oft zusammen. Was Schuldnerberatung leistet, wie die Privatinsolvenz abläuft und was bei Spielschulden gilt.",
+      "schlagworte": [
+        "Schuldnerberatung",
+        "Restschuldbefreiung",
+        "§ 287 InsO",
+        "Privatinsolvenz",
+        "Spielschulden"
+      ],
+      "kurz_html": "<p>Suchterkrankung und Überschuldung stehen häufig in Wechselwirkung: Sucht kann zu Verschuldung führen, finanzielle Not kann Suchtdruck verstärken. Nach Angaben aus Schuldnerberatungsstellen ist Krankheit (einschließlich Sucht) neben Arbeitslosigkeit eine häufig genannte Hauptursache für Überschuldung – eine exakte bundesweite Statistik speziell zu suchtbedingter Verschuldung gibt es aber nicht.</p><p>Schuldnerberatung ist für Bürgergeld-/Grundsicherungsgeld-Beziehende eine kommunale Eingliederungsleistung; eine spezialisierte Schuldnerberatung nur für Suchtkranke ist gesetzlich nicht eigens vorgesehen. Wer sich privat verschuldet hat, kann über ein Insolvenzverfahren nach in der Regel drei Jahren Restschuldbefreiung erreichen.</p>",
+      "schritte": [
+        {
+          "titel": "Schuldnerberatung kontaktieren",
+          "text": "Über Caritas, Diakonie, AWO, Verbraucherzentrale oder – bei SGB-II-Bezug – über das Jobcenter (§ 16a SGB II)."
+        },
+        {
+          "titel": "Gemeinsam Überblick verschaffen",
+          "text": "Bestandsaufnahme aller Forderungen, Prüfung auf sittenwidrige oder unwirksame Forderungen (z. B. bei Spielschulden-Darlehen)."
+        },
+        {
+          "titel": "Außergerichtliche Einigung versuchen",
+          "text": "Vor einem Insolvenzverfahren steht meist der Versuch einer außergerichtlichen Schuldenregulierung."
+        },
+        {
+          "titel": "Bei Bedarf Privatinsolvenz beantragen",
+          "text": "Nach Ablauf der Abtretungsfrist (in der Regel 3 Jahre) kann Restschuldbefreiung erreicht werden."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "3 Jahre",
+          "was": "Regeldauer der Abtretungsfrist bis zur Restschuldbefreiung bei Insolvenzanträgen ab dem 1. Oktober 2020.",
+          "grundlage": "§ 287 Abs. 2, § 300 InsO"
+        },
+        {
+          "wert": "Kann-Leistung",
+          "was": "Schuldnerberatung ist als kommunale Eingliederungsleistung im SGB II vorgesehen, wenn sie für die Eingliederung in Arbeit erforderlich ist – kein voraussetzungsloser Rechtsanspruch für alle.",
+          "grundlage": "§ 16a Nr. 2 SGB II; BSG, Urteil v. 21.07.2021 – B 14 AS 18/20 R"
+        },
+        {
+          "wert": "§ 138 BGB",
+          "was": "Ein Darlehen speziell zur Finanzierung von Glücksspiel kann sittenwidrig und damit nichtig sein, wenn der Darlehensgeber aus eigenem Gewinnstreben handelt.",
+          "grundlage": "§ 138 BGB; grundlegend BGH, Urteil v. 09.02.1961 – VII ZR 183/59"
+        }
+      ],
+      "achtung": [
+        "Eine eigenständige, gesetzlich verankerte „Schuldnerberatung für Suchtkranke“ gibt es nicht – es handelt sich meist um allgemeine Schuldnerberatung mit Kooperation zur Suchthilfe.",
+        "§ 762 BGB (unvollkommene Verbindlichkeit aus Spiel und Wette) betrifft nur die Spielschuld selbst, nicht ein zur Spielfinanzierung aufgenommenes Darlehen – hier gelten andere Regeln (§ 138 BGB).",
+        "Für Insolvenzanträge vor dem 1. Oktober 2020 gilt weiterhin die alte 6-Jahres-Regel mit Verkürzungsmöglichkeit, nicht die 3-Jahres-Regel."
+      ],
+      "fach_html": "<h3>Zusammenhang Sucht und Schulden</h3><p>Schuldnerberatungsstellen und Wohlfahrtsverbände beschreiben Sucht regelmäßig als eine Ursache für Überschuldung, ohne dass eine bundesweit einheitliche, amtlich geprüfte Statistik zur genauen Häufigkeit vorliegt.</p><h3>Schuldnerberatung als Eingliederungsleistung</h3><p>§ 16a Nr. 2 SGB II nennt Schuldnerberatung als kommunale Eingliederungsleistung, wenn sie zur Eingliederung in Arbeit erforderlich ist (bestätigt zur Kostenübernahme durch BSG, Urteil v. 21.07.2021, B 14 AS 18/20 R). Außerhalb des SGB II läuft allgemeine Schuldnerberatung meist über kommunal bzw. wohlfahrtsverbandlich getragene Beratungsstellen nach Landesrecht.</p><h3>Privatinsolvenz</h3><p>Für Verfahren mit Antrag ab dem 1. Oktober 2020 beträgt die Regeldauer der Abtretungsfrist bis zur Restschuldbefreiung drei Jahre (§ 287 Abs. 2 InsO), die Restschuldbefreiung selbst erfolgt nach § 300 InsO; § 287a InsO regelt eine Redlichkeitsprüfung, §§ 290, 297 ff. InsO nennen Versagungsgründe. Für Altverfahren gilt weiterhin die frühere 6-Jahres-Regel mit Verkürzungsmöglichkeiten.</p><h3>Spielschulden</h3><p>Die Spielschuld selbst ist nach § 762 BGB eine „unvollkommene Verbindlichkeit“ (nicht einklagbar, aber nicht automatisch nichtig). Ein Darlehen, das eigens zur Finanzierung von Glücksspiel aufgenommen wurde, kann dagegen nach § 138 BGB sittenwidrig und nichtig sein, wenn der Darlehensgeber aus eigenem Gewinninteresse handelt – Leitentscheidung hierzu ist BGH, Urteil v. 09.02.1961, VII ZR 183/59; eine neuere höchstrichterliche Fortschreibung wurde in der Recherche nicht gefunden. Zu Rückforderungsansprüchen aus illegalem Online-Glücksspiel siehe „Glücksspielsucht“.</p><h3>Unsicher/nicht abschließend geklärt</h3><p>Eine belastbare, amtliche Statistik zum Anteil suchtbedingter Überschuldungsfälle sowie eine bundesweit einheitliche Kategorie „spezialisierte Schuldnerberatung für Suchtkranke“ konnten nicht gefunden werden.</p>",
+      "zustaendig": [
+        "Allgemeine Schuldnerberatungsstelle (Caritas, Diakonie, AWO, Verbraucherzentrale)",
+        "Jobcenter (Kostenübernahme nach § 16a SGB II bei Grundsicherungsgeld-Bezug)",
+        "Insolvenzgericht (Privatinsolvenzverfahren)"
+      ],
+      "belege": [
+        "§ 16a SGB II; BSG, Urteil v. 21.07.2021 – B 14 AS 18/20 R",
+        "§§ 287, 287a, 300 InsO (gesetze-im-internet.de)",
+        "§ 138, § 762 BGB; BGH, Urteil v. 09.02.1961 – VII ZR 183/59"
+      ],
+      "siehe_auch": [
+        "gluecksspielsucht",
+        "suchtberatung-finden",
+        "eingliederungsvereinbarung-bei-sucht"
+      ],
+      "stand": "Stand: September 2026."
+    },
+    {
+      "id": "familie-und-angehoerige",
+      "kategorie": "familie",
+      "titel": "Familie und Angehörige",
+      "icon": "👪",
+      "teaser": "Wenn ein Familienmitglied suchtkrank ist: Unterstützung für Angehörige, Hilfen für Kinder suchtbelasteter Eltern und die Grenzen von Kinderschutz, Sorge- und Umgangsrecht.",
+      "schlagworte": [
+        "Angehörige",
+        "Al-Anon",
+        "NACOA",
+        "Trampolin",
+        "§ 8a SGB VIII",
+        "Sorgerecht"
+      ],
+      "kurz_html": "<p>Angehörige von suchtkranken Menschen leiden oft selbst erheblich mit und werden dabei leicht übersehen. Es gibt eigene Unterstützungsangebote wie Al-Anon (für Angehörige und Freunde von Alkoholikern) und Angehörigenberatung bei Suchtberatungsstellen. Nach Schätzungen von NACOA Deutschland wächst ein erheblicher Teil der Kinder in Deutschland mit mindestens einem suchtbelasteten Elternteil auf.</p><p>Eine Suchterkrankung der Eltern bedeutet nicht automatisch eine Kindeswohlgefährdung – entscheidend ist im Einzelfall, ob und wie stark die elterliche Fürsorgefähigkeit tatsächlich beeinträchtigt ist. Bei konkreten Anhaltspunkten für eine Gefährdung ist das Jugendamt einzubeziehen.</p>",
+      "schritte": [
+        {
+          "titel": "Für sich selbst Unterstützung suchen",
+          "text": "Al-Anon-Gruppen, Angehörigenberatung bei der Suchtberatungsstelle oder Alateen für Jugendliche aus suchtbelasteten Familien."
+        },
+        {
+          "titel": "Kinder gezielt unterstützen",
+          "text": "Programme wie „Trampolin“ (für Kinder aus suchtbelasteten Familien) oder die Anlaufstelle NACOA Deutschland nutzen."
+        },
+        {
+          "titel": "Bei Sorge um das Kindeswohl: Jugendamt einbeziehen",
+          "text": "Das Jugendamt prüft im Rahmen des Schutzauftrags nach § 8a SGB VIII die konkrete Situation, nicht die Diagnose „Sucht“ allein."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "~3 Mio.",
+          "was": "Von NACOA Deutschland geschätzte Zahl der Kinder mit mindestens einem suchtbelasteten Elternteil in Deutschland (Trägerschätzung, keine amtliche Statistik).",
+          "grundlage": "NACOA Deutschland (nacoa.de)"
+        },
+        {
+          "wert": "~450",
+          "was": "Zahl der Al-Anon-Gruppen für Angehörige von Alkoholikern in Deutschland.",
+          "grundlage": "al-anon.de"
+        },
+        {
+          "wert": "Einzelfallprüfung",
+          "was": "Eingriffe in Sorge- oder Umgangsrecht wegen elterlicher Sucht setzen eine konkrete Kindeswohlgefährdung voraus, die im Einzelfall geprüft wird – Sucht allein genügt nicht.",
+          "grundlage": "§§ 1666, 1666a, 1671, 1684 BGB"
+        }
+      ],
+      "achtung": [
+        "Die NACOA-Zahlen sind eine Trägerschätzung, keine amtliche Bundesstatistik – auf dieser Seite bewusst als Schätzung gekennzeichnet.",
+        "Sucht eines Elternteils rechtfertigt für sich genommen keinen automatischen Sorgerechtsentzug oder Umgangsausschluss – das Gesetz verlangt eine konkrete Kindeswohlgefährdung und prüft mildere Mittel zuerst.",
+        "Angehörige übernehmen oft ungewollt eine „Co-Abhängigkeit“ – professionelle Angehörigenberatung kann helfen, das zu erkennen."
+      ],
+      "fach_html": "<h3>Angebote für Angehörige</h3><p>Al-Anon ist eine eigenständige, von den Anonymen Alkoholikern unabhängige Selbsthilfeorganisation ausschließlich für Angehörige und Freunde von Menschen mit Alkoholproblemen, mit rund 450 Gruppen bundesweit; Alateen richtet sich als Unterprogramm an Jugendliche aus betroffenen Familien. Ergänzend bieten die meisten allgemeinen Suchtberatungsstellen strukturierte Angehörigenberatung an.</p><h3>Kinder suchtbelasteter Eltern</h3><p>NACOA Deutschland schätzt, dass in Deutschland etwa 3 Millionen Kinder mit mindestens einem suchtbelasteten Elternteil aufwachsen, bei bundesweit nur rund 200 spezifischen Hilfeangeboten – eine Versorgungslücke. Diese Zahlen sind eine Trägerschätzung von NACOA, keine unabhängig geprüfte amtliche Statistik. Das Präventionsprogramm „Trampolin“ (UKE Hamburg und KatHO NRW) richtet sich an Kinder von 8 bis 12 Jahren aus suchtbelasteten Familien und ist in einer randomisiert-kontrollierten Studie auf Wirksamkeit geprüft worden.</p><h3>Kinderschutz, Sorge- und Umgangsrecht</h3><p>Der Schutzauftrag bei Kindeswohlgefährdung nach § 8a SGB VIII verpflichtet das Jugendamt, bei gewichtigen Anhaltspunkten das Gefährdungsrisiko einzuschätzen. Eine Suchterkrankung eines Elternteils allein ist keine Kindeswohlgefährdung im rechtlichen Sinne – entscheidend ist die tatsächliche Auswirkung auf die Erziehungs- und Fürsorgefähigkeit im Einzelfall. Eingriffe in das Sorgerecht richten sich nach §§ 1666, 1666a BGB (nur wenn mildere Mittel nicht ausreichen) bzw. § 1671 BGB. Das Umgangsrecht nach § 1684 Abs. 1 BGB kann nur eingeschränkt oder ausgeschlossen werden, wenn der Umgang selbst das Kindeswohl konkret gefährdet.</p><h3>Unsicher/nicht amtlich geprüft</h3><p>Die NACOA-Schätzung von rund 3 Millionen betroffenen Kindern beruht auf eigenen Berechnungen des Trägers, nicht auf einer unabhängig geprüften amtlichen Erhebung.</p>",
+      "zustaendig": [
+        "Suchtberatungsstelle (Angehörigenberatung)",
+        "Al-Anon/Alateen, NACOA Deutschland (Selbsthilfe/Anlaufstelle)",
+        "Jugendamt (bei Anhaltspunkten für Kindeswohlgefährdung)",
+        "Familiengericht (bei Sorge-/Umgangsrechtsfragen)"
+      ],
+      "belege": [
+        "NACOA Deutschland, „Fakten & Zahlen“ (nacoa.de)",
+        "Al-Anon Familiengruppen Deutschland (al-anon.de)",
+        "Projekt Trampolin (projekt-trampolin.de)",
+        "§ 8a SGB VIII; §§ 1666, 1666a, 1671, 1684 BGB (gesetze-im-internet.de)"
+      ],
+      "siehe_auch": [
+        "selbsthilfegruppen",
+        "suchtberatung-finden",
+        "schulden-durch-sucht"
+      ],
+      "stand": "Stand: September 2026."
+    },
+    {
+      "id": "gluecksspielsucht",
+      "kategorie": "gluecksspiel",
+      "titel": "Glücksspielsucht",
+      "icon": "🎰",
+      "teaser": "Spielersperre über OASIS, Einzahlungslimits nach dem Glücksspielstaatsvertrag – und der aktuelle Streit um die Rückforderung von Online-Casino-Verlusten.",
+      "schlagworte": [
+        "Glücksspielstaatsvertrag",
+        "OASIS",
+        "Spielersperre",
+        "GGL",
+        "Rückforderung Online-Casino"
+      ],
+      "kurz_html": "<p>Seit dem Glücksspielstaatsvertrag 2021 (GlüStV, in Kraft seit 1. Juli 2021) gelten für Online-Casino, virtuelle Automatenspiele, Online-Poker, Sportwetten sowie Spielhallen und Spielbanken bundesweit einheitliche Schutzinstrumente: das anbieterübergreifende Spielersperrsystem OASIS, ein monatliches Einzahlungslimit von grundsätzlich 1.000 Euro über alle Anbieter hinweg sowie Werbebeschränkungen.</p><p>Wer sich selbst sperren lässt (Mindestdauer 3 Monate) oder von einem Anbieter gesperrt wird (Fremdsperre, Mindestdauer 1 Jahr), darf bei keinem teilnehmenden Anbieter mehr spielen. Ob Verluste aus vor 2021 illegal angebotenem Online-Glücksspiel zurückgefordert werden können, ist rechtlich noch nicht abschließend höchstrichterlich geklärt.</p>",
+      "schritte": [
+        {
+          "titel": "Hilfe suchen",
+          "text": "BIÖG-Infotelefon Glücksspielsucht (0800 1 37 27 00, kostenfrei) oder check-dein-spiel.de für eine erste Selbsteinschätzung."
+        },
+        {
+          "titel": "Sperre veranlassen",
+          "text": "Selbstsperre über OASIS beantragen (beim Regierungspräsidium Darmstadt bzw. direkt beim Anbieter) – gilt anbieter- und spielformübergreifend."
+        },
+        {
+          "titel": "Einzahlungslimits nutzen",
+          "text": "Das gesetzliche Einzahlungslimit von 1.000 €/Monat gilt automatisch anbieterübergreifend; niedrigere individuelle Limits können zusätzlich gesetzt werden."
+        },
+        {
+          "titel": "Bei Verlusten aus Online-Glücksspiel vor 2021: rechtlich prüfen lassen",
+          "text": "Eine Rückforderung ist möglich, aber die höchstrichterliche Klärung durch den Bundesgerichtshof steht noch aus – anwaltliche Beratung einholen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "3 Monate",
+          "was": "Mindestdauer einer Selbstsperre über das Spielersperrsystem OASIS.",
+          "grundlage": "§ 8c GlüStV 2021"
+        },
+        {
+          "wert": "1 Jahr",
+          "was": "Mindestdauer einer Fremdsperre (von einem Anbieter veranlasst, z. B. bei erkennbaren Anzeichen problematischen Spielverhaltens).",
+          "grundlage": "§ 8c GlüStV 2021"
+        },
+        {
+          "wert": "1.000 €/Monat",
+          "was": "Anbieterübergreifendes Einzahlungslimit für Online-Glücksspiel; eine Anpassung ist nach Bonitätsprüfung möglich.",
+          "grundlage": "GlüStV 2021"
+        }
+      ],
+      "achtung": [
+        "OASIS wird vom Regierungspräsidium Darmstadt betrieben, nicht von der GGL (Gemeinsame Glücksspielbehörde der Länder) – diese beiden Stellen werden häufig verwechselt.",
+        "Zum Redaktionsschluss dieser Seite (16.09.2026) hatte der Bundesgerichtshof noch KEIN Sachurteil zur Rückforderung von Online-Casino-Verlusten aus der Zeit vor 2021 gesprochen; im Leitentscheidungsverfahren I ZR 216/25 war die mündliche Verhandlung erst für den 17.09.2026 terminiert. Diese Angabe kann durch die Verhandlung kurzfristig überholt sein.",
+        "Die BZgA heißt seit Februar 2025 „Bundesinstitut für Öffentliche Gesundheit“ (BIÖG) – ältere Broschüren nennen noch den alten Namen."
+      ],
+      "fach_html": "<h3>Glücksspielstaatsvertrag 2021 und OASIS</h3><p>Der GlüStV 2021 regelt unter anderem das bundesweite, anbieterübergreifende Spielersperrsystem OASIS (§ 8c GlüStV) für Spielhallen, Spielbanken, Online-Casino, virtuelle Automatenspiele, Online-Poker und Sportwetten, ein anbieterübergreifendes monatliches Einzahlungslimit von grundsätzlich 1.000 Euro sowie Spielerkonto-Pflicht und Werbebeschränkungen. OASIS wird vom Regierungspräsidium Darmstadt betrieben – diese Zuständigkeit bestand bereits vor dem GlüStV 2021 und blieb unverändert dort, nicht bei der neu geschaffenen GGL. Die Gemeinsame Glücksspielbehörde der Länder (GGL, Sitz Halle/Saale) wurde durch den GlüStV 2021 geschaffen und nahm zum 1.1.2023 den Betrieb auf; sie ist zuständig für Aufsicht und Erlaubnisse, nicht für die Sperrdatei selbst.</p><h3>Prävalenz</h3><p>Nach dem Glücksspielsurvey 2023 (ISD Hamburg/Universität Bremen, N=12.308) zeigten 6,9 % der Befragten eine riskante Glücksspielteilnahme; der Glücksspielatlas 2023 beziffert rund 1,3 Millionen Menschen mit einer glücksspielbezogenen Störung und weitere rund 3,25 Millionen mit riskantem Spielverhalten. Ein Glücksspielsurvey 2025 lag zum Recherchezeitpunkt bereits als Veröffentlichung vor, wurde inhaltlich aber nicht im Detail ausgewertet.</p><h3>Rückforderung von Online-Glücksspielverlusten – Stand 16.09.2026</h3><p>Rechtliche Grundlage vieler Klagen ist, dass Verträge mit Anbietern ohne gültige deutsche Erlaubnis vor dem 1.7.2021 nach § 134 BGB nichtig waren, sodass Verluste über § 812 BGB zurückgefordert werden können. Der EuGH hat mit Urteil vom 16.4.2026 (Rs. C-440/23) entschieden, dass das frühere deutsche Online-Casino-Verbot bis 1.7.2021 unionsrechtskonform war und Rückforderungsansprüche keinen Rechtsmissbrauch darstellen. Der Bundesgerichtshof hat zum Stand 16.09.2026 noch kein Sachurteil zu Online-Casino-Rückforderungen gesprochen; ein Verfahren (I ZR 88/23) endete durch Revisionsrücknahme ohne Urteil, ein weiteres (I ZR 90/23, Sportwetten) führte 2024 zu einer EuGH-Vorlage. Der BGH hat das Verfahren I ZR 216/25 zum Leitentscheidungsverfahren erklärt; die mündliche Verhandlung war für den 17.9.2026 terminiert. Instanzgerichte orientieren sich bis zu einer BGH-Entscheidung überwiegend an der für Spielende günstigen EuGH-Linie.</p><h3>Beratung</h3><p>Kostenfreie, rund um die Uhr erreichbare Telefonberatung Glücksspielsucht: 0800 1 37 27 00 (BIÖG, vormals BZgA); Online-Selbsttest und Beratung über check-dein-spiel.de; zusätzlich lokale Fachstellen für Glücksspielsucht bei den Suchtberatungsstellen.</p><h3>Unsicher/im Fluss</h3><p>Der Ausgang des BGH-Leitentscheidungsverfahrens I ZR 216/25 stand zum Stand dieser Seite noch aus (Verhandlung 17.9.2026); diese Seite sollte nach einer BGH-Entscheidung aktualisiert werden. Auch aktuellere Zahlen als der Glücksspielsurvey 2023 sind vor Verwendung gegenzuchecken.</p>",
+      "zustaendig": [
+        "Regierungspräsidium Darmstadt (OASIS-Spielersperre)",
+        "Gemeinsame Glücksspielbehörde der Länder (GGL, Aufsicht/Erlaubnisse)",
+        "BIÖG-Infotelefon/Suchtberatungsstelle"
+      ],
+      "belege": [
+        "GlüStV 2021, § 8c (Landesrecht, z. B. hessisches Umsetzungsportal)",
+        "Regierungspräsidium Darmstadt, Spielersperrsystem OASIS (rp-darmstadt.hessen.de)",
+        "GGL, gluecksspiel-behoerde.de",
+        "Glücksspielsurvey 2023, ISD Hamburg/Universität Bremen",
+        "EuGH, Urteil v. 16.04.2026, Rs. C-440/23",
+        "BGH, Leitentscheidungsverfahren I ZR 216/25"
+      ],
+      "siehe_auch": [
+        "schulden-durch-sucht",
+        "beratung-anlaufstellen-sucht",
+        "selbsthilfegruppen"
+      ],
+      "stand": "Stand: September 2026 (Rechtslage OASIS/GlüStV); Hinweis: BGH-Verfahren I ZR 216/25 zur Rückforderung von Online-Casino-Verlusten war zum Redaktionsschluss noch nicht entschieden (Verhandlung 17.09.2026)."
+    }
+  ]
+}

@@ -1,0 +1,1061 @@
+{
+  "kategorien": [
+    {
+      "id": "ueberblick",
+      "titel": "Überblick und Grundlagen",
+      "icon": "🧭",
+      "beschreibung": "Einstieg: Ihre Rechte rund um Schwangerschaft, Geburt und Elternzeit."
+    },
+    {
+      "id": "mutterschutz",
+      "titel": "Schwangerschaft und Mutterschutz",
+      "icon": "🤰",
+      "beschreibung": "Mitteilung, Mutterschutzfristen, Beschäftigungsverbote, Kündigungsschutz."
+    },
+    {
+      "id": "geld",
+      "titel": "Geld rund um die Geburt",
+      "icon": "💶",
+      "beschreibung": "Mutterschaftsgeld und Elterngeld."
+    },
+    {
+      "id": "elternzeit",
+      "titel": "Elternzeit",
+      "icon": "👶",
+      "beschreibung": "Anspruch, Kündigungsschutz und Teilzeit während der Elternzeit."
+    },
+    {
+      "id": "familie",
+      "titel": "Kinderbetreuung und Familienleistungen",
+      "icon": "🧒",
+      "beschreibung": "Kitaplatz, Kinderkrankengeld, Kindergeld und Kinderzuschlag."
+    },
+    {
+      "id": "rueckkehr",
+      "titel": "Rückkehr und besondere Konstellationen",
+      "icon": "🔄",
+      "beschreibung": "Rückkehr in den Beruf, Adoption und Pflegekindschaft."
+    },
+    {
+      "id": "beratung",
+      "titel": "Beratung und Anlaufstellen",
+      "icon": "📞",
+      "beschreibung": "Wer bei welchem Anliegen hilft."
+    }
+  ],
+  "seiten": [
+    {
+      "id": "ueberblick-rechte-schwangerschaft-elternzeit",
+      "kategorie": "ueberblick",
+      "titel": "Rechte rund um Schwangerschaft, Geburt und Elternzeit im Überblick",
+      "icon": "🧭",
+      "teaser": "Ein Überblick über die wichtigsten Stationen: Mutterschutz, Elterngeld, Elternzeit und Kinderbetreuung – und wer jeweils zuständig ist.",
+      "schlagworte": [
+        "Mutterschutz",
+        "Elternzeit",
+        "Elterngeld",
+        "BEEG",
+        "MuSchG",
+        "Kündigungsschutz",
+        "Familienkasse"
+      ],
+      "kurz_html": "\n<p>Schwangerschaft, Geburt und die ersten Lebensjahre eines Kindes sind rechtlich in mehreren Gesetzen geregelt, die\nzeitlich ineinandergreifen: Das <strong>Mutterschutzgesetz (MuSchG)</strong> schützt Sie als schwangere oder stillende\nFrau vor gesundheitlichen Gefahren und vor Kündigung – unabhängig davon, ob Sie oder Ihr Kind später Elternzeit nehmen.\nDas <strong>Bundeselterngeld- und Elternzeitgesetz (BEEG)</strong> regelt zwei getrennte Dinge: das <em>Elterngeld</em>\nals Einkommensersatzleistung und die <em>Elternzeit</em> als Freistellungsanspruch gegenüber dem Arbeitgeber. Beides\nkann, muss aber nicht gemeinsam genutzt werden – Sie können zum Beispiel Elternzeit nehmen, ohne Elterngeld zu\nbeziehen, oder Elterngeld beziehen und in Teilzeit weiterarbeiten.</p>\n<p>Diese Seiten richten sich in erster Linie an <strong>Arbeitnehmerinnen und Arbeitnehmer in der Privatwirtschaft und\nim öffentlichen Dienst</strong>. Für Beamtinnen und Beamte gelten beim Mutterschutz die Mutterschutzverordnungen des\nBundes bzw. der Länder und bei der Elternzeit eigene beamtenrechtliche Regelungen (z. B. Bundeselternzeitverordnung),\ndie dem BEEG inhaltlich meist ähneln, aber nicht identisch sind. Auf den einzelnen Seiten wird darauf hingewiesen, wo\ndas relevant ist.</p>\n<p>Für alleinerziehende Mütter und Väter gelten zusätzlich besondere Leistungen wie der Unterhaltsvorschuss oder der\nsteuerliche Entlastungsbetrag für Alleinerziehende, die hier nicht vertieft, sondern im eigenständigen Wegweiser\n„Alleinerziehende Mütter“ behandelt werden.</p>\n",
+      "schritte": [
+        {
+          "titel": "Schwangerschaft mitteilen",
+          "text": "Teilen Sie Ihrem Arbeitgeber die Schwangerschaft und den voraussichtlichen Geburtstermin möglichst frühzeitig mit, damit Schutzfristen und Beschäftigungsverbote greifen können."
+        },
+        {
+          "titel": "Mutterschutz durchlaufen",
+          "text": "In den Schutzfristen vor und nach der Geburt ruht grundsätzlich Ihre Arbeitspflicht; Sie erhalten Mutterschaftsgeld und einen Arbeitgeberzuschuss."
+        },
+        {
+          "titel": "Elterngeld beantragen",
+          "text": "Beantragen Sie Elterngeld bei der zuständigen Elterngeldstelle Ihres Bundeslandes – am besten schon vor der Geburt vorbereiten, da der Antrag erst danach final gestellt werden kann."
+        },
+        {
+          "titel": "Elternzeit anmelden",
+          "text": "Melden Sie die gewünschte Elternzeit schriftlich und fristgerecht bei Ihrem Arbeitgeber an, unabhängig vom Elterngeldantrag."
+        },
+        {
+          "titel": "Betreuung und Rückkehr planen",
+          "text": "Kümmern Sie sich rechtzeitig um einen Kitaplatz und klären Sie mit Ihrem Arbeitgeber, in welchem Umfang Sie nach der Elternzeit zurückkehren möchten."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "Keine gesetzliche Frist",
+          "was": "Mitteilung der Schwangerschaft an den Arbeitgeber – gesetzlich nicht verpflichtend, aber im eigenen Interesse früh sinnvoll",
+          "grundlage": "§ 15 MuSchG"
+        },
+        {
+          "wert": "7 Wochen",
+          "was": "Mindestvorlauf für die Anmeldung der Elternzeit bis zum 3. Geburtstag des Kindes",
+          "grundlage": "§ 16 Abs. 1 BEEG"
+        }
+      ],
+      "achtung": [
+        "Diese Seiten beschreiben die Rechtslage für Beschäftigte in der Privatwirtschaft und im öffentlichen Dienst (Tarifbeschäftigte). Für verbeamtete Personen gelten eigene, ähnliche, aber nicht identische Regelungen.",
+        "Mutterschutz und Elternzeit sind zwei unterschiedliche Rechtsinstitute mit unterschiedlichen Fristen und Anspruchsvoraussetzungen – verwechseln Sie sie nicht.",
+        "Für Selbstständige, Studierende und Beamtinnen/Beamte gelten in Teilbereichen (z. B. Mutterschaftsgeld) abweichende Regeln, die auf den einzelnen Themenseiten benannt sind."
+      ],
+      "fach_html": "\n<h3>Zwei getrennte Gesetze, ein gemeinsames Ziel</h3>\n<p>Das <strong>MuSchG</strong> (Mutterschutzgesetz, Neufassung 2018) schützt die Gesundheit von Mutter und Kind vor,\nwährend und nach der Schwangerschaft und sichert währenddessen den Verdienst. Es gilt für nahezu alle erwerbstätigen\nFrauen, unabhängig vom Beschäftigungsumfang, auch für Auszubildende, Schülerinnen und Studentinnen in bestimmten\nKonstellationen (§ 1 Abs. 2 MuSchG). Das <strong>BEEG</strong> (Bundeselterngeld- und Elternzeitgesetz) regelt separat\ndavon Elterngeld (§§ 1–14 BEEG) und Elternzeit (§§ 15–21 BEEG); beide Elternteile können sie unabhängig von Mutterschutz\nin Anspruch nehmen.</p>\n<h3>Zuständigkeiten</h3>\n<p>Für den Mutterschutz und dessen Einhaltung sind die Aufsichtsbehörden der Länder zuständig (unterschiedlich benannt,\nz. B. Gewerbeaufsichtsamt, Landesamt für Arbeitsschutz). Für Mutterschaftsgeld ist bei gesetzlich Versicherten die\nKrankenkasse zuständig, für Elterngeld die Elterngeldstelle des jeweiligen Bundeslandes (teils bei Landesämtern, teils\nbei kommunalen Stellen angesiedelt). Für Elternzeit ist Ihr Arbeitgeber der richtige Ansprechpartner.</p>\n<h3>Beamtinnen und Beamte</h3>\n<p>Für Beamtinnen und Beamte des Bundes gilt anstelle des MuSchG die Mutterschutzverordnung für Beamtinnen des Bundes\n(MuSchEltZV), für Landesbeamtinnen die jeweilige Landesverordnung; Elternzeit für Bundesbeamtinnen und -beamte regelt\nebenfalls die MuSchEltZV, für Landesbeamte die jeweiligen Landesgesetze. Die Grundprinzipien (Schutzfristen,\nFreistellungsanspruch) sind denen des MuSchG/BEEG nachgebildet, es gibt aber Abweichungen im Detail (z. B. bei der\nBesoldung während der Schutzfristen). Elterngeld selbst ist unabhängig vom Status Bundesrecht und steht auch\nBeamtinnen und Beamten zu.</p>\n",
+      "zustaendig": [
+        "Arbeitgeber (Mitteilung, Beschäftigungsverbote, Elternzeit-Anmeldung)",
+        "Krankenkasse (Mutterschaftsgeld bei gesetzlich Versicherten)",
+        "Elterngeldstelle des Bundeslandes (Elterngeld)",
+        "Aufsichtsbehörde des Landes (Einhaltung Mutterschutz)"
+      ],
+      "belege": [
+        "§§ 1, 15 MuSchG (gesetze-im-internet.de)",
+        "§§ 1, 15, 16 BEEG (gesetze-im-internet.de)"
+      ],
+      "siehe_auch": [
+        "mitteilung-und-mutterschutzfristen",
+        "elternzeit-anspruch-und-anmeldung",
+        "beratung-anlaufstellen"
+      ],
+      "stand": "Stand: September 2026."
+    },
+    {
+      "id": "mitteilung-und-mutterschutzfristen",
+      "kategorie": "mutterschutz",
+      "titel": "Mitteilung der Schwangerschaft und Mutterschutzfristen",
+      "icon": "📅",
+      "teaser": "Wann Sie Ihre Schwangerschaft melden sollten und wie lange die Schutzfristen vor und nach der Geburt dauern.",
+      "schlagworte": [
+        "Mutterschutzfrist",
+        "Schutzfrist",
+        "MuSchG",
+        "Mitteilungspflicht",
+        "Entbindungstermin",
+        "Frühgeburt",
+        "Mehrlingsgeburt"
+      ],
+      "kurz_html": "\n<p>Es gibt keine gesetzliche Pflicht, dem Arbeitgeber die Schwangerschaft zu einem bestimmten Zeitpunkt mitzuteilen.\nDamit Sie aber von den Schutzvorschriften profitieren können (z. B. Beschäftigungsverboten, besonderem\nKündigungsschutz), ist eine möglichst frühzeitige, formlose Mitteilung in Ihrem eigenen Interesse. Ab der Mitteilung\ngilt der besondere Kündigungsschutz.</p>\n<p>Die eigentliche <strong>Schutzfrist</strong> beginnt <strong>6 Wochen vor dem errechneten Entbindungstermin</strong>\nund endet <strong>8 Wochen nach der Geburt</strong>. In dieser Zeit dürfen Sie grundsätzlich nicht beschäftigt werden,\nes sei denn, Sie erklären sich für die Zeit vor der Geburt ausdrücklich bereit weiterzuarbeiten (das können Sie\njederzeit widerrufen). Nach der Geburt ist eine Freiwilligkeitserklärung ausgeschlossen – die Schutzfrist danach ist\nzwingend.</p>\n",
+      "schritte": [
+        {
+          "titel": "Schwangerschaft mitteilen",
+          "text": "Informieren Sie Ihren Arbeitgeber formlos, am besten schriftlich mit Angabe des errechneten Entbindungstermins (z. B. per Mutterpass-Kopie oder ärztlicher Bescheinigung)."
+        },
+        {
+          "titel": "Entbindungstermin bestätigen lassen",
+          "text": "Lassen Sie sich den errechneten Termin ärztlich bescheinigen – er ist Ausgangspunkt für die Berechnung der 6-Wochen-Frist vor der Geburt."
+        },
+        {
+          "titel": "Entscheidung zur Vorfrist treffen",
+          "text": "Entscheiden Sie, ob Sie in den letzten 6 Wochen vor der Geburt weiterarbeiten möchten (freiwillig, jederzeit widerruflich) oder die Schutzfrist von Anfang an nutzen."
+        },
+        {
+          "titel": "Geburt melden",
+          "text": "Melden Sie dem Arbeitgeber und der Krankenkasse den tatsächlichen Geburtstermin – er verschiebt ggf. die Nachfrist und ist Voraussetzung für die Berechnung des Mutterschaftsgelds."
+        },
+        {
+          "titel": "Verlängerung prüfen",
+          "text": "Prüfen Sie bei Frühgeburt, Mehrlingsgeburt oder ärztlich festgestellter Behinderung des Kindes, ob die verlängerte Nachfrist von 12 Wochen gilt."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "6 Wochen",
+          "was": "Schutzfrist vor der Geburt (freiwillige Weiterarbeit möglich und jederzeit widerruflich)",
+          "grundlage": "§ 3 Abs. 1 MuSchG"
+        },
+        {
+          "wert": "8 Wochen",
+          "was": "Schutzfrist nach der Geburt im Regelfall – zwingend, keine Weiterarbeit möglich",
+          "grundlage": "§ 3 Abs. 2 MuSchG"
+        },
+        {
+          "wert": "12 Wochen",
+          "was": "Verlängerte Schutzfrist nach der Geburt bei Frühgeburten, Mehrlingsgeburten und wenn vor Ende der Achtwochenfrist ärztlich eine Behinderung des Kindes festgestellt wird und die Mutter dies beantragt",
+          "grundlage": "§ 3 Abs. 2 Satz 2, Abs. 3 MuSchG"
+        }
+      ],
+      "achtung": [
+        "Bei vorzeitiger Entbindung verlängert sich die Nachfrist um die Anzahl der Tage, die vor der Geburt nicht in Anspruch genommen werden konnten – das ist etwas anderes als die 12-Wochen-Regel für Frühgeburten im engeren Sinn (§ 3 Abs. 3 MuSchG).",
+        "Als „Frühgeburt“ im Sinne des Gesetzes gilt medizinisch in der Regel eine Geburt vor der vollendeten 37. Schwangerschaftswoche bzw. mit einem Geburtsgewicht unter 2.500 g – die genaue ärztliche Einordnung im Einzelfall entscheidet, ob die 12-Wochen-Frist greift; lassen Sie sich das ärztlich bestätigen.",
+        "Die Verlängerung auf 12 Wochen bei Behinderung des Kindes setzt einen ausdrücklichen Antrag der Mutter voraus und muss vor Ablauf der regulären 8-Wochen-Frist ärztlich festgestellt werden – sie greift nicht automatisch.",
+        "Seit dem 1. Juni 2025 gibt es nach § 3 Abs. 5 MuSchG einen eigenen, gestaffelten Schutz nach einer Fehlgeburt ab der 13. Schwangerschaftswoche – die Länge staffelt sich nach der erreichten Schwangerschaftswoche. Die genaue Wochenstaffelung wurde hier bewusst nicht im Detail beziffert; prüfen Sie den aktuellen Gesetzestext (§ 3 Abs. 5 MuSchG) oder fragen Sie bei einer Beratungsstelle nach, wenn dieser Fall auf Sie zutrifft."
+      ],
+      "fach_html": "\n<h3>Rechtsgrundlage und Systematik</h3>\n<p>§ 3 MuSchG unterscheidet zwischen der Schutzfrist vor der Entbindung (Abs. 1) und nach der Entbindung (Abs. 2 und 3).\nVor der Geburt beträgt die Frist sechs Wochen, wobei die Frau nach § 3 Abs. 1 Satz 2 MuSchG ausdrücklich erklären kann,\nweiterarbeiten zu wollen; diese Erklärung kann sie jederzeit mit Wirkung für die Zukunft widerrufen. Nach der Geburt\nbeträgt die Frist grundsätzlich acht Wochen, bei Mehrlingsgeburten und in den in § 3 Abs. 2 Satz 2 MuSchG genannten\nFällen (u. a. Frühgeburt, sowie wenn vor Ablauf der Achtwochenfrist ärztlich eine Behinderung des Kindes festgestellt\nwird und die Mutter dies beantragt) verlängert sich die Nachfrist auf zwölf Wochen.</p>\n<h3>Berechnung bei Terminabweichung</h3>\n<p>Kommt das Kind später als errechnet, verkürzt sich die Vorfrist entsprechend nicht – die Nachfrist bleibt in vollem\nUmfang bestehen. Kommt das Kind früher, verlängert sich die Nachfrist um die Zahl der Tage, die von der Vorfrist wegen\nder vorzeitigen Geburt nicht mehr in Anspruch genommen werden konnten (§ 3 Abs. 3 MuSchG) – zusätzlich zur etwaigen\nVerlängerung wegen Frühgeburt selbst.</p>\n<h3>Mitteilungspflicht</h3>\n<p>§ 15 MuSchG sieht vor, dass die Frau ihrem Arbeitgeber die Schwangerschaft und den voraussichtlichen Entbindungstermin\n„mitteilen soll“ – es handelt sich also um eine Soll-Vorschrift ohne Sanktion bei Unterlassen, aber der besondere\nKündigungsschutz nach § 17 MuSchG setzt voraus, dass dem Arbeitgeber die Schwangerschaft zum Zeitpunkt der Kündigung\nbekannt war oder ihm binnen zwei Wochen nach Zugang der Kündigung mitgeteilt wird.</p>\n<h3>Neu seit Juni 2025: Schutz nach Fehlgeburt</h3>\n<p>Mit Wirkung zum 1. Juni 2025 wurde § 3 MuSchG um einen Absatz 5 ergänzt, der Frauen nach einer Fehlgeburt ab der\n13. Schwangerschaftswoche einen eigenen, nach erreichter Schwangerschaftswoche gestaffelten Schutz nach dem Verlust\neinräumt (angelehnt an die Systematik der Nachfrist bei Lebendgeburt, aber eigenständig geregelt). Da sich die genaue\nWochenstaffelung und etwaige Widerrufs- bzw. Wahlmöglichkeiten zwischen mehreren Quellen unterscheiden können und diese\nRegelung noch sehr neu ist, wird sie hier bewusst nicht im Detail beziffert – lesen Sie den aktuellen Gesetzestext auf\ngesetze-im-internet.de oder wenden Sie sich an eine Schwangerschaftsberatungsstelle.</p>\n",
+      "zustaendig": [
+        "Arbeitgeber",
+        "Behandelnde Ärztin oder Arzt / Hebamme (Bescheinigung des Termins)",
+        "Aufsichtsbehörde des Landes bei Streitfragen"
+      ],
+      "belege": [
+        "§ 3 MuSchG (gesetze-im-internet.de)",
+        "§ 15 MuSchG (gesetze-im-internet.de)",
+        "§ 3 Abs. 5 MuSchG n. F. seit 1.6.2025 (gesetze-im-internet.de)"
+      ],
+      "siehe_auch": [
+        "beschaeftigungsverbote-schwangerschaft",
+        "kuendigungsschutz-mutterschutz",
+        "mutterschaftsgeld"
+      ],
+      "stand": "Stand: September 2026."
+    },
+    {
+      "id": "beschaeftigungsverbote-schwangerschaft",
+      "kategorie": "mutterschutz",
+      "titel": "Beschäftigungsverbote in der Schwangerschaft",
+      "icon": "🚫",
+      "teaser": "Wann Sie in der Schwangerschaft gar nicht oder nur eingeschränkt arbeiten dürfen – und wer das feststellt.",
+      "schlagworte": [
+        "Beschäftigungsverbot",
+        "Gefährdungsbeurteilung",
+        "Mutterschutzlohn",
+        "ärztliches Beschäftigungsverbot",
+        "MuSchG"
+      ],
+      "kurz_html": "\n<p>Ein Beschäftigungsverbot bedeutet, dass Sie während der Schwangerschaft (oder Stillzeit) bestimmte Tätigkeiten\nnicht oder nur eingeschränkt ausüben dürfen, weil sie Sie oder Ihr Kind gefährden könnten. Es gibt zwei Arten: das\n<strong>generelle (betriebliche) Beschäftigungsverbot</strong>, das sich unmittelbar aus dem Gesetz ergibt (z. B. für\nbestimmte Gefahrstoffe, Schwerarbeit, Nachtarbeit, Mehrarbeit), und das <strong>individuelle ärztliche\nBeschäftigungsverbot</strong>, das eine Ärztin oder ein Arzt ausstellt, wenn nach ärztlichem Urteil bei\nWeiterarbeit Leben oder Gesundheit von Mutter oder Kind gefährdet wären. In beiden Fällen erhalten Sie weiter Ihr\nGehalt in Form des sogenannten Mutterschutzlohns.</p>\n",
+      "schritte": [
+        {
+          "titel": "Gefährdungsbeurteilung einfordern",
+          "text": "Ihr Arbeitgeber muss unmittelbar nach Mitteilung der Schwangerschaft eine arbeitsplatzbezogene Gefährdungsbeurteilung durchführen bzw. anpassen (§ 10 MuSchG)."
+        },
+        {
+          "titel": "Arbeitsplatz anpassen lassen",
+          "text": "Prüfen Sie gemeinsam mit dem Arbeitgeber, ob Umgestaltung der Arbeitsbedingungen oder ein Arbeitsplatzwechsel eine Weiterbeschäftigung ermöglichen (Vorrang vor einem generellen Verbot)."
+        },
+        {
+          "titel": "Ärztliches Attest einholen",
+          "text": "Wenn gesundheitliche Beschwerden bestehen, die über die üblichen Schwangerschaftsbeschwerden hinausgehen, lassen Sie sich ein individuelles Beschäftigungsverbot ärztlich bescheinigen."
+        },
+        {
+          "titel": "Attest einreichen",
+          "text": "Reichen Sie das Attest bei Ihrem Arbeitgeber ein; er darf Sie ab diesem Zeitpunkt in den bescheinigten Grenzen nicht mehr beschäftigen."
+        },
+        {
+          "titel": "Mutterschutzlohn prüfen",
+          "text": "Kontrollieren Sie, ob Ihr Arbeitgeber während des Beschäftigungsverbots den Mutterschutzlohn in Höhe Ihres bisherigen Durchschnittsverdienstes zahlt (er erhält dafür die Ausgaben über die U2-Umlage der Krankenkasse erstattet)."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "Keine gesetzliche Frist",
+          "was": "Ein ärztliches Beschäftigungsverbot kann jederzeit während der Schwangerschaft ausgestellt werden, sobald die medizinische Voraussetzung vorliegt",
+          "grundlage": "§ 16 MuSchG"
+        }
+      ],
+      "achtung": [
+        "Ein generelles Beschäftigungsverbot greift nur, soweit eine Umgestaltung der Arbeitsbedingungen oder ein zumutbarer anderer Arbeitsplatz nicht möglich ist – der Arbeitgeber muss diese milderen Mittel zuerst prüfen (§ 9, § 13 MuSchG).",
+        "Ein ärztliches Beschäftigungsverbot ist keine Krankschreibung (Arbeitsunfähigkeit) – die Bezahlung erfolgt nicht über Krankengeld, sondern in voller Höhe als Mutterschutzlohn durch den Arbeitgeber, der sie über das U2-Umlageverfahren erstattet bekommt.",
+        "Auch Mehrarbeit, Nachtarbeit (in der Regel 20–6 Uhr) und Sonn- und Feiertagsarbeit sind für Schwangere grundsätzlich verboten, mit engen gesetzlichen Ausnahmen und nur bei ausdrücklicher Einwilligung."
+      ],
+      "fach_html": "\n<h3>Systematik der §§ 9–16 MuSchG</h3>\n<p>Das MuSchG unterscheidet den allgemeinen Schutzgrundsatz (§ 9: unverantwortbare Gefährdung ist auszuschließen),\nkonkrete Verbote und Grenzen für bestimmte Tätigkeiten und Arbeitsbedingungen (§§ 11 f. für schwangere, §§ 12 f. für\nstillende Frauen, u. a. zu Heben und Tragen von Lasten, Gefahrstoffen, Akkordarbeit, Nacht- und Mehrarbeit) und das\nindividuelle ärztliche Beschäftigungsverbot (§ 16 MuSchG), das auf einer medizinischen Einzelfallprüfung beruht und\nunabhängig von den generellen Verboten ausgesprochen werden kann.</p>\n<h3>Mutterschutzlohn</h3>\n<p>Nach § 18 MuSchG erhält die Frau bei einem Beschäftigungsverbot (generell oder ärztlich) den sogenannten\nMutterschutzlohn in Höhe des Durchschnittsverdienstes der letzten drei abgerechneten Kalendermonate vor Beginn des\nVerbots. Der Arbeitgeber trägt diese Kosten zunächst vor, erhält sie aber über das U2-Umlageverfahren (§ 1 AAG) in\nder Regel vollständig von der Krankenkasse erstattet – das Beschäftigungsverbot soll damit weder für die Frau noch\nwirtschaftlich für kleinere Betriebe zum Nachteil werden.</p>\n<h3>Verhältnis zur Arbeitsunfähigkeit</h3>\n<p>Ein Beschäftigungsverbot ist rechtlich von einer Krankschreibung zu unterscheiden: Es stellt keine Erkrankung fest,\nsondern eine abstrakte oder konkrete Gefährdung durch die Arbeit selbst. Beide Institute können nacheinander oder\nnebeneinander auftreten (z. B. Krankschreibung wegen einer eigenständigen Erkrankung, die nichts mit der\nSchwangerschaft zu tun hat).</p>\n",
+      "zustaendig": [
+        "Arbeitgeber (Gefährdungsbeurteilung, Umsetzung)",
+        "Behandelnde Ärztin oder Arzt (individuelles Beschäftigungsverbot)",
+        "Aufsichtsbehörde des Landes (Kontrolle)"
+      ],
+      "belege": [
+        "§§ 9–13, 16, 18 MuSchG (gesetze-im-internet.de)",
+        "§ 1 AAG (gesetze-im-internet.de)"
+      ],
+      "siehe_auch": [
+        "mitteilung-und-mutterschutzfristen",
+        "kuendigungsschutz-mutterschutz",
+        "mutterschaftsgeld"
+      ],
+      "stand": "Stand: September 2026."
+    },
+    {
+      "id": "kuendigungsschutz-mutterschutz",
+      "kategorie": "mutterschutz",
+      "titel": "Kündigungsschutz in Schwangerschaft und Mutterschutz",
+      "icon": "🛡️",
+      "teaser": "Von der Schwangerschaft bis vier Monate nach der Geburt gilt ein besonderer Kündigungsschutz – mit engen Ausnahmen.",
+      "schlagworte": [
+        "Kündigungsschutz",
+        "§ 17 MuSchG",
+        "Sonderkündigungsschutz",
+        "Zustimmung Aufsichtsbehörde"
+      ],
+      "kurz_html": "\n<p>Während der Schwangerschaft und bis zum Ablauf von <strong>vier Monaten nach der Entbindung</strong> darf Ihnen\ngrundsätzlich nicht gekündigt werden. Dieser besondere Kündigungsschutz gilt unabhängig von der Betriebsgröße und der\nDauer Ihrer Betriebszugehörigkeit – anders als der allgemeine Kündigungsschutz nach dem Kündigungsschutzgesetz.\nVoraussetzung ist, dass dem Arbeitgeber die Schwangerschaft zum Zeitpunkt der Kündigung bekannt war oder innerhalb von\nzwei Wochen nach Zugang der Kündigung mitgeteilt wird.</p>\n",
+      "schritte": [
+        {
+          "titel": "Bei Kündigung sofort reagieren",
+          "text": "Erhalten Sie trotz Schwangerschaft eine Kündigung, teilen Sie dem Arbeitgeber die Schwangerschaft unverzüglich mit, falls er sie noch nicht kannte – die Zwei-Wochen-Frist ist entscheidend."
+        },
+        {
+          "titel": "Kündigungsschutzklage prüfen",
+          "text": "Erheben Sie vorsorglich innerhalb von drei Wochen nach Zugang der Kündigung Kündigungsschutzklage beim Arbeitsgericht, auch wenn Sie sich auf den Mutterschutz berufen."
+        },
+        {
+          "titel": "Zustimmung der Behörde prüfen lassen",
+          "text": "Fragen Sie nach, ob die Aufsichtsbehörde des Landes einer ausnahmsweisen Kündigung vorab zugestimmt hat – ohne diese Zustimmung ist eine Kündigung in der Schutzzeit unwirksam."
+        },
+        {
+          "titel": "Beratung einholen",
+          "text": "Wenden Sie sich bei Unsicherheit umgehend an eine Schwangerschaftsberatungsstelle, den Betriebs-/Personalrat, eine Gewerkschaft oder eine Anwältin bzw. einen Anwalt für Arbeitsrecht."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "4 Monate",
+          "was": "Kündigungsschutz nach der Entbindung, gerechnet ab dem tatsächlichen Geburtstermin",
+          "grundlage": "§ 17 Abs. 1 Nr. 2 MuSchG"
+        },
+        {
+          "wert": "2 Wochen",
+          "was": "Frist zur nachträglichen Mitteilung der Schwangerschaft nach Zugang einer Kündigung, damit der Schutz rückwirkend greift",
+          "grundlage": "§ 17 Abs. 1 Satz 1 MuSchG"
+        },
+        {
+          "wert": "3 Wochen",
+          "was": "Allgemeine Frist zur Erhebung einer Kündigungsschutzklage beim Arbeitsgericht ab Zugang der Kündigung",
+          "grundlage": "§ 4 KSchG"
+        }
+      ],
+      "achtung": [
+        "Der Kündigungsschutz schützt vor Kündigung durch den Arbeitgeber – er hindert Sie nicht daran, selbst zu kündigen oder einen Aufhebungsvertrag abzuschließen (das sollte gut überlegt sein, da es Ansprüche wie Elterngeld nicht automatisch berührt, aber z. B. beim Arbeitslosengeld I relevant werden kann).",
+        "In sehr engen Ausnahmefällen (z. B. Betriebsstilllegung) kann die zuständige Landesbehörde einer Kündigung ausnahmsweise vorab zustimmen – das ist die Ausnahme, nicht die Regel, und ohne diese behördliche Zustimmung ist eine Kündigung in der Schutzzeit unwirksam.",
+        "Der Sonderkündigungsschutz endet unabhängig vom Ende der 8- bzw. 12-wöchigen Mutterschutzfrist erst nach vollen vier Monaten nach der Geburt – diese beiden Fristen sind nicht identisch und sollten nicht verwechselt werden."
+      ],
+      "fach_html": "\n<h3>Reichweite des § 17 MuSchG</h3>\n<p>§ 17 Abs. 1 MuSchG untersagt die Kündigung während der Schwangerschaft und bis zum Ablauf von vier Monaten nach der\nEntbindung, wenn dem Arbeitgeber die Schwangerschaft oder Entbindung zum Zeitpunkt der Kündigung bekannt war oder\ninnerhalb von zwei Wochen nach Zugang der Kündigung mitgeteilt wird; eine Überschreitung dieser Frist ist unschädlich,\nwenn sie unverschuldet war und die Mitteilung unverzüglich nachgeholt wird. Der Schutz gilt unabhängig von\nBetriebsgröße, Wartezeit oder Befristung des Arbeitsverhältnisses (soweit es nicht ohnehin regulär durch Zeitablauf\nendet – der Mutterschutz verlängert befristete Verträge nicht automatisch).</p>\n<h3>Zustimmungserfordernis</h3>\n<p>Nach § 17 Abs. 2 MuSchG kann eine Kündigung in besonderen Fällen (etwa bei vollständiger Betriebsstilllegung oder\nschwerwiegenden Verstößen) ausnahmsweise für zulässig erklärt werden; das setzt eine vorherige Zustimmung der nach\nLandesrecht zuständigen Aufsichtsbehörde voraus, die vor ihrer Entscheidung die Frau anhört. Ohne diese Zustimmung ist\neine ausgesprochene Kündigung nach § 134 BGB nichtig.</p>\n<h3>Verhältnis zum allgemeinen Kündigungsschutz</h3>\n<p>Der besondere Kündigungsschutz nach dem MuSchG tritt neben den allgemeinen Kündigungsschutz nach dem KSchG. Da die\nKlagefrist von drei Wochen nach § 4 KSchG unabhängig vom Mutterschutzgrund läuft, empfiehlt sich vorsorglich immer die\nfristgerechte Erhebung einer Kündigungsschutzklage, auch wenn die Unwirksamkeit eigentlich schon aus § 17 MuSchG\nfolgt.</p>\n",
+      "zustaendig": [
+        "Arbeitsgericht (Kündigungsschutzklage)",
+        "Aufsichtsbehörde des Landes (Zustimmung zu Ausnahmefällen)"
+      ],
+      "belege": [
+        "§ 17 MuSchG (gesetze-im-internet.de)",
+        "§ 4 KSchG (gesetze-im-internet.de)"
+      ],
+      "siehe_auch": [
+        "mitteilung-und-mutterschutzfristen",
+        "kuendigungsschutz-elternzeit",
+        "beratung-anlaufstellen"
+      ],
+      "stand": "Stand: September 2026."
+    },
+    {
+      "id": "mutterschaftsgeld",
+      "kategorie": "geld",
+      "titel": "Mutterschaftsgeld",
+      "icon": "💶",
+      "teaser": "Während der Mutterschutzfristen ersetzt das Mutterschaftsgeld zusammen mit dem Arbeitgeberzuschuss Ihr bisheriges Nettoeinkommen.",
+      "schlagworte": [
+        "Mutterschaftsgeld",
+        "Arbeitgeberzuschuss",
+        "Krankenkasse",
+        "Bundesamt für Soziale Sicherung"
+      ],
+      "kurz_html": "\n<p>Während der Schutzfristen vor und nach der Geburt erhalten gesetzlich krankenversicherte Arbeitnehmerinnen\n<strong>Mutterschaftsgeld</strong> von ihrer Krankenkasse sowie einen <strong>Arbeitgeberzuschuss</strong>, der die\nDifferenz zu Ihrem bisherigen durchschnittlichen Nettoverdienst ausgleicht. Zusammen sollen beide Leistungen dafür\nsorgen, dass Sie in der Schutzzeit finanziell nicht schlechter dastehen als vorher. Privat krankenversicherte und\nnicht erwerbstätige Frauen haben abweichende, meist deutlich geringere Ansprüche gegenüber dem Bundesamt für Soziale\nSicherung – prüfen Sie Ihren Einzelfall dort oder bei einer Beratungsstelle.</p>\n",
+      "schritte": [
+        {
+          "titel": "Bescheinigung besorgen",
+          "text": "Lassen Sie sich von Ihrer Ärztin, Ihrem Arzt oder Ihrer Hebamme eine Bescheinigung über den errechneten Entbindungstermin ausstellen."
+        },
+        {
+          "titel": "Antrag bei der Krankenkasse stellen",
+          "text": "Reichen Sie die Bescheinigung frühestens 7 Wochen vor dem errechneten Termin bei Ihrer gesetzlichen Krankenkasse ein, um Mutterschaftsgeld zu beantragen."
+        },
+        {
+          "titel": "Verdienstbescheinigung vom Arbeitgeber einholen",
+          "text": "Ihr Arbeitgeber muss der Krankenkasse Ihren durchschnittlichen Nettoverdienst der letzten drei abgerechneten Kalendermonate (bzw. 13 Wochen bei wöchentlicher Abrechnung) bescheinigen."
+        },
+        {
+          "titel": "Arbeitgeberzuschuss einfordern",
+          "text": "Prüfen Sie, dass Ihr Arbeitgeber zusätzlich zum Mutterschaftsgeld der Krankenkasse den Zuschuss zur Differenz auf Ihr bisheriges Nettogehalt zahlt."
+        },
+        {
+          "titel": "Bei privater/keiner Versicherung gesondert beantragen",
+          "text": "Sind Sie privat krankenversichert, familienversichert oder nicht erwerbstätig, stellen Sie den abweichenden Antrag beim Bundesamt für Soziale Sicherung bzw. informieren sich dort über Ihren konkreten Anspruch."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "7 Wochen vorher",
+          "was": "Frühester Zeitpunkt für die Antragstellung bei der Krankenkasse",
+          "grundlage": "Praxis der Krankenkassen zu § 19 MuSchG"
+        },
+        {
+          "wert": "Dauer der Schutzfrist",
+          "was": "Mutterschaftsgeld wird für die gesamte Dauer der Schutzfristen vor und nach der Geburt gezahlt",
+          "grundlage": "§ 19 MuSchG"
+        }
+      ],
+      "achtung": [
+        "Die genaue Höhe des von der Krankenkasse gezahlten Mutterschaftsgeldes (Tagessatz mit gesetzlicher Obergrenze) und die Höhe einer eventuellen einmaligen Leistung für privat versicherte/nicht erwerbstätige Frauen ändern sich gelegentlich; verlässliche, aktuelle Beträge erhalten Sie direkt bei Ihrer Krankenkasse bzw. beim Bundesamt für Soziale Sicherung – hierauf wird bewusst verzichtet, um keine veraltete Zahl zu verbreiten.",
+        "Der Arbeitgeberzuschuss ist eine eigenständige Pflicht des Arbeitgebers und unabhängig von der Kassenleistung zu beantragen bzw. einzufordern – er wird nicht automatisch von der Krankenkasse mitgezahlt.",
+        "Selbstständige Frauen haben grundsätzlich keinen Anspruch auf Mutterschaftsgeld nach dem MuSchG, können aber bei freiwilliger gesetzlicher Versicherung mit Krankengeldanspruch unter bestimmten Voraussetzungen vergleichbare Leistungen von ihrer Krankenkasse erhalten – das ist im Einzelfall zu klären."
+      ],
+      "fach_html": "\n<h3>Anspruchsgrundlage und Berechnung</h3>\n<p>§ 19 MuSchG regelt den Anspruch gesetzlich versicherter Arbeitnehmerinnen mit Anspruch auf Krankengeld gegen ihre\nKrankenkasse auf Mutterschaftsgeld für die Dauer der Schutzfristen. Die Höhe bemisst sich nach dem durchschnittlichen\nkalendertäglichen Nettoarbeitsentgelt der letzten drei abgerechneten Kalendermonate vor Beginn der Schutzfrist (bei\nwöchentlicher Abrechnung: der letzten 13 Wochen), begrenzt durch eine gesetzliche Tagesobergrenze. Der Arbeitgeber\nzahlt nach § 20 MuSchG die Differenz zwischen diesem Betrag und dem von der Krankenkasse gezahlten Mutterschaftsgeld\nals Zuschuss.</p>\n<h3>Abweichende Konstellationen</h3>\n<p>Frauen, die nicht gesetzlich krankenversichert mit Krankengeldanspruch sind (z. B. privat versichert, freiwillig\nversichert ohne Krankengeldanspruch, familienversichert oder geringfügig beschäftigt ohne Mitgliedschaft), erhalten\nstattdessen auf Antrag eine Leistung nach § 24i SGB V bzw. eine einmalige Zahlung vom Bundesamt für Soziale Sicherung\n(§ 19 Abs. 2, 3 MuSchG); die konkreten Obergrenzen dieser Leistungen sind deutlich niedriger als beim\nkassenbasierten Mutterschaftsgeld und sollten direkt bei der zuständigen Stelle erfragt werden.</p>\n<h3>Verhältnis zum Elterngeld</h3>\n<p>Mutterschaftsgeld und Arbeitgeberzuschuss werden auf das Elterngeld für die ersten Lebensmonate angerechnet (§ 3\nBEEG), da beide Leistungen denselben Zeitraum abdecken können. In der Praxis erhalten Mütter für die Monate der\nMutterschutzfrist meist kein zusätzliches Elterngeld, weil die Anrechnung diese Monate „aufzehrt“ – die betreffenden\nMonate zählen aber weiterhin als Bezugsmonate.</p>\n",
+      "zustaendig": [
+        "Krankenkasse (gesetzlich Versicherte)",
+        "Arbeitgeber (Zuschuss)",
+        "Bundesamt für Soziale Sicherung (Sonderfälle)"
+      ],
+      "belege": [
+        "§§ 19, 20 MuSchG (gesetze-im-internet.de)",
+        "§ 24i SGB V (gesetze-im-internet.de)",
+        "§ 3 BEEG (gesetze-im-internet.de)"
+      ],
+      "siehe_auch": [
+        "mitteilung-und-mutterschutzfristen",
+        "elterngeld",
+        "beratung-anlaufstellen"
+      ],
+      "stand": "Stand: September 2026."
+    },
+    {
+      "id": "elterngeld",
+      "kategorie": "geld",
+      "titel": "Elterngeld: Basiselterngeld, ElterngeldPlus und Partnerschaftsbonus",
+      "icon": "💰",
+      "teaser": "Elterngeld ersetzt einen Teil des wegfallenden Einkommens nach der Geburt – in drei kombinierbaren Varianten.",
+      "schlagworte": [
+        "Elterngeld",
+        "ElterngeldPlus",
+        "Partnerschaftsbonus",
+        "Basiselterngeld",
+        "Elterngeldstelle",
+        "BEEG",
+        "Einkommensgrenze"
+      ],
+      "kurz_html": "\n<p><strong>Elterngeld</strong> ersetzt einen Teil des Einkommens, das Ihnen entgeht, weil Sie nach der Geburt nicht\noder nur eingeschränkt arbeiten. Es gibt drei Varianten, die sich kombinieren lassen: <strong>Basiselterngeld</strong>\n(volle Monatsbeträge, maximal 14 Monate zusammen mit dem anderen Elternteil, davon mindestens 2 „Partnermonate“),\n<strong>ElterngeldPlus</strong> (halbe Monatsbeträge über den doppelten Zeitraum, günstig bei Teilzeitarbeit) und der\n<strong>Partnerschaftsbonus</strong> (zusätzliche Monate, wenn beide Elternteile gleichzeitig 24–32 Stunden pro Woche\narbeiten). Seit April 2024 dürfen beide Elternteile Basiselterngeld in der Regel nur noch für einen gemeinsamen Monat\ngleichzeitig beziehen (Ausnahmen u. a. bei Mehrlings- und Frühgeburten sowie im ersten Lebensmonat).</p>\n<p>Elterngeld gibt es nur bis zu einer bestimmten Einkommensgrenze im Jahr vor der Geburt. Für Geburten <strong>ab dem\n1. April 2025</strong> liegt diese Grenze einheitlich – also unabhängig davon, ob Sie allein oder zu zweit einen\nAntrag stellen – bei einem zu versteuernden Einkommen von <strong>175.000 Euro</strong> im Kalenderjahr vor der\nGeburt. Wird die Grenze auch nur um einen Euro überschritten, entfällt der Anspruch vollständig; es gibt keine\ngleitende Kürzung.</p>\n",
+      "schritte": [
+        {
+          "titel": "Zuständige Elterngeldstelle ermitteln",
+          "text": "Die Elterngeldstellen sind Landessache und unterschiedlich organisiert – finden Sie über das Elterngeldportal Ihres Bundeslandes die richtige Adresse."
+        },
+        {
+          "titel": "Variante wählen",
+          "text": "Überlegen Sie sich vor der Geburt, wie Sie Basiselterngeld, ElterngeldPlus und ggf. Partnerschaftsbonus zwischen den Elternteilen aufteilen möchten – die Aufteilung lässt sich später nur eingeschränkt ändern."
+        },
+        {
+          "titel": "Antrag nach der Geburt stellen",
+          "text": "Stellen Sie den Antrag erst nach der Geburt (vorher ist er nicht möglich), aber möglichst zügig – Elterngeld wird höchstens 3 Monate rückwirkend vor Antragstellung gezahlt."
+        },
+        {
+          "titel": "Einkommensnachweise einreichen",
+          "text": "Reichen Sie Einkommensnachweise der letzten 12 Monate vor der Geburt (bzw. den Steuerbescheid) sowie die Geburtsurkunde ein."
+        },
+        {
+          "titel": "Bescheid prüfen",
+          "text": "Prüfen Sie den Elterngeldbescheid auf die zugrunde gelegten Bemessungsmonate – bestimmte Monate (z. B. mit Mutterschaftsgeldbezug oder Corona-bedingten Einkommenseinbußen in der Vergangenheit) können auf Antrag ausgeklammert werden."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "3 Monate rückwirkend",
+          "was": "Maximale rückwirkende Auszahlung ab Antragstellung",
+          "grundlage": "§ 7 Abs. 1 Satz 4 BEEG"
+        },
+        {
+          "wert": "14 Monate",
+          "was": "Höchstdauer des Basiselterngeldes für beide Elternteile zusammen, davon mindestens 2 Monate durch den zweiten Elternteil (Partnermonate) bzw. bei Alleinerziehenden unter bestimmten Voraussetzungen allein ausschöpfbar",
+          "grundlage": "§ 4 BEEG"
+        },
+        {
+          "wert": "175.000 €",
+          "was": "Einheitliche Einkommensgrenze (zu versteuerndes Einkommen im Vorjahr der Geburt) für Geburten ab 1. April 2025 – für Alleinstehende wie für Paare gleichermaßen",
+          "grundlage": "§ 1 Abs. 8 BEEG"
+        }
+      ],
+      "achtung": [
+        "Die Einkommensgrenze wurde mehrfach gesenkt und unterscheidet sich nach Geburtsdatum: für Geburten vom 1.9.2021 bis 31.3.2024 galten 300.000 € (Paare) bzw. 250.000 € (Alleinerziehende), vom 1.4.2024 bis 31.3.2025 einheitlich 200.000 €, ab 1.4.2025 einheitlich 175.000 €. Für ältere Geburtsdaten gilt jeweils die zum Geburtszeitpunkt maßgebliche Grenze.",
+        "Seit 1. April 2024 können Eltern Basiselterngeld grundsätzlich nur noch für einen gemeinsamen Kalendermonat gleichzeitig beziehen; Ausnahmen gelten u. a. für den Monat der Geburt sowie bei Frühgeburten, Mehrlingsgeburten oder wenn ein Kind mit Behinderung geboren wird.",
+        "Der Partnerschaftsbonus setzt voraus, dass beide Elternteile in denselben Monaten durchgehend zwischen 24 und 32 Wochenstunden arbeiten – schon geringe Abweichungen können zur Rückforderung führen; genaue Nachweise sind wichtig.",
+        "Elterngeld ist eine Einkommensersatzleistung und wird u. a. auf Arbeitslosengeld II/Grundsicherungsgeld teilweise oder vollständig als Einkommen angerechnet (mit einem Grundfreibetrag für Erwerbstätige) – für Empfängerinnen und Empfänger von Grundsicherung kann sich das anders auswirken als für Erwerbstätige mit mittlerem Einkommen."
+      ],
+      "fach_html": "\n<h3>Drei Varianten im Überblick</h3>\n<p>Das <strong>Basiselterngeld</strong> ersetzt 65–100 % des vor der Geburt wegfallenden Nettoeinkommens (die genauen\nErsatzraten und Mindest-/Höchstbeträge in Euro sollten aktuell auf familienportal.de oder direkt bei der\nElterngeldstelle geprüft werden, da sie sich ändern können) für bis zu 14 Monate, wenn sich beide Elternteile die\nMonate teilen und mindestens der zweite Elternteil mindestens 2 Monate übernimmt (Partnermonate, § 4 Abs. 3 BEEG).\n<strong>ElterngeldPlus</strong> (§ 4 Abs. 3, § 4a BEEG) zahlt die Hälfte des Basiselterngeldes über den doppelten\nZeitraum – vorteilhaft, wenn schon während des Bezugs in Teilzeit gearbeitet wird, weil die Teilzeit-Anrechnung beim\nBasiselterngeld sonst zu einer stärkeren Kürzung führt. Der <strong>Partnerschaftsbonus</strong> (§ 4b BEEG) gewährt\nbis zu 4 zusätzliche ElterngeldPlus-Monate je Elternteil, wenn beide gleichzeitig 24–32 Wochenstunden arbeiten.</p>\n<h3>Einkommensgrenze: Entwicklung seit 2021</h3>\n<p>Die Einkommensgrenze nach § 1 Abs. 8 BEEG wurde in mehreren Stufen abgesenkt: für Geburten ab 1.9.2021 galten\n300.000 € (gemeinsam veranlagte Paare) bzw. 250.000 € (Alleinerziehende); für Geburten ab 1.4.2024 wurde sie auf\neinheitlich 200.000 € gesenkt (keine Unterscheidung zwischen Paaren und Alleinstehenden mehr); für Geburten ab\n1.4.2025 gilt einheitlich 175.000 € zu versteuerndes Einkommen nach § 2 Abs. 5 EStG des Kalenderjahres vor der Geburt.\nMaßgeblich ist stets die zum Geburtsdatum des Kindes gültige Fassung des Gesetzes.</p>\n<h3>Anrechnung von Mutterschaftsleistungen</h3>\n<p>Mutterschaftsgeld und Arbeitgeberzuschuss werden nach § 3 BEEG auf das Elterngeld angerechnet, da sie denselben\nZeitraum und Zweck betreffen. Für Mütter beginnt der Elterngeldbezug im rechtlichen Sinne deshalb meist erst nach\nEnde der Mutterschutzfrist „spürbar“, auch wenn die Mutterschutzmonate als Bezugsmonate mitgezählt werden können.</p>\n",
+      "zustaendig": [
+        "Elterngeldstelle des jeweiligen Bundeslandes"
+      ],
+      "belege": [
+        "§§ 1, 3, 4, 4a, 4b, 7 BEEG (gesetze-im-internet.de)",
+        "BMBFSFJ: „Neuregelungen beim Elterngeld für Geburten ab 1. April 2024 sowie ab 1. April 2025“ (bmbfsfj.bund.de)",
+        "Familienportal des Bundes, FAQ Elterngeld-Neuregelung (familienportal.de)"
+      ],
+      "siehe_auch": [
+        "mutterschaftsgeld",
+        "elternzeit-anspruch-und-anmeldung",
+        "teilzeit-in-elternzeit"
+      ],
+      "stand": "Stand: September 2026. Einkommensgrenze und Reformdaten anhand offizieller Quellen (gesetze-im-internet.de, BMBFSFJ) recherchiert; exakte Euro-Beträge für die Ersatzrate bitte zusätzlich bei der zuständigen Elterngeldstelle prüfen."
+    },
+    {
+      "id": "elternzeit-anspruch-und-anmeldung",
+      "kategorie": "elternzeit",
+      "titel": "Elternzeit: Anspruch, Dauer, Übertragbarkeit und Anmeldung",
+      "icon": "👶",
+      "teaser": "Jeder Elternteil hat einen eigenen Anspruch auf bis zu drei Jahre Elternzeit je Kind – mit fristgerechter Anmeldung beim Arbeitgeber.",
+      "schlagworte": [
+        "Elternzeit",
+        "BEEG",
+        "Anmeldefrist",
+        "Übertragung Elternzeit",
+        "Familienstartzeit",
+        "Vaterschaftsurlaub"
+      ],
+      "kurz_html": "\n<p><strong>Elternzeit</strong> ist Ihr individueller Anspruch gegenüber dem Arbeitgeber, für die Betreuung Ihres\nKindes unbezahlt von der Arbeit freigestellt zu werden – unabhängig davon, ob und in welcher Höhe Sie Elterngeld\nbeziehen. Jeder Elternteil hat einen eigenen Anspruch von insgesamt bis zu <strong>drei Jahren</strong> je Kind. Bis\nzu <strong>24 Monate</strong> davon können Sie sich für die Zeit zwischen dem 3. und 8. Geburtstag des Kindes\naufsparen, allerdings nur mit Zustimmung des Arbeitgebers für den Zeitraum ab dem 3. Geburtstag.</p>\n<p>Anders als Mutterschutz muss Elternzeit aktiv und fristgerecht angemeldet werden: für den Zeitraum bis zum 3.\nGeburtstag <strong>mindestens 7 Wochen</strong>, für den Zeitraum danach <strong>mindestens 13 Wochen</strong> vor\nBeginn, jeweils schriftlich.</p>\n",
+      "schritte": [
+        {
+          "titel": "Zeiträume planen",
+          "text": "Legen Sie fest, welche Zeiträume Sie und ggf. der andere Elternteil jeweils in Elternzeit gehen möchten – bis zu drei Zeitabschnitte je Elternteil sind ohne Zustimmung des Arbeitgebers möglich."
+        },
+        {
+          "titel": "Fristgerecht schriftlich anmelden",
+          "text": "Melden Sie die Elternzeit schriftlich (Unterschrift erforderlich, E-Mail genügt nicht) unter Einhaltung der 7- bzw. 13-Wochen-Frist beim Arbeitgeber an."
+        },
+        {
+          "titel": "Verbindlich festlegen",
+          "text": "Legen Sie sich gleichzeitig für die ersten zwei Jahre verbindlich fest – eine spätere einseitige Änderung ist nur mit Zustimmung des Arbeitgebers oder in engen Ausnahmefällen möglich."
+        },
+        {
+          "titel": "Übertragung dokumentieren",
+          "text": "Wenn Sie einen Anteil auf die Zeit nach dem 3. Geburtstag übertragen möchten, klären und dokumentieren Sie die Zustimmung des Arbeitgebers ausdrücklich."
+        },
+        {
+          "titel": "Elterngeld separat beantragen",
+          "text": "Denken Sie daran, dass die Anmeldung der Elternzeit beim Arbeitgeber den Elterngeldantrag bei der Elterngeldstelle nicht ersetzt – beides muss getrennt erfolgen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "7 Wochen",
+          "was": "Anmeldefrist für Elternzeit, die vor dem 3. Geburtstag des Kindes beginnen soll",
+          "grundlage": "§ 16 Abs. 1 Satz 1 BEEG"
+        },
+        {
+          "wert": "13 Wochen",
+          "was": "Anmeldefrist für Elternzeit, die für die Zeit zwischen 3. und 8. Geburtstag beansprucht wird",
+          "grundlage": "§ 16 Abs. 1 Satz 2 BEEG"
+        },
+        {
+          "wert": "3 Jahre",
+          "was": "Gesamtdauer des Elternzeitanspruchs je Elternteil und Kind",
+          "grundlage": "§ 15 Abs. 2 BEEG"
+        }
+      ],
+      "achtung": [
+        "Ein eigenständiger bezahlter „Vaterschaftsurlaub“ bzw. eine „Familienstartzeit“ von 10 Arbeitstagen rund um die Geburt – wie ihn die EU-Vereinbarkeitsrichtlinie (EU) 2019/1158 seit August 2022 für Partner/zweite Elternteile vorschreibt – ist in Deutschland für Beschäftigte in der Privatwirtschaft und im öffentlichen Dienst (Tarifbeschäftigte) nach aktuellem Kenntnisstand (September 2026) weiterhin NICHT gesetzlich eingeführt. Die ursprüngliche EU-Vertragsverletzung wegen der Richtlinie insgesamt wurde 2023 eingestellt, weil Deutschland andere Teile umgesetzt hat; die im Koalitionsvertrag 2021 angekündigte „Familienstartzeit“ wurde mehrfach verschoben und ist nach vorliegenden Informationen nicht Teil der aktuellen Koalitionsvereinbarung. Verlassen Sie sich für einen bezahlten Sonderurlaub rund um die Geburt nicht auf diese Seiten, sondern prüfen Sie tarifliche oder betriebliche Regelungen sowie ggf. § 616 BGB (kurzzeitige unverschuldete Verhinderung) im Einzelfall.",
+        "Für Bundesbeamtinnen und -beamte hat das Verwaltungsgericht Köln am 11. September 2025 (Az. 15 K 1556/24) entschieden, dass sich diese unmittelbar auf die EU-Richtlinie berufen können und einen Anspruch auf 10 Tage bezahlten Vaterschaftsurlaub haben, weil der Staat als Dienstherr die Richtlinie nicht fristgerecht umgesetzt hat. Der Bund hat Berufung eingelegt; das Verfahren war beim Oberverwaltungsgericht Nordrhein-Westfalen zum Stand dieser Recherche noch nicht rechtskräftig entschieden. Diese Rechtsprechung gilt nach der zugrunde liegenden Begründung (unmittelbare Wirkung von Richtlinien gegenüber dem Staat als Arbeitgeber) grundsätzlich nur für Beamtinnen und Beamte, nicht für Beschäftigte privater Arbeitgeber.",
+        "Die Aufteilung der Elternzeit in mehr als drei Zeitabschnitte je Elternteil ist nur mit Zustimmung des Arbeitgebers möglich (§ 16 Abs. 1 Satz 6 BEEG).",
+        "Für Beamtinnen und Beamte des Bundes gilt anstelle des BEEG die Mutterschutz- und Elternzeitverordnung (MuSchEltZV), für Landesbeamtinnen und -beamte die jeweilige Landesverordnung – die Grundprinzipien ähneln dem BEEG, es gibt aber abweichende Verfahrensregeln."
+      ],
+      "fach_html": "\n<h3>Anspruchsvoraussetzungen</h3>\n<p>Nach § 15 BEEG haben Arbeitnehmerinnen und Arbeitnehmer Anspruch auf Elternzeit, wenn sie mit ihrem Kind in einem\nHaushalt leben und es selbst betreuen und erziehen. Der Anspruch besteht unabhängig von der Betriebsgröße und der\nDauer der Betriebszugehörigkeit und kann von beiden Elternteilen gleichzeitig oder abwechselnd genutzt werden.</p>\n<h3>Übertragbarkeit auf die Zeit nach dem 3. Geburtstag</h3>\n<p>Seit der BEEG-Reform 2015 können bis zu 24 Monate der insgesamt drei Jahre Elternzeit auf den Zeitraum zwischen dem\n3. und 8. Geburtstag des Kindes übertragen werden (§ 15 Abs. 2 Satz 4 BEEG). Für diesen übertragenen Teil ist jedoch\ndie Zustimmung des Arbeitgebers erforderlich, die dieser nur aus dringenden betrieblichen Gründen innerhalb von acht\nWochen ablehnen kann.</p>\n<h3>Der fehlende „Vaterschaftsurlaub“ – Rechtslage und offene Fragen</h3>\n<p>Die EU-Richtlinie (EU) 2019/1158 verlangt seit dem 2. August 2022 mindestens 10 Arbeitstage bezahlten Urlaub für\nVäter bzw. gleichgestellte zweite Elternteile rund um die Geburt, unabhängig vom regulären Elternzeit- und\nElterngeldsystem. Die ursprüngliche EU-Vertragsverletzung gegen Deutschland wurde von der EU-Kommission zum 1. Juni\n2023 eingestellt, nachdem Deutschland mit dem Vereinbarkeitsrichtlinien-Umsetzungsgesetz (VRUG, in Kraft seit\n24.12.2022) andere Teile der Richtlinie umgesetzt hatte – ausgerechnet der bezahlte Sonderurlaub rund um die Geburt\nselbst wurde dabei nach vorliegenden Informationen nicht eingeführt. Die 2021 im Koalitionsvertrag angekündigte\nzweiwöchige „Familienstartzeit“ blieb mehrfach aus Kostengründen unumgesetzt. Für Bundesbeamtinnen und -beamte hat das\nVG Köln im September 2025 einen unmittelbaren Anspruch aus der Richtlinie bejaht (Az. 15 K 1556/24); der Bund ist in\nBerufung gegangen, eine rechtskräftige Entscheidung lag zum Stand dieser Seite noch nicht vor. Diese Frage ist daher\npolitisch und rechtlich noch nicht endgültig geklärt und sollte vor einer wichtigen Entscheidung aktuell bei einer\nBeratungsstelle oder Gewerkschaft nachgefragt werden.</p>\n",
+      "zustaendig": [
+        "Arbeitgeber (Anmeldung, Zustimmung zur Übertragung)"
+      ],
+      "belege": [
+        "§§ 15, 16 BEEG (gesetze-im-internet.de)",
+        "BMBFSFJ: „Vertragsverletzungsverfahren zur Umsetzung der Vereinbarkeitsrichtlinie“ (bmbfsfj.bund.de)",
+        "VG Köln, Urteil vom 11.09.2025, Az. 15 K 1556/24 – berichtet u. a. bei beck-aktuell.de und dbb/vbb.dbb.de"
+      ],
+      "siehe_auch": [
+        "kuendigungsschutz-elternzeit",
+        "teilzeit-in-elternzeit",
+        "elterngeld"
+      ],
+      "stand": "Stand: September 2026. Zum Vaterschaftsurlaub: Rechtslage politisch und gerichtlich noch nicht abschließend geklärt – siehe Quellen und Methodik."
+    },
+    {
+      "id": "kuendigungsschutz-elternzeit",
+      "kategorie": "elternzeit",
+      "titel": "Kündigungsschutz während der Elternzeit",
+      "icon": "🛡️",
+      "teaser": "Der Kündigungsschutz beginnt schon mit der Anmeldung der Elternzeit – teils schon vor deren eigentlichem Beginn.",
+      "schlagworte": [
+        "Kündigungsschutz Elternzeit",
+        "§ 18 BEEG",
+        "Zustimmung Aufsichtsbehörde Elternzeit"
+      ],
+      "kurz_html": "\n<p>Ab dem Zeitpunkt, zu dem Sie Elternzeit beim Arbeitgeber <strong>beantragen</strong> – frühestens jedoch acht\nWochen vor deren Beginn (bzw. 14 Wochen bei Elternzeit zwischen 3. und 8. Geburtstag) – darf Ihnen bis zum Ende der\nElternzeit grundsätzlich nicht gekündigt werden. Dieser Schutz ist damit teils noch strenger als der bei\nSchwangerschaft, weil er schon vor dem eigentlichen Beginn der Freistellung ansetzt.</p>\n",
+      "schritte": [
+        {
+          "titel": "Elternzeit rechtzeitig anmelden",
+          "text": "Melden Sie die Elternzeit fristgerecht schriftlich an – ab diesem Zeitpunkt (bzw. ab dem gesetzlichen Vorlauf davor) beginnt der Kündigungsschutz."
+        },
+        {
+          "titel": "Kündigung nicht hinnehmen",
+          "text": "Erhalten Sie dennoch eine Kündigung, akzeptieren Sie diese nicht kommentarlos – sie ist ohne behördliche Ausnahmegenehmigung unwirksam."
+        },
+        {
+          "titel": "Klagefrist wahren",
+          "text": "Erheben Sie sicherheitshalber innerhalb von drei Wochen Kündigungsschutzklage beim Arbeitsgericht."
+        },
+        {
+          "titel": "Zustimmung prüfen lassen",
+          "text": "Lassen Sie prüfen, ob die zuständige Landesbehörde einer ausnahmsweisen Kündigung vorab zugestimmt hat."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "8 Wochen vorher",
+          "was": "Beginn des Kündigungsschutzes vor dem gewünschten Start der Elternzeit (bei Elternzeit bis zum 3. Geburtstag)",
+          "grundlage": "§ 18 Abs. 1 Satz 1 BEEG"
+        },
+        {
+          "wert": "14 Wochen vorher",
+          "was": "Beginn des Kündigungsschutzes vor dem gewünschten Start, wenn die Elternzeit zwischen 3. und 8. Geburtstag liegen soll",
+          "grundlage": "§ 18 Abs. 1 Satz 2 BEEG"
+        },
+        {
+          "wert": "3 Wochen",
+          "was": "Allgemeine Frist zur Erhebung einer Kündigungsschutzklage ab Zugang der Kündigung",
+          "grundlage": "§ 4 KSchG"
+        }
+      ],
+      "achtung": [
+        "Der besondere Kündigungsschutz endet mit dem Ende der Elternzeit – für die Zeit danach gilt wieder nur der allgemeine Kündigungsschutz nach dem KSchG (soweit anwendbar).",
+        "Auch während einer Teilzeitbeschäftigung in der Elternzeit bleibt der besondere Kündigungsschutz bestehen.",
+        "Wie beim Mutterschutz kann die zuständige Landesbehörde in besonderen Ausnahmefällen (z. B. vollständige Betriebsstilllegung) einer Kündigung vorab zustimmen – ohne diese Zustimmung ist eine Kündigung in der Schutzzeit unwirksam."
+      ],
+      "fach_html": "\n<h3>Reichweite des § 18 BEEG</h3>\n<p>§ 18 Abs. 1 BEEG verbietet die Kündigung ab dem Zeitpunkt, ab dem Elternzeit verlangt wurde, höchstens jedoch acht\nWochen (bzw. bei Elternzeit ab dem 3. Geburtstag: vierzehn Wochen) vor deren Beginn, bis zu ihrem Ende. Der Schutz\numfasst damit bereits die Vorbereitungsphase, in der der Arbeitgeber von der geplanten Elternzeit erfährt, und soll\nverhindern, dass Beschäftigte allein wegen der Ankündigung ihrer Elternzeit gekündigt werden.</p>\n<h3>Ausnahmegenehmigung</h3>\n<p>§ 18 Abs. 1 Satz 4 BEEG verweist auf ein Zustimmungserfordernis der für den Arbeitsschutz zuständigen Landesbehörde\nentsprechend der Regelung im Mutterschutzrecht; die Voraussetzungen sind eng und in der Praxis auf seltene\nAusnahmefälle wie eine vollständige Betriebsschließung beschränkt.</p>\n<h3>Verhältnis zu Teilzeit während der Elternzeit</h3>\n<p>Der besondere Kündigungsschutz gilt unabhängig davon, ob während der Elternzeit in Vollzeit pausiert oder in\nzulässiger Teilzeit weitergearbeitet wird (§ 15 Abs. 4–7 BEEG); ein Antrag auf Teilzeit während der Elternzeit stellt\nselbst keinen eigenständigen Kündigungsgrund dar.</p>\n",
+      "zustaendig": [
+        "Arbeitsgericht (Kündigungsschutzklage)",
+        "Aufsichtsbehörde des Landes (Zustimmung zu Ausnahmefällen)"
+      ],
+      "belege": [
+        "§ 18 BEEG (gesetze-im-internet.de)",
+        "§ 4 KSchG (gesetze-im-internet.de)"
+      ],
+      "siehe_auch": [
+        "elternzeit-anspruch-und-anmeldung",
+        "kuendigungsschutz-mutterschutz",
+        "beratung-anlaufstellen"
+      ],
+      "stand": "Stand: September 2026."
+    },
+    {
+      "id": "teilzeit-in-elternzeit",
+      "kategorie": "elternzeit",
+      "titel": "Teilzeit während der Elternzeit",
+      "icon": "⏳",
+      "teaser": "Während der Elternzeit dürfen Sie in Teilzeit arbeiten – teils sogar mit einem einklagbaren Rechtsanspruch gegenüber dem Arbeitgeber.",
+      "schlagworte": [
+        "Teilzeit in Elternzeit",
+        "§ 15 BEEG",
+        "Brückenteilzeit",
+        "Elternzeit Teilzeitanspruch"
+      ],
+      "kurz_html": "\n<p>Während der Elternzeit dürfen Sie bei Ihrem bisherigen oder einem anderen Arbeitgeber bis zu <strong>32 Wochenstunden\nim Monatsdurchschnitt</strong> arbeiten, ohne dass die Elternzeit dadurch endet. Unter bestimmten Voraussetzungen haben\nSie sogar einen <strong>Rechtsanspruch</strong> auf eine solche Teilzeitbeschäftigung bei Ihrem bisherigen Arbeitgeber,\nden dieser nur aus dringenden betrieblichen Gründen ablehnen kann.</p>\n",
+      "schritte": [
+        {
+          "titel": "Anspruchsvoraussetzungen prüfen",
+          "text": "Prüfen Sie, ob Ihr Betrieb in der Regel mehr als 15 Beschäftigte hat und Ihr Arbeitsverhältnis zum Zeitpunkt des Antrags länger als 6 Monate besteht – dann haben Sie unter weiteren Voraussetzungen einen Rechtsanspruch."
+        },
+        {
+          "titel": "Antrag rechtzeitig stellen",
+          "text": "Stellen Sie den Antrag auf Verringerung der Arbeitszeit schriftlich mindestens 7 Wochen (bei Elternzeit ab dem 3. Geburtstag: 13 Wochen) vor dem gewünschten Beginn."
+        },
+        {
+          "titel": "Umfang und Verteilung angeben",
+          "text": "Geben Sie im Antrag Umfang und gewünschte Verteilung der Arbeitszeit an – der Arbeitgeber soll sich innerhalb von 4 Wochen dazu äußern."
+        },
+        {
+          "titel": "Ablehnung prüfen lassen",
+          "text": "Lehnt der Arbeitgeber ab oder äußert sich nicht fristgerecht, lassen Sie die Ablehnungsgründe rechtlich prüfen; bei Nichtäußerung innerhalb der Frist gilt der Antrag ggf. als angenommen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "7 Wochen",
+          "was": "Antragsfrist für Teilzeit während Elternzeit bis zum 3. Geburtstag",
+          "grundlage": "§ 15 Abs. 7 Satz 4 BEEG"
+        },
+        {
+          "wert": "13 Wochen",
+          "was": "Antragsfrist für Teilzeit während Elternzeit zwischen 3. und 8. Geburtstag",
+          "grundlage": "§ 15 Abs. 7 Satz 4 BEEG"
+        },
+        {
+          "wert": "4 Wochen",
+          "was": "Frist, innerhalb derer sich der Arbeitgeber zum Antrag äußern soll",
+          "grundlage": "§ 15 Abs. 7 Satz 5, 6 BEEG"
+        }
+      ],
+      "achtung": [
+        "Der Rechtsanspruch auf Teilzeit in der Elternzeit gilt nur in Betrieben mit in der Regel mehr als 15 Beschäftigten – in kleineren Betrieben besteht nur ein Anspruch auf Erörterung, keine erzwingbare Verringerung.",
+        "Die Arbeitszeit muss im Monatsdurchschnitt zwischen 15 und 32 Wochenstunden liegen, damit sie noch als „Teilzeit während der Elternzeit“ gilt und die Elternzeit nicht vorzeitig beendet.",
+        "Für den Partnerschaftsbonus beim Elterngeld ist eine engere Bandbreite (24–32 Wochenstunden bei beiden Elternteilen gleichzeitig) maßgeblich – verwechseln Sie die Teilzeitgrenzen für Elternzeit und für den Partnerschaftsbonus nicht miteinander."
+      ],
+      "fach_html": "\n<h3>Rechtsanspruch nach § 15 Abs. 7 BEEG</h3>\n<p>Ein Rechtsanspruch auf Verringerung der Arbeitszeit während der Elternzeit besteht, wenn der Arbeitgeber in der\nRegel mehr als 15 Arbeitnehmerinnen und Arbeitnehmer beschäftigt, das Arbeitsverhältnis länger als sechs Monate ohne\nUnterbrechung besteht, die Arbeitszeit für mindestens zwei Monate auf einen Umfang zwischen 15 und 32 Wochenstunden\nverringert werden soll, dem Anspruch keine dringenden betrieblichen Gründe entgegenstehen und der Antrag fristgerecht\nschriftlich gestellt wurde. Der Arbeitgeber kann den Antrag nur aus dringenden betrieblichen Gründen schriftlich\ninnerhalb der gesetzlichen Frist ablehnen.</p>\n<h3>Verhältnis zum allgemeinen Teilzeitanspruch</h3>\n<p>Unabhängig von der Elternzeit besteht nach dem Teilzeit- und Befristungsgesetz (TzBfG) bzw. seit 2019 auch die\nsogenannte Brückenteilzeit ein allgemeiner Anspruch auf befristete Teilzeit, der jedoch andere Voraussetzungen\n(insbesondere andere Schwellenwerte bei der Betriebsgröße) hat als der spezielle Anspruch während der Elternzeit\nnach § 15 Abs. 7 BEEG.</p>\n",
+      "zustaendig": [
+        "Arbeitgeber"
+      ],
+      "belege": [
+        "§ 15 Abs. 4–7 BEEG (gesetze-im-internet.de)",
+        "§ 8, § 9a TzBfG (gesetze-im-internet.de)"
+      ],
+      "siehe_auch": [
+        "elternzeit-anspruch-und-anmeldung",
+        "elterngeld",
+        "rueckkehr-nach-elternzeit"
+      ],
+      "stand": "Stand: September 2026."
+    },
+    {
+      "id": "kitaplatz-rechtsanspruch",
+      "kategorie": "familie",
+      "titel": "Rechtsanspruch auf einen Kitaplatz",
+      "icon": "🏫",
+      "teaser": "Ab dem vollendeten ersten Lebensjahr hat Ihr Kind einen Rechtsanspruch auf frühkindliche Förderung – notfalls einklagbar.",
+      "schlagworte": [
+        "Kitaplatz",
+        "§ 24 SGB VIII",
+        "Rechtsanspruch Kinderbetreuung",
+        "Jugendamt",
+        "Kindertagespflege"
+      ],
+      "kurz_html": "\n<p>Seit August 2013 hat jedes Kind ab Vollendung des <strong>ersten Lebensjahres</strong> einen Rechtsanspruch auf\nfrühkindliche Förderung in einer Kindertageseinrichtung oder in Kindertagespflege. Zuständig für die Erfüllung dieses\nAnspruchs ist der örtliche Träger der öffentlichen Jugendhilfe (in der Regel das Jugendamt Ihrer Kommune). Bekommen\nSie trotz rechtzeitiger Anmeldung keinen Platz, können Sie den Anspruch notfalls gerichtlich durchsetzen und unter\nUmständen Schadensersatz (z. B. für entgangenen Verdienst oder notwendige private Betreuungskosten) verlangen.</p>\n",
+      "schritte": [
+        {
+          "titel": "Frühzeitig anmelden",
+          "text": "Melden Sie Ihren Betreuungsbedarf beim Jugendamt bzw. über das kommunale Kita-Portal an, möglichst viele Monate vor dem gewünschten Betreuungsbeginn."
+        },
+        {
+          "titel": "Bedarf begründen",
+          "text": "Geben Sie den gewünschten Betreuungsumfang (Stunden pro Tag/Woche) und den gewünschten Beginn an, orientiert an Ihrer beruflichen oder familiären Situation."
+        },
+        {
+          "titel": "Bei Ablehnung schriftlichen Bescheid verlangen",
+          "text": "Verlangen Sie bei fehlendem Platzangebot einen schriftlichen, begründeten Bescheid des Jugendamts – das ist Voraussetzung für ein gerichtliches Vorgehen."
+        },
+        {
+          "titel": "Eilrechtsschutz prüfen",
+          "text": "Prüfen Sie mit anwaltlicher oder Beratungshilfe die Möglichkeit eines Eilverfahrens (einstweilige Anordnung) beim Verwaltungsgericht, wenn der Betreuungsbeginn unmittelbar bevorsteht."
+        },
+        {
+          "titel": "Schadensersatz dokumentieren",
+          "text": "Dokumentieren Sie entstandene Kosten oder entgangenen Verdienst durch die Nichterfüllung des Anspruchs für einen möglichen späteren Schadensersatzanspruch."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "Ab vollendetem 1. Lebensjahr",
+          "was": "Beginn des Rechtsanspruchs auf frühkindliche Förderung",
+          "grundlage": "§ 24 Abs. 2 SGB VIII"
+        },
+        {
+          "wert": "Keine bundeseinheitliche Anmeldefrist",
+          "was": "Anmeldefristen und -verfahren werden von der jeweiligen Kommune festgelegt – informieren Sie sich frühzeitig vor Ort",
+          "grundlage": "kommunale Satzungen"
+        }
+      ],
+      "achtung": [
+        "Der Rechtsanspruch garantiert einen Betreuungsplatz, aber keinen Platz in der Wunscheinrichtung – zumutbare Entfernung und Öffnungszeiten sind die maßgeblichen Kriterien.",
+        "Für Kinder unter einem Jahr besteht kein bundesweiter Rechtsanspruch auf einen Kitaplatz; ein etwaiger Anspruch kann sich hier allenfalls aus landesrechtlichen oder kommunalen Regelungen ergeben, die von Ort zu Ort unterschiedlich sind.",
+        "Ob und in welcher Höhe bei fehlendem Betreuungsplatz tatsächlich Schadensersatz zugesprochen wird, hängt stark vom Einzelfall und von der Nachweisbarkeit des Schadens ab – die Rechtsprechung hierzu ist nicht einheitlich."
+      ],
+      "fach_html": "\n<h3>Rechtsgrundlage</h3>\n<p>§ 24 Abs. 2 SGB VIII gewährt Kindern vom vollendeten ersten bis zum vollendeten dritten Lebensjahr einen Anspruch\nauf frühkindliche Förderung in einer Tageseinrichtung oder Kindertagespflege; § 24 Abs. 3 SGB VIII begründet ab dem\nvollendeten dritten Lebensjahr bis zum Schuleintritt einen eigenständigen Anspruch auf einen Kindergartenplatz. Der\nUmfang der täglichen Förderung richtet sich nach dem individuellen Bedarf, mindestens jedoch nach dem in § 24 Abs. 2\nSGB VIII genannten Maßstab (u. a. Erwerbstätigkeit, Ausbildung der Eltern).</p>\n<h3>Durchsetzung des Anspruchs</h3>\n<p>Wird der Anspruch trotz rechtzeitiger Bedarfsanmeldung nicht erfüllt, kann der Anspruch im Wege der einstweiligen\nAnordnung vor dem Verwaltungsgericht durchgesetzt werden. Der Bundesgerichtshof hat 2016 entschieden, dass Eltern bei\nschuldhafter Pflichtverletzung des Trägers der öffentlichen Jugendhilfe unter bestimmten Voraussetzungen auch\nSchadensersatzansprüche (Amtshaftung, § 839 BGB i. V. m. Art. 34 GG) geltend machen können.</p>\n",
+      "zustaendig": [
+        "Jugendamt der Kommune",
+        "Verwaltungsgericht (bei Streitigkeiten)"
+      ],
+      "belege": [
+        "§ 24 SGB VIII (gesetze-im-internet.de)",
+        "BGH, Urteil vom 20.10.2016, Az. III ZR 278/15 (Amtshaftung bei fehlendem Kitaplatz)"
+      ],
+      "siehe_auch": [
+        "rueckkehr-nach-elternzeit",
+        "beratung-anlaufstellen"
+      ],
+      "stand": "Stand: September 2026."
+    },
+    {
+      "id": "kinderkrankengeld",
+      "kategorie": "familie",
+      "titel": "Kinderkrankengeld",
+      "icon": "🤒",
+      "teaser": "Wenn Ihr Kind krank wird und Betreuung braucht, können gesetzlich versicherte Eltern für begrenzte Zeit bezahlt freigestellt werden.",
+      "schlagworte": [
+        "Kinderkrankengeld",
+        "§ 45 SGB V",
+        "Freistellung erkranktes Kind"
+      ],
+      "kurz_html": "\n<p>Wenn Ihr gesetzlich krankenversichertes Kind erkrankt und beaufsichtigt, betreut oder gepflegt werden muss und\nkeine andere im Haushalt lebende Person das übernehmen kann, haben Sie als gesetzlich versicherter Elternteil\nAnspruch auf bezahlte Freistellung von der Arbeit und <strong>Kinderkrankengeld</strong> von Ihrer Krankenkasse. Der\nAnspruch ist der Zahl der Tage nach begrenzt und gilt in der Regel bis zum vollendeten 12. Lebensjahr des Kindes (bei\nKindern mit Behinderung, die auf Hilfe angewiesen sind, altersunabhängig).</p>\n",
+      "schritte": [
+        {
+          "titel": "Ärztliche Bescheinigung besorgen",
+          "text": "Lassen Sie sich von der Kinderärztin oder dem Kinderarzt die Erkrankung des Kindes und die Erforderlichkeit Ihrer Anwesenheit bescheinigen."
+        },
+        {
+          "titel": "Arbeitgeber informieren",
+          "text": "Informieren Sie Ihren Arbeitgeber unverzüglich über die Verhinderung und die voraussichtliche Dauer."
+        },
+        {
+          "titel": "Antrag bei der Krankenkasse stellen",
+          "text": "Reichen Sie die Bescheinigung zeitnah bei Ihrer Krankenkasse ein, um Kinderkrankengeld zu erhalten."
+        },
+        {
+          "titel": "Verfügbare Tage im Blick behalten",
+          "text": "Behalten Sie den Überblick über die jährlich verfügbaren Tage je Kind und Elternteil, insbesondere bei mehreren Kindern oder wiederholten Erkrankungen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "Bis zum vollendeten 12. Lebensjahr",
+          "was": "Altersgrenze für den Kinderkrankengeld-Anspruch (außer bei Kindern mit Behinderung, die auf Hilfe angewiesen sind)",
+          "grundlage": "§ 45 Abs. 1 SGB V"
+        }
+      ],
+      "achtung": [
+        "Die genaue Zahl der Anspruchstage pro Kind und Elternteil pro Jahr sowie eventuelle Sonderregelungen für Alleinerziehende oder mehrere Kinder wurden in den letzten Jahren mehrfach angepasst (u. a. befristet erhöht während der Corona-Pandemie) – die aktuell geltende Tageszahl sollte direkt bei Ihrer Krankenkasse oder auf deren Website erfragt werden, statt sich auf ältere Angaben zu verlassen. Stand § 45 SGB V (gesetze-im-internet.de): Regelfall 10 Arbeitstage je Kind (Alleinerziehende 20), höchstens 25 (50); nur im Kalenderjahr 2026 15 je Kind (Alleinerziehende 30), höchstens 35 (70). Ab 1. Januar 2027 gilt wieder der Regelfall, sofern der Gesetzgeber nichts anderes beschließt; eine Verlängerung ist nicht belegt.",
+        "Anspruch auf Kinderkrankengeld haben nur gesetzlich krankenversicherte Eltern für gesetzlich krankenversicherte Kinder; privat Versicherte müssen ihren Anspruch aus dem individuellen Versicherungsvertrag prüfen.",
+        "Kinderkrankengeld setzt voraus, dass keine andere im Haushalt lebende Person die Betreuung übernehmen kann – bei Alleinerziehenden entfällt diese Voraussetzung praktisch von selbst."
+      ],
+      "fach_html": "\n<h3>Rechtsgrundlage und Verhältnis zur Freistellung</h3>\n<p>§ 45 SGB V begründet den Anspruch auf Kinderkrankengeld als Geldleistung der Krankenkasse. Der arbeitsrechtliche\nFreistellungsanspruch selbst ergibt sich für viele Beschäftigte aus § 45 Abs. 3 SGB V bzw. aus § 616 BGB\n(vorübergehende Verhinderung ohne eigenes Verschulden), soweit dieser nicht arbeits- oder tarifvertraglich\nausgeschlossen ist; Kinderkrankengeld tritt dann an die Stelle des ausbleibenden Entgelts.</p>\n<h3>Anspruchsdauer</h3>\n<p>Die Zahl der Tage, für die Kinderkrankengeld je Kalenderjahr je Kind und Elternteil beansprucht werden kann, ist\ngesetzlich festgelegt und für Alleinerziehende verdoppelt, mit einer Obergrenze bei mehreren Kindern. Diese\nTageszahlen wurden in der Vergangenheit mehrfach angepasst (u. a. befristete Erhöhungen 2021–2023); für eine aktuell\nverlässliche Zahl verweisen wir bewusst auf die Website Ihrer Krankenkasse oder des GKV-Spitzenverbandes, um keine\nmöglicherweise veraltete Zahl zu nennen.</p>\n",
+      "zustaendig": [
+        "Krankenkasse",
+        "Behandelnde Kinderärztin oder Kinderarzt (Bescheinigung)"
+      ],
+      "belege": [
+        "§ 45 SGB V (gesetze-im-internet.de)",
+        "§ 616 BGB (gesetze-im-internet.de)"
+      ],
+      "siehe_auch": [
+        "kindergeld-und-kinderzuschlag",
+        "beratung-anlaufstellen"
+      ],
+      "stand": "Stand: September 2026. Exakte Anspruchstage bewusst nicht beziffert – bitte aktuell bei der Krankenkasse erfragen."
+    },
+    {
+      "id": "kindergeld-und-kinderzuschlag",
+      "kategorie": "familie",
+      "titel": "Kindergeld und Kinderzuschlag",
+      "icon": "👨‍👩‍👧",
+      "teaser": "Kindergeld erhalten grundsätzlich alle Eltern; wer trotz Erwerbstätigkeit knapp über der Grundsicherungsschwelle liegt, kann zusätzlich Kinderzuschlag bekommen.",
+      "schlagworte": [
+        "Kindergeld",
+        "Kinderzuschlag",
+        "Familienkasse",
+        "Existenzminimum Kind",
+        "BKGG"
+      ],
+      "kurz_html": "\n<p><strong>Kindergeld</strong> steht grundsätzlich allen Eltern unabhängig vom Einkommen zu und wird von der\nFamilienkasse der Bundesagentur für Arbeit monatlich gezahlt (bzw. bei Beschäftigten des öffentlichen Dienstes teils\nvon der Bezügestelle). Familien mit eigenem, aber niedrigem Einkommen, die durch Kindergeld allein noch nicht aus der\nHilfebedürftigkeit herauskommen, können zusätzlich <strong>Kinderzuschlag</strong> beantragen, um den Bezug von\nGrundsicherungsgeld für die ganze Familie zu vermeiden.</p>\n",
+      "schritte": [
+        {
+          "titel": "Kindergeld beantragen",
+          "text": "Stellen Sie den Kindergeldantrag formlos oder über das Online-Portal der Familienkasse, möglichst kurz nach der Geburt – Kindergeld wird rückwirkend nur für begrenzte Zeit gezahlt."
+        },
+        {
+          "titel": "Geburtsurkunde einreichen",
+          "text": "Reichen Sie die Geburtsurkunde und ggf. weitere Nachweise (z. B. bei Kindern über 18 Jahren in Ausbildung) bei der Familienkasse ein."
+        },
+        {
+          "titel": "Einkommenssituation prüfen",
+          "text": "Prüfen Sie mit dem Kinderzuschlagsrechner der Familienkasse, ob Ihr Einkommen für einen zusätzlichen Kinderzuschlag infrage kommt."
+        },
+        {
+          "titel": "Kinderzuschlag gesondert beantragen",
+          "text": "Stellen Sie bei positivem Ergebnis einen gesonderten Antrag auf Kinderzuschlag bei der Familienkasse; er wird in der Regel für 6 Monate am Stück bewilligt."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "6 Monate rückwirkend",
+          "was": "Maximale rückwirkende Auszahlung von Kindergeld ab Antragstellung",
+          "grundlage": "§ 70 Abs. 1 Satz 2 EStG"
+        },
+        {
+          "wert": "6 Monate Bewilligungszeitraum",
+          "was": "Regulärer Bewilligungszeitraum beim Kinderzuschlag, danach neuer Antrag nötig",
+          "grundlage": "§ 6a Abs. 7 BKGG"
+        }
+      ],
+      "achtung": [
+        "Die genaue Höhe des monatlichen Kindergeldes sowie des maximalen Kinderzuschlags wurden in den letzten Jahren regelmäßig angepasst (u. a. Anhebungen zur Anpassung an das steuerliche Existenzminimum). Verlässliche, aktuelle Beträge finden Sie auf familienkasse.de bzw. arbeitsagentur.de – auf eine konkrete Eurosumme wird hier bewusst verzichtet, um keine veraltete Zahl zu verbreiten.",
+        "Für Alleinerziehende, die den Unterhaltsvorschuss beziehen, wird dieser teilweise mit Unterhaltsleistungen des anderen Elternteils verrechnet, nicht direkt mit dem Kindergeld – Einzelheiten zum Unterhaltsvorschuss und zum Entlastungsbetrag für Alleinerziehende finden Sie im Wegweiser „Alleinerziehende Mütter“.",
+        "Kinderzuschlag und Wohngeld können sich gegenseitig ausschließen oder ergänzen, je nach Haushaltssituation – lassen Sie sich im Zweifel individuell beraten, bevor Sie sich für eine Leistung entscheiden."
+      ],
+      "fach_html": "\n<h3>Kindergeld: Rechtsgrundlage</h3>\n<p>Kindergeld wird wahlweise als Steuervergünstigung (§§ 62 ff. EStG) oder nach dem Bundeskindergeldgesetz (BKGG)\ngezahlt; in der Praxis erfolgt die Auszahlung durch die Familienkassen monatlich im Voraus, die steuerliche\nVergleichsrechnung (Kindergeld vs. Kinderfreibetrag) erfolgt automatisch im Rahmen der Einkommensteuerveranlagung\n(Günstigerprüfung, § 31 EStG).</p>\n<h3>Kinderzuschlag</h3>\n<p>Der Kinderzuschlag nach § 6a BKGG richtet sich an Eltern, deren eigenes Einkommen zwar den eigenen Bedarf, nicht\naber den ihrer Kinder deckt, sodass die Familie insgesamt sonst auf Grundsicherungsgeld angewiesen wäre. Er wird\ngestaffelt nach Einkommen und Vermögen der Eltern berechnet und soll gemeinsam mit dem Kindergeld und ggf. Wohngeld\nden kindbezogenen Bedarf abdecken, sodass die Familie nicht in die Grundsicherung fallen muss (Nachranggedanke, siehe\nauch den Wegweiser „Arbeitslose“, Thema Kinderzuschlag).</p>\n<h3>Verhältnis zu Leistungen für Alleinerziehende</h3>\n<p>Alleinerziehende können zusätzlich <a href=\"../../alleinerziehende-muetter/themen/unterhaltsvorschuss.html\">Unterhaltsvorschuss</a>\n(bei Ausbleiben von Unterhaltszahlungen des anderen Elternteils) und den\n<a href=\"../../alleinerziehende-muetter/themen/alleinerziehenden-entlastungsbetrag.html\">steuerlichen Entlastungsbetrag\nfür Alleinerziehende</a> in Anspruch nehmen. Diese Leistungen sind nicht Gegenstand dieses allgemeinen Wegweisers,\nsondern werden im eigenständigen Wegweiser <a href=\"../../alleinerziehende-muetter/index.html\">„Alleinerziehende\nMütter“</a> vertieft behandelt.</p>\n",
+      "zustaendig": [
+        "Familienkasse der Bundesagentur für Arbeit (bzw. Bezügestelle im öffentlichen Dienst)"
+      ],
+      "belege": [
+        "§§ 62 ff. EStG (gesetze-im-internet.de)",
+        "§ 6a BKGG (gesetze-im-internet.de)"
+      ],
+      "siehe_auch": [
+        "kinderkrankengeld",
+        "beratung-anlaufstellen"
+      ],
+      "stand": "Stand: September 2026. Konkrete Eurobeträge bewusst nicht genannt – bitte aktuell bei der Familienkasse prüfen."
+    },
+    {
+      "id": "rueckkehr-nach-elternzeit",
+      "kategorie": "rueckkehr",
+      "titel": "Rückkehr in den Beruf nach der Elternzeit",
+      "icon": "🔄",
+      "teaser": "Nach der Elternzeit haben Sie grundsätzlich Anspruch auf Rückkehr in Ihre bisherige oder eine gleichwertige Position.",
+      "schlagworte": [
+        "Rückkehr nach Elternzeit",
+        "gleichwertiger Arbeitsplatz",
+        "Wiedereinstieg",
+        "Direktionsrecht"
+      ],
+      "kurz_html": "\n<p>Nach dem Ende Ihrer Elternzeit haben Sie Anspruch auf Beschäftigung entsprechend Ihrem Arbeitsvertrag. Ihr\nArbeitsplatz muss dabei nicht exakt derselbe sein wie vorher – der Arbeitgeber darf im Rahmen seines Direktionsrechts\neinen <strong>gleichwertigen</strong> Arbeitsplatz zuweisen, solange dieser Ihrer Qualifikation, Vergütungsgruppe und\nden vertraglichen Vereinbarungen entspricht.</p>\n",
+      "schritte": [
+        {
+          "titel": "Rückkehrtermin frühzeitig ansprechen",
+          "text": "Sprechen Sie mit Ihrem Arbeitgeber rechtzeitig vor Ende der Elternzeit über Termin und Ausgestaltung Ihrer Rückkehr, insbesondere über einen gewünschten Teilzeitwunsch."
+        },
+        {
+          "titel": "Arbeitszeitwunsch dokumentieren",
+          "text": "Stellen Sie einen etwaigen Antrag auf dauerhafte Teilzeit (unabhängig vom Elternzeit-Teilzeitanspruch) frühzeitig und schriftlich, wenn Sie nicht in Vollzeit zurückkehren möchten."
+        },
+        {
+          "titel": "Vertragskonformität prüfen",
+          "text": "Prüfen Sie, ob der Ihnen zugewiesene Arbeitsplatz nach Rückkehr tatsächlich gleichwertig ist (Vergütung, Aufgaben, Verantwortung) oder ob eine unzulässige Verschlechterung (Diskriminierung wegen der Elternzeit) vorliegt."
+        },
+        {
+          "titel": "Beratung bei Konflikten einholen",
+          "text": "Wenden Sie sich bei Konflikten an den Betriebs- oder Personalrat, die Gleichstellungsbeauftragte oder eine Fachanwältin/einen Fachanwalt für Arbeitsrecht."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "Keine gesetzliche Frist",
+          "was": "Für die Ankündigung des Rückkehrtermins selbst gibt es keine eigene Frist – er ergibt sich aus der ursprünglichen Elternzeit-Anmeldung; für einen Teilzeitantrag gelten die 7- bzw. 13-Wochen-Fristen des § 15 Abs. 7 BEEG",
+          "grundlage": "§ 15 Abs. 7 BEEG"
+        }
+      ],
+      "achtung": [
+        "Eine Benachteiligung wegen der Inanspruchnahme von Elternzeit (z. B. bei Beförderungen, Gehaltsanpassungen oder Aufgabenzuschnitt) ist unzulässig – das Allgemeine Gleichbehandlungsgesetz (AGG) und § 15 BEEG bieten hier Schutz, im Streitfall ist die Beweislage aber oft schwierig und sollte anwaltlich geprüft werden.",
+        "Der Anspruch auf Rückkehr richtet sich nach dem ursprünglichen Arbeitsvertrag, nicht nach einer während der Elternzeit möglicherweise vorübergehend ausgeübten Vertretungstätigkeit einer anderen Person.",
+        "Wenn Sie während der Elternzeit in Teilzeit gearbeitet haben, endet dieser Teilzeitanspruch grundsätzlich mit dem Ende der Elternzeit – für eine dauerhafte Fortführung der Teilzeit brauchen Sie einen gesonderten Antrag (z. B. nach TzBfG)."
+      ],
+      "fach_html": "\n<h3>Beschäftigungsanspruch und Direktionsrecht</h3>\n<p>Nach Ende der Elternzeit lebt das Arbeitsverhältnis in vollem bisherigen Umfang wieder auf. Der Arbeitgeber kann im\nRahmen seines Direktionsrechts (§ 106 GewO) einen anderen, aber gleichwertigen Arbeitsplatz zuweisen, wenn der\nbisherige nicht mehr existiert oder anderweitig besetzt werden musste; die arbeitsvertraglichen Kernbedingungen\n(Vergütungsgruppe, Qualifikationsniveau, wesentliche Aufgabenstruktur) müssen dabei gewahrt bleiben.</p>\n<h3>Diskriminierungsschutz</h3>\n<p>Benachteiligungen wegen der Elternzeit können sowohl einen Verstoß gegen § 612a BGB (Maßregelungsverbot) als auch\n– soweit sie mittelbar an das Geschlecht anknüpfen – gegen das AGG darstellen. Betroffene können sich an die\nAntidiskriminierungsstelle des Bundes oder eine Fachanwältin/einen Fachanwalt wenden.</p>\n",
+      "zustaendig": [
+        "Arbeitgeber",
+        "Betriebs-/Personalrat",
+        "Arbeitsgericht bei Streitigkeiten"
+      ],
+      "belege": [
+        "§ 15 BEEG (gesetze-im-internet.de)",
+        "§ 106 GewO (gesetze-im-internet.de)",
+        "§ 612a BGB, AGG (gesetze-im-internet.de)"
+      ],
+      "siehe_auch": [
+        "teilzeit-in-elternzeit",
+        "kitaplatz-rechtsanspruch",
+        "beratung-anlaufstellen"
+      ],
+      "stand": "Stand: September 2026."
+    },
+    {
+      "id": "adoption-und-pflegekindschaft",
+      "kategorie": "rueckkehr",
+      "titel": "Adoption und Pflegekindschaft: besondere Regeln",
+      "icon": "👪",
+      "teaser": "Auch Adoptiv- und Pflegeeltern haben Anspruch auf Elternzeit und Elterngeld – mit eigenen Fristen statt an den Geburtstermin gebunden.",
+      "schlagworte": [
+        "Adoption",
+        "Pflegekind",
+        "Adoptionspflege",
+        "Elternzeit Adoption",
+        "Elterngeld Adoption"
+      ],
+      "kurz_html": "\n<p>Auch wenn Sie ein Kind zur Adoption oder mit dem Ziel der Adoption in Pflege aufnehmen, haben Sie grundsätzlich\nAnspruch auf <strong>Elternzeit</strong> und <strong>Elterngeld</strong> – die Fristen laufen dann jedoch meist ab der\n<strong>Aufnahme des Kindes in Ihren Haushalt</strong> statt ab der Geburt. Mutterschutz im engeren Sinn (Schutzfristen\nvor/nach der Geburt) betrifft naturgemäß nur die leibliche Mutter und gilt für Adoptiv- oder Pflegeeltern nicht in\ngleicher Form. Für Pflegeeltern ohne Adoptionsabsicht (Dauerpflege) gelten teils abweichende, engere Regeln.</p>\n",
+      "schritte": [
+        {
+          "titel": "Aufnahmedatum dokumentieren",
+          "text": "Lassen Sie sich das Datum der Aufnahme des Kindes in Ihren Haushalt (z. B. durch Jugendamt oder Adoptionsvermittlungsstelle) schriftlich bestätigen – es ist der Ausgangspunkt für die meisten Fristen."
+        },
+        {
+          "titel": "Elternzeit anmelden",
+          "text": "Melden Sie Elternzeit unter den gleichen formalen Voraussetzungen wie bei leiblichen Kindern an, jedoch bezogen auf das Aufnahmedatum statt auf die Geburt."
+        },
+        {
+          "titel": "Elterngeld beantragen",
+          "text": "Beantragen Sie Elterngeld bei der zuständigen Elterngeldstelle; legen Sie den Aufnahmenachweis statt der Geburtsurkunde vor."
+        },
+        {
+          "titel": "Sonderregeln für Pflegekinder prüfen",
+          "text": "Klären Sie bei einer Dauerpflege ohne Adoptionsabsicht mit dem Jugendamt und der Elterngeldstelle, in welchem Umfang Elternzeit und Elterngeld greifen, da hier abweichende Voraussetzungen gelten können."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "8 Jahre ab Aufnahme",
+          "was": "Elternzeit für Adoptiv- und bestimmte Pflegeeltern kann bis zum Ablauf von acht Jahren nach der Aufnahme des Kindes beansprucht werden, längstens bis zur Vollendung des 8. Lebensjahres des Kindes",
+          "grundlage": "§ 15 Abs. 1 Satz 2, Abs. 2 BEEG"
+        }
+      ],
+      "achtung": [
+        "Die genauen Voraussetzungen unterscheiden sich danach, ob eine Adoption bereits vollzogen ist, eine Adoption erst vorbereitet wird (Adoptionspflege) oder es sich um eine Dauerpflege ohne Adoptionsabsicht handelt – im letzten Fall ist der Anspruch auf Elternzeit und Elterngeld eingeschränkter. Lassen Sie sich hierzu individuell beraten, bevor Sie disponieren.",
+        "Mutterschutz-Schutzfristen im engeren Sinn (6 Wochen vor / 8 Wochen nach Geburt) knüpfen an die Entbindung an und gelten für Adoptiv- oder Pflegeeltern nicht; ein eigenständiger „Mutterschutz“ für sie existiert im MuSchG nicht in vergleichbarer Form.",
+        "Bei Stiefkindadoption oder der Aufnahme eines Kindes des Partners/der Partnerin können nochmals abweichende Regeln gelten – auch hier empfiehlt sich eine gezielte Beratung."
+      ],
+      "fach_html": "\n<h3>Elternzeit bei Adoption und Pflege</h3>\n<p>§ 15 Abs. 1 Satz 2 BEEG erstreckt den Elternzeitanspruch auf Personen, die ein Kind in Adoptionspflege oder mit dem\nZiel der Adoption aufgenommen haben, sowie unter bestimmten Voraussetzungen auf sonstige Pflegepersonen im Sinne von\n§ 1630 Abs. 3 BGB oder § 1682 BGB. Der Zeitraum, in dem die Elternzeit beansprucht werden kann, wird dabei an das\nAufnahmedatum statt an den Geburtstermin geknüpft, längstens jedoch bis zur Vollendung des achten Lebensjahres des\nKindes.</p>\n<h3>Elterngeld bei Adoption und Pflege</h3>\n<p>§ 1 Abs. 3 und 4 BEEG erweitert den Kreis der Berechtigten für Elterngeld entsprechend auf Adoptiveltern und\nPersonen, die ein Kind in Vollzeitpflege mit Adoptionsabsicht aufgenommen haben; die Bezugsmonate berechnen sich hier\ngrundsätzlich ab der Aufnahme des Kindes, nicht ab dessen Geburt.</p>\n<h3>Dauerpflege ohne Adoptionsabsicht</h3>\n<p>Bei reiner Dauerpflege ohne Adoptionsabsicht ist die Rechtslage komplexer und hängt u. a. davon ab, ob die\nPflegeperson die Personensorge (zumindest teilweise) innehat; hierzu sollte im Einzelfall das Jugendamt oder eine\nPflegekinderberatungsstelle hinzugezogen werden.</p>\n",
+      "zustaendig": [
+        "Jugendamt / Adoptionsvermittlungsstelle",
+        "Elterngeldstelle des Bundeslandes",
+        "Arbeitgeber (Elternzeit)"
+      ],
+      "belege": [
+        "§ 15 Abs. 1, 2 BEEG (gesetze-im-internet.de)",
+        "§ 1 Abs. 3, 4 BEEG (gesetze-im-internet.de)"
+      ],
+      "siehe_auch": [
+        "elternzeit-anspruch-und-anmeldung",
+        "elterngeld",
+        "beratung-anlaufstellen"
+      ],
+      "stand": "Stand: September 2026."
+    },
+    {
+      "id": "beratung-anlaufstellen",
+      "kategorie": "beratung",
+      "titel": "Beratung und Anlaufstellen",
+      "icon": "📞",
+      "teaser": "Wer bei Fragen zu Mutterschutz, Elterngeld, Elternzeit und Kinderbetreuung weiterhilft.",
+      "schlagworte": [
+        "Schwangerschaftsberatung",
+        "Familienkasse",
+        "Elterngeldstelle",
+        "Beratungsstelle Schwangerschaft"
+      ],
+      "kurz_html": "\n<p>Für unterschiedliche Anliegen rund um Schwangerschaft, Geburt und Elternzeit gibt es jeweils eigene\nAnsprechpartner: <strong>Schwangerschaftsberatungsstellen</strong> (z. B. von Pro Familia, Diakonie, Caritas oder\nkommunalen Trägern) beraten kostenlos und vertraulich zu finanziellen Hilfen, sozialrechtlichen Fragen und\npersönlichen Anliegen rund um Schwangerschaft und Mutterschutz – unabhängig vom Familienstand. Für Elterngeld ist die\nElterngeldstelle Ihres Bundeslandes, für Kindergeld und Kinderzuschlag die Familienkasse der Bundesagentur für Arbeit\nzuständig. Bei arbeitsrechtlichen Konflikten (Kündigung, Diskriminierung) helfen Betriebs-/Personalräte, Gewerkschaften\noder Fachanwältinnen und Fachanwälte für Arbeitsrecht.</p>\n",
+      "schritte": [
+        {
+          "titel": "Anliegen einordnen",
+          "text": "Überlegen Sie, ob es um eine finanzielle Leistung (Elterngeld, Kindergeld, Mutterschaftsgeld), einen arbeitsrechtlichen Konflikt oder eine persönliche/soziale Frage geht – davon hängt die richtige Anlaufstelle ab."
+        },
+        {
+          "titel": "Schwangerschaftsberatung kontaktieren",
+          "text": "Wenden Sie sich bei allgemeinen Fragen, auch zu finanziellen Notlagen in der Schwangerschaft, an eine Schwangerschaftsberatungsstelle in Ihrer Nähe – die Beratung ist kostenlos und auf Wunsch anonym."
+        },
+        {
+          "titel": "Zuständige Behörde direkt ansprechen",
+          "text": "Kontaktieren Sie für Anträge direkt die zuständige Elterngeldstelle, Familienkasse oder Krankenkasse."
+        },
+        {
+          "titel": "Rechtliche Unterstützung suchen",
+          "text": "Bei drohender oder ausgesprochener Kündigung sowie bei Diskriminierung wenden Sie sich zeitnah an den Betriebs-/Personalrat, eine Gewerkschaft oder eine Fachanwältin/einen Fachanwalt für Arbeitsrecht – die Klagefristen sind kurz."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "Keine gesetzliche Frist",
+          "was": "Die Kontaktaufnahme mit einer Beratungsstelle ist jederzeit möglich; bei rechtlichen Schritten (z. B. Kündigungsschutzklage) gelten jedoch kurze Fristen von wenigen Wochen – siehe die jeweiligen Themenseiten",
+          "grundlage": "—"
+        }
+      ],
+      "achtung": [
+        "Schwangerschaftsberatungsstellen sind gesetzlich zur Vertraulichkeit verpflichtet und beraten unabhängig davon, ob Sie sich für oder gegen die Fortsetzung der Schwangerschaft entscheiden oder bereits entschieden haben.",
+        "Bei Kündigungen und ähnlichen zeitkritischen Konflikten zählt jeder Tag – warten Sie mit der Kontaktaufnahme zu einer Beratungsstelle oder Anwältin/einem Anwalt nicht, bis eine Frist bereits abgelaufen ist.",
+        "Für alleinerziehende Mütter und Väter gibt es zusätzliche, spezifische Anlaufstellen und Leistungen (z. B. zum Unterhaltsvorschuss), die im eigenständigen Wegweiser „Alleinerziehende Mütter“ vertieft behandelt werden."
+      ],
+      "fach_html": "\n<h3>Schwangerschaftsberatung</h3>\n<p>Der Anspruch auf kostenlose Schwangerschaftsberatung ergibt sich aus dem Schwangerschaftskonfliktgesetz (SchKG) und\n§ 2 SchKG in Verbindung mit landesrechtlichen Ausführungsvorschriften; Träger sind u. a. Pro Familia, Diakonisches\nWerk, Caritas und kommunale Gesundheitsämter. Die Beratung umfasst insbesondere Informationen zu finanziellen Hilfen\n(z. B. Stiftung „Mutter und Kind – Schutz des ungeborenen Lebens“), sozialrechtlichen Ansprüchen und persönlichen\nFragen.</p>\n<h3>Behördliche Zuständigkeiten im Überblick</h3>\n<p>Mutterschutz und Beschäftigungsverbote: Aufsichtsbehörde des jeweiligen Bundeslandes. Mutterschaftsgeld: Krankenkasse\n(bzw. Bundesamt für Soziale Sicherung in Sonderfällen). Elterngeld: Elterngeldstelle des Bundeslandes. Elternzeit:\nArbeitgeber. Kindergeld/Kinderzuschlag: Familienkasse der Bundesagentur für Arbeit. Kitaplatz: Jugendamt der Kommune.\nKinderkrankengeld: Krankenkasse.</p>\n<h3>Rechtsschutz</h3>\n<p>Bei arbeitsrechtlichen Streitigkeiten (Kündigung, Diskriminierung, Ablehnung von Teilzeit) ist das Arbeitsgericht\nzuständig; außergerichtliche Beratungshilfe kann beim Amtsgericht beantragt werden, für Klageverfahren ggf.\nProzesskostenhilfe. Gewerkschaften bieten ihren Mitgliedern häufig kostenlose arbeitsrechtliche Erstberatung.</p>\n<h3>Speziell für Alleinerziehende</h3>\n<p>Für alleinerziehende Mütter und Väter gibt es zusätzliche, spezifische Anlaufstellen und Leistungen, insbesondere\nden <a href=\"../../alleinerziehende-muetter/themen/unterhaltsvorschuss.html\">Unterhaltsvorschuss</a> und den\n<a href=\"../../alleinerziehende-muetter/themen/alleinerziehenden-entlastungsbetrag.html\">steuerlichen\nEntlastungsbetrag für Alleinerziehende</a>, die im eigenständigen Wegweiser\n<a href=\"../../alleinerziehende-muetter/index.html\">„Alleinerziehende Mütter“</a> vertieft behandelt werden.</p>\n",
+      "zustaendig": [
+        "Schwangerschaftsberatungsstellen (Pro Familia, Diakonie, Caritas, kommunale Stellen)",
+        "Elterngeldstelle, Familienkasse, Krankenkasse, Jugendamt (je nach Anliegen)"
+      ],
+      "belege": [
+        "§ 2 SchKG (gesetze-im-internet.de)"
+      ],
+      "siehe_auch": [
+        "ueberblick-rechte-schwangerschaft-elternzeit",
+        "kuendigungsschutz-mutterschutz",
+        "kuendigungsschutz-elternzeit"
+      ],
+      "stand": "Stand: September 2026."
+    }
+  ]
+}

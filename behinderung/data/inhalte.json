@@ -1,0 +1,1055 @@
+{
+ "stand": "Stand: September 2026.",
+ "kategorien": [
+  {
+   "id": "ueberblick",
+   "titel": "Überblick und Rechte",
+   "icon": "🧭",
+   "beschreibung": "Einstieg: Ihr Recht auf Teilhabe im Überblick."
+  },
+  {
+   "id": "ausweis",
+   "titel": "Ausweis und Feststellung",
+   "icon": "🪪",
+   "beschreibung": "Schwerbehindertenausweis beantragen, Grad der Behinderung, Widerspruch."
+  },
+  {
+   "id": "alltag",
+   "titel": "Nachteilsausgleiche im Alltag",
+   "icon": "🎫",
+   "beschreibung": "Steuer, Kfz-Steuer, Rundfunkbeitrag, Zusatzurlaub, Parken."
+  },
+  {
+   "id": "teilhabe",
+   "titel": "Teilhabeleistungen",
+   "icon": "🤝",
+   "beschreibung": "Eingliederungshilfe und Persönliches Budget."
+  },
+  {
+   "id": "arbeit",
+   "titel": "Arbeit und Beschäftigung",
+   "icon": "💼",
+   "beschreibung": "Budget für Arbeit, Werkstatt, Kündigungsschutz."
+  },
+  {
+   "id": "wohnen",
+   "titel": "Wohnen und Mobilität",
+   "icon": "🏠",
+   "beschreibung": "Barrierefreier Umbau, Nahverkehr und Freifahrt."
+  },
+  {
+   "id": "pflege",
+   "titel": "Pflege und Rente",
+   "icon": "🩺",
+   "beschreibung": "Pflegegrad und Erwerbsminderungsrente bei Behinderung."
+  },
+  {
+   "id": "bildung",
+   "titel": "Bildung",
+   "icon": "🎓",
+   "beschreibung": "Schule und Inklusion."
+  },
+  {
+   "id": "beratung",
+   "titel": "Beratung und Anlaufstellen",
+   "icon": "📞",
+   "beschreibung": "Wer bei welchem Anliegen hilft."
+  }
+ ],
+ "seiten": [
+  {
+   "id": "ueberblick-rechte-menschen-mit-behinderung",
+   "kategorie": "ueberblick",
+   "titel": "Rechte von Menschen mit Behinderung im Überblick",
+   "icon": "🧭",
+   "teaser": "Was das Neunte Buch Sozialgesetzbuch (SGB IX) für Sie regelt: Reha-Träger, Antragsverfahren und der Grundsatz „Reha vor Rente und Pflege“.",
+   "schlagworte": [
+    "SGB IX",
+    "UN-Behindertenrechtskonvention",
+    "Rehabilitationsträger",
+    "§ 14 SGB IX",
+    "Reha vor Rente",
+    "Teilhabe",
+    "Behinderungsbegriff",
+    "Zuständigkeitsklärung"
+   ],
+   "kurz_html": "<p>Menschen mit Behinderungen haben in Deutschland ein eigenständiges Leistungsrecht: das <strong>Neunte Buch Sozialgesetzbuch (SGB IX)</strong>. Es bündelt Regeln, die für alle Reha-Träger gelten – Renten-, Kranken- und Unfallversicherung, Bundesagentur für Arbeit, Jugend- und Sozialhilfeträger. Eine Behinderung liegt nach § 2 Abs. 1 SGB IX vor, wenn eine körperliche, seelische, geistige oder Sinnesbeeinträchtigung mit hoher Wahrscheinlichkeit länger als 6 Monate andauert und in Wechselwirkung mit Barrieren die gleichberechtigte Teilhabe am Leben in der Gesellschaft behindern kann.</p><p>Wichtigster Grundsatz: Egal bei welchem Träger Sie einen Antrag stellen, dieser muss innerhalb von 2 Wochen klären, ob er zuständig ist – notfalls muss er vorläufig leisten und sich das Geld später erstatten lassen. Sie müssen als Antragstellerin oder Antragsteller nicht selbst herausfinden, welcher von vielen möglichen Trägern zuständig ist.</p>",
+   "schritte": [
+    {
+     "titel": "Bedarf erkennen",
+     "text": "Ob Ausweis, Werkstattplatz, Wohnungsanpassung oder Schulbegleitung – schildern Sie formlos, was Sie brauchen, bei einer Stelle Ihres Vertrauens (Reha-Träger, EUTB, Sozialverband)."
+    },
+    {
+     "titel": "Antrag stellen",
+     "text": "Ein formloser, schriftlicher Antrag beim erstangegangenen Träger reicht. Dieser muss die Zuständigkeit innerhalb von 2 Wochen klären (§ 14 Abs. 1 SGB IX)."
+    },
+    {
+     "titel": "Bedarf ermitteln lassen",
+     "text": "Der zuständige Träger ermittelt den Rehabilitationsbedarf trägerübergreifend und stimmt sich bei Bedarf mit anderen Trägern ab (§§ 19–25 SGB IX)."
+    },
+    {
+     "titel": "Bescheid prüfen",
+     "text": "Sie erhalten einen schriftlichen Bescheid mit Rechtsbehelfsbelehrung. Gegen ablehnende oder unzureichende Bescheide können Sie Widerspruch einlegen."
+    },
+    {
+     "titel": "Beratung nutzen",
+     "text": "Bei Unsicherheit unterstützt Sie die Ergänzende unabhängige Teilhabeberatung (EUTB) kostenlos und unabhängig von den Trägern."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "2 Wochen",
+     "was": "Der erstangegangene Träger muss klären, ob er zuständig ist oder weiterleitet",
+     "grundlage": "§ 14 Abs. 1 SGB IX"
+    },
+    {
+     "wert": "1 Monat",
+     "was": "Widerspruchsfrist gegen einen ablehnenden oder unvollständigen Bescheid",
+     "grundlage": "§ 84 SGG"
+    }
+   ],
+   "achtung": [
+    "Ein Träger darf einen Antrag nicht einfach liegen lassen, weil er sich für unzuständig hält – er muss innerhalb von 2 Wochen weiterleiten, sonst bleibt er im Verhältnis zu Ihnen zuständig.",
+    "„Reha vor Rente und Pflege“ heißt: Teilhabeleistungen sollen Pflegebedürftigkeit und vorzeitige Berentung möglichst verhindern oder hinausschieben – prüfen Sie deshalb immer zuerst Reha- und Teilhabeleistungen.",
+    "Der leistungsberechtigte Personenkreis der Eingliederungshilfe (§ 99 SGB IX) sollte eigentlich enger gefasst neu geregelt werden; diese Neufassung wurde jedoch mehrfach verschoben. Maßgeblich sind bis auf Weiteres übergangsweise weiterhin die §§ 1–3 der Eingliederungshilfe-Verordnung in der am 31.12.2019 geltenden Fassung.",
+    "Ein GdB-Bescheid und die Leistungsberechtigung nach SGB IX Teil 2 (Eingliederungshilfe) sind zwei verschiedene Verfahren mit unterschiedlichen Voraussetzungen – der eine ersetzt den anderen nicht automatisch."
+   ],
+   "fach_html": "<h3>Aufbau des SGB IX</h3><p>Teil 1 (§§ 1–89) enthält die für alle Reha-Träger gemeinsamen Regeln (Verfahren, Teilhabeplanung, Persönliches Budget, Frauenbeauftragte). Teil 2 (§§ 90–150) regelt die Eingliederungshilfe als eigenständiges Leistungsgesetz (seit der vollständigen Herauslösung aus dem Sozialhilferecht durch das Bundesteilhabegesetz zum 1.1.2020). Teil 3 (§§ 151–241) enthält das Schwerbehindertenrecht: Ausweis, Nachteilsausgleiche, besonderer Kündigungsschutz, Werkstätten und die Pflichten der Arbeitgeber.</p><h3>Zuständigkeitsklärung nach § 14 SGB IX</h3><p>Stellt jemand einen Antrag auf Teilhabeleistungen, muss der Reha-Träger, bei dem der Antrag zuerst eingeht („erstangegangener Träger“), innerhalb von 2 Wochen prüfen, ob er nach dem für ihn geltenden Leistungsgesetz zuständig ist. Hält er sich für unzuständig, muss er den Antrag unverzüglich an den aus seiner Sicht zuständigen Träger weiterleiten – tut er das nicht fristgerecht, bleibt er im Außenverhältnis zur leistungsberechtigten Person zuständig und muss leisten, notfalls vorläufig (§ 24 SGB IX), mit Erstattungsanspruch gegen den eigentlich zuständigen Träger.</p><h3>UN-Behindertenrechtskonvention</h3><p>Deutschland hat die UN-Behindertenrechtskonvention (UN-BRK) 2009 ratifiziert. Sie ist als Bundesgesetz unmittelbar geltendes Recht und Auslegungsmaßstab, begründet aber überwiegend keine unmittelbar einklagbaren Einzelansprüche, sondern wirkt als Programmsatz und Auslegungshilfe für das SGB IX und andere Gesetze – etwa bei der Auslegung von Art. 24 (Bildung) oder Art. 27 (Arbeit).</p>",
+   "zustaendig": [
+    "Je nach Leistung: Renten-, Kranken- oder Unfallversicherung, Bundesagentur für Arbeit, überörtlicher oder örtlicher Sozialhilfeträger, Jugendamt – Zuständigkeit klärt der erstangegangene Träger"
+   ],
+   "belege": [
+    "§§ 1, 2, 14, 19–25 SGB IX (gesetze-im-internet.de)",
+    "§ 84 SGG (gesetze-im-internet.de)",
+    "§§ 1–3 Eingliederungshilfe-Verordnung, Fassung 31.12.2019 (gesetze-im-internet.de)",
+    "Gesetz zur Ratifizierung der UN-Behindertenrechtskonvention, BGBl. 2008 II S. 1419"
+   ],
+   "siehe_auch": [
+    "schwerbehindertenausweis-beantragen",
+    "eingliederungshilfe-teilhabeleistungen",
+    "beratung-anlaufstellen-behinderung"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "schwerbehindertenausweis-beantragen",
+   "kategorie": "ausweis",
+   "titel": "Schwerbehindertenausweis beantragen",
+   "icon": "🪪",
+   "teaser": "Ab GdB 50 gelten Sie als schwerbehindert. So stellen Sie den Antrag beim Versorgungsamt und was der Ausweis bewirkt.",
+   "schlagworte": [
+    "Schwerbehindertenausweis",
+    "Versorgungsamt",
+    "GdB 50",
+    "SchwbAwV",
+    "Gleichstellung",
+    "Merkzeichen",
+    "§ 152 SGB IX",
+    "§ 2 SGB IX"
+   ],
+   "kurz_html": "<p>Ab einem Grad der Behinderung (GdB) von <strong>50</strong> gelten Sie als schwerbehindert (§ 2 Abs. 2 SGB IX) und können einen Schwerbehindertenausweis beantragen. Zuständig ist das Versorgungsamt bzw. die entsprechende Behörde Ihres Bundeslandes (Bezeichnung variiert: Versorgungsamt, Amt für Soziale Angelegenheiten, Zentrum Bayern Familie und Soziales u. a.). Der Ausweis weist Ihre Behinderung und ggf. Merkzeichen nach, die Sie zu bestimmten Nachteilsausgleichen berechtigen.</p><p>Liegt Ihr GdB zwischen 30 und 50, können Sie bei der Agentur für Arbeit eine <strong>Gleichstellung</strong> mit schwerbehinderten Menschen beantragen (§ 2 Abs. 3 SGB IX), wenn Sie ohne die Gleichstellung Ihren Arbeitsplatz nicht behalten oder keinen geeigneten Arbeitsplatz finden können. Die Gleichstellung gibt Zugang zu arbeitsrechtlichen Nachteilsausgleichen, aber keinen Ausweis mit Merkzeichen.</p>",
+   "schritte": [
+    {
+     "titel": "Antragsformular besorgen",
+     "text": "Das Antragsformular gibt es online oder direkt beim zuständigen Versorgungsamt Ihres Bundeslandes."
+    },
+    {
+     "titel": "Ärztliche Unterlagen zusammenstellen",
+     "text": "Legen Sie Befunde, Arztberichte und Diagnosen aller relevanten Erkrankungen bei – je vollständiger, desto zügiger die Bearbeitung."
+    },
+    {
+     "titel": "Antrag einreichen",
+     "text": "Reichen Sie den Antrag schriftlich beim Versorgungsamt ein; das Amt holt bei Bedarf weitere ärztliche Stellungnahmen und Gutachten ein."
+    },
+    {
+     "titel": "Bescheid abwarten",
+     "text": "Sie erhalten einen Feststellungsbescheid mit Gesamt-GdB und ggf. Merkzeichen. Bei Zuerkennung wird der Ausweis ausgestellt."
+    },
+    {
+     "titel": "Ausweis nutzen und Änderungen melden",
+     "text": "Verschlechtert sich Ihr Zustand wesentlich, können Sie jederzeit einen Neufeststellungsantrag stellen; bei Besserung kann das Amt den GdB von sich aus überprüfen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "1 Monat",
+     "was": "Widerspruchsfrist gegen den Feststellungsbescheid ab Zustellung",
+     "grundlage": "§ 84 SGG"
+    },
+    {
+     "wert": "befristet oder unbefristet",
+     "was": "Der Ausweis wird je nach Erkrankungsbild befristet (meist 5 Jahre) oder dauerhaft ausgestellt; rechtzeitig vor Ablauf Verlängerung beantragen",
+     "grundlage": "SchwbAwV"
+    }
+   ],
+   "achtung": [
+    "Der Gesamt-GdB wird nicht durch Addition der Einzel-GdB-Werte gebildet, sondern durch eine wertende Gesamtschau nach der Versorgungsmedizin-Verordnung (VersMedV) – zwei Werte von 30 ergeben nicht automatisch 60.",
+    "Unvollständige medizinische Unterlagen sind die häufigste Ursache für lange Bearbeitungszeiten – legen Sie nach Möglichkeit bereits mit dem Antrag alle relevanten Befunde bei.",
+    "Ein befristeter Ausweis verliert nach Fristablauf seine Gültigkeit; stellen Sie den Verlängerungsantrag rechtzeitig vor Ablauf, damit keine Lücke entsteht.",
+    "Die Gleichstellung (GdB 30–50) wirkt nicht rückwirkend vor Antragstellung bei der Agentur für Arbeit und ersetzt keinen Ausweis mit Merkzeichen."
+   ],
+   "fach_html": "<h3>Verfahren nach der SchwbAwV</h3><p>Das Verfahren zur Ausstellung des Ausweises richtet sich nach der Schwerbehindertenausweisverordnung (SchwbAwV). Die Feststellung von Behinderung und GdB selbst erfolgt nach § 152 SGB IX durch die zuständige Behörde der Länder (in der Regel die Versorgungsverwaltung), die medizinische Bewertung nach der Versorgungsmedizin-Verordnung (VersMedV) mit ihren Versorgungsmedizinischen Grundsätzen als Anlage.</p><h3>Gesamt-GdB-Bildung</h3><p>Nach Teil A Nr. 3 der Anlage zu § 2 VersMedV wird zunächst der GdB für die Funktionsbeeinträchtigung mit der stärksten Auswirkung festgestellt; weitere Beeinträchtigungen werden nur berücksichtigt, wenn sie das Ausmaß der Behinderung tatsächlich vergrößern. Eine rein rechnerische Addition einzelner Werte ist ausdrücklich unzulässig.</p><h3>Gleichstellung, § 2 Abs. 3 SGB IX</h3><p>Zuständig für die Gleichstellung ist die Agentur für Arbeit. Voraussetzung ist ein GdB von mindestens 30, aber weniger als 50, sowie die Gefährdung des Arbeitsplatzes ohne Gleichstellung. Gleichgestellte Menschen erhalten u. a. Zugang zum besonderen Kündigungsschutz und zu Leistungen der begleitenden Hilfe im Arbeitsleben, nicht aber zu den Nachteilsausgleichen, die an den Ausweis oder an Merkzeichen anknüpfen (z. B. Zusatzurlaub, Wertmarke).</p>",
+   "zustaendig": [
+    "Versorgungsamt bzw. zuständige Landesbehörde (Bezeichnung je Bundesland unterschiedlich) für Ausweis und GdB",
+    "Agentur für Arbeit für die Gleichstellung"
+   ],
+   "belege": [
+    "§§ 2, 152 SGB IX (gesetze-im-internet.de)",
+    "Schwerbehindertenausweisverordnung – SchwbAwV (gesetze-im-internet.de)",
+    "Versorgungsmedizin-Verordnung – VersMedV mit Anlage „Versorgungsmedizinische Grundsätze“ (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "grad-der-behinderung-widerspruch",
+    "nachteilsausgleiche-alltag",
+    "kuendigungsschutz-schwerbehinderte"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "grad-der-behinderung-widerspruch",
+   "kategorie": "ausweis",
+   "titel": "Grad der Behinderung: Bemessung und Widerspruch",
+   "icon": "⚖️",
+   "teaser": "Wie der GdB nach der Versorgungsmedizin-Verordnung bemessen wird – und wie Sie sich gegen einen zu niedrigen Bescheid wehren.",
+   "schlagworte": [
+    "Grad der Behinderung",
+    "GdB",
+    "VersMedV",
+    "Widerspruch",
+    "Neufeststellung",
+    "Sozialgericht",
+    "Versorgungsmedizinische Grundsätze",
+    "§ 84 SGG"
+   ],
+   "kurz_html": "<p>Der Grad der Behinderung (GdB) beschreibt in Zehnerschritten von 20 bis 100, wie stark eine Person durch gesundheitliche Beeinträchtigungen in ihrer Teilhabe eingeschränkt ist – unabhängig von der konkreten Diagnose, sondern nach den tatsächlichen Auswirkungen im Alltag. Grundlage ist die Versorgungsmedizin-Verordnung (VersMedV) mit ihren Versorgungsmedizinischen Grundsätzen, die für sehr viele Erkrankungsbilder GdB-Rahmenwerte vorgeben.</p><p>Sind Sie mit dem festgestellten GdB nicht einverstanden, können Sie innerhalb eines Monats nach Zustellung schriftlich Widerspruch beim Versorgungsamt einlegen. Verschlechtert sich Ihr Gesundheitszustand später wesentlich, ist unabhängig davon jederzeit ein neuer Antrag auf Neufeststellung möglich.</p>",
+   "schritte": [
+    {
+     "titel": "Bescheid genau lesen",
+     "text": "Prüfen Sie, welche Einzel-GdB-Werte für welche Funktionsbeeinträchtigungen angesetzt wurden und wie der Gesamt-GdB gebildet wurde."
+    },
+    {
+     "titel": "Ärztliche Unterlagen ergänzen",
+     "text": "Fehlen aktuelle Befunde zu einzelnen Erkrankungen, reichen Sie diese nach – oft ist eine unvollständige Aktenlage der Grund für einen niedrigeren GdB."
+    },
+    {
+     "titel": "Widerspruch fristgerecht einlegen",
+     "text": "Ein kurzer, formloser Widerspruch innerhalb der Monatsfrist genügt zunächst; die Begründung kann nachgereicht werden."
+    },
+    {
+     "titel": "Widerspruchsbescheid abwarten",
+     "text": "Das Amt prüft erneut, ggf. mit weiteren Gutachten. Bleibt es bei der Ablehnung, ergeht ein Widerspruchsbescheid mit Rechtsbehelfsbelehrung."
+    },
+    {
+     "titel": "Klage vor dem Sozialgericht",
+     "text": "Gegen den Widerspruchsbescheid können Sie klagen; das Verfahren vor dem Sozialgericht ist für Sie gerichtskostenfrei."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "1 Monat",
+     "was": "Widerspruchsfrist ab Zustellung des Feststellungsbescheids",
+     "grundlage": "§ 84 SGG"
+    },
+    {
+     "wert": "1 Monat",
+     "was": "Klagefrist gegen den Widerspruchsbescheid ab Zustellung",
+     "grundlage": "§ 87 SGG"
+    },
+    {
+     "wert": "jederzeit möglich",
+     "was": "Antrag auf Neufeststellung bei wesentlicher Änderung der Verhältnisse",
+     "grundlage": "§ 152 Abs. 1 Satz 2 SGB IX"
+    }
+   ],
+   "achtung": [
+    "Ein Widerspruch ohne jede Begründung sichert zunächst nur die Frist – reichen Sie die medizinische Begründung so bald wie möglich nach, sonst zieht sich das Verfahren unnötig in die Länge.",
+    "Ein Neufeststellungsantrag kann auch zu einer Herabsetzung des GdB führen, wenn sich der Zustand tatsächlich gebessert hat – stellen Sie ihn nur, wenn eine Verschlechterung vorliegt, nicht „zur Sicherheit“.",
+    "Bei psychischen und chronischen Erkrankungen wird der GdB häufig unterschätzt, wenn die Unterlagen die Auswirkungen im Alltag (z. B. Belastbarkeit, Krankheitstage) nicht konkret genug beschreiben.",
+    "Gerichtliche Gutachten dauern oft mehrere Monate – wer währenddessen dringend auf Nachteilsausgleiche angewiesen ist, sollte parallel prüfen, ob ein vorläufiger Ausweis oder andere Übergangslösungen infrage kommen."
+   ],
+   "fach_html": "<h3>Bemessungsgrundlage</h3><p>Rechtsgrundlage der GdB-Feststellung ist § 152 SGB IX in Verbindung mit der Versorgungsmedizin-Verordnung (VersMedV). Deren Anlage „Versorgungsmedizinische Grundsätze“ enthält für die meisten Krankheitsbilder GdB-Tabellen mit Rahmenwerten, die im Einzelfall nach dem Ausmaß der Funktionseinschränkung anzuwenden sind. Maßgeblich sind nicht Diagnosen an sich, sondern deren tatsächliche Auswirkung auf die Teilhabe.</p><h3>Gesamt-GdB und wechselseitige Verstärkung</h3><p>Bei mehreren Beeinträchtigungen wird zunächst die Beeinträchtigung mit dem höchsten Einzel-GdB als Ausgangswert genommen. Weitere Beeinträchtigungen erhöhen den Gesamt-GdB nur, soweit sie das Ausmaß der Behinderung tatsächlich vergrößern; eine schematische Addition ist unzulässig (Teil A Nr. 3 VersMedV-Anlage).</p><h3>Rechtsweg</h3><p>Gegen den Feststellungsbescheid ist der Widerspruch nach § 84 SGG statthaft, gegen den Widerspruchsbescheid die Klage vor dem örtlich zuständigen Sozialgericht (§ 87 SGG). Das sozialgerichtliche Verfahren ist für Versicherte und Antragstellende in der ersten und zweiten Instanz grundsätzlich gerichtskostenfrei (§ 183 SGG); es gilt der Amtsermittlungsgrundsatz, das Gericht holt bei Bedarf eigene Sachverständigengutachten ein.</p>",
+   "zustaendig": [
+    "Versorgungsamt bzw. zuständige Landesbehörde (Widerspruch)",
+    "Sozialgericht (Klage)"
+   ],
+   "belege": [
+    "§ 152 SGB IX (gesetze-im-internet.de)",
+    "Versorgungsmedizin-Verordnung – VersMedV (gesetze-im-internet.de)",
+    "§§ 84, 87, 183 SGG (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "schwerbehindertenausweis-beantragen",
+    "beratung-anlaufstellen-behinderung"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "nachteilsausgleiche-alltag",
+   "kategorie": "alltag",
+   "titel": "Nachteilsausgleiche im Alltag",
+   "icon": "🎫",
+   "teaser": "Steuerfreibetrag, Kfz-Steuer, Rundfunkbeitrag, Zusatzurlaub und Parkausweis: Was Merkzeichen und GdB im Alltag konkret bringen.",
+   "schlagworte": [
+    "Behinderten-Pauschbetrag",
+    "§ 33b EStG",
+    "Merkzeichen",
+    "Kfz-Steuerbefreiung",
+    "Rundfunkbeitrag",
+    "Merkzeichen RF",
+    "Zusatzurlaub",
+    "§ 208 SGB IX",
+    "Schwerbehindertenparkausweis",
+    "§ 46 StVO"
+   ],
+   "kurz_html": "<p>Der Ausweis und die eingetragenen Merkzeichen öffnen eine Reihe von Nachteilsausgleichen. Wichtig: Nicht jeder Nachteilsausgleich hängt am GdB allein – viele setzen ein bestimmtes <strong>Merkzeichen</strong> voraus, zum Beispiel „aG“ (außergewöhnliche Gehbehinderung) für den blauen Parkausweis oder „RF“ für die Ermäßigung des Rundfunkbeitrags. Prüfen Sie deshalb bei jedem Anspruch genau, ob Sie das dafür nötige Merkzeichen tatsächlich haben.</p><p>Zu den wichtigsten Nachteilsausgleichen zählen der steuerliche Behinderten-Pauschbetrag, eine Kfz-Steuerermäßigung oder -befreiung, ein zusätzlicher bezahlter Urlaubsanspruch von 5 Arbeitstagen im Jahr sowie – mit dem passenden Merkzeichen – der Parkausweis und die Ermäßigung des Rundfunkbeitrags.</p>",
+   "schritte": [
+    {
+     "titel": "Merkzeichen prüfen",
+     "text": "Sehen Sie in Ihrem Ausweis nach, welche Merkzeichen eingetragen sind – davon hängt ab, welche Nachteilsausgleiche infrage kommen."
+    },
+    {
+     "titel": "Steuerlichen Pauschbetrag geltend machen",
+     "text": "Tragen Sie den Behinderten-Pauschbetrag in Ihrer Einkommensteuererklärung ein; er wird ohne Einzelnachweis der Kosten gewährt."
+    },
+    {
+     "titel": "Kfz-Steuer prüfen lassen",
+     "text": "Bei den Merkzeichen H, Bl oder aG kommt eine vollständige Kfz-Steuerbefreiung infrage, bei G oder Gl eine Ermäßigung um 50 % – Antrag beim zuständigen Hauptzollamt."
+    },
+    {
+     "titel": "Rundfunkbeitrag ermäßigen lassen",
+     "text": "Mit Merkzeichen RF ermäßigt sich der Rundfunkbeitrag auf ein Drittel – dafür müssen Sie beim Beitragsservice einen gesonderten Antrag stellen, die Ermäßigung erfolgt nicht automatisch."
+    },
+    {
+     "titel": "Parkausweis beantragen",
+     "text": "Mit Merkzeichen aG oder Bl können Sie bei der örtlichen Straßenverkehrsbehörde den blauen EU-Parkausweis nach § 46 StVO beantragen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "bis zu 3 Jahre rückwirkend",
+     "was": "Ermäßigung oder Befreiung vom Rundfunkbeitrag kann rückwirkend ab dem Monat der Antragstellung, höchstens 3 Jahre zurück, gewährt werden",
+     "grundlage": "§ 4 Abs. 4 Rundfunkbeitragsstaatsvertrag"
+    }
+   ],
+   "achtung": [
+    "Der Rundfunkbeitrag wird trotz eingetragenem Merkzeichen RF nicht automatisch ermäßigt – ohne gesonderten Antrag beim Beitragsservice bleibt es bei der vollen Zahlungspflicht.",
+    "Der Behinderten-Pauschbetrag schließt den Abzug höherer tatsächlicher Kosten als außergewöhnliche Belastung nicht in jedem Fall aus – im Einzelfall kann der Einzelnachweis günstiger sein; das sollte eine Steuerberatung prüfen.",
+    "Der Schwerbehindertenausweis allein berechtigt nicht zum Parken auf Schwerbehindertenparkplätzen – dafür ist zusätzlich der gesondert zu beantragende blaue Parkausweis nach § 46 StVO nötig.",
+    "Welche Vergünstigungen private Anbieter (z. B. Eintrittsermäßigungen, Nahverkehrsunternehmen) über die gesetzlichen Nachteilsausgleiche hinaus gewähren, ist freiwillig und von Ort zu Ort unterschiedlich."
+   ],
+   "fach_html": "<h3>Behinderten-Pauschbetrag, § 33b EStG</h3><p>Der Pauschbetrag steigt gestaffelt nach GdB von 384 Euro (ab GdB 20) bis 2.840 Euro (bei GdB 100) im Jahr. Bei Hilflosigkeit, Blindheit oder Taubblindheit gilt unabhängig vom GdB ein einheitlicher erhöhter Pauschbetrag von 7.400 Euro. Der Pauschbetrag deckt typische behinderungsbedingte Mehraufwendungen ohne Einzelnachweis ab.</p><h3>Kfz-Steuer</h3><p>Bei den Merkzeichen H, Bl oder aG kommt eine vollständige Kraftfahrzeugsteuerbefreiung in Betracht; bei den Merkzeichen G oder Gl eine Ermäßigung um 50 %, sofern auf die unentgeltliche Beförderung im öffentlichen Personenverkehr (Wertmarke) verzichtet wird. Zuständig ist das Hauptzollamt.</p><h3>Merkzeichen RF und Rundfunkbeitrag</h3><p>Das Merkzeichen RF steht u. a. Menschen zu, die blind oder wesentlich sehbehindert sind (GdB mindestens 60 allein wegen der Sehbehinderung), Gehörlosen bzw. Menschen mit ausgeprägter Hörschädigung sowie Menschen mit einem GdB von mindestens 80, die deswegen an öffentlichen Veranstaltungen ständig nicht teilnehmen können (§ 4 Abs. 2 Rundfunkbeitragsstaatsvertrag i. V. m. den Feststellungskriterien der Versorgungsverwaltung). Es ermäßigt den Rundfunkbeitrag auf ein Drittel; eine vollständige Befreiung setzt in der Regel den Bezug bestimmter Sozialleistungen voraus.</p><h3>Zusatzurlaub, § 208 SGB IX</h3><p>Schwerbehinderte Menschen haben Anspruch auf einen zusätzlichen bezahlten Urlaub von 5 Arbeitstagen im Jahr bei einer Fünf-Tage-Woche; bei anderer Verteilung der Arbeitszeit wird der Anspruch entsprechend umgerechnet. Der Anspruch besteht zusätzlich zum gesetzlichen oder tarifvertraglichen Mindesturlaub.</p><h3>Parkausweis, § 46 StVO</h3><p>Der blaue EU-Parkausweis ist eine Ausnahmegenehmigung der Straßenverkehrsbehörde nach § 46 Abs. 1 Nr. 11 StVO. Er setzt in aller Regel das Merkzeichen aG oder Bl voraus und wird gesondert vom Ausweis bei der örtlichen Straßenverkehrsbehörde beantragt.</p>",
+   "zustaendig": [
+    "Finanzamt (Pauschbetrag)",
+    "Hauptzollamt (Kfz-Steuer)",
+    "Beitragsservice von ARD, ZDF und Deutschlandradio (Rundfunkbeitrag)",
+    "Örtliche Straßenverkehrsbehörde (Parkausweis)"
+   ],
+   "belege": [
+    "§ 33b EStG (gesetze-im-internet.de)",
+    "§ 3a Kraftfahrzeugsteuergesetz (gesetze-im-internet.de)",
+    "§ 4 Rundfunkbeitragsstaatsvertrag",
+    "§ 208 SGB IX (gesetze-im-internet.de)",
+    "§ 46 StVO (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "schwerbehindertenausweis-beantragen",
+    "mobilitaet-und-oeffentlicher-nahverkehr"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "eingliederungshilfe-teilhabeleistungen",
+   "kategorie": "teilhabe",
+   "titel": "Eingliederungshilfe: Teilhabeleistungen im Überblick",
+   "icon": "🧩",
+   "teaser": "Assistenz, Wohnen, Teilhabe an Bildung und am Arbeitsleben: Was die Eingliederungshilfe seit dem Bundesteilhabegesetz leistet.",
+   "schlagworte": [
+    "Eingliederungshilfe",
+    "Bundesteilhabegesetz",
+    "BTHG",
+    "§ 99 SGB IX",
+    "Fachleistung",
+    "Vermögensfreibetrag",
+    "Einkommensfreibetrag",
+    "Assistenzleistung",
+    "Teilhabeplan"
+   ],
+   "kurz_html": "<p>Die Eingliederungshilfe (SGB IX Teil 2) unterstützt Menschen mit wesentlichen Behinderungen dabei, selbstbestimmt zu leben und gleichberechtigt teilzuhaben – etwa durch Assistenz im Alltag, beim Wohnen, in der Freizeit, in der Schule oder am Arbeitsplatz. Mit dem Bundesteilhabegesetz (BTHG) wurde sie schrittweise aus dem Sozialhilferecht herausgelöst und zu einem eigenständigen Teilhaberecht weiterentwickelt (vollständig umgesetzt zum 1.1.2020).</p><p>Anders als bei Sozialhilfe im engeren Sinn müssen Sie Ihr Einkommen und Vermögen bei der Eingliederungshilfe nur noch begrenzt einsetzen: Es gelten eigene, deutlich höhere Freibeträge als in der klassischen Sozialhilfe.</p>",
+   "schritte": [
+    {
+     "titel": "Bedarf beschreiben",
+     "text": "Formulieren Sie, wofür Sie Unterstützung brauchen (Wohnen, Assistenz, Freizeit, Arbeit, Bildung) – am besten mit Unterstützung einer Beratungsstelle."
+    },
+    {
+     "titel": "Antrag beim Träger der Eingliederungshilfe stellen",
+     "text": "Zuständig ist meist der überörtliche Sozialhilfeträger (z. B. Landschaftsverband, Bezirk, Landkreis – Organisation ist je Bundesland unterschiedlich geregelt)."
+    },
+    {
+     "titel": "Bedarfsermittlung durchlaufen",
+     "text": "Der Träger ermittelt Ihren individuellen Bedarf mit einem Instrument nach der International Classification of Functioning (ICF) und erstellt bei Bedarf einen Gesamt- bzw. Teilhabeplan (§§ 117–122 SGB IX)."
+    },
+    {
+     "titel": "Einkommen und Vermögen prüfen lassen",
+     "text": "Der Träger prüft, in welcher Höhe Sie Einkommen (85, 75 oder 60 % des maßgeblichen Jahresbetrags als Freibetrag, je nach Einkommensart) und Vermögen (Freibetrag in Höhe von 150 % der Bezugsgröße) einsetzen müssen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "1 Monat",
+     "was": "Widerspruchsfrist gegen einen ablehnenden oder unzureichenden Bescheid",
+     "grundlage": "§ 84 SGG"
+    }
+   ],
+   "achtung": [
+    "Eine geplante engere Neufassung des leistungsberechtigten Personenkreises (§ 99 SGB IX) wurde mehrfach verschoben – maßgeblich sind bis auf Weiteres übergangsweise die §§ 1–3 der Eingliederungshilfe-Verordnung in der Fassung vom 31.12.2019, nicht ein neuer, engerer Personenkreis.",
+    "Vermögens- und Einkommensfreibeträge richten sich nach der jährlich neu festgesetzten Bezugsgröße der Sozialversicherung und ändern sich deshalb jedes Jahr – ein für 2026 recherchierter Betrag muss für spätere Jahre neu geprüft werden.",
+    "Eingliederungshilfe und Pflegeleistungen nach SGB XI schließen sich nicht gegenseitig aus, überschneiden sich aber in der Praxis oft (z. B. beim gemeinsamen Wohnen) – die genaue Abgrenzung regelt § 103 SGB IX und ist im Einzelfall komplex.",
+    "Die Zuständigkeit für Eingliederungshilfe ist zwischen den Bundesländern unterschiedlich organisiert (Landschaftsverbände, Bezirke, Landkreise, kreisfreie Städte) – die konkrete Anlaufstelle vor Ort erfragen Sie am besten bei einer Beratungsstelle."
+   ],
+   "fach_html": "<h3>Rechtsgrundlage und Personenkreis</h3><p>Anspruchsgrundlage ist § 99 i. V. m. §§ 90 ff. SGB IX. Die im BTHG angelegte engere Neudefinition des leistungsberechtigten Personenkreises ist bislang nicht in Kraft getreten; der Bundesrat lehnte eine entsprechende Neufassung 2021 ab. Bis zu einer gesetzlichen Neuregelung gelten übergangsweise weiterhin die §§ 1 bis 3 der Eingliederungshilfe-Verordnung in der am 31.12.2019 geltenden Fassung entsprechend (Art. 25a BTHG).</p><h3>Leistungsgruppen</h3><p>Das Gesetz unterscheidet u. a. Leistungen zur medizinischen Rehabilitation, zur Teilhabe am Arbeitsleben, zur Teilhabe an Bildung und zur Sozialen Teilhabe (§ 76 ff. SGB IX) – dazu zählen etwa Assistenzleistungen, Leistungen zur Mobilität, heilpädagogische Leistungen für Kinder und die Assistenz beim Wohnen.</p><h3>Einkommens- und Vermögenseinsatz</h3><p>Nach den §§ 135 ff. SGB IX gilt ein eigener, von der übrigen Sozialhilfe abgekoppelter Einkommens- und Vermögenseinsatz. Der Vermögensfreibetrag beträgt 150 % der jährlichen Bezugsgröße nach § 18 SGB IV; für 2026 ergibt sich daraus nach vorliegenden Berechnungen ein Freibetrag von rund 71.190 Euro – dieser Wert sollte für das jeweils aktuelle Jahr bei der Bezugsgröße neu geprüft werden. Beim Einkommen gilt ein Freibetrag von 85, 75 oder 60 % des Jahresbetrags der Bezugsgröße, gestaffelt nach der Art des überwiegenden Einkommens.</p><h3>Verhältnis zur Pflegeversicherung</h3><p>§ 103 SGB IX regelt das Verhältnis von Eingliederungshilfe zu Leistungen der Pflegeversicherung: Bei pflegebedürftigen Menschen mit Behinderungen, die Eingliederungshilfe in einer Wohnform mit Unterstützungsleistungen erhalten, erbringt in bestimmten Konstellationen der Träger der Eingliederungshilfe die Pflegeleistungen mit, die Pflegekasse zahlt hierfür einen pauschalen Betrag.</p>",
+   "zustaendig": [
+    "Überörtlicher oder örtlicher Träger der Eingliederungshilfe (Bezeichnung und Ebene je Bundesland unterschiedlich, z. B. Landschaftsverband, Bezirk, Landkreis)"
+   ],
+   "belege": [
+    "§§ 90, 99, 103, 135 ff. SGB IX (gesetze-im-internet.de)",
+    "§§ 1–3 Eingliederungshilfe-Verordnung, Fassung 31.12.2019 (gesetze-im-internet.de)",
+    "§ 18 SGB IV – Bezugsgröße (gesetze-im-internet.de)",
+    "Bundesteilhabegesetz (BTHG), BGBl. 2016 I S. 3234"
+   ],
+   "siehe_auch": [
+    "persoenliches-budget",
+    "budget-fuer-arbeit",
+    "barrierefreies-wohnen-und-umbau"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "persoenliches-budget",
+   "kategorie": "teilhabe",
+   "titel": "Persönliches Budget",
+   "icon": "💳",
+   "teaser": "Statt Sachleistung Geld: Mit dem Persönlichen Budget organisieren Sie Ihre Unterstützung selbst und stellen Ihre Helferinnen und Helfer eigenständig ein.",
+   "schlagworte": [
+    "Persönliches Budget",
+    "§ 29 SGB IX",
+    "Zielvereinbarung",
+    "Arbeitgebermodell",
+    "Budgetassistenz",
+    "trägerübergreifend"
+   ],
+   "kurz_html": "<p>Statt eine Sachleistung (z. B. einen Assistenzdienst) vom Träger organisiert zu bekommen, können Sie sich bei vielen Teilhabeleistungen für ein <strong>Persönliches Budget</strong> entscheiden: Sie erhalten stattdessen Geld und organisieren Ihre Unterstützung selbst, zum Beispiel indem Sie eigene Assistenzkräfte anstellen. Das Persönliche Budget kann trägerübergreifend als eine einzige Komplexleistung ausgezahlt werden, wenn mehrere Träger beteiligt sind.</p><p>Grundlage ist eine <strong>Zielvereinbarung</strong> zwischen Ihnen und dem Träger: Sie legt fest, welche Ziele mit dem Budget erreicht werden sollen, wie Sie die zweckentsprechende Verwendung nachweisen und wie hoch das Budget insgesamt und in seinen Teilen ist.</p>",
+   "schritte": [
+    {
+     "titel": "Anspruch klären",
+     "text": "Grundsätzlich kann jede Teilhabeleistung, die sich in Geld beziffern lässt, als Persönliches Budget beantragt werden – klären Sie mit dem Träger oder einer Beratungsstelle, ob das für Ihren Bedarf sinnvoll ist."
+    },
+    {
+     "titel": "Bedarf ermitteln lassen",
+     "text": "Der Träger ermittelt im Bedarfsermittlungsverfahren, welche Unterstützung Sie benötigen und in welcher Höhe sich das in Geld ausdrücken lässt."
+    },
+    {
+     "titel": "Zielvereinbarung abschließen",
+     "text": "Sie schließen mit dem zuständigen Träger eine Zielvereinbarung, die Förder- und Leistungsziele, Nachweispflichten und die Höhe des Budgets regelt."
+    },
+    {
+     "titel": "Budget verwalten",
+     "text": "Sie stellen z. B. Assistenzkräfte selbst an (Arbeitgebermodell) oder beauftragen Dienste – bei Bedarf unterstützt Sie eine Budgetassistenz."
+    },
+    {
+     "titel": "Verwendung nachweisen",
+     "text": "Nach den vereinbarten Regeln weisen Sie nach, dass das Budget zweckentsprechend verwendet wurde."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "keine bundeseinheitliche Regelfrist",
+     "was": "Die Dauer der Zielvereinbarung richtet sich nach dem individuellen Bewilligungszeitraum der jeweiligen Leistung",
+     "grundlage": "§ 29 Abs. 4 SGB IX"
+    }
+   ],
+   "achtung": [
+    "Ein Persönliches Budget setzt voraus, dass Sie selbst (oder mit Unterstützung einer Budgetassistenz) in der Lage sind, Ihre Unterstützung zu organisieren – ist das nicht der Fall, bleibt die Sachleistung die bessere Wahl.",
+    "Ohne Zielvereinbarung ist ein Persönliches Budget nach der Rechtsprechung nicht grundsätzlich ausgeschlossen, in der Praxis erleichtert eine klare Zielvereinbarung aber die Bewilligung erheblich und schafft Rechtssicherheit für beide Seiten.",
+    "Wer Assistenzkräfte im Arbeitgebermodell selbst anstellt, übernimmt auch die arbeitsrechtlichen Pflichten eines Arbeitgebers (Lohnabrechnung, Sozialversicherung, Kündigungsschutz) – hierfür gibt es spezialisierte Beratungs- und Abrechnungsdienste."
+   ],
+   "fach_html": "<h3>Rechtsgrundlage</h3><p>§ 29 SGB IX regelt das trägerübergreifende Persönliche Budget. Es wird von den beteiligten Leistungsträgern als Komplexleistung erbracht, wenn mehrere Träger zuständig sind, und in der Regel als Geldleistung, auf Antrag auch als Gutschein ausgezahlt.</p><h3>Zielvereinbarung</h3><p>Die Zielvereinbarung nach § 29 Abs. 4 SGB IX enthält mindestens Regelungen zur Ausrichtung der individuellen Förder- und Leistungsziele, zur Erforderlichkeit eines Nachweises der zweckentsprechenden Verwendung und zur Höhe des Teil- und Gesamtbudgets. Sie wird für die Dauer des jeweiligen Bewilligungszeitraums geschlossen und kann von beiden Seiten aus wichtigem Grund mit sofortiger Wirkung schriftlich gekündigt werden.</p><h3>Verhältnis zur Sachleistung</h3><p>Das Persönliche Budget ist kein eigener Leistungstyp, sondern eine andere Erbringungsform bestehender Teilhabeleistungen. Es steht grundsätzlich gleichberechtigt neben der Sachleistung; die leistungsberechtigte Person hat ein Wahlrecht (§ 104 SGB IX für die Eingliederungshilfe, § 29 SGB IX allgemein).</p>",
+   "zustaendig": [
+    "Der jeweils für die zugrundeliegende Teilhabeleistung zuständige Reha-Träger"
+   ],
+   "belege": [
+    "§ 29 SGB IX (gesetze-im-internet.de)",
+    "§ 104 SGB IX (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "eingliederungshilfe-teilhabeleistungen",
+    "beratung-anlaufstellen-behinderung"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "budget-fuer-arbeit",
+   "kategorie": "arbeit",
+   "titel": "Budget für Arbeit",
+   "icon": "🎯",
+   "teaser": "Der Weg von der Werkstatt auf den allgemeinen Arbeitsmarkt: ein dauerhafter Lohnkostenzuschuss an den Arbeitgeber statt eines Werkstattplatzes.",
+   "schlagworte": [
+    "Budget für Arbeit",
+    "§ 61 SGB IX",
+    "Lohnkostenzuschuss",
+    "allgemeiner Arbeitsmarkt",
+    "Rückkehrrecht",
+    "Anleitung und Begleitung"
+   ],
+   "kurz_html": "<p>Das Budget für Arbeit ermöglicht Menschen, die eigentlich Anspruch auf einen Werkstattplatz hätten, stattdessen eine sozialversicherungspflichtige Beschäftigung bei einem Arbeitgeber auf dem allgemeinen Arbeitsmarkt aufzunehmen. Der zuständige Träger zahlt dem Arbeitgeber dafür einen <strong>Lohnkostenzuschuss von bis zu 75 % des tariflichen oder ortsüblichen Arbeitsentgelts</strong>, um die behinderungsbedingte Minderleistung auszugleichen, sowie die Kosten für die notwendige Anleitung und Begleitung am Arbeitsplatz.</p><p>Anders als viele befristete Eingliederungszuschüsse ist der Lohnkostenzuschuss beim Budget für Arbeit in der Regel <strong>auf Dauer</strong> angelegt, kann aber je nach den Umständen des Einzelfalls auch zeitlich begrenzt oder degressiv ausgestaltet werden.</p>",
+   "schritte": [
+    {
+     "titel": "Anspruch auf Werkstattplatz klären",
+     "text": "Voraussetzung ist grundsätzlich, dass ohne das Budget für Arbeit ein Anspruch auf Beschäftigung in einer Werkstatt für behinderte Menschen bestünde."
+    },
+    {
+     "titel": "Arbeitgeber finden",
+     "text": "Sie oder eine Vermittlungsfachkraft (z. B. des Integrationsfachdienstes) suchen einen Arbeitsplatz auf dem allgemeinen Arbeitsmarkt."
+    },
+    {
+     "titel": "Antrag beim zuständigen Träger stellen",
+     "text": "Zuständig ist in der Regel der Träger der Eingliederungshilfe, in bestimmten Konstellationen auch die Bundesagentur für Arbeit oder ein anderer Reha-Träger."
+    },
+    {
+     "titel": "Lohnkostenzuschuss und Begleitung vereinbaren",
+     "text": "Der Träger vereinbart mit dem Arbeitgeber Höhe und Dauer des Lohnkostenzuschusses sowie die Übernahme der Kosten für Anleitung und Begleitung am Arbeitsplatz."
+    }
+   ],
+   "fristen": [],
+   "achtung": [
+    "Der Lohnkostenzuschuss ist nicht bundeseinheitlich auf einen festen Prozentsatz fixiert, sondern richtet sich nach der individuellen Leistungsminderung im Einzelfall – „bis zu 75 %“ ist eine gesetzliche Obergrenze, kein Regelwert.",
+    "Wer vom Budget für Arbeit Gebrauch macht, hat ein Rückkehrrecht in die Werkstatt, falls die Beschäftigung auf dem allgemeinen Arbeitsmarkt nicht funktioniert – dieses Recht sollte vor Vertragsabschluss ausdrücklich thematisiert werden.",
+    "Der Arbeitsvertrag mit dem Arbeitgeber ist ein normales, sozialversicherungspflichtiges Arbeitsverhältnis mit allen Rechten und Pflichten (inklusive Kündigungsschutz nach den allgemeinen Regeln) – er unterscheidet sich rechtlich deutlich vom Werkstattstatus."
+   ],
+   "fach_html": "<h3>Rechtsgrundlage</h3><p>§ 61 SGB IX regelt das Budget für Arbeit. Es umfasst einen Lohnkostenzuschuss an den Arbeitgeber zum Ausgleich der Leistungsminderung des Beschäftigten in Höhe von bis zu 75 % des vom Arbeitgeber regelmäßig gezahlten Arbeitsentgelts, sowie die Übernahme der Aufwendungen für die wegen der Behinderung erforderliche Anleitung und Begleitung am Arbeitsplatz.</p><h3>Dauer und Ausgestaltung</h3><p>Dauer und Umfang der Leistungen richten sich nach den Umständen des Einzelfalls; sie können auch zeitlich begrenzt und degressiv ausgestaltet werden. In der Praxis wird jedoch regelmäßig ein dauerhafter Zuschuss vereinbart, soweit die Minderleistung dauerhaft besteht.</p><h3>Verhältnis zur Werkstatt</h3><p>Das Budget für Arbeit ist eine Alternative zur Beschäftigung in einer Werkstatt für behinderte Menschen (WfbM), kein eigener Status. Wer das Budget für Arbeit in Anspruch nimmt, hat ein gesetzliches Rückkehrrecht in die Werkstatt.</p>",
+   "zustaendig": [
+    "Träger der Eingliederungshilfe bzw. der zuständige Reha-Träger im Einzelfall"
+   ],
+   "belege": [
+    "§ 61 SGB IX (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "arbeit-und-werkstatt-fuer-behinderte-menschen",
+    "eingliederungshilfe-teilhabeleistungen"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "arbeit-und-werkstatt-fuer-behinderte-menschen",
+   "kategorie": "arbeit",
+   "titel": "Arbeit und Werkstatt für behinderte Menschen (WfbM)",
+   "icon": "🛠️",
+   "teaser": "Aufnahmeanspruch, Arbeitsentgelt und Arbeitsförderungsgeld in der Werkstatt – und die Pflicht der Arbeitgeber, Menschen mit Schwerbehinderung zu beschäftigen.",
+   "schlagworte": [
+    "Werkstatt für behinderte Menschen",
+    "WfbM",
+    "§ 219 SGB IX",
+    "Arbeitsförderungsgeld",
+    "§ 59 SGB IX",
+    "Ausgleichsabgabe",
+    "§ 160 SGB IX",
+    "Beschäftigungsquote",
+    "Werkstattrat"
+   ],
+   "kurz_html": "<p>Werkstätten für behinderte Menschen (WfbM) sind Einrichtungen zur Teilhabe am Arbeitsleben für Menschen, die wegen Art oder Schwere ihrer Behinderung (noch) nicht auf dem allgemeinen Arbeitsmarkt beschäftigt werden können. Es besteht ein grundsätzlicher <strong>Aufnahmeanspruch</strong>, unabhängig von Art oder Schwere der Behinderung, sofern eine Beteiligung an einer dem Leistungsvermögen entsprechenden Tätigkeit erwartet werden kann.</p><p>Auf der anderen Seite trifft Arbeitgeber ab 20 Arbeitsplätzen eine gesetzliche Beschäftigungspflicht: Sie müssen mindestens 5 % ihrer Arbeitsplätze mit schwerbehinderten Menschen besetzen. Erfüllen sie diese Quote nicht, müssen sie eine gestaffelte Ausgleichsabgabe zahlen, aus deren Mitteln u. a. Integrationsämter Arbeitsplätze fördern.</p>",
+   "schritte": [
+    {
+     "titel": "Reha-Bedarf feststellen lassen",
+     "text": "Der zuständige Reha-Träger stellt im Rahmen des Eingangsverfahrens fest, ob eine Beschäftigung im Arbeitsbereich der Werkstatt geeignet ist."
+    },
+    {
+     "titel": "Eingangsverfahren durchlaufen",
+     "text": "In einer meist mehrwöchigen Phase wird geprüft, welcher Arbeits- oder Berufsbildungsbereich passt."
+    },
+    {
+     "titel": "Berufsbildungsbereich",
+     "text": "Es folgt in der Regel eine Qualifizierungsphase im Berufsbildungsbereich, bevor der eigentliche Arbeitsbereich beginnt."
+    },
+    {
+     "titel": "Arbeitsbereich und Interessenvertretung",
+     "text": "Im Arbeitsbereich erhalten Sie Arbeitsentgelt und Arbeitsförderungsgeld; die Beschäftigten wählen einen Werkstattrat und eine Frauenbeauftragte zur Interessenvertretung."
+    }
+   ],
+   "fristen": [],
+   "achtung": [
+    "Die genaue Höhe des Arbeitsentgelts (Grundbetrag plus leistungsangemessene Steigerung) unterscheidet sich zwischen den Werkstätten und richtet sich nach dem wirtschaftlichen Ergebnis der Werkstatt – ein bundeseinheitlicher Eurobetrag lässt sich dafür nicht seriös nennen.",
+    "Arbeitsförderungsgeld ist eine feste Größe: 52 Euro monatlich, solange Arbeitsentgelt plus Arbeitsförderungsgeld zusammen 351 Euro nicht übersteigen; bei einem Arbeitsentgelt über 299 Euro sinkt es auf den Differenzbetrag zu 351 Euro. Es zählt nicht als Einkommen bei anderen einkommensabhängigen Sozialleistungen.",
+    "Die Ausgleichsabgabe ist keine Strafe, sondern eine Ausgleichszahlung für nicht besetzte Pflichtplätze – sie schließt weitergehende Pflichten (etwa nach dem Kündigungsschutzrecht) nicht aus."
+   ],
+   "fach_html": "<h3>Aufgabe und Aufnahmeanspruch, § 219 SGB IX</h3><p>Werkstätten bieten angemessene berufliche Bildung und Beschäftigung zu einem angemessenen Arbeitsentgelt für Menschen, die wegen Art oder Schwere ihrer Behinderung nicht, noch nicht oder noch nicht wieder auf dem allgemeinen Arbeitsmarkt beschäftigt werden können. Der Zugang ist unabhängig von Art oder Schwere der Behinderung offen, solange ein Mindestmaß wirtschaftlich verwertbarer Arbeitsleistung erwartet werden kann.</p><h3>Arbeitsentgelt und Arbeitsförderungsgeld</h3><p>Das Arbeitsentgelt im Arbeitsbereich setzt sich aus einem Grundbetrag und einer leistungsangemessenen Steigerung zusammen (§ 221 SGB IX). Zusätzlich zahlt der zuständige Rehabilitationsträger ein Arbeitsförderungsgeld von monatlich 52 Euro, sofern Arbeitsentgelt und Arbeitsförderungsgeld zusammen 351 Euro nicht übersteigen; bei einem Arbeitsentgelt über 299 Euro reduziert es sich auf den Differenzbetrag zu 351 Euro (§ 59 SGB IX). Das Arbeitsförderungsgeld bleibt bei anderen einkommensabhängigen Sozialleistungen unberücksichtigt.</p><h3>Beschäftigungspflicht und Ausgleichsabgabe, §§ 154, 160 SGB IX</h3><p>Arbeitgeber mit mindestens 20 Arbeitsplätzen müssen im Jahresdurchschnitt mindestens 5 % ihrer Arbeitsplätze mit schwerbehinderten Menschen besetzen (§ 154 SGB IX). Für jeden unbesetzten Pflichtplatz ist eine gestaffelte Ausgleichsabgabe zu zahlen: 140 Euro bei einer erreichten Quote von 3 % bis unter dem Pflichtsatz, 245 Euro bei 2 % bis unter 3 %, 360 Euro bei über 0 % bis unter 2 % und 720 Euro, wenn überhaupt kein schwerbehinderter Mensch beschäftigt wird (§ 160 Abs. 2 SGB IX). Aus dem Aufkommen fördern die Integrationsämter u. a. behinderungsgerechte Arbeitsplatzausstattung und Integrationsfachdienste.</p>",
+   "zustaendig": [
+    "Zuständiger Reha-Träger für die Werkstattaufnahme (meist überörtlicher Träger der Eingliederungshilfe)",
+    "Integrationsamt für Ausgleichsabgabe und Arbeitsplatzförderung"
+   ],
+   "belege": [
+    "§§ 219, 221 SGB IX (gesetze-im-internet.de)",
+    "§ 59 SGB IX (gesetze-im-internet.de)",
+    "§§ 154, 160 SGB IX (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "budget-fuer-arbeit",
+    "kuendigungsschutz-schwerbehinderte"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "kuendigungsschutz-schwerbehinderte",
+   "kategorie": "arbeit",
+   "titel": "Kündigungsschutz für schwerbehinderte Menschen",
+   "icon": "🛡️",
+   "teaser": "Vor jeder Kündigung durch den Arbeitgeber muss das Integrationsamt zustimmen. So läuft das Verfahren, und das bedeutet es für Ihre eigene Klagefrist.",
+   "schlagworte": [
+    "Kündigungsschutz",
+    "§ 168 SGB IX",
+    "Integrationsamt",
+    "Zustimmung",
+    "Schwerbehindertenvertretung",
+    "Kündigungsschutzklage",
+    "§ 4 KSchG",
+    "Wartezeit"
+   ],
+   "kurz_html": "<p>Will ein Arbeitgeber einem schwerbehinderten oder gleichgestellten Menschen kündigen, braucht er dafür vorher die <strong>Zustimmung des Integrationsamts</strong> (§ 168 SGB IX) – unabhängig davon, ob ordentlich oder außerordentlich gekündigt werden soll. Eine Kündigung ohne diese Zustimmung ist unwirksam. Der besondere Kündigungsschutz gilt allerdings erst, wenn das Arbeitsverhältnis im Zeitpunkt der Kündigung bereits mindestens 6 Monate bestanden hat (Wartezeit, § 173 SGB IX).</p><p>Das Zustimmungsverfahren beim Integrationsamt läuft <strong>parallel und zusätzlich</strong> zu Ihrem Recht, selbst binnen 3 Wochen nach Zugang der Kündigung Kündigungsschutzklage beim Arbeitsgericht zu erheben (§ 4 KSchG) – das eine ersetzt das andere nicht.</p>",
+   "schritte": [
+    {
+     "titel": "Arbeitgeber stellt Antrag beim Integrationsamt",
+     "text": "Der Arbeitgeber muss vor Ausspruch der Kündigung die Zustimmung schriftlich beantragen."
+    },
+    {
+     "titel": "Integrationsamt hört Beteiligte an",
+     "text": "Das Amt hört Sie persönlich sowie Betriebs- oder Personalrat und Schwerbehindertenvertretung an."
+    },
+    {
+     "titel": "Entscheidung des Integrationsamts",
+     "text": "Bei einer ordentlichen Kündigung entscheidet das Amt in der Regel innerhalb eines Monats, bei einer außerordentlichen Kündigung muss der Arbeitgeber den Antrag innerhalb von 2 Wochen nach Kenntnis der Kündigungsgründe stellen."
+    },
+    {
+     "titel": "Kündigung wird ausgesprochen",
+     "text": "Erst nach erteilter Zustimmung darf der Arbeitgeber die Kündigung tatsächlich aussprechen."
+    },
+    {
+     "titel": "Eigene Klagefrist wahren",
+     "text": "Unabhängig vom Zustimmungsverfahren müssen Sie innerhalb von 3 Wochen nach Zugang der Kündigung selbst Kündigungsschutzklage erheben, wenn Sie sich dagegen wehren wollen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "6 Monate",
+     "was": "Wartezeit: Der besondere Kündigungsschutz gilt erst ab einem Bestehen des Arbeitsverhältnisses von mindestens 6 Monaten",
+     "grundlage": "§ 173 Abs. 1 Nr. 1 SGB IX"
+    },
+    {
+     "wert": "1 Monat",
+     "was": "Regelfrist, innerhalb der das Integrationsamt über den Antrag auf Zustimmung zur ordentlichen Kündigung entscheidet",
+     "grundlage": "§ 171 Abs. 3 SGB IX"
+    },
+    {
+     "wert": "2 Wochen",
+     "was": "Frist für den Arbeitgeber, die Zustimmung zu einer außerordentlichen Kündigung ab Kenntnis der Kündigungsgründe zu beantragen",
+     "grundlage": "§ 174 Abs. 2 SGB IX"
+    },
+    {
+     "wert": "3 Wochen",
+     "was": "Frist für die Kündigungsschutzklage vor dem Arbeitsgericht ab Zugang der Kündigung – unabhängig vom Zustimmungsverfahren",
+     "grundlage": "§ 4 KSchG"
+    }
+   ],
+   "achtung": [
+    "Eine Kündigung, die ohne vorherige Zustimmung des Integrationsamts ausgesprochen wird, ist unwirksam – prüfen Sie das bei jeder Kündigung als Erstes.",
+    "Das Zustimmungsverfahren beim Integrationsamt ersetzt nicht die eigene 3-Wochen-Klagefrist beim Arbeitsgericht nach § 4 KSchG – wer nur auf das Integrationsamt wartet und die Klagefrist verpasst, riskiert, dass die Kündigung trotzdem wirksam wird.",
+    "Der besondere Kündigungsschutz gilt nicht automatisch ab GdB 50, sondern setzt zusätzlich die 6-monatige Wartezeit des Arbeitsverhältnisses voraus.",
+    "Ist die Schwerbehinderteneigenschaft dem Arbeitgeber bei Kündigungsausspruch nicht bekannt, kann sich die betroffene Person unter bestimmten Voraussetzungen nachträglich nur innerhalb eines engen Zeitrahmens darauf berufen – im Zweifel die Schwerbehinderung möglichst frühzeitig mitteilen."
+   ],
+   "fach_html": "<h3>Erfordernis der Zustimmung, § 168 SGB IX</h3><p>Die Kündigung des Arbeitsverhältnisses eines schwerbehinderten Menschen durch den Arbeitgeber bedarf der vorherigen Zustimmung des Integrationsamts. Das gilt für ordentliche wie außerordentliche Kündigungen gleichermaßen und unabhängig vom Kündigungsgrund.</p><h3>Verfahren</h3><p>Das Integrationsamt hört die betroffene Person sowie die Schwerbehindertenvertretung und den Betriebs- bzw. Personalrat an (§ 170 SGB IX). Über eine ordentliche Kündigung entscheidet es innerhalb eines Monats nach Antragseingang, sofern ihm alle notwendigen Informationen vorliegen (§ 171 Abs. 3 SGB IX); entscheidet es nicht fristgerecht, gilt die Zustimmung als erteilt. Bei einer außerordentlichen Kündigung muss der Arbeitgeber den Antrag innerhalb von 2 Wochen ab Kenntnis der maßgeblichen Tatsachen stellen (§ 174 Abs. 2 SGB IX); das Amt trifft seine Entscheidung dann innerhalb von 2 Wochen.</p><h3>Wartezeit und Ausnahmen, § 173 SGB IX</h3><p>Der besondere Kündigungsschutz gilt nicht, wenn das Arbeitsverhältnis im Zeitpunkt der Kündigung noch keine 6 Monate bestanden hat. Weitere Ausnahmen und Sonderregeln bestehen u. a. für Kündigungen aus Anlass einer Betriebsstilllegung und für befristete Arbeitsverhältnisse, die durch Zeitablauf enden.</p><h3>Verhältnis zum allgemeinen Kündigungsschutz</h3><p>Das Zustimmungsverfahren beim Integrationsamt ist ein eigenständiges, zusätzliches Schutzverfahren. Es tritt neben den allgemeinen Kündigungsschutz nach dem Kündigungsschutzgesetz (KSchG); die 3-wöchige Klagefrist des § 4 KSchG läuft unabhängig davon ab Zugang der Kündigung.</p>",
+   "zustaendig": [
+    "Integrationsamt (Zustimmungsverfahren)",
+    "Arbeitsgericht (Kündigungsschutzklage)"
+   ],
+   "belege": [
+    "§§ 168, 170, 171, 173, 174 SGB IX (gesetze-im-internet.de)",
+    "§ 4 KSchG (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "arbeit-und-werkstatt-fuer-behinderte-menschen",
+    "beratung-anlaufstellen-behinderung"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "barrierefreies-wohnen-und-umbau",
+   "kategorie": "wohnen",
+   "titel": "Barrierefreies Wohnen und Umbau",
+   "icon": "🔧",
+   "teaser": "Zuschuss der Pflegekasse für den Badumbau, Wohnraumanpassung als Teilhabeleistung und was Förderprogramme leisten können.",
+   "schlagworte": [
+    "Wohnumfeldverbessernde Maßnahmen",
+    "§ 40 SGB XI",
+    "Wohnraumanpassung",
+    "Barrierefreiheit",
+    "KfW-Förderung",
+    "Pflegekasse"
+   ],
+   "kurz_html": "<p>Wer wegen Pflegebedürftigkeit oder Behinderung die eigene Wohnung anpassen muss – etwa Dusche statt Wanne, Rampen, Türverbreiterungen oder Haltegriffe –, kann dafür verschiedene Zuschüsse kombinieren. Bei Pflegebedürftigkeit zahlt die Pflegekasse einen Zuschuss zu wohnumfeldverbessernden Maßnahmen von <strong>bis zu 4.180 Euro je Maßnahme</strong> (nicht pro Jahr). Dieser Zuschuss steht bereits ab Pflegegrad 1 zur Verfügung.</p><p>Unabhängig von der Pflegekasse kann Wohnraumanpassung auch eine Leistung der Eingliederungshilfe (Soziale Teilhabe) sein, wenn sie zur Teilhabe am Leben in der Gemeinschaft erforderlich ist. Zusätzlich gibt es Förderprogramme für barrierefreies und altersgerechtes Bauen, deren genaue Konditionen sich ändern und deshalb aktuell direkt bei der Förderstelle geprüft werden sollten.</p>",
+   "schritte": [
+    {
+     "titel": "Bedarf mit Fachleuten klären",
+     "text": "Lassen Sie sich von einer Wohnberatungsstelle oder dem Pflegedienst beraten, welche baulichen Maßnahmen tatsächlich notwendig sind."
+    },
+    {
+     "titel": "Antrag VOR Beginn der Maßnahme stellen",
+     "text": "Der Zuschuss der Pflegekasse muss beantragt werden, bevor mit dem Umbau begonnen wird – nachträgliche Anträge werden in der Regel abgelehnt."
+    },
+    {
+     "titel": "Kostenvoranschläge einreichen",
+     "text": "Reichen Sie Kostenvoranschläge von Fachbetrieben ein; die Pflegekasse prüft, ob die Maßnahme förderfähig ist."
+    },
+    {
+     "titel": "Weitere Fördertöpfe prüfen",
+     "text": "Prüfen Sie parallel, ob Eingliederungshilfe, KfW-Förderprogramme oder kommunale Zuschüsse zusätzlich infrage kommen – eine Kombination ist grundsätzlich möglich, muss aber im Einzelfall abgestimmt werden."
+    },
+    {
+     "titel": "Umbau durchführen und abrechnen",
+     "text": "Nach Bewilligung wird der Umbau durchgeführt und die Rechnung bei der Pflegekasse eingereicht."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "vor Maßnahmenbeginn",
+     "was": "Der Antrag auf Zuschuss zu wohnumfeldverbessernden Maßnahmen muss vor Beginn der Baumaßnahme gestellt werden",
+     "grundlage": "§ 40 Abs. 4 SGB XI"
+    }
+   ],
+   "achtung": [
+    "Wer erst umbaut und danach den Antrag stellt, riskiert, den Zuschuss der Pflegekasse vollständig zu verlieren – der Antrag muss vor Beginn der Maßnahme gestellt werden.",
+    "4.180 Euro sind der Höchstbetrag je Maßnahme, nicht automatisch die tatsächlich bewilligte Summe – bei mehreren gleichzeitig lebenden pflegebedürftigen Personen im selben Haushalt kann sich der Gesamtzuschuss nach den gesetzlichen Regeln erhöhen, das sollte die Pflegekasse im Einzelfall prüfen.",
+    "Förderprogramme wie KfW-Zuschüsse für altersgerechten Umbau ändern sich in Ausgestaltung, Fördersätzen und Verfügbarkeit häufiger als Sozialgesetze – die konkreten aktuellen Konditionen sollten direkt bei der Förderbank oder einer Energie-/Wohnberatung erfragt werden, statt sich auf ältere Informationen zu verlassen.",
+    "Ob eine bauliche Maßnahme über die Pflegekasse, die Eingliederungshilfe oder beide anteilig finanziert wird, hängt vom Einzelfall ab – bei Doppelzuständigkeit lohnt sich frühzeitige Beratung, um Verzögerungen zu vermeiden."
+   ],
+   "fach_html": "<h3>Zuschuss der Pflegekasse, § 40 Abs. 4 SGB XI</h3><p>Die Pflegekasse kann zu Maßnahmen zur Verbesserung des individuellen Wohnumfelds einen Zuschuss von bis zu 4.180 Euro je Maßnahme leisten, wenn dadurch die häusliche Pflege ermöglicht oder erheblich erleichtert wird oder eine möglichst selbstständige Lebensführung wiederhergestellt wird. Der Anspruch besteht bereits ab Pflegegrad 1; der Antrag muss vor Beginn der Maßnahme gestellt werden.</p><h3>Beispiele förderfähiger Maßnahmen</h3><p>Dazu zählen u. a. das Anbringen von Haltegriffen, rutschfeste Bodenbeläge, der Abbau von Türschwellen, der Einbau einer bodengleichen Dusche, Türverbreiterungen, fest installierte Rampen und die behinderungsgerechte Anpassung von Mobiliar.</p><h3>Eingliederungshilfe als weitere Anspruchsgrundlage</h3><p>Unabhängig von der Pflegeversicherung kann Wohnraumanpassung als Leistung der Sozialen Teilhabe nach SGB IX Teil 2 in Betracht kommen, wenn sie zur Teilhabe am Leben in der Gemeinschaft erforderlich ist. Die Abgrenzung und mögliche Kombination beider Leistungen im Einzelfall regelt u. a. das Nachrang- bzw. Zusammenwirkungsverhältnis der beteiligten Träger.</p><h3>Zusätzliche Förderprogramme</h3><p>Ergänzend bestehen Förderprogramme für altersgerechtes und barrierefreies Bauen (z. B. der KfW) sowie teils kommunale oder länderspezifische Zuschüsse. Deren konkrete Programme, Fördersummen und Voraussetzungen ändern sich in kürzeren Abständen als das Sozialrecht; für aktuelle Konditionen ist die jeweilige Förderstelle die verlässliche Quelle, nicht diese Seite.</p>",
+   "zustaendig": [
+    "Pflegekasse (Zuschuss nach § 40 SGB XI)",
+    "Träger der Eingliederungshilfe (Wohnraumanpassung als Teilhabeleistung)"
+   ],
+   "belege": [
+    "§ 40 SGB XI (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "pflegegrad-bei-behinderung",
+    "eingliederungshilfe-teilhabeleistungen"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "mobilitaet-und-oeffentlicher-nahverkehr",
+   "kategorie": "wohnen",
+   "titel": "Mobilität und öffentlicher Nahverkehr",
+   "icon": "🚌",
+   "teaser": "Freifahrt mit der Wertmarke, wer sie kostenlos bekommt – und was das Merkzeichen aG für den Parkausweis bedeutet.",
+   "schlagworte": [
+    "Wertmarke",
+    "§ 228 SGB IX",
+    "unentgeltliche Beförderung",
+    "Freifahrt",
+    "Merkzeichen G",
+    "Schwerbehindertenparkausweis"
+   ],
+   "kurz_html": "<p>Menschen mit den Merkzeichen G, aG, H, Bl oder Gl können im öffentlichen Personennahverkehr eine <strong>Wertmarke</strong> für die unentgeltliche Beförderung nutzen. Die Wertmarke kostet nach der aktuellen Bekanntmachung des Bundesministeriums für Arbeit und Soziales 104 Euro für ein Jahr bzw. 53 Euro für ein halbes Jahr. Menschen mit dem Merkzeichen H (hilflos) oder Bl (blind) sowie Beziehende bestimmter existenzsichernder Sozialleistungen erhalten die Wertmarke kostenlos.</p><p>Für Autofahrten mit erheblichen Gehbehinderungen ist zusätzlich der blaue Parkausweis relevant – er setzt in der Regel das Merkzeichen aG oder Bl voraus und muss gesondert bei der Straßenverkehrsbehörde beantragt werden (siehe <a href=\"nachteilsausgleiche-alltag.html\">Nachteilsausgleiche im Alltag</a>).</p>",
+   "schritte": [
+    {
+     "titel": "Merkzeichen prüfen",
+     "text": "Voraussetzung für die Wertmarke sind die Merkzeichen G, aG, H, Bl oder Gl im Schwerbehindertenausweis."
+    },
+    {
+     "titel": "Beiblatt beantragen",
+     "text": "Zur Wertmarke gehört ein gültiges Beiblatt zum Ausweis, das beim Versorgungsamt gegen eine geringe Gebühr ausgestellt wird."
+    },
+    {
+     "titel": "Wertmarke kaufen oder kostenlos erhalten",
+     "text": "Beziehende von Grundsicherungsgeld, Grundsicherung im Alter oder Sozialhilfe sowie Menschen mit den Merkzeichen H oder Bl erhalten die Wertmarke kostenlos; alle anderen zahlen 104 Euro (Jahr) bzw. 53 Euro (Halbjahr)."
+    },
+    {
+     "titel": "Ggf. Parkausweis zusätzlich beantragen",
+     "text": "Für das Abstellen auf Schwerbehindertenparkplätzen brauchen Sie zusätzlich den gesondert zu beantragenden blauen EU-Parkausweis."
+    }
+   ],
+   "fristen": [],
+   "achtung": [
+    "Die Wertmarke ersetzt nicht das Beiblatt zum Ausweis – ohne gültiges Beiblatt ist die Wertmarke im Nahverkehr nicht gültig.",
+    "Wer statt der Wertmarke eine Kfz-Steuerbefreiung in Anspruch nehmen will, muss beachten, dass beides bei den Merkzeichen G und Gl nicht gleichzeitig möglich ist – hier besteht ein Wahlrecht zwischen Freifahrt und hälftiger Kfz-Steuerermäßigung.",
+    "Ob und in welcher Höhe regionale Verkehrsverbünde zusätzliche Vergünstigungen (z. B. beim Deutschlandticket) für Menschen mit Behinderung anbieten, ist von Verbund zu Verbund unterschiedlich geregelt und ändert sich – hierzu lohnt eine Nachfrage beim örtlichen Verkehrsverbund."
+   ],
+   "fach_html": "<h3>Rechtsgrundlage der Wertmarke, § 228 SGB IX</h3><p>Schwerbehinderte Menschen mit den Merkzeichen G, aG, H, Bl oder Gl haben Anspruch auf unentgeltliche Beförderung im öffentlichen Personennahverkehr, wenn sie eine Wertmarke erwerben. Die Wertmarke kostet nach der Bekanntmachung des BMAS 104 Euro für 12 Monate bzw. 53 Euro für 6 Monate; dieser Betrag gilt seit dem 1.1.2025 unverändert auch für 2026 fort. Menschen mit den Merkzeichen H oder Bl sowie Beziehende von Grundsicherungsgeld, Grundsicherung im Alter und bei Erwerbsminderung oder Hilfe zum Lebensunterhalt nach SGB XII erhalten die Wertmarke unentgeltlich.</p><h3>Verhältnis zur Kfz-Steuer</h3><p>Bei den Merkzeichen G und Gl besteht ein Wahlrecht: entweder die unentgeltliche Beförderung mit Wertmarke oder eine Kfz-Steuerermäßigung um 50 %, nicht beides gleichzeitig. Bei den Merkzeichen H, Bl oder aG ist dagegen sowohl die vollständige Kfz-Steuerbefreiung als auch – bei entsprechendem Merkzeichen – die Wertmarke möglich.</p>",
+   "zustaendig": [
+    "Versorgungsamt (Beiblatt)",
+    "Verkehrsunternehmen bzw. -verbund (Ausgabe der Wertmarke)"
+   ],
+   "belege": [
+    "§ 228 SGB IX (gesetze-im-internet.de)",
+    "Bekanntmachung des BMAS zum Preis der Wertmarke nach § 228 Abs. 2 SGB IX"
+   ],
+   "siehe_auch": [
+    "nachteilsausgleiche-alltag",
+    "schwerbehindertenausweis-beantragen"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "pflegegrad-bei-behinderung",
+   "kategorie": "pflege",
+   "titel": "Pflegegrad bei Behinderung",
+   "icon": "🩺",
+   "teaser": "Pflegebedürftigkeit und Behinderung sind zwei unterschiedliche Feststellungsverfahren – wie die Begutachtung abläuft und wie Sie Widerspruch einlegen.",
+   "schlagworte": [
+    "Pflegegrad",
+    "Medizinischer Dienst",
+    "SGB XI",
+    "Neues Begutachtungsassessment",
+    "Widerspruch Pflegegrad",
+    "§ 18 SGB XI",
+    "§ 103 SGB IX"
+   ],
+   "kurz_html": "<p>Eine Behinderung und Pflegebedürftigkeit sind rechtlich zwei getrennte Feststellungen mit unterschiedlichen Verfahren und Anspruchsgrundlagen: Der Grad der Behinderung wird vom Versorgungsamt festgestellt, der <strong>Pflegegrad</strong> von der Pflegekasse anhand einer Begutachtung durch den Medizinischen Dienst (MD) nach dem Neuen Begutachtungsassessment (NBA). Beide Verfahren können unabhängig voneinander nebeneinander laufen – ein hoher GdB bedeutet nicht automatisch einen hohen Pflegegrad und umgekehrt.</p><p>Nach Antragstellung hat die Pflegekasse in der Regel 25 Arbeitstage Zeit für Begutachtung und Bescheid; wird diese Frist ohne vereinbarte Verlängerung überschritten, kann eine Ausgleichszahlung fällig werden.</p>",
+   "schritte": [
+    {
+     "titel": "Antrag bei der Pflegekasse stellen",
+     "text": "Ein formloser, auch telefonischer Antrag bei der Pflegekasse (meist bei der Krankenkasse angesiedelt) reicht zunächst aus und sichert den Leistungsbeginn."
+    },
+    {
+     "titel": "Begutachtungstermin wahrnehmen",
+     "text": "Der Medizinische Dienst vereinbart einen Termin, meist bei Ihnen zu Hause, und begutachtet Ihre Selbstständigkeit in 6 Lebensbereichen nach dem NBA."
+    },
+    {
+     "titel": "Gutachten und Bescheid abwarten",
+     "text": "Die Pflegekasse hat in der Regel 25 Arbeitstage Zeit für Begutachtung und Bescheid."
+    },
+    {
+     "titel": "Bescheid prüfen",
+     "text": "Prüfen Sie, ob der zuerkannte Pflegegrad Ihre tatsächliche Beeinträchtigung angemessen abbildet."
+    },
+    {
+     "titel": "Bei Bedarf Widerspruch einlegen",
+     "text": "Ist der Pflegegrad zu niedrig oder wurde er abgelehnt, legen Sie innerhalb eines Monats Widerspruch ein."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "25 Arbeitstage",
+     "was": "Regelfrist der Pflegekasse für Begutachtung und Bescheid nach Antragstellung",
+     "grundlage": "§ 18 Abs. 3 SGB XI"
+    },
+    {
+     "wert": "1 Monat",
+     "was": "Widerspruchsfrist gegen den Pflegegrad-Bescheid ab Zustellung",
+     "grundlage": "§ 84 SGG"
+    }
+   ],
+   "achtung": [
+    "Ein formloser Antrag reicht, um die Frist und den Leistungsbeginn zu sichern – warten Sie nicht, bis alle Unterlagen vollständig sind.",
+    "Bereiten Sie sich auf den Begutachtungstermin vor: Ein Pflegetagebuch über typische Tage hilft dem Gutachter, den tatsächlichen Unterstützungsbedarf realistisch einzuschätzen.",
+    "Ein Widerspruch kann zunächst formlos eingelegt werden; die ausführliche Begründung kann in der Regel innerhalb weniger Wochen nachgereicht werden – wichtig ist, die Monatsfrist selbst nicht zu versäumen.",
+    "Bei gleichzeitigem Bezug von Eingliederungshilfe in bestimmten Wohnformen kann die Pflegekasse nach § 103 SGB IX einen pauschalen Betrag an den Eingliederungshilfeträger zahlen, statt die Pflegesachleistung direkt zu erbringen – die praktische Abgrenzung ist komplex und sollte im Zweifel mit beiden Trägern geklärt werden."
+   ],
+   "fach_html": "<h3>Begutachtungsverfahren</h3><p>Der Medizinische Dienst begutachtet die Selbstständigkeit in den 6 Modulen des Neuen Begutachtungsassessments (Mobilität, kognitive und kommunikative Fähigkeiten, Verhaltensweisen und psychische Problemlagen, Selbstversorgung, Bewältigung von und selbstständiger Umgang mit krankheits- oder therapiebedingten Anforderungen und Belastungen, Gestaltung des Alltagslebens und sozialer Kontakte) und ermittelt daraus einen Pflegegrad von 1 bis 5.</p><h3>Fristen und Verzugsfolgen</h3><p>Nach § 18 Abs. 3 SGB XI muss die Pflegekasse innerhalb von 25 Arbeitstagen nach Antragseingang entscheiden. Wird diese Frist ohne von der Pflegekasse zu vertretende Gründe überschritten, kann für die versicherte Person eine Ausgleichszahlung entstehen; die Details regelt § 18 Abs. 3a SGB XI.</p><h3>Verhältnis zur Eingliederungshilfe</h3><p>§ 103 SGB IX regelt das Zusammenwirken von Pflegeversicherung und Eingliederungshilfe: Erhält eine pflegebedürftige Person mit Behinderungen Leistungen der Eingliederungshilfe in bestimmten Wohnformen, kann anstelle der Pflegesachleistung ein pauschaler Betrag an den Träger der Eingliederungshilfe fließen, der die Pflege dann mit erbringt.</p>",
+   "zustaendig": [
+    "Pflegekasse (meist organisatorisch bei der Krankenkasse)"
+   ],
+   "belege": [
+    "§§ 14, 15, 18 SGB XI (gesetze-im-internet.de)",
+    "§ 103 SGB IX (gesetze-im-internet.de)",
+    "§ 84 SGG (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "barrierefreies-wohnen-und-umbau",
+    "eingliederungshilfe-teilhabeleistungen"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "schule-und-inklusion",
+   "kategorie": "bildung",
+   "titel": "Schule und Inklusion",
+   "icon": "🎓",
+   "teaser": "Elternwahlrecht zwischen Förder- und Regelschule, sonderpädagogischer Förderbedarf und Schulbegleitung – stark abhängig vom jeweiligen Bundesland.",
+   "schlagworte": [
+    "Inklusion",
+    "sonderpädagogischer Förderbedarf",
+    "Elternwahlrecht",
+    "Schulbegleitung",
+    "UN-BRK Artikel 24",
+    "Schulgesetz"
+   ],
+   "kurz_html": "<p><strong>Bildung ist in Deutschland Ländersache</strong> – deshalb regelt jedes Bundesland in seinem eigenen Schulgesetz unterschiedlich, wie inklusive Beschulung, das Elternwahlrecht zwischen Förder- und allgemeiner Schule und die Feststellung von sonderpädagogischem Förderbedarf konkret ausgestaltet sind. Nach Art. 24 UN-BRK soll Bildung grundsätzlich inklusiv, also gemeinsam mit nichtbehinderten Kindern, ermöglicht werden; wie stark die einzelnen Länder das in der Praxis umsetzen, unterscheidet sich jedoch erheblich.</p><p>Nach vorliegenden Untersuchungen ermöglichen aktuell vor allem Bremen und Hamburg einen weitgehend vorbehaltlosen Zugang zu inklusiver Bildung, während andere Länder – etwa Baden-Württemberg, Bayern, Rheinland-Pfalz, Sachsen und Sachsen-Anhalt – den Anspruch stärker durch einen Ressourcenvorbehalt einschränken. Diese Einschätzung stammt aus wissenschaftlicher Sekundärliteratur, nicht aus einer eigenen Auswertung aller 16 Schulgesetze, und sollte für das eigene Bundesland an der zuständigen Schulbehörde verifiziert werden.</p>",
+   "schritte": [
+    {
+     "titel": "Sonderpädagogischen Förderbedarf klären lassen",
+     "text": "Besteht der Verdacht auf besonderen Förderbedarf, wird in der Regel ein Feststellungsverfahren bei der zuständigen Schulaufsicht oder dem sonderpädagogischen Dienst eingeleitet."
+    },
+    {
+     "titel": "Elternwahlrecht ausüben",
+     "text": "In den meisten Bundesländern können Eltern zwischen inklusiver Beschulung an der allgemeinen Schule und einer Förderschule wählen – die genaue Ausgestaltung und etwaige Einschränkungen regelt das jeweilige Landesschulgesetz."
+    },
+    {
+     "titel": "Unterstützungsbedarf klären",
+     "text": "Wird zusätzliche Unterstützung benötigt (z. B. Schulbegleitung), kann diese bei der Eingliederungshilfe beziehungsweise dem zuständigen Jugend- oder Sozialhilfeträger beantragt werden."
+    },
+    {
+     "titel": "Bei Ablehnung Rechtsmittel prüfen",
+     "text": "Gegen ablehnende Entscheidungen der Schulbehörde oder des Leistungsträgers können je nach Zuständigkeit Widerspruch oder verwaltungs- bzw. sozialgerichtliche Rechtsmittel eingelegt werden."
+    }
+   ],
+   "fristen": [],
+   "achtung": [
+    "Verlassen Sie sich bei Fristen und Verfahren im Feststellungsverfahren zum sonderpädagogischen Förderbedarf nicht auf allgemeine Angaben aus dem Internet – diese sind je nach Bundesland und teils sogar je nach Schulamtsbezirk unterschiedlich geregelt.",
+    "Schulbegleitung (Integrationshelferin oder -helfer) ist rechtlich meist eine Leistung der Eingliederungshilfe oder der Kinder- und Jugendhilfe, nicht des Schulträgers selbst – der Antrag muss deshalb beim jeweils zuständigen Sozial- oder Jugendhilfeträger gestellt werden, nicht nur bei der Schule.",
+    "Ein Ressourcenvorbehalt in einem Landesschulgesetz kann bedeuten, dass ein an sich bestehendes Wahlrecht in der Praxis von der Verfügbarkeit von Plätzen oder Personal an der gewünschten Schule abhängt – das sollte frühzeitig mit der Schulbehörde geklärt werden."
+   ],
+   "fach_html": "<h3>UN-Behindertenrechtskonvention, Art. 24</h3><p>Art. 24 UN-BRK verpflichtet die Vertragsstaaten, ein inklusives Bildungssystem auf allen Ebenen zu gewährleisten. Als ratifiziertes Bundesgesetz ist die Konvention Auslegungsmaßstab für die Landesschulgesetze, begründet aber überwiegend keinen unmittelbar einklagbaren Individualanspruch auf einen bestimmten Schulplatz.</p><h3>Länderzuständigkeit und Unterschiede</h3><p>Die konkrete Ausgestaltung von Elternwahlrecht, Feststellungsverfahren für sonderpädagogischen Förderbedarf und dem Verhältnis von Förder- zu Regelschule ist Sache der einzelnen Bundesländer. Nach einer 2023 veröffentlichten Untersuchung (WZB/Leibniz-Gemeinschaft) gewährleisten derzeit vor allem Bremen und Hamburg einen weitgehend vorbehaltlosen Zugang zu inklusiver Bildung; eine tatsächliche strukturelle Transformation bestehender Förderschulsysteme in inklusive Regelschulangebote wird in dieser Untersuchung vor allem für Bremen, Niedersachsen, Mecklenburg-Vorpommern und Schleswig-Holstein beschrieben. Diese Einschätzungen können sich mit neueren Schulgesetzänderungen der Länder ändern und wurden hier nicht für alle 16 Länder einzeln am aktuellen Gesetzestext nachgeprüft.</p><h3>Schulbegleitung</h3><p>Schulbegleitung wird je nach Alter und Art der Behinderung entweder als Leistung der Eingliederungshilfe (SGB IX) oder der Kinder- und Jugendhilfe (SGB VIII) gewährt, wenn sie erforderlich ist, damit ein Kind dem Unterricht folgen und am Schulleben teilnehmen kann. Zuständigkeit und Verfahren unterscheiden sich je nach Bundesland und Einzelfall.</p>",
+   "zustaendig": [
+    "Zuständige Schulaufsicht bzw. Schulbehörde des Landes (Beschulung)",
+    "Träger der Eingliederungshilfe oder Jugendhilfe (Schulbegleitung)"
+   ],
+   "belege": [
+    "Art. 24 UN-Behindertenrechtskonvention, BGBl. 2008 II S. 1419",
+    "Verfassungsblog/WZB/Leibniz-Gemeinschaft, Untersuchung zu inklusiver Bildung in den Bundesländern, 2023 (Sekundärquelle, keine eigene Auswertung aller Landesschulgesetze)"
+   ],
+   "siehe_auch": [
+    "eingliederungshilfe-teilhabeleistungen",
+    "beratung-anlaufstellen-behinderung"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "rente-und-erwerbsminderung-bei-behinderung",
+   "kategorie": "pflege",
+   "titel": "Rente und Erwerbsminderung bei Behinderung",
+   "icon": "💰",
+   "teaser": "Erwerbsminderungsrente nach § 43 SGB VI und die vorzeitige Altersrente für schwerbehinderte Menschen: Voraussetzungen, Hinzuverdienst und typische Fallstricke.",
+   "schlagworte": [
+    "Erwerbsminderungsrente",
+    "§ 43 SGB VI",
+    "Altersrente für schwerbehinderte Menschen",
+    "§ 236a SGB VI",
+    "Hinzuverdienstgrenze",
+    "Wartezeit",
+    "Befristung"
+   ],
+   "kurz_html": "<p>Wer wegen Krankheit oder Behinderung nur noch eingeschränkt arbeiten kann, kommt möglicherweise für eine <strong>Rente wegen Erwerbsminderung</strong> nach § 43 SGB VI infrage: teilweise Erwerbsminderung bei einem Restleistungsvermögen von 3 bis unter 6 Stunden täglich, volle Erwerbsminderung bei unter 3 Stunden täglich – jeweils unter der allgemeinen Bedingung eines offenen Arbeitsmarkts. Voraussetzung ist zusätzlich eine Mindestversicherungszeit (allgemeine Wartezeit von 5 Jahren sowie Pflichtbeiträge in bestimmtem Umfang in den letzten Jahren vor Eintritt der Erwerbsminderung).</p><p>Unabhängig davon können schwerbehinderte Menschen (GdB mindestens 50) mit ausreichender Wartezeit die <strong>Altersrente für schwerbehinderte Menschen</strong> nach § 236a SGB VI vorzeitig und unter bestimmten Voraussetzungen ohne Abschläge in Anspruch nehmen.</p>",
+   "schritte": [
+    {
+     "titel": "Ärztliche Situation dokumentieren lassen",
+     "text": "Lassen Sie Ihr Restleistungsvermögen durch behandelnde Ärztinnen und Ärzte dokumentieren – das ist Grundlage für das spätere Gutachten der Rentenversicherung."
+    },
+    {
+     "titel": "Reha vor Rente prüfen",
+     "text": "Die Rentenversicherung prüft vorrangig, ob medizinische oder berufliche Rehabilitationsleistungen die Erwerbsminderung abwenden können."
+    },
+    {
+     "titel": "Antrag bei der Deutschen Rentenversicherung stellen",
+     "text": "Der Antrag auf Erwerbsminderungsrente wird bei der Deutschen Rentenversicherung gestellt, die ein sozialmedizinisches Gutachten einholt."
+    },
+    {
+     "titel": "Bescheid prüfen",
+     "text": "Erwerbsminderungsrenten werden häufig zunächst befristet bewilligt; prüfen Sie den Bescheid auf Befristung und ggf. rechtzeitige Weiterbewilligung."
+    },
+    {
+     "titel": "Altersrente für schwerbehinderte Menschen prüfen",
+     "text": "Ab GdB 50 und ausreichender Wartezeit lohnt sich zusätzlich die Prüfung, ob die vorzeitige Altersrente für schwerbehinderte Menschen möglich und günstiger ist."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "1 Monat",
+     "was": "Widerspruchsfrist gegen einen ablehnenden oder befristeten Rentenbescheid",
+     "grundlage": "§ 84 SGG"
+    },
+    {
+     "wert": "rechtzeitig vor Fristablauf",
+     "was": "Antrag auf Weiterbewilligung einer befristeten Erwerbsminderungsrente rechtzeitig vor Ablauf der Befristung stellen, um eine Zahlungslücke zu vermeiden",
+     "grundlage": "Praxis der Deutschen Rentenversicherung"
+    }
+   ],
+   "achtung": [
+    "Erwerbsminderungsrenten werden oft zunächst befristet bewilligt – wer den Weiterbewilligungsantrag zu spät stellt, riskiert eine Zahlungslücke.",
+    "Die konkreten Hinzuverdienstgrenzen (nach vorliegenden Berechnungen für 2026 rund 20.763,75 Euro im Jahr bei voller und mindestens 41.527,50 Euro bei teilweiser Erwerbsminderung, je nach bisherigem Einkommen ggf. höher) ändern sich jährlich mit der Bezugsgröße – die für das jeweils aktuelle Jahr gültigen Werte sollten direkt bei der Deutschen Rentenversicherung erfragt werden, statt sich auf ältere Angaben zu verlassen.",
+    "Die genaue Altersgrenze für die abschlagsfreie Altersrente für schwerbehinderte Menschen hängt vom individuellen Geburtsjahrgang ab (stufenweise Anhebung von 63 auf 65 Jahre) – ein pauschales Alter lässt sich hier nicht seriös nennen, das errechnet die Deutsche Rentenversicherung im Einzelfall.",
+    "Der Bezug einer Rente wegen voller Erwerbsminderung schließt eine spätere Wiederaufnahme einer Erwerbstätigkeit nicht grundsätzlich aus, kann aber wegen der Hinzuverdienstgrenzen zur Kürzung oder zum Wegfall der Rente führen – vor Aufnahme einer Beschäftigung unbedingt die individuelle Grenze klären lassen."
+   ],
+   "fach_html": "<h3>Voraussetzungen der Erwerbsminderungsrente, § 43 SGB VI</h3><p>Teilweise erwerbsgemindert ist, wer wegen Krankheit oder Behinderung auf nicht absehbare Zeit außerstande ist, unter den üblichen Bedingungen des allgemeinen Arbeitsmarkts mindestens 6 Stunden täglich erwerbstätig zu sein; voll erwerbsgemindert, wer unter 3 Stunden täglich erwerbstätig sein kann. Voraussetzung ist außerdem die allgemeine Wartezeit von 5 Jahren sowie in der Regel mindestens 3 Jahre Pflichtbeiträge in den letzten 5 Jahren vor Eintritt der Erwerbsminderung (§ 43 Abs. 1, 2 SGB VI).</p><h3>Hinzuverdienst, § 96a SGB VI</h3><p>Seit der Reform der Hinzuverdienstregeln gilt bei voller Erwerbsminderung eine jährliche Hinzuverdienstgrenze, bei teilweiser Erwerbsminderung eine höhere, vom bisherigen Einkommen abhängige individuelle Grenze (mindestens 6/8 des 14-fachen der monatlichen Bezugsgröße im Jahr). Nach vorliegenden, nicht abschließend amtlich gegengeprüften Berechnungen für 2026 liegt die Grenze bei voller Erwerbsminderung bei rund 20.763,75 Euro jährlich und bei teilweiser Erwerbsminderung bei mindestens rund 41.527,50 Euro jährlich. Diese Werte werden jährlich neu festgesetzt und sollten für den Einzelfall bei der Deutschen Rentenversicherung erfragt werden.</p><h3>Altersrente für schwerbehinderte Menschen, § 236a SGB VI</h3><p>Wer bei Rentenbeginn als schwerbehindert anerkannt ist (GdB mindestens 50) und die Wartezeit von 35 Jahren erfüllt, kann die Altersrente für schwerbehinderte Menschen in Anspruch nehmen. Die Altersgrenze für den abschlagsfreien Bezug wird abhängig vom Geburtsjahrgang stufenweise von 63 auf 65 Jahre angehoben, die Grenze für den frühestmöglichen (mit Abschlägen versehenen) Bezug entsprechend von 60 auf 62 Jahre. Die Schwerbehinderteneigenschaft selbst entsteht kraft Gesetzes bereits mit einem festgestellten GdB von mindestens 50, unabhängig vom Ausweisbesitz.</p>",
+   "zustaendig": [
+    "Deutsche Rentenversicherung (zuständiger Rentenversicherungsträger)"
+   ],
+   "belege": [
+    "§§ 43, 96a, 236a SGB VI (gesetze-im-internet.de)",
+    "§ 84 SGG (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "pflegegrad-bei-behinderung",
+    "beratung-anlaufstellen-behinderung"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "beratung-anlaufstellen-behinderung",
+   "kategorie": "beratung",
+   "titel": "Beratung und Anlaufstellen",
+   "icon": "📞",
+   "teaser": "EUTB, Integrationsamt, Versorgungsamt und Sozialverbände: Wer ist wofür zuständig, wenn Sie nicht weiterkommen?",
+   "schlagworte": [
+    "EUTB",
+    "Integrationsamt",
+    "Versorgungsamt",
+    "Sozialverband",
+    "VdK",
+    "SoVD",
+    "Teilhabeberatung",
+    "Beratungshilfe"
+   ],
+   "kurz_html": "<p>Bei Fragen rund um Behinderung gibt es in Deutschland viele unterschiedlich zuständige Stellen. Am niedrigschwelligsten ist die <strong>Ergänzende unabhängige Teilhabeberatung (EUTB)</strong>: Sie berät kostenlos, unabhängig von den Leistungsträgern und häufig nach dem Peer-Counseling-Prinzip – also von Menschen mit eigener Behinderungserfahrung für Ratsuchende. Für spezifische Verfahren sind daneben das Versorgungsamt (Ausweis, GdB), das Integrationsamt (Kündigungsschutz, Arbeitsplatzförderung) und die jeweiligen Reha-Träger zuständig.</p><p>Sozialverbände wie der Sozialverband VdK oder der SoVD bieten ihren Mitgliedern häufig zusätzlich rechtliche Beratung und Vertretung in Widerspruchs- und Klageverfahren an.</p>",
+   "schritte": [
+    {
+     "titel": "EUTB für die Orientierung nutzen",
+     "text": "Für eine erste unabhängige Einschätzung, welche Leistungen infrage kommen und wer zuständig ist, ist die EUTB der richtige erste Ansprechpartner."
+    },
+    {
+     "titel": "Fachstelle je nach Anliegen ansprechen",
+     "text": "Für Ausweis und GdB das Versorgungsamt, für Kündigungsschutz und Arbeitsplatzförderung das Integrationsamt, für Eingliederungshilfe den zuständigen Sozialhilfeträger."
+    },
+    {
+     "titel": "Mitgliedschaft in einem Sozialverband prüfen",
+     "text": "Sozialverbände wie VdK oder SoVD bieten gegen einen Mitgliedsbeitrag oft Rechtsberatung und -vertretung in Sozialrechtsverfahren an."
+    },
+    {
+     "titel": "Rechtliche Unterstützung bei Widerspruch und Klage",
+     "text": "Bei Bedarf kann außergerichtliche Beratungshilfe beim Amtsgericht und für ein Klageverfahren Prozesskostenhilfe beantragt werden; Fachanwältinnen und Fachanwälte für Sozialrecht sind spezialisiert auf diese Verfahren."
+    }
+   ],
+   "fristen": [],
+   "achtung": [
+    "Die EUTB berät unabhängig, entscheidet aber nicht selbst über Anträge – sie ersetzt nicht den Antrag beim zuständigen Träger, sondern hilft, den richtigen zu finden.",
+    "Nicht jede Beratungsstelle ist bundesweit einheitlich organisiert oder finanziert – gerade die überörtliche Eingliederungshilfe-Beratung ist je nach Bundesland und Landkreis unterschiedlich ausgestaltet; die tatsächliche Verfügbarkeit vor Ort sollte direkt erfragt werden.",
+    "Verwechseln Sie das Integrationsamt (Kündigungsschutz, Arbeitsplatzförderung für Arbeitgeber und Beschäftigte) nicht mit dem Versorgungsamt (Ausweis, GdB) – es handelt sich um unterschiedliche Behörden mit unterschiedlichen Aufgaben."
+   ],
+   "fach_html": "<h3>Ergänzende unabhängige Teilhabeberatung (EUTB)</h3><p>Die EUTB unterstützt Menschen mit Behinderungen, von Behinderung bedrohte Menschen sowie deren Angehörige unentgeltlich und trägerunabhängig zu Fragen der Rehabilitation und Teilhabe, unter anderem im Vorfeld von Anträgen auf Leistungen zur medizinischen Rehabilitation oder zur Teilhabe am Arbeitsleben. Kennzeichnend ist das Peer-Counseling-Prinzip: Beratung durch Menschen mit eigener Behinderungs- oder Erkrankungserfahrung. Die bundesweite Vernetzung der EUTB-Beratungsstellen erfolgt über eine zentrale Fachstelle Teilhabeberatung.</p><h3>Integrationsamt</h3><p>Integrationsämter sind u. a. zuständig für das Zustimmungsverfahren bei Kündigungen schwerbehinderter Menschen (§§ 168 ff. SGB IX), die Erhebung der Ausgleichsabgabe (§ 160 SGB IX) und die Förderung behinderungsgerechter Arbeitsplätze aus deren Aufkommen.</p><h3>Versorgungsamt</h3><p>Das Versorgungsamt bzw. die entsprechende Landesbehörde stellt Behinderung, GdB und Merkzeichen fest und stellt den Schwerbehindertenausweis aus (§ 152 SGB IX).</p><h3>Sozialverbände und rechtliche Unterstützung</h3><p>Sozialverbände wie der Sozialverband VdK Deutschland oder der Sozialverband Deutschland (SoVD) bieten Mitgliedern häufig kostenlose oder vergünstigte Rechtsberatung und -vertretung in Widerspruchs- und Klageverfahren des Sozialrechts an. Für die außergerichtliche Rechtsberatung unabhängig von einer Verbandsmitgliedschaft gibt es Beratungshilfe beim zuständigen Amtsgericht, für Klageverfahren ggf. Prozesskostenhilfe.</p>",
+   "zustaendig": [
+    "EUTB-Beratungsstellen (trägerunabhängig)",
+    "Versorgungsamt",
+    "Integrationsamt",
+    "Träger der Eingliederungshilfe",
+    "Sozialverbände"
+   ],
+   "belege": [
+    "§§ 32, 106 SGB IX (Teilhabeberatung, gesetze-im-internet.de)",
+    "§§ 168, 160, 152 SGB IX (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "ueberblick-rechte-menschen-mit-behinderung",
+    "eingliederungshilfe-teilhabeleistungen",
+    "kuendigungsschutz-schwerbehinderte"
+   ],
+   "stand": "Stand: September 2026."
+  }
+ ]
+}

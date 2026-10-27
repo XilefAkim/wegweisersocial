@@ -1,0 +1,520 @@
+{
+ "kategorien": [
+  {
+   "id": "ueberblick",
+   "titel": "Überblick und Grundlagen",
+   "icon": "🕊️",
+   "beschreibung": "Einstieg: die ersten Fragen nach einem Todesfall im Überblick."
+  },
+  {
+   "id": "sterbefall",
+   "titel": "Sterbefall und Bestattung",
+   "icon": "⚱️",
+   "beschreibung": "Was in den ersten Tagen zu tun ist: Meldungen, Bestattung, Kosten."
+  },
+  {
+   "id": "erbe",
+   "titel": "Nachlass und Erbe",
+   "icon": "📜",
+   "beschreibung": "Erbe, Erbausschlagung und digitaler Nachlass."
+  },
+  {
+   "id": "renten",
+   "titel": "Renten für Hinterbliebene",
+   "icon": "💶",
+   "beschreibung": "Witwenrente, Witwerrente und Waisenrente."
+  },
+  {
+   "id": "begleitung",
+   "titel": "Trauerbegleitung und Alltag",
+   "icon": "🕯️",
+   "beschreibung": "Unterstützung bei der Trauer und Freistellung im Job."
+  },
+  {
+   "id": "besondere",
+   "titel": "Besondere Trauersituationen",
+   "icon": "💔",
+   "beschreibung": "Kinder, plötzlicher Verlust, Verlust in der Schwangerschaft."
+  },
+  {
+   "id": "beratung",
+   "titel": "Beratung und Anlaufstellen",
+   "icon": "📞",
+   "beschreibung": "Wer bei welchem Anliegen hilft."
+  }
+ ],
+ "seiten": [
+  {
+   "id": "ueberblick-trauer-und-verlust",
+   "kategorie": "ueberblick",
+   "titel": "Trauer und Verlust: ein Überblick",
+   "icon": "🕊️",
+   "teaser": "Nach einem Todesfall stellen sich viele Fragen gleichzeitig – organisatorische, finanzielle und ganz persönliche. Dieser Überblick zeigt, wo Sie anfangen können.",
+   "schlagworte": ["Trauer", "Sterbefall", "Nachlass", "Hinterbliebenenrente", "Trauerbegleitung", "Erbausschlagung"],
+   "kurz_html": "\n<p>Wenn ein nahestehender Mensch stirbt, treffen praktische Pflichten und persönliche Trauer gleichzeitig auf Sie. Diese Seiten trennen beides bewusst: Für die organisatorischen und rechtlichen Fragen – Sterbefall melden, Bestattung, Erbe, Renten – gibt es feste Abläufe und teils kurze Fristen. Für die Trauer selbst gibt es keinen Zeitplan und keine Pflicht, „funktionieren“ zu müssen.</p>\n<p>Die Themenseiten sind nach Bereichen geordnet: vom Sterbefall über Bestattung und Kosten, Nachlass und Erbe, Renten für Hinterbliebene bis zu Trauerbegleitung und besonderen Situationen wie einem plötzlichen Verlust oder dem Tod eines Kindes.</p>\n",
+   "schritte": [
+    {"titel": "Sterbefall melden", "text": "Der Tod muss beim Standesamt angezeigt werden; meist übernimmt das Bestattungsunternehmen diese Meldung in Ihrem Auftrag (siehe Sterbefall: erste Schritte)."},
+    {"titel": "Bestattung planen", "text": "Bestattungsart und Bestattungsunternehmen wählen; die Bestattungsfrist regelt jedes Bundesland unterschiedlich (siehe Bestattung organisieren und Kosten)."},
+    {"titel": "Geld klären", "text": "Prüfen, ob Sterbegeld, eine Übernahme der Bestattungskosten oder eine Erbschaft in Betracht kommt."},
+    {"titel": "Rentenansprüche prüfen", "text": "Witwen-, Witwer- oder Waisenrente bei der Deutschen Rentenversicherung beantragen, wenn eine Ehe, Lebenspartnerschaft oder Elternschaft bestand."},
+    {"titel": "Unterstützung holen", "text": "Trauerbegleitung und Beratungsstellen kontaktieren – und sich selbst die Zeit für die Trauer lassen, die es braucht."}
+   ],
+   "fristen": [
+    {"wert": "3 Werktage", "was": "Anzeige des Todes beim Standesamt", "grundlage": "§ 28 PStG"},
+    {"wert": "6 Wochen", "was": "Reguläre Frist, um eine Erbschaft auszuschlagen", "grundlage": "§ 1944 Abs. 1 BGB"},
+    {"wert": "12 Kalendermonate", "was": "Rückwirkende Zahlung einer Hinterbliebenenrente ab Antragstellung", "grundlage": "§ 99 Abs. 2 SGB VI"}
+   ],
+   "achtung": [
+    "Trauer verläuft nicht nach Zeitplan – dafür gibt es keine gesetzliche Frist.",
+    "Rechtliche Fristen (Erbausschlagung, Rentenantrag) laufen aber unabhängig von der eigenen Trauer weiter – deshalb lohnt sich früh ein grober Überblick, auch wenn es schwerfällt.",
+    "Nicht jedes Thema betrifft jede Familie: Eine Erbausschlagung ist nur bei Überschuldung des Nachlasses relevant, eine Witwenrente nur bei bestehender Ehe oder Lebenspartnerschaft.",
+    "Bei Unsicherheit lieber frühzeitig eine Beratungsstelle einschalten, als allein unter Zeitdruck zu entscheiden."
+   ],
+   "fach_html": "\n<h3>Wie diese Seiten aufgebaut sind</h3>\n<p>Die 15 Themenseiten sind sieben Bereichen zugeordnet: Überblick, Sterbefall und Bestattung, Nachlass und Erbe, Renten für Hinterbliebene, Trauerbegleitung und Alltag, besondere Trauersituationen sowie Beratung und Anlaufstellen. Jede Seite folgt demselben Muster: zuerst eine Erklärung in einfacher Sprache, dann Schritte, Fristen und typische Fehler, zuletzt ein aufklappbarer Fachteil mit Rechtsgrundlagen für die Beratungsarbeit.</p>\n<h3>Rechtliche Unschärfen bewusst offengelegt</h3>\n<p>Zwei Bereiche sind bundesweit nicht einheitlich geregelt und werden auf den jeweiligen Themenseiten ausdrücklich als variabel gekennzeichnet: die Bestattungspflicht und -frist (Landesrecht der 16 Bundesländer) sowie die bezahlte Freistellung von der Arbeit im Todesfall (abhängig von Tarifvertrag oder Arbeitsvertrag, kein einheitlicher gesetzlicher Anspruch).</p>\n",
+   "zustaendig": ["Unterschiedlich je nach Thema – siehe die jeweilige Themenseite"],
+   "belege": ["§ 28 PStG (gesetze-im-internet.de)", "§ 1944 BGB (gesetze-im-internet.de)", "§ 99 SGB VI (gesetze-im-internet.de)"],
+   "siehe_auch": ["sterbefall-erste-schritte", "nachlass-und-erbe-grundlagen", "beratung-anlaufstellen-trauer"],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "sterbefall-erste-schritte",
+   "kategorie": "sterbefall",
+   "titel": "Sterbefall: die ersten Schritte",
+   "icon": "📋",
+   "teaser": "Was in den ersten Stunden und Tagen nach einem Todesfall formal zu erledigen ist – und wer Ihnen dabei helfen kann.",
+   "schlagworte": ["Todesbescheinigung", "Leichenschau", "Standesamt", "Sterbeurkunde", "§ 28 PStG", "Anzeigepflicht"],
+   "kurz_html": "\n<p>Nach einem Todesfall muss zunächst eine Ärztin oder ein Arzt den Tod feststellen und eine Todesbescheinigung (Leichenschauschein) ausstellen. Danach wird der Tod beim Standesamt am Sterbeort angezeigt – spätestens am dritten auf den Tod folgenden Werktag. In der Praxis übernimmt das beauftragte Bestattungsunternehmen diese Anzeige meist im Auftrag der Angehörigen und besorgt zugleich die Sterbeurkunden.</p>\n<p>Sie brauchen die Sterbeurkunde mehrfach im Original – unter anderem für Banken, Versicherungen, die Rentenversicherung und gegebenenfalls für einen Erbschein. Es lohnt sich, direkt mehrere beglaubigte Ausfertigungen zu bestellen.</p>\n",
+   "schritte": [
+    {"titel": "Tod ärztlich feststellen lassen", "text": "Eine Ärztin oder ein Arzt führt die Leichenschau durch und stellt die Todesbescheinigung aus; bei Tod zu Hause den Hausarzt, Notarzt oder ärztlichen Bereitschaftsdienst rufen."},
+    {"titel": "Bestattungsunternehmen und Angehörige informieren", "text": "Ein Bestattungsunternehmen übernimmt in der Regel die weiteren Formalitäten, darunter die Anzeige beim Standesamt."},
+    {"titel": "Sterbefall beim Standesamt anzeigen", "text": "Spätestens am dritten auf den Tod folgenden Werktag muss der Tod beim Standesamt des Sterbeortes angezeigt werden (§ 28 PStG)."},
+    {"titel": "Mehrere Sterbeurkunden bestellen", "text": "Für Banken, Versicherungen, Renten- und Sozialversicherungsträger sowie einen möglichen Erbschein werden mehrere beglaubigte Ausfertigungen benötigt."},
+    {"titel": "Wichtige Stellen informieren", "text": "Arbeitgeber, Vermieter, Versicherungen, Banken und Vertragspartner über den Tod informieren; laufende Verträge enden nicht automatisch."},
+    {"titel": "Nachlass sichern", "text": "Wohnung, Wertgegenstände und wichtige Unterlagen sichern, bis über das weitere Vorgehen (Erbe, siehe Nachlass und Erbe) entschieden ist."}
+   ],
+   "fristen": [
+    {"wert": "3 Werktage", "was": "Anzeige des Todes beim zuständigen Standesamt", "grundlage": "§ 28 PStG"}
+   ],
+   "achtung": [
+    "Ein Verstoß gegen die Anzeigepflicht kann als Ordnungswidrigkeit mit einem Bußgeld geahndet werden (§ 70 PStG) – in der Praxis übernimmt aber meist das beauftragte Bestattungsunternehmen die fristgerechte Anzeige.",
+    "Bestellen Sie gleich mehrere Sterbeurkunden im Original – viele Stellen akzeptieren keine Kopie.",
+    "Eine Sterbeurkunde ersetzt keinen Erbschein: Manche Banken oder das Grundbuchamt verlangen zusätzlich einen gesonderten Nachweis über die Erbenstellung.",
+    "Verträge (Miete, Mobilfunk, Abonnements) laufen automatisch weiter, bis sie aktiv gekündigt werden – das kostet sonst unnötig Geld."
+   ],
+   "fach_html": "\n<h3>Wer zur Anzeige verpflichtet ist</h3>\n<p>Anzeigepflichtig sind nach §§ 29, 30 PStG in erster Linie im Haushalt lebende Angehörige oder die Person, in deren Wohnung sich der Tod ereignet hat; bei einem Tod in einer Einrichtung (Krankenhaus, Pflegeheim) trifft die Anzeigepflicht die Einrichtung selbst. Die mündliche oder schriftliche Anzeige erfolgt beim Standesamt, in dessen Bezirk der Tod eingetreten ist.</p>\n<h3>Rechtsgrundlage der Frist</h3>\n<p>§ 28 PStG in der seit dem 1. November 2022 geltenden Fassung (3. Personenstandsrechts-Änderungsgesetz vom 19. Oktober 2022) verlangt die Anzeige spätestens am dritten auf den Tod folgenden Werktag. Werktage sind alle Tage außer Sonntagen und gesetzlichen Feiertagen.</p>\n<h3>Landesrechtliche Besonderheiten bei der ärztlichen Leichenschau</h3>\n<p>Ob und wie eine zweite Leichenschau vor einer Feuerbestattung erforderlich ist, regeln die Bestattungsgesetze der Länder unterschiedlich – dazu mehr auf der Seite „Bestattung organisieren und Kosten“.</p>\n",
+   "zustaendig": ["Standesamt am Sterbeort", "Bestattungsunternehmen (übernimmt die Anzeige meist im Auftrag)"],
+   "belege": ["§§ 28, 29, 30, 70 PStG (gesetze-im-internet.de)", "Drittes Gesetz zur Änderung personenstandsrechtlicher Vorschriften vom 19.10.2022"],
+   "siehe_auch": ["bestattung-organisieren-und-kosten", "nachlass-und-erbe-grundlagen", "sterbegeld-und-bestattungskosten-uebernahme"],
+   "stand": "Stand: September 2026 (Rechtsstand seit 1. November 2022, 3. PStRÄndG)."
+  },
+  {
+   "id": "bestattung-organisieren-und-kosten",
+   "kategorie": "sterbefall",
+   "titel": "Bestattung organisieren und Kosten",
+   "icon": "⚱️",
+   "teaser": "Bestattungspflicht und Bestattungsfrist sind Landesrecht: Was in einem Bundesland gilt, lässt sich nicht auf ein anderes übertragen.",
+   "schlagworte": ["Bestattungspflicht", "Bestattungsfrist", "Friedhofszwang", "Landesbestattungsgesetz", "Erdbestattung", "Feuerbestattung", "§ 1968 BGB"],
+   "kurz_html": "\n<p>Wer eine Bestattung organisieren muss und wie schnell sie stattfinden muss, regelt in Deutschland nicht ein Bundesgesetz, sondern das Bestattungsgesetz des jeweiligen Bundeslandes. Deshalb gibt es hier bewusst keine einzelne, für ganz Deutschland gültige Zahl – nur Beispiele zur Einordnung. Erkundigen Sie sich für Ihren Fall beim Bestattungsunternehmen oder dem örtlichen Ordnungsamt.</p>\n<p>In (fast) allen Bundesländern gilt zudem ein sogenannter Friedhofszwang: Eine Urne zu Hause aufzubewahren, ist grundsätzlich nicht erlaubt. Ausnahmen bestehen unter anderem für die Seebestattung und, in einzelnen Ländern, für Bestattungswälder.</p>\n",
+   "schritte": [
+    {"titel": "Bestattungsart festlegen", "text": "Erd- oder Feuerbestattung wählen; eine schriftliche Bestattungsverfügung der verstorbenen Person ist zu beachten, auch wenn sie rechtlich nicht in jedem Bundesland bindend ist."},
+    {"titel": "Bestattungsunternehmen beauftragen", "text": "Es übernimmt in der Regel die Überführung, die Anzeige beim Standesamt und die weiteren Formalitäten."},
+    {"titel": "Friedhof und Termin abstimmen", "text": "Grabstätte, Termin und gegebenenfalls Trauerredner:in oder Pfarramt mit der Friedhofsverwaltung klären."},
+    {"titel": "Kostenvoranschlag einholen", "text": "Schriftlichen Kostenvoranschlag verlangen und nach Möglichkeit vergleichen, bevor Sie unterschreiben."},
+    {"titel": "Landesspezifische Bestattungsfrist erfragen", "text": "Beim Bestattungsunternehmen oder Ordnungsamt erfragen, welche Frist im jeweiligen Bundesland gilt."}
+   ],
+   "fristen": [
+    {"wert": "Landesrecht", "was": "Wie schnell bestattet werden muss, legt jedes Bundesland in seinem eigenen Bestattungsgesetz fest – es gibt keine bundeseinheitliche Frist", "grundlage": "Landesbestattungsgesetze"},
+    {"wert": "Beispiel Bayern", "was": "Frühester Bestattungszeitpunkt in der Regel 48 Stunden nach dem Tod, spätester Zeitpunkt 8 Tage (nach sekundärer Vergleichsübersicht, im Einzelfall am Bayerischen Bestattungsgesetz zu prüfen)", "grundlage": "Bayerisches Bestattungsgesetz (BestG)"},
+    {"wert": "Beispiel Nordrhein-Westfalen", "was": "Erdbestattungen sollen nach vorliegenden Quellen innerhalb von zehn Tagen erfolgen", "grundlage": "Bestattungsgesetz NRW"}
+   ],
+   "achtung": [
+    "Es gibt keine bundeseinheitliche Bestattungsfrist – Angaben aus einem Bundesland lassen sich nicht auf ein anderes übertragen.",
+    "In den meisten Bundesländern besteht Friedhofszwang: Eine Urne zu Hause aufzubewahren, ist grundsätzlich nicht erlaubt.",
+    "Wer bestattungspflichtig ist (meist zuerst Ehegatte/Lebenspartner, dann Kinder, dann Eltern – je nach Landesrecht), ist nicht automatisch dieselbe Person wie die, die erbt.",
+    "Kostenvoranschläge vor der Unterschrift genau prüfen – die Bestattungskosten unterscheiden sich stark je nach Anbieter und Region; belastbare bundesweite Durchschnittswerte ließen sich in dieser Recherche nicht amtlich absichern."
+   ],
+   "fach_html": "\n<h3>Bestattungspflicht ist Landesrecht</h3>\n<p>Wer verpflichtet ist, eine Bestattung zu veranlassen, und in welcher Reihenfolge Angehörige dafür herangezogen werden, regeln die Bestattungsgesetze der 16 Bundesländer jeweils eigenständig. Das gilt auch für die Bestattungsfrist selbst. Für die Beratung bedeutet das: Zuerst das Bestattungsgesetz des betroffenen Bundeslandes (oder das örtliche Ordnungsamt) heranziehen, keine Regelung aus einem anderen Land übertragen.</p>\n<h3>Kostentragung nach § 1968 BGB</h3>\n<p>Unabhängig von der öffentlich-rechtlichen Bestattungspflicht bestimmt § 1968 BGB, dass die Erbin oder der Erbe die Kosten einer standesgemäßen Beerdigung als sogenannte Nachlassverbindlichkeit zu tragen hat. Bestattungspflicht (Landesrecht) und Kostentragungspflicht (Bundesrecht, Erbrecht) sind also zwei unterschiedliche Rechtsfragen, die im Einzelfall auseinanderfallen können.</p>\n<h3>Wenn niemand die Kosten tragen kann</h3>\n<p>Kann der oder dem Kostenpflichtigen die Kostentragung nicht zugemutet werden, übernimmt das Sozialamt die erforderlichen Bestattungskosten (§ 74 SGB XII) – dazu mehr auf der Seite „Sterbegeld und Übernahme der Bestattungskosten“.</p>\n",
+   "zustaendig": ["Bestattungsunternehmen (privatwirtschaftlich)", "Friedhofsverwaltung/Ordnungsamt der Gemeinde", "Standesamt am Sterbeort"],
+   "belege": ["Landesbestattungsgesetze (beispielhaft: Bayerisches Bestattungsgesetz, Bestattungsgesetz NRW)", "§ 1968 BGB (gesetze-im-internet.de)", "§ 74 SGB XII (gesetze-im-internet.de)"],
+   "siehe_auch": ["sterbefall-erste-schritte", "sterbegeld-und-bestattungskosten-uebernahme", "nachlass-und-erbe-grundlagen"],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "sterbegeld-und-bestattungskosten-uebernahme",
+   "kategorie": "sterbefall",
+   "titel": "Sterbegeld und Übernahme der Bestattungskosten",
+   "icon": "💶",
+   "teaser": "Das gesetzliche Sterbegeld der Krankenkassen wurde 2004 abgeschafft. Was es heute stattdessen gibt – und was nicht.",
+   "schlagworte": ["Sterbegeld", "§ 64 SGB VII", "§ 74 SGB XII", "Bestattungskosten", "Beihilfe", "Sozialamt"],
+   "kurz_html": "\n<p>Ein pauschales „Sterbegeld“ von der Krankenkasse, wie es bis Ende 2003 für jedes Kassenmitglied gab, gibt es seit dem 1. Januar 2004 nicht mehr. Der Begriff wird in der Werbung von Versicherungen weiterhin verwendet, bezeichnet dort aber eine private Sterbegeldversicherung – keinen gesetzlichen Anspruch.</p>\n<p>Stattdessen bestehen heute mehrere, deutlich engere Ansprüche nebeneinander: Sterbegeld der gesetzlichen Unfallversicherung bei Tod durch einen Arbeitsunfall oder eine Berufskrankheit, ein möglicher Zuschuss zur Bestattung über die Beihilfe bei Beamtinnen und Beamten (je nach Dienstherr und Bundesland unterschiedlich geregelt) sowie die Übernahme der erforderlichen Bestattungskosten durch das Sozialamt, wenn den eigentlich Verpflichteten die Kostentragung nicht zugemutet werden kann.</p>\n",
+   "schritte": [
+    {"titel": "Unfalltod prüfen", "text": "War der Tod Folge eines Arbeits- oder Wegeunfalls bzw. einer anerkannten Berufskrankheit, Sterbegeld bei der zuständigen Berufsgenossenschaft oder Unfallkasse beantragen (§ 64 SGB VII)."},
+    {"titel": "Beihilfe prüfen", "text": "Bei einem Beamten- oder Versorgungsverhältnis bei der zuständigen Beihilfestelle nachfragen, ob und in welcher Höhe dort noch ein Sterbegeld vorgesehen ist."},
+    {"titel": "Private Versicherungen prüfen", "text": "Lebens- oder Sterbegeldversicherungen sowie Gruppenversicherungen über Arbeitgeber oder Vereine auf eine Leistung im Todesfall prüfen."},
+    {"titel": "Bestattungskosten beim Sozialamt beantragen", "text": "Reicht das Vermögen der Verstorbenen und der kostenpflichtigen Angehörigen nicht aus, möglichst vor Beauftragung eines Bestatters einen Antrag nach § 74 SGB XII stellen."},
+    {"titel": "Unterlagen aufbewahren", "text": "Rechnungen des Bestatters, Sterbeurkunde und Nachweise für alle Anträge sammeln."}
+   ],
+   "fristen": [
+    {"wert": "möglichst vor der Rechnung", "was": "Ein Antrag auf Übernahme der Bestattungskosten beim Sozialamt sollte nach dem sozialhilferechtlichen Kenntnisgrundsatz möglichst gestellt werden, bevor die Rechnung des Bestatters bezahlt wird – eine rückwirkende Erstattung bereits bezahlter Rechnungen ist oft nicht mehr möglich", "grundlage": "§ 18 SGB XII"},
+    {"wert": "4 Jahre", "was": "Allgemeine Verjährungsfrist für Ansprüche auf Sozialleistungen, unter anderem für das Sterbegeld der Unfallversicherung", "grundlage": "§ 45 SGB I"}
+   ],
+   "achtung": [
+    "„Sterbegeld“ von der gesetzlichen Krankenversicherung gibt es seit 2004 nicht mehr – ein entsprechender Werbebegriff bezeichnet heute eine private Versicherung, keinen gesetzlichen Anspruch.",
+    "Sterbegeld der Unfallversicherung gibt es nur bei einem anerkannten Arbeits- oder Wegeunfall bzw. einer Berufskrankheit, nicht bei einem Tod aus anderer Ursache.",
+    "Ob und in welcher Höhe es noch ein Beihilfe-Sterbegeld gibt, hängt vom Dienstherrn und Bundesland ab – das ist nicht bundeseinheitlich.",
+    "Wer Bestattungskosten vom Sozialamt erstattet haben möchte, sollte den Antrag möglichst stellen, bevor die Rechnung beglichen wird."
+   ],
+   "fach_html": "\n<h3>Wegfall des gesetzlichen Sterbegeldes 2004</h3>\n<p>Bis Ende 2003 zahlte die gesetzliche Krankenversicherung nach §§ 58, 59 SGB V a. F. ein pauschales Sterbegeld. Mit dem Gesetz zur Modernisierung der gesetzlichen Krankenversicherung (GMG) vom 14. November 2003 wurde diese Leistung zum 1. Januar 2004 ersatzlos aus dem Leistungskatalog der GKV gestrichen.</p>\n<h3>Sterbegeld der gesetzlichen Unfallversicherung (§ 64 SGB VII)</h3>\n<p>Stirbt eine versicherte Person infolge eines Arbeitsunfalls, Wegeunfalls oder einer anerkannten Berufskrankheit, zahlt der zuständige Unfallversicherungsträger ein pauschales Sterbegeld in Höhe eines Siebtels der zum Todeszeitpunkt geltenden Bezugsgröße (§§ 63 Abs. 1 Nr. 1, 64 SGB VII); die genaue Eurosumme ändert sich jährlich mit der Bezugsgröße und wird hier deshalb nicht beziffert.</p>\n<h3>Bestattungskosten nach § 74 SGB XII</h3>\n<p>Der Träger der Sozialhilfe übernimmt die erforderlichen Kosten einer Bestattung, soweit es der hierzu verpflichteten Person nicht zugemutet werden kann, diese zu tragen. Vorausgesetzt wird dabei nicht, dass die verstorbene Person zu Lebzeiten selbst Sozialhilfe bezogen hat. Zuständig ist grundsätzlich das Sozialamt am Sterbeort, bei vorherigem Sozialhilfebezug der bisher zuständige Träger.</p>\n",
+   "zustaendig": ["Berufsgenossenschaft/Unfallkasse (Sterbegeld nach SGB VII)", "Beihilfestelle (bei Beamtenverhältnis)", "Sozialamt (§ 74 SGB XII)"],
+   "belege": ["§§ 63, 64 SGB VII (gesetze-im-internet.de)", "Gesetz zur Modernisierung der gesetzlichen Krankenversicherung (GMG) vom 14.11.2003", "§ 74 SGB XII (gesetze-im-internet.de)", "§§ 18, 45 SGB I (gesetze-im-internet.de)"],
+   "siehe_auch": ["bestattung-organisieren-und-kosten", "nachlass-und-erbe-grundlagen", "beratung-anlaufstellen-trauer"],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "nachlass-und-erbe-grundlagen",
+   "kategorie": "erbe",
+   "titel": "Nachlass und Erbe: die Grundlagen",
+   "icon": "📜",
+   "teaser": "Mit dem Tod geht das gesamte Vermögen automatisch auf die Erben über – Vermögen und Schulden gleichermaßen.",
+   "schlagworte": ["Gesamtrechtsnachfolge", "§ 1922 BGB", "gesetzliche Erbfolge", "Pflichtteil", "§ 2303 BGB", "Erbschein", "Erbschaftsteuer"],
+   "kurz_html": "\n<p>Nach deutschem Recht geht das gesamte Vermögen einer verstorbenen Person – Vermögenswerte ebenso wie Schulden – automatisch und ohne gesonderten Antrag auf die Erbin oder den Erben über (§ 1922 BGB, sogenannte Gesamtrechtsnachfolge). Gibt es kein Testament, greift die gesetzliche Erbfolge nach festen Rangordnungen. Ein Testament oder Erbvertrag geht dieser gesetzlichen Erbfolge vor.</p>\n<p>Wer durch ein Testament übergangen wurde, kann als naher Angehöriger unter Umständen trotzdem einen Pflichtteil verlangen (§ 2303 BGB). Für den Nachweis der Erbenstellung gegenüber Banken oder dem Grundbuchamt ist oft, aber nicht immer, ein Erbschein erforderlich.</p>\n",
+   "schritte": [
+    {"titel": "Testament oder Erbvertrag suchen", "text": "Beim Nachlassgericht nachfragen, ob ein Testament hinterlegt ist, und im Zentralen Testamentsregister der Bundesnotarkammer prüfen lassen."},
+    {"titel": "Erbfolge klären", "text": "Ohne Testament die gesetzliche Erbfolge und die eigene Erbquote klären."},
+    {"titel": "Nachlass sichten", "text": "Vermögen und Schulden vollständig auflisten – Kontoauszüge, Verträge, offene Rechnungen und Mahnungen."},
+    {"titel": "Annahme oder Ausschlagung entscheiden", "text": "Bei Überschuldung des Nachlasses eine Ausschlagung innerhalb der Frist prüfen (siehe Erbausschlagung und ihre Fristen)."},
+    {"titel": "Erbschein beantragen, wenn nötig", "text": "Beim Nachlassgericht beantragen, wenn eine Bank oder das Grundbuchamt einen förmlichen Nachweis verlangt."},
+    {"titel": "Erbschaftsteuer prüfen", "text": "Prüfen, ob der Nachlasswert die persönlichen Freibeträge übersteigt und eine Anzeige beim Finanzamt nötig ist."}
+   ],
+   "fristen": [
+    {"wert": "6 Wochen / 6 Monate", "was": "Frist zur Ausschlagung der Erbschaft", "grundlage": "§ 1944 BGB – Details auf der Seite „Erbausschlagung und ihre Fristen“"},
+    {"wert": "3 Monate", "was": "Anzeige des Erwerbs von Todes wegen beim Finanzamt ab Kenntnis, außer bei notariell eröffneten Verfügungen ohne Grundbesitz/Betriebsvermögen/Auslandsvermögen", "grundlage": "§ 30 ErbStG"},
+    {"wert": "3 Jahre", "was": "Regelmäßige Verjährung des Pflichtteilsanspruchs ab Kenntnis vom Erbfall und der beeinträchtigenden Verfügung", "grundlage": "§§ 195, 199 BGB"}
+   ],
+   "achtung": [
+    "Wer erbt, erbt auch Schulden – sichten Sie den Nachlass, bevor Sie ihn kommentarlos annehmen oder liegen lassen.",
+    "Schon bestimmtes Verhalten (z. B. die Wohnung räumen oder Nachlassgegenstände verkaufen) kann als stillschweigende Annahme der Erbschaft gelten und eine spätere Ausschlagung unmöglich machen.",
+    "Ein Erbschein kostet abhängig vom Nachlasswert Gebühren – bei einem notariellen Testament mit Eröffnungsprotokoll reicht Banken oft dieser Nachweis allein.",
+    "Pflichtteilsansprüche entstehen unabhängig vom Testament, müssen aber aktiv gegenüber den Erben geltend gemacht werden – sie werden nicht automatisch ausgezahlt."
+   ],
+   "fach_html": "\n<h3>Gesetzliche Erbfolge in Kürze</h3>\n<p>Ohne Testament erben zunächst die Abkömmlinge der verstorbenen Person (1. Ordnung, § 1924 BGB). Gibt es keine, erben Eltern und deren Abkömmlinge (2. Ordnung), dann Großeltern und deren Abkömmlinge (3. Ordnung) usw. Ehegatten und eingetragene Lebenspartner erben daneben nach § 1931 BGB, ihre Quote hängt vom Güterstand ab – bei einer Zugewinngemeinschaft in der Regel ein Viertel zuzüglich eines pauschalen Zugewinnausgleichs von einem weiteren Viertel.</p>\n<h3>Pflichtteil (§ 2303 BGB)</h3>\n<p>Abkömmlinge, der Ehegatte/Lebenspartner und – wenn keine Abkömmlinge vorhanden sind – auch die Eltern der verstorbenen Person sind pflichtteilsberechtigt, wenn sie durch Verfügung von Todes wegen von der Erbfolge ausgeschlossen wurden. Der Pflichtteil beträgt die Hälfte des gesetzlichen Erbteils und ist ein reiner Geldanspruch gegen die Erben, kein Anteil am Nachlass selbst.</p>\n<h3>Erbschaftsteuerliche Freibeträge (§ 16 ErbStG)</h3>\n<p>Für Ehegatten und eingetragene Lebenspartner gilt ein persönlicher Freibetrag von 500.000 €, für Kinder von jeweils 400.000 € pro Elternteil, für Enkelkinder von 200.000 €; in der ungünstigsten Steuerklasse III (u. a. entferntere oder nicht verwandte Personen) beträgt der Freibetrag 20.000 €. Erbschaftsteuer fällt nur auf den Betrag an, der den jeweiligen Freibetrag übersteigt.</p>\n",
+   "zustaendig": ["Nachlassgericht (Amtsgericht) für Erbschein und Testamentseröffnung", "Finanzamt für die Erbschaftsteuer"],
+   "belege": ["§§ 1922, 1924, 1931, 2303 BGB (gesetze-im-internet.de)", "§§ 16, 30 ErbStG (gesetze-im-internet.de)", "§§ 195, 199 BGB (gesetze-im-internet.de)"],
+   "siehe_auch": ["erbausschlagung-fristen", "digitaler-nachlass", "beratung-anlaufstellen-trauer"],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "erbausschlagung-fristen",
+   "kategorie": "erbe",
+   "titel": "Erbausschlagung und ihre Fristen",
+   "icon": "⏳",
+   "teaser": "Eine Erbschaft können Sie nur innerhalb von sechs Wochen ausschlagen – in Auslandsfällen innerhalb von sechs Monaten.",
+   "schlagworte": ["Erbausschlagung", "Ausschlagungsfrist", "§ 1944 BGB", "§ 1945 BGB", "Nachlassgericht", "Überschuldung"],
+   "kurz_html": "\n<p>Ist ein Nachlass überschuldet oder wollen Sie aus anderen Gründen nicht erben, können Sie die Erbschaft ausschlagen. Dafür gilt eine kurze gesetzliche Frist: in der Regel sechs Wochen ab dem Zeitpunkt, an dem Sie von der Erbschaft und dem Grund Ihrer Berufung erfahren haben (§ 1944 Abs. 1 BGB). Die Frist verlängert sich auf sechs Monate, wenn die verstorbene Person zuletzt nur im Ausland gewohnt hat oder Sie selbst sich bei Fristbeginn im Ausland aufhalten (§ 1944 Abs. 3 BGB).</p>\n<p>Die Ausschlagung muss in einer bestimmten Form erklärt werden – ein formloser Brief reicht nicht.</p>\n",
+   "schritte": [
+    {"titel": "Fristbeginn bestimmen", "text": "Die Frist beginnt mit der Kenntnis von der Erbschaft und dem Berufungsgrund, meist also mit der Kenntnis vom Tod und der eigenen Erbenstellung."},
+    {"titel": "Nachlass prüfen", "text": "Prüfen, ob der Nachlass überschuldet ist (siehe Nachlass und Erbe: die Grundlagen)."},
+    {"titel": "Ausschlagungserklärung abgeben", "text": "Die Erklärung persönlich zur Niederschrift beim Nachlassgericht abgeben oder in öffentlich beglaubigter Form (z. B. über eine Notarin oder einen Notar) einreichen (§ 1945 BGB)."},
+    {"titel": "Bei minderjährigen Erben Genehmigung prüfen", "text": "Gesetzliche Vertreter benötigen für die Ausschlagung im Namen eines minderjährigen Kindes unter Umständen eine familiengerichtliche Genehmigung."},
+    {"titel": "Nachrückende Person informieren", "text": "Nach einer wirksamen Ausschlagung rückt die nächste Person in der Erbfolge nach – diese sollte informiert werden, da für sie eine eigene Frist zu laufen beginnt."}
+   ],
+   "fristen": [
+    {"wert": "6 Wochen", "was": "Reguläre Ausschlagungsfrist ab Kenntnis von der Erbschaft und dem Berufungsgrund", "grundlage": "§ 1944 Abs. 1, 2 BGB"},
+    {"wert": "6 Monate", "was": "Verlängerte Frist, wenn die verstorbene Person ihren letzten Wohnsitz nur im Ausland hatte oder die Erbin/der Erbe sich bei Fristbeginn im Ausland aufhält", "grundlage": "§ 1944 Abs. 3 BGB"}
+   ],
+   "achtung": [
+    "Die Frist beginnt mit der Kenntnis, nicht zwingend mit dem Todestag – wer erst später von der eigenen Erbenstellung erfährt (z. B. weil zunächst ein näherer Verwandter ausgeschlagen hat), für den beginnt die Frist erst dann neu.",
+    "Wer die Frist verpasst, hat die Erbschaft automatisch angenommen – auch stillschweigendes Verhalten kann als Annahme gelten.",
+    "Nach der Rechtsprechung des Bundesgerichtshofs begründet ein kurzer Auslandsaufenthalt (z. B. ein Tagesausflug) keinen „Aufenthalt im Ausland“ im Sinn der Sechs-Monats-Frist.",
+    "Eine spätere Anfechtung der (versäumten) Annahme wegen Irrtums über die Überschuldung ist nur in engen Grenzen möglich (§§ 1954, 1956 BGB) und ersetzt keine rechtzeitige Ausschlagung."
+   ],
+   "fach_html": "\n<h3>Form der Ausschlagung (§ 1945 BGB)</h3>\n<p>Die Ausschlagung muss entweder zur Niederschrift des Nachlassgerichts erklärt oder in öffentlich beglaubigter Form eingereicht werden; eine einfache Schriftform ohne Beglaubigung reicht nicht aus. Zuständig ist grundsätzlich das Nachlassgericht am letzten gewöhnlichen Aufenthalt der verstorbenen Person; eine Erklärung bei einem anderen, örtlich nicht zuständigen Nachlassgericht wird zwar weitergeleitet, muss aber innerhalb der Frist bei diesem anderen Gericht eingegangen sein.</p>\n<h3>Rückwirkung der Ausschlagung (§ 1953 BGB)</h3>\n<p>Wird die Erbschaft wirksam ausgeschlagen, gilt der Anfall an die ausschlagende Person als nicht erfolgt; die Erbschaft fällt rückwirkend derjenigen Person zu, die ohne die ausschlagende Person zur Erbfolge berufen gewesen wäre.</p>\n<h3>Minderjährige Erben</h3>\n<p>Schlagen Eltern die Erbschaft im Namen eines minderjährigen Kindes aus, kann je nach Fallgestaltung eine familiengerichtliche Genehmigung erforderlich sein; hierzu empfiehlt sich frühzeitiger fachlicher Rat, da die kurze Frist parallel weiterläuft.</p>\n",
+   "zustaendig": ["Nachlassgericht (Amtsgericht) am letzten Wohnsitz der verstorbenen Person", "Notarin/Notar für die beglaubigte Erklärung"],
+   "belege": ["§§ 1944, 1945, 1953, 1954, 1956 BGB (gesetze-im-internet.de)"],
+   "siehe_auch": ["nachlass-und-erbe-grundlagen", "beratung-anlaufstellen-trauer"],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "digitaler-nachlass",
+   "kategorie": "erbe",
+   "titel": "Digitaler Nachlass",
+   "icon": "💻",
+   "teaser": "Accounts, Daten und Online-Verträge sind Teil des Nachlasses wie alles andere Vermögen – das hat der Bundesgerichtshof 2018 höchstrichterlich geklärt.",
+   "schlagworte": ["Digitaler Nachlass", "Gesamtrechtsnachfolge", "BGH Facebook-Urteil", "Nutzungsvertrag", "Online-Konten"],
+   "kurz_html": "\n<p>Accounts bei sozialen Netzwerken, E-Mail-Postfächer, Cloud-Speicher und Online-Verträge gehen wie das übrige Vermögen automatisch auf die Erben über (§ 1922 BGB). Der Bundesgerichtshof hat 2018 in einem vielbeachteten Urteil entschieden, dass Erben Anspruch auf Zugang zum Facebook-Konto eines verstorbenen Menschen haben – der Nutzungsvertrag geht wie andere Verträge auf die Erbengemeinschaft über.</p>\n<p>In der Praxis ist wichtig: Der Tod beendet kostenpflichtige Verträge (Streaming-Abos, Cloud-Speicher, Mobilfunk) nicht automatisch – Erben müssen aktiv kündigen, sonst laufen Kosten weiter.</p>\n",
+   "schritte": [
+    {"titel": "Überblick verschaffen", "text": "Welche Accounts, Verträge und Abos gab es? Das E-Mail-Postfach ist oft der Schlüssel zu vielen weiteren Diensten und sollte zuerst gesichert werden."},
+    {"titel": "Anbieter kontaktieren", "text": "Anbieter über den Tod informieren und einen Nachweis der Erbenstellung vorlegen (Sterbeurkunde, ggf. Erbschein)."},
+    {"titel": "Laufende Verträge kündigen", "text": "Kostenpflichtige Abos (Streaming, Cloud, Mobilfunk, Online-Banking) aktiv kündigen."},
+    {"titel": "Umgang mit sozialen Netzwerken klären", "text": "Löschung, Gedenkzustand oder Übergabe an die Erben je nach Wunsch der Familie und den Möglichkeiten des jeweiligen Anbieters beantragen."},
+    {"titel": "Zugangsdaten sichern", "text": "Passwörter und Zugänge sichern, bevor Geräte gesperrt werden oder Verträge automatisch enden."}
+   ],
+   "fristen": [
+    {"wert": "keine eigene gesetzliche Frist", "was": "Für den digitalen Nachlass selbst gibt es kein eigenes Fristenregime; vertragliche Kündigungsfristen bei Abos gelten unverändert weiter, und die allgemeine Erbausschlagungsfrist gilt auch, wenn digitale Vermögenswerte Teil einer Überschuldungsprüfung sind", "grundlage": "§ 1944 BGB gilt ergänzend"}
+   ],
+   "achtung": [
+    "Der Tod beendet einen Vertrag (z. B. ein Streaming-Abo) nicht automatisch – Erben müssen aktiv kündigen, sonst laufen Kosten weiter.",
+    "Eine AGB-Klausel, die Erben pauschal vom Zugriff auf einen Account ausschließt, ist nach der BGH-Rechtsprechung von 2018 in der Regel unwirksam.",
+    "Anbieter reagieren unterschiedlich: Manche verlangen einen Erbschein, andere akzeptieren die Sterbeurkunde – im Zweifel beim jeweiligen Support nachfragen.",
+    "Ohne hinterlegte Zugangsdaten oder Vollmacht kann der Zugriff auf verschlüsselte Geräte (z. B. ein gesperrtes Smartphone) faktisch erschwert sein, selbst wenn rechtlich ein Anspruch besteht."
+   ],
+   "fach_html": "\n<h3>BGH-Urteil vom 12. Juli 2018 (III ZR 183/17)</h3>\n<p>Der Bundesgerichtshof entschied im sogenannten „Facebook-Erbfall“, dass der Nutzungsvertrag mit einem sozialen Netzwerk im Wege der Gesamtrechtsnachfolge (§ 1922 BGB) auf die Erben übergeht – ebenso wie ein Vertrag über ein Tagebuch oder Briefe „analog“ vererbt würde. Die Erben haben demnach grundsätzlich Anspruch auf Zugang zu den im Konto gespeicherten Kommunikationsinhalten. Der BGH verwarf dabei sowohl den Einwand des postmortalen Persönlichkeitsrechts Dritter (der Chatpartner) als auch den Einwand des Fernmeldegeheimnisses, da die Erben in die Rechtsstellung der verstorbenen Person eintreten.</p>\n<h3>Freiwillige Zusatzangebote der Anbieter</h3>\n<p>Funktionen wie ein „Gedenkzustand“ bei Facebook oder ein „Nachlasskontakt“ bei Google sind freiwillige Zusatzangebote der jeweiligen Anbieter. Sie können hilfreich sein, ersetzen aber nicht den gesetzlichen Anspruch der Erben aus § 1922 BGB und der BGH-Rechtsprechung.</p>\n",
+   "zustaendig": ["Jeweiliger Diensteanbieter (privatrechtlich)", "im Streitfall die Zivilgerichte"],
+   "belege": ["§ 1922 BGB (gesetze-im-internet.de)", "BGH, Urteil vom 12.07.2018, Az. III ZR 183/17"],
+   "siehe_auch": ["nachlass-und-erbe-grundlagen", "erbausschlagung-fristen"],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "hinterbliebenenrente-witwenrente-witwerrente",
+   "kategorie": "renten",
+   "titel": "Witwenrente und Witwerrente",
+   "icon": "💍",
+   "teaser": "Kleine oder große Witwen-/Witwerrente – und warum ein später Antrag bares Geld kosten kann.",
+   "schlagworte": ["Witwenrente", "Witwerrente", "§ 46 SGB VI", "Sterbevierteljahr", "§ 97 SGB VI", "§ 99 SGB VI", "große Witwenrente"],
+   "kurz_html": "\n<p>Witwen- und Witwerrente sind Leistungen der gesetzlichen Rentenversicherung für Ehegatten und eingetragene Lebenspartner (§ 46 SGB VI). Voraussetzung ist, dass die verstorachte Person die allgemeine Wartezeit von fünf Jahren erfüllt hat. Unterschieden werden die zeitlich befristete „kleine“ Witwenrente (bei Ehen ab 2002 in der Regel 24 Monate) und die unbefristete „große“ Witwenrente, die unter anderem voraussetzt, dass Sie ein eigenes Kind erziehen, erwerbsgemindert sind oder eine bestimmte Altersgrenze erreicht haben.</p>\n<p>In den ersten drei Monaten nach dem Tod – dem sogenannten Sterbevierteljahr – wird eigenes Einkommen nicht auf die Rente angerechnet. Danach greift eine Einkommensanrechnung nach § 97 SGB VI.</p>\n",
+   "schritte": [
+    {"titel": "Voraussetzungen prüfen", "text": "Bestand eine Ehe oder eingetragene Lebenspartnerschaft, und hat die verstorbene Person die allgemeine Wartezeit von fünf Jahren erfüllt?"},
+    {"titel": "Rentenantrag stellen", "text": "Antrag bei der Deutschen Rentenversicherung stellen – formlos, mit Formular oder online."},
+    {"titel": "Unterlagen beifügen", "text": "Sterbeurkunde sowie Heirats- bzw. Lebenspartnerschaftsurkunde beifügen."},
+    {"titel": "Kleine oder große Witwenrente klären", "text": "Prüfen, ob Kindererziehung, Erwerbsminderung oder die Altersgrenze eine unbefristete große Witwenrente eröffnen."},
+    {"titel": "Einkommensanrechnung vorbereiten", "text": "Nach dem Sterbevierteljahr wird eigenes Einkommen teilweise angerechnet (§ 97 SGB VI) – entsprechende Nachweise bereithalten."}
+   ],
+   "fristen": [
+    {"wert": "12 Kalendermonate", "was": "Eine Hinterbliebenenrente wird höchstens für die zwölf Kalendermonate vor dem Monat der Antragstellung rückwirkend gezahlt – danach nur ab dem Antragsmonat", "grundlage": "§ 99 Abs. 2 Satz 3 SGB VI"},
+    {"wert": "3 Monate", "was": "Sterbevierteljahr: In den ersten drei Kalendermonaten nach dem Tod wird eigenes Einkommen nicht angerechnet", "grundlage": "§ 97 SGB VI"},
+    {"wert": "24 Monate", "was": "Dauer der „kleinen“ Witwenrente bei Ehen, die ab 2002 geschlossen wurden", "grundlage": "§ 46 Abs. 1 SGB VI"},
+    {"wert": "46 Jahre und 6 Monate (2026)", "was": "Altersgrenze für die „große“ Witwenrente wegen Alters; die Grenze wird in Stufen bis 2029 auf 47 Jahre angehoben", "grundlage": "§ 46 Abs. 2, § 242a SGB VI"}
+   ],
+   "achtung": [
+    "Wer den Antrag später als 12 Monate nach dem Tod stellt, verliert die Rente für die Zeit davor endgültig – es lohnt sich, den Antrag nicht monatelang aufzuschieben.",
+    "Die Altersgrenze für die große Witwenrente wird derzeit schrittweise angehoben – wer knapp darunter liegt, sollte prüfen, ob eine andere Voraussetzung (Kindererziehung, Erwerbsminderung) greift.",
+    "Ab dem vierten Monat nach dem Tod wird eigenes Einkommen (auch eine eigene Rente) teilweise angerechnet – das kann die Witwenrente spürbar mindern.",
+    "Eine Scheidung vor dem Tod schließt die Witwenrente grundsätzlich aus; Ansprüche können dann allenfalls über den im Scheidungsverfahren durchgeführten Versorgungsausgleich bestehen."
+   ],
+   "fach_html": "\n<h3>Voraussetzungen im Einzelnen</h3>\n<p>§ 46 SGB VI setzt eine wirksame Ehe oder eingetragene Lebenspartnerschaft sowie die Erfüllung der allgemeinen Wartezeit (fünf Jahre) durch die verstorbene Person voraus. Bei einer Ehedauer von weniger als einem Jahr wird gesetzlich vermutet, dass es sich um eine sogenannte Versorgungsehe handelt, die keinen Anspruch begründet – diese Vermutung kann im Einzelfall widerlegt werden (§ 46 Abs. 2a SGB VI).</p>\n<h3>Einkommensanrechnung nach § 97 SGB VI</h3>\n<p>Nach dem Sterbevierteljahr wird Einkommen oberhalb eines laufend an den aktuellen Rentenwert gekoppelten Freibetrags zu 40 Prozent auf die Witwen-/Witwerrente angerechnet. Der Freibetrag selbst verändert sich mit den jährlichen Rentenanpassungen und wird deshalb hier nicht als feste Eurosumme genannt.</p>\n<h3>Übergangsregelung zur Altersgrenze (§ 242a SGB VI)</h3>\n<p>Die Altersgrenze für die große Witwenrente wegen Alters wird seit mehreren Jahren schrittweise von ursprünglich 45 auf 47 Jahre angehoben; im Jahr 2026 liegt sie bei 46 Jahren und 6 Monaten, die einheitliche Grenze von 47 Jahren wird 2029 erreicht.</p>\n",
+   "zustaendig": ["Deutsche Rentenversicherung (Bund oder zuständiger Regionalträger)"],
+   "belege": ["§§ 46, 97, 99, 242a SGB VI (gesetze-im-internet.de)"],
+   "siehe_auch": ["waisenrente", "sterbefall-erste-schritte", "beratung-anlaufstellen-trauer"],
+   "stand": "Stand: September 2026 (Altersgrenze große Witwenrente 2026: 46 Jahre und 6 Monate, § 242a SGB VI)."
+  },
+  {
+   "id": "waisenrente",
+   "kategorie": "renten",
+   "titel": "Waisenrente",
+   "icon": "🧒",
+   "teaser": "Halbwaisenrente, wenn ein Elternteil stirbt, Vollwaisenrente, wenn beide fehlen – meist bis zum 18., bei Ausbildung bis zum 27. Geburtstag.",
+   "schlagworte": ["Waisenrente", "Halbwaisenrente", "Vollwaisenrente", "§ 48 SGB VI", "§ 99 SGB VI"],
+   "kurz_html": "\n<p>Kinder haben nach dem Tod eines Elternteils Anspruch auf Halbwaisenrente, wenn noch ein unterhaltspflichtiger Elternteil lebt, und auf Vollwaisenrente, wenn kein unterhaltspflichtiger Elternteil mehr vorhanden ist (§ 48 SGB VI). Voraussetzung ist, dass der verstorbene Elternteil die allgemeine Wartezeit von fünf Jahren erfüllt hat.</p>\n<p>Der Anspruch besteht grundsätzlich bis zum 18. Geburtstag und verlängert sich bis zum 27. Geburtstag, solange sich das Kind in Schul- oder Berufsausbildung, einem Studium oder einem vergleichbaren Freiwilligendienst befindet, sowie ohne Altersgrenze bei einer Behinderung, die vor Erreichen der jeweiligen Altersgrenze eingetreten ist.</p>\n",
+   "schritte": [
+    {"titel": "Antrag stellen", "text": "Antrag bei der Deutschen Rentenversicherung stellen – bei minderjährigen Kindern durch den sorgeberechtigten Elternteil oder Vormund."},
+    {"titel": "Unterlagen einreichen", "text": "Sterbeurkunde und Geburtsurkunde des Kindes beifügen."},
+    {"titel": "Ausbildungsnachweis einreichen", "text": "Bei Kindern über 18 Jahren eine Schul-, Ausbildungs- oder Studienbescheinigung einreichen, um die Rente über den 18. Geburtstag hinaus zu erhalten."},
+    {"titel": "Änderungen melden", "text": "Ausbildungsende oder -unterbrechung unverzüglich der Rentenversicherung mitteilen."},
+    {"titel": "Antrag rechtzeitig stellen", "text": "Antrag innerhalb von 12 Kalendermonaten nach dem Tod stellen, um keine rückwirkenden Ansprüche zu verlieren."}
+   ],
+   "fristen": [
+    {"wert": "12 Kalendermonate", "was": "Rückwirkende Zahlung der Waisenrente höchstens für die zwölf Kalendermonate vor dem Monat der Antragstellung", "grundlage": "§ 99 Abs. 2 SGB VI"},
+    {"wert": "18. Geburtstag", "was": "Reguläres Ende des Waisenrentenanspruchs", "grundlage": "§ 48 Abs. 4 SGB VI"},
+    {"wert": "27. Geburtstag", "was": "Verlängerung bei Schul-/Berufsausbildung, Studium oder vergleichbarem Freiwilligendienst", "grundlage": "§ 48 Abs. 4 SGB VI"}
+   ],
+   "achtung": [
+    "Ohne rechtzeitig eingereichte Ausbildungsbescheinigung kann die Zahlung nach dem 18. Geburtstag unterbrochen werden.",
+    "Anders als bei der Witwenrente wird eigenes Einkommen der Waise auf die Waisenrente grundsätzlich nicht angerechnet – Ausnahmen sollten im Einzelfall bei der Rentenversicherung erfragt werden.",
+    "Adoptions- und Pflegekindkonstellationen können die Anspruchsberechtigung beeinflussen – im Zweifel direkt bei der Deutschen Rentenversicherung nachfragen.",
+    "Bei minderjährigen Kindern muss der Antrag von der sorgeberechtigten Person gestellt werden."
+   ],
+   "fach_html": "\n<h3>Halbwaisen- und Vollwaisenrente im Vergleich</h3>\n<p>Die Halbwaisenrente beträgt 10 Prozent, die Vollwaisenrente 20 Prozent der Rente wegen voller Erwerbsminderung, auf die der verstorbene Elternteil Anspruch gehabt hätte bzw. die er oder sie bereits bezog (Rentenartfaktoren 0,1 bzw. 0,2 nach § 67 SGB VI). Hinzu kommt gegebenenfalls ein Zuschlag für Kindererziehungs- und Berücksichtigungszeiten nach § 78a SGB VI.</p>\n<h3>Verlängerung der Altersgrenze</h3>\n<p>Die Altersgrenze von 27 Jahren kann sich zusätzlich verschieben, wenn sich Schul- oder Berufsausbildung durch gesetzlichen Wehr-, Zivil- oder einen vergleichbaren Dienst verzögert hat; die Verlängerung entspricht dann der Dauer dieses Dienstes.</p>\n",
+   "zustaendig": ["Deutsche Rentenversicherung (Bund oder zuständiger Regionalträger)"],
+   "belege": ["§§ 48, 67, 78a, 99 SGB VI (gesetze-im-internet.de)"],
+   "siehe_auch": ["hinterbliebenenrente-witwenrente-witwerrente", "sterbefall-erste-schritte"],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "trauerbegleitung-und-anlaufstellen",
+   "kategorie": "begleitung",
+   "titel": "Trauerbegleitung: Formen und Anlaufstellen",
+   "icon": "🕯️",
+   "teaser": "Trauerbegleitung ist ein freiwilliges, niedrigschwelliges Angebot – kein Ersatz für Psychotherapie, aber oft der richtige erste Schritt.",
+   "schlagworte": ["Trauerbegleitung", "Trauergruppe", "anhaltende Trauerstörung", "ICD-11", "Bundesverband Trauerbegleitung"],
+   "kurz_html": "\n<p>Trauerbegleitung ist ein freiwilliges Unterstützungsangebot – durch ehrenamtlich oder hauptamtlich tätige, oft zertifizierte Trauerbegleiter:innen, in Einzelgesprächen, Gruppen, Trauercafés oder online. Sie ersetzt keine Psychotherapie, kann aber in den meisten Trauerfällen eine gute erste Anlaufstelle sein.</p>\n<p>Trauer selbst ist keine Krankheit und braucht keinen festen Zeitplan. Halten Symptome jedoch außergewöhnlich lange und stark beeinträchtigend an, kennt die Weltgesundheitsorganisation seit der ICD-11 eine eigene Diagnose: die „anhaltende Trauerstörung“. Sie kann frühestens sechs Monate nach dem Verlust festgestellt werden, wenn die Trauerreaktion das nach sozialen, kulturellen oder religiösen Normen übliche Maß deutlich übersteigt und den Alltag stark beeinträchtigt.</p>\n",
+   "schritte": [
+    {"titel": "Sich klarmachen: Trauerbegleitung ist freiwillig", "text": "Die meisten Angebote von Wohlfahrtsverbänden und Hospizvereinen sind kostenlos oder auf Spendenbasis."},
+    {"titel": "Passendes Format wählen", "text": "Einzelbegleitung, Gruppenangebot, Trauercafé oder Online-Forum – je nachdem, was zur eigenen Situation passt."},
+    {"titel": "Angebote vor Ort suchen", "text": "Über den Bundesverband Trauerbegleitung e.V. oder örtliche Hospizvereine und Wohlfahrtsverbände (Diakonie, Caritas, DRK, AWO) nach Angeboten in der Nähe suchen."},
+    {"titel": "Anzeichen einer anhaltenden Trauerstörung ernst nehmen", "text": "Bei starker, über mehr als sechs Monate anhaltender Beeinträchtigung ärztlichen oder psychotherapeutischen Rat einholen."},
+    {"titel": "Kostenfrage vorab klären", "text": "Trauerbegleitung selbst ist in der Regel keine Kassenleistung; eine Psychotherapie bei diagnostizierter Störung dagegen schon."}
+   ],
+   "fristen": [
+    {"wert": "keine gesetzliche Frist", "was": "Für Trauerbegleitung selbst gibt es keine Antrags- oder sonstige gesetzliche Frist", "grundlage": ""},
+    {"wert": "ab 6 Monaten", "was": "Frühestmöglicher Zeitpunkt, ab dem die klinische Diagnose „anhaltende Trauerstörung“ nach ICD-11 gestellt werden kann (zum Vergleich: das US-amerikanische DSM-5-TR setzt 12 Monate an)", "grundlage": "WHO, ICD-11"}
+   ],
+   "achtung": [
+    "Trauerbegleitung ist in der Regel keine Kassenleistung – anders als eine Psychotherapie wird sie meist nicht von der Krankenkasse bezahlt.",
+    "„Trauerbegleiter/in“ ist keine geschützte Berufsbezeichnung – eine Zertifizierung, etwa durch den Bundesverband Trauerbegleitung e.V., ist eine Möglichkeit, Qualität einzuschätzen, aber keine gesetzliche Pflicht.",
+    "Nicht jede starke Trauer ist eine „Störung“ – Trauer ohne festen Zeitplan ist normal; fachliche Hilfe ist vor allem bei anhaltender, das Leben stark einschränkender Symptomatik sinnvoll.",
+    "Angebote unterscheiden sich stark je nach Wohnort (ländlich/städtisch) – im Zweifel bei Krankenkasse, Hausarztpraxis oder einer Beratungsstelle nach Empfehlungen fragen."
+   ],
+   "fach_html": "\n<h3>Anhaltende Trauerstörung (ICD-11)</h3>\n<p>Mit der ICD-11 hat die Weltgesundheitsorganisation erstmals eine eigenständige Diagnose für eine über das übliche Maß hinaus anhaltende und beeinträchtigende Trauerreaktion aufgenommen. Kernkriterien sind ein anhaltendes, starkes Sehnen nach der verstorbenen Person oder eine anhaltende gedankliche Fixierung darauf, verbunden mit weiteren belastenden Symptomen über mindestens sechs Monate, die deutlich über kulturell erwartbare Trauerreaktionen hinausgehen und den Alltag wesentlich beeinträchtigen.</p>\n<h3>Träger von Trauerbegleitung</h3>\n<p>Trauerbegleitung wird in Deutschland überwiegend von freien Trägern angeboten: Hospizvereinen, den Wohlfahrtsverbänden (Diakonie, Caritas, Deutsches Rotes Kreuz, Arbeiterwohlfahrt u. a.) sowie spezialisierten Vereinen. Der Bundesverband Trauerbegleitung e.V. entwickelt Qualitätsstandards für die Aus- und Fortbildung von Trauerbegleiter:innen und bietet eine Suche nach Angeboten vor Ort.</p>\n",
+   "zustaendig": ["Wohlfahrtsverbände und Hospizvereine (freiwillige Trauerbegleitung)", "niedergelassene Psychotherapeut:innen bei Verdacht auf anhaltende Trauerstörung"],
+   "belege": ["Bundesverband Trauerbegleitung e.V. (bundesverband-trauerbegleitung.de)", "WHO, ICD-11, Prolonged Grief Disorder / anhaltende Trauerstörung"],
+   "siehe_auch": ["beratung-anlaufstellen-trauer", "trauer-bei-kindern-und-jugendlichen", "ploetzlicher-verlust-und-krisenintervention"],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "trauer-am-arbeitsplatz-freistellung",
+   "kategorie": "begleitung",
+   "titel": "Trauer am Arbeitsplatz und Freistellung",
+   "icon": "💼",
+   "teaser": "Es gibt keinen einheitlichen gesetzlichen Anspruch auf mehrere bezahlte freie Tage bei einem Todesfall – anders, als viele annehmen.",
+   "schlagworte": ["§ 616 BGB", "Sonderurlaub", "TVöD", "Arbeitsbefreiung", "Freistellung"],
+   "kurz_html": "\n<p>Anders als oft angenommen, gibt es in Deutschland keinen bundesweit einheitlichen gesetzlichen Anspruch auf mehrere bezahlte freie Tage bei einem Todesfall in der Familie. § 616 BGB gewährt nur eine „verhältnismäßig nicht erhebliche Zeit“ Freistellung bei unverschuldeter Verhinderung – und diese Vorschrift ist abdingbar: Viele Arbeits- und Tarifverträge schließen sie ausdrücklich aus oder ersetzen sie durch eigene Regelungen.</p>\n<p>Ob und wie viele Tage bezahlter Sonderurlaub es gibt, hängt deshalb vom anwendbaren Tarifvertrag oder Arbeitsvertrag ab. Im öffentlichen Dienst gewährt zum Beispiel § 29 TVöD zwei Arbeitstage bezahlte Freistellung beim Tod von Ehegatte/Lebenspartner:in, Kind oder Elternteil – das ist aber ein Beispiel aus einem bestimmten Tarifvertrag, keine für alle Beschäftigten geltende gesetzliche Zahl.</p>\n",
+   "schritte": [
+    {"titel": "Vertragslage prüfen", "text": "Arbeitsvertrag und einen eventuell anwendbaren Tarifvertrag oder eine Betriebsvereinbarung auf eine Regelung zu Sonderurlaub im Todesfall prüfen."},
+    {"titel": "Arbeitgeber informieren", "text": "Den Todesfall mitteilen und die Freistellung möglichst schriftlich beantragen oder bestätigen lassen."},
+    {"titel": "Alternativen besprechen, wenn keine Regelung existiert", "text": "Resturlaub, Überstundenausgleich oder unbezahlte Freistellung mit dem Arbeitgeber klären."},
+    {"titel": "Bei Arbeitsunfähigkeit ärztlich krankschreiben lassen", "text": "Bei einer Trauerreaktion, die die Arbeitsfähigkeit einschränkt, gilt wie bei anderen Erkrankungen die reguläre Entgeltfortzahlung im Krankheitsfall."},
+    {"titel": "Bei Uneinigkeit Unterstützung holen", "text": "Betriebs- oder Personalrat, eine Gewerkschaft oder eine Rechtsberatung einschalten."}
+   ],
+   "fristen": [
+    {"wert": "2 Arbeitstage (Beispiel)", "was": "Bezahlte Freistellung beim Tod von Ehegatte/Lebenspartner:in, Kind oder Elternteil – gilt nur für Beschäftigte im Geltungsbereich von TVöD/TV-L, nicht bundesweit einheitlich", "grundlage": "§ 29 Abs. 1 TVöD"}
+   ],
+   "achtung": [
+    "Es gibt keinen einheitlichen gesetzlichen Anspruch auf mehrere bezahlte freie Tage bei einem Todesfall – § 616 BGB ist abdingbar und wird in vielen Arbeitsverträgen ausdrücklich ausgeschlossen.",
+    "Ob und wie viele Tage bezahlte Freistellung es gibt, hängt vom anwendbaren Tarifvertrag oder Arbeitsvertrag ab – ohne eine solche Regelung besteht oft nur ein Anspruch auf eine sehr kurze, von der Rechtsprechung eng ausgelegte Zeit.",
+    "Die im TVöD genannten zwei Arbeitstage sind ein Beispiel aus dem öffentlichen Dienst, keine für alle Arbeitnehmer:innen verbindliche Zahl – andere Branchen und Tarifverträge können andere, teils kürzere Regelungen haben.",
+    "Bei anhaltender Arbeitsunfähigkeit wegen der Trauer ist eine reguläre Krankschreibung der rechtssichere Weg, nicht ein informelles Fernbleiben."
+   ],
+   "fach_html": "\n<h3>§ 616 BGB: eng ausgelegt und abdingbar</h3>\n<p>§ 616 BGB gewährt die Fortzahlung der Vergütung, wenn eine Arbeitnehmerin oder ein Arbeitnehmer für eine „verhältnismäßig nicht erhebliche Zeit“ durch einen in ihrer Person liegenden Grund ohne eigenes Verschulden an der Arbeitsleistung verhindert ist. Die Rechtsprechung legt diesen Zeitraum eng aus und beziffert ihn nicht einheitlich mit einer festen Anzahl an Tagen. Da die Vorschrift dispositiv ist, wird sie in der Praxis in vielen Arbeitsverträgen ausdrücklich abbedungen.</p>\n<h3>Tarifvertragliche Regelungen als Beispiel</h3>\n<p>§ 29 Abs. 1 Buchst. b TVöD sieht für Beschäftigte im öffentlichen Dienst zwei Arbeitstage bezahlte Arbeitsbefreiung beim Tod des Ehegatten, der Lebenspartnerin bzw. des Lebenspartners, eines Kindes oder eines Elternteils vor. Andere Tarifverträge (etwa in Industrie oder Handel) können abweichende, teils kürzere Regelungen enthalten oder Sonderurlaub im Todesfall überhaupt nicht vorsehen – belastbare, verallgemeinerbare Zahlen für „die Privatwirtschaft insgesamt“ ließen sich in dieser Recherche nicht ermitteln und werden deshalb nicht behauptet.</p>\n",
+   "zustaendig": ["Arbeitgeber", "bei Tarifbindung die jeweilige Tarifvertragspartei", "Betriebs- oder Personalrat als Ansprechpartner"],
+   "belege": ["§ 616 BGB (gesetze-im-internet.de)", "§ 29 Abs. 1 TVöD (exemplarisch für den öffentlichen Dienst)"],
+   "siehe_auch": ["trauerbegleitung-und-anlaufstellen", "beratung-anlaufstellen-trauer"],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "trauer-bei-kindern-und-jugendlichen",
+   "kategorie": "besondere",
+   "titel": "Trauer bei Kindern und Jugendlichen",
+   "icon": "🧸",
+   "teaser": "Kinder trauern anders als Erwachsene – oft in kurzen Etappen statt durchgehend. Das ist normal, kein Zeichen von Gefühllosigkeit.",
+   "schlagworte": ["Kindertrauer", "Kinderhospizdienst", "VEID", "trauernde Geschwister"],
+   "kurz_html": "\n<p>Kinder verstehen den Tod je nach Alter unterschiedlich: Kleinkinder begreifen seine Endgültigkeit oft noch nicht, Grundschulkinder entwickeln zunehmend ein realistischeres Verständnis. Wichtig ist, Kindern ehrlich und altersgerecht zu erklären, was passiert ist – klare Worte wie „gestorben“ statt Umschreibungen wie „eingeschlafen“, die bei kleinen Kindern zu Schlafangst führen können.</p>\n<p>Kinder trauern oft „auf Sparflamme“: kurze, intensive Trauermomente wechseln sich mit ganz normalem Spielen und Lachen ab. Das ist keine Gefühllosigkeit, sondern eine altersgemäße Art, mit Verlust umzugehen.</p>\n",
+   "schritte": [
+    {"titel": "Ehrlich und altersgerecht informieren", "text": "Klare Worte verwenden statt Umschreibungen, die missverstanden werden können."},
+    {"titel": "Dem Kind die Wahl lassen", "text": "Ob es an Beerdigung oder Ritualen teilnehmen möchte, selbst entscheiden lassen – und es darauf vorbereiten, was es dort erwartet."},
+    {"titel": "Alltag möglichst stabil halten", "text": "Vertraute Routinen geben Kindern in einer Ausnahmesituation Sicherheit."},
+    {"titel": "Kita oder Schule informieren", "text": "Erzieher:innen und Lehrkräfte einbeziehen, damit sie unterstützend reagieren können."},
+    {"titel": "Auf anhaltende Warnzeichen achten", "text": "Bei starkem Rückzug, deutlichem Leistungsabfall oder Verhaltensänderungen über mehrere Monate gezielt fachliche Unterstützung suchen."}
+   ],
+   "fristen": [
+    {"wert": "keine gesetzliche Frist", "was": "Für kindliche Trauerreaktionen gibt es keine feste zeitliche Grenze; Warnzeichen sollten nach mehreren Monaten fachlich abgeklärt werden, ohne dass eine exakte Frist vorgeschrieben ist", "grundlage": ""}
+   ],
+   "achtung": [
+    "Kinder brauchen keine durchgehende Trauer – Spielen und Lachen kurz nach dem Verlust ist normal.",
+    "Der Ausschluss von der Beerdigung „zum Schutz“ nimmt Kindern oft die Möglichkeit, Abschied zu nehmen – informieren, vorbereiten und dem Kind die Wahl lassen, ist meist der bessere Weg.",
+    "Manche kindliche Reaktionen (Bettnässen, Trennungsangst, aggressives Verhalten) sind vorübergehende, normale Trauerreaktionen und keine eigenständige Diagnose.",
+    "Allgemeine Trauerbegleitung ist nicht automatisch kindgerecht – spezialisierte Angebote für Kinder unterscheiden sich von Angeboten für Erwachsene."
+   ],
+   "fach_html": "\n<h3>Altersabhängiges Todesverständnis</h3>\n<p>Entwicklungspsychologisch verstehen Kinder die Endgültigkeit, Unumkehrbarkeit und Universalität des Todes erst nach und nach – Vorschulkinder verfügen häufig noch nicht über ein vollständiges Todeskonzept, während sich dieses im Grundschulalter zunehmend ausbildet. Für die Beratungspraxis bedeutet das: Erklärungen sollten dem jeweiligen Entwicklungsstand angepasst, aber immer ehrlich sein.</p>\n<h3>Spezialisierte Anlaufstellen</h3>\n<p>Der Deutsche Kinderhospizverein e.V. und der Bundesverband Kinderhospiz e.V. unterstützen Familien mit schwer kranken oder sterbenden Kindern sowie trauernde Geschwisterkinder. Der Bundesverband Verwaiste Eltern und trauernde Geschwister in Deutschland e.V. (VEID) richtet sich gezielt an Eltern und Geschwister nach dem Tod eines Kindes und koordiniert bundesweit rund 500 örtliche Selbsthilfegruppen.</p>\n",
+   "zustaendig": ["Kinder- und Jugendlichenpsychotherapeut:innen bei Bedarf", "schulpsychologische Dienste", "spezialisierte Kinderhospizdienste"],
+   "belege": ["Deutscher Kinderhospizverein e.V. (deutscher-kinderhospizverein.de)", "Bundesverband Kinderhospiz e.V.", "VEID e.V. (veid.de)"],
+   "siehe_auch": ["trauerbegleitung-und-anlaufstellen", "trauer-nach-fehlgeburt-und-verlust-eines-kindes", "beratung-anlaufstellen-trauer"],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "ploetzlicher-verlust-und-krisenintervention",
+   "kategorie": "besondere",
+   "titel": "Plötzlicher Verlust und Krisenintervention",
+   "icon": "🚨",
+   "teaser": "Ein Unfall, ein Suizid oder eine Gewalttat verändern die Situation von Angehörigen zusätzlich – dafür gibt es spezialisierte Hilfe.",
+   "schlagworte": ["Krisenintervention", "SGB XIV", "Soziales Entschädigungsrecht", "Weißer Ring", "AGUS", "ANUAS"],
+   "kurz_html": "\n<p>Ein plötzlicher, unerwarteter Tod – durch einen Unfall, einen Suizid oder eine Gewalttat – trifft Angehörige besonders unvorbereitet. Am Ereignisort werden meist automatisch Kriseninterventionsteams (KIT) oder die Notfallseelsorge über Polizei oder Rettungsdienst verständigt; sie leisten unmittelbare psychosoziale Erste Hilfe, ersetzen aber keine langfristige Trauerbegleitung.</p>\n<p>Ist der Tod durch eine Gewalttat verursacht worden, können Angehörige und Hinterbliebene seit dem 1. Januar 2024 Leistungen nach dem neuen Sozialen Entschädigungsrecht (SGB XIV) erhalten, das das frühere Opferentschädigungsgesetz (OEG) abgelöst hat.</p>\n",
+   "schritte": [
+    {"titel": "Akute Erste Hilfe annehmen", "text": "Kriseninterventionsteams oder Notfallseelsorge werden am Ereignisort meist automatisch von Polizei oder Rettungsdienst verständigt."},
+    {"titel": "Bei Fremdverschulden Kontakt zu Polizei/Staatsanwaltschaft halten", "text": "Bei einem Unfall mit Dritten oder einer Gewalttat über den weiteren Verfahrensverlauf informiert bleiben, ggf. als Nebenklage- oder Opferzeuge."},
+    {"titel": "Ansprüche nach dem SGB XIV prüfen", "text": "Bei einem Tod durch eine Gewalttat prüfen, ob Leistungen des Sozialen Entschädigungsrechts für Angehörige in Betracht kommen."},
+    {"titel": "Spezialisierte Anlaufstellen kontaktieren", "text": "Weißer Ring (Kriminalitätsopfer und Angehörige), AGUS e.V. (nach einem Suizid), ANUAS e.V. (nach Tötungsdelikten oder Vermisstenfällen)."},
+    {"titel": "Sich Zeit für die akute Phase nehmen", "text": "Krisenintervention überbrückt die ersten Stunden und Tage – für die weitere Trauerbewältigung ist meist zusätzliche, längerfristige Unterstützung sinnvoll."}
+   ],
+   "fristen": [
+    {"wert": "seit 1. Januar 2024", "was": "Für Taten ab diesem Datum gilt vollständig das neue Soziale Entschädigungsrecht (SGB XIV); für frühere Taten gilt übergangsweise weiterhin das alte Opferentschädigungsgesetz (OEG)", "grundlage": "SGB XIV"},
+    {"wert": "im Einzelfall zu klären", "was": "Für Leistungen nach dem SGB XIV ist ein Antrag erforderlich; wie bei anderen Sozialleistungen kann eine späte Antragstellung zum Verlust rückwirkender Zahlungen führen – die genaue Handhabung sollte mit der zuständigen Versorgungsverwaltung geklärt werden", "grundlage": ""}
+   ],
+   "achtung": [
+    "Ein Kriseninterventionsteam leistet unmittelbare seelische Erste Hilfe – keine Therapie und keine Ermittlungsarbeit.",
+    "Nur Taten ab dem 1. Januar 2024 fallen vollständig unter das neue SGB XIV; für frühere Taten gilt übergangsweise noch das alte Opferentschädigungsgesetz.",
+    "Nicht jeder plötzliche Tod ist rechtlich eine „Straftat“ – ob Entschädigungsansprüche bestehen, hängt vom Ermittlungsergebnis ab.",
+    "Nach einem Suizid im Umfeld berichten Hinterbliebene häufig von Schuldgefühlen und Stigmatisierung – spezialisierte Angebote wie AGUS e.V. richten sich gezielt an diese Situation."
+   ],
+   "fach_html": "\n<h3>Soziales Entschädigungsrecht (SGB XIV)</h3>\n<p>Das Vierzehnte Buch Sozialgesetzbuch ist zum 1. Januar 2024 vollständig in Kraft getreten und hat das bisherige Opferentschädigungsgesetz (OEG) sowie das Bundesversorgungsgesetz (BVG) abgelöst. Anspruchsberechtigt sind nicht nur unmittelbar geschädigte Personen, sondern ausdrücklich auch Angehörige, Hinterbliebene und nahestehende Personen – unter anderem können sie die neu geschaffenen Traumaambulanzen in Anspruch nehmen. Seit 2024 zählen zudem auch Opfer psychischer Gewalt zum anspruchsberechtigten Personenkreis.</p>\n<h3>Psychosoziale Notfallversorgung (PSNV) als Ländersache</h3>\n<p>Wie Kriseninterventionsteams und Notfallseelsorge organisiert sind, ist nicht bundeseinheitlich geregelt, sondern liegt überwiegend in der Verantwortung der Länder und Kommunen bzw. der Träger des Rettungsdienstes.</p>\n",
+   "zustaendig": ["Polizei/Rettungsdienst (akute Krisenintervention)", "Versorgungsamt/zuständige Landesbehörde (SGB XIV)", "Opferhilfeorganisationen"],
+   "belege": ["SGB XIV (in Kraft seit 1.1.2024)", "Weißer Ring e.V. (weisser-ring.de)", "AGUS e.V. – Angehörige um Suizid (agus-selbsthilfe.de)", "ANUAS e.V. (anuas-selbsthilfe.de)"],
+   "siehe_auch": ["trauerbegleitung-und-anlaufstellen", "beratung-anlaufstellen-trauer"],
+   "stand": "Stand: September 2026 (Rechtsstand seit 1. Januar 2024, Soziales Entschädigungsrecht/SGB XIV)."
+  },
+  {
+   "id": "trauer-nach-fehlgeburt-und-verlust-eines-kindes",
+   "kategorie": "besondere",
+   "titel": "Trauer nach Fehlgeburt und Verlust eines Kindes",
+   "icon": "🤍",
+   "teaser": "Seit Juni 2025 gibt es gestaffelte Mutterschutzfristen bereits ab der 13. Schwangerschaftswoche – eine wichtige rechtliche Verbesserung.",
+   "schlagworte": ["Fehlgeburt", "Totgeburt", "§ 3 MuSchG", "§ 17 MuSchG", "§ 31 PStV", "Mutterschutzanpassungsgesetz"],
+   "kurz_html": "\n<p>Der Verlust eines Kindes vor, während oder kurz nach der Geburt wird rechtlich unterschiedlich behandelt. Personenstandsrechtlich gilt als Totgeburt ein Kind ab der vollendeten 24. Schwangerschaftswoche oder ab einem Geburtsgewicht von 500 Gramm ohne Lebenszeichen; sie muss beim Standesamt beurkundet werden und erhält einen Vornamen im Geburtenregister. Ein Verlust davor gilt personenstandsrechtlich als Fehlgeburt und muss nicht beurkundet werden, kann auf Wunsch der Eltern aber ebenfalls dokumentiert und bestattet werden.</p>\n<p>Seit dem 1. Juni 2025 gibt es durch das Mutterschutzanpassungsgesetz erstmals gestaffelte Mutterschutzfristen auch nach einer Fehlgeburt ab der 13. Schwangerschaftswoche – vorher bestand ein Anspruch auf Mutterschutz erst ab der 24. Schwangerschaftswoche.</p>\n",
+   "schritte": [
+    {"titel": "Ärztliche Bescheinigung aufbewahren", "text": "Die Bescheinigung über die Fehl- oder Totgeburt für spätere Anträge (z. B. Mutterschutz) aufbewahren."},
+    {"titel": "Bei Totgeburt beurkunden lassen", "text": "Ab 500 Gramm bzw. der vollendeten 24. Schwangerschaftswoche wird die Geburt beim Standesamt beurkundet – meist unterstützt die Klinik dabei."},
+    {"titel": "Bei Fehlgeburt Dokumentation und Bestattung erfragen", "text": "Unter 500 Gramm besteht keine Beurkundungspflicht; viele Kliniken und Friedhöfe ermöglichen aber auf Wunsch eine Bescheinigung nach § 31 PStV und eine (Sammel-)Bestattung."},
+    {"titel": "Mutterschutzfrist geltend machen", "text": "Ab der vollendeten 13. Schwangerschaftswoche besteht Anspruch auf eine gestaffelte Schutzfrist gegenüber dem Arbeitgeber."},
+    {"titel": "Unterstützung suchen", "text": "Spezialisierte Anlaufstellen wie den Bundesverband Verwaiste Eltern und trauernde Geschwister (VEID) oder Beratungsstellen für Schwangerschaftsverlust kontaktieren."}
+   ],
+   "fristen": [
+    {"wert": "2 Wochen", "was": "Gestaffelte Mutterschutzfrist ab der vollendeten 13. Schwangerschaftswoche", "grundlage": "§ 3 Abs. 5 MuSchG"},
+    {"wert": "6 Wochen", "was": "Gestaffelte Mutterschutzfrist ab der vollendeten 17. Schwangerschaftswoche", "grundlage": "§ 3 Abs. 5 MuSchG"},
+    {"wert": "8 Wochen", "was": "Gestaffelte Mutterschutzfrist ab der vollendeten 20. Schwangerschaftswoche", "grundlage": "§ 3 Abs. 5 MuSchG"},
+    {"wert": "4 Monate", "was": "Besonderer Kündigungsschutz nach einer Fehlgeburt ab der 13. Schwangerschaftswoche", "grundlage": "§ 17 Abs. 2 MuSchG"}
+   ],
+   "achtung": [
+    "Die Inanspruchnahme der Schutzfrist ist freiwillig – Frauen können ausdrücklich darauf verzichten, ohne dass ihnen daraus Nachteile entstehen dürfen.",
+    "Vor dem 1. Juni 2025 bestand ein Anspruch auf Mutterschutz nach einer Fehlgeburt erst ab der 24. Schwangerschaftswoche – die Neuregelung gilt erst seit diesem Datum.",
+    "Die 500-Gramm-Grenze für die Beurkundungspflicht als Totgeburt hat nichts mit dem emotionalen Gewicht des Verlusts zu tun – auch bei einer nicht beurkundungspflichtigen Fehlgeburt haben Eltern häufig die Möglichkeit einer (Sammel-)Bestattung.",
+    "(Ehe-)Partner haben keinen eigenen gesetzlichen Anspruch auf Mutterschutz – für sie gilt für eine mögliche Freistellung von der Arbeit die allgemeine, uneinheitliche Regelung (siehe Trauer am Arbeitsplatz und Freistellung)."
+   ],
+   "fach_html": "\n<h3>Mutterschutzanpassungsgesetz 2025</h3>\n<p>Das Mutterschutzanpassungsgesetz wurde am 30. Januar 2025 vom Bundestag beschlossen, am 14. Februar 2025 vom Bundesrat bestätigt und ist am 1. Juni 2025 in Kraft getreten. Es führt in § 3 Abs. 5 MuSchG gestaffelte Schutzfristen nach einer Fehlgeburt ab der vollendeten 13. Schwangerschaftswoche ein (2 Wochen ab der 13., 6 Wochen ab der 17., 8 Wochen ab der 20. Schwangerschaftswoche) und erstreckt den besonderen Kündigungsschutz nach § 17 Abs. 2 MuSchG auf vier Monate für Frauen, die eine Fehlgeburt ab der 13. Schwangerschaftswoche erleiden. Betroffene Frauen erhalten während der Schutzfrist erstmals Anspruch auf Mutterschaftsleistungen, ohne dass es einer ärztlichen Krankschreibung bedarf.</p>\n<h3>Abgrenzung Totgeburt/Fehlgeburt (§ 31 PStV)</h3>\n<p>Nach § 31 der Personenstandsverordnung gilt als Totgeburt ein Kind mit einem Gewicht von mindestens 500 Gramm ohne Lebenszeichen (Herzschlag, Nabelschnurpulsation, Lungenatmung); sie wird ins Geburtenregister eingetragen und erhält einen Vornamen. Kinder unter 500 Gramm ohne Lebenszeichen gelten personenstandsrechtlich als Fehlgeburt und werden nicht in die Personenstandsregister eingetragen; auf Antrag der Person, der bei Lebendgeburt die elterliche Sorge zugestanden hätte, stellt das Standesamt aber eine gesonderte Bescheinigung mit Vornamen aus.</p>\n",
+   "zustaendig": ["Arbeitgeber (Mutterschutz)", "Standesamt (Beurkundung/Bescheinigung)", "Klinik/Bestattungsunternehmen (Bestattung)"],
+   "belege": ["§ 3 Abs. 5, § 17 Abs. 2 MuSchG (gesetze-im-internet.de)", "Mutterschutzanpassungsgesetz vom 30.01.2025/14.02.2025, in Kraft seit 1.6.2025", "§ 31 PStV (gesetze-im-internet.de)"],
+   "siehe_auch": ["trauer-bei-kindern-und-jugendlichen", "trauer-am-arbeitsplatz-freistellung", "beratung-anlaufstellen-trauer"],
+   "stand": "Stand: September 2026 (Rechtsstand seit 1. Juni 2025, Mutterschutzanpassungsgesetz)."
+  },
+  {
+   "id": "beratung-anlaufstellen-trauer",
+   "kategorie": "beratung",
+   "titel": "Beratung und Anlaufstellen bei Trauer",
+   "icon": "📞",
+   "teaser": "Wer ist wofür zuständig – und wo bekommen Sie schnell und meist kostenfrei Unterstützung?",
+   "schlagworte": ["Telefonseelsorge", "Weißer Ring", "Bundesverband Trauerbegleitung", "VEID", "AGUS", "ANUAS"],
+   "kurz_html": "\n<p>Es gibt in Deutschland keine einzelne zentrale Stelle für „Trauer“ – die Angebote sind auf verschiedene, meist ehrenamtlich mitgetragene Organisationen verteilt, die sich teils auf bestimmte Situationen spezialisiert haben. Diese Seite bündelt die wichtigsten bundesweiten Anlaufstellen.</p>\n<p>Bei akuter Lebensgefahr wählen Sie immer zuerst den Notruf 112 (Rettungsdienst/Feuerwehr) oder 110 (Polizei) – die im Folgenden genannten Angebote ersetzen keinen Notruf.</p>\n",
+   "schritte": [
+    {"titel": "Akute seelische Krise, jederzeit", "text": "TelefonSeelsorge: kostenfrei und anonym rund um die Uhr unter 0800 111 0 111, 0800 111 0 222 oder der Rufnummer 116123 sowie per Online-Beratung."},
+    {"titel": "Nach einer Straftat", "text": "Weißer Ring, Opfer-Telefon: bundesweit kostenfrei unter 116 006, täglich von 7 bis 22 Uhr."},
+    {"titel": "Trauerbegleitung vor Ort finden", "text": "Bundesverband Trauerbegleitung e.V., örtliche Hospizvereine oder Wohlfahrtsverbände (Diakonie, Caritas, DRK, AWO) ansprechen."},
+    {"titel": "Nach dem Verlust eines Kindes (auch Fehl-/Totgeburt)", "text": "Bundesverband Verwaiste Eltern und trauernde Geschwister in Deutschland e.V. (VEID)."},
+    {"titel": "Nach einem Suizid im Umfeld", "text": "AGUS e.V. – Angehörige um Suizid, bundesweite Selbsthilfeorganisation mit über 100 Gruppen."},
+    {"titel": "Nach einem Tötungsdelikt oder Vermisstenfall", "text": "ANUAS e.V. – Bundesverband für Angehörige von Mord-, Tötungs-, Suizid- und Vermisstenfällen."},
+    {"titel": "Rechtsfragen zu Erbe, Rente oder Bestattungskosten", "text": "Fachanwältin/Fachanwalt für Erb- oder Sozialrecht, Verbraucherzentrale, oder für Mitglieder Sozialverbände wie VdK und SoVD."}
+   ],
+   "fristen": [
+    {"wert": "keine eigenen Fristen", "was": "Diese Übersichtsseite selbst enthält keine Antragsfristen – die jeweiligen Fristen stehen auf den entsprechenden Themenseiten", "grundlage": ""}
+   ],
+   "achtung": [
+    "Notrufe (112/110) sind für akute Lebensgefahr da – Telefonseelsorge und Krisendienste ersetzen keinen Notruf in einer akuten Gefahrensituation.",
+    "Viele Angebote sind ehrenamtlich organisiert und regional unterschiedlich verfügbar – im Zweifel mehrere Anlaufstellen parallel kontaktieren.",
+    "Nicht jede Anlaufstelle ist für jede Situation zuständig – der Weiße Ring etwa ist auf Kriminalitätsopfer und deren Angehörige spezialisiert, nicht auf jeden Trauerfall allgemein.",
+    "Diese Übersicht ersetzt keine Rechtsberatung im Einzelfall."
+   ],
+   "fach_html": "\n<h3>Eine dezentrale Landschaft freier Träger</h3>\n<p>Anders als etwa die Agentur für Arbeit oder das Jobcenter ist die Trauer- und Hospizlandschaft in Deutschland überwiegend zivilgesellschaftlich organisiert: Wohlfahrtsverbände, Hospizvereine und spezialisierte Selbsthilfeorganisationen tragen die meisten Angebote, oft mit kommunaler oder landesrechtlicher Förderung statt einer bundeseinheitlichen Finanzierung. Das führt dazu, dass die tatsächliche Verfügbarkeit je nach Wohnort spürbar unterschiedlich ist.</p>\n<h3>Bundesweite Rufnummern im Überblick</h3>\n<p>Kostenfrei und bundesweit erreichbar sind insbesondere die TelefonSeelsorge (0800 111 0 111, 0800 111 0 222, auch unter 116123) und das Opfer-Telefon des Weißen Rings (116 006, täglich 7–22 Uhr). Beide sind anonym nutzbar und unterliegen der Schweigepflicht.</p>\n",
+   "zustaendig": ["Abhängig vom Anliegen – siehe Übersicht oben"],
+   "belege": ["telefonseelsorge.de", "weisser-ring.de", "bundesverband-trauerbegleitung.de", "veid.de", "agus-selbsthilfe.de", "anuas-selbsthilfe.de"],
+   "siehe_auch": ["trauerbegleitung-und-anlaufstellen", "ploetzlicher-verlust-und-krisenintervention", "ueberblick-trauer-und-verlust"],
+   "stand": "Stand: September 2026."
+  }
+ ]
+}

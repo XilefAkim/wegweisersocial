@@ -1,0 +1,504 @@
+{
+ "kategorien": [
+  {
+   "id": "ueberblick",
+   "titel": "Überblick und Grundlagen",
+   "icon": "🧭",
+   "beschreibung": "Einstieg: Ihre Rechte als pflegender Angehöriger im Überblick."
+  },
+  {
+   "id": "freistellung",
+   "titel": "Pflege und Beruf: Auszeiten",
+   "icon": "🕐",
+   "beschreibung": "Kurzzeitige Arbeitsverhinderung, Pflegezeit und Familienpflegezeit."
+  },
+  {
+   "id": "arbeitsrecht",
+   "titel": "Kündigungsschutz und Arbeitsrecht",
+   "icon": "⚖️",
+   "beschreibung": "Schutz vor Kündigung und dauerhafte Vereinbarkeit von Pflege und Beruf."
+  },
+  {
+   "id": "leistungen",
+   "titel": "Pflegegrad und Leistungen der Pflegeversicherung",
+   "icon": "💶",
+   "beschreibung": "Begutachtung, Pflegegeld, Verhinderungspflege, Entlastungsbetrag."
+  },
+  {
+   "id": "absicherung",
+   "titel": "Eigene soziale Absicherung",
+   "icon": "🛡️",
+   "beschreibung": "Rentenversicherung und Unfallversicherung für Pflegepersonen."
+  },
+  {
+   "id": "finanzen",
+   "titel": "Unterhalt und Finanzen",
+   "icon": "💰",
+   "beschreibung": "Elternunterhalt und das Angehörigen-Entlastungsgesetz."
+  },
+  {
+   "id": "gesundheit",
+   "titel": "Gesundheit und Selbstfürsorge",
+   "icon": "🧠",
+   "beschreibung": "Psychische Belastung, Selbsthilfe und Erholung für Pflegepersonen."
+  },
+  {
+   "id": "beratung",
+   "titel": "Beratung und Anlaufstellen",
+   "icon": "📞",
+   "beschreibung": "Wer pflegende Angehörige berät und unterstützt."
+  }
+ ],
+ "seiten": [
+  {
+   "id": "ueberblick-rechte-pflegender-angehoeriger",
+   "kategorie": "ueberblick",
+   "titel": "Rechte pflegender Angehöriger im Überblick",
+   "icon": "🧭",
+   "teaser": "Wer einen Angehörigen zu Hause pflegt, hat eigene Rechte gegenüber Arbeitgeber, Pflegekasse und Rentenversicherung – unabhängig von den Leistungen, die der pflegebedürftigen Person selbst zustehen.",
+   "schlagworte": ["Pflegende Angehörige", "Naher Angehöriger", "Häusliche Pflege", "Pflegeversicherung", "SGB XI", "PflegeZG", "FPfZG"],
+   "kurz_html": "\n<p>Wenn Sie einen Angehörigen zu Hause pflegen, betreffen Sie in Deutschland zwei rechtlich getrennte Bereiche. Der eine dreht sich um die <strong>pflegebedürftige Person</strong>: Pflegegrad, Pflegegeld, Pflegesachleistung – diese Leistungen der Pflegeversicherung (SGB XI) stehen rechtlich der pflegebedürftigen Person zu, nicht Ihnen als Pflegeperson. Der andere Bereich betrifft <strong>Sie selbst als Pflegeperson</strong>: Ihr Recht auf Freistellung von der Arbeit (Pflegezeitgesetz und Familienpflegezeitgesetz), Ihren Kündigungsschutz während dieser Zeit und Ihre eigene Absicherung in der Renten- und Unfallversicherung, solange Sie in nennenswertem Umfang unentgeltlich pflegen.</p>\n<p>Diese Seiten konzentrieren sich auf die zweite Perspektive: <strong>Ihre</strong> Rechte als Pflegeperson. Für Fragen aus Sicht der pflegebedürftigen Person selbst – etwa wie ein Pflegegrad beantragt wird oder was Patientenverfügung und Vorsorgevollmacht regeln – finden Sie ausführliche Informationen im Wegweiser-Modul <a href=\"../../senioren/index.html\">Senioren</a>.</p>\n",
+   "schritte": [
+    {"titel": "Pflegebedürftigkeit klären", "text": "Ist für den Angehörigen bereits ein Pflegegrad festgestellt? Ohne mindestens Pflegegrad 2 bestehen die meisten der hier beschriebenen Ansprüche (Pflegezeit, Familienpflegezeit, eigene Rentenversicherung) nicht. Zum Ablauf der Begutachtung siehe die Themenseite „Pflegegrad-Begutachtung“."},
+    {"titel": "Akute Situation überbrücken", "text": "Tritt der Pflegefall plötzlich ein, können Sie bis zu 10 Arbeitstage der Arbeit fernbleiben, um eine Versorgung zu organisieren (§ 2 PflegeZG) – mit Pflegeunterstützungsgeld als Lohnersatz."},
+    {"titel": "Mittelfristig planen", "text": "Für eine länger angelegte Pflege prüfen Sie Pflegezeit (bis zu 6 Monate, vollständige oder teilweise Freistellung) oder Familienpflegezeit (bis zu 24 Monate, reduzierte Arbeitszeit)."},
+    {"titel": "Eigene Absicherung sichern", "text": "Pflegen Sie regelmäßig und in einem bestimmten zeitlichen Umfang unentgeltlich, kann die Pflegekasse Beiträge zu Ihrer Rentenversicherung zahlen; zudem sind Sie in der gesetzlichen Unfallversicherung abgesichert."},
+    {"titel": "Unterstützung nutzen", "text": "Pflegeberatung nach § 7a SGB XI, Pflegestützpunkte und kostenlose Pflegekurse nach § 45 SGB XI richten sich ausdrücklich auch an Sie als Angehörige – nutzen Sie diese, bevor die Belastung überhandnimmt."}
+   ],
+   "fristen": [
+    {"wert": "bis zu 10 Arbeitstage", "was": "Kurzzeitige Arbeitsverhinderung bei akut auftretendem Pflegefall", "grundlage": "§ 2 PflegeZG"},
+    {"wert": "bis zu 6 Monate", "was": "Pflegezeit je pflegebedürftigem nahem Angehörigen", "grundlage": "§ 3 PflegeZG"},
+    {"wert": "bis zu 24 Monate", "was": "Familienpflegezeit mit reduzierter Arbeitszeit", "grundlage": "§ 2 FPfZG"}
+   ],
+   "achtung": [
+    "Pflegegeld, Pflegesachleistung und die meisten anderen Leistungen der Pflegeversicherung stehen rechtlich der pflegebedürftigen Person zu, nicht Ihnen als Pflegeperson – wie Pflegegeld innerhalb der Familie weitergegeben wird, ist eine private, keine gesetzlich geregelte Frage.",
+    "Pflegezeit und Familienpflegezeit setzen voraus, dass für die gepflegte Person mindestens Pflegegrad 2 festgestellt ist.",
+    "Der volle Rechtsanspruch auf Pflegezeit gilt nur bei Arbeitgebern mit in der Regel mehr als 15 Beschäftigten, der auf Familienpflegezeit nur bei mehr als 25 Beschäftigten. In kleineren Betrieben können Sie eine Vereinbarung nur erbitten, nicht gerichtlich erzwingen.",
+    "Diese Seiten behandeln Ihre Rechte als Pflegeperson. Für die Perspektive der pflegebedürftigen Person selbst (Pflegegrad, Rente, Patientenverfügung) siehe das Modul Senioren."
+   ],
+   "fach_html": "\n<h3>Zwei getrennte Rechtskreise</h3>\n<p>Das deutsche Recht unterscheidet scharf zwischen Leistungen an die <strong>pflegebedürftige Person</strong> (Pflegeversicherung, SGB XI) und Rechten der <strong>Pflegeperson</strong> selbst. Pflegeperson im Sinne des § 19 SGB XI ist, wer einen Pflegebedürftigen nicht erwerbsmäßig in dessen häuslicher Umgebung pflegt. Arbeitsrechtliche Freistellungsansprüche (PflegeZG, FPfZG) und die eigene Absicherung in Renten- und Unfallversicherung knüpfen an diese Rolle an, nicht an einen eigenen Pflegegrad.</p>\n<h3>Naher Angehöriger</h3>\n<p>Sowohl PflegeZG als auch FPfZG setzen voraus, dass es sich um einen „nahen Angehörigen“ handelt (§ 7 Abs. 3 PflegeZG): u. a. Eltern, Schwiegereltern, Ehe- und Lebenspartner, eigene Kinder und Kinder des Ehe- oder Lebenspartners, Geschwister sowie Großeltern und Enkelkinder. Der Kreis ist enger als „Familie“ im Alltagsverständnis.</p>\n<h3>Warum dieses Modul getrennt von „Senioren“ ist</h3>\n<p>Das Wegweiser-Modul Senioren behandelt Ansprüche aus Sicht der pflegebedürftigen Person: Wie beantrage ich einen Pflegegrad, welche Rente steht mir zu, wie sichere ich mit Patientenverfügung und Vorsorgevollmacht vor. Dieses Modul behandelt die andere Seite: Was passiert mit Ihrem Job, Ihrer Rente und Ihrer Gesundheit, wenn <em>Sie</em> pflegen. Beide Perspektiven überschneiden sich an einzelnen Punkten (z. B. der Begutachtung des Pflegegrads); dort verweisen die Seiten wechselseitig aufeinander.</p>\n",
+   "zustaendig": ["Pflegekasse der pflegebedürftigen Person", "Arbeitgeber", "Deutsche Rentenversicherung"],
+   "belege": ["§§ 3, 7 PflegeZG (gesetze-im-internet.de)", "§ 2 FPfZG (gesetze-im-internet.de)", "§ 19 SGB XI (gesetze-im-internet.de)"],
+   "siehe_auch": ["kurzzeitige-arbeitsverhinderung", "pflegezeit", "pflegegrad-begutachtung"],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "kurzzeitige-arbeitsverhinderung",
+   "kategorie": "freistellung",
+   "titel": "Kurzzeitige Arbeitsverhinderung bei akutem Pflegefall",
+   "icon": "🚨",
+   "teaser": "Tritt eine Pflegesituation plötzlich ein, dürfen Sie bis zu 10 Arbeitstage der Arbeit fernbleiben, um die Versorgung zu organisieren – mit Pflegeunterstützungsgeld als Lohnersatz.",
+   "schlagworte": ["Kurzzeitige Arbeitsverhinderung", "§ 2 PflegeZG", "Pflegeunterstützungsgeld", "§ 44a SGB XI", "Akute Pflegesituation"],
+   "kurz_html": "\n<p>Wird ein Angehöriger plötzlich pflegebedürftig – etwa nach einem Sturz oder Schlaganfall – haben Sie als Beschäftigte oder Beschäftigter das Recht, bis zu <strong>10 Arbeitstage</strong> der Arbeit fernzubleiben, um eine bedarfsgerechte Pflege zu organisieren oder in dieser Zeit selbst sicherzustellen (§ 2 PflegeZG). Dieser Anspruch gilt unabhängig von der Größe des Betriebs – anders als die längere Pflegezeit. Für den Verdienstausfall können Sie bei der Pflegekasse der pflegebedürftigen Person <strong>Pflegeunterstützungsgeld</strong> beantragen.</p>\n",
+   "schritte": [
+    {"titel": "Arbeitgeber unverzüglich informieren", "text": "Teilen Sie Ihrem Arbeitgeber die Verhinderung und deren voraussichtliche Dauer unverzüglich mit (§ 2 Abs. 2 PflegeZG). Eine bestimmte Form ist nicht vorgeschrieben, formlos (auch mündlich oder per Nachricht) reicht."},
+    {"titel": "Nachweis bereithalten", "text": "Auf Verlangen des Arbeitgebers müssen Sie eine ärztliche Bescheinigung oder eine Bescheinigung einer Pflegefachperson über die Pflegebedürftigkeit und die Erforderlichkeit Ihres Fernbleibens vorlegen."},
+    {"titel": "Pflegeunterstützungsgeld beantragen", "text": "Stellen Sie den Antrag auf Pflegeunterstützungsgeld bei der Pflegekasse des Angehörigen – möglichst zeitnah, da die Kasse eine ärztliche Bescheinigung der Akutsituation verlangt."},
+    {"titel": "Versorgung organisieren", "text": "Nutzen Sie die Zeit, um kurzfristige Pflege zu organisieren: ambulanten Pflegedienst beauftragen, Pflegegrad-Antrag stellen, Verhinderungspflege oder eine längerfristige Lösung wie Pflegezeit vorbereiten."}
+   ],
+   "fristen": [
+    {"wert": "bis zu 10 Arbeitstage", "was": "Höchstdauer der kurzzeitigen Arbeitsverhinderung je pflegebedürftiger Person und Kalenderjahr", "grundlage": "§ 2 Abs. 1 PflegeZG"},
+    {"wert": "unverzüglich", "was": "Mitteilung der Verhinderung und ihrer voraussichtlichen Dauer an den Arbeitgeber", "grundlage": "§ 2 Abs. 2 PflegeZG"}
+   ],
+   "achtung": [
+    "Der Anspruch besteht je pflegebedürftiger Person und Kalenderjahr bis zu 10 Arbeitstage – bei mehreren pflegebedürftigen Angehörigen kann der Anspruch entsprechend mehrfach entstehen, ist aber je Angehörigem gedeckelt.",
+    "Der Arbeitgeber ist nach § 2 Abs. 3 PflegeZG nur dann zur Fortzahlung der Vergütung verpflichtet, wenn sich das aus einer anderen Rechtsgrundlage (z. B. Tarifvertrag, Arbeitsvertrag) ergibt. Ohne eine solche Regelung entsteht eine Verdienstlücke, die das Pflegeunterstützungsgeld nur teilweise deckt.",
+    "Pflegeunterstützungsgeld ersetzt nach den vorliegenden Quellen rund 90 % des ausgefallenen Nettoarbeitsentgelts, gedeckelt entsprechend der Beitragsbemessungsgrenze; der genaue tagesaktuelle Höchstbetrag wird jährlich angepasst und ist bei der Pflegekasse zu erfragen – diese Seite nennt bewusst keinen festen Tages-Höchstbetrag, da er sich ändert.",
+    "Der Anspruch ist auf akute, neu auftretende Pflegesituationen zugeschnitten – für eine bereits laufende, absehbare Pflege ist er nicht gedacht; dafür kommen Pflegezeit oder Familienpflegezeit infrage."
+   ],
+   "fach_html": "\n<h3>Wortlaut und Voraussetzungen (§ 2 PflegeZG)</h3>\n<p>„Beschäftigte haben das Recht, bis zu zehn Arbeitstage der Arbeit fernzubleiben, wenn dies erforderlich ist, um für einen pflegebedürftigen nahen Angehörigen in einer akut aufgetretenen Pflegesituation eine bedarfsgerechte Pflege zu organisieren oder eine pflegerische Versorgung in dieser Zeit sicherzustellen“ (§ 2 Abs. 1 PflegeZG). Anders als Pflegezeit und Familienpflegezeit gilt dieser Anspruch <strong>unabhängig von der Betriebsgröße</strong> und setzt keinen bereits festgestellten Pflegegrad voraus – die akute Pflegebedürftigkeit muss lediglich glaubhaft gemacht werden (Absatz 2).</p>\n<h3>Pflegeunterstützungsgeld (§ 44a SGB XI)</h3>\n<p>Als Ausgleich für den Verdienstausfall zahlt die Pflegekasse auf Antrag Pflegeunterstützungsgeld. Die Berechnung erfolgt entsprechend den Grundsätzen des Kinderkrankengeldes (§ 45 Abs. 2 Sätze 2 bis 4 SGB V), das heißt im Kern rund 90 % des ausgefallenen Nettoarbeitsentgelts, begrenzt durch die Beitragsbemessungsgrenze der Krankenversicherung. Der Anspruch besteht unabhängig davon, ob der Arbeitgeber die Vergütung fortzahlt oder nicht; zahlt der Arbeitgeber weiter, wird das angerechnet.</p>\n<h3>Verhältnis zu anderen Freistellungen</h3>\n<p>Die kurzzeitige Arbeitsverhinderung kann der Pflegezeit oder Familienpflegezeit vorgeschaltet sein, muss es aber nicht. Sie ist eine eigenständige, kurze Überbrückungsmöglichkeit für die erste akute Phase.</p>\n",
+   "zustaendig": ["Pflegekasse der pflegebedürftigen Person (Pflegeunterstützungsgeld)", "Arbeitgeber (Freistellung)"],
+   "belege": ["§ 2 PflegeZG (gesetze-im-internet.de)", "§ 44a SGB XI (gesetze-im-internet.de)", "§ 45 Abs. 2 SGB V (gesetze-im-internet.de)"],
+   "siehe_auch": ["pflegezeit", "familienpflegezeit", "pflegegrad-begutachtung"],
+   "stand": "Stand: September 2026. Der genaue Tages-Höchstbetrag des Pflegeunterstützungsgeldes wird jährlich angepasst und ist nicht angegeben, siehe Quellen und Methodik."
+  },
+  {
+   "id": "pflegezeit",
+   "kategorie": "freistellung",
+   "titel": "Pflegezeit (PflegeZG)",
+   "icon": "🕐",
+   "teaser": "Pflegezeit lässt Sie bis zu 6 Monate ganz oder teilweise von der Arbeit freistellen, um einen nahen Angehörigen zu Hause zu pflegen – ein echter Rechtsanspruch besteht aber nur bei größeren Arbeitgebern.",
+   "schlagworte": ["Pflegezeit", "§ 3 PflegeZG", "§ 4 PflegeZG", "Vollständige Freistellung", "Teilweise Freistellung", "Ankündigungsfrist"],
+   "kurz_html": "\n<p>Pflegezeit ist die vollständige oder teilweise Freistellung von der Arbeit, um einen pflegebedürftigen nahen Angehörigen (mindestens Pflegegrad 2) in dessen häuslicher Umgebung zu pflegen. Sie kann für jeden pflegebedürftigen Angehörigen einmalig am Stück bis zu <strong>6 Monate</strong> in Anspruch genommen werden. Einen echten, gerichtlich durchsetzbaren Rechtsanspruch darauf haben Sie nur, wenn Ihr Arbeitgeber in der Regel <strong>mehr als 15 Beschäftigte</strong> hat; bei kleineren Betrieben können Sie eine Vereinbarung lediglich erbitten.</p>\n",
+   "schritte": [
+    {"titel": "Pflegegrad prüfen", "text": "Stellen Sie sicher, dass für den Angehörigen mindestens Pflegegrad 2 festgestellt ist oder ein entsprechender Antrag läuft – ohne Pflegegrad besteht kein Anspruch."},
+    {"titel": "Ankündigen", "text": "Kündigen Sie die Pflegezeit spätestens 10 Arbeitstage vor Beginn schriftlich an und teilen Sie mit, für welchen Zeitraum und in welchem Umfang (vollständig oder teilweise) Sie freigestellt werden möchten."},
+    {"titel": "Nachweis vorlegen", "text": "Legen Sie eine Bescheinigung der Pflegekasse oder des Medizinischen Dienstes über die Pflegebedürftigkeit vor."},
+    {"titel": "Mit Arbeitgeber abstimmen", "text": "Bei teilweiser Freistellung ist die konkrete Verteilung der Arbeitszeit mit dem Arbeitgeber abzustimmen; bei betrieblichen Gründen kann er die Verringerung ablehnen oder die Verteilung anders festlegen."},
+    {"titel": "Finanzierung klären", "text": "Pflegezeit ist grundsätzlich unbezahlt. Prüfen Sie einen zinslosen Überbrückungskredit beim Bundesamt für Familie und zivilgesellschaftliche Aufgaben (BAFzA) oder eine Kombination mit Familienpflegezeit."}
+   ],
+   "fristen": [
+    {"wert": "10 Arbeitstage vorher", "was": "Schriftliche Ankündigungsfrist vor Beginn der Pflegezeit", "grundlage": "§ 3 Abs. 3 PflegeZG"},
+    {"wert": "bis zu 6 Monate", "was": "Höchstdauer je pflegebedürftigem nahem Angehörigen, einmalig am Stück", "grundlage": "§ 4 Abs. 1 PflegeZG"},
+    {"wert": "> 15 Beschäftigte", "was": "Mindestbetriebsgröße für den vollen Rechtsanspruch", "grundlage": "§ 3 Abs. 1 PflegeZG"}
+   ],
+   "achtung": [
+    "Ohne festgestellten Pflegegrad (mindestens 2) des Angehörigen besteht kein Anspruch auf Pflegezeit.",
+    "Bei Arbeitgebern mit in der Regel 15 oder weniger Beschäftigten gibt es keinen einklagbaren Anspruch – nur die Möglichkeit, eine freiwillige Vereinbarung zu erbitten.",
+    "Pflegezeit wird vom Arbeitgeber nicht vergütet, sofern nichts anderes vereinbart ist. Der zinslose Kredit des BAFzA muss gesondert beantragt werden und deckt den Verdienstausfall nur teilweise.",
+    "Pflegezeit kann für denselben Angehörigen grundsätzlich nur einmal am Stück bis zur Höchstdauer von 6 Monaten genommen werden – eine spätere erneute Pflegezeit für denselben Angehörigen ist nur eingeschränkt möglich."
+   ],
+   "fach_html": "\n<h3>Anspruchsvoraussetzungen (§ 3 PflegeZG)</h3>\n<p>Beschäftigte haben das Recht, sich ganz oder teilweise von der Arbeitsleistung freistellen zu lassen, um einen pflegebedürftigen nahen Angehörigen (§ 7 Abs. 3 PflegeZG) mit mindestens Pflegegrad 2 in häuslicher Umgebung zu pflegen. Der Rechtsanspruch gilt nur bei Arbeitgebern mit in der Regel mehr als 15 Beschäftigten; bei kleineren Betrieben besteht nach § 3 Abs. 1 Satz 3 PflegeZG lediglich das Recht, den Arbeitgeber um eine Vereinbarung zu bitten.</p>\n<h3>Dauer und Ankündigung (§§ 3, 4 PflegeZG)</h3>\n<p>Pflegezeit kann für jeden pflegebedürftigen nahen Angehörigen einmalig am Stück für eine Höchstdauer von 6 Monaten in Anspruch genommen werden. Sie muss dem Arbeitgeber schriftlich spätestens 10 Arbeitstage vor Beginn angekündigt werden, unter Angabe von Beginn, Dauer und – bei teilweiser Freistellung – des gewünschten Umfangs der Arbeitszeit.</p>\n<h3>Sonderfall: Sterbebegleitung und minderjährige Angehörige</h3>\n<p>§ 3 PflegeZG erlaubt zusätzlich Freistellung zur Begleitung in der letzten Lebensphase eines nahen Angehörigen (bis zu 3 Monate) sowie zur Betreuung eines minderjährigen pflegebedürftigen nahen Angehörigen auch außerhäuslich, etwa im Krankenhaus.</p>\n<h3>Finanzierung während der Pflegezeit</h3>\n<p>Pflegezeit begründet keinen Anspruch auf Fortzahlung der Vergütung. Beschäftigte können beim Bundesamt für Familie und zivilgesellschaftliche Aufgaben (BAFzA) ein zinsloses Darlehen zur Überbrückung des Lebensunterhalts beantragen (§ 3 PflegeZG i. V. m. dem Darlehen nach dem FPfZG). Kranken- und Pflegeversicherung laufen in der Regel über eine beitragsfreie Familienversicherung oder eigene Beiträge weiter – dies sollte individuell mit der Krankenkasse geklärt werden.</p>\n",
+   "zustaendig": ["Arbeitgeber", "Pflegekasse (Nachweis der Pflegebedürftigkeit)", "Bundesamt für Familie und zivilgesellschaftliche Aufgaben (BAFzA, Darlehen)"],
+   "belege": ["§§ 3, 4, 7 PflegeZG (gesetze-im-internet.de)"],
+   "siehe_auch": ["kuendigungsschutz-pflegezeit", "familienpflegezeit", "kurzzeitige-arbeitsverhinderung"],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "familienpflegezeit",
+   "kategorie": "freistellung",
+   "titel": "Familienpflegezeit (FPfZG)",
+   "icon": "📅",
+   "teaser": "Familienpflegezeit erlaubt bis zu 24 Monate reduzierte Arbeitszeit zur Pflege eines Angehörigen, mit einem zinslosen Darlehen des Bundes zur Überbrückung des Einkommensausfalls.",
+   "schlagworte": ["Familienpflegezeit", "§ 2 FPfZG", "§ 2a FPfZG", "§ 3 FPfZG", "BAFzA", "Zinsloses Darlehen", "Nachpflegephase"],
+   "kurz_html": "\n<p>Familienpflegezeit ermöglicht Beschäftigten, ihre Arbeitszeit für bis zu <strong>24 Monate</strong> auf mindestens 15 Stunden pro Woche zu reduzieren, um einen pflegebedürftigen nahen Angehörigen zu Hause zu pflegen. Anders als die Pflegezeit erlaubt sie keine vollständige Freistellung, dafür aber eine deutlich längere Gesamtdauer. Den Einkommensausfall durch die reduzierte Arbeitszeit können Sie über ein <strong>zinsloses Darlehen</strong> des Bundesamts für Familie und zivilgesellschaftliche Aufgaben (BAFzA) abfedern – nicht, wie teils angenommen, über die KfW.</p>\n",
+   "schritte": [
+    {"titel": "Anspruch prüfen", "text": "Familienpflegezeit setzt mindestens Pflegegrad 2 des Angehörigen und einen Arbeitgeber mit in der Regel mehr als 25 Beschäftigten für den vollen Rechtsanspruch voraus."},
+    {"titel": "Ankündigen", "text": "Kündigen Sie die Familienpflegezeit spätestens 8 Wochen vor Beginn schriftlich an."},
+    {"titel": "Umfang vereinbaren", "text": "Vereinbaren Sie mit dem Arbeitgeber die reduzierte Wochenarbeitszeit (mindestens 15 Stunden) für die Dauer von bis zu 24 Monaten."},
+    {"titel": "Darlehen beantragen", "text": "Beantragen Sie beim BAFzA das zinslose Darlehen zur Überbrückung des Einkommensausfalls; die monatliche Rate bemisst sich an der Hälfte der Differenz zwischen dem pauschalierten Nettoeinkommen vor und während der Familienpflegezeit."},
+    {"titel": "Nachpflegephase beachten", "text": "Nach Ende der Familienpflegezeit läuft eine Nachpflegephase, in der Sie das Darlehen zurückzahlen und in der ebenfalls Kündigungsschutz besteht."}
+   ],
+   "fristen": [
+    {"wert": "8 Wochen vorher", "was": "Schriftliche Ankündigungsfrist vor Beginn der Familienpflegezeit", "grundlage": "§ 2a FPfZG"},
+    {"wert": "bis zu 24 Monate", "was": "Höchstdauer der Familienpflegezeit, mindestens 15 Std./Woche Resterwerbstätigkeit", "grundlage": "§ 2 FPfZG"},
+    {"wert": "> 25 Beschäftigte", "was": "Mindestbetriebsgröße für den vollen Rechtsanspruch", "grundlage": "§ 2 Abs. 1 FPfZG"}
+   ],
+   "achtung": [
+    "Das Darlehen zur Familienpflegezeit wird vom Bundesamt für Familie und zivilgesellschaftliche Aufgaben (BAFzA) vergeben, nicht von der KfW – ein verbreiteter Irrtum.",
+    "Familienpflegezeit erlaubt keine vollständige Freistellung; die Wochenarbeitszeit darf 15 Stunden nicht unterschreiten.",
+    "Bei Arbeitgebern mit 25 oder weniger Beschäftigten besteht kein einklagbarer Anspruch, sondern nur die Möglichkeit, eine Vereinbarung zu erbitten.",
+    "Das Darlehen muss nach Ende der Familienpflegezeit in der Nachpflegephase zurückgezahlt werden – es handelt sich nicht um einen Zuschuss."
+   ],
+   "fach_html": "\n<h3>Anspruch und Umfang (§ 2 FPfZG)</h3>\n<p>Beschäftigte können sich für höchstens 24 Monate von der Arbeitsleistung teilweise freistellen lassen, um einen pflegebedürftigen nahen Angehörigen (mindestens Pflegegrad 2) in häuslicher Umgebung zu pflegen; die verbleibende wöchentliche Arbeitszeit darf 15 Stunden nicht unterschreiten. Der Rechtsanspruch gilt nur bei Arbeitgebern mit in der Regel mehr als 25 Beschäftigten (§ 2 Abs. 1 FPfZG).</p>\n<h3>Kombination mit Pflegezeit</h3>\n<p>Pflegezeit (PflegeZG, bis 6 Monate) und Familienpflegezeit (FPfZG, bis 24 Monate) können nacheinander in Anspruch genommen werden; die Gesamtdauer beider Freistellungen für denselben Angehörigen darf 24 Monate nicht überschreiten (§ 4a FPfZG).</p>\n<h3>Das zinslose Darlehen</h3>\n<p>Für die Dauer der Familienpflegezeit (wie auch der Pflegezeit nach § 3 PflegeZG) gewährt das Bundesamt für Familie und zivilgesellschaftliche Aufgaben (BAFzA) auf Antrag ein zinsloses Darlehen. Die monatliche Darlehensrate entspricht der Hälfte der Differenz zwischen dem pauschalierten monatlichen Nettoeinkommen vor und während der Familienpflegezeit. Eine Fortzahlung der Vergütung durch den Arbeitgeber ist gesetzlich nicht vorgesehen; das Darlehen ersetzt keinen Lohn, sondern überbrückt die Einkommenslücke.</p>\n<h3>Kündigungsschutz und Nachpflegephase</h3>\n<p>Über § 2 Abs. 3 FPfZG gelten die Kündigungsschutzregeln des § 5 PflegeZG entsprechend: Der Arbeitgeber darf ab der Ankündigung, frühestens jedoch 12 Wochen vor dem angekündigten Beginn, bis zum Ende der Familienpflegezeit nicht kündigen. An die Familienpflegezeit schließt sich eine Nachpflegephase an, in der die reduzierte Arbeitszeit schrittweise wieder erhöht und das Darlehen zurückgezahlt wird.</p>\n",
+   "zustaendig": ["Arbeitgeber", "Bundesamt für Familie und zivilgesellschaftliche Aufgaben (BAFzA, Darlehen)", "Pflegekasse (Nachweis der Pflegebedürftigkeit)"],
+   "belege": ["§§ 2, 2a, 3, 4a FPfZG (gesetze-im-internet.de)", "§ 5 PflegeZG i. V. m. § 2 Abs. 3 FPfZG (gesetze-im-internet.de)"],
+   "siehe_auch": ["pflegezeit", "kuendigungsschutz-pflegezeit", "vereinbarkeit-pflege-beruf"],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "kuendigungsschutz-pflegezeit",
+   "kategorie": "arbeitsrecht",
+   "titel": "Kündigungsschutz während Pflegezeit und Familienpflegezeit",
+   "icon": "🛑",
+   "teaser": "Wer Pflegezeit oder Familienpflegezeit ankündigt, ist ab diesem Zeitpunkt besonders vor Kündigung geschützt – der Arbeitgeber kann nur in Ausnahmefällen mit behördlicher Zustimmung kündigen.",
+   "schlagworte": ["Kündigungsschutz", "§ 5 PflegeZG", "§ 2 Abs. 3 FPfZG", "Zulässigkeitserklärung", "Ankündigungsfrist"],
+   "kurz_html": "\n<p>Sobald Sie Ihrem Arbeitgeber eine kurzzeitige Arbeitsverhinderung, Pflegezeit oder Familienpflegezeit ankündigen, greift ein besonderer Kündigungsschutz: Der Arbeitgeber darf das Arbeitsverhältnis von diesem Zeitpunkt an – frühestens jedoch 12 Wochen vor dem angekündigten Beginn – bis zum Ende der Freistellung grundsätzlich nicht kündigen. Eine Kündigung in dieser Zeit ist nur in besonderen Ausnahmefällen möglich, und auch dann nur, wenn die zuständige Landesbehörde für Arbeitsschutz dies vorab für zulässig erklärt hat.</p>\n",
+   "schritte": [
+    {"titel": "Ankündigung dokumentieren", "text": "Kündigen Sie Pflegezeit oder Familienpflegezeit schriftlich an und bewahren Sie einen Nachweis (z. B. Sendebestätigung) auf – ab diesem Zeitpunkt beginnt der Kündigungsschutz."},
+    {"titel": "Bei Kündigungsandrohung reagieren", "text": "Erhalten Sie dennoch eine Kündigung, prüfen Sie unverzüglich, ob die zuständige Behörde für Arbeitsschutz diese vorab für zulässig erklärt hat – ohne diese Zulässigkeitserklärung ist die Kündigung in der Regel unwirksam."},
+    {"titel": "Klagefrist wahren", "text": "Wie bei jeder Kündigung gilt die allgemeine 3-Wochen-Frist zur Erhebung einer Kündigungsschutzklage vor dem Arbeitsgericht (§ 4 KSchG) – auch wenn Sie die Kündigung für offensichtlich unzulässig halten."},
+    {"titel": "Beratung einholen", "text": "Lassen Sie die Rechtslage von einer Fachanwältin oder einem Fachanwalt für Arbeitsrecht oder einer Gewerkschaft prüfen, insbesondere wenn eine Zulässigkeitserklärung der Behörde vorliegt."}
+   ],
+   "fristen": [
+    {"wert": "ab Ankündigung, frühestens 12 Wochen vor Beginn", "was": "Beginn des besonderen Kündigungsschutzes", "grundlage": "§ 5 PflegeZG"},
+    {"wert": "3 Wochen", "was": "Allgemeine Frist zur Kündigungsschutzklage ab Zugang der Kündigung", "grundlage": "§ 4 KSchG"}
+   ],
+   "achtung": [
+    "Der Kündigungsschutz beginnt nicht automatisch mit der Pflegesituation, sondern erst mit der Ankündigung gegenüber dem Arbeitgeber – frühestens aber 12 Wochen vor dem geplanten Beginn.",
+    "Eine Kündigung während der Schutzzeit ist nicht automatisch unwirksam, wenn die Behörde sie vorab für zulässig erklärt hat (etwa bei Betriebsstilllegung) – prüfen Sie deshalb jede Kündigung individuell.",
+    "Die 3-wöchige Klagefrist nach § 4 KSchG gilt unabhängig vom besonderen Kündigungsschutz weiter – wer diese Frist versäumt, verliert die Klagemöglichkeit auch bei einer eigentlich unzulässigen Kündigung.",
+    "Der Kündigungsschutz nach § 5 PflegeZG gilt entsprechend auch während der Familienpflegezeit (über § 2 Abs. 3 FPfZG) und – nach vorliegenden Quellen – auch während der Nachpflegephase der Familienpflegezeit."
+   ],
+   "fach_html": "\n<h3>Wortlaut und Reichweite (§ 5 PflegeZG)</h3>\n<p>„Der Arbeitgeber darf das Arbeitsverhältnis von dem Zeitpunkt, von dem an die Ankündigung der kurzzeitigen Arbeitsverhinderung nach § 2 Absatz 1 oder der Freistellung nach § 3 Absatz 1 erfolgt ist, höchstens jedoch 12 Wochen vor dem angekündigten Beginn […], bis zu deren Beendigung nicht kündigen“ (§ 5 Abs. 1 PflegeZG). Die zuständige oberste Landesbehörde – oder eine von ihr bestimmte Stelle – kann in besonderen Fällen ausnahmsweise eine Kündigung für zulässig erklären (§ 5 Abs. 2 PflegeZG).</p>\n<h3>Übertragung auf die Familienpflegezeit</h3>\n<p>§ 2 Abs. 3 FPfZG verweist auf § 5 PflegeZG: Der Kündigungsschutz gilt entsprechend während der Familienpflegezeit, beginnend mit der Ankündigung nach § 2a FPfZG, frühestens 12 Wochen vor dem angekündigten Beginn.</p>\n<h3>Verhältnis zum allgemeinen Kündigungsschutzrecht</h3>\n<p>Der besondere Kündigungsschutz nach PflegeZG/FPfZG tritt neben das allgemeine Kündigungsschutzgesetz (KSchG). Die dortige 3-Wochen-Klagefrist (§ 4 KSchG) gilt unverändert: Auch eine nach § 5 PflegeZG unzulässige Kündigung sollte fristgerecht mit einer Kündigungsschutzklage angegriffen werden, um Rechtssicherheit zu erlangen.</p>\n",
+   "zustaendig": ["Arbeitgeber", "Zuständige oberste Landesbehörde für Arbeitsschutz (Ausnahme-Zulässigkeitserklärung)", "Arbeitsgericht (im Streitfall)"],
+   "belege": ["§ 5 PflegeZG (gesetze-im-internet.de)", "§ 2 Abs. 3 FPfZG (gesetze-im-internet.de)", "§ 4 KSchG (gesetze-im-internet.de)"],
+   "siehe_auch": ["pflegezeit", "familienpflegezeit", "vereinbarkeit-pflege-beruf"],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "vereinbarkeit-pflege-beruf",
+   "kategorie": "arbeitsrecht",
+   "titel": "Vereinbarkeit von Pflege und Beruf im Alltag",
+   "icon": "🧩",
+   "teaser": "Nicht jede Pflegesituation passt in Pflegezeit oder Familienpflegezeit. Teilzeit, flexible Arbeitszeit und Homeoffice sind oft die praktikablere Dauerlösung.",
+   "schlagworte": ["Teilzeit", "§ 8 TzBfG", "Flexible Arbeitszeit", "Homeoffice", "Elternzeit-Vergleich"],
+   "kurz_html": "\n<p>Pflegezeit und Familienpflegezeit sind zeitlich begrenzt (zusammen höchstens 24 Monate je Angehörigem) und setzen mindestens Pflegegrad 2 voraus. Viele pflegende Angehörige brauchen aber eine <strong>dauerhafte</strong> Lösung – etwa weil die Pflege über Jahre andauert oder weil (noch) kein Pflegegrad vorliegt. Hier greifen die allgemeinen arbeitsrechtlichen Instrumente: der allgemeine Teilzeitanspruch, individuell vereinbarte flexible Arbeitszeiten oder Homeoffice.</p>\n",
+   "schritte": [
+    {"titel": "Bedarf einschätzen", "text": "Klären Sie, ob eine befristete Lösung (Pflegezeit/Familienpflegezeit) ausreicht oder ob eine dauerhafte Anpassung der Arbeitszeit nötig ist."},
+    {"titel": "Allgemeinen Teilzeitanspruch prüfen", "text": "Nach § 8 TzBfG können Sie – unabhängig von einer Pflegesituation – bei Betrieben mit in der Regel mehr als 15 Beschäftigten und mindestens 6-monatiger Betriebszugehörigkeit eine dauerhafte Verringerung Ihrer Arbeitszeit verlangen."},
+    {"titel": "Formlos verhandeln", "text": "Viele Arbeitgeber vereinbaren flexible Lösungen (Gleitzeit, Homeoffice-Tage, Jahresarbeitszeitkonten) freiwillig, ohne dass ein gesetzlicher Anspruch nötig wäre – sprechen Sie das Thema aktiv an."},
+    {"titel": "Betriebs- oder Personalrat einbeziehen", "text": "Betriebs- und Personalräte haben oft Erfahrung mit Vereinbarungen zur Vereinbarkeit von Pflege und Beruf und können vermitteln."},
+    {"titel": "Rückkehr zur alten Arbeitszeit im Blick behalten", "text": "Wenn Sie Ihre Arbeitszeit dauerhaft reduzieren, sichern Sie sich – anders als bei Pflegezeit – keinen automatischen Anspruch auf Rückkehr zur vorherigen Stundenzahl; sprechen Sie eine Befristung der Reduzierung an, wenn gewünscht."}
+   ],
+   "fristen": [
+    {"wert": "3 Monate vorher", "was": "Übliche Antragsfrist für eine Arbeitszeitverringerung nach § 8 TzBfG", "grundlage": "§ 8 Abs. 2 TzBfG"},
+    {"wert": "6 Monate Betriebszugehörigkeit", "was": "Wartezeit, bevor der Teilzeitanspruch nach § 8 TzBfG entsteht", "grundlage": "§ 8 Abs. 1 TzBfG"}
+   ],
+   "achtung": [
+    "Der allgemeine Teilzeitanspruch nach § 8 TzBfG ist kein pflegespezifisches Instrument – er kennt keinen Rückkehranspruch auf die vorherige Arbeitszeit, anders als die befristete Pflegezeit.",
+    "Der Arbeitgeber kann eine Verringerung der Arbeitszeit aus betrieblichen Gründen ablehnen; ob dies im Einzelfall rechtmäßig ist, hängt stark vom Einzelfall ab.",
+    "Ein eigenständiges „Pflege-Teilzeitrecht“ mit Rückkehrgarantie existiert nach den vorliegenden Quellen außerhalb von PflegeZG und FPfZG nicht – Verwechslungen mit der Elternteilzeit (§ 15 BEEG) sind hier nicht zutreffend, da diese ausschließlich für die Kindererziehung gilt."
+   ],
+   "fach_html": "\n<h3>Verhältnis der Instrumente zueinander</h3>\n<p>Pflegezeit (§ 3 PflegeZG) und Familienpflegezeit (§ 2 FPfZG) sind spezialgesetzliche, zeitlich begrenzte und an einen Pflegegrad geknüpfte Freistellungsrechte. Der allgemeine Teilzeitanspruch nach § 8 TzBfG ist demgegenüber unbefristet und pflegeunabhängig, aber auch ohne besonderen Kündigungsschutz und ohne die Möglichkeit einer vollständigen Freistellung.</p>\n<h3>Voraussetzungen des § 8 TzBfG</h3>\n<p>Anspruch auf Verringerung der vertraglichen Arbeitszeit haben Beschäftigte, deren Arbeitsverhältnis länger als sechs Monate besteht, in Betrieben mit in der Regel mehr als 15 Beschäftigten. Der Antrag ist spätestens 3 Monate vor dem gewünschten Beginn zu stellen; entgegenstehende betriebliche Gründe können den Anspruch ausschließen.</p>\n<h3>Nach Pflegezeit oder Familienpflegezeit</h3>\n<p>Nach Ablauf einer Pflegezeit oder Familienpflegezeit besteht grundsätzlich ein Anspruch auf Rückkehr zur vorherigen Arbeitszeit. Wer die Pflege danach in reduziertem Umfang fortsetzt, muss für eine weitere dauerhafte Reduzierung in der Regel wieder auf den allgemeinen Teilzeitanspruch oder eine einvernehmliche Vereinbarung zurückgreifen.</p>\n",
+   "zustaendig": ["Arbeitgeber", "Betriebs- oder Personalrat (Vermittlung)"],
+   "belege": ["§ 8 TzBfG (gesetze-im-internet.de)", "§§ 3, 4 PflegeZG (gesetze-im-internet.de)", "§ 2 FPfZG (gesetze-im-internet.de)"],
+   "siehe_auch": ["pflegezeit", "familienpflegezeit", "kuendigungsschutz-pflegezeit"],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "pflegegrad-begutachtung",
+   "kategorie": "leistungen",
+   "titel": "Pflegegrad-Begutachtung: Ablauf und Widerspruch",
+   "icon": "🩺",
+   "teaser": "Der Pflegegrad des Angehörigen ist die Grundlage für fast alle Ansprüche – auch für Ihre eigenen als Pflegeperson. So läuft die Begutachtung ab und so legen Sie Widerspruch ein.",
+   "schlagworte": ["Pflegegrad", "§ 18 SGB XI", "Medizinischer Dienst", "MEDICPROOF", "Begutachtungsfrist", "Widerspruch Pflegegrad", "§ 84 SGG"],
+   "kurz_html": "\n<p>Ob Pflegezeit, Familienpflegezeit oder Ihre eigene Rentenversicherung als Pflegeperson – fast alle Ihre Rechte hängen am festgestellten <strong>Pflegegrad</strong> des Angehörigen (in der Regel mindestens Pflegegrad 2). Den Pflegegrad stellt die Pflegekasse auf Antrag fest, meist nach einer Begutachtung durch den Medizinischen Dienst (bei gesetzlich Versicherten) oder MEDICPROOF (bei privat Versicherten). Diese Seite beschreibt den Ablauf aus Sicht der Pflegeperson – die ausführliche Antragstellung aus Sicht der pflegebedürftigen Person selbst finden Sie im Modul <a href=\"../../senioren/themen/pflegegrad-beantragen.html\">Senioren: Pflegegrad beantragen</a>.</p>\n",
+   "schritte": [
+    {"titel": "Antrag stellen (durch/für den Angehörigen)", "text": "Der Antrag auf Leistungen der Pflegeversicherung wird formlos bei der Pflegekasse des Angehörigen gestellt; als bevollmächtigte Person oder Betreuer können Sie dies übernehmen."},
+    {"titel": "Beschleunigung bei Pflegezeit ankündigen", "text": "Haben Sie bereits Pflegezeit oder Familienpflegezeit angekündigt und lebt der Angehörige zu Hause ohne palliative Versorgung, muss die Begutachtung nach § 18c SGB XI innerhalb von 2 Wochen erfolgen – weisen Sie die Pflegekasse aktiv darauf hin."},
+    {"titel": "Begutachtungstermin vorbereiten", "text": "Bereiten Sie sich und den Angehörigen auf den Hausbesuch vor: Pflegetagebuch, Medikamentenplan und typische Alltagssituationen helfen, den tatsächlichen Unterstützungsbedarf realistisch darzustellen."},
+    {"titel": "Bescheid prüfen", "text": "Prüfen Sie den Bescheid der Pflegekasse und das zugrundeliegende Gutachten sorgfältig, insbesondere wenn der zuerkannte Pflegegrad niedriger ausfällt als erwartet."},
+    {"titel": "Bei Bedarf Widerspruch einlegen", "text": "Legen Sie innerhalb eines Monats nach Bekanntgabe schriftlich Widerspruch ein und fordern Sie das vollständige Gutachten an, um die Begründung nachvollziehen zu können."}
+   ],
+   "fristen": [
+    {"wert": "25 Arbeitstage", "was": "Regelfrist der Pflegekasse zur Entscheidung ab Antragseingang", "grundlage": "§ 18c SGB XI"},
+    {"wert": "2 Wochen", "was": "Verkürzte Begutachtungsfrist, wenn Pflegezeit/Familienpflegezeit angekündigt wurde und häusliche Versorgung ohne palliative Betreuung vorliegt", "grundlage": "§ 18c SGB XI"},
+    {"wert": "1 Monat", "was": "Widerspruchsfrist gegen den Pflegegrad-Bescheid ab Zugang", "grundlage": "§ 84 SGG"}
+   ],
+   "achtung": [
+    "Wird die reguläre 25-Arbeitstage-Frist ohne von der pflegebedürftigen Person zu vertretenden Grund überschritten, entsteht laut vorliegenden Quellen ein pauschalierter Entschädigungsanspruch von 70 Euro je angefangener Woche Verzug (§ 18c SGB XI) – lassen Sie diesen Anspruch bei Verzögerungen aktiv prüfen.",
+    "Ein Widerspruch hat keine automatische Wirkung auf bereits laufende Leistungen; legen Sie ihn trotzdem fristgerecht ein, auch wenn die inhaltliche Prüfung länger dauert.",
+    "Die verkürzte 2-Wochen-Frist gilt nur unter bestimmten Voraussetzungen (häusliche Versorgung ohne Palliativversorgung plus angekündigte Pflegezeit/Familienpflegezeit) – sie greift nicht automatisch bei jedem Antrag."
+   ],
+   "fach_html": "\n<h3>Ablauf der Begutachtung (§ 18 SGB XI)</h3>\n<p>Die Pflegekasse beauftragt nach Antragseingang den Medizinischen Dienst (bei gesetzlich Versicherten) oder einen von der privaten Pflegepflichtversicherung beauftragten Gutachterdienst (MEDICPROOF) mit der Begutachtung. Die Beauftragung muss innerhalb von 3 Werktagen nach Antragseingang in gesicherter elektronischer Form erfolgen (§ 18 Abs. 1 SGB XI). Die Pflegekasse muss regelmäßig innerhalb von 25 Arbeitstagen ab Antragseingang entscheiden.</p>\n<h3>Verkürzte Fristen</h3>\n<p>Befindet sich die antragstellende Person in häuslicher Umgebung ohne palliative Versorgung und wurde bereits eine Pflegezeit nach § 3 PflegeZG angekündigt oder eine Familienpflegezeit nach § 2a FPfZG vereinbart, muss die Begutachtung innerhalb von 2 Wochen nach Antragseingang erfolgen. Dies ist für pflegende Angehörige besonders relevant, die ihre Freistellung von einem zeitnah festgestellten Pflegegrad abhängig machen müssen.</p>\n<h3>Widerspruch</h3>\n<p>Der Bescheid über den Pflegegrad ist ein Verwaltungsakt; dagegen kann innerhalb eines Monats nach Bekanntgabe Widerspruch eingelegt werden (§ 84 SGG, allgemeines Sozialverfahrensrecht – SGB XI selbst enthält keine eigene Widerspruchsfrist). Bewährt hat sich, zunächst das vollständige Gutachten anzufordern, um die Punktebewertung in den sechs Lebensbereichen (Module) des Begutachtungsinstruments nachzuvollziehen, bevor der Widerspruch inhaltlich begründet wird. Hilft die Pflegekasse dem Widerspruch nicht ab, folgt das Widerspruchsverfahren und ggf. die Klage vor dem Sozialgericht.</p>\n<h3>Bezug zum Modul Senioren</h3>\n<p>Den vollständigen Ablauf der Antragstellung aus Sicht der pflegebedürftigen Person – einschließlich der Bewertungsmodule und Punktegrenzen der Pflegegrade 1 bis 5 – behandelt ausführlich die Themenseite <a href=\"../../senioren/themen/pflegegrad-beantragen.html\">Pflegegrad beantragen</a> im Modul Senioren.</p>\n",
+   "zustaendig": ["Pflegekasse", "Medizinischer Dienst (gesetzlich Versicherte)", "MEDICPROOF (privat Versicherte)", "Sozialgericht (bei Klage)"],
+   "belege": ["§ 18 SGB XI (gesetze-im-internet.de)", "§ 84 SGG (gesetze-im-internet.de)"],
+   "siehe_auch": ["pflegegeld-und-pflegesachleistung", "rentenversicherung-pflegepersonen", "beratung-anlaufstellen-pflege"],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "pflegegeld-und-pflegesachleistung",
+   "kategorie": "leistungen",
+   "titel": "Pflegegeld, Pflegesachleistung und Kombinationsleistung",
+   "icon": "💶",
+   "teaser": "Pflegegeld, Pflegesachleistung oder eine Kombination aus beidem: Diese Leistungen stehen dem pflegebedürftigen Angehörigen zu, bestimmen aber maßgeblich, wie die häusliche Pflege organisiert wird.",
+   "schlagworte": ["Pflegegeld", "§ 37 SGB XI", "Pflegesachleistung", "§ 36 SGB XI", "Kombinationsleistung", "§ 38 SGB XI"],
+   "kurz_html": "\n<p>Für die häusliche Pflege stehen der pflegebedürftigen Person ab Pflegegrad 2 drei Grundformen der Leistung zur Verfügung: <strong>Pflegegeld</strong> (§ 37 SGB XI, Geldleistung, wenn die Pflege durch Angehörige oder andere Privatpersonen sichergestellt wird), <strong>Pflegesachleistung</strong> (§ 36 SGB XI, Kostenübernahme für einen ambulanten Pflegedienst) und die <strong>Kombinationsleistung</strong> (§ 38 SGB XI, eine Mischung aus beidem). Als pflegender Angehöriger betrifft Sie das unmittelbar, weil die Wahl der Leistungsart mitbestimmt, wie viel Pflege Sie selbst übernehmen und wie viel ein Pflegedienst leistet.</p>\n",
+   "schritte": [
+    {"titel": "Leistungsart wählen", "text": "Besprechen Sie mit dem Angehörigen, ob die Pflege überwiegend von Ihnen oder anderen Privatpersonen (Pflegegeld) oder von einem Pflegedienst (Pflegesachleistung) übernommen werden soll – oder eine Mischung (Kombinationsleistung)."},
+    {"titel": "Bei Kombinationsleistung Verhältnis festlegen", "text": "Bei der Kombinationsleistung wird zunächst der Anteil der in Anspruch genommenen Pflegesachleistung festgelegt; das anteilige Pflegegeld ergibt sich automatisch aus dem nicht genutzten Sachleistungsanteil."},
+    {"titel": "Bindungsfrist beachten", "text": "Das gewählte Verhältnis zwischen Sachleistung und Pflegegeld gilt in der Regel für 6 Monate, bevor es neu festgelegt werden kann."},
+    {"titel": "Änderungen melden", "text": "Ändert sich die tatsächliche Pflegesituation wesentlich (z. B. Krankenhausaufenthalt, Wechsel des Pflegedienstes), melden Sie dies der Pflegekasse."}
+   ],
+   "fristen": [
+    {"wert": "6 Monate", "was": "Übliche Bindungsfrist an das gewählte Verhältnis von Pflegegeld und Pflegesachleistung", "grundlage": "§ 38 SGB XI"},
+    {"wert": "Keine gesetzliche Frist", "was": "Für die erstmalige Wahl der Leistungsart besteht keine Antragsfrist – sie kann mit dem Erstantrag oder später erfolgen", "grundlage": "—"}
+   ],
+   "achtung": [
+    "Pflegegeld und Pflegesachleistung stehen der pflegebedürftigen Person zu; wie das Pflegegeld innerhalb der Familie verwendet oder weitergegeben wird, ist keine gesetzlich geregelte Frage, sondern eine private Vereinbarung.",
+    "Die genannten Eurobeträge gelten seit 1. Januar 2025 (Erhöhung um 4,5 %) und waren nach den vorliegenden Quellen auch 2026 unverändert; die nächste reguläre Dynamisierung ist frühestens zum 1. Januar 2028 vorgesehen – prüfen Sie die aktuelle Höhe bei der Pflegekasse.",
+    "Wird bei Pflegegeld die tatsächliche Versorgung nicht sichergestellt, kann die Pflegekasse einen Beratungseinsatz nach § 37 Abs. 3 SGB XI verlangen; wird dieser nicht wahrgenommen, kann das Pflegegeld gekürzt oder eingestellt werden."
+   ],
+   "fach_html": "\n<h3>Pflegegeld (§ 37 SGB XI)</h3>\n<p>Pflegebedürftige, die ihre häusliche Pflege selbst sicherstellen (etwa durch Angehörige), erhalten monatliches Pflegegeld. Nach der Bekanntmachung der Leistungsbeträge zum 1. Januar 2025 (BMG, gültig auch 2026) beträgt es: Pflegegrad 2: 347 €, Pflegegrad 3: 599 €, Pflegegrad 4: 800 €, Pflegegrad 5: 990 € monatlich.</p>\n<h3>Pflegesachleistung (§ 36 SGB XI)</h3>\n<p>Wird die Pflege durch einen zugelassenen ambulanten Pflegedienst erbracht, übernimmt die Pflegekasse die Kosten bis zu einem monatlichen Höchstbetrag: Pflegegrad 2: 796 €, Pflegegrad 3: 1.497 €, Pflegegrad 4: 1.859 €, Pflegegrad 5: 2.299 € (Stand 1.1.2025, unverändert 2026).</p>\n<h3>Kombinationsleistung (§ 38 SGB XI)</h3>\n<p>Wird die Pflegesachleistung nur teilweise ausgeschöpft, wird der nicht genutzte Anteil als anteiliges Pflegegeld ausgezahlt. Beispiel: Wer 40 % der zustehenden Pflegesachleistung durch einen Dienst abdecken lässt, erhält für die übrigen 60 % anteiliges Pflegegeld. An die gewählte Aufteilung ist die pflegebedürftige Person für 6 Monate gebunden.</p>\n<h3>Warum das für Sie als Pflegeperson relevant ist</h3>\n<p>Die Wahl zwischen Pflegegeld, Sachleistung und Kombinationsleistung bestimmt maßgeblich, wie viel praktische Pflegearbeit auf Sie als Angehörige oder Angehörigen entfällt – und damit auch, in welchem Umfang Sie selbst „Pflegeperson“ im Sinne von § 19 SGB XI sind, was wiederum Voraussetzung für Ihre eigene Absicherung in Renten- und Unfallversicherung ist (siehe die entsprechenden Themenseiten).</p>\n",
+   "zustaendig": ["Pflegekasse"],
+   "belege": ["§§ 36, 37, 38 SGB XI (gesetze-im-internet.de)", "Bekanntmachung der Leistungsbeträge der Pflegeversicherung ab 1.1.2025, Bundesministerium für Gesundheit (bundesgesundheitsministerium.de / gesetze-im-internet.de, SGB11§30Bek 2025)"],
+   "siehe_auch": ["verhinderungspflege", "entlastungsbetrag", "rentenversicherung-pflegepersonen"],
+   "stand": "Stand: September 2026. Eurobeträge: Stand 1. Januar 2025, laut vorliegenden Quellen unverändert bis mindestens 2026/2027; bitte bei der Pflegekasse aktualisieren lassen."
+  },
+  {
+   "id": "verhinderungspflege",
+   "kategorie": "leistungen",
+   "titel": "Verhinderungspflege (§ 39 SGB XI)",
+   "icon": "🔄",
+   "teaser": "Wenn Sie als Pflegeperson verhindert sind – etwa durch Urlaub oder Krankheit –, übernimmt die Pflegekasse die Kosten einer Ersatzpflege. Seit Juli 2025 gilt dafür ein gemeinsamer Jahresbetrag mit der Kurzzeitpflege.",
+   "schlagworte": ["Verhinderungspflege", "§ 39 SGB XI", "Gemeinsamer Jahresbetrag", "Kurzzeitpflege", "§ 42 SGB XI", "PUEG"],
+   "kurz_html": "\n<p>Verhinderungspflege (auch Ersatzpflege genannt) übernimmt die Kosten, wenn Sie als Pflegeperson zeitweise verhindert sind, etwa wegen Urlaub, Krankheit oder anderer Termine. Seit dem <strong>1. Juli 2025</strong> sind die früher getrennten Jahresbudgets für Verhinderungspflege (§ 39 SGB XI) und Kurzzeitpflege (§ 42 SGB XI) durch das Pflegeunterstützungs- und -entlastungsgesetz (PUEG) zu einem <strong>gemeinsamen Jahresbetrag von 3.539 Euro</strong> zusammengelegt worden, den die pflegebedürftige Person flexibel für beide Zwecke einsetzen kann.</p>\n",
+   "schritte": [
+    {"titel": "Bedarf ankündigen", "text": "Teilen Sie der Pflegekasse rechtzeitig mit, wenn Sie als Pflegeperson für einen bestimmten Zeitraum ausfallen (Urlaub, Krankheit, Kur)."},
+    {"titel": "Ersatzpflege organisieren", "text": "Die Ersatzpflege kann durch einen ambulanten Pflegedienst, eine Einzelperson oder – bei nicht erwerbsmäßiger Pflege durch nahe Angehörige – auch durch andere Angehörige erfolgen."},
+    {"titel": "Kosten einreichen", "text": "Reichen Sie Rechnungen oder Nachweise bei der Pflegekasse ein; bei Pflege durch nahe Angehörige gelten pauschalierte Erstattungssätze statt tatsächlicher Kosten."},
+    {"titel": "Jahresbudget im Blick behalten", "text": "Behalten Sie den gemeinsamen Jahresbetrag von 3.539 Euro im Blick, da er sowohl für Verhinderungspflege als auch für Kurzzeitpflege gilt und sich beide Nutzungen gegenseitig aufzehren."}
+   ],
+   "fristen": [
+    {"wert": "3.539 Euro/Jahr", "was": "Gemeinsamer Jahresbetrag für Verhinderungspflege und Kurzzeitpflege zusammen, ab Pflegegrad 2", "grundlage": "§ 39 SGB XI i. V. m. § 42 SGB XI (PUEG, seit 1.7.2025)"},
+    {"wert": "bis zu 8 Wochen/Jahr", "was": "Höchstdauer ganztägiger Verhinderungspflege pro Kalenderjahr (seit 1.7.2025 von 6 auf 8 Wochen erhöht)", "grundlage": "§ 39 SGB XI"},
+    {"wert": "Keine Vorpflegezeit mehr erforderlich", "was": "Die frühere Voraussetzung einer 6-monatigen Vorpflegezeit vor Anspruch auf Verhinderungspflege wurde zum 1.7.2025 abgeschafft", "grundlage": "§ 39 SGB XI n. F."}
+   ],
+   "achtung": [
+    "Der genaue Betrag von 3.539 Euro basiert auf mehreren übereinstimmenden Sekundärquellen zur Reform durch das PUEG zum 1.7.2025; er sollte vor einer verbindlichen Planung bei der Pflegekasse bestätigt werden, da sich Leistungsbeträge künftig ändern können.",
+    "Übernehmen nahe Angehörige nicht erwerbsmäßig die Ersatzpflege, wird nach vorliegenden Quellen nicht der volle Sachleistungsbetrag erstattet, sondern bis zum Zweifachen des Pflegegeldes (seit der PUEG-Reform, zuvor das 1,5-Fache) – die genaue Berechnung im Einzelfall sollte mit der Pflegekasse abgestimmt werden.",
+    "Verhinderungspflege und Kurzzeitpflege teilen sich seit 1.7.2025 denselben Jahresbetrag; wer beides in Anspruch nimmt, muss selbst den Überblick über den verbrauchten Betrag behalten."
+   ],
+   "fach_html": "\n<h3>Die Reform zum 1. Juli 2025 (PUEG)</h3>\n<p>Das Pflegeunterstützungs- und -entlastungsgesetz (PUEG) hat zum 1. Juli 2025 die bis dahin getrennten, kompliziert gegenseitig anrechenbaren Budgets für Verhinderungspflege (§ 39 SGB XI) und Kurzzeitpflege (§ 42 SGB XI) zu einem gemeinsamen Jahresbetrag zusammengefasst. Für Pflegegrad 2 bis 5 gilt seither einheitlich ein Gesamtbetrag von 3.539 Euro pro Kalenderjahr, der flexibel für beide Leistungsarten eingesetzt werden kann. Bereits im ersten Halbjahr 2025 verbrauchte Beträge wurden auf den neuen gemeinsamen Jahresbetrag angerechnet.</p>\n<h3>Weitere Erleichterungen der Reform</h3>\n<p>Die maximale Dauer ganztägiger Verhinderungspflege wurde von 6 auf 8 Wochen pro Kalenderjahr angehoben. Die frühere Voraussetzung, dass die Pflegeperson die pflegebedürftige Person bereits mindestens 6 Monate gepflegt haben musste (Vorpflegezeit), entfiel. Übernehmen nahe Angehörige die Ersatzpflege nicht erwerbsmäßig, wurde der anrechenbare Erstattungsfaktor vom 1,5-Fachen auf das 2-Fache des Pflegegeldes der jeweiligen Pflegegrad-Stufe angehoben.</p>\n<h3>Abgrenzung zum Entlastungsbetrag</h3>\n<p>Der gemeinsame Jahresbetrag für Verhinderungspflege/Kurzzeitpflege ist von dem separaten, monatlichen Entlastungsbetrag nach § 45b SGB XI zu unterscheiden – dieser wird nicht auf die 3.539 Euro angerechnet (siehe Themenseite „Entlastungsbetrag“).</p>\n",
+   "zustaendig": ["Pflegekasse"],
+   "belege": ["§ 39 SGB XI (gesetze-im-internet.de)", "§ 42 SGB XI (gesetze-im-internet.de)", "Pflegeunterstützungs- und -entlastungsgesetz (PUEG), Übersichten des BMG zu den Änderungen zum 1.7.2025"],
+   "siehe_auch": ["pflegegeld-und-pflegesachleistung", "entlastungsbetrag", "psychische-belastung-selbsthilfe"],
+   "stand": "Stand: September 2026. Der Betrag von 3.539 Euro/Jahr beruht auf mehreren übereinstimmenden Sekundärquellen zur PUEG-Reform und sollte bei der Pflegekasse verifiziert werden."
+  },
+  {
+   "id": "entlastungsbetrag",
+   "kategorie": "leistungen",
+   "titel": "Entlastungsbetrag (§ 45b SGB XI)",
+   "icon": "🧺",
+   "teaser": "Der monatliche Entlastungsbetrag von derzeit 131 Euro finanziert Alltagsunterstützung wie Haushaltshilfe oder Betreuungsangebote – und entlastet damit unmittelbar Sie als pflegenden Angehörigen.",
+   "schlagworte": ["Entlastungsbetrag", "§ 45b SGB XI", "Zugelassener Anbieter", "Alltagsunterstützung", "Ansparen Entlastungsbetrag"],
+   "kurz_html": "\n<p>Jede pflegebedürftige Person mit einem anerkannten Pflegegrad (auch Pflegegrad 1) hat Anspruch auf einen monatlichen <strong>Entlastungsbetrag</strong> von derzeit 131 Euro (Stand 1.1.2025). Er ist zweckgebunden für Angebote zur Unterstützung im Alltag – etwa Haushaltshilfen, Betreuungsgruppen oder Tagespflege – und dient ausdrücklich auch dazu, pflegende Angehörige zu entlasten.</p>\n",
+   "schritte": [
+    {"titel": "Zugelassene Anbieter finden", "text": "Erkundigen Sie sich bei der Pflegekasse oder dem Pflegestützpunkt nach nach Landesrecht anerkannten Anbietern für Alltagsunterstützung in Ihrer Region."},
+    {"titel": "Leistung in Anspruch nehmen", "text": "Beauftragen Sie den Anbieter; in der Regel legen Sie die Rechnung der Pflegekasse zur Erstattung vor (Kostenerstattungsprinzip)."},
+    {"titel": "Nicht genutzte Beträge ansparen", "text": "Nicht ausgeschöpfte Monatsbeträge können in der Regel bis zum 30. Juni des Folgejahres angespart und danach verwendet werden."},
+    {"titel": "Mit anderen Leistungen kombinieren", "text": "Prüfen Sie, ob eine Kombination mit Verhinderungspflege oder Tagespflege sinnvoll ist – der Entlastungsbetrag wird auf diese Budgets nicht angerechnet."}
+   ],
+   "fristen": [
+    {"wert": "131 Euro/Monat", "was": "Entlastungsbetrag für alle Pflegegrade (Stand 1.1.2025)", "grundlage": "§ 45b Abs. 1 SGB XI"},
+    {"wert": "bis 30. Juni des Folgejahres", "was": "Übliche Frist zur Verwendung nicht ausgeschöpfter Monatsbeträge aus dem Vorjahr", "grundlage": "§ 45b Abs. 2 SGB XI"}
+   ],
+   "achtung": [
+    "Der Entlastungsbetrag wird in der Regel nach dem Kostenerstattungsprinzip ausgezahlt: Sie müssen zunächst in Vorleistung gehen und die Rechnung anschließend bei der Pflegekasse einreichen, sofern die Pflegekasse keine Direktabrechnung mit dem Anbieter vereinbart hat.",
+    "Nur Leistungen von nach Landesrecht anerkannten Angeboten zur Unterstützung im Alltag sind erstattungsfähig – informelle Hilfe durch Nachbarn oder nicht anerkannte Dienstleister in der Regel nicht.",
+    "Der Betrag von 131 Euro gilt seit 1. Januar 2025 und war nach vorliegenden Quellen auch 2026 unverändert; prüfen Sie die aktuelle Höhe bei der Pflegekasse."
+   ],
+   "fach_html": "\n<h3>Anspruch und Höhe (§ 45b SGB XI)</h3>\n<p>Pflegebedürftige mit anerkanntem Pflegegrad – einschließlich Pflegegrad 1 – haben Anspruch auf einen zweckgebundenen Entlastungsbetrag von monatlich bis zu 131 Euro (Stand 1.1.2025, gültig auch 2026). Der Betrag ist ausschließlich für nach Landesrecht anerkannte Angebote zur Unterstützung im Alltag zu verwenden.</p>\n<h3>Verwendungszweck</h3>\n<p>Anerkannte Angebote umfassen je nach Bundesland u. a. Betreuungsgruppen für Menschen mit Demenz, stundenweise Einzelbetreuung, Alltagsbegleitung und hauswirtschaftliche Unterstützungsangebote. Zweck ist laut Gesetzesbegründung ausdrücklich auch die Entlastung pflegender Angehöriger.</p>\n<h3>Ansparen und Übertragbarkeit</h3>\n<p>Nicht in einem Kalendermonat verbrauchte Beträge können angespart und bis zum 30. Juni des Folgejahres für entsprechende Angebote verwendet werden. Bei Pflegegrad 1 kann der Entlastungsbetrag zudem anteilig zur Kostenerstattung für Pflegesachleistung eingesetzt werden.</p>\n<h3>Verhältnis zu anderen Leistungen</h3>\n<p>Der Entlastungsbetrag wird nicht auf den gemeinsamen Jahresbetrag für Verhinderungspflege/Kurzzeitpflege (§§ 39, 42 SGB XI) angerechnet und steht zusätzlich zu Pflegegeld oder Pflegesachleistung zur Verfügung.</p>\n",
+   "zustaendig": ["Pflegekasse", "Nach Landesrecht anerkannte Anbieter für Alltagsunterstützung"],
+   "belege": ["§ 45b SGB XI (gesetze-im-internet.de)", "Bekanntmachung der Leistungsbeträge der Pflegeversicherung ab 1.1.2025, Bundesministerium für Gesundheit"],
+   "siehe_auch": ["verhinderungspflege", "pflegegeld-und-pflegesachleistung", "beratung-anlaufstellen-pflege"],
+   "stand": "Stand: September 2026. Betrag: Stand 1. Januar 2025, laut vorliegenden Quellen unverändert 2026."
+  },
+  {
+   "id": "rentenversicherung-pflegepersonen",
+   "kategorie": "absicherung",
+   "titel": "Rentenversicherung für Pflegepersonen",
+   "icon": "🏦",
+   "teaser": "Wer einen Angehörigen unentgeltlich in nennenswertem zeitlichem Umfang pflegt, kann eigene Rentenanwartschaften aufbauen, ohne selbst Beiträge zu zahlen – die Pflegekasse übernimmt sie.",
+   "schlagworte": ["Rentenversicherung für Pflegepersonen", "§ 3 SGB VI", "Beitragszahlung durch die Pflegekasse", "Mindeststundenzahl Pflege"],
+   "kurz_html": "\n<p>Pflegen Sie einen Angehörigen unentgeltlich und in einem bestimmten wöchentlichen Mindestumfang, gelten Sie rentenrechtlich als „nicht erwerbsmäßige Pflegeperson“. Die Pflegekasse zahlt dann Beiträge zur gesetzlichen Rentenversicherung <strong>für Sie</strong> – ohne dass Sie selbst etwas einzahlen müssen. Das kann spürbare Rentenanwartschaften aufbauen, gerade wenn Sie deshalb Ihre Erwerbstätigkeit reduzieren.</p>\n",
+   "schritte": [
+    {"titel": "Pflegeumfang dokumentieren", "text": "Halten Sie fest, wie viele Stunden pro Woche Sie den Angehörigen tatsächlich pflegen – Voraussetzung ist regelmäßig eine Pflege von wenigstens 10 Stunden wöchentlich, verteilt auf mindestens 2 Tage."},
+    {"titel": "Formular bei der Pflegekasse einreichen", "text": "Die Pflegekasse des Angehörigen stellt hierfür ein eigenes Formular zur Verfügung, in dem der zeitliche Umfang der Pflege erklärt wird."},
+    {"titel": "Erwerbsgrenze beachten", "text": "Ihre eigene Erwerbstätigkeit neben der Pflege darf einen bestimmten wöchentlichen Umfang nicht überschreiten, damit die Beitragszahlung durch die Pflegekasse erhalten bleibt."},
+    {"titel": "Rentenkonto prüfen", "text": "Lassen Sie sich von der Deutschen Rentenversicherung regelmäßig bestätigen, dass die Pflegezeiten korrekt als Beitragszeiten erfasst wurden."}
+   ],
+   "fristen": [
+    {"wert": "mind. 10 Stunden/Woche", "was": "Zeitlicher Mindestumfang der nicht erwerbsmäßigen Pflege, verteilt auf regelmäßig mindestens 2 Tage, als Voraussetzung für die Beitragszahlung", "grundlage": "§ 3 Satz 1 Nr. 1a SGB VI"},
+    {"wert": "Keine Antragsfrist im engeren Sinn", "was": "Die Meldung sollte möglichst zeitnah zum Beginn der Pflege erfolgen, damit keine Beitragszeiten verloren gehen", "grundlage": "—"}
+   ],
+   "achtung": [
+    "Die Beitragszahlung durch die Pflegekasse setzt voraus, dass Sie die Pflege nicht erwerbsmäßig (also nicht als bezahlte Pflegekraft) und in einem bestimmten Mindeststundenumfang ausüben – gelegentliche oder sehr geringfügige Unterstützung reicht nicht aus.",
+    "Üben Sie daneben eine Erwerbstätigkeit über einer bestimmten Wochenstundengrenze aus, kann die Beitragszahlung entfallen oder sich verringern – der genaue Schwellenwert ist beim zuständigen Rentenversicherungsträger zu erfragen, da hierzu keine eigene amtliche Primärquelle mit exaktem Wert geprüft werden konnte.",
+    "Die Beitragszahlung ist an den Pflegegrad des Angehörigen gekoppelt (in der Regel mindestens Pflegegrad 2); bei Pflegegrad 1 bestehen abweichende, eingeschränktere Regelungen."
+   ],
+   "fach_html": "\n<h3>Rechtsgrundlage (§ 3 Satz 1 Nr. 1a SGB VI)</h3>\n<p>Personen, die nicht erwerbsmäßig einen Pflegebedürftigen mit mindestens Pflegegrad 2 in seiner häuslichen Umgebung pflegen, gehören zum Kreis der „sonstigen Versicherten“ der gesetzlichen Rentenversicherung. Seit dem 1. April 1995 zahlt die zuständige Pflegekasse (bzw. private Pflegepflichtversicherung) für diese Pflegepersonen Beiträge zur Rentenversicherung, ohne dass die Pflegeperson selbst Beiträge leisten muss.</p>\n<h3>Zeitlicher Umfang</h3>\n<p>Voraussetzung ist nach den vorliegenden Quellen regelmäßig eine Pflegetätigkeit von wenigstens 10 Stunden wöchentlich, verteilt auf mindestens 2 Tage. Die Höhe der gezahlten Rentenversicherungsbeiträge richtet sich nach dem Pflegegrad und dem Umfang der Pflegetätigkeit sowie danach, ob die Pflege allein oder gemeinsam mit anderen Pflegepersonen erbracht wird.</p>\n<h3>Verhältnis zur eigenen Erwerbstätigkeit</h3>\n<p>Wird neben der Pflege einer selbständigen oder nichtselbständigen Erwerbstätigkeit oberhalb einer bestimmten wöchentlichen Stundengrenze nachgegangen, kann der Anspruch auf die Beitragszahlung entfallen. Der exakte Schwellenwert ließ sich in dieser Recherche nicht abschließend an einer einzelnen amtlichen Primärquelle verifizieren und sollte im Einzelfall bei der Deutschen Rentenversicherung erfragt werden.</p>\n<h3>Zusammenwirken mit Familienpflegezeit</h3>\n<p>Wer wegen Familienpflegezeit die eigene Erwerbstätigkeit auf mindestens 15 Stunden reduziert, bewegt sich häufig in einem Bereich, in dem sowohl die eigene Erwerbstätigkeit als auch die Beitragszahlung durch die Pflegekasse relevant werden – auch hier empfiehlt sich eine individuelle Prüfung durch die Deutsche Rentenversicherung.</p>\n",
+   "zustaendig": ["Pflegekasse (Beitragszahlung)", "Deutsche Rentenversicherung (Kontoführung)"],
+   "belege": ["§ 3 Satz 1 Nr. 1a und Satz 2 SGB VI (gesetze-im-internet.de)", "Deutsche Rentenversicherung, Gemeinsame Rechtliche Anweisung zu § 3 SGB VI (rvrecht.deutsche-rentenversicherung.de)"],
+   "siehe_auch": ["unfallversicherung-pflegepersonen", "pflegegrad-begutachtung", "familienpflegezeit"],
+   "stand": "Stand: September 2026. Der genaue wöchentliche Erwerbstätigkeits-Schwellenwert war anhand der geprüften Quellen nicht abschließend zu verifizieren, siehe Quellen und Methodik."
+  },
+  {
+   "id": "unfallversicherung-pflegepersonen",
+   "kategorie": "absicherung",
+   "titel": "Unfallversicherung für Pflegepersonen",
+   "icon": "🦺",
+   "teaser": "Als nicht erwerbsmäßige Pflegeperson sind Sie bei der Pflege eines Angehörigen kostenlos gesetzlich unfallversichert – etwa bei einem Sturz während der Pflegetätigkeit.",
+   "schlagworte": ["Unfallversicherung für Pflegepersonen", "§ 2 Abs. 1 Nr. 17 SGB VII", "Gesetzliche Unfallversicherung", "Wegeunfall Pflege"],
+   "kurz_html": "\n<p>Wenn Sie einen Angehörigen mit mindestens Pflegegrad 2 nicht erwerbsmäßig zu Hause pflegen, sind Sie während dieser Pflegetätigkeit automatisch und beitragsfrei in der <strong>gesetzlichen Unfallversicherung</strong> versichert. Das schützt Sie etwa bei einem Sturz beim Umbetten des Angehörigen oder bei einem Unfall auf dem Weg zu pflegebezogenen Erledigungen.</p>\n",
+   "schritte": [
+    {"titel": "Versicherungsschutz kennen", "text": "Der Schutz besteht automatisch kraft Gesetzes, sobald Sie die Voraussetzungen (nicht erwerbsmäßige Pflege, mindestens Pflegegrad 2 des Angehörigen) erfüllen – eine gesonderte Anmeldung ist grundsätzlich nicht nötig."},
+    {"titel": "Unfall dokumentieren", "text": "Kommt es zu einem Unfall während der Pflegetätigkeit, dokumentieren Sie Ort, Zeit und Hergang sowie mögliche Zeuginnen und Zeugen."},
+    {"titel": "Unfall melden", "text": "Melden Sie den Unfall dem zuständigen Träger der gesetzlichen Unfallversicherung (in der Regel der Unfallkasse des jeweiligen Bundeslandes)."},
+    {"titel": "Ärztliche Versorgung über Durchgangsarzt", "text": "Suchen Sie bei einem Arbeitsunfall möglichst eine Durchgangsärztin oder einen Durchgangsarzt auf, damit die Behandlung korrekt der Unfallversicherung zugeordnet wird."}
+   ],
+   "fristen": [
+    {"wert": "Keine gesetzliche Frist für die Unfallmeldung durch die Pflegeperson selbst", "was": "Eine Unfallanzeige sollte dennoch möglichst zeitnah erfolgen, um die Beweislage zu sichern", "grundlage": "—"},
+    {"wert": "3 Jahre", "was": "Regelmäßige Verjährungsfrist für Ansprüche aus der gesetzlichen Unfallversicherung, sofern kein Rentenanspruch besteht", "grundlage": "allgemeine sozialrechtliche Verjährung, § 45 SGB I"}
+   ],
+   "achtung": [
+    "Der Versicherungsschutz gilt nur für die eigentliche Pflegetätigkeit und damit im engen Zusammenhang stehende Wege – nicht für private Verrichtungen während desselben Besuchs, die nichts mit der Pflege zu tun haben.",
+    "Der Schutz setzt voraus, dass die Pflege nicht erwerbsmäßig erfolgt; wer als bezahlte Pflegekraft tätig ist, fällt unter andere unfallversicherungsrechtliche Regelungen (z. B. über den Arbeitgeber).",
+    "Verwechseln Sie nicht § 19 SGB XI (Begriffsbestimmung der „Pflegeperson“ in der Pflegeversicherung) mit der eigentlichen Anspruchsgrundlage für die Unfallversicherung in § 2 Abs. 1 Nr. 17 SGB VII – beide Vorschriften stehen in unterschiedlichen Gesetzbüchern und regeln unterschiedliche Dinge."
+   ],
+   "fach_html": "\n<h3>Rechtsgrundlage (§ 2 Abs. 1 Nr. 17 SGB VII)</h3>\n<p>Kraft Gesetzes versichert sind nach § 2 Abs. 1 Nr. 17 SGB VII Personen, die selbst nicht erwerbsmäßig einen Pflegebedürftigen mit mindestens Pflegegrad 2 im Sinne der §§ 14 und 15 Abs. 3 SGB XI in dessen häuslicher Umgebung pflegen. Der Versicherungsschutz ist beitragsfrei für die Pflegeperson; Träger ist die jeweils zuständige gesetzliche Unfallversicherung, in der Regel die Unfallkasse des Bundeslandes.</p>\n<h3>Was mitversichert ist</h3>\n<p>Versichert sind Unfälle, die sich in unmittelbarem sachlichen Zusammenhang mit der Pflegetätigkeit ereignen, einschließlich damit zusammenhängender Wege (z. B. Fahrt zur Apotheke für den Pflegebedürftigen). Rein private Tätigkeiten während desselben Besuchs sind nicht mitversichert.</p>\n<h3>Abgrenzung zu § 19 SGB XI</h3>\n<p>§ 19 SGB XI definiert im Recht der Pflegeversicherung, wer „Pflegeperson“ ist – diese Definition wird in § 2 Abs. 1 Nr. 17 SGB VII in Bezug genommen, ist aber nicht selbst die Anspruchsgrundlage für den Unfallversicherungsschutz. Wer nach den beiden Vorschriften des SGB XI zur Berechnung des Pflegegrads (§§ 14, 15 Abs. 3 SGB XI) als Pflegeperson für einen Angehörigen mit Pflegegrad 2 oder höher gilt, ist typischerweise auch unfallversichert.</p>\n<h3>Verhältnis zur Rentenversicherung</h3>\n<p>Die Voraussetzungen der Unfallversicherung (§ 2 Abs. 1 Nr. 17 SGB VII) und der Rentenversicherung für Pflegepersonen (§ 3 Satz 1 Nr. 1a SGB VI) überschneiden sich stark, sind aber rechtlich getrennt zu prüfen – siehe die Themenseite „Rentenversicherung für Pflegepersonen“.</p>\n",
+   "zustaendig": ["Zuständiger Träger der gesetzlichen Unfallversicherung (i. d. R. Unfallkasse des Bundeslandes)"],
+   "belege": ["§ 2 Abs. 1 Nr. 17 SGB VII (gesetze-im-internet.de)", "§§ 14, 15 Abs. 3, 19 SGB XI (gesetze-im-internet.de)"],
+   "siehe_auch": ["rentenversicherung-pflegepersonen", "pflegegrad-begutachtung", "ueberblick-rechte-pflegender-angehoeriger"],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "elternunterhalt-angehoerigen-entlastungsgesetz",
+   "kategorie": "finanzen",
+   "titel": "Elternunterhalt und Angehörigen-Entlastungsgesetz",
+   "icon": "💰",
+   "teaser": "Seit 2020 müssen erwachsene Kinder für Sozialhilfekosten ihrer Eltern erst einbezogen werden, wenn ihr eigenes Bruttojahreseinkommen 100.000 Euro übersteigt.",
+   "schlagworte": ["Elternunterhalt", "Angehörigen-Entlastungsgesetz", "§ 94 SGB XII", "Einkommensgrenze 100.000 Euro", "Sozialhilferegress"],
+   "kurz_html": "\n<p>Reicht die Rente oder das Vermögen eines pflegebedürftigen Elternteils nicht aus, um etwa einen Pflegeheimplatz zu bezahlen, springt das Sozialamt mit Hilfe zur Pflege ein. Früher konnte das Sozialamt dafür unter Umständen bei den erwachsenen Kindern Regress nehmen (Elternunterhalt). Seit dem <strong>Angehörigen-Entlastungsgesetz</strong> (in Kraft seit 1. Januar 2020) gilt: Ihr Einkommen wird für den Behördenregress erst oberhalb von <strong>100.000 Euro Bruttojahreseinkommen</strong> herangezogen – und das pro unterhaltspflichtigem Kind einzeln betrachtet.</p>\n",
+   "schritte": [
+    {"titel": "Schreiben des Sozialamts prüfen", "text": "Erhalten Sie ein Auskunftsersuchen des Sozialamts zu Elternunterhalt, prüfen Sie zunächst, ob Ihr eigenes Bruttojahreseinkommen die 100.000-Euro-Grenze übersteigt."},
+    {"titel": "Auskunftspflicht beachten", "text": "Auch unterhalb der Grenze besteht in der Regel eine begrenzte Auskunftspflicht gegenüber dem Sozialamt zur Prüfung, ob die Grenze überschritten ist – verweigern Sie die Auskunft nicht pauschal, sondern lassen Sie sich beraten."},
+    {"titel": "Nachweis erbringen", "text": "Liegt Ihr Einkommen unter der Grenze, weisen Sie dies (z. B. durch Einkommensteuerbescheid) nach, um den Vorgang zügig zu klären."},
+    {"titel": "Bei Überschreitung Beratung einholen", "text": "Liegt Ihr Einkommen über 100.000 Euro brutto im Jahr, wird eine vollständige Unterhaltsberechnung nötig – ziehen Sie hierfür eine Fachanwältin oder einen Fachanwalt für Familienrecht hinzu."}
+   ],
+   "fristen": [
+    {"wert": "Keine gesetzliche Frist für die Grenze selbst", "was": "Die 100.000-Euro-Grenze ist keine Frist, sondern eine dauerhafte Einkommensschwelle, die jährlich neu anhand des Einkommens des jeweiligen Jahres zu prüfen ist", "grundlage": "§ 94 Abs. 1a SGB XII"}
+   ],
+   "achtung": [
+    "Die 100.000-Euro-Grenze gilt pro unterhaltspflichtigem Kind einzeln, nicht als Summe aller Kinder oder als Haushaltseinkommen mit einer Partnerin oder einem Partner.",
+    "Die zivilrechtliche Unterhaltspflicht selbst (§§ 1601 ff. BGB) entfällt durch das Gesetz nicht; es wird lediglich der Übergang des Unterhaltsanspruchs auf das Sozialamt unterhalb der Einkommensgrenze ausgeschlossen. Zwischen den Angehörigen direkt kann Unterhalt theoretisch weiter eine Rolle spielen, praktisch macht das Sozialamt die Ansprüche aber in aller Regel nicht mehr geltend.",
+    "Schenkungen des pflegebedürftigen Elternteils an Sie in den letzten 10 Jahren vor Bedürftigkeit können unabhängig vom Angehörigen-Entlastungsgesetz über einen Rückforderungsanspruch nach § 528 BGB relevant werden – das Gesetz betrifft ausschließlich den Unterhalt, nicht das Schenkungsrecht."
+   ],
+   "fach_html": "\n<h3>Mechanismus des Angehörigen-Entlastungsgesetzes</h3>\n<p>Das zum 1. Januar 2020 in Kraft getretene Angehörigen-Entlastungsgesetz hat § 94 SGB XII um einen neuen Absatz 1a ergänzt. Danach geht ein zivilrechtlicher Unterhaltsanspruch von Eltern gegen ihre Kinder (oder umgekehrt bei Eltern von Menschen mit Behinderung) nur dann auf den Sozialhilfeträger über, wenn das unterhaltspflichtige Kind ein Gesamteinkommen im Sinne des § 16 SGB IV von mehr als 100.000 Euro <strong>brutto</strong> im Jahr hat. Unterhalb dieser Grenze bleibt der Unterhaltsanspruch zivilrechtlich zwar theoretisch bestehen, wird aber vom Sozialamt nicht mehr durchgesetzt.</p>\n<h3>Warum das für pflegende Angehörige relevant ist</h3>\n<p>Viele pflegende Angehörige reduzieren wegen der Pflege ihre Erwerbstätigkeit (Pflegezeit, Familienpflegezeit, dauerhafte Teilzeit) und befürchten zugleich, für die Heim- oder Pflegekosten der Eltern regresspflichtig zu werden. Das Angehörigen-Entlastungsgesetz nimmt die weit überwiegende Mehrheit der Erwerbstätigen – nach verbreiteten Schätzungen mehr als 90 % – von diesem Risiko, da ihr Einkommen unterhalb von 100.000 Euro brutto liegt.</p>\n<h3>Verfahren</h3>\n<p>Das Sozialamt darf zur Prüfung, ob die Einkommensgrenze überschritten ist, eine eingeschränkte Auskunft verlangen. Erst wenn konkrete Anhaltspunkte für ein Überschreiten der Grenze vorliegen, kann eine vollständige Einkommens- und Unterhaltsberechnung verlangt werden.</p>\n",
+   "zustaendig": ["Sozialamt (Träger der Sozialhilfe)", "Familiengericht (bei Streit über die Unterhaltshöhe)"],
+   "belege": ["§ 94 Abs. 1a SGB XII (gesetze-im-internet.de)", "§ 16 SGB IV (Begriff des Gesamteinkommens, gesetze-im-internet.de)", "BMAS, FAQ zum Angehörigen-Entlastungsgesetz (bmas.de)"],
+   "siehe_auch": ["ueberblick-rechte-pflegender-angehoeriger", "beratung-anlaufstellen-pflege"],
+   "stand": "Stand: September 2026. In Kraft seit 1. Januar 2020 (Angehörigen-Entlastungsgesetz)."
+  },
+  {
+   "id": "psychische-belastung-selbsthilfe",
+   "kategorie": "gesundheit",
+   "titel": "Psychische Belastung und Selbsthilfe für pflegende Angehörige",
+   "icon": "🧠",
+   "teaser": "Häusliche Pflege geht häufig an die eigene Substanz. Es gibt konkrete, oft wenig bekannte Ansprüche auf Entlastung, Kur und Beratung speziell für die Pflegeperson selbst.",
+   "schlagworte": ["Pflegende Angehörige psychisch", "Selbsthilfegruppe Pflege", "Vorsorgeleistung § 23 SGB V", "Reha für Pflegepersonen § 15 SGB VI", "Pflegekurs § 45 SGB XI"],
+   "kurz_html": "\n<p>Dauerhafte häusliche Pflege ist körperlich und seelisch belastend; Studien und Praxisberichte beschreiben häufig Erschöpfung, Schlafmangel und ein erhöhtes Risiko eigener Erkrankungen bei pflegenden Angehörigen. Neben den arbeits- und sozialrechtlichen Entlastungen gibt es konkrete Gesundheitsleistungen, die sich <strong>an Sie als Pflegeperson selbst</strong> richten – nicht an den Pflegebedürftigen.</p>\n",
+   "schritte": [
+    {"titel": "Kostenlose Pflegekurse nutzen", "text": "Nehmen Sie an einem kostenlosen Pflegekurs nach § 45 SGB XI teil – diese vermitteln nicht nur Pflegetechniken, sondern ausdrücklich auch Methoden zur eigenen körperlichen und seelischen Entlastung."},
+    {"titel": "Individuelle Schulung zu Hause anfordern", "text": "Sie können eine individuelle Schulung auch in der häuslichen Umgebung des Pflegebedürftigen anfordern, wenn ein Kursbesuch organisatorisch schwierig ist."},
+    {"titel": "Vorsorge- oder Reha-Leistung prüfen", "text": "Sprechen Sie Ihre Hausärztin oder Ihren Hausarzt auf eine ambulante oder stationäre Vorsorgeleistung (Krankenkasse, § 23 SGB V) oder eine Rehabilitationsleistung (Rentenversicherung, § 15 SGB VI) an, wenn die Pflege Sie gesundheitlich erkennbar belastet."},
+    {"titel": "Selbsthilfe und Beratung aufsuchen", "text": "Örtliche Selbsthilfegruppen für pflegende Angehörige sowie die psychosoziale Beratung von Pflegestützpunkten und Wohlfahrtsverbänden bieten oft kurzfristig Austausch und Entlastung."},
+    {"titel": "Entlastungsangebote des Angehörigen konsequent nutzen", "text": "Nutzen Sie Verhinderungspflege, Entlastungsbetrag und Tagespflege des Angehörigen aktiv aus, statt aus Pflichtgefühl auf eigene Auszeiten zu verzichten."}
+   ],
+   "fristen": [
+    {"wert": "Keine gesetzliche Frist", "was": "Pflegekurse nach § 45 SGB XI können jederzeit unabhängig vom Pflegegrad in Anspruch genommen werden", "grundlage": "§ 45 SGB XI"},
+    {"wert": "i. d. R. alle 4 Jahre", "was": "Übliche Mindestabstand zwischen zwei ambulanten Vorsorgeleistungen der Krankenkasse, außer bei dringender medizinischer Erforderlichkeit", "grundlage": "§ 23 SGB V (Einzelheiten je nach Kasse/Einzelfall unterschiedlich)"}
+   ],
+   "achtung": [
+    "Kur- und Reha-Angebote speziell für pflegende Angehörige werden je nach Kostenträger (Krankenkasse vs. Rentenversicherung) unterschiedlich gehandhabt; die genaue Anspruchsvoraussetzung, Dauer und Höhe der Zuzahlung im Einzelfall konnte in dieser Recherche nicht abschließend für alle Kassen einheitlich verifiziert werden – erfragen Sie die aktuellen Konditionen direkt bei Ihrer Krankenkasse oder der Deutschen Rentenversicherung.",
+    "Pflegekurse nach § 45 SGB XI sind kostenlos und unabhängig vom Pflegegrad des Angehörigen – ein verbreiteter Irrtum ist, sie stünden nur bei höheren Pflegegraden zu.",
+    "Diese Seite ersetzt keine psychotherapeutische oder ärztliche Behandlung. Bei akuten psychischen Krisen wenden Sie sich an die Telefonseelsorge (bundesweit kostenfrei erreichbar) oder eine Notfallpraxis."
+   ],
+   "fach_html": "\n<h3>Pflegekurse (§ 45 SGB XI)</h3>\n<p>Pflegekassen sind verpflichtet, für Angehörige und andere an einer ehrenamtlichen Pflegetätigkeit interessierte Personen kostenlose Schulungen anzubieten. Zweck ist ausdrücklich, „die Bereitschaft zur Übernahme oder Fortführung der häuslichen Pflege zu erhalten“ und „die Pflege zu erleichtern sowie die physischen und psychischen Belastungen zu mindern“. Die Kurse können als Gruppenkurs, individuell in der häuslichen Umgebung oder digital angeboten werden und stehen unabhängig vom Pflegegrad offen.</p>\n<h3>Vorsorge- und Rehabilitationsleistungen für Pflegepersonen</h3>\n<p>Führt die Pflegetätigkeit zu einer erkennbaren gesundheitlichen Belastung, kommen ambulante oder stationäre Vorsorgeleistungen der gesetzlichen Krankenkasse (§ 23 SGB V) oder Rehabilitationsleistungen der Deutschen Rentenversicherung (§ 15 SGB VI) in Betracht. Nach in der Praxis verbreiteten, aber nicht einheitlich amtlich geprüften Angaben werden stationäre Vorsorgeleistungen häufig für rund drei Wochen bewilligt, mit einer gesetzlichen Zuzahlung, sofern keine Befreiung vorliegt; die genauen Konditionen unterscheiden sich je nach Kostenträger und sollten individuell erfragt werden.</p>\n<h3>Beratung und Selbsthilfe</h3>\n<p>Pflegestützpunkte (§ 7c SGB XI) bieten neben organisatorischer auch psychosoziale Beratung an. Wohlfahrtsverbände (z. B. Caritas, Diakonie, AWO, DRK, Paritätischer) und spezialisierte Selbsthilfeorganisationen für pflegende Angehörige unterhalten vielerorts Gesprächskreise und Entlastungsangebote. Die genaue Verfügbarkeit ist regional unterschiedlich – siehe Themenseite „Beratung und Anlaufstellen“.</p>\n",
+   "zustaendig": ["Gesetzliche Krankenkasse (Vorsorgeleistungen)", "Deutsche Rentenversicherung (Rehabilitationsleistungen)", "Pflegekasse (Pflegekurse)"],
+   "belege": ["§ 45 SGB XI (gesetze-im-internet.de)", "§ 23 SGB V (gesetze-im-internet.de)", "§ 15 SGB VI (gesetze-im-internet.de)"],
+   "siehe_auch": ["beratung-anlaufstellen-pflege", "verhinderungspflege", "entlastungsbetrag"],
+   "stand": "Stand: September 2026. Details zu Dauer, Häufigkeit und Zuzahlung von Vorsorge-/Reha-Leistungen variieren je nach Kostenträger und wurden nicht für alle Kassen einheitlich verifiziert."
+  },
+  {
+   "id": "beratung-anlaufstellen-pflege",
+   "kategorie": "beratung",
+   "titel": "Beratung und Anlaufstellen für pflegende Angehörige",
+   "icon": "📞",
+   "teaser": "Pflegeberatung, Pflegestützpunkte und Pflegekassen: Wer ist wofür zuständig, wenn Sie als pflegender Angehöriger nicht weiterwissen?",
+   "schlagworte": ["Pflegestützpunkt", "§ 7a SGB XI", "§ 7c SGB XI", "Pflegeberatung", "Pflegetelefon", "Pflegekasse"],
+   "kurz_html": "\n<p>Sie müssen als pflegender Angehöriger nicht alle Fragen allein klären. Jede pflegebedürftige Person hat Anspruch auf individuelle <strong>Pflegeberatung</strong> durch die Pflegekasse; <strong>Pflegestützpunkte</strong> bündeln vor Ort Informationen zu Pflege-, Sozial- und weiteren Hilfsangeboten. Beide Angebote richten sich ausdrücklich auch an pflegende Angehörige.</p>\n",
+   "schritte": [
+    {"titel": "Pflegeberatung anfordern", "text": "Fordern Sie bei der Pflegekasse des Angehörigen eine individuelle Pflegeberatung nach § 7a SGB XI an – der Anspruch besteht bereits ab Antragstellung, wenn ein Hilfebedarf erkennbar ist."},
+    {"titel": "Pflegestützpunkt aufsuchen", "text": "Kontaktieren Sie einen Pflegestützpunkt in Ihrer Nähe für trägerübergreifende, wohnortnahe Beratung zu Pflege-, Sozial- und Rehaleistungen."},
+    {"titel": "Pflegetelefon nutzen", "text": "Das bundesweite Pflegetelefon des Bundesministeriums für Gesundheit bietet eine erste telefonische Orientierung, wenn Sie noch keine feste Ansprechperson haben."},
+    {"titel": "Fachliche Beratung bei rechtlichen Fragen", "text": "Bei arbeitsrechtlichen Fragen (Kündigungsschutz, Teilzeit) wenden Sie sich an eine Gewerkschaft, den Betriebsrat oder eine Fachanwältin bzw. einen Fachanwalt für Arbeitsrecht; bei unterhaltsrechtlichen Fragen an eine Fachanwältin bzw. einen Fachanwalt für Familienrecht."},
+    {"titel": "Wohlfahrtsverbände einbeziehen", "text": "Caritas, Diakonie, AWO, DRK und der Paritätische bieten vielerorts eigene, oft kostenlose Beratungsangebote speziell für pflegende Angehörige."}
+   ],
+   "fristen": [
+    {"wert": "Keine gesetzliche Frist", "was": "Der Anspruch auf Pflegeberatung besteht laufend, nicht nur einmalig nach Antragstellung", "grundlage": "§ 7a SGB XI"}
+   ],
+   "achtung": [
+    "Pflegeberatung nach § 7a SGB XI ist für die pflegebedürftige Person und ihre Angehörigen kostenlos – ein Anspruch, der in der Praxis nach vorliegenden Quellen nicht immer aktiv angeboten, sondern oft erst auf Nachfrage gewährt wird.",
+    "Pflegestützpunkte existieren nicht in jeder Kommune in gleicher Dichte; die tatsächliche Erreichbarkeit ist regional unterschiedlich.",
+    "Diese Seite nennt bewusst keine einzelnen Telefonnummern oder Webadressen von Beratungsstellen, da sich diese ändern können – nutzen Sie die Suche der Pflegekasse oder der kommunalen Seniorenberatung, um die für Sie zuständige Stelle zu finden."
+   ],
+   "fach_html": "\n<h3>Pflegeberatung (§ 7a SGB XI)</h3>\n<p>Jede versicherte Person hat seit dem 1. Januar 2009 Anspruch auf individuelle Beratung durch die Pflegekasse, insbesondere zur Erstellung eines Versorgungsplans mit den im Einzelfall erforderlichen Sozialleistungen und gesundheitsfördernden, präventiven, kurativen, rehabilitativen und sonstigen medizinischen sowie pflegerischen Leistungen. Der Anspruch besteht bereits, wenn ein Antrag auf Leistungen gestellt wurde und erkennbar Hilfe- und Beratungsbedarf besteht – unabhängig vom Ausgang der Pflegegrad-Begutachtung.</p>\n<h3>Pflegestützpunkte (§ 7c SGB XI)</h3>\n<p>Pflegestützpunkte sind wohnortnahe, trägerübergreifende Anlaufstellen für Versicherte und ihre Angehörigen. Sie informieren, koordinieren und vermitteln Hilfs- und Unterstützungsangebote vor Ort, unabhängig vom konkreten Kostenträger. Die Einrichtung von Pflegestützpunkten liegt bei den Ländern, weshalb Ausstattung und Erreichbarkeit regional unterschiedlich sind.</p>\n<h3>Weitere Anlaufstellen</h3>\n<p>Für arbeitsrechtliche Fragen sind Gewerkschaften, Betriebs- und Personalräte sowie Fachanwältinnen und Fachanwälte für Arbeitsrecht zuständig. Für unterhaltsrechtliche Fragen (Elternunterhalt) sind Fachanwältinnen und Fachanwälte für Familienrecht sowie die örtlichen Sozialämter Ansprechpartner. Wohlfahrtsverbände bieten häufig zusätzlich kostenlose oder günstige psychosoziale Beratung speziell für pflegende Angehörige an.</p>\n",
+   "zustaendig": ["Pflegekasse (Pflegeberatung)", "Kommune/Land (Pflegestützpunkte)", "Wohlfahrtsverbände"],
+   "belege": ["§ 7a SGB XI (gesetze-im-internet.de)", "§ 7c SGB XI (gesetze-im-internet.de)"],
+   "siehe_auch": ["pflegegrad-begutachtung", "psychische-belastung-selbsthilfe", "ueberblick-rechte-pflegender-angehoeriger"],
+   "stand": "Stand: September 2026."
+  }
+ ]
+}

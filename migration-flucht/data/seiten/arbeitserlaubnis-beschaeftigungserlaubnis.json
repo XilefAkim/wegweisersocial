@@ -1,0 +1,89 @@
+{
+  "id": "arbeitserlaubnis-beschaeftigungserlaubnis",
+  "kategorie": "aufenthalt-arbeit",
+  "titel": "Arbeitserlaubnis und Beschäftigungserlaubnis",
+  "icon": "💼",
+  "teaser": "Seit der GEAS-Reform gilt meist eine Wartezeit von 3 statt 6 Monaten. Wer sofort arbeiten darf, wer länger warten muss und wann Arbeit ganz ausgeschlossen ist.",
+  "schlagworte": [
+    "Arbeitserlaubnis",
+    "Beschäftigungserlaubnis",
+    "Wartefrist",
+    "Duldung",
+    "Aufenthaltsgestattung",
+    "Bundesagentur für Arbeit",
+    "Ausbildungsduldung",
+    "Beschäftigungsduldung"
+  ],
+  "kurz_html": "<p>Ob Sie arbeiten dürfen, hängt von Ihrem Aufenthaltspapier ab. Ein allgemeines Recht auf Arbeit gibt es nicht – Sie brauchen für jede Stelle eine eigene Erlaubnis.</p><p>Seit der Reform vom 12. Juni 2026 gilt für die meisten Asylsuchenden: Sie dürfen <strong>3 Monate nach der Registrierung</strong> Ihres Asylantrags arbeiten, wenn die Bundesagentur für Arbeit zustimmt. Das gilt auch, wenn Sie in einer Aufnahmeeinrichtung wohnen müssen.</p><p>Ausnahmen: Läuft ein Dublin-Verfahren gegen Sie oder haben Sie bereits in einem anderen EU-Land Schutz erhalten, warten Sie 6 Monate. Kommen Sie aus einem sicheren Herkunftsstaat oder läuft Ihr Verfahren im beschleunigten Verfahren, bleibt Arbeit während des ganzen Asylverfahrens verboten.</p><p>Haben Sie eine Duldung? Dann gilt meist eine Wartezeit von 6 Monaten. Nur bei einer Ausbildungsduldung oder mit geklärter Identität durch einen gültigen Pass sind es 3 Monate.</p><p>Sind Sie als Flüchtling oder subsidiär schutzberechtigt anerkannt, dürfen Sie ohne Einschränkung arbeiten, auch selbstständig.</p><p>Den Antrag auf Beschäftigungserlaubnis stellen Sie bei der Ausländerbehörde – mit einem konkreten Stellenangebot.</p>",
+  "schritte": [
+    {
+      "titel": "Aufenthaltspapier prüfen",
+      "text": "Aufenthaltsgestattung, Duldung nach § 60a AufenthG oder Aufenthaltserlaubnis nach Anerkennung – der Status entscheidet über Ihre Wartefrist."
+    },
+    {
+      "titel": "Wartefrist berechnen",
+      "text": "Bei Aufenthaltsgestattung zählen Sie ab der Registrierung des Asylantrags, bei Duldung ab deren Beginn."
+    },
+    {
+      "titel": "Ausschlussgründe prüfen",
+      "text": "Sicherer Herkunftsstaat oder beschleunigtes Verfahren schließen Arbeit unabhängig von der Wartefrist aus."
+    },
+    {
+      "titel": "Stellenangebot einholen",
+      "text": "Ohne konkretes Angebot mit Stellenbeschreibung gibt es keine Erlaubnis."
+    },
+    {
+      "titel": "Antrag bei der Ausländerbehörde stellen",
+      "text": "Die Behörde beteiligt die Bundesagentur für Arbeit, wenn deren Zustimmung nötig ist."
+    }
+  ],
+  "fristen": [
+    {
+      "wert": "3 Monate nach Registrierung des Asylantrags",
+      "was": "Wartefrist bis zur möglichen Beschäftigung für Asylsuchende, unabhängig davon, ob eine Wohnpflicht in einer Aufnahmeeinrichtung besteht.",
+      "grundlage": "§ 61 Abs. 1 und Abs. 2 AsylG n. F. (seit 12.06.2026)"
+    },
+    {
+      "wert": "6 Monate",
+      "was": "Verlängerte Wartefrist bei Dublin-/Aufnahme- oder Wiederaufnahmeverfahren oder wenn bereits in einem anderen EU-Mitgliedstaat internationaler Schutz zuerkannt wurde.",
+      "grundlage": "§ 61 Abs. 1 Satz 3 AsylG n. F."
+    },
+    {
+      "wert": "6 Monate Duldung",
+      "was": "Regelfrist bis zur möglichen Beschäftigung für Geduldete.",
+      "grundlage": "§ 61 Abs. 1 Satz 6 AsylG n. F."
+    },
+    {
+      "wert": "3 Monate Duldung",
+      "was": "Verkürzte Frist bei Geduldeten, wenn die Voraussetzungen für eine Ausbildungsduldung vorliegen oder die Identität durch einen anerkannten und gültigen Pass geklärt ist.",
+      "grundlage": "§ 61 Abs. 1 Satz 7 AsylG n. F. in Verbindung mit § 60c Abs. 1 Satz 1 Nr. 2 AufenthG"
+    }
+  ],
+  "achtung": [
+    "Es gibt keine allgemeine Arbeitserlaubnis: Sie gilt jeweils nur für eine bestimmte Stelle bei einer bestimmten Firma.",
+    "Sichere Herkunftsstaaten (§§ 29a, 29b AsylG) und das beschleunigte Verfahren schließen die Beschäftigung während des gesamten Asylverfahrens aus – die verkürzten Fristen gelten hier nicht.",
+    "Bei der sogenannten Duldung light nach § 60b AufenthG wird die Arbeitserlaubnis versagt.",
+    "Die Beschäftigungsduldung nach § 60d AufenthG setzt unter anderem eine Einreise bis zum 31. Dezember 2022 voraus – für seither neu eingereiste Personen kommt dieser Weg nicht mehr in Betracht.",
+    "Was bei Geduldeten genau als 'geklärte Identität' für die 3-Monats-Ausnahme zählt, ist nicht abschließend geklärt; der Gesetzestext verlangt konkret einen anerkannten und gültigen Pass oder Passersatz."
+  ],
+  "fach_html": "<h3>Asylsuchende: einheitliche Wartefrist von drei Monaten</h3><p>Seit dem GEAS-Anpassungsgesetz (in Kraft seit 12. Juni 2026) ist Asylsuchenden die Beschäftigung drei Monate nach der Registrierung des Asylantrags zu erlauben – unabhängig davon, ob eine Wohnpflicht in einer Aufnahmeeinrichtung besteht (§ 61 Abs. 1 und 2 AsylG n. F.). Voraussetzung ist, dass das Asylverfahren noch nicht unanfechtbar abgeschlossen ist und die Bundesagentur für Arbeit zugestimmt hat oder die Beschäftigung zustimmungsfrei ist. Läuft ein Dublin-/Aufnahme- oder Wiederaufnahmeverfahren oder wurde bereits in einem anderen EU-Mitgliedstaat internationaler Schutz zuerkannt, gilt stattdessen eine Wartefrist von sechs Monaten (§ 61 Abs. 1 Satz 3 AsylG n. F.). Für Personen aus sicheren Herkunftsstaaten und im beschleunigten Verfahren wird die Erlaubnis während des gesamten Verfahrens nicht erteilt (§ 61 Abs. 2 AsylG n. F., § 61 Abs. 1 Satz 5 AsylG n. F.).</p><h3>Geduldete: Arbeitsverbote nach § 60a Abs. 6 AufenthG</h3><p>Für Geduldete soll die Beschäftigung nach sechs Monaten Duldung erlaubt werden, es sei denn, konkrete Maßnahmen zur Aufenthaltsbeendigung stehen unmittelbar bevor, etwa eine angeordnete ärztliche Untersuchung zur Reisefähigkeit oder die Buchung von Transportmitteln (§ 61 Abs. 1 Satz 6 AsylG n. F.). Die Frist verkürzt sich auf drei Monate, wenn die Voraussetzungen einer Ausbildungsduldung vorliegen oder die Identität durch einen anerkannten und gültigen Pass oder Passersatz geklärt ist (§ 61 Abs. 1 Satz 7 AsylG n. F.). Die Behörde darf die Beschäftigung nicht erlauben, wenn die Person eingereist ist, um Leistungen nach dem Asylbewerberleistungsgesetz zu erhalten, wenn sie eine Aufenthaltsbeendigung selbst zu vertreten hat – etwa durch Täuschung über Identität oder Staatsangehörigkeit –, oder wenn sie aus einem sicheren Herkunftsstaat stammt und nach dem 31. August 2015 einen abgelehnten oder zurückgenommenen Asylantrag hat (§ 60a Abs. 6 AufenthG).</p><h3>Verfahren: Zustimmung der Bundesagentur für Arbeit</h3><p>Die Ausländerbehörde erteilt die Beschäftigungserlaubnis für eine konkrete Stelle; die Zustimmung der Bundesagentur für Arbeit richtet sich nach §§ 39, 40, 41, 42 AufenthG. Zustimmungsfrei sind unter anderem Praktika, Berufsausbildungen und – nach vier Jahren (48 Monaten) ununterbrochenem erlaubtem, geduldetem oder gestattetem Aufenthalt – jede Beschäftigung (§ 32 BeschV). Eine Vorrangprüfung findet seit 2020 nicht mehr statt.</p><h3>Wege in einen gesicherten Status</h3><p>Die Ausbildungsduldung (§ 60c AufenthG) sichert den Aufenthalt für die Dauer einer qualifizierten Berufsausbildung; der Antrag ist frühestens sieben Monate vor Ausbildungsbeginn möglich. Die Beschäftigungsduldung (§ 60d AufenthG) gewährt für 30 Monate einen gesicherten Status, setzt aber unter anderem eine Einreise bis zum 31. Dezember 2022, mindestens zwölf Monate sozialversicherungspflichtige Beschäftigung mit mindestens 20 Wochenstunden und gesicherten Lebensunterhalt voraus – wegen der festen Einreisefrist kommt dieser Weg für seither eingereiste Personen nicht mehr in Betracht.</p><h3>Selbst machen oder Anwalt?</h3><p>Den Antrag auf Beschäftigungserlaubnis stellen Sie selbst bei der Ausländerbehörde; ein Vertretungszwang besteht hierfür nicht. Wird die Erlaubnis abgelehnt, ist außerhalb der Aufnahmeeinrichtung seit der Reform meist ein gebundener Anspruch betroffen (kein reines Ermessen mehr), sodass sich eine Klage vor dem Verwaltungsgericht lohnen kann – auch dort ist keine anwaltliche Vertretung nötig (§ 67 VwGO gilt erst ab dem Oberverwaltungsgericht). Kosten des Verwaltungsverfahrens trägt in der Regel die unterliegende Seite (§ 154 Abs. 1 VwGO); der Streitwert wird mangels anderer Anhaltspunkte häufig mit dem Auffangwert von 5.000 Euro angesetzt (Streitwertkatalog 2025 Nr. 8.4). Beruht die Erlaubnis auf § 61 AsylG, können Gerichtskosten nach § 83b AsylG entfallen (Einordnung in der Rechtsprechung nicht einheitlich); der Streitwert ist dann nur für Anwaltsgebühren relevant. Anwaltliche Hilfe empfiehlt sich, wenn die Zustimmung der Bundesagentur für Arbeit streitig ist oder mehrere Ablehnungsgründe zusammentreffen.</p>",
+  "zustaendig": [
+    "Ausländerbehörde (Erteilung und Versagung der Beschäftigungserlaubnis)",
+    "Bundesagentur für Arbeit (Zustimmung zur Beschäftigung)",
+    "Agentur für Arbeit / Jobcenter (Vermittlung, nicht für die Erlaubnis zuständig)",
+    "Verwaltungsgericht (bei Ablehnung oder Untätigkeit)"
+  ],
+  "belege": [
+    "§ 61 AsylG in der seit 12.06.2026 geltenden Fassung, gesetze-im-internet.de, abgerufen 24.09.2026",
+    "§ 60a, § 60c, § 60d AufenthG, gesetze-im-internet.de, abgerufen 24.09.2026",
+    "§ 39 AufenthG, gesetze-im-internet.de, abgerufen 24.09.2026",
+    "§ 32 BeschV, gesetze-im-internet.de, abgerufen 24.09.2026",
+    "GEAS-Anpassungsgesetz vom 23.04.2026, BGBl. 2026 I Nr. 111, ausgegeben 28.04.2026, abgerufen 24.09.2026"
+  ],
+  "siehe_auch": [
+    "aufenthaltstitel-verlaengerung-fiktionsbescheinigung",
+    "untaetigkeitsklage-auslaenderbehoerde",
+    "ueberblick-selbst-handeln"
+  ],
+  "stand": "September 2026"
+}

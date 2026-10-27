@@ -1,0 +1,34 @@
+{
+  "titel": "Gesellschaft",
+  "zusatz": "Gesellschaft &middot; Bürgerrechte und Teilhabe",
+  "icon": "🏛️",
+  "teaser": "Ihre Grundrechte kennen und nutzen: wählen, demonstrieren, Auskunft verlangen, sich engagieren, sich gegen Diskriminierung wehren.",
+  "suche_placeholder": "Suchen: Wahl, Briefwahl, Demo, Petition, Datenschutz, Ehrenamt, Einbürgerung …",
+  "meta_description": "Bürgerrechte und Teilhabe in Deutschland einfach erklärt: Wahlrecht, Demonstration, Petition, Auskunftsrechte, Ehrenamt, Einbürgerung, Diskriminierung, Polizeikontrolle. Stand September 2026.",
+  "hinweis": "<strong>Rechtsstand: September 2026.</strong> Vieles ist Landesrecht (Versammlungsrecht, Bürgerbegehren, Wahlalter bei Landtags- und Kommunalwahlen, Polizeirecht) und unterscheidet sich je nach Bundesland. Angaben zu Ihrem Land prüfen Sie bitte bei der zuständigen Stelle. Unsichere Punkte und Quellen: <a href=\"quellen.html\">Quellen und Grenzen</a>. Dies ist Information, keine Rechtsberatung.",
+  "haeufig": [
+    "wahlrecht-waehlen",
+    "versammlung-demonstration",
+    "datenschutz-auskunft",
+    "ehrenamt-engagement",
+    "einbuergerung",
+    "diskriminierung-agg"
+  ],
+  "fusszeile": "Information statt Rechtsberatung: Rechtsstand September 2026, Länderrecht kann abweichen.",
+  "beratung_id": "beratung-anlaufstellen",
+  "quellen_teaser": "<p>Alle Angaben stammen aus Gesetzestexten und amtlichen Seiten. Was wir nur aus Sekundärquellen kennen, ist unten offen benannt.</p>",
+  "quellen_abschnitte": [
+    {
+      "h": "Quellen",
+      "html": "<ol><li>Gesetze im Internet (BMJ): VersammlG § 14, AGG § 21, IFG § 7, StGB § 323c, StAG § 10, BWahlG § 12, StPO § 163b, ZPO § 114, SGB VII</li><li>Bundeswahlleiterin: Briefwahl (bundeswahlleiterin.de)</li><li>Deutscher Bundestag: Petitionsquorum 30.000 (Textarchiv 2024/kw26); Staatsangehörigkeitsrecht (Textarchiv 2025/kw41); Wahlalter Europawahl (Textarchiv 2022/kw45)</li><li>BMI: Versammlungsrecht, Gesetzgebungsverfahren Staatsangehörigkeitsrecht</li><li>Minijob-Zentrale: Übungsleiter- und Ehrenamtspauschale 2026</li><li>DGUV: Unfallversicherung für Ehrenamtliche und Hilfeleistende</li><li>Bundesnetzagentur: Digital Services Coordinator, Trusted Flagger</li><li>BfDI, Antidiskriminierungsstelle des Bundes, Justiz-Services (service.justiz.de)</li></ol>"
+    },
+    {
+      "h": "Unsichere Punkte",
+      "html": "<ul><li>Landesversammlungsgesetze: die Liste der Länder mit eigenem Gesetz und die Zählweise der 48-Stunden-Frist (Arbeitstage in Bayern, Niedersachsen) nicht abschließend geprüft. Bitte Landesgesetz prüfen (Art. 13 BayVersG, § 5 NVersG).</li><li>Wahlalter 16 bei Landtags- und Kommunalwahlen: nach Übersicht der bpb, nicht je Landeswahlgesetz geprüft, Länder ändern das. Vor einer Wahl beim Landeswahlleiter nachsehen.</li><li>Transparenzgesetze der Länder, Bürgerbegehren-Quoren (Sekundärquelle KommunalWiki), Länderregeln bei Polizeikontrollen: bewusst nur allgemein beschrieben, nicht je Land geprüft.</li><li>Strafrechtliche Einordnung von Äußerungen (Beleidigung, Volksverhetzung) nur als Überblick.</li></ul><p>Primär bestätigt: Pauschalen 3.300/960 Euro (§ 3 Nr. 26, 26a EStG), Eigenanteil 15 Euro Beratungshilfe (Nr. 2500 VV RVG), StAG-Änderung seit 30.10.2025, Grundgesetz-Artikel, DSGVO Art. 12.</p>"
+    },
+    {
+      "h": "Was diese Plattform leistet – und was nicht",
+      "html": "<p>Sie erhalten verständliche Orientierung zu Rechten und Fristen und Hinweise, wo Sie Hilfe bekommen. Wir prüfen keinen Einzelfall, beraten nicht rechtlich und speichern keine persönlichen Daten. Bei Fristen und Streit wenden Sie sich an eine Beratungsstelle oder einen Rechtsanwalt.</p>"
+    }
+  ]
+}

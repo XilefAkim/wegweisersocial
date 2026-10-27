@@ -1,0 +1,88 @@
+{
+  "id": "einbuergerung-antrag",
+  "kategorie": "aufenthalt-arbeit",
+  "titel": "Einbürgerung beantragen",
+  "icon": "📜",
+  "teaser": "Nach 5 Jahren rechtmäßigem Aufenthalt können Sie die deutsche Staatsangehörigkeit beantragen. Die Einbürgerung nach 3 Jahren wurde zum 30. Oktober 2025 abgeschafft.",
+  "schlagworte": [
+    "Einbürgerung",
+    "Staatsangehörigkeit",
+    "StAG",
+    "5 Jahre",
+    "Mehrstaatigkeit",
+    "B1",
+    "Einbürgerungstest",
+    "Untätigkeitsklage"
+  ],
+  "kurz_html": "<p>Nach einigen Jahren können Sie deutsche Staatsangehörige oder deutscher Staatsangehöriger werden. Das nennt man Einbürgerung.</p><p>Die Wartezeit beträgt <strong>5 Jahre</strong> rechtmäßigen gewöhnlichen Aufenthalts. Die Zeit eines früheren Asylverfahrens wird mitgerechnet, wenn Sie als Asylberechtigte oder Asylberechtigter anerkannt wurden oder internationalen Schutz (Flüchtlingseigenschaft oder subsidiären Schutz) erhalten haben – bei einem bloßen Abschiebungsverbot zählt diese Zeit nicht mit.</p><p>Eine schnellere Einbürgerung nach nur 3 Jahren gab es zwischenzeitlich; sie wurde zum 30. Oktober 2025 wieder abgeschafft. Es gilt seither nur noch die Frist von 5 Jahren.</p><p>Weitere Voraussetzungen: gesicherter Lebensunterhalt, Deutschkenntnisse in der Regel auf Niveau B1, ein bestandener Einbürgerungstest, keine einschlägigen Verurteilungen und ein Bekenntnis zur freiheitlichen demokratischen Grundordnung. Ihre bisherige Staatsangehörigkeit dürfen Sie in der Regel behalten.</p><p>Die Einbürgerung kostet 255 Euro für Erwachsene, 51 Euro für Kinder, die zusammen mit einem Elternteil eingebürgert werden. Machen Sie im Antrag keine falschen Angaben: Seit Ende Dezember 2025 führt eine festgestellte Täuschung zu einer zehnjährigen Sperre.</p>",
+  "schritte": [
+    {
+      "titel": "Wartezeit berechnen",
+      "text": "Zählen Sie ab dem Beginn Ihres rechtmäßigen gewöhnlichen Aufenthalts; die Zeit eines anerkannten Asylverfahrens zählt mit."
+    },
+    {
+      "titel": "Sprachzertifikat und Einbürgerungstest",
+      "text": "Legen Sie ein Zertifikat über Niveau B1 vor und bestehen Sie den Einbürgerungstest, meist bei der Volkshochschule."
+    },
+    {
+      "titel": "Lebensunterhalt nachweisen",
+      "text": "Sammeln Sie Arbeitsvertrag, Lohnabrechnungen und Kontoauszüge."
+    },
+    {
+      "titel": "Antrag bei der Einbürgerungsbehörde stellen",
+      "text": "Fragen Sie bei Ihrer Stadt oder Ihrem Landkreis nach der zuständigen Stelle; mancherorts läuft der Antrag online."
+    },
+    {
+      "titel": "Bearbeitungsstand nachfragen",
+      "text": "Fragen Sie nach vier bis sechs Monaten aktiv nach, wenn sich nichts tut."
+    }
+  ],
+  "fristen": [
+    {
+      "wert": "5 Jahre",
+      "was": "Rechtmäßiger gewöhnlicher Aufenthalt als Wartezeit für die Einbürgerung – seit Abschaffung der Drei-Jahres-Schiene die einzige reguläre Frist.",
+      "grundlage": "§ 10 Abs. 1 Satz 1 StAG"
+    },
+    {
+      "wert": "255 Euro / 51 Euro",
+      "was": "Gebühr für die Einbürgerung Erwachsener beziehungsweise für Kinder, die zusammen mit einem Elternteil eingebürgert werden.",
+      "grundlage": "§ 38 StAG"
+    },
+    {
+      "wert": "30. Oktober 2025",
+      "was": "Inkrafttreten der Abschaffung der Einbürgerung nach drei Jahren; seither gilt einheitlich die Fünfjahresfrist.",
+      "grundlage": "Gesetz vom 27.10.2025, BGBl. 2025 I Nr. 256"
+    },
+    {
+      "wert": "10 Jahre",
+      "was": "Sperrfrist für eine Einbürgerung, wenn arglistige Täuschung, Drohung, Bestechung oder vorsätzlich unrichtige oder unvollständige Angaben zu wesentlichen Voraussetzungen festgestellt werden.",
+      "grundlage": "§ 35a StAG (in Kraft seit 24.12.2025)"
+    }
+  ],
+  "achtung": [
+    "Die Einbürgerung nach drei Jahren gibt es nicht mehr; sie wurde zum 30. Oktober 2025 abgeschafft. Ältere Ratgeber sind an diesem Punkt überholt.",
+    "Die Zeit des Asylverfahrens zählt nur mit, wenn Sie als Asylberechtigte oder Asylberechtigter anerkannt wurden oder internationalen Schutz erhalten haben – bei einem bloßen Abschiebungsverbot nach § 60 Abs. 5 oder 7 AufenthG greift § 55 Abs. 3 AsylG nicht.",
+    "Machen Sie keine falschen oder unvollständigen Angaben: Seit dem 24. Dezember 2025 führt eine festgestellte Täuschung zu einer zehnjährigen Sperrfrist; die Feststellung ist sofort vollziehbar, Widerspruch und Klage haben keine aufschiebende Wirkung.",
+    "Mit der Einbürgerung erlischt Ihr Schutzstatus automatisch – das ist die normale gesetzliche Folge, keine Sanktion.",
+    "Bundesweite amtliche Zahlen zur Bearbeitungsdauer liegen nicht vor; regionale Schätzungen schwanken erheblich – das ist eine Lücke in den ausgewerteten Quellen."
+  ],
+  "fach_html": "<h3>Anspruchseinbürgerung nach § 10 StAG</h3><p>Voraussetzung ist ein seit fünf Jahren rechtmäßiger gewöhnlicher Aufenthalt im Inland bei geklärter Identität und Staatsangehörigkeit (§ 10 Abs. 1 Satz 1 StAG). Hinzu kommen: ein Aufenthaltstitel, der nicht ausdrücklich ausgenommen ist – ein Titel nach § 25 Abs. 1 oder 2 AufenthG (Asylberechtigung, Flüchtlingseigenschaft, subsidiärer Schutz) genügt, ein Titel wegen eines Abschiebungsverbots (§ 25 Abs. 3 bis 5 AufenthG) genügt nicht (§ 10 Abs. 1 Satz 1 Nr. 2 StAG) –, gesicherter Lebensunterhalt ohne Leistungen nach SGB II oder SGB XII (mit Ausnahmen bei Vollzeiterwerbstätigkeit), keine einschlägigen Verurteilungen, in der Regel Deutschkenntnisse auf Niveau B1 sowie der bestandene Einbürgerungstest und ein glaubhaftes Bekenntnis zur freiheitlichen demokratischen Grundordnung.</p><h3>Mehrstaatigkeit und Gebühren</h3><p>Seit dem 27. Juni 2024 ist die doppelte Staatsangehörigkeit allgemein zulässig; die bisherige Staatsangehörigkeit muss grundsätzlich nicht mehr aufgegeben werden. Die Gebühr beträgt 255 Euro für eine erwachsene Person und 51 Euro für Kinder, die zusammen mit einem Elternteil eingebürgert werden (§ 38 StAG).</p><h3>Anrechnung der Asylverfahrensdauer</h3><p>Nach § 55 Abs. 3 AsylG wird die Dauer eines Asylverfahrens auf die Einbürgerungs-Wartezeit nur angerechnet, wenn die Person als Asylberechtigte anerkannt ist oder internationalen Schutz – Flüchtlingseigenschaft oder subsidiären Schutz – erhalten hat. Bei einem bloßen nationalen Abschiebungsverbot gilt diese Anrechnung nicht.</p><h3>Neue Sperrfrist bei Täuschung</h3><p>Seit dem 24. Dezember 2025 schließt § 35a StAG die Einbürgerung für zehn Jahre aus, wenn eine frühere Einbürgerung unanfechtbar zurückgenommen wurde oder die Behörde im Verfahren arglistige Täuschung, Drohung, Bestechung oder vorsätzlich unrichtige oder unvollständige Angaben zu wesentlichen Voraussetzungen feststellt (Wortlaut nach der Berichtigung in BGBl. 2026 I Nr. 49, rückwirkend zum 24. Dezember 2025). Die Feststellung ist sofort vollziehbar.</p><h3>Bei langer Bearbeitungsdauer: Untätigkeitsklage</h3><p>Reagiert die Einbürgerungsbehörde über Monate nicht, kommt eine Untätigkeitsklage nach § 75 VwGO in Betracht (frühestens drei Monate nach Antragstellung). Details dazu, einschließlich Musteraufbau und Kosten, finden Sie auf der eigenen Seite zur Untätigkeitsklage gegen die Ausländerbehörde.</p><h3>Selbst machen oder Anwalt?</h3><p>Den Einbürgerungsantrag können Sie ohne anwaltliche Hilfe stellen; ein Vertretungszwang besteht nicht. Auch eine Untätigkeitsklage vor dem Verwaltungsgericht können Sie ohne Anwalt einreichen, da der Vertretungszwang nach § 67 VwGO erst vor Oberverwaltungsgericht und Bundesverwaltungsgericht gilt. Kosten des Verwaltungsverfahrens sind die Gebühr nach § 38 StAG; im Klageverfahren trägt die unterliegende Seite die Gerichtskosten (§ 154 Abs. 1 VwGO), der Streitwert wird für Einbürgerungsklagen nach dem Streitwertkatalog 2025 (Nr. 42.1) meist mit 10.000 Euro pro Person angesetzt, bei reiner Bescheidungsklage mindestens die Hälfte (Nr. 1.4). Anwaltliche Hilfe empfiehlt sich, wenn eine Sperrfrist nach § 35a StAG droht, Zweifel an der Bewertung von Straftaten bestehen oder mehrere Rechtsfragen zusammentreffen.</p>",
+  "zustaendig": [
+    "Einbürgerungsbehörde der Stadt oder des Landkreises",
+    "Volkshochschulen und andere Prüfungsstellen (Sprachzertifikat, Einbürgerungstest)",
+    "Verwaltungsgericht (bei Untätigkeit oder Ablehnung)"
+  ],
+  "belege": [
+    "§ 10 StAG, gesetze-im-internet.de, abgerufen 24.09.2026",
+    "§ 38 StAG, gesetze-im-internet.de, abgerufen 24.09.2026",
+    "§ 35a StAG i. d. F. der Berichtigung BGBl. 2026 I Nr. 49, gesetze-im-internet.de, abgerufen 24.09.2026",
+    "§ 55 Abs. 3 AsylG, gesetze-im-internet.de, abgerufen 24.09.2026",
+    "Gesetz vom 27.10.2025, BGBl. 2025 I Nr. 256 (Abschaffung der Drei-Jahres-Schiene), abgerufen 24.09.2026"
+  ],
+  "siehe_auch": [
+    "untaetigkeitsklage-auslaenderbehoerde",
+    "aufenthaltstitel-verlaengerung-fiktionsbescheinigung",
+    "ueberblick-selbst-handeln"
+  ],
+  "stand": "September 2026"
+}

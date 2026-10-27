@@ -1,0 +1,85 @@
+{
+  "id": "visum-untaetigkeitsklage",
+  "kategorie": "behoerde-untaetig",
+  "titel": "Visum: Untätigkeitsklage beim Verwaltungsgericht Berlin",
+  "icon": "✈️",
+  "teaser": "Die Botschaft entscheidet nicht über Ihren Visumantrag? Klagen gegen die Bundesrepublik in Visumsachen gehen immer an das Verwaltungsgericht Berlin.",
+  "schlagworte": [
+    "Visum",
+    "Untätigkeitsklage",
+    "Verwaltungsgericht Berlin",
+    "Auswärtiges Amt",
+    "Botschaft",
+    "Terminvergabe",
+    "Remonstration",
+    "Familiennachzug"
+  ],
+  "kurz_html": "<p>Sie oder Ihre Familie haben ein Visum beantragt, zum Beispiel für den Familiennachzug oder für Arbeit. Die deutsche Botschaft entscheidet aber lange nicht.</p><p>Dann ist eine <strong>Untätigkeitsklage</strong> möglich. Sie geht immer an das <strong>Verwaltungsgericht Berlin</strong>, egal wo die Botschaft ist. Sie richtet sich gegen die Bundesrepublik Deutschland.</p><p>Die Klage ist in der Regel frühestens drei Monate nach dem Antrag möglich. Wichtig: Es muss schon einen Antrag geben. Wer nur auf einen Termin wartet, hat es vor Gericht schwerer.</p><p>Das Verfahren ist auf Deutsch. Einen Anwalt brauchen Sie nicht, aber es kostet Gerichtsgebühren.</p><p>Wird das Visum abgelehnt, gibt es seit Juli 2025 keine Remonstration mehr. Dann bleibt nur die Klage (meist 1 Monat Frist) oder ein neuer Antrag.</p>",
+  "schritte": [
+    {
+      "titel": "Antrag nachweisen",
+      "text": "Bestätigung der Antragstellung sichern, zum Beispiel aus dem Auslandsportal oder vom Termin. Datum notieren."
+    },
+    {
+      "titel": "Nachfragen",
+      "text": "Schriftlich bei der Auslandsvertretung nach dem Stand fragen und eine Frist setzen. Antworten aufheben."
+    },
+    {
+      "titel": "Klage vorbereiten",
+      "text": "Kläger mit Anschrift, Beklagte: Bundesrepublik Deutschland (Auswärtiges Amt), Antrag, kurzer Sachverhalt, Kopien von Antrag und Schriftwechsel."
+    },
+    {
+      "titel": "Klage einreichen",
+      "text": "Beim Verwaltungsgericht Berlin, Kirchstraße 7, 10557 Berlin: schriftlich, über sicheren elektronischen Weg (nicht per E-Mail) oder bei der Rechtsantragstelle (laut VG Berlin nur nach telefonischer Terminvereinbarung)."
+    }
+  ],
+  "fristen": [
+    {
+      "wert": "3 Monate",
+      "was": "Frühester Zeitpunkt der Untätigkeitsklage nach Antragstellung, außer bei besonderen Umständen.",
+      "grundlage": "§ 75 VwGO"
+    },
+    {
+      "wert": "1 Monat",
+      "was": "Klagefrist gegen eine Visumablehnung ab Bekanntgabe („typischerweise“ laut Auswärtigem Amt; maßgeblich ist die Rechtsbehelfsbelehrung).",
+      "grundlage": "§ 74 VwGO"
+    },
+    {
+      "wert": "01.07.2025",
+      "was": "Remonstrationsverfahren gegen Visumablehnungen weltweit abgeschafft (für ab diesem Tag ausgestellte Bescheide).",
+      "grundlage": "Auswärtiges Amt"
+    },
+    {
+      "wert": "511,50 €",
+      "was": "Rechnerische Gerichtsgebühr (3,0 × 170,50 €) bei einem Streitwert von 5.000 €; Ermäßigung auf 1,0 u. a. bei Rücknahme.",
+      "grundlage": "KV GKG Nr. 5110/5111, Anlage 2 GKG, § 52 Abs. 2 GKG"
+    }
+  ],
+  "achtung": [
+    "Zuständig ist immer das VG Berlin (§ 52 Nr. 2 Satz 5 VwGO), nicht das Gericht am Wohnort der Familie in Deutschland.",
+    "Wartezeiten auf einen Vorsprachetermin haben Gerichte teils als zumutbar angesehen, weil die persönliche Vorsprache der Identitätsklärung dient.",
+    "Das Gericht erteilt kein Visum selbst und gibt keine Rechtsberatung; die Rechtsantragstelle nimmt nur Klagen und Eilanträge auf.",
+    "Das Verfahren ist gerichtskostenpflichtig; bei Bedürftigkeit Prozesskostenhilfe beantragen.",
+    "Beim Nachzug zu subsidiär Schutzberechtigten ist der Nachzug bis 23.07.2027 ausgesetzt – eine Klage ändert daran nichts, außer im Härtefall."
+  ],
+  "fach_html": "<h3>Zuständigkeit und Beklagte</h3><p>§ 52 Nr. 2 Satz 5 VwGO: „Für Klagen gegen den Bund auf Gebieten, die in die Zuständigkeit der diplomatischen und konsularischen Auslandsvertretungen der Bundesrepublik Deutschland fallen, auf dem Gebiet der Visumangelegenheiten auch, wenn diese in die Zuständigkeit des Bundesamts für Auswärtige Angelegenheiten fallen, ist das Verwaltungsgericht örtlich zuständig, in dessen Bezirk die Bundesregierung ihren Sitz hat.“ Das ist das Verwaltungsgericht Berlin (Kirchstraße 7, 10557 Berlin). Die Klage richtet sich nach § 78 Abs. 1 Nr. 1 VwGO gegen den Bund, also die Bundesrepublik Deutschland, für die das Auswärtige Amt handelt. Hinweis: In älteren Darstellungen wird die Norm mit anderer Satznummer zitiert; in der aktuellen Fassung ist es Satz 5.</p><h3>Untätigkeitsklage und „Terminklage“</h3><p>§ 75 VwGO setzt einen gestellten Antrag voraus, über den „ohne zureichenden Grund in angemessener Frist sachlich nicht entschieden“ wurde; die Klage ist frühestens nach drei Monaten zulässig. Laut Informationsverbund Asyl &amp; Migration hat die Rechtsprechung bei Klagen auf Terminvergabe „die Notwendigkeit der persönlichen Vorsprache aus Gründen der Identitätsklärung als ‚zureichenden Grund‘“ anerkannt und etwa „zweijährige Wartezeiten auf einen Vorsprachetermin“ für zumutbar befunden. Seit Einführung des Auslandsportals können viele Langzeitvisa online beantragt werden; ob und ab wann ein Online-Antrag die Frist des § 75 VwGO auslöst, ist hier nicht durch Rechtsprechung belegt. Belastbare amtliche Zahlen zur Verfahrensdauer in Visumverfahren oder beim VG Berlin liegen hier nicht vor; das Gericht selbst sagt: „Die Verfahrensdauer kann nicht vorhergesagt werden“.</p><h3>Ablehnung statt Untätigkeit</h3><p>Das Remonstrationsverfahren wurde „zum 1. Juli 2025 weltweit“ abgeschafft; es betrifft Schengen- und nationale Visa mit Ablehnung ab 01.07.2025. Möglich sind ein neuer, kostenpflichtiger Antrag oder die Klage beim VG Berlin; „Die Frist zur Klageerhebung beträgt typischerweise einen (1) Monat ab Bekanntgabe“ (§ 74 VwGO). Entscheidet die Auslandsvertretung während einer Untätigkeitsklage ablehnend, stellt sich die Frage, wie die Klage fortgeführt wird; dazu ist Rat einzuholen.</p><h3>Was das Gericht erreichen kann</h3><p>Das Gericht kann den Bund verpflichten, das Visum zu erteilen oder über den Antrag zu entscheiden; hat die Behörde einen zureichenden Grund, setzt es aus und setzt eine Frist (§ 75 Satz 3 VwGO). Wie oft Klagen zu einer schnelleren Entscheidung führen, ist amtlich nicht belegt. Kosten: Auffangstreitwert 5.000 € (§ 52 Abs. 2 GKG; Streitwertkatalog 2025 Nr. 8.1.2 für befristete Aufenthaltstitel, pro Person), Gerichtsgebühr 3,0 (KV Nr. 5110), bei 5.000 € rechnerisch 511,50 €; Ermäßigung auf 1,0 (170,50 €) nach KV Nr. 5111. Durfte der Kläger vor Klageerhebung mit einer Entscheidung rechnen, trägt der Bund die Kosten (§ 161 Abs. 3 VwGO).</p><h3>Selbst machen oder Anwalt?</h3><p>Laut VG Berlin „herrscht kein Anwaltszwang“ (§ 67 Abs. 1 VwGO). Die Klageschrift muss die Parteien mit vollständiger Anschrift nennen, den Klagegrund angeben und begründet sein; eine Einreichung per E-Mail „ist nicht möglich“, elektronisch nur über EGVP bzw. sichere Übermittlungswege. Das Verfahren ist auf Deutsch zu führen. Gerichtskosten trägt zunächst die klagende Seite; bei Bedürftigkeit ist Prozesskostenhilfe möglich. Anwaltliche Hilfe ist ratsam bei Ablehnung, bei Identitäts- oder Urkundenfragen, bei Härtefällen im Familiennachzug und wenn Angehörige im Ausland keinen Zugang zu deutschsprachigen Schriftsätzen haben.</p>",
+  "zustaendig": [
+    "Verwaltungsgericht Berlin, Kirchstraße 7, 10557 Berlin (Rechtsantragstelle)",
+    "Deutsche Auslandsvertretung, bei der der Antrag gestellt wurde",
+    "Auswärtiges Amt / Bundesamt für Auswärtige Angelegenheiten",
+    "Rechtsanwältin/Rechtsanwalt für Migrationsrecht, Beratungsstellen"
+  ],
+  "belege": [
+    "Gesetze im Internet, §§ 52, 67, 74, 75, 78, 161 VwGO, abgerufen 24.09.2026",
+    "Verwaltungsgericht Berlin, Visaverfahren und Merkblatt Visa-Verfahren, abgerufen 24.09.2026",
+    "Auswärtiges Amt (Deutsche Vertretungen in Italien), Abschaffung des Remonstrationsverfahrens zum 1. Juli 2025, abgerufen 24.09.2026",
+    "Informationsverbund Asyl & Migration, familie.asyl.net: Interventionsmöglichkeiten & Rechtsmittel, abgerufen 24.09.2026",
+    "Gesetze im Internet, GKG § 52, Anlage 1 (KV 5110/5111), Anlage 2; BVerwG Streitwertkatalog 2025, abgerufen 24.09.2026"
+  ],
+  "siehe_auch": [
+    "familiennachzug-antrag",
+    "untaetigkeitsklage-auslaenderbehoerde",
+    "prozesskostenhilfe-beratungshilfe"
+  ],
+  "stand": "September 2026"
+}

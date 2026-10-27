@@ -1,0 +1,1146 @@
+{
+ "kategorien": [
+  {
+   "id": "ueberblick",
+   "titel": "Überblick und erste Schritte",
+   "icon": "🧭",
+   "beschreibung": "Einstieg: was Depression ist und wer als Erstes weiterhilft."
+  },
+  {
+   "id": "akut",
+   "titel": "Akute Krise und Klinik",
+   "icon": "🚨",
+   "beschreibung": "Sofort-Hilfe, Krisendienste und stationäre Behandlung."
+  },
+  {
+   "id": "behandlung",
+   "titel": "Behandlung und Therapie",
+   "icon": "🩺",
+   "beschreibung": "Therapieplatz finden, Kostenübernahme, Medikamente."
+  },
+  {
+   "id": "arbeit",
+   "titel": "Arbeit und Krankschreibung",
+   "icon": "💼",
+   "beschreibung": "Krankschreibung, Wiedereingliederung, Arbeitsrecht."
+  },
+  {
+   "id": "existenz",
+   "titel": "Erwerbsminderung und Schwerbehinderung",
+   "icon": "⚖️",
+   "beschreibung": "Wenn Depression die Erwerbsfähigkeit dauerhaft einschränkt."
+  },
+  {
+   "id": "umfeld",
+   "titel": "Angehörige und Selbsthilfe",
+   "icon": "🤝",
+   "beschreibung": "Unterstützen, ohne sich selbst zu verlieren."
+  },
+  {
+   "id": "beratung",
+   "titel": "Beratung und Anlaufstellen",
+   "icon": "📞",
+   "beschreibung": "Wer bei welchem Anliegen zuständig ist."
+  }
+ ],
+ "seiten": [
+  {
+   "id": "ueberblick-hilfe-bei-depression",
+   "kategorie": "ueberblick",
+   "titel": "Überblick: Hilfe bei Depression",
+   "icon": "🧭",
+   "teaser": "Depression ist eine ernstzunehmende, gut behandelbare Krankheit – kein persönliches Versagen. Dieser Überblick zeigt, welche Wege zur Hilfe es in Deutschland gibt.",
+   "schlagworte": [
+    "Depression",
+    "S3-Leitlinie",
+    "Schweregrad",
+    "Psychotherapeutische Sprechstunde",
+    "Hausarzt",
+    "Kombinationstherapie"
+   ],
+   "kurz_html": "\n<p>Depression ist eine der häufigsten psychischen Erkrankungen in Deutschland und in den allermeisten Fällen gut\nbehandelbar. Sie äußert sich u. a. durch gedrückte Stimmung, Freud- und Interessenlosigkeit sowie Antriebsmangel über\nmindestens zwei Wochen und kann leicht, mittelgradig oder schwer ausgeprägt sein. Niemand muss das allein\ndurchstehen: Der erste Weg führt meist zur Hausärztin/zum Hausarzt oder direkt zu einer Psychotherapeutin bzw. einem\nPsychotherapeuten.</p>\n<p>Wenn Sie in diesem Moment an Suizid denken oder sich in akuter Gefahr befinden: Rufen Sie sofort den Notruf <strong>112</strong> oder die TelefonSeelsorge an – kostenlos, anonym, rund um die Uhr: <strong>0800 111 0 111</strong> oder <strong>0800 111 0 222</strong> (telefonseelsorge.de). Sie müssen nicht warten, bis ein Termin frei wird.</p>\n",
+   "schritte": [
+    {
+     "titel": "Ernst nehmen und ansprechen",
+     "text": "Anhaltende Niedergeschlagenheit, Freudlosigkeit oder Erschöpfung sind ein Grund, professionelle Hilfe zu suchen – nicht ein Zeichen von Schwäche."
+    },
+    {
+     "titel": "Erste Anlaufstelle wählen",
+     "text": "Hausärztin/Hausarzt, eine psychotherapeutische Sprechstunde oder die Terminservicestelle 116117 sind gleichwertige erste Kontakte."
+    },
+    {
+     "titel": "Diagnose und Schweregrad klären",
+     "text": "Anhand eines Gesprächs und standardisierter Fragebögen (z. B. PHQ-9) wird eingeschätzt, wie stark die Depression ausgeprägt ist."
+    },
+    {
+     "titel": "Behandlung beginnen",
+     "text": "Je nach Schweregrad kommen Psychotherapie, Medikamente oder beides kombiniert infrage – die Leitlinie empfiehlt bei mittelgradiger bis schwerer Depression in der Regel eine Kombination."
+    },
+    {
+     "titel": "Alltag und Arbeit absichern",
+     "text": "Krankschreibung, Kontakt zum Arbeitgeber und ggf. finanzielle Absicherung lassen sich parallel klären – dafür gibt es eigene Themenseiten auf diesem Portal."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "keine gesetzliche Frist",
+     "was": "Für den ersten Kontakt zu Hausärztin/Hausarzt oder Psychotherapeutin/Psychotherapeut gibt es keine Frist – je früher, desto besser.",
+     "grundlage": "–"
+    },
+    {
+     "wert": "2 Wochen",
+     "was": "Vermittlungsfrist der Terminservicestelle 116117 für eine psychotherapeutische Akutsprechstunde bei dringendem Behandlungsbedarf",
+     "grundlage": "Psychotherapie-Richtlinie des G-BA"
+    }
+   ],
+   "achtung": [
+    "Depression wird im Umfeld oft verharmlost („Reiß dich zusammen“) – das verzögert häufig den Behandlungsbeginn.",
+    "Ein einzelner Fragebogenwert ersetzt keine ärztliche oder psychotherapeutische Diagnose.",
+    "Warten Sie bei akuten Suizidgedanken nicht auf einen regulären Termin – nutzen Sie sofort Notruf 112 oder die TelefonSeelsorge.",
+    "Verschiedene Wege (Hausarzt, 116117, Ambulanz einer Klinik) lassen sich parallel nutzen, um schneller einen Termin zu bekommen."
+   ],
+   "fach_html": "\n<h3>Definition und Schweregrade</h3>\n<p>Nach der Nationalen VersorgungsLeitlinie/S3-Leitlinie „Unipolare Depression“ (Version 3.0, 2025) liegt eine\ndepressive Episode vor, wenn Haupt- und Zusatzsymptome (u. a. gedrückte Stimmung, Interessenverlust, Antriebsmangel,\nSchlafstörungen, Konzentrationsprobleme, Suizidgedanken) über mindestens zwei Wochen bestehen. Unterschieden werden\nleichte, mittelgradige und schwere depressive Episoden sowie rezidivierende (wiederkehrende) Verläufe.</p>\n<h3>Gestufte Versorgung</h3>\n<p>Die Leitlinie empfiehlt ein abgestuftes Vorgehen: Bei leichter Depression kann zunächst aktiv-abwartendes Begleiten\nmit engmaschiger Kontrolle sinnvoll sein; bei mittelgradiger Depression werden Psychotherapie oder Medikamente\nempfohlen; bei schwerer Depression in der Regel eine Kombination aus Psychotherapie und Antidepressiva. Screening-\nInstrumente wie PHQ-9 oder WHO-5 unterstützen die Früherkennung, ersetzen aber keine klinische Diagnostik.</p>\n<h3>Zuständigkeiten im System</h3>\n<p>Hausärztinnen und Hausärzte übernehmen häufig die Erstversorgung und leichtere bis mittelgradige Fälle, ggf. in\nZusammenarbeit mit Psychotherapeutinnen/Psychotherapeuten und Fachärztinnen/Fachärzten für Psychiatrie und\nPsychotherapie. Bei schweren Verläufen oder Krisen kommen psychiatrische Institutsambulanzen (PIA) und Kliniken\nhinzu.</p>\n",
+   "zustaendig": [
+    "Hausärztin/Hausarzt",
+    "Psychotherapeutin/Psychotherapeut",
+    "bei akuter Gefahr: Rettungsdienst (112) und Notaufnahme"
+   ],
+   "belege": [
+    "Nationale VersorgungsLeitlinie/S3-Leitlinie Unipolare Depression, Version 3.0, AWMF-Register-Nr. nvl-005 (register.awmf.org, Stand 2025)",
+    "Psychotherapie-Richtlinie des Gemeinsamen Bundesausschusses (g-ba.de)",
+    "Stiftung Deutsche Depressionshilfe (deutsche-depressionshilfe.de)"
+   ],
+   "siehe_auch": [
+    "erste-anlaufstellen-und-hausarzt",
+    "akutbehandlung-und-krisendienst",
+    "beratung-anlaufstellen-depression"
+   ],
+   "stand": "Stand: September 2026 (Nationale VersorgungsLeitlinie/S3-Leitlinie Unipolare Depression, Version 3.0, 2025)."
+  },
+  {
+   "id": "erste-anlaufstellen-und-hausarzt",
+   "kategorie": "ueberblick",
+   "titel": "Erste Anlaufstellen und die Rolle des Hausarztes",
+   "icon": "🩹",
+   "teaser": "Hausarztpraxis, psychotherapeutische Sprechstunde oder die 116117: Diese Seite ordnet die ersten Kontaktwege und was Sie dort erwartet.",
+   "schlagworte": [
+    "Hausarzt",
+    "Psychotherapeutische Sprechstunde",
+    "116117",
+    "Terminservicestelle",
+    "Überweisung",
+    "PIA"
+   ],
+   "kurz_html": "\n<p>Für den ersten Kontakt gibt es in Deutschland mehrere gleichwertige Wege: die Hausarztpraxis, eine\npsychotherapeutische Sprechstunde (Direktzugang, keine Überweisung nötig) oder die Terminservicestelle unter der\nNummer 116117. Alle drei können Sie parallel nutzen, um möglichst schnell einen Termin zu bekommen.</p>\n",
+   "schritte": [
+    {
+     "titel": "Hausarztpraxis kontaktieren",
+     "text": "Die Hausärztin/der Hausarzt kann eine erste Einschätzung geben, körperliche Ursachen ausschließen und ggf. selbst behandeln oder überweisen."
+    },
+    {
+     "titel": "Psychotherapeutische Sprechstunde vereinbaren",
+     "text": "Seit der Reform der Psychotherapie-Richtlinie 2017 ist vor jeder Richtlinientherapie eine Sprechstunde bei einer Psychotherapeutin/einem Psychotherapeuten Pflicht – ein Überweisungsschein ist dafür nicht nötig (Direktzugang)."
+    },
+    {
+     "titel": "116117 anrufen oder online nutzen",
+     "text": "Die Terminservicestelle der Kassenärztlichen Vereinigungen vermittelt Termine bei Sprechstunde, Akutbehandlung und Probatorik, wenn Sie selbst keinen Termin finden."
+    },
+    {
+     "titel": "Dringlichkeit angeben",
+     "text": "Bei dringendem Bedarf stellt die Praxis eine Bescheinigung (Formular PTV 11) aus; damit vermittelt die 116117 vorrangig einen Akuttermin."
+    },
+    {
+     "titel": "Alternative Ambulanzen prüfen",
+     "text": "Psychiatrische Institutsambulanzen (PIA) an Kliniken und Hochschulambulanzen von Ausbildungsinstituten nehmen ebenfalls Patientinnen und Patienten auf, teils mit kürzeren Wartezeiten."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "4 Wochen",
+     "was": "Regel-Vermittlungsfrist der 116117 für einen Termin zur psychotherapeutischen Sprechstunde",
+     "grundlage": "Psychotherapie-Richtlinie des G-BA"
+    },
+    {
+     "wert": "2 Wochen",
+     "was": "Vermittlungsfrist der 116117 für eine Akutsprechstunde bei bescheinigtem dringendem Bedarf (Formular PTV 11)",
+     "grundlage": "Psychotherapie-Richtlinie des G-BA"
+    }
+   ],
+   "achtung": [
+    "Für die psychotherapeutische Sprechstunde brauchen Sie keine Überweisung – Sie können sich direkt an eine Praxis wenden (Direktzugang).",
+    "Die Sprechstunde ist noch keine Therapie, sondern eine Erstabklärung; danach folgt ggf. Akutbehandlung oder Probatorik.",
+    "Bringen Sie zur Sprechstunde die elektronische Gesundheitskarte mit; ein Überweisungsschein schadet nicht, ist aber keine Voraussetzung.",
+    "Nicht jede Praxis, die bei der 116117 gelistet ist, hat tatsächlich freie Kapazitäten – parallel selbst in Praxen anfragen erhöht die Chancen."
+   ],
+   "fach_html": "\n<h3>Direktzugang seit 2017</h3>\n<p>Mit der Reform der Psychotherapie-Richtlinie 2017 wurde die psychotherapeutische Sprechstunde als\nPflichtbaustein vor Beginn einer Richtlinientherapie eingeführt. Versicherte können sie ohne vorherige Überweisung\nin Anspruch nehmen (Direktzugang zur Psychotherapie).</p>\n<h3>Aufgabe der Terminservicestellen</h3>\n<p>Die Terminservicestellen (116117) der Kassenärztlichen Vereinigungen sind gesetzlich verpflichtet, Versicherten\ninnerhalb definierter Fristen einen Termin zu vermitteln – für die Sprechstunde in der Regel innerhalb von vier\nWochen, für eine bescheinigte Akutbehandlung innerhalb von zwei Wochen. Vermittelt wird auch außerhalb des\nWohnortbezirks, wenn nötig.</p>\n<h3>Alternative Zugangswege</h3>\n<p>Psychiatrische Institutsambulanzen (PIA, § 118 SGB V) versorgen insbesondere Menschen mit schwereren oder\nkomplexeren Verläufen, die eine ambulante fachärztlich-psychiatrische Behandlung benötigen. Hochschulambulanzen an\nAusbildungsinstituten für Psychotherapie können ebenfalls eine Alternative sein.</p>\n",
+   "zustaendig": [
+    "Hausärztin/Hausarzt",
+    "Psychotherapeutin/Psychotherapeut",
+    "Terminservicestelle 116117 der Kassenärztlichen Vereinigung"
+   ],
+   "belege": [
+    "Psychotherapie-Richtlinie des Gemeinsamen Bundesausschusses (g-ba.de)",
+    "§ 118 SGB V (gesetze-im-internet.de)",
+    "Verbraucherzentrale: Termin beim Facharzt – Vermittlung über 116117 (verbraucherzentrale.de)"
+   ],
+   "siehe_auch": [
+    "ueberblick-hilfe-bei-depression",
+    "therapieplatz-finden",
+    "akutbehandlung-und-krisendienst"
+   ],
+   "stand": "Stand: September 2026 (Nationale VersorgungsLeitlinie/S3-Leitlinie Unipolare Depression, Version 3.0, 2025)."
+  },
+  {
+   "id": "akutbehandlung-und-krisendienst",
+   "kategorie": "akut",
+   "titel": "Akutbehandlung und Krisendienst",
+   "icon": "🚨",
+   "teaser": "Wenn es nicht bis zum nächsten Termin warten kann: Notruf, TelefonSeelsorge, regionale Krisendienste und die psychotherapeutische Akutbehandlung im Überblick.",
+   "schlagworte": [
+    "Krisendienst",
+    "TelefonSeelsorge",
+    "Notruf 112",
+    "Akutbehandlung",
+    "Suizidgedanken",
+    "Sozialpsychiatrischer Dienst"
+   ],
+   "kurz_html": "\n<p>Wenn Sie in diesem Moment an Suizid denken oder sich in akuter Gefahr befinden: Rufen Sie sofort den Notruf <strong>112</strong> oder die TelefonSeelsorge an – kostenlos, anonym, rund um die Uhr: <strong>0800 111 0 111</strong> oder <strong>0800 111 0 222</strong> (telefonseelsorge.de). Sie müssen nicht warten, bis ein Termin frei wird.</p>\n<p>Davon zu unterscheiden ist die <strong>psychotherapeutische Akutbehandlung</strong>: eine kassenärztliche Leistung\nfür Menschen mit dringendem, aber nicht lebensbedrohlichem Behandlungsbedarf, die überbrückend eingesetzt wird, bis\neine reguläre Therapie beginnt. Sie ersetzt keinen Notruf und keine Klinikeinweisung bei akuter Selbstgefährdung.</p>\n",
+   "schritte": [
+    {
+     "titel": "Akute Gefahr sofort melden",
+     "text": "Bei unmittelbarer Suizidgefahr: Notruf 112, TelefonSeelsorge (0800 111 0 111 / 0800 111 0 222) oder direkt die nächste psychiatrische Notaufnahme aufsuchen – rund um die Uhr, ohne Termin."
+    },
+    {
+     "titel": "Regionalen Krisendienst heraussuchen",
+     "text": "Viele Bundesländer und Kommunen betreiben eigene psychiatrische Krisendienste (z. B. Berliner Krisendienst, Krisendienste Bayern) mit telefonischer und teils aufsuchender Hilfe – die Nummer vorher notieren, da die Angebote je nach Wohnort unterschiedlich sind."
+    },
+    {
+     "titel": "Sozialpsychiatrischen Dienst des Gesundheitsamts kontaktieren",
+     "text": "Der Sozialpsychiatrische Dienst berät und vermittelt bei psychischen Krisen, auch ohne akute Lebensgefahr, unabhängig vom Versicherungsstatus."
+    },
+    {
+     "titel": "Akutbehandlung über die Praxis oder 116117 anstoßen",
+     "text": "Für dringenden, aber nicht akut lebensbedrohlichen Bedarf stellt eine Psychotherapeutin/ein Psychotherapeut eine Akutbehandlung bereit oder vermittelt sie über die 116117 (Bescheinigung PTV 11)."
+    },
+    {
+     "titel": "Nachsorge organisieren",
+     "text": "Nach einer akuten Krise sollte zeitnah eine weiterführende Behandlung (Therapieplatz, ggf. Klinikaufenthalt) angeschlossen werden, damit die Krise nicht folgenlos verpufft."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "sofort, keine Frist",
+     "was": "Notruf 112 und TelefonSeelsorge sind jederzeit ohne Wartezeit erreichbar",
+     "grundlage": "–"
+    },
+    {
+     "wert": "2 Wochen",
+     "was": "Vermittlungsfrist der 116117 für eine bescheinigte psychotherapeutische Akutbehandlung",
+     "grundlage": "Psychotherapie-Richtlinie des G-BA"
+    }
+   ],
+   "achtung": [
+    "Psychiatrische Krisendienste sind in Deutschland Ländersache und nicht bundeseinheitlich organisiert – es gibt keine einzige bundesweite Krisendienst-Nummer außer der TelefonSeelsorge und dem Notruf 112.",
+    "Die kassenärztliche „Akutbehandlung“ ist keine Notfallversorgung – bei akuter Selbst- oder Fremdgefährdung immer Notruf oder Notaufnahme nutzen.",
+    "Angehörige dürfen und sollten bei erkennbarer Gefahr selbst den Notruf wählen, auch wenn die betroffene Person das ablehnt.",
+    "Speichern Sie sich die TelefonSeelsorge-Nummer und die Nummer eines regionalen Krisendienstes vorsorglich im Handy, bevor eine Krise eintritt."
+   ],
+   "fach_html": "\n<h3>TelefonSeelsorge</h3>\n<p>Die TelefonSeelsorge ist bundesweit kostenlos, anonym und rund um die Uhr unter 0800 111 0 111 und\n0800 111 0 222 sowie über die europaweit harmonisierte Rufnummer 116 123 erreichbar. Mitarbeitende sind zur\nVerschwiegenheit verpflichtet; ein Anruf führt zu keiner automatischen Weiterleitung an Behörden.</p>\n<h3>Regionale Krisendienste – kein bundeseinheitliches System</h3>\n<p>Psychiatrische Krisendienste werden von Ländern, Bezirken oder Kommunen organisiert und unterscheiden sich in\nErreichbarkeit und Leistungsumfang. Beispiele: die Krisendienste Bayern (rund um die Uhr, 0800 655 3000) oder der\nBerliner Krisendienst. Eine vollständige, aktuelle Übersicht aller Angebote in allen 16 Bundesländern lag dieser\nRecherche nicht vor; im Zweifel bei der Kommune, dem Gesundheitsamt oder der TelefonSeelsorge nach der zuständigen\nStelle vor Ort fragen.</p>\n<h3>Akutbehandlung nach der Psychotherapie-Richtlinie</h3>\n<p>Die Akutbehandlung wurde 2017 als eigenständiger Leistungsbaustein eingeführt, um Wartezeiten bis zum Beginn einer\nregulären Therapie zu überbrücken. Sie umfasst Kurzinterventionen und kann auch ohne vorherige Sprechstunde in\ndringenden Fällen begonnen werden; die Kosten trägt die gesetzliche Krankenversicherung.</p>\n",
+   "zustaendig": [
+    "Rettungsdienst/Notaufnahme (112)",
+    "TelefonSeelsorge",
+    "regionaler psychiatrischer Krisendienst (länderabhängig)",
+    "Sozialpsychiatrischer Dienst des Gesundheitsamts"
+   ],
+   "belege": [
+    "telefonseelsorge.de",
+    "Psychotherapie-Richtlinie des G-BA (g-ba.de)",
+    "Krisendienste Bayern (krisendienste.bayern)",
+    "Berliner Krisendienst (berliner-krisendienst.de)"
+   ],
+   "siehe_auch": [
+    "klinikaufenthalt-und-einweisung",
+    "beratung-anlaufstellen-depression",
+    "angehoerige-von-menschen-mit-depression"
+   ],
+   "stand": "Stand: September 2026 (Nationale VersorgungsLeitlinie/S3-Leitlinie Unipolare Depression, Version 3.0, 2025)."
+  },
+  {
+   "id": "klinikaufenthalt-und-einweisung",
+   "kategorie": "akut",
+   "titel": "Klinikaufenthalt und Einweisung",
+   "icon": "🏥",
+   "teaser": "Freiwillige stationäre Behandlung ist der Regelfall. Eine Unterbringung gegen den eigenen Willen ist eng begrenzt und braucht einen richterlichen Beschluss.",
+   "schlagworte": [
+    "Klinikaufenthalt",
+    "Unterbringung",
+    "PsychKG",
+    "Selbstgefährdung",
+    "Notaufnahme",
+    "Betreuungsgericht"
+   ],
+   "kurz_html": "\n<p>Die weit überwiegende Zahl stationärer Behandlungen bei Depression erfolgt <strong>freiwillig</strong>: Sie\nentscheiden selbst, sich in eine psychiatrische oder psychosomatische Klinik aufnehmen zu lassen, etwa bei schwerer\nSymptomatik, Suizidgedanken oder wenn eine ambulante Behandlung nicht mehr ausreicht. Eine Aufnahme gegen den\neigenen Willen (Unterbringung) ist die Ausnahme und nur unter engen Voraussetzungen möglich.</p>\n<p>Wenn Sie in diesem Moment an Suizid denken oder sich in akuter Gefahr befinden: Rufen Sie sofort den Notruf <strong>112</strong> oder die TelefonSeelsorge an – kostenlos, anonym, rund um die Uhr: <strong>0800 111 0 111</strong> oder <strong>0800 111 0 222</strong> (telefonseelsorge.de). Sie müssen nicht warten, bis ein Termin frei wird.</p>\n",
+   "schritte": [
+    {
+     "titel": "Freiwillige Aufnahme klären",
+     "text": "Hausärztin/Hausarzt, Psychotherapeutin/Psychotherapeut oder die Notaufnahme einer psychiatrischen Klinik können eine Einweisung veranlassen oder Sie direkt aufnehmen."
+    },
+    {
+     "titel": "Kostenübernahme sichern",
+     "text": "Die Krankenhausbehandlung wird von der gesetzlichen Krankenversicherung übernommen; für die Aufnahme reicht in der Regel die Versichertenkarte, eine Einweisung ist hilfreich, aber bei Notfällen nicht zwingend."
+    },
+    {
+     "titel": "Bei Gefahr im Verzug: Notaufnahme statt Warten",
+     "text": "Bei akuter Selbstgefährdung führt der schnellste Weg über den Notruf 112 oder direkt in die Notaufnahme einer psychiatrischen Klinik."
+    },
+    {
+     "titel": "Unterbringung nur als letztes Mittel",
+     "text": "Nur wenn eine erhebliche, gegenwärtige Selbst- oder Fremdgefährdung vorliegt und keine freiwillige Behandlung zustande kommt, kann eine Unterbringung nach dem jeweiligen Landesgesetz (PsychKG) oder – bei rechtlicher Betreuung – nach § 1831 BGB beantragt werden."
+    },
+    {
+     "titel": "Rechte im Unterbringungsverfahren wahrnehmen",
+     "text": "Betroffene haben Anspruch auf eine anwaltliche oder sonstige Verfahrensvertretung und können gegen die Unterbringung Rechtsmittel einlegen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "unverzüglich, spätestens bis zum Ende des folgenden Tages",
+     "was": "Eine vorläufige Unterbringung bei Gefahr im Verzug muss unverzüglich richterlich nachgeprüft werden",
+     "grundlage": "Art. 104 Abs. 2 GG (Grundsatz des Richtervorbehalts bei Freiheitsentziehung)"
+    },
+    {
+     "wert": "landesrechtlich geregelt",
+     "was": "Konkreter Verfahrensablauf der Unterbringung (Zuständigkeit, Fristen im Detail)",
+     "grundlage": "Unterbringungsgesetz/PsychKG des jeweiligen Bundeslandes"
+    }
+   ],
+   "achtung": [
+    "Eine Unterbringung setzt eine konkrete, gegenwärtige Gefahr voraus – bloße Behandlungsbedürftigkeit oder ungewöhnliches Verhalten reichen nicht aus.",
+    "Die Gesetze zur Unterbringung (PsychKG) sind Landesrecht und unterscheiden sich in Bundesländern im Detail – der Grundsatz des Richtervorbehalts gilt aber überall.",
+    "Freiwillige Behandlung hat immer Vorrang vor Unterbringung; Betroffene können eine freiwillige Aufnahme jederzeit widerrufen, außer es liegen zusätzlich die engen Voraussetzungen einer Unterbringung vor.",
+    "Angehörige haben ohne Vorsorgevollmacht oder gerichtlich bestellte Betreuung kein automatisches Recht, über eine Unterbringung oder Behandlung zu entscheiden."
+   ],
+   "fach_html": "\n<h3>Freiwillige Behandlung als Regelfall</h3>\n<p>Rechtsgrundlage für die Krankenhausbehandlung ist § 39 SGB V. Eine Einweisung durch Vertragsärztin/-arzt ist\nüblich, aber bei Notfällen entbehrlich; die Klinik prüft die Aufnahme selbst. Die Kosten trägt die gesetzliche\nKrankenversicherung im Rahmen der Krankenhausbehandlung.</p>\n<h3>Unterbringung nach Landesrecht (PsychKG) und nach BGB</h3>\n<p>Eine Unterbringung gegen den Willen der betroffenen Person ist ein erheblicher Grundrechtseingriff und deshalb an\nstrenge Voraussetzungen gebunden: Es muss aufgrund einer psychischen Erkrankung eine erhebliche gegenwärtige\nSelbstgefährdung (z. B. akute Suizidalität) oder Gefährdung bedeutender Rechtsgüter anderer vorliegen. Die\nöffentlich-rechtliche Unterbringung richtet sich nach dem PsychKG/Unterbringungsgesetz des jeweiligen Bundeslandes\nund wird vom zuständigen Amtsgericht angeordnet. Besteht bereits eine rechtliche Betreuung mit dem Aufgabenkreis\nAufenthaltsbestimmung, kommt daneben eine zivilrechtliche Unterbringung nach § 1831 BGB in Betracht – auch hier ist\ngrundsätzlich eine gerichtliche Genehmigung erforderlich.</p>\n<h3>Richtervorbehalt</h3>\n<p>Nach Art. 104 Abs. 2 GG darf über die Zulässigkeit und Fortdauer einer Freiheitsentziehung nur ein Richter oder\neine Richterin entscheiden. Bei Gefahr im Verzug kann vorläufig auch ohne vorherige richterliche Entscheidung\ngehandelt werden; die richterliche Entscheidung ist dann unverzüglich nachzuholen.</p>\n",
+   "zustaendig": [
+    "Psychiatrische/psychosomatische Klinik",
+    "Amtsgericht (Betreuungsgericht) bei Unterbringung",
+    "Sozialpsychiatrischer Dienst"
+   ],
+   "belege": [
+    "§ 39 SGB V (gesetze-im-internet.de)",
+    "§ 1831 BGB (gesetze-im-internet.de)",
+    "Art. 104 GG (gesetze-im-internet.de)",
+    "PsychKG/Unterbringungsgesetze der Länder (Landesrecht)"
+   ],
+   "siehe_auch": [
+    "akutbehandlung-und-krisendienst",
+    "angehoerige-von-menschen-mit-depression",
+    "kostenuebernahme-psychotherapie"
+   ],
+   "stand": "Stand: September 2026 (Nationale VersorgungsLeitlinie/S3-Leitlinie Unipolare Depression, Version 3.0, 2025)."
+  },
+  {
+   "id": "therapieplatz-finden",
+   "kategorie": "behandlung",
+   "titel": "Therapieplatz finden",
+   "icon": "🔎",
+   "teaser": "Wartezeiten auf einen Psychotherapieplatz sind ein bekanntes Problem – diese Seite zeigt, welche Wege es gibt und was Wartezeiten-Studien tatsächlich zeigen.",
+   "schlagworte": [
+    "Therapieplatz",
+    "Wartezeit",
+    "Psychotherapeutensuche",
+    "116117",
+    "Hochschulambulanz",
+    "BPtK-Studie"
+   ],
+   "kurz_html": "\n<p>Einen Therapieplatz zu finden, kann dauern – Sie erhöhen Ihre Chancen deutlich, wenn Sie mehrere Wege gleichzeitig\nnutzen: die Terminservicestelle 116117, die Online-Psychotherapeutensuche der Landeskammern, direkte Anfragen bei\nmehreren Praxen sowie Ambulanzen. Je flexibler Sie bei Ort, Verfahren und Therapeutin/Therapeut sind, desto schneller\nklappt es in der Regel.</p>\n",
+   "schritte": [
+    {
+     "titel": "Mehrgleisig suchen",
+     "text": "Rufen Sie mehrere Praxen aus der Psychotherapeutensuche der Landeskammer an, nutzen Sie parallel die 116117 und fragen Sie bei Ambulanzen nach."
+    },
+    {
+     "titel": "Auf Wartelisten eintragen lassen",
+     "text": "Auch wenn eine Praxis aktuell keine freien Plätze hat, lohnt sich die Bitte um einen Platz auf der Warteliste – und ein späterer erneuter Anruf."
+    },
+    {
+     "titel": "Akutbehandlung als Überbrückung nutzen",
+     "text": "Bis ein regulärer Therapieplatz frei wird, kann eine Akutbehandlung die Zeit überbrücken (siehe eigene Themenseite zur Akutbehandlung)."
+    },
+    {
+     "titel": "Flexibel bei Verfahren und Ort bleiben",
+     "text": "Wer sich auf ein bestimmtes Therapieverfahren oder eine bestimmte Person festlegt, wartet nach Studienlage deutlich länger als bei Offenheit für mehrere Optionen."
+    },
+    {
+     "titel": "Online-Angebote prüfen",
+     "text": "Videosprechstunden und vom G-BA anerkannte digitale Gesundheitsanwendungen (DiGA) können ergänzend genutzt werden, ersetzen aber keine Behandlung bei schwerer Symptomatik."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "2 bzw. 4 Wochen",
+     "was": "Vermittlungsfristen der 116117 für Akutsprechstunde bzw. reguläre Sprechstunde",
+     "grundlage": "Psychotherapie-Richtlinie des G-BA"
+    },
+    {
+     "wert": "keine gesetzliche Frist",
+     "was": "Für den Beginn der eigentlichen Richtlinientherapie nach der Sprechstunde gibt es keine gesetzlich fixierte Höchstwartezeit",
+     "grundlage": "–"
+    }
+   ],
+   "achtung": [
+    "Nach einer BPtK-Auswertung von Abrechnungsdaten (Datenbasis 2019) betrug die durchschnittliche Wartezeit vom Erstkontakt bis zum Therapiebeginn rund 142 Tage bundesweit – ein Studienwert mit teils erheblichen regionalen Unterschieden, keine tagesaktuelle Messung.",
+    "Wer bei derselben Person Sprechstunde und Therapie erhält, wartet laut BPtK-Auswertungen im Median deutlich kürzer als wer mehrere Praxen durchlaufen muss.",
+    "Ländliche Regionen haben teils spürbar längere Wartezeiten als Großstädte – die genaue Differenz variiert je nach Region und Studie.",
+    "Eine abgelehnte Anfrage bei einer Praxis ist normal und kein Hinweis darauf, dass keine Behandlung möglich ist – weitersuchen lohnt sich."
+   ],
+   "fach_html": "\n<h3>Was die BPtK-Studien zeigen</h3>\n<p>Die Bundespsychotherapeutenkammer (BPtK) hat mehrfach Abrechnungsdaten ausgewertet. Eine vielzitierte Auswertung\nkam auf eine durchschnittliche Wartezeit von rund 142 Tagen vom Erstkontakt bis zum Beginn der Therapie\n(Datengrundlage: Erstkontakte im ersten Quartal 2019); rund 40 % der Patientinnen und Patienten konnten frühestens im\ndritten Quartal beginnen, mehr als 10 % warteten ein Jahr oder länger. Eine weitere BPtK-Untersuchung zu Bayern zeigt\nzusätzlich deutliche Stadt-Land-Unterschiede. Diese Zahlen sind Studienergebnisse mit einem bestimmten\nErhebungszeitraum, keine Echtzeitstatistik für September 2026 – aktuellere, flächendeckend vergleichbare Zahlen\nlagen dieser Recherche nicht vor.</p>\n<h3>Warum Wartezeiten so unterschiedlich ausfallen</h3>\n<p>Die Kassenärztlichen Vereinigungen planen die Zahl der Kassensitze für Psychotherapie nach einer\nBedarfsplanungs-Richtlinie, die von Fachverbänden seit Jahren als nicht ausreichend kritisiert wird. Wartezeiten\nhängen zusätzlich von Region, Therapieverfahren und der Bereitschaft ab, mehrere Anlaufstellen zu nutzen.</p>\n",
+   "zustaendig": [
+    "Psychotherapeutin/Psychotherapeut",
+    "Terminservicestelle 116117",
+    "Landespsychotherapeutenkammer (Therapeutensuche)"
+   ],
+   "belege": [
+    "BPtK-Pressemitteilung „Psychisch Kranke warten 142 Tage auf eine Psychotherapie“ (bptk.de)",
+    "BPtK „Lange Wartezeiten auf eine Psychotherapie in ländlichen Regionen Bayerns“ (bptk.de)",
+    "Psychotherapie-Richtlinie des G-BA (g-ba.de)"
+   ],
+   "siehe_auch": [
+    "erste-anlaufstellen-und-hausarzt",
+    "kostenuebernahme-psychotherapie",
+    "akutbehandlung-und-krisendienst"
+   ],
+   "stand": "Stand: September 2026 (Nationale VersorgungsLeitlinie/S3-Leitlinie Unipolare Depression, Version 3.0, 2025)."
+  },
+  {
+   "id": "kostenuebernahme-psychotherapie",
+   "kategorie": "behandlung",
+   "titel": "Kostenübernahme für Psychotherapie",
+   "icon": "💳",
+   "teaser": "Sprechstunde, Akutbehandlung, Probatorik, Antrag: So läuft die Kostenübernahme durch die gesetzliche Krankenversicherung ab – und was Sie selbst dafür tun müssen.",
+   "schlagworte": [
+    "Kostenübernahme",
+    "Probatorische Sitzungen",
+    "Kurzzeittherapie",
+    "Langzeittherapie",
+    "Gutachterverfahren",
+    "Genehmigungsfiktion"
+   ],
+   "kurz_html": "\n<p>Ambulante Psychotherapie ist eine Regelleistung der gesetzlichen Krankenversicherung (GKV). Der Ablauf ist\ngesetzlich in mehrere Schritte gegliedert: Sprechstunde, ggf. Akutbehandlung, probatorische Sitzungen und – erst\ndanach – die eigentliche Richtlinientherapie mit Antrag bei der Krankenkasse. Ein aufwendiges Gutachterverfahren wie\nfrüher ist nur noch in wenigen Fällen nötig.</p>\n",
+   "schritte": [
+    {
+     "titel": "Sprechstunde wahrnehmen",
+     "text": "Mindestens ein Termin in der psychotherapeutischen Sprechstunde ist Voraussetzung, bevor Akutbehandlung, Probatorik oder Therapie beginnen können."
+    },
+    {
+     "titel": "Probatorische Sitzungen absolvieren",
+     "text": "Erwachsene nehmen zwischen zwei und vier probatorische Sitzungen wahr; sie klären Diagnose, Behandlungsbedarf und die persönliche Passung mit der Therapeutin/dem Therapeuten."
+    },
+    {
+     "titel": "Antrag auf Kostenübernahme stellen",
+     "text": "Die Praxis empfiehlt frühestens ab der zweiten probatorischen Sitzung, den Antrag auf Kostenübernahme bei der Krankenkasse zu stellen; bei Kurzzeittherapie reicht meist eine formlose Anzeige, bei Langzeittherapie ein anonymisierter Bericht an eine Gutachterin/einen Gutachter."
+    },
+    {
+     "titel": "Entscheidung der Krankenkasse abwarten",
+     "text": "Die Krankenkasse muss innerhalb von drei Wochen entscheiden, bei Einschaltung des Gutachterverfahrens innerhalb von fünf Wochen – reagiert sie nicht rechtzeitig, gilt der Antrag als genehmigt."
+    },
+    {
+     "titel": "Behandlung beginnen und ggf. verlängern",
+     "text": "Kurzzeittherapie und Langzeittherapie haben unterschiedliche Stundenkontingente je nach Therapieverfahren; reicht das bewilligte Kontingent nicht aus, kann eine Verlängerung beantragt werden."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "3 Wochen",
+     "was": "Frist der Krankenkasse zur Entscheidung über einen Leistungsantrag ohne Gutachterbeteiligung",
+     "grundlage": "§ 13 Abs. 3a SGB V"
+    },
+    {
+     "wert": "5 Wochen",
+     "was": "Frist der Krankenkasse zur Entscheidung, wenn ein Gutachterverfahren nötig ist",
+     "grundlage": "§ 13 Abs. 3a SGB V"
+    },
+    {
+     "wert": "Genehmigungsfiktion",
+     "was": "Ohne rechtzeitige Entscheidung und ohne rechtzeitige Mitteilung eines hinreichenden Grundes gilt die Leistung als genehmigt",
+     "grundlage": "§ 13 Abs. 3a Satz 6 SGB V"
+    }
+   ],
+   "achtung": [
+    "Ohne die vorgeschriebene Sprechstunde und ggf. Probatorik übernimmt die Kasse die Richtlinientherapie in der Regel nicht.",
+    "Kurzzeittherapie umfasst nach der Psychotherapie-Richtlinie zwei Kontingente von je 12 Therapieeinheiten (insgesamt 24); die Kontingente der Langzeittherapie unterscheiden sich je nach Verfahren (Verhaltenstherapie, tiefenpsychologisch fundierte oder analytische Psychotherapie) und sind hier nur als Rahmen genannt – die genauen, verfahrensspezifischen Höchstgrenzen regelt die Psychotherapie-Richtlinie des G-BA im Detail.",
+    "Nur Psychotherapeutinnen/Psychotherapeuten mit Kassensitz (Zulassung) rechnen direkt mit der Krankenkasse ab; ohne Kassensitz ist ein gesondertes Kostenerstattungsverfahren nötig, das an Voraussetzungen geknüpft ist.",
+    "Ein bewilligtes Kontingent verfällt nicht sofort bei Therapeutenwechsel, muss aber neu beantragt bzw. übertragen werden – klären Sie das frühzeitig mit der neuen Praxis."
+   ],
+   "fach_html": "\n<h3>Ablauf nach der Psychotherapie-Richtlinie</h3>\n<p>Seit der Reform 2017 gliedert sich die ambulante Psychotherapie in: psychotherapeutische Sprechstunde (mindestens\nein Termin), bei Bedarf Akutbehandlung, probatorische Sitzungen (bei Erwachsenen 2 bis 4) und schließlich die\nRichtlinientherapie (Kurzzeit- oder Langzeittherapie). Für die Richtlinientherapie ist ein Antrag bei der\nKrankenkasse erforderlich.</p>\n<h3>Stundenkontingente</h3>\n<p>Kurzzeittherapie ist in zwei Abschnitte von je 12 Therapieeinheiten gegliedert (KZT 1 und KZT 2, zusammen 24\nEinheiten), für die kein Gutachterverfahren nötig ist. Langzeittherapie hat je nach Verfahren unterschiedliche\nRegelkontingente und Ausnahmegrenzen; bereits genutzte Kurzzeittherapie-Stunden werden auf eine anschließende\nLangzeittherapie angerechnet. Für die genauen, verfahrensspezifischen Zahlen ist die aktuelle Psychotherapie-\nRichtlinie des G-BA maßgeblich.</p>\n<h3>Gutachterverfahren</h3>\n<p>Seit April 2017 ist das Gutachterverfahren auf die Langzeittherapie beschränkt und erfolgt anonymisiert: Die\nPraxis reicht einen Bericht ohne Namen ein, eine unabhängige Gutachterin/ein unabhängiger Gutachter prüft die\nNotwendigkeit im Auftrag der Krankenkasse.</p>\n<h3>Genehmigungsfiktion</h3>\n<p>Entscheidet die Krankenkasse nicht innerhalb der gesetzlichen Frist (§ 13 Abs. 3a SGB V) und teilt sie auch keinen\nhinreichenden Grund für eine Verzögerung mit, gilt die beantragte Leistung als genehmigt.</p>\n",
+   "zustaendig": [
+    "Gesetzliche Krankenversicherung (Krankenkasse)",
+    "Psychotherapeutin/Psychotherapeut mit Kassenzulassung"
+   ],
+   "belege": [
+    "Psychotherapie-Richtlinie des Gemeinsamen Bundesausschusses (g-ba.de)",
+    "§ 13 Abs. 3a SGB V (gesetze-im-internet.de)",
+    "KBV – Psychotherapie: Fragen und Antworten (kbv.de)"
+   ],
+   "siehe_auch": [
+    "therapieplatz-finden",
+    "medikamentoese-behandlung-grundlagen",
+    "erste-anlaufstellen-und-hausarzt"
+   ],
+   "stand": "Stand: September 2026 (Nationale VersorgungsLeitlinie/S3-Leitlinie Unipolare Depression, Version 3.0, 2025)."
+  },
+  {
+   "id": "medikamentoese-behandlung-grundlagen",
+   "kategorie": "behandlung",
+   "titel": "Medikamentöse Behandlung: Grundlagen",
+   "icon": "💊",
+   "teaser": "Organisatorisches und Rechtliches rund um Antidepressiva – keine Dosierungsempfehlungen. Für alle medizinischen Fragen ist Ihre Ärztin/Ihr Arzt zuständig.",
+   "schlagworte": [
+    "Antidepressiva",
+    "Zuzahlung",
+    "Belastungsgrenze",
+    "Kombinationstherapie",
+    "Aufklärungspflicht"
+   ],
+   "kurz_html": "\n<p>Diese Seite behandelt ausschließlich organisatorische und rechtliche Aspekte einer medikamentösen Behandlung –\nkeine Dosierungen oder medizinischen Empfehlungen im Einzelfall. Über Nutzen, Risiken und die richtige Dosierung\neines Medikaments entscheiden ausschließlich Sie gemeinsam mit Ihrer Ärztin/Ihrem Arzt.</p>\n<p>Medikamente können Teil der Behandlung sein, insbesondere bei mittelgradiger und schwerer Depression, oft in\nKombination mit Psychotherapie. Ob und welches Medikament sinnvoll ist, ist eine medizinische Entscheidung, die Sie\ngemeinsam mit einer Ärztin/einem Arzt treffen – niemand ist verpflichtet, Medikamente zu nehmen.</p>\n",
+   "schritte": [
+    {
+     "titel": "Ärztliches Gespräch führen",
+     "text": "Nur Ärztinnen/Ärzte (Hausarzt oder Fachärztin/Facharzt für Psychiatrie) dürfen Antidepressiva verordnen; besprechen Sie offen Vorerkrankungen und andere Medikamente."
+    },
+    {
+     "titel": "Kassenrezept einlösen",
+     "text": "Verordnete Medikamente werden von der gesetzlichen Krankenversicherung übernommen; in der Apotheke fällt eine gesetzliche Zuzahlung an."
+    },
+    {
+     "titel": "Wechselwirkungen offenlegen",
+     "text": "Teilen Sie jeder behandelnden Praxis und der Apotheke alle eingenommenen Medikamente mit, auch freiverkäufliche und pflanzliche Präparate."
+    },
+    {
+     "titel": "Wirkung und Nebenwirkungen zurückmelden",
+     "text": "Antidepressiva wirken häufig nicht sofort; regelmäßige ärztliche Kontrolltermine dienen dazu, Wirkung und Verträglichkeit zu besprechen."
+    },
+    {
+     "titel": "Änderungen nur ärztlich begleitet vornehmen",
+     "text": "Dosisänderungen oder ein Absetzen sollten Sie ausschließlich in Absprache mit der verordnenden Praxis vornehmen, nicht eigenständig."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "keine gesetzliche Frist",
+     "was": "Für Beginn, Dauer oder Beendigung einer medikamentösen Behandlung gibt es keine gesetzliche Frist – das ist eine medizinische Entscheidung im Einzelfall",
+     "grundlage": "–"
+    },
+    {
+     "wert": "2 % / 1 % des Bruttoeinkommens",
+     "was": "Jährliche Belastungsgrenze für Zuzahlungen zu Medikamenten (1 % bei chronisch Kranken); darüber hinaus befreit die Krankenkasse auf Antrag",
+     "grundlage": "§ 62 SGB V"
+    }
+   ],
+   "achtung": [
+    "Antidepressiva eigenmächtig abzusetzen kann zu Beschwerden führen – jede Änderung gehört in ärztliche Hände.",
+    "Depression allein mit Medikamenten zu behandeln, ist laut Leitlinie bei mittelgradiger und schwerer Ausprägung oft nicht so wirksam wie eine Kombination mit Psychotherapie.",
+    "Wechselwirkungen mit Alkohol oder anderen Medikamenten können relevant sein – das gehört ins ärztliche Gespräch, nicht in eigene Internetrecherche.",
+    "Die gesetzliche Zuzahlung (in der Regel 10 % des Packungspreises, mindestens 5 €, höchstens 10 €, nie mehr als der Packungspreis) gilt auch für Antidepressiva auf Kassenrezept."
+   ],
+   "fach_html": "\n<h3>Kombinationstherapie nach Leitlinie</h3>\n<p>Die Nationale VersorgungsLeitlinie/S3-Leitlinie Unipolare Depression empfiehlt medikamentöse Behandlung\ninsbesondere ab mittelgradiger Symptomatik, bei schwerer Depression häufig in Kombination mit Psychotherapie. Die\nEntscheidung für oder gegen ein Medikament ist immer eine individuelle Nutzen-Risiko-Abwägung zwischen Patientin/\nPatient und Behandlerin/Behandler (partizipative Entscheidungsfindung).</p>\n<h3>Zuzahlung und Belastungsgrenze</h3>\n<p>Für verschreibungspflichtige Medikamente auf Kassenrezept gilt gesetzlich eine Zuzahlung von 10 % des\nApothekenverkaufspreises, mindestens 5 €, höchstens 10 € je Packung, nie mehr als der Preis der Packung selbst\n(§ 61 SGB V). Übersteigen die jährlichen Zuzahlungen 2 % des Bruttoeinkommens (bei chronisch Kranken 1 %), befreit\ndie Krankenkasse auf Antrag von weiteren Zuzahlungen im laufenden Kalenderjahr (§ 62 SGB V).</p>\n<h3>Aufklärung und Selbstbestimmung</h3>\n<p>Vor jeder Behandlung ist eine ärztliche Aufklärung über Nutzen, Risiken und Alternativen erforderlich (§ 630e\nBGB); eine Behandlung darf grundsätzlich nur mit Einwilligung der Patientin/des Patienten erfolgen.</p>\n",
+   "zustaendig": [
+    "Hausärztin/Hausarzt",
+    "Fachärztin/Facharzt für Psychiatrie und Psychotherapie",
+    "Apotheke"
+   ],
+   "belege": [
+    "Nationale VersorgungsLeitlinie/S3-Leitlinie Unipolare Depression, Version 3.0 (register.awmf.org)",
+    "§§ 61, 62 SGB V (gesetze-im-internet.de)",
+    "§ 630e BGB (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "kostenuebernahme-psychotherapie",
+    "ueberblick-hilfe-bei-depression",
+    "krankschreibung-bei-depression"
+   ],
+   "stand": "Stand: September 2026 (Nationale VersorgungsLeitlinie/S3-Leitlinie Unipolare Depression, Version 3.0, 2025)."
+  },
+  {
+   "id": "krankschreibung-bei-depression",
+   "kategorie": "arbeit",
+   "titel": "Krankschreibung bei Depression",
+   "icon": "📄",
+   "teaser": "Arbeitsunfähigkeit wegen Depression: Meldepflichten, Entgeltfortzahlung, Krankengeld und was Ihr Arbeitgeber erfahren darf.",
+   "schlagworte": [
+    "Arbeitsunfähigkeit",
+    "eAU",
+    "Entgeltfortzahlung",
+    "Krankengeld",
+    "Aussteuerung",
+    "Diagnose"
+   ],
+   "kurz_html": "\n<p>Auch eine Depression macht arbeitsunfähig – rechtlich gilt dabei grundsätzlich dasselbe wie bei jeder anderen\nErkrankung. Ihre Ärztin/Ihr Arzt stellt eine Arbeitsunfähigkeitsbescheinigung (AU) aus, die seit 2023 in der Regel\nelektronisch (eAU) direkt an die Krankenkasse und auf Abruf an den Arbeitgeber übermittelt wird. Sie müssen Ihrem\nArbeitgeber nur die Arbeitsunfähigkeit mitteilen, nicht die Diagnose.</p>\n",
+   "schritte": [
+    {
+     "titel": "Arbeitsunfähigkeit ärztlich feststellen lassen",
+     "text": "Hausärztin/Hausarzt oder Psychotherapeutin/Psychotherapeut können eine AU-Bescheinigung ausstellen."
+    },
+    {
+     "titel": "Arbeitgeber unverzüglich informieren",
+     "text": "Teilen Sie die Arbeitsunfähigkeit und ihre voraussichtliche Dauer unverzüglich mit – spätestens vor Ablauf des dritten Kalendertags, sofern der Arbeitgeber keine kürzere Frist verlangt."
+    },
+    {
+     "titel": "Entgeltfortzahlung erhalten",
+     "text": "In den ersten sechs Wochen einer Arbeitsunfähigkeit zahlt der Arbeitgeber das Entgelt in voller Höhe weiter, sofern das Arbeitsverhältnis bereits mindestens vier Wochen besteht."
+    },
+    {
+     "titel": "Krankengeld beantragen",
+     "text": "Ab der siebten Woche zahlt die Krankenkasse Krankengeld; melden Sie sich lückenlos weiter arbeitsunfähig, damit der Anspruch nicht unterbrochen wird."
+    },
+    {
+     "titel": "Höchstdauer im Blick behalten",
+     "text": "Wird die Höchstdauer des Krankengeldes erreicht, sollten Sie sich frühzeitig beraten lassen (z. B. zu Reha oder Erwerbsminderungsrente), bevor die Zahlung endet."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "3. Kalendertag",
+     "was": "Spätester Zeitpunkt, um dem Arbeitgeber die Arbeitsunfähigkeit mitzuteilen (der Arbeitgeber kann eine frühere Bescheinigung verlangen)",
+     "grundlage": "§ 5 Abs. 1 EFZG"
+    },
+    {
+     "wert": "6 Wochen",
+     "was": "Dauer der Entgeltfortzahlung durch den Arbeitgeber bei derselben Krankheit",
+     "grundlage": "§ 3 EFZG"
+    },
+    {
+     "wert": "78 Wochen innerhalb von 3 Jahren",
+     "was": "Höchstdauer des Krankengeldes wegen derselben Krankheit (danach „Aussteuerung“)",
+     "grundlage": "§ 48 SGB V"
+    }
+   ],
+   "achtung": [
+    "Sie müssen Ihrem Arbeitgeber nur mitteilen, dass Sie arbeitsunfähig sind – die Diagnose „Depression“ geht ihn grundsätzlich nichts an.",
+    "Lücken zwischen zwei Krankschreibungen können den Krankengeldanspruch gefährden – lassen Sie sich lückenlos weiter krankschreiben, wenn die Arbeitsunfähigkeit andauert.",
+    "Seit Einführung der eAU entfällt für gesetzlich Versicherte meist die Pflicht, dem Arbeitgeber selbst eine Papierbescheinigung vorzulegen – der Arbeitgeber ruft die Daten elektronisch ab; bei privat Versicherten und in Ausnahmefällen gilt das nicht automatisch.",
+    "Krankengeld wird nur gezahlt, wenn rechtzeitig eine weitere Arbeitsunfähigkeit festgestellt und der Krankenkasse gemeldet wird – Fristen dafür sollten Sie mit der Krankenkasse klären."
+   ],
+   "fach_html": "\n<h3>Meldepflicht und Diagnoseschutz</h3>\n<p>§ 5 Abs. 1 EFZG verpflichtet Arbeitnehmerinnen und Arbeitnehmer, dem Arbeitgeber die Arbeitsunfähigkeit und deren\nvoraussichtliche Dauer unverzüglich mitzuteilen, spätestens am dritten Kalendertag eine ärztliche Bescheinigung\nvorliegen zu haben, sofern der Arbeitgeber nichts anderes (auch Kürzeres) verlangt. Die Diagnose selbst ist von der\nBescheinigung nicht erfasst und muss dem Arbeitgeber nicht mitgeteilt werden.</p>\n<h3>Entgeltfortzahlung und Krankengeld</h3>\n<p>Nach § 3 EFZG zahlt der Arbeitgeber bei krankheitsbedingter Arbeitsunfähigkeit sechs Wochen lang das Entgelt\nfort, wenn das Arbeitsverhältnis zu diesem Zeitpunkt bereits vier Wochen ununterbrochen bestanden hat. Danach zahlt\ndie gesetzliche Krankenversicherung Krankengeld in Höhe von 70 % des Bruttoentgelts, höchstens 90 % des\nNettoentgelts (§§ 44 ff. SGB V), für bis zu 78 Wochen innerhalb von drei Jahren wegen derselben Krankheit\n(„Blockfrist“, § 48 SGB V). Nach Ablauf dieser Frist („Aussteuerung“) endet der Krankengeldanspruch wegen dieser\nKrankheit; ein neuer Anspruch wegen derselben Krankheit entsteht erst nach Ablauf der Blockfrist und wenn\nzwischenzeitlich mindestens sechs Monate keine Arbeitsunfähigkeit deswegen bestand.</p>\n<h3>Elektronische Arbeitsunfähigkeitsbescheinigung (eAU)</h3>\n<p>Seit 2023 übermitteln Arztpraxen die AU-Daten elektronisch an die Krankenkasse; Arbeitgeber rufen die für sie\nrelevanten Daten elektronisch ab. Das ändert nichts an der Mitteilungspflicht der/des Beschäftigten, reduziert aber\nden Aufwand für die Vorlage von Papierbescheinigungen bei gesetzlich Versicherten.</p>\n",
+   "zustaendig": [
+    "Behandelnde Ärztin/behandelnder Arzt",
+    "Arbeitgeber (Entgeltfortzahlung)",
+    "Krankenkasse (Krankengeld)"
+   ],
+   "belege": [
+    "§ 5, § 3 EFZG (gesetze-im-internet.de)",
+    "§§ 44–48 SGB V (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "wiedereingliederung-nach-depression",
+    "depression-und-arbeitsrecht",
+    "erwerbsminderung-bei-depression"
+   ],
+   "stand": "Stand: September 2026 (Nationale VersorgungsLeitlinie/S3-Leitlinie Unipolare Depression, Version 3.0, 2025)."
+  },
+  {
+   "id": "wiedereingliederung-nach-depression",
+   "kategorie": "arbeit",
+   "titel": "Wiedereingliederung nach Depression",
+   "icon": "🔄",
+   "teaser": "Stufenweise Wiedereingliederung (Hamburger Modell) und das betriebliche Eingliederungsmanagement (BEM) helfen beim Wiedereinstieg nach längerer Erkrankung.",
+   "schlagworte": [
+    "Hamburger Modell",
+    "Stufenweise Wiedereingliederung",
+    "BEM",
+    "Betriebliches Eingliederungsmanagement",
+    "§ 167 SGB IX"
+   ],
+   "kurz_html": "\n<p>Nach einer längeren Arbeitsunfähigkeit müssen Sie nicht von heute auf morgen wieder voll einsteigen. Die\nstufenweise Wiedereingliederung („Hamburger Modell“) erhöht die Arbeitszeit schrittweise nach ärztlichem Plan,\nwährend Sie weiterhin als arbeitsunfähig gelten. Unabhängig davon muss Ihnen der Arbeitgeber ab sechs Wochen\nArbeitsunfähigkeit ein betriebliches Eingliederungsmanagement (BEM) anbieten.</p>\n",
+   "schritte": [
+    {
+     "titel": "Ärztlichen Wiedereingliederungsplan erstellen lassen",
+     "text": "Behandelnde Ärztin/behandelnder Arzt legt gemeinsam mit Ihnen einen Stufenplan fest (z. B. anfangs wenige Stunden täglich, schrittweise Steigerung)."
+    },
+    {
+     "titel": "Zustimmung von Arbeitgeber und Kostenträger einholen",
+     "text": "Arbeitgeber und der zuständige Kostenträger (Krankenkasse bei Krankengeldbezug, Rentenversicherung bei Reha-Nachsorge) müssen dem Plan zustimmen."
+    },
+    {
+     "titel": "BEM-Angebot prüfen",
+     "text": "Ab mehr als sechs Wochen Arbeitsunfähigkeit (ununterbrochen oder wiederholt) innerhalb von zwölf Monaten muss der Arbeitgeber ein BEM anbieten – die Teilnahme ist freiwillig."
+    },
+    {
+     "titel": "Am BEM-Gespräch teilnehmen (oder ablehnen)",
+     "text": "Im BEM werden gemeinsam Möglichkeiten besprochen, wie die Arbeitsunfähigkeit überwunden und künftigen Ausfällen vorgebeugt werden kann – Ablehnung darf keine Nachteile zur Folge haben."
+    },
+    {
+     "titel": "Wiedereingliederung abschließen und nachhalten",
+     "text": "Am Ende der Stufenweisen Wiedereingliederung steht in der Regel die volle Rückkehr in den Beruf; bei Bedarf können Anpassungen des Arbeitsplatzes über das BEM weiterverfolgt werden."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "über 6 Wochen in 12 Monaten",
+     "was": "Schwelle, ab der der Arbeitgeber ein BEM anbieten muss (ununterbrochen oder durch mehrere Zeiten der Arbeitsunfähigkeit)",
+     "grundlage": "§ 167 Abs. 2 SGB IX"
+    },
+    {
+     "wert": "keine gesetzliche Frist",
+     "was": "Für Dauer und Stufenplan der Wiedereingliederung gibt es keine feste gesetzliche Frist – das legt die Ärztin/der Arzt individuell fest",
+     "grundlage": "§ 44 SGB IX / § 74 SGB V"
+    }
+   ],
+   "achtung": [
+    "Während der stufenweisen Wiedereingliederung gelten Sie weiterhin als arbeitsunfähig – Sie erhalten in dieser Zeit in der Regel weiter Krankengeld oder Übergangsgeld, kein volles reguläres Gehalt.",
+    "Die Teilnahme am BEM ist freiwillig; eine Ablehnung darf arbeitsrechtlich nicht nachteilig gegen Sie verwendet werden.",
+    "Ein BEM-Angebot ist keine automatische Kündigungssperre – es soll aber helfen, Kündigungen wegen krankheitsbedingter Fehlzeiten zu vermeiden, und wird in Kündigungsschutzprozessen von Gerichten häufig geprüft.",
+    "Ohne Zustimmung des Arbeitgebers zur konkreten Stundenplanung kommt eine stufenweise Wiedereingliederung praktisch nicht zustande – klären Sie das frühzeitig."
+   ],
+   "fach_html": "\n<h3>Stufenweise Wiedereingliederung (Hamburger Modell)</h3>\n<p>Rechtsgrundlage ist je nach Kostenträger § 74 SGB V (während Krankengeldbezugs) oder § 44 SGB IX (im Anschluss an\neine medizinische Rehabilitation, Übergangsgeld). Die Ärztin/der Arzt erstellt einen individuellen Plan mit\nansteigender täglicher Arbeitszeit; die betroffene Person bleibt während der gesamten Maßnahme arbeitsunfähig\ngemeldet. Arbeitgeber und Kostenträger müssen zustimmen; es entsteht kein reguläres Arbeitsverhältnis mit vollem\nEntgeltanspruch für die reduzierte Arbeitszeit.</p>\n<h3>Betriebliches Eingliederungsmanagement (§ 167 Abs. 2 SGB IX)</h3>\n<p>Sind Beschäftigte innerhalb eines Jahres länger als sechs Wochen ununterbrochen oder wiederholt arbeitsunfähig,\nmuss der Arbeitgeber mit Zustimmung und Beteiligung der betroffenen Person klären, wie die Arbeitsunfähigkeit\nüberwunden und mit welchen Leistungen oder Hilfen erneuter Arbeitsunfähigkeit vorgebeugt und der Arbeitsplatz\nerhalten werden kann. Die sechs Wochen entsprechen 42 Kalendertagen; alle Fehlzeiten wegen Krankheit werden\nzusammengerechnet. Das BEM gilt für alle Beschäftigten, nicht nur für Menschen mit Schwerbehinderung.</p>\n<h3>Bezug zum Kündigungsschutz</h3>\n<p>Ein unterlassenes oder unzureichendes BEM-Angebot des Arbeitgebers macht eine spätere krankheitsbedingte\nKündigung nicht automatisch unwirksam, wird aber von Arbeitsgerichten regelmäßig im Rahmen der\nVerhältnismäßigkeitsprüfung berücksichtigt.</p>\n",
+   "zustaendig": [
+    "Arbeitgeber (BEM anbieten)",
+    "Behandelnde Ärztin/behandelnder Arzt (Stufenplan)",
+    "Krankenkasse oder Rentenversicherung (Kostenträger)"
+   ],
+   "belege": [
+    "§ 167 SGB IX (gesetze-im-internet.de)",
+    "§ 74 SGB V (gesetze-im-internet.de)",
+    "§ 44 SGB IX (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "krankschreibung-bei-depression",
+    "depression-und-arbeitsrecht",
+    "erwerbsminderung-bei-depression"
+   ],
+   "stand": "Stand: September 2026 (Nationale VersorgungsLeitlinie/S3-Leitlinie Unipolare Depression, Version 3.0, 2025)."
+  },
+  {
+   "id": "depression-und-arbeitsrecht",
+   "kategorie": "arbeit",
+   "titel": "Depression und Arbeitsrecht",
+   "icon": "⚖️",
+   "teaser": "Kündigung während einer Depression, Offenbarungspflichten und Diskriminierungsschutz: die wichtigsten arbeitsrechtlichen Grundfragen.",
+   "schlagworte": [
+    "Kündigungsschutzklage",
+    "Personenbedingte Kündigung",
+    "AGG",
+    "Offenbarungspflicht",
+    "§ 4 KSchG"
+   ],
+   "kurz_html": "\n<p>Eine Depression allein schützt nicht automatisch vor einer Kündigung – umgekehrt darf eine Kündigung aber nicht\nallein deshalb ausgesprochen werden, weil jemand krank ist. Maßgeblich ist, ob und wie stark die Erkrankung die\nbetriebliche Zusammenarbeit auf Dauer beeinträchtigt, nicht die Diagnose selbst.</p>\n",
+   "schritte": [
+    {
+     "titel": "Kündigung genau prüfen (lassen)",
+     "text": "Prüfen Sie Zugang, Form und Frist der Kündigung; lassen Sie sich im Zweifel zeitnah rechtlich beraten (Anwältin/Anwalt für Arbeitsrecht, Gewerkschaft, Beratungsstelle)."
+    },
+    {
+     "titel": "Kündigungsschutzklage rechtzeitig einreichen",
+     "text": "Wollen Sie sich gegen eine Kündigung wehren, muss die Klage innerhalb von drei Wochen nach Zugang beim Arbeitsgericht eingehen."
+    },
+    {
+     "titel": "Diagnose nicht ungefragt offenlegen",
+     "text": "Sie müssen dem Arbeitgeber grundsätzlich nicht mitteilen, dass die Arbeitsunfähigkeit auf einer Depression beruht."
+    },
+    {
+     "titel": "BEM-Angebot und Verhältnismäßigkeit prüfen",
+     "text": "Bei krankheitsbedingter Kündigung prüfen Arbeitsgerichte regelmäßig, ob mildere Mittel (z. B. BEM, Weiterbeschäftigung auf anderem Arbeitsplatz) in Betracht kamen."
+    },
+    {
+     "titel": "Diskriminierungsschutz geltend machen",
+     "text": "Wird eine Depression als (angenommene) Behinderung im Sinne des Allgemeinen Gleichbehandlungsgesetzes (AGG) behandelt und dadurch benachteiligt, kommen Ansprüche nach dem AGG in Betracht."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "3 Wochen",
+     "was": "Frist für die Kündigungsschutzklage ab Zugang der schriftlichen Kündigung",
+     "grundlage": "§ 4 KSchG"
+    },
+    {
+     "wert": "2 Monate",
+     "was": "Regelfrist zur gerichtlichen Geltendmachung von Entschädigungs-/Schadensersatzansprüchen nach dem AGG ab Kenntnis der Benachteiligung",
+     "grundlage": "§ 15 Abs. 4 AGG"
+    }
+   ],
+   "achtung": [
+    "Wird die 3-Wochen-Frist für die Kündigungsschutzklage versäumt, gilt die Kündigung in aller Regel als wirksam – selbst wenn sie eigentlich rechtswidrig gewesen wäre.",
+    "Nicht die Diagnose, sondern die tatsächlichen Auswirkungen auf die Arbeitsfähigkeit sind arbeitsrechtlich relevant – lassen Sie sich nicht dazu drängen, mehr Details preiszugeben als nötig.",
+    "Eine Kündigung „wegen Krankheit“ ist arbeitsrechtlich anspruchsvoll zu begründen (negative Gesundheitsprognose, erhebliche betriebliche Beeinträchtigung, Interessenabwägung) – pauschale Aussagen des Arbeitgebers reichen nicht automatisch aus.",
+    "Bei anerkannter Schwerbehinderung gilt zusätzlich der besondere Kündigungsschutz mit Zustimmungserfordernis des Integrationsamts – siehe eigene Themenseite."
+   ],
+   "fach_html": "\n<h3>Krankheitsbedingte Kündigung</h3>\n<p>Eine Kündigung wegen Krankheit ist nach der Rechtsprechung der Arbeitsgerichte nur wirksam, wenn kumulativ eine\nnegative Zukunftsprognose hinsichtlich weiterer Erkrankungen, eine dadurch erhebliche Beeinträchtigung\nbetrieblicher oder wirtschaftlicher Interessen und eine für den Arbeitgeber im Ergebnis unzumutbare\nGesamtinteressenabwägung vorliegen. Eine einzelne, auch längere Arbeitsunfähigkeitsphase reicht dafür in der Regel\nnicht automatisch aus.</p>\n<h3>Offenbarungspflichten</h3>\n<p>Grundsätzlich besteht keine Pflicht, dem Arbeitgeber die Diagnose einer Erkrankung mitzuteilen; ärztliche\nSchweigepflicht und Persönlichkeitsrecht schützen diese Information. Ausnahmen können sich aus\nsicherheitsrelevanten Tätigkeiten ergeben, in denen die Arbeitsfähigkeit unmittelbar Gefahren für Dritte berührt.</p>\n<h3>Kündigungsschutzklage</h3>\n<p>Wer sich gegen eine Kündigung wehren will, muss innerhalb von drei Wochen nach deren Zugang Klage beim\nArbeitsgericht erheben (§ 4 KSchG); andernfalls gilt die Kündigung nach § 7 KSchG als von Anfang an wirksam,\nunabhängig von ihrer sonstigen Rechtmäßigkeit.</p>\n<h3>Allgemeines Gleichbehandlungsgesetz (AGG)</h3>\n<p>Eine chronifizierte psychische Erkrankung kann im Einzelfall als Behinderung im Sinne des AGG gelten, wenn sie\ndie Teilhabe am Berufsleben auf unabsehbare Zeit beeinträchtigt. Benachteiligungen deswegen können Entschädigungs-\noder Schadensersatzansprüche auslösen; Ansprüche sind innerhalb von zwei Monaten nach Kenntnis der Benachteiligung\nschriftlich geltend zu machen.</p>\n",
+   "zustaendig": [
+    "Arbeitsgericht",
+    "Anwältin/Anwalt für Arbeitsrecht",
+    "Integrationsamt (bei Schwerbehinderung)"
+   ],
+   "belege": [
+    "§§ 4, 7 KSchG (gesetze-im-internet.de)",
+    "§ 15 AGG (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "krankschreibung-bei-depression",
+    "schwerbehinderung-bei-depression",
+    "wiedereingliederung-nach-depression"
+   ],
+   "stand": "Stand: September 2026 (Nationale VersorgungsLeitlinie/S3-Leitlinie Unipolare Depression, Version 3.0, 2025)."
+  },
+  {
+   "id": "erwerbsminderung-bei-depression",
+   "kategorie": "existenz",
+   "titel": "Erwerbsminderung bei Depression",
+   "icon": "📉",
+   "teaser": "Wenn Depression die Arbeitsfähigkeit dauerhaft stark einschränkt, kann eine Erwerbsminderungsrente infrage kommen – nach dem Grundsatz „Reha vor Rente“.",
+   "schlagworte": [
+    "Erwerbsminderungsrente",
+    "§ 43 SGB VI",
+    "Reha vor Rente",
+    "Wartezeit",
+    "Volle Erwerbsminderung",
+    "Teilweise Erwerbsminderung"
+   ],
+   "kurz_html": "\n<p>Eine Erwerbsminderungsrente kommt infrage, wenn eine Depression Ihre Fähigkeit, unter den üblichen Bedingungen\ndes allgemeinen Arbeitsmarkts zu arbeiten, so stark einschränkt, dass Behandlung und Rehabilitation absehbar nicht\nausreichen. Die Deutsche Rentenversicherung prüft dabei immer zuerst, ob Reha-Maßnahmen die Erwerbsfähigkeit wieder\nherstellen können – erst wenn das nicht (mehr) ausreicht, kommt die Rente in Betracht.</p>\n",
+   "schritte": [
+    {
+     "titel": "Reha-Antrag stellen (Grundsatz „Reha vor Rente“)",
+     "text": "Bevor eine Erwerbsminderungsrente bewilligt wird, verlangt die Rentenversicherung in der Regel den Nachweis, dass medizinische oder berufliche Reha-Maßnahmen ausgeschöpft oder erfolglos versucht wurden."
+    },
+    {
+     "titel": "Versicherungsrechtliche Voraussetzungen prüfen",
+     "text": "Sie benötigen die allgemeine Wartezeit von 5 Jahren sowie in den letzten 5 Jahren vor Eintritt der Erwerbsminderung mindestens 3 Jahre Pflichtbeiträge."
+    },
+    {
+     "titel": "Antrag bei der Deutschen Rentenversicherung stellen",
+     "text": "Der Antrag kann formlos angestoßen und mit den erforderlichen Unterlagen (ärztliche Befunde, Reha-Entlassungsberichte) vervollständigt werden."
+    },
+    {
+     "titel": "Sozialmedizinische Begutachtung durchlaufen",
+     "text": "Ein Gutachten (oft nach Aktenlage oder persönlicher Untersuchung) klärt, wie viele Stunden täglich noch eine Erwerbstätigkeit auf dem allgemeinen Arbeitsmarkt möglich ist."
+    },
+    {
+     "titel": "Bescheid prüfen und ggf. Widerspruch einlegen",
+     "text": "Bei Ablehnung oder zu kurzer Befristung können Sie innerhalb eines Monats Widerspruch einlegen; lassen Sie sich dabei fachlich beraten."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "5 Jahre",
+     "was": "Allgemeine Wartezeit (Mindestversicherungszeit) vor Eintritt der Erwerbsminderung",
+     "grundlage": "§ 50 SGB VI"
+    },
+    {
+     "wert": "3 von 5 Jahren",
+     "was": "Pflichtbeitragszeiten in den letzten 5 Jahren vor Eintritt der Erwerbsminderung",
+     "grundlage": "§ 43 Abs. 1 Nr. 2 SGB VI"
+    },
+    {
+     "wert": "in der Regel 3 Kalendermonate",
+     "was": "Wird der Rentenantrag bis zum Ende des dritten Kalendermonats nach dem Monat gestellt, in dem die Voraussetzungen erfüllt sind, wirkt die Rente auf diesen Zeitpunkt zurück; bei späterem Antrag erst ab dem Antragsmonat",
+     "grundlage": "§ 99 Abs. 1 SGB VI"
+    },
+    {
+     "wert": "1 Monat",
+     "was": "Widerspruchsfrist gegen den Rentenbescheid",
+     "grundlage": "§ 84 SGG"
+    }
+   ],
+   "achtung": [
+    "Ein Rentenantrag ohne vorherigen Reha-Versuch wird häufig zunächst in einen Reha-Antrag umgedeutet oder abgelehnt – das ist keine Schikane, sondern gesetzlich vorgesehen (Reha vor Rente).",
+    "Erwerbsminderungsrenten werden in der Regel zunächst befristet bewilligt, nicht dauerhaft; eine Verlängerung muss rechtzeitig neu beantragt werden.",
+    "Für die Bewertung zählt die Erwerbsfähigkeit auf dem allgemeinen Arbeitsmarkt, nicht nur im zuletzt ausgeübten Beruf – ein umfassender „Berufsschutz“ besteht seit der Rentenreform 2001 nur noch für vor 1961 Geborene in Ausnahmefällen.",
+    "Legen Sie frühzeitig aussagekräftige ärztliche und psychotherapeutische Unterlagen vor – unklare oder lückenhafte Befunde sind ein häufiger Ablehnungsgrund gerade bei psychischen Erkrankungen."
+   ],
+   "fach_html": "\n<h3>Teilweise und volle Erwerbsminderung (§ 43 SGB VI)</h3>\n<p>Teilweise erwerbsgemindert ist, wer wegen Krankheit oder Behinderung auf nicht absehbare Zeit außerstande ist,\nunter den üblichen Bedingungen des allgemeinen Arbeitsmarktes mindestens 6 Stunden täglich erwerbstätig zu sein;\nvoll erwerbsgemindert ist, wer nur noch weniger als 3 Stunden täglich erwerbstätig sein kann. Voraussetzung ist\nneben der medizinischen Feststellung die allgemeine Wartezeit von 5 Jahren (§ 50 SGB VI) sowie mindestens 3 Jahre\nPflichtbeiträge in den letzten 5 Jahren vor Eintritt der Erwerbsminderung (§ 43 Abs. 1 Nr. 2 SGB VI); eine\nAusnahme von der 3/5-Regel gilt u. a. bei Erwerbsminderung infolge eines Arbeitsunfalls oder wenn bereits vor\nErfüllung der allgemeinen Wartezeit voll erwerbsgemindert und seitdem ununterbrochen erwerbsgemindert (dann\nWartezeit von 20 Jahren, § 53 SGB VI).</p>\n<h3>Grundsatz „Reha vor Rente“</h3>\n<p>Nach § 9 SGB VI haben Leistungen zur Teilhabe (Rehabilitation) Vorrang vor Rentenleistungen, wenn sie die\nErwerbsfähigkeit erhalten, verbessern oder wiederherstellen können. Nach § 116 Abs. 2 SGB VI gilt ein Reha-Antrag\nunter bestimmten Voraussetzungen sogar als Rentenantrag, wenn von der Reha kein Erfolg mehr zu erwarten ist. In der\nPraxis lehnen Rentenversicherungsträger Anträge auf Erwerbsminderungsrente häufig ab, wenn keine oder nur\nunzureichende Reha-Maßnahmen nachgewiesen sind – das gilt in besonderem Maße bei psychischen Erkrankungen wie\nDepression, bei denen Reha-Erfolge oft erst über einen längeren Zeitraum beurteilbar sind.</p>\n<h3>Befristung und Rentenhöhe</h3>\n<p>Renten wegen Erwerbsminderung werden nach § 102 Abs. 2 SGB VI in der Regel befristet geleistet, wenn\nunwahrscheinlich ist, dass die Erwerbsminderung behoben werden kann; eine Verlängerung ist möglich, nach\nmehrjähriger ununterbrochener Bewilligung kann die Rente auch unbefristet werden. Die Höhe richtet sich nach den\nindividuell erworbenen Entgeltpunkten und der sogenannten Zurechnungszeit, die fehlende Beitragsjahre bis zu einem\nbestimmten Lebensalter teilweise ausgleicht; die genaue Berechnung ist individuell und wird von der Deutschen\nRentenversicherung im Rentenbescheid ausgewiesen.</p>\n",
+   "zustaendig": [
+    "Deutsche Rentenversicherung"
+   ],
+   "belege": [
+    "§§ 9, 43, 50, 53, 99, 102, 116 SGB VI (gesetze-im-internet.de)",
+    "§ 84 SGG (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "schwerbehinderung-bei-depression",
+    "wiedereingliederung-nach-depression",
+    "beratung-anlaufstellen-depression"
+   ],
+   "stand": "Stand: September 2026 (Nationale VersorgungsLeitlinie/S3-Leitlinie Unipolare Depression, Version 3.0, 2025)."
+  },
+  {
+   "id": "schwerbehinderung-bei-depression",
+   "kategorie": "existenz",
+   "titel": "Schwerbehinderung bei Depression",
+   "icon": "🪪",
+   "teaser": "Ein Grad der Behinderung (GdB) kann auch bei einer chronischen oder schweren Depression anerkannt werden – mit spürbaren Nachteilsausgleichen im Job.",
+   "schlagworte": [
+    "Grad der Behinderung",
+    "GdB",
+    "Schwerbehindertenausweis",
+    "Gleichstellung",
+    "Nachteilsausgleich",
+    "Kündigungsschutz Integrationsamt"
+   ],
+   "kurz_html": "\n<p>Auch psychische Erkrankungen wie eine chronische oder wiederkehrende Depression können einen Grad der Behinderung\n(GdB) begründen. Maßgeblich ist nicht die Diagnose als solche, sondern wie stark die Erkrankung Ihre Teilhabe am\nAlltags- und Berufsleben tatsächlich einschränkt. Ab einem GdB von 50 gelten Sie als schwerbehindert und können\neinen Schwerbehindertenausweis beantragen.</p>\n",
+   "schritte": [
+    {
+     "titel": "Antrag beim Versorgungsamt stellen",
+     "text": "Der Antrag auf Feststellung des GdB wird bei der zuständigen Behörde (je nach Bundesland Versorgungsamt, Amt für Soziale Angelegenheiten oder Landesamt genannt) formlos oder mit amtlichem Formular gestellt."
+    },
+    {
+     "titel": "Ärztliche Unterlagen einreichen",
+     "text": "Fügen Sie aussagekräftige Befunde von Hausärztin/Hausarzt, Psychotherapeutin/Psychotherapeut und ggf. Klinikberichten bei – je konkreter die Beschreibung der Alltagseinschränkungen, desto besser einschätzbar der GdB."
+    },
+    {
+     "titel": "Bescheid prüfen",
+     "text": "Das Amt bewertet den GdB anhand der Versorgungsmedizinischen Grundsätze (Anlage zur Versorgungsmedizin-Verordnung); bei psychischen Störungen ist die Einschränkung der Erlebnis- und Gestaltungsfähigkeit im Alltag entscheidend."
+    },
+    {
+     "titel": "Bei Ablehnung oder zu niedrigem GdB Widerspruch einlegen",
+     "text": "Innerhalb eines Monats nach Bekanntgabe können Sie Widerspruch einlegen und ggf. weitere Unterlagen nachreichen."
+    },
+    {
+     "titel": "Schwerbehinderung dem Arbeitgeber mitteilen (falls gewünscht)",
+     "text": "Nachteilsausgleiche wie Kündigungsschutz oder Zusatzurlaub greifen im Arbeitsverhältnis erst, wenn der Arbeitgeber von der Schwerbehinderung weiß."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "1 Monat",
+     "was": "Widerspruchsfrist gegen den GdB-Feststellungsbescheid",
+     "grundlage": "§ 84 SGG"
+    },
+    {
+     "wert": "keine gesetzliche Frist",
+     "was": "Für die Antragstellung selbst gibt es keine Frist – der GdB gilt aber grundsätzlich erst ab Antragstellung bzw. dem im Bescheid genannten Zeitpunkt, nicht rückwirkend ohne Weiteres",
+     "grundlage": "§ 152 SGB IX"
+    }
+   ],
+   "achtung": [
+    "Ein GdB wird nicht automatisch aus einer Diagnose abgeleitet – ohne Antrag gibt es keine Feststellung, auch bei schwerer Erkrankung nicht.",
+    "Die GdB-Werte für psychische Störungen in den Versorgungsmedizinischen Grundsätzen sind Anhaltswerte für die Begutachtung, keine Automatik – jeder Fall wird individuell bewertet, insbesondere anhand der Alltagseinschränkungen.",
+    "Ohne Mitteilung der Schwerbehinderung an den Arbeitgeber greifen weder besonderer Kündigungsschutz noch Zusatzurlaub.",
+    "Bei einem GdB unter 50, aber mindestens 30, kann bei drohender oder bestehender Gefährdung des Arbeitsplatzes eine Gleichstellung mit schwerbehinderten Menschen bei der Agentur für Arbeit beantragt werden."
+   ],
+   "fach_html": "\n<h3>Bewertung nach den Versorgungsmedizinischen Grundsätzen</h3>\n<p>Grundlage der GdB-Bewertung ist die Versorgungsmedizin-Verordnung (VersMedV) mit ihrer Anlage, den\nVersorgungsmedizinischen Grundsätzen. Für das Kapitel „Nervensystem und Psyche“ gilt nach ausgewerteten\nSekundärquellen als grobe Orientierung: leichtere psychovegetative oder psychische Störungen GdB 0–20; stärker\nbehindernde Störungen mit wesentlicher Einschränkung der Erlebnis- und Gestaltungsfähigkeit GdB 30–40; ab\nmittelgradigen bis schweren Anpassungsschwierigkeiten mit stärkerer Einschränkung GdB 50–70. Diese Bandbreiten sind\nAnhaltswerte, keine feste Tabelle mit Rechtsanspruch auf einen bestimmten Wert, und wurden hier nicht an der\namtlichen Primärquelle im Volltext gegengeprüft – im Zweifel den genauen Wortlaut der Versorgungsmedizinischen\nGrundsätze heranziehen oder sich beraten lassen.</p>\n<h3>Schwerbehinderung und Gleichstellung</h3>\n<p>Ab einem GdB von 50 gilt eine Person als schwerbehindert (§ 2 Abs. 2 SGB IX) und kann einen\nSchwerbehindertenausweis beantragen. Bei einem GdB von mindestens 30 ist auf Antrag bei der Agentur für Arbeit eine\nGleichstellung möglich, wenn ohne sie der Arbeitsplatz gefährdet wäre (§ 2 Abs. 3 SGB IX).</p>\n<h3>Nachteilsausgleiche</h3>\n<p>Ab GdB 50 bestehen u. a. Anspruch auf fünf Arbeitstage bezahlten Zusatzurlaub pro Kalenderjahr (§ 208 SGB IX),\nein Behinderten-Pauschbetrag im Steuerrecht (§ 33b EStG) sowie besonderer Kündigungsschutz: Eine Kündigung durch den\nArbeitgeber bedarf der vorherigen Zustimmung des Integrationsamts (§§ 168 ff. SGB IX); ohne diese Zustimmung ist die\nKündigung unwirksam. Innerhalb der ersten sechs Monate des Arbeitsverhältnisses ist keine Zustimmung erforderlich\n(§ 173 SGB IX). Diese Ausgleiche greifen nur, wenn der Arbeitgeber die Schwerbehinderung kennt.</p>\n",
+   "zustaendig": [
+    "Versorgungsamt/zuständige Landesbehörde (GdB-Feststellung)",
+    "Integrationsamt (Kündigungsschutz)",
+    "Agentur für Arbeit (Gleichstellung)"
+   ],
+   "belege": [
+    "§§ 2, 152, 168, 173, 208 SGB IX (gesetze-im-internet.de)",
+    "Versorgungsmedizin-Verordnung/Versorgungsmedizinische Grundsätze (Anlage zu § 2 VersMedV)"
+   ],
+   "siehe_auch": [
+    "depression-und-arbeitsrecht",
+    "erwerbsminderung-bei-depression",
+    "beratung-anlaufstellen-depression"
+   ],
+   "stand": "Stand: September 2026 (Nationale VersorgungsLeitlinie/S3-Leitlinie Unipolare Depression, Version 3.0, 2025)."
+  },
+  {
+   "id": "angehoerige-von-menschen-mit-depression",
+   "kategorie": "umfeld",
+   "titel": "Angehörige von Menschen mit Depression",
+   "icon": "🤝",
+   "teaser": "Unterstützen, ohne sich selbst zu verlieren: praktische und rechtliche Hinweise für Angehörige, Partnerinnen/Partner und Freundinnen/Freunde.",
+   "schlagworte": [
+    "Angehörige",
+    "Vorsorgevollmacht",
+    "Rechtliche Betreuung",
+    "Ehegattennotvertretungsrecht",
+    "Entlastung"
+   ],
+   "kurz_html": "\n<p>Wenn ein nahestehender Mensch an Depression erkrankt ist, wollen viele Angehörige helfen – und geraten dabei\nleicht an eigene Grenzen. Sie können unterstützen, zuhören und beim Organisieren von Hilfe zur Seite stehen; die\nBehandlung selbst kann und muss aber die betroffene Person mit professioneller Hilfe angehen.</p>\n<p>Wenn Sie in diesem Moment an Suizid denken oder sich in akuter Gefahr befinden: Rufen Sie sofort den Notruf <strong>112</strong> oder die TelefonSeelsorge an – kostenlos, anonym, rund um die Uhr: <strong>0800 111 0 111</strong> oder <strong>0800 111 0 222</strong> (telefonseelsorge.de). Sie müssen nicht warten, bis ein Termin frei wird. Auch als Angehörige/Angehöriger dürfen und sollten Sie bei erkennbarer Gefahr selbst Hilfe holen, auch\nwenn die betroffene Person das im Moment ablehnt.</p>\n",
+   "schritte": [
+    {
+     "titel": "Zuhören, ohne zu drängen",
+     "text": "Signalisieren Sie Verständnis und Gesprächsbereitschaft, ohne Ratschläge oder Zeitdruck aufzuzwingen."
+    },
+    {
+     "titel": "Gemeinsam professionelle Hilfe organisieren",
+     "text": "Bieten Sie an, bei der Suche nach Hausärztin/Hausarzt, Therapieplatz oder Terminen zu unterstützen, wenn das gewünscht ist."
+    },
+    {
+     "titel": "Bei akuter Gefahr handeln",
+     "text": "Bei erkennbarer Suizidgefahr sofort Notruf 112 oder TelefonSeelsorge kontaktieren – auch gegen den Willen der betroffenen Person, wenn Gefahr im Verzug ist."
+    },
+    {
+     "titel": "Vorsorge besprechen",
+     "text": "Solange die betroffene Person einwilligungsfähig ist, kann eine Vorsorgevollmacht oder Betreuungsverfügung sinnvoll sein, damit im Ernstfall jemand des Vertrauens rechtlich handlungsfähig ist."
+    },
+    {
+     "titel": "Eigene Entlastung suchen",
+     "text": "Nutzen Sie Angehörigenberatung, Selbsthilfegruppen für Angehörige oder eigene Therapie, um sich selbst nicht zu überfordern."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "keine gesetzliche Frist",
+     "was": "Für Notruf, TelefonSeelsorge oder das Ansprechen der betroffenen Person gibt es keine Frist – je früher, desto besser",
+     "grundlage": "–"
+    },
+    {
+     "wert": "bis zu 6 Monate",
+     "was": "Höchstdauer des Ehegattennotvertretungsrechts in Gesundheitsangelegenheiten ab ärztlicher Feststellung der Entscheidungsunfähigkeit",
+     "grundlage": "§ 1358 BGB"
+    }
+   ],
+   "achtung": [
+    "Ehepartnerinnen/Ehepartner haben in Deutschland kein automatisches, unbegrenztes Vertretungsrecht in Gesundheitsfragen – ohne Vorsorgevollmacht gilt seit 2023 nur das zeitlich auf höchstens sechs Monate begrenzte Ehegattennotvertretungsrecht, und auch das gilt nicht für freiheitsentziehende Unterbringung.",
+    "Ohne Vorsorgevollmacht kann bei dauerhafter Entscheidungsunfähigkeit eine rechtliche Betreuung durch das Betreuungsgericht nötig werden – Angehörige werden dabei vorrangig, aber nicht automatisch als Betreuende bestellt.",
+    "Sie können die Erkrankung eines nahestehenden Menschen nicht „reparieren“ – Überforderung schadet oft beiden Seiten; eigene Grenzen sind kein Versagen.",
+    "Bei minderjährigen Kindern depressiv erkrankter Eltern können zusätzlich kinder- und jugendhilferechtliche Unterstützungsangebote (z. B. über das Jugendamt) relevant sein."
+   ],
+   "fach_html": "\n<h3>Ehegattennotvertretungsrecht (§ 1358 BGB)</h3>\n<p>Seit 1. Januar 2023 dürfen Ehegatten einander in bestimmten Gesundheitsangelegenheiten vertreten, wenn eine\nPerson aufgrund von Bewusstlosigkeit oder Krankheit ihre Angelegenheiten der Gesundheitssorge vorübergehend nicht\nselbst besorgen kann. Die Vertretungsmacht ist auf maximal sechs Monate ab ärztlicher Feststellung begrenzt, umfasst\nnur medizinische Entscheidungen (Einwilligung in Untersuchungen und Behandlungen, Abschluss von Behandlungs- und\nKrankenhausverträgen) und gilt ausdrücklich nicht für freiheitsentziehende Unterbringung. Sie entfällt, wenn Ehegatten\ngetrennt leben oder der Wille der betroffenen Person erkennbar entgegensteht.</p>\n<h3>Vorsorgevollmacht und Betreuungsverfügung</h3>\n<p>Eine Vorsorgevollmacht kann von jeder einwilligungsfähigen Person unabhängig vom Familienstand für eine\nselbstgewählte Vertrauensperson erstellt werden und gilt zeitlich unbegrenzt, bis sie widerrufen wird. Eine\nBetreuungsverfügung äußert Wünsche für den Fall, dass später eine rechtliche Betreuung eingerichtet werden muss;\ndas Betreuungsgericht bestellt nach dem Erforderlichkeitsgrundsatz (§ 1814 Abs. 3 BGB) nur dann eine Betreuung,\nwenn keine Vollmacht vorliegt und tatsächlich Unterstützungsbedarf besteht.</p>\n<h3>Selbstfürsorge als Angehörige/Angehöriger</h3>\n<p>Angehörige psychisch erkrankter Menschen tragen ein erhöhtes Risiko eigener Überlastung. Angehörigenberatung,\npsychosoziale Beratungsstellen und spezielle Selbsthilfegruppen für Angehörige (z. B. über NAKOS vermittelt) bieten\nEntlastung und Austausch.</p>\n",
+   "zustaendig": [
+    "Betreuungsgericht (bei rechtlicher Betreuung)",
+    "Notariat/Beratungsstelle (Vorsorgevollmacht)",
+    "Angehörigenberatungsstellen"
+   ],
+   "belege": [
+    "§ 1358 BGB (gesetze-im-internet.de)",
+    "§ 1814 BGB (gesetze-im-internet.de)",
+    "NAKOS (nakos.de)"
+   ],
+   "siehe_auch": [
+    "akutbehandlung-und-krisendienst",
+    "klinikaufenthalt-und-einweisung",
+    "selbsthilfegruppen-depression"
+   ],
+   "stand": "Stand: September 2026 (Nationale VersorgungsLeitlinie/S3-Leitlinie Unipolare Depression, Version 3.0, 2025)."
+  },
+  {
+   "id": "selbsthilfegruppen-depression",
+   "kategorie": "umfeld",
+   "titel": "Selbsthilfegruppen bei Depression",
+   "icon": "🧩",
+   "teaser": "Selbsthilfegruppen ergänzen Therapie und Medikamente, ersetzen sie aber nicht. So finden Sie eine passende Gruppe – auch für Angehörige.",
+   "schlagworte": [
+    "Selbsthilfegruppe",
+    "NAKOS",
+    "Selbsthilfekontaktstelle",
+    "§ 20h SGB V",
+    "Angehörigengruppe"
+   ],
+   "kurz_html": "\n<p>Selbsthilfegruppen bringen Menschen zusammen, die ähnliche Erfahrungen mit Depression gemacht haben – als\nwertvolle Ergänzung zu Therapie und ärztlicher Behandlung, nicht als deren Ersatz. Es gibt sowohl Gruppen für\nBetroffene selbst als auch für Angehörige.</p>\n",
+   "schritte": [
+    {
+     "titel": "Selbsthilfekontaktstelle vor Ort suchen",
+     "text": "Örtliche Selbsthilfekontaktstellen vermitteln passende Gruppen in Ihrer Nähe und beraten kostenlos."
+    },
+    {
+     "titel": "NAKOS nutzen",
+     "text": "Die Nationale Kontakt- und Informationsstelle zur Anregung und Unterstützung von Selbsthilfegruppen (NAKOS) bietet eine bundesweite Suche und allgemeine Informationen zu Selbsthilfe."
+    },
+    {
+     "titel": "Angebote der Depressionshilfe prüfen",
+     "text": "Die Stiftung Deutsche Depressionshilfe und die Deutsche Depressionsliga listen spezialisierte Gruppen für Menschen mit Depression sowie für Angehörige."
+    },
+    {
+     "titel": "Gruppe unverbindlich ausprobieren",
+     "text": "Die meisten Gruppen sind offen; ein erstes Kennenlernen ist meist ohne Verpflichtung möglich, um zu prüfen, ob die Gruppe passt."
+    },
+    {
+     "titel": "Online-Alternativen erwägen",
+     "text": "Wenn keine passende Gruppe vor Ort erreichbar ist, bieten manche Organisationen moderierte Online-Austauschformate an."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "keine gesetzliche Frist",
+     "was": "Die Teilnahme an einer Selbsthilfegruppe ist freiwillig und formlos möglich",
+     "grundlage": "–"
+    }
+   ],
+   "achtung": [
+    "Eine Selbsthilfegruppe ersetzt keine Therapie oder ärztliche Behandlung bei akuter oder schwerer Depression.",
+    "Selbsthilfegruppen sind in der Regel nicht fachlich angeleitet – bei Warnzeichen einer Krise ersetzt der Austausch in der Gruppe keine professionelle Hilfe (siehe Themenseite Akutbehandlung und Krisendienst).",
+    "Qualität und Passung von Gruppen unterscheiden sich; es ist normal, mehrere Gruppen auszuprobieren, bevor eine passt.",
+    "Bei Online-Gruppen auf Moderation und Datenschutz achten, insbesondere wenn persönliche Gesundheitsdaten geteilt werden."
+   ],
+   "fach_html": "\n<h3>Förderung der Selbsthilfe durch die Krankenkassen</h3>\n<p>Gesetzliche Krankenkassen fördern die gesundheitsbezogene Selbsthilfe nach § 20h SGB V finanziell, u. a. über\nZuschüsse an Selbsthilfekontaktstellen und Selbsthilfeorganisationen. Diese Förderung ersetzt keine Behandlung,\nsondern unterstützt ergänzende Angebote wie Gruppentreffen, Informationsmaterial oder Schulungen.</p>\n<h3>NAKOS</h3>\n<p>NAKOS besteht seit 1984 als bundesweite Kontakt- und Informationsstelle zur Selbsthilfe, vermittelt aber selbst\nkeine Diagnosen oder Behandlungen, sondern Kontakte zu bestehenden Gruppen und regionalen Kontaktstellen.</p>\n<h3>Ergänzung, kein Ersatz</h3>\n<p>Nach übereinstimmender fachlicher Einschätzung (u. a. Stiftung Deutsche Depressionshilfe) ist der Austausch mit\nanderen Betroffenen ein sinnvoller Baustein neben Psychotherapie und ggf. Medikamenten, insbesondere zur\nlängerfristigen Stabilisierung nach einer akuten Episode – er ersetzt aber keine leitliniengerechte Behandlung.</p>\n",
+   "zustaendig": [
+    "Örtliche Selbsthilfekontaktstelle",
+    "NAKOS",
+    "Krankenkasse (Förderung nach § 20h SGB V)"
+   ],
+   "belege": [
+    "§ 20h SGB V (gesetze-im-internet.de)",
+    "NAKOS (nakos.de)",
+    "Stiftung Deutsche Depressionshilfe – Selbsthilfe vor Ort (deutsche-depressionshilfe.de)"
+   ],
+   "siehe_auch": [
+    "beratung-anlaufstellen-depression",
+    "angehoerige-von-menschen-mit-depression",
+    "ueberblick-hilfe-bei-depression"
+   ],
+   "stand": "Stand: September 2026 (Nationale VersorgungsLeitlinie/S3-Leitlinie Unipolare Depression, Version 3.0, 2025)."
+  },
+  {
+   "id": "beratung-anlaufstellen-depression",
+   "kategorie": "beratung",
+   "titel": "Beratung und Anlaufstellen",
+   "icon": "📞",
+   "teaser": "Wer ist bei welchem Anliegen zuständig? Eine kompakte Übersicht aller wichtigen Kontakte rund um Depression – zum Nachschlagen und Speichern.",
+   "schlagworte": [
+    "Info-Telefon Depression",
+    "TelefonSeelsorge",
+    "116117",
+    "Sozialpsychiatrischer Dienst",
+    "Beratungsstelle"
+   ],
+   "kurz_html": "\n<p>Wenn Sie in diesem Moment an Suizid denken oder sich in akuter Gefahr befinden: Rufen Sie sofort den Notruf <strong>112</strong> oder die TelefonSeelsorge an – kostenlos, anonym, rund um die Uhr: <strong>0800 111 0 111</strong> oder <strong>0800 111 0 222</strong> (telefonseelsorge.de). Sie müssen nicht warten, bis ein Termin frei wird.</p>\n<p>Über die akute Krise hinaus gibt es für fast jedes Anliegen rund um Depression eine eigene Anlaufstelle – von der\nersten Diagnose über die Kostenübernahme bis zu Fragen der Erwerbsminderung. Diese Seite bündelt die wichtigsten\nKontakte.</p>\n",
+   "schritte": [
+    {
+     "titel": "Akute Krise: Notruf und TelefonSeelsorge",
+     "text": "Notruf 112 sowie TelefonSeelsorge 0800 111 0 111 / 0800 111 0 222 (kostenlos, anonym, rund um die Uhr) für den Ernstfall."
+    },
+    {
+     "titel": "Erste medizinische Anlaufstelle",
+     "text": "Hausärztin/Hausarzt, psychotherapeutische Sprechstunde oder die Terminservicestelle 116117 für Diagnose und Behandlungsbeginn."
+    },
+    {
+     "titel": "Info und Orientierung",
+     "text": "Das Info-Telefon Depression der Stiftung Deutsche Depressionshilfe (0800 33 44 533) informiert anonym und kostenlos über Krankheitsbild, Behandlung und Hilfsangebote."
+    },
+    {
+     "titel": "Sozialrechtliche Fragen",
+     "text": "Krankenkasse (Kostenübernahme, Krankengeld), Deutsche Rentenversicherung (Reha, Erwerbsminderungsrente) und Versorgungsamt (Schwerbehinderung) sind je nach Anliegen zuständig."
+    },
+    {
+     "titel": "Arbeitsrechtliche Fragen",
+     "text": "Betriebs-/Personalrat, Integrationsamt (bei Schwerbehinderung) oder eine Anwältin/ein Anwalt für Arbeitsrecht helfen bei Kündigung, BEM oder Wiedereingliederung weiter."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "sofort, keine Frist",
+     "was": "Notruf und TelefonSeelsorge sind jederzeit erreichbar",
+     "grundlage": "–"
+    }
+   ],
+   "achtung": [
+    "Speichern Sie die wichtigsten Nummern (TelefonSeelsorge, 116117, ggf. regionaler Krisendienst) vorsorglich im Handy.",
+    "Zuständigkeiten wechseln je nach Lebenslage – im Zweifel ist die Hausarztpraxis oder die TelefonSeelsorge immer ein guter erster Kontakt.",
+    "Nicht jede Beratungsstelle ist auf Depression spezialisiert – bei sozialrechtlichen Detailfragen lohnt sich gezielt eine Sozialberatung oder anwaltliche Beratung.",
+    "Regionale Angebote (Krisendienste, Selbsthilfekontaktstellen) unterscheiden sich je nach Bundesland und Kommune – lokale Nummern vorher heraussuchen."
+   ],
+   "fach_html": "\n<h3>Wer ist wofür zuständig – Übersicht</h3>\n<p>Notruf 112 und TelefonSeelsorge (0800 111 0 111 / 0800 111 0 222, auch 116 123) sind die zentralen Anlaufstellen\nim akuten Notfall, jederzeit und ohne Kosten erreichbar. Für die Behandlung sind Hausärztin/Hausarzt sowie\nPsychotherapeutinnen/Psychotherapeuten (Direktzugang über die Sprechstunde) zuständig, vermittelt ggf. über die\nTerminservicestelle 116117. Für allgemeine, nicht-medizinische Information bietet die Stiftung Deutsche\nDepressionshilfe ein anonymes Info-Telefon (0800 33 44 533).</p>\n<h3>Sozialrechtliche Anlaufstellen</h3>\n<p>Die Krankenkasse ist zuständig für Kostenübernahme von Therapie und Medikamenten sowie für Krankengeld. Die\nDeutsche Rentenversicherung ist zuständig für medizinische und berufliche Rehabilitation sowie die\nErwerbsminderungsrente. Das Versorgungsamt (bzw. die entsprechende Landesbehörde) stellt den Grad der Behinderung\nfest; das Integrationsamt ist zuständig für den besonderen Kündigungsschutz schwerbehinderter Menschen.</p>\n<h3>Örtliche und ergänzende Angebote</h3>\n<p>Sozialpsychiatrische Dienste der Gesundheitsämter beraten unabhängig vom Versicherungsstatus. Selbsthilfe-\nkontaktstellen und NAKOS vermitteln Selbsthilfegruppen für Betroffene und Angehörige. Diese Angebote unterscheiden\nsich regional in Erreichbarkeit und Ausgestaltung.</p>\n",
+   "zustaendig": [
+    "Hausärztin/Hausarzt",
+    "Krankenkasse",
+    "Deutsche Rentenversicherung",
+    "Versorgungsamt",
+    "Integrationsamt",
+    "Sozialpsychiatrischer Dienst"
+   ],
+   "belege": [
+    "telefonseelsorge.de",
+    "Stiftung Deutsche Depressionshilfe – Info-Telefon (deutsche-depressionshilfe.de)",
+    "116117.de"
+   ],
+   "siehe_auch": [
+    "akutbehandlung-und-krisendienst",
+    "ueberblick-hilfe-bei-depression",
+    "selbsthilfegruppen-depression"
+   ],
+   "stand": "Stand: September 2026 (Nationale VersorgungsLeitlinie/S3-Leitlinie Unipolare Depression, Version 3.0, 2025)."
+  }
+ ]
+}

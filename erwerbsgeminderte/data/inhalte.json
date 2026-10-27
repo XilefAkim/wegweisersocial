@@ -1,0 +1,1121 @@
+{
+ "kategorien": [
+  {
+   "id": "ueberblick",
+   "titel": "Überblick",
+   "icon": "🧭",
+   "beschreibung": "Wer gilt als erwerbsgemindert, wer zahlt was, was ist 2026 neu."
+  },
+  {
+   "id": "rente",
+   "titel": "Die Rente",
+   "icon": "💶",
+   "beschreibung": "Höhe, Zurechnungszeit, Befristung, Arbeiten neben der Rente."
+  },
+  {
+   "id": "verfahren",
+   "titel": "Antrag und Rechtsschutz",
+   "icon": "📄",
+   "beschreibung": "Antrag, Begutachtung, Bescheid, Ablehnung, Klage."
+  },
+  {
+   "id": "uebergang",
+   "titel": "Krankengeld und Übergänge",
+   "icon": "🔄",
+   "beschreibung": "Aussteuerung, Arbeitslosengeld bei Krankheit, Grundsicherung."
+  },
+  {
+   "id": "teilhabe",
+   "titel": "Reha und Arbeit",
+   "icon": "🛠️",
+   "beschreibung": "Reha vor Rente, Teilhabe am Arbeitsleben, Werkstatt, Budget für Arbeit."
+  },
+  {
+   "id": "absicherung",
+   "titel": "Absicherung",
+   "icon": "🛡️",
+   "beschreibung": "Kranken- und Pflegeversicherung, Steuer, weitere Hilfen."
+  },
+  {
+   "id": "beratung",
+   "titel": "Beratung",
+   "icon": "🤝",
+   "beschreibung": "Wer unabhängig berät und wo Sie Hilfe finden."
+  }
+ ],
+ "seiten": [
+  {
+   "id": "ueberblick-erwerbsminderung",
+   "kategorie": "ueberblick",
+   "titel": "Nicht mehr voll arbeiten können: der Überblick",
+   "icon": "🧭",
+   "teaser": "Wenn Krankheit oder Behinderung die Arbeit begrenzt, sind mehrere Stellen zuständig. Diese Seite zeigt die Reihenfolge und wer wofür da ist.",
+   "schlagworte": [
+    "Erwerbsminderung",
+    "Erwerbsminderungsrente",
+    "Krankengeld",
+    "Reha",
+    "Grundsicherung",
+    "3 Stunden",
+    "6 Stunden",
+    "Überblick"
+   ],
+   "kurz_html": "<p>Sie können aus gesundheitlichen Gründen nicht mehr voll arbeiten. Dann gibt es nicht eine einzige Leistung, sondern eine Kette von Stellen.</p><p>Meist läuft es so: Erst zahlt der Arbeitgeber Lohn, dann die Krankenkasse Krankengeld. Die Rentenversicherung prüft, ob eine Reha helfen kann. Wenn nicht, kann sie eine Erwerbsminderungsrente zahlen. Reicht das Geld nicht, kommt Grundsicherung dazu.</p><p>Zwei Zahlen sind wichtig: Wer weniger als 3 Stunden am Tag arbeiten kann, gilt als voll erwerbsgemindert. Wer 3 bis unter 6 Stunden am Tag arbeiten kann, gilt als teilweise erwerbsgemindert.</p><p>Diese Gruppe erklärt die Übergänge. Die Grundlagen der Erwerbsminderungsrente stehen ausführlich in der Gruppe Berufsunfähigkeit. Zu Schwerbehinderung siehe die Gruppe Menschen mit Behinderung, zu Krankenkassenleistungen die Gruppe Chronisch Kranke.</p>",
+   "schritte": [
+    {
+     "titel": "Krankschreibung und Krankengeld klären",
+     "text": "Fragen Sie die Krankenkasse, wie lange Krankengeld gezahlt wird und wann es endet."
+    },
+    {
+     "titel": "Reha-Bedarf ansprechen",
+     "text": "Sprechen Sie mit Ihrer Ärztin oder Ihrem Arzt über einen Reha-Antrag bei der Rentenversicherung."
+    },
+    {
+     "titel": "Rentenantrag prüfen lassen",
+     "text": "Lassen Sie sich beraten, ob und wann ein Antrag auf Erwerbsminderungsrente sinnvoll ist."
+    },
+    {
+     "titel": "Lücken im Einkommen schließen",
+     "text": "Prüfen Sie Arbeitslosengeld bei Krankheit, Grundsicherung oder Wohngeld."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "unter 3 Stunden täglich",
+     "was": "Grenze zur vollen Erwerbsminderung",
+     "grundlage": "§ 43 Abs. 2 SGB VI"
+    },
+    {
+     "wert": "unter 6 Stunden täglich",
+     "was": "Grenze zur teilweisen Erwerbsminderung",
+     "grundlage": "§ 43 Abs. 1 SGB VI"
+    },
+    {
+     "wert": "5 Jahre",
+     "was": "Wartezeit für die Rente wegen verminderter Erwerbsfähigkeit",
+     "grundlage": "§ 50 Abs. 1 Nr. 2 SGB VI"
+    }
+   ],
+   "achtung": [
+    "Wichtige Schreiben von Krankenkasse, Arbeitsagentur oder Rentenversicherung enthalten Fristen. Lesen Sie sie sofort.",
+    "Stellen Sie keinen Antrag nur aus Angst. Manche Anträge, zum Beispiel auf Rente, haben Folgen für andere Leistungen.",
+    "Diese Seiten sind allgemeine Information, keine Rechtsberatung."
+   ],
+   "fach_html": "<h3>Wer gilt als erwerbsgemindert</h3><p>§ 43 SGB VI unterscheidet teilweise Erwerbsminderung (außerstande, unter den üblichen Bedingungen des allgemeinen Arbeitsmarktes mindestens sechs Stunden täglich erwerbstätig zu sein) und volle Erwerbsminderung (außerstande, mindestens drei Stunden täglich erwerbstätig zu sein). Nach Absatz 3 gilt: „Erwerbsgemindert ist nicht, wer unter den üblichen Bedingungen des allgemeinen Arbeitsmarktes mindestens sechs Stunden täglich erwerbstätig sein kann; dabei ist die jeweilige Arbeitsmarktlage nicht zu berücksichtigen.“</p><h3>Versicherungsrechtliche Voraussetzungen</h3><p>Nach § 43 Abs. 1 und 2 SGB VI sind drei Jahre Pflichtbeiträge in den letzten fünf Jahren vor Eintritt der Erwerbsminderung nötig. Die Wartezeit beträgt nach § 50 Abs. 1 Nr. 2 SGB VI fünf Jahre. Absatz 4 verlängert den Fünfjahreszeitraum um bestimmte Zeiten, Absatz 5 nennt Ausnahmen von der Dreijahresvoraussetzung, Absatz 6 regelt eine Sonderfrist mit 20 Jahren Wartezeit. Die Einzelheiten der Absätze 4 bis 6 wurden hier nicht im Volltext geprüft.</p><h3>Zuständigkeiten im Überblick</h3><p>Krankengeld: Krankenkasse (Anspruchsgrundlage § 44 SGB V; Dauer § 48 SGB V). Reha und Erwerbsminderungsrente: Rentenversicherung. Arbeitslosengeld bei geminderter Leistungsfähigkeit: Arbeitsagentur (§ 145 SGB III). Grundsicherung bei dauerhafter voller Erwerbsminderung: Sozialamt (Kapitel 4 SGB XII, § 41).</p><h3>Verweise</h3><p>Voraussetzungen, Wartezeit, Antrag und Widerspruch: Gruppe Berufsunfähigkeit. Schwerbehindertenausweis und GdB: Gruppen Menschen mit Behinderung und Chronisch Kranke. Grundsicherung im Alter und Wohngeld für Rentner: Gruppe Rentner. Arbeitslosengeld und Grundsicherungsgeld allgemein: Gruppe Arbeitslose.</p>",
+   "zustaendig": [
+    "Deutsche Rentenversicherung",
+    "Krankenkasse",
+    "Agentur für Arbeit",
+    "Sozialamt"
+   ],
+   "belege": [
+    "§ 43 SGB VI, gesetze-im-internet.de, abgerufen 21.09.2026",
+    "§ 50 SGB VI, gesetze-im-internet.de, abgerufen 21.09.2026",
+    "Deutsche Rentenversicherung, Erwerbsminderungsrenten, abgerufen 21.09.2026"
+   ],
+   "siehe_auch": [
+    "antrag-begutachtung-bescheid",
+    "krankengeld-aussteuerung",
+    "beratung-erwerbsgeminderte"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "rentenhoehe-zurechnungszeit",
+   "kategorie": "rente",
+   "titel": "Höhe der Rente: Zurechnungszeit und Abschläge",
+   "icon": "🧮",
+   "teaser": "Die Erwerbsminderungsrente wird so berechnet, als hätten Sie weitergearbeitet. Trotzdem gibt es Abschläge. Hier steht, wie das zusammenhängt.",
+   "schlagworte": [
+    "Zurechnungszeit",
+    "Abschlag",
+    "Zugangsfaktor",
+    "Rentenhöhe",
+    "Entgeltpunkte",
+    "Rentenanpassung",
+    "66 Jahre 3 Monate"
+   ],
+   "kurz_html": "<p>Die Rente hängt von Ihren bisherigen Beiträgen ab. Bei Erwerbsminderung kommt die Zurechnungszeit dazu. Das heißt: Die Rentenversicherung rechnet Zeit bis zu einem bestimmten Alter dazu, als hätten Sie weiter Beiträge gezahlt.</p><p>Für Renten, die 2026 beginnen, endet die Zurechnungszeit nach Angabe der Deutschen Rentenversicherung mit 66 Jahren und 3 Monaten. Das Alter steigt schrittweise bis 67.</p><p>Es gibt aber auch einen Abschlag. Pro Monat, den die Rente vor dem 65. Geburtstag beginnt, wird sie um 0,3 Prozent gekürzt.</p><p>Die genaue Höhe steht im Rentenbescheid. Eine Rentenauskunft können Sie bei der Rentenversicherung anfordern.</p>",
+   "schritte": [
+    {
+     "titel": "Versicherungsverlauf prüfen",
+     "text": "Kontrollieren Sie, ob alle Beitragszeiten in Ihrem Konto stehen."
+    },
+    {
+     "titel": "Rentenbeginn beachten",
+     "text": "Notieren Sie, wann Ihre Rente beginnt. Davon hängen Zurechnungszeit und Abschlag ab."
+    },
+    {
+     "titel": "Bescheid nachrechnen lassen",
+     "text": "Lassen Sie den Rentenbescheid von einer Beratungsstelle prüfen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "66 Jahre und 3 Monate",
+     "was": "Ende der Zurechnungszeit bei Rentenbeginn 2026",
+     "grundlage": "DRV, Änderungen zum 1. Januar 2026; § 253a SGB VI"
+    },
+    {
+     "wert": "0,3 Prozent je Monat",
+     "was": "Abschlag (Zugangsfaktor 0,003 niedriger je Monat vor Vollendung des 65. Lebensjahres)",
+     "grundlage": "§ 77 Abs. 2 SGB VI"
+    }
+   ],
+   "achtung": [
+    "Die Zurechnungszeit gilt nur, wenn Sie das 67. Lebensjahr noch nicht vollendet haben.",
+    "Der Rentenbescheid ist maßgeblich. Rechner im Internet ersetzen ihn nicht.",
+    "Die Rentenanpassung zum 1. Juli 2026 (4,24 Prozent) gilt auch für Erwerbsminderungsrenten."
+   ],
+   "fach_html": "<h3>Zurechnungszeit</h3><p>Nach § 59 Abs. 1 SGB VI ist Zurechnungszeit die Zeit, die bei einer Rente wegen Erwerbsminderung oder Todes hinzugerechnet wird, wenn die versicherte Person das 67. Lebensjahr noch nicht vollendet hat. Sie endet nach Absatz 2 mit Vollendung des 67. Lebensjahres. Tatsächlich ist die Altersgrenze für Rentenbeginne bis 2031 übergangsweise niedriger. Die Deutsche Rentenversicherung nennt für 2026 66 Jahre und 3 Monate (Anhebung um einen Monat gegenüber 66 Jahren und 2 Monaten). Die Übergangsvorschrift ist § 253a SGB VI.</p><h3>Abschlag</h3><p>§ 77 Abs. 2 Nr. 3 SGB VI setzt den Zugangsfaktor bei Renten wegen verminderter Erwerbsfähigkeit für jeden Kalendermonat, für den eine Rente vor Ablauf des Kalendermonats der Vollendung des 65. Lebensjahres in Anspruch genommen wird, um 0,003 niedriger als 1,0 an. Nach § 77 Abs. 2 S. 3 SGB VI ist das 62. Lebensjahr maßgebend, es werden höchstens 36 Monate mal 0,003 berücksichtigt. Der Höchstabschlag beträgt damit 10,8 Prozent.</p><h3>Rentenwert und Anpassung</h3><p>Laut Deutscher Rentenversicherung steigt der aktuelle Rentenwert zum 1. Juli 2026 von 40,79 Euro auf 42,52 Euro (plus 4,24 Prozent). Ein Monatsbetrag für Ihren Fall lässt sich daraus nur mit Ihren Entgeltpunkten berechnen.</p><h3>Bestandsrenten-Zuschlag</h3><p>Nach § 307i SGB VI gibt es seit 1. Dezember 2025 einen Zuschlag an persönlichen Entgeltpunkten, wenn am 30. November 2025 Anspruch auf eine Rente wegen Erwerbsminderung (oder Erziehungsrente) bestand, die nach dem 31. Dezember 2000 und vor dem 1. Januar 2019 begann. Der Zuschlag beträgt 7,5 Prozent bei Rentenbeginn von Januar 2001 bis Juni 2014 und 4,5 Prozent bei Rentenbeginn von Juli 2014 bis Dezember 2018. Zuvor gab es von Juli 2024 bis November 2025 einen Zuschlag nach § 307j SGB VI.</p>",
+   "zustaendig": [
+    "Deutsche Rentenversicherung",
+    "Rentenberatung der Rentenversicherung"
+   ],
+   "belege": [
+    "§ 59 SGB VI, gesetze-im-internet.de, abgerufen 21.09.2026",
+    "§ 77 SGB VI, gesetze-im-internet.de, abgerufen 21.09.2026",
+    "DRV, Pressemitteilung Änderungen in der gesetzlichen Rentenversicherung zum 1. Januar 2026 (18.12.2025), abgerufen 21.09.2026",
+    "DRV, Rentenanpassung 2026, abgerufen 21.09.2026",
+    "§§ 77, 253a, 307i, 307j SGB VI, gesetze-im-internet.de"
+   ],
+   "siehe_auch": [
+    "befristung-verlaengerung",
+    "antrag-begutachtung-bescheid"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "befristung-verlaengerung",
+   "kategorie": "rente",
+   "titel": "Befristete Rente, Verlängerung und Unbefristung",
+   "icon": "⏳",
+   "teaser": "Erwerbsminderungsrenten werden meist auf Zeit bewilligt. Hier steht, wie lange, wann Sie verlängern müssen und wann die Rente dauerhaft wird.",
+   "schlagworte": [
+    "befristet",
+    "Verlängerung",
+    "Weiterzahlungsantrag",
+    "unbefristet",
+    "Rente auf Zeit",
+    "siebter Monat",
+    "Rentenbeginn"
+   ],
+   "kurz_html": "<p>Eine Erwerbsminderungsrente wird in der Regel auf Zeit gezahlt. Die erste Befristung beträgt höchstens 3 Jahre. Danach kann sie verlängert werden, jeweils um höchstens 3 Jahre.</p><p>Nach insgesamt 9 Jahren Befristung wird die Rente unbefristet gezahlt, wenn es unwahrscheinlich ist, dass sich die Erwerbsminderung bessert. Das gilt nur für Renten, auf die ein Anspruch unabhängig von der jeweiligen Arbeitsmarktlage besteht. Arbeitsmarktrenten bleiben befristet.</p><p>Eine befristete Rente beginnt nicht sofort. Sie beginnt frühestens im siebten Kalendermonat nach dem Eintritt der Erwerbsminderung.</p><p>Wenn das Ende der Rente naht, sollten Sie sich frühzeitig bei der Rentenversicherung melden. Lesen Sie dafür Ihren Rentenbescheid: Dort steht das Ende der Befristung.</p>",
+   "schritte": [
+    {
+     "titel": "Enddatum im Bescheid suchen",
+     "text": "Notieren Sie das Ende der Befristung im Rentenbescheid."
+    },
+    {
+     "titel": "Rechtzeitig Kontakt aufnehmen",
+     "text": "Fragen Sie bei der Rentenversicherung nach, wie und bis wann Sie die Weiterzahlung beantragen."
+    },
+    {
+     "titel": "Ärztliche Unterlagen aktualisieren",
+     "text": "Bitten Sie Ihre Ärzte um aktuelle Berichte, falls die Rentenversicherung sie anfordert."
+    },
+    {
+     "titel": "Bescheid prüfen",
+     "text": "Legen Sie bei Ablehnung fristgerecht Widerspruch ein (siehe Seite zur Ablehnung)."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "höchstens 3 Jahre",
+     "was": "erste Befristung und jede Verlängerung",
+     "grundlage": "§ 102 Abs. 2 SGB VI"
+    },
+    {
+     "wert": "9 Jahre",
+     "was": "danach Dauerrente, wenn die Minderung voraussichtlich nicht behoben werden kann; nur für Renten, auf die ein Anspruch unabhängig von der jeweiligen Arbeitsmarktlage besteht (Vermutungsregel)",
+     "grundlage": "§ 102 Abs. 2 S. 5 SGB VI"
+    },
+    {
+     "wert": "7. Kalendermonat",
+     "was": "frühester Beginn einer befristeten Rente nach Eintritt der Minderung",
+     "grundlage": "§ 101 Abs. 1 SGB VI"
+    }
+   ],
+   "achtung": [
+    "Auch bei Verlängerung bleibt der ursprüngliche Rentenbeginn erhalten.",
+    "Ausnahme vom siebten Monat: bei voller Erwerbsminderung kann die Rente früher beginnen, wenn Arbeitslosengeld oder Krankengeld endet (§ 101 Abs. 1a SGB VI). Das gilt nur für befristete Renten wegen voller Erwerbsminderung, auf die ein Anspruch unabhängig von der Arbeitsmarktlage besteht.",
+    "Wie und bis wann Sie die Verlängerung beantragen, steht im Bescheid und in Schreiben der Rentenversicherung. Fristen hier nicht im Volltext geprüft."
+   ],
+   "fach_html": "<h3>Befristung nach § 102 Abs. 2 SGB VI</h3><p>Renten wegen verminderter Erwerbsfähigkeit werden auf Zeit geleistet, höchstens für drei Jahre nach Rentenbeginn. Verlängerungen sind möglich, jeweils für höchstens drei Jahre. Bei Verlängerung verbleibt es beim ursprünglichen Rentenbeginn. Nach insgesamt neun Jahren wird die Rente unbefristet geleistet, wenn es unwahrscheinlich ist, dass die Minderung der Erwerbsfähigkeit behoben werden kann. Das gilt nach § 102 Abs. 2 S. 5 SGB VI nur für Renten, „auf die ein Anspruch unabhängig von der jeweiligen Arbeitsmarktlage besteht“. Arbeitsmarktrenten bleiben befristet. Die Neun-Jahres-Grenze ist eine Vermutungsregel. Der ursprüngliche Rentenbeginn bleibt auch dann bestehen.</p><h3>Rentenbeginn nach § 101 SGB VI</h3><p>Nach § 101 Abs. 1 SGB VI werden befristete Renten wegen verminderter Erwerbsfähigkeit „nicht vor Beginn des siebten Kalendermonats nach dem Eintritt der Minderung der Erwerbsfähigkeit geleistet“. Absatz 1a lässt bei befristeten Renten wegen voller Erwerbsminderung, auf die ein Anspruch unabhängig von der Arbeitsmarktlage besteht, einen früheren Beginn zu, wenn das Ende von Arbeitslosengeld oder Krankengeld beziehungsweise Krankentagegeld die Folge der Feststellung ist.</p><h3>Nicht geprüft</h3><p>Ob und in welcher Form ein Weiterzahlungsantrag nötig ist, wurde nicht in einer Primärquelle geprüft. Auch die Regelungen für unbefristete Renten ab dem ersten Bescheid und die Höhe der Rente in der Verlängerung wurden nicht im Volltext geprüft.</p>",
+   "zustaendig": [
+    "Deutsche Rentenversicherung",
+    "Beratungsstellen (siehe letzte Seite)"
+   ],
+   "belege": [
+    "§ 102 SGB VI, gesetze-im-internet.de, abgerufen 21.09.2026",
+    "§ 101 SGB VI, gesetze-im-internet.de, abgerufen 21.09.2026",
+    "DRV, Erwerbsminderungsrenten, abgerufen 21.09.2026"
+   ],
+   "siehe_auch": [
+    "rentenhoehe-zurechnungszeit",
+    "ablehnung-klage"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "arbeiten-hinzuverdienst-erprobung",
+   "kategorie": "rente",
+   "titel": "Arbeiten mit Erwerbsminderungsrente: Hinzuverdienst 2026 und Arbeitserprobung",
+   "icon": "💼",
+   "teaser": "Sie dürfen neben der Rente arbeiten, aber nur im Rahmen Ihres Leistungsvermögens und bis zu einer Grenze. Hier stehen die Zahlen für 2026.",
+   "schlagworte": [
+    "Hinzuverdienstgrenze",
+    "20.763,75",
+    "41.527,50",
+    "Arbeitserprobung",
+    "Leistungsvermögen",
+    "Meldepflicht",
+    "Wiedereingliederung"
+   ],
+   "kurz_html": "<p>Sie dürfen mit einer Erwerbsminderungsrente dazuverdienen. Wenn Sie über die Hinzuverdienstgrenze kommen, wird die Rente gekürzt.</p><p>Für 2026 nennt die Deutsche Rentenversicherung: 20.763,75 Euro im Jahr bei voller Erwerbsminderung. Bei teilweiser Erwerbsminderung sind es 41.527,50 Euro im Jahr.</p><p>Wichtig: Sie dürfen nur im Rahmen Ihres festgestellten Leistungsvermögens arbeiten. Sonst kann der Rentenanspruch entfallen, auch wenn der Verdienst unter der Grenze liegt.</p><p>Wollen Sie testen, ob Arbeit wieder geht, gibt es die Arbeitserprobung. Sprechen Sie vorher mit der Rentenversicherung.</p>",
+   "schritte": [
+    {
+     "titel": "Vorher melden",
+     "text": "Sagen Sie der Rentenversicherung vorab: Arbeitszeit, Art der Arbeit und erwarteter Verdienst."
+    },
+    {
+     "titel": "Grenze prüfen",
+     "text": "Vergleichen Sie Ihren voraussichtlichen Jahresverdienst mit der Grenze für Ihre Rentenart."
+    },
+    {
+     "titel": "Leistungsvermögen beachten",
+     "text": "Klären Sie, ob die Arbeitszeit zu Ihrem festgestellten Leistungsvermögen passt."
+    },
+    {
+     "titel": "Änderungen mitteilen",
+     "text": "Melden Sie Änderungen bei Arbeitszeit oder Verdienst."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "20.763,75 € pro Jahr",
+     "was": "Hinzuverdienstgrenze volle Erwerbsminderung 2026",
+     "grundlage": "DRV; § 96a SGB VI"
+    },
+    {
+     "wert": "41.527,50 € pro Jahr",
+     "was": "Hinzuverdienstgrenze teilweise Erwerbsminderung 2026 (Mindestgrenze, kann individuell höher liegen)",
+     "grundlage": "DRV; § 96a SGB VI"
+    },
+    {
+     "wert": "40 Prozent",
+     "was": "Anteil des übersteigenden Betrags, der von der Rente abgezogen wird",
+     "grundlage": "§ 96a SGB VI"
+    }
+   ],
+   "achtung": [
+    "Jede Erwerbstätigkeit sollten Sie der Rentenversicherung melden, auch wenn der Verdienst klar unter der Grenze liegt.",
+    "Bei teilweiser Erwerbsminderung zählen auch Krankengeld, Übergangsgeld und weitere Sozialleistungen als Hinzuverdienst.",
+    "Die Grenze für teilweise Erwerbsminderung kann höher sein als der Mindestbetrag, weil sie an Ihre früheren Verdienste anknüpft.",
+    "Erreicht der abzuziehende Hinzuverdienst den Rentenbetrag in voller Höhe, wird die Rente nicht geleistet (§ 96a Abs. 1a S. 3 SGB VI)."
+   ],
+   "fach_html": "<h3>Berechnung der Grenzen (§ 96a SGB VI)</h3><p>Bei voller Erwerbsminderung beträgt die Grenze nach dem Gesetzestext drei Achtel der 14fachen monatlichen Bezugsgröße. Bei teilweiser Erwerbsminderung ist es das 9,72fache der monatlichen Bezugsgröße, vervielfältigt mit den Entgeltpunkten des Kalenderjahres mit den höchsten Entgeltpunkten aus den letzten 15 Kalenderjahren, mindestens jedoch 6/8 des 14fachen. Für 2026 nennt die Deutsche Rentenversicherung 20.763,75 Euro (volle) und 41.527,50 Euro (teilweise). Die zweite Zahl ist demnach der Mindestwert. Ein Zwölftel des übersteigenden Betrags wird zu 40 Prozent von der Rente in voller Höhe abgezogen.</p><p>Nach § 96a Abs. 1a S. 3 SGB VI wird die Rente nicht geleistet, wenn der abzuziehende Hinzuverdienst den Rentenbetrag in voller Höhe erreicht.</p><h3>Was zählt als Hinzuverdienst</h3><p>Arbeitsentgelt, Arbeitseinkommen und vergleichbares Einkommen. Bestimmte Pflegeleistungen und Entgelte aus Behindertenwerkstätten sind ausgenommen. Die Abrechnung erfolgt aus dem voraussichtlichen Hinzuverdienst, mit späterer Korrektur bei erheblicher Abweichung.</p><h3>Leistungsvermögen und Arbeitserprobung</h3><p>Die Rentenversicherung weist darauf hin, dass eine Beschäftigung nur im Rahmen des festgestellten Leistungsvermögens ausgeübt werden darf. Nach der DRV-Meldung vom 22.01.2026 können Rentenbeziehende seit 2024 rund sechs Monate testen, ob Erwerbstätigkeit möglich ist, ohne den Rentenanspruch zu gefährden. § 43 Abs. 7 SGB VI nennt einen Übergangszeitraum von regelmäßig sechs Monaten, wenn die Erwerbstätigkeit das Leistungsvermögen überschreitet. Die genaue Ausgestaltung wurde nicht im Volltext geprüft.</p><h3>Verweis</h3><p>Ausführliche Erläuterungen zur Hinzuverdienstgrenze: Seite in der Gruppe Berufsunfähigkeit.</p>",
+   "zustaendig": [
+    "Deutsche Rentenversicherung (Servicetelefon laut DRV-Seite: 0800 1000 4800)",
+    "Rentenberatung"
+   ],
+   "belege": [
+    "§ 96a SGB VI, gesetze-im-internet.de, abgerufen 21.09.2026",
+    "DRV, Hinzuverdienstgrenzen bei Erwerbsminderungsrente (FAQ), abgerufen 21.09.2026",
+    "DRV, Meldung Erwerbsminderungsrente: Hinzuverdienstgrenzen, Arbeitserprobung (22.01.2026), abgerufen 21.09.2026",
+    "§ 43 SGB VI, gesetze-im-internet.de, abgerufen 21.09.2026"
+   ],
+   "siehe_auch": [
+    "befristung-verlaengerung",
+    "reha-lta-umdeutung",
+    "rechtslage-2026-reform"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "antrag-begutachtung-bescheid",
+   "kategorie": "verfahren",
+   "titel": "Antrag, Befundbericht, Begutachtung und Rentenbescheid",
+   "icon": "📋",
+   "teaser": "Wie die Rentenversicherung Ihre Leistungsfähigkeit prüft, welche ärztlichen Unterlagen dazugehören und worauf Sie im Bescheid achten.",
+   "schlagworte": [
+    "Antrag",
+    "Befundbericht",
+    "Gutachten",
+    "Rentenbescheid",
+    "Mitwirkung",
+    "S0051",
+    "R0210"
+   ],
+   "kurz_html": "<p>Über die Erwerbsminderung entscheidet die Rentenversicherung nach ärztlichen Unterlagen. Oft ist ein Befundbericht Ihrer Ärztin oder Ihres Arztes nötig. Manchmal gibt es ein Gutachten.</p><p>Sie müssen bei der Prüfung mitmachen. Beantworten Sie Fragebögen, gehen Sie zu Terminen und schicken Sie Unterlagen fristgerecht zurück.</p><p>Der Bescheid sagt: Rente ja oder nein, Rentenart, Beginn und Dauer. Prüfen Sie ihn genau. Bei Ablehnung gilt eine kurze Frist.</p>",
+   "schritte": [
+    {
+     "titel": "Antragsformulare nutzen",
+     "text": "Fordern Sie beim Rentenversicherungsträger die Formulare an oder stellen Sie den Antrag mit Beratung."
+    },
+    {
+     "titel": "Befunde sammeln",
+     "text": "Sammeln Sie Arztbriefe, Entlassberichte und Diagnosen."
+    },
+    {
+     "titel": "Mitwirken",
+     "text": "Beantworten Sie Anfragen und gehen Sie zu Gutachterterminen."
+    },
+    {
+     "titel": "Bescheid prüfen",
+     "text": "Prüfen Sie Rentenart, Beginn, Befristung und Einkommensanrechnung."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "1 Monat",
+     "was": "Widerspruchsfrist ab Bekanntgabe des Bescheids",
+     "grundlage": "§ 84 Abs. 1 SGG"
+    },
+    {
+     "wert": "3 Monate",
+     "was": "Widerspruchsfrist bei Bekanntgabe im Ausland",
+     "grundlage": "§ 84 SGG"
+    }
+   ],
+   "achtung": [
+    "Ärzte erstellen Befundberichte und Gutachten im Rentenverfahren nur auf Anforderung der Rentenversicherung.",
+    "Fragen Sie beim Rentenversicherungsträger vorab, ob ein Befundbericht oder ein Gutachten gebraucht wird.",
+    "Eine Rentenablehnung wegen fehlender Mitwirkung lässt sich oft vermeiden: Rückfragen frühzeitig beantworten.",
+    "Frist im Bescheid und im Widerspruchsverfahren strikt beachten."
+   ],
+   "fach_html": "<h3>Formulare</h3><p>Die Deutsche Rentenversicherung nennt für den Befundbericht im Rentenverfahren das Formular S0051 (ersetzt frühere Formulare) und eine Anlage zum Rentenantrag zur Feststellung der Erwerbsminderung (R0210). Befundberichte und Gutachten sollen nur auf Anforderung erstellt werden. Die Rentenversicherung empfiehlt, vorher zu erfragen, was der Träger braucht.</p><h3>Begutachtung</h3><p>Die Rentenversicherung führt sozialmedizinische Begutachtungen nach einheitlichen Standards durch. Was die Gutachterin oder der Gutachter beurteilen soll, ist das Leistungsvermögen im Sinne von § 43 SGB VI, also die Frage, wie viele Stunden täglich unter den üblichen Bedingungen des allgemeinen Arbeitsmarktes möglich sind. Details zu Untersuchungsablauf und Verpflichtung zum Erscheinen (§§ 60 ff. SGB I) wurden nicht im Volltext geprüft.</p><h3>Bescheid</h3><p>Im Bescheid stehen unter anderem Rentenart (volle oder teilweise Erwerbsminderung), Rentenbeginn und die Befristung. Widerspruch: einen Monat ab Bekanntgabe nach § 84 SGG, schriftlich, elektronisch oder zur Niederschrift bei der Behörde. Weitere Formulare und Details zum Widerspruch siehe Seite in der Gruppe Berufsunfähigkeit.</p>",
+   "zustaendig": [
+    "Deutsche Rentenversicherung (Bund oder Regionalträger)",
+    "behandelnde Ärztinnen und Ärzte",
+    "Beratungsstellen"
+   ],
+   "belege": [
+    "DRV, Formularpaket für Ärzte – Rentenverfahren, abgerufen 21.09.2026",
+    "DRV, Anlage zum Rentenantrag zur Feststellung der Erwerbsminderung (R0210), abgerufen 21.09.2026",
+    "§ 84 SGG, gesetze-im-internet.de, abgerufen 21.09.2026",
+    "DRV, Sozialmedizinische Begutachtung, abgerufen 21.09.2026"
+   ],
+   "siehe_auch": [
+    "ablehnung-klage",
+    "rentenhoehe-zurechnungszeit"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "ablehnung-klage",
+   "kategorie": "verfahren",
+   "titel": "Ablehnung: Widerspruch, Klage, Gutachten nach § 109 SGG",
+   "icon": "⚖️",
+   "teaser": "Wenn die Rente abgelehnt wird, gibt es feste Fristen. Diese Seite zeigt den Weg zum Sozialgericht und die Möglichkeit eines eigenen Gutachtens.",
+   "schlagworte": [
+    "Ablehnung",
+    "Widerspruch",
+    "Klage",
+    "Sozialgericht",
+    "Klagefrist",
+    "§ 109 SGG",
+    "Gutachten"
+   ],
+   "kurz_html": "<p>Wenn Sie den Rentenbescheid nicht akzeptieren wollen, haben Sie einen Monat Zeit für den Widerspruch. Das ist ein Brief an die Rentenversicherung.</p><p>Bleibt die Rentenversicherung dabei, bekommen Sie einen Widerspruchsbescheid. Danach haben Sie wieder einen Monat Zeit für die Klage beim Sozialgericht.</p><p>Vor dem Sozialgericht können Sie beantragen, dass ein von Ihnen benannter Arzt ein Gutachten erstellt. Diese Möglichkeit kann Kosten für Sie haben.</p>",
+   "schritte": [
+    {
+     "titel": "Frist notieren",
+     "text": "Tragen Sie das Ende der Monatsfrist ein und legen Sie fristgerecht Widerspruch ein."
+    },
+    {
+     "titel": "Widerspruch begründen",
+     "text": "Reichen Sie neue Befunde und Arztbriefe nach."
+    },
+    {
+     "titel": "Widerspruchsbescheid prüfen",
+     "text": "Lesen Sie den Bescheid und die Rechtsbehelfsbelehrung genau."
+    },
+    {
+     "titel": "Klage erwägen",
+     "text": "Holen Sie vor der Klage Beratung ein, etwa beim VdK, SoVD oder bei einem Rentenberater."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "1 Monat",
+     "was": "Widerspruch nach Bekanntgabe des Bescheids",
+     "grundlage": "§ 84 Abs. 1 SGG"
+    },
+    {
+     "wert": "1 Monat",
+     "was": "Klage nach Bekanntgabe des Widerspruchsbescheids",
+     "grundlage": "§ 87 SGG"
+    },
+    {
+     "wert": "3 Monate",
+     "was": "Fristen bei Bekanntgabe im Ausland",
+     "grundlage": "§§ 84, 87 SGG"
+    }
+   ],
+   "achtung": [
+    "Ein neuer Rentenantrag ersetzt keinen Widerspruch. Fristen laufen weiter.",
+    "Ein Gutachten nach § 109 SGG kann Kostenvorschuss verlangen. Ob das Gericht die Kosten trägt, entscheidet es.",
+    "Das Gericht kann den Antrag ablehnen, wenn er das Verfahren verzögert und zu spät gestellt wurde.",
+    "Im Zweifel: Beratung holen, bevor eine Frist abläuft."
+   ],
+   "fach_html": "<h3>Widerspruch</h3><p>Nach § 84 Abs. 1 SGG ist der Widerspruch binnen eines Monats nach Bekanntgabe des Verwaltungsakts einzulegen (drei Monate bei Bekanntgabe im Ausland). Er kann schriftlich, elektronisch oder zur Niederschrift bei der Behörde erhoben werden, die den Bescheid erlassen hat. Die Frist ist auch gewahrt, wenn der Widerspruch bei einer anderen inländischen Behörde, einem Versicherungsträger oder einer Konsularbehörde eingeht.</p><h3>Klage</h3><p>§ 87 SGG: Die Klage ist binnen eines Monats nach Bekanntgabe des Verwaltungsakts zu erheben. Wenn ein Vorverfahren stattgefunden hat, beginnt die Frist mit Bekanntgabe des Widerspruchsbescheids. Bei Bekanntgabe im Ausland drei Monate.</p><h3>Gutachten auf Antrag nach § 109 SGG</h3><p>Auf Antrag des Versicherten muss ein bestimmter Arzt gutachtlich gehört werden. Das Gericht kann verlangen, dass der Antragsteller die Kosten vorschießt und vorläufig oder endgültig trägt. Der Antrag kann abgelehnt werden, wenn er das Verfahren verzögern würde und aus grober Nachlässigkeit oder Verschleppungsabsicht zu spät gestellt wurde.</p><h3>Nicht geprüft</h3><p>Kostenfreiheit des Verfahrens, Prozesskostenhilfe, Untätigkeitsklage und Überprüfungsantrag (§ 44 SGB X) wurden hier nicht im Volltext geprüft. Weitere Erläuterungen zum Widerspruch: Gruppe Berufsunfähigkeit.</p>",
+   "zustaendig": [
+    "Deutsche Rentenversicherung (Widerspruchsstelle)",
+    "Sozialgericht",
+    "VdK, SoVD, Rentenberatung"
+   ],
+   "belege": [
+    "§ 84 SGG, gesetze-im-internet.de, abgerufen 21.09.2026",
+    "§ 87 SGG, gesetze-im-internet.de, abgerufen 21.09.2026",
+    "§ 109 SGG, gesetze-im-internet.de, abgerufen 21.09.2026"
+   ],
+   "siehe_auch": [
+    "antrag-begutachtung-bescheid",
+    "befristung-verlaengerung"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "krankengeld-aussteuerung",
+   "kategorie": "uebergang",
+   "titel": "Krankengeld: 78 Wochen, Aussteuerung und Aufforderung zum Reha-Antrag",
+   "icon": "🩺",
+   "teaser": "Krankengeld ist zeitlich begrenzt. Hier steht, wann es endet und was die Krankenkasse von Ihnen verlangen darf.",
+   "schlagworte": [
+    "Krankengeld",
+    "Aussteuerung",
+    "78 Wochen",
+    "10-Wochen-Frist",
+    "Reha-Antrag",
+    "Blockfrist",
+    "Krankenkasse"
+   ],
+   "kurz_html": "<p>Für dieselbe Krankheit bekommen Sie Krankengeld höchstens 78 Wochen innerhalb von drei Jahren. Danach endet es. Das nennt man Aussteuerung.</p><p>Wenn Ihre Erwerbsfähigkeit gefährdet ist, kann die Krankenkasse Sie auffordern, einen Reha-Antrag zu stellen. Dafür setzt sie eine Frist von 10 Wochen. Halten Sie die Frist nicht ein, entfällt das Krankengeld.</p><p>Planen Sie das Ende früh. Sprechen Sie mit Krankenkasse, Ärztin oder Arzt und Beratungsstelle, bevor das Krankengeld ausläuft.</p>",
+   "schritte": [
+    {
+     "titel": "Ende des Krankengelds erfragen",
+     "text": "Fragen Sie die Krankenkasse nach dem Aussteuerungsdatum."
+    },
+    {
+     "titel": "Aufforderung lesen",
+     "text": "Lesen Sie Schreiben der Krankenkasse mit Fristsetzung sofort."
+    },
+    {
+     "titel": "Reha- oder Rentenantrag klären",
+     "text": "Lassen Sie prüfen, welcher Antrag jetzt sinnvoll ist."
+    },
+    {
+     "titel": "Arbeitslosmeldung vorbereiten",
+     "text": "Klären Sie rechtzeitig, ob danach Arbeitslosengeld nach der Nahtlosigkeitsregelung möglich ist."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "78 Wochen",
+     "was": "Höchstdauer Krankengeld je Krankheit innerhalb von drei Jahren",
+     "grundlage": "§ 48 Abs. 1 SGB V"
+    },
+    {
+     "wert": "10 Wochen",
+     "was": "Frist der Krankenkasse für den Reha-Antrag",
+     "grundlage": "§ 51 Abs. 1 SGB V"
+    },
+    {
+     "wert": "6 Monate",
+     "was": "Neuer Anspruch in einem neuen Dreijahreszeitraum bei erneuter Arbeitsunfähigkeit, wenn zwischenzeitlich mindestens 6 Monate nicht wegen dieser Krankheit arbeitsunfähig und erwerbstätig oder der Arbeitsvermittlung zur Verfügung stehend",
+     "grundlage": "§ 48 Abs. 2 SGB V"
+    }
+   ],
+   "achtung": [
+    "Nach Ablauf der Frist nach § 51 SGB V entfällt das Krankengeld. Wird der Antrag später gestellt, lebt der Anspruch ab Antragstellung wieder auf.",
+    "Eine zweite Erkrankung während der ersten Arbeitsunfähigkeit verlängert die 78 Wochen nicht.",
+    "Zeiten, in denen Krankengeld ruht oder versagt wird, zählen mit. Zeiten ohne Anspruch zählen nicht.",
+    "Nur die Aufforderung zum Antrag auf Rente wegen voller Erwerbsminderung ist an Wohnsitz oder Aufenthalt im Ausland geknüpft (§ 51 Abs. 1 S. 2 SGB V, Frist 10 Wochen; Alternative: Reha-Antrag). Unabhängig vom Wohnort kann die Krankenkasse nach § 51 Abs. 2 SGB V eine Frist von 10 Wochen für einen Antrag auf Regelaltersrente setzen. Ein erzwungener Reha-Antrag kann als Rentenantrag gelten (§ 116 Abs. 2 SGB VI)."
+   ],
+   "fach_html": "<h3>Dauer nach § 48 SGB V</h3><p>Versicherte erhalten Krankengeld ohne zeitliche Begrenzung, für den Fall der Arbeitsunfähigkeit wegen derselben Krankheit jedoch für längstens 78 Wochen innerhalb von je drei Jahren, gerechnet vom Tag des Beginns der Arbeitsunfähigkeit an. Die Dreijahresfrist läuft kalendarisch ab Beginn der Arbeitsunfähigkeit. Nach § 48 Abs. 2 SGB V besteht ein neuer Anspruch in einem neuen Dreijahreszeitraum, wenn die Versicherten bei erneuter Arbeitsunfähigkeit mit Anspruch auf Krankengeld versichert sind und zwischenzeitlich mindestens sechs Monate nicht wegen dieser Krankheit arbeitsunfähig waren sowie erwerbstätig waren oder der Arbeitsvermittlung zur Verfügung standen.</p><h3>Höhe (§ 47 Abs. 1 SGB V)</h3><p>Krankengeld beträgt 70 Prozent des erzielten regelmäßigen Arbeitsentgelts (Regelentgelt), höchstens 90 Prozent des Nettoarbeitsentgelts.</p><h3>Aufforderung nach § 51 SGB V</h3><p>Wenn die Erwerbsfähigkeit erheblich gefährdet oder gemindert ist, kann die Krankenkasse eine Frist von zehn Wochen setzen, um einen Antrag auf Leistungen zur medizinischen Rehabilitation und zur Teilhabe am Arbeitsleben zu stellen. Stellen Versicherte den Antrag innerhalb der Frist nicht, entfällt der Anspruch auf Krankengeld mit Ablauf der Frist. Wird der Antrag später gestellt, lebt der Anspruch mit dem Tag der Antragstellung wieder auf. Nur die Aufforderung zum Antrag auf Rente wegen voller Erwerbsminderung ist an Wohnsitz oder Aufenthalt im Ausland geknüpft (§ 51 Abs. 1 S. 2 SGB V, Frist 10 Wochen; Alternative: Reha-Antrag). Unabhängig vom Wohnort kann die Krankenkasse nach § 51 Abs. 2 SGB V eine Frist von 10 Wochen für einen Antrag auf Regelaltersrente setzen.</p><h3>Nicht geprüft</h3><p>Beitragsfreiheit, Einzelfälle zur Rentenantragstellung, Rechtsprechung zur Aussteuerung und Meldepflichten bei Krankenkasse und Arbeitgeber wurden nicht in einer Primärquelle geprüft.</p>",
+   "zustaendig": [
+    "Krankenkasse",
+    "Deutsche Rentenversicherung",
+    "Agentur für Arbeit"
+   ],
+   "belege": [
+    "§ 48 SGB V, gesetze-im-internet.de, abgerufen 21.09.2026",
+    "§ 51 SGB V, gesetze-im-internet.de, abgerufen 21.09.2026",
+    "§ 101 SGB VI, gesetze-im-internet.de, abgerufen 21.09.2026",
+    "§ 47 SGB V, gesetze-im-internet.de, abgerufen 21.09.2026"
+   ],
+   "siehe_auch": [
+    "nahtlosigkeit-alg",
+    "reha-lta-umdeutung",
+    "grundsicherung-uebergang"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "nahtlosigkeit-alg",
+   "kategorie": "uebergang",
+   "titel": "Arbeitslosengeld bei geminderter Leistungsfähigkeit (Nahtlosigkeit, § 145 SGB III)",
+   "icon": "🔗",
+   "teaser": "Nach dem Krankengeld kann Arbeitslosengeld folgen, obwohl Sie gesundheitlich eingeschränkt sind. Die Nahtlosigkeitsregelung schließt Lücken bis zur Rentenentscheidung.",
+   "schlagworte": [
+    "Nahtlosigkeit",
+    "§ 145 SGB III",
+    "Arbeitslosengeld",
+    "15 Stunden",
+    "Leistungsminderung",
+    "Reha-Antrag",
+    "Ruhen"
+   ],
+   "kurz_html": "<p>Nach dem Ende des Krankengelds gibt es oft eine Lücke. Die Rentenversicherung hat noch nicht entschieden, ob Sie erwerbsgemindert sind. Die Arbeitsagentur sagt vielleicht, Sie seien nicht vermittelbar.</p><p>Dafür gibt es § 145 SGB III. Wenn Ihre Leistungsfähigkeit länger als sechs Monate gemindert ist und Sie deshalb keine versicherungspflichtige Arbeit von mindestens 15 Stunden pro Woche ausüben können, kann Arbeitslosengeld gezahlt werden. Voraussetzung: Die Rentenversicherung hat noch keine verminderte Erwerbsfähigkeit festgestellt.</p><p>Die Arbeitsagentur fordert Sie dann auf, innerhalb eines Monats einen Reha-Antrag zu stellen. Wird er fristgerecht gestellt, gilt er als gleichzeitig mit dem Arbeitslosengeld-Antrag gestellt.</p>",
+   "schritte": [
+    {
+     "titel": "Vor dem Ende des Krankengelds melden",
+     "text": "Sprechen Sie frühzeitig mit der Agentur für Arbeit."
+    },
+    {
+     "titel": "Arbeitslosengeld beantragen",
+     "text": "Stellen Sie den Antrag auf Arbeitslosengeld. Bei Krankheit kann ein Vertreter die Arbeitslosmeldung übernehmen."
+    },
+    {
+     "titel": "Reha-Antrag stellen",
+     "text": "Reichen Sie den Reha-Antrag innerhalb der gesetzten Monatsfrist ein."
+    },
+    {
+     "titel": "Rentenbescheid abwarten",
+     "text": "Bei Rentenbewilligung gibt es Erstattungen zwischen den Trägern."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "1 Monat",
+     "was": "Frist zum Reha-Antrag nach Aufforderung der Agentur für Arbeit",
+     "grundlage": "§ 145 Abs. 2 SGB III"
+    },
+    {
+     "wert": "mehr als 6 Monate",
+     "was": "Dauer der Leistungsminderung",
+     "grundlage": "§ 145 Abs. 1 SGB III"
+    },
+    {
+     "wert": "15 Stunden pro Woche",
+     "was": "Mindestumfang der versicherungspflichtigen Beschäftigung, die nicht möglich sein muss",
+     "grundlage": "§ 145 Abs. 1 SGB III"
+    }
+   ],
+   "achtung": [
+    "Ohne fristgerechten Reha-Antrag ruht der Leistungsanspruch bis zur Antragstellung (§ 145 Abs. 2 SGB III).",
+    "Stellt die Rentenversicherung Erwerbsminderung fest, gilt die Nahtlosigkeit nicht mehr. Bei Rentenzahlung kann Arbeitslosengeld erstattet werden.",
+    "Bei Übergangsgeld oder Erwerbsminderungsrente hat die Bundesagentur Erstattungsansprüche (§ 145 Abs. 3 SGB III).",
+    "Ob Sie die weiteren Voraussetzungen für Arbeitslosengeld erfüllen (Anwartschaftszeit), wurde hier nicht geprüft."
+   ],
+   "fach_html": "<h3>Regelung</h3><p>§ 145 SGB III (Minderung der Leistungsfähigkeit) bestimmt, dass Arbeitslosengeld erhält, wer aufgrund einer länger als sechs Monate andauernden Leistungsminderung eine versicherungspflichtige Beschäftigung von mindestens 15 Wochenstunden nicht unter den Bedingungen ausüben kann, die auf dem für sie in Betracht kommenden Arbeitsmarkt ohne Berücksichtigung der Minderung der Leistungsfähigkeit üblich sind, soweit keine verminderte Erwerbsfähigkeit nach den Vorschriften der gesetzlichen Rentenversicherung festgestellt wurde. Die Feststellung trifft der Rentenversicherungsträger. Bei gesundheitlichen Beeinträchtigungen kann die Arbeitslosmeldung durch einen Vertreter erfolgen; die Person muss sich dann unverzüglich persönlich melden, sobald das möglich ist.</p><h3>Aufforderung zum Reha-Antrag</h3><p>Die Agentur für Arbeit soll die Person auffordern, innerhalb eines Monats einen Antrag auf Leistungen zur Rehabilitation zu stellen. Bei fristgerechtem Antrag gilt er als gleichzeitig mit dem Arbeitslosengeld-Antrag gestellt. Bei Versäumnis oder fehlender Mitwirkung ruht der Anspruch bis zur Antragstellung oder zum Rentenantrag.</p><h3>Erstattung</h3><p>Zahlt die Rentenversicherung Übergangsgeld oder Erwerbsminderungsrente, hat die Bundesagentur Erstattungsansprüche (§ 145 Abs. 3). Die Höhe des Arbeitslosengelds und die Anwartschaftszeit wurden nicht geprüft; siehe Gruppe Arbeitslose.</p><h3>Nicht geprüft</h3><p>Aktuelle Weisungen der Bundesagentur zur Nahtlosigkeit und mögliche Änderungen durch die Reform der Grundsicherung 2026 wurden nicht in Primärquellen geprüft.</p>",
+   "zustaendig": [
+    "Agentur für Arbeit",
+    "Deutsche Rentenversicherung",
+    "Krankenkasse"
+   ],
+   "belege": [
+    "§ 145 SGB III, gesetze-im-internet.de, abgerufen 21.09.2026",
+    "§ 116 SGB VI, gesetze-im-internet.de, abgerufen 21.09.2026",
+    "§ 51 SGB V, gesetze-im-internet.de, abgerufen 21.09.2026"
+   ],
+   "siehe_auch": [
+    "krankengeld-aussteuerung",
+    "grundsicherung-uebergang",
+    "reha-lta-umdeutung"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "grundsicherung-uebergang",
+   "kategorie": "uebergang",
+   "titel": "Grundsicherungsgeld oder Grundsicherung bei Erwerbsminderung: Wer zahlt wann",
+   "icon": "🏛️",
+   "teaser": "Reicht die Rente nicht, gibt es Grundsicherung. Ob das Jobcenter oder das Sozialamt zuständig ist, hängt davon ab, ob Sie noch drei Stunden täglich arbeiten können.",
+   "schlagworte": [
+    "Grundsicherungsgeld",
+    "Bürgergeld",
+    "SGB XII Kapitel 4",
+    "§ 41 SGB XII",
+    "Regelbedarf 563",
+    "Sozialamt",
+    "Jobcenter",
+    "Erwerbsfähigkeit"
+   ],
+   "kurz_html": "<p>Ob das Jobcenter oder das Sozialamt zuständig ist, hängt von Ihrer Erwerbsfähigkeit ab. Erwerbsfähig im Sinne des Jobcenter-Rechts ist, wer mindestens 3 Stunden täglich arbeiten kann (§ 8 SGB II). Seit dem 1. Juli 2026 heißt das frühere Bürgergeld Grundsicherungsgeld. Die Reform tritt schrittweise in Kraft.</p><p>Wer dauerhaft voll erwerbsgemindert ist und über 18 Jahre alt ist, kann Grundsicherung bei Erwerbsminderung vom Sozialamt bekommen (§ 41 SGB XII), wenn Einkommen und Vermögen nicht reichen.</p><p>Für alleinstehende Erwachsene beträgt der Regelbedarf 2026 laut Bundesregierung 563 Euro im Monat. Dazu kommen Miete und Heizung in angemessener Höhe.</p>",
+   "schritte": [
+    {
+     "titel": "Zuständigkeit klären",
+     "text": "Fragen Sie beim Jobcenter oder Sozialamt, wer für Sie zuständig ist."
+    },
+    {
+     "titel": "Antrag stellen",
+     "text": "Stellen Sie den Antrag beim zuständigen Amt, möglichst mit Beratung."
+    },
+    {
+     "titel": "Rentenversicherung einbinden",
+     "text": "Das Sozialamt bittet bei Bedarf die Rentenversicherung um Prüfung der Erwerbsminderung."
+    },
+    {
+     "titel": "Einkommen und Vermögen angeben",
+     "text": "Reichen Sie die Nachweise vollständig ein."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "563 € monatlich",
+     "was": "Regelbedarfsstufe 1 (alleinstehend) 2026, unverändert zu 2025",
+     "grundlage": "Bundesregierung, Regelbedarfe 2026"
+    },
+    {
+     "wert": "3 Stunden täglich",
+     "was": "Grenze der Erwerbsfähigkeit im SGB II",
+     "grundlage": "§ 8 SGB II"
+    },
+    {
+     "wert": "ab 18 Jahre",
+     "was": "Alter für Grundsicherung bei dauerhafter voller Erwerbsminderung; ausgeschlossen ist, wer in den letzten 10 Jahren die Hilfebedürftigkeit vorsätzlich oder grob fahrlässig herbeigeführt hat",
+     "grundlage": "§ 41 Abs. 3 und 4 SGB XII"
+    }
+   ],
+   "achtung": [
+    "Ob Sie zum Jobcenter oder zum Sozialamt müssen, kann strittig sein. Für Streitfälle gibt es nach dem Gesetz die Stellungnahme der Rentenversicherung; Einzelheiten hier nicht im Volltext geprüft.",
+    "Bei befristeter voller Erwerbsminderungsrente ist die Zuständigkeit nicht im Volltext geprüft. Fragen Sie das Sozialamt.",
+    "Die Entscheidung der Rentenversicherung über die dauerhafte volle Erwerbsminderung ist für das Sozialamt bindend (§ 45 SGB XII).",
+    "Zahlen zu Vermögensgrenzen und Anrechnung der Rente wurden hier nicht geprüft."
+   ],
+   "fach_html": "<h3>Jobcenter</h3><p>Nach § 8 SGB II ist erwerbsfähig, wer nicht durch Krankheit oder Behinderung auf absehbare Zeit außerstande ist, unter den üblichen Bedingungen des allgemeinen Arbeitsmarktes mindestens drei Stunden täglich erwerbstätig zu sein. Das Bürgergeld wird seit 1. Juli 2026 schrittweise zum Grundsicherungsgeld umgestaltet (Bundestag 5. März 2026, Bundesrat 27. März 2026). Nach der Bundesregierung sollen Menschen mit gesundheitlichen Einschränkungen gezielter unterstützt werden. Einzelheiten zu Auswirkungen auf Erwerbsgeminderte wurden nicht im Volltext geprüft.</p><h3>Sozialamt</h3><p>§ 41 SGB XII: Leistungsberechtigt nach Kapitel 4 sind Personen mit gewöhnlichem Aufenthalt im Inland, die ihren notwendigen Lebensunterhalt nicht oder nicht ausreichend aus Einkommen und Vermögen bestreiten können, und zwar (unter anderem) Personen ab 18 Jahren (§ 41 Abs. 3), die dauerhaft voll erwerbsgemindert sind, ohne Aussicht auf Besserung. Nach § 41 Abs. 4 ist ausgeschlossen, wer in den letzten zehn Jahren die Hilfebedürftigkeit vorsätzlich oder grob fahrlässig herbeigeführt hat.</p><h3>Feststellung der Erwerbsminderung</h3><p>§ 45 SGB XII: Der Sozialhilfeträger ersucht den Rentenversicherungsträger um Prüfung der medizinischen Voraussetzungen, wenn dies wahrscheinlich erscheint und Einkommen und Vermögen nicht ausreichen. Die Entscheidung des Rentenversicherungsträgers ist bindend. Ausnahmen bestehen unter anderem, wenn bereits eine Feststellung oder eine gutachterliche Stellungnahme vorliegt oder bei Werkstattverfahren.</p><h3>Regelbedarf</h3><p>Die Bundesregierung nennt für 2026 563 Euro für Alleinstehende, 506 Euro je Partner, 390 Euro für Kinder von 6 bis 13 und 357 Euro für Kinder von 0 bis 5 Jahren. Der einmal gewährte Betrag muss in den Folgejahren mindestens beibehalten werden (Besitzschutz).</p><p>Grundsicherung im Alter und Wohngeld: Gruppe Rentner. Jobcenter-Pflichten: Gruppe Arbeitslose.</p>",
+   "zustaendig": [
+    "Sozialamt (Grundsicherung bei Erwerbsminderung)",
+    "Jobcenter (Grundsicherungsgeld)",
+    "Deutsche Rentenversicherung (medizinische Prüfung)"
+   ],
+   "belege": [
+    "§ 41 SGB XII, gesetze-im-internet.de, abgerufen 21.09.2026",
+    "§ 45 SGB XII, gesetze-im-internet.de, abgerufen 21.09.2026",
+    "§ 8 SGB II, gesetze-im-internet.de, abgerufen 21.09.2026",
+    "Bundesregierung, Regelbedarfe 2026, abgerufen 21.09.2026",
+    "Bundesregierung, Bürgergeld wird zur neuen Grundsicherung, abgerufen 21.09.2026"
+   ],
+   "siehe_auch": [
+    "nahtlosigkeit-alg",
+    "steuer-wohngeld-weitere-hilfen",
+    "rechtslage-2026-reform"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "reha-lta-umdeutung",
+   "kategorie": "teilhabe",
+   "titel": "Reha, Teilhabe am Arbeitsleben und wenn die Reha zum Rentenantrag wird",
+   "icon": "🏥",
+   "teaser": "Die Rentenversicherung prüft zuerst, ob Reha oder Hilfen im Beruf helfen. Diese Seite zeigt die Voraussetzungen und die Umdeutung des Antrags.",
+   "schlagworte": [
+    "Reha",
+    "Leistungen zur Teilhabe am Arbeitsleben",
+    "LTA",
+    "Umdeutung",
+    "Übergangsgeld",
+    "§ 116 SGB VI",
+    "Wartezeit 15 Jahre"
+   ],
+   "kurz_html": "<p>Der Grundsatz heißt: Reha vor Rente. Die Rentenversicherung prüft, ob medizinische Reha oder Hilfen für die Arbeit (zum Beispiel Umschulung) Ihre Erwerbsfähigkeit erhalten oder verbessern können.</p><p>Es kann passieren, dass ein Reha-Antrag als Rentenantrag gilt. Das ist so, wenn Ihre Erwerbsfähigkeit gemindert ist und Reha nicht mehr Erfolg verspricht, oder wenn sie erfolglos blieb. Das ist die Umdeutung nach § 116 SGB VI.</p><p>Auch die Krankenkasse oder die Arbeitsagentur kann Sie auffordern, einen Reha-Antrag zu stellen. Beachten Sie dann die Fristen.</p>",
+   "schritte": [
+    {
+     "titel": "Reha mit Ärzten besprechen",
+     "text": "Klären Sie mit Ihrer Ärztin oder Ihrem Arzt, ob Reha sinnvoll ist."
+    },
+    {
+     "titel": "Antrag stellen",
+     "text": "Stellen Sie den Reha-Antrag bei der Rentenversicherung."
+    },
+    {
+     "titel": "Voraussetzungen prüfen lassen",
+     "text": "Die Rentenversicherung prüft die persönlichen und versicherungsrechtlichen Voraussetzungen."
+    },
+    {
+     "titel": "Bescheid und Folgen beachten",
+     "text": "Fragen Sie nach, ob der Antrag auch als Rentenantrag gilt."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "15 Jahre Wartezeit oder Rente wegen verminderter Erwerbsfähigkeit",
+     "was": "versicherungsrechtliche Voraussetzung für Reha (weitere Wege in § 11)",
+     "grundlage": "§ 11 SGB VI"
+    },
+    {
+     "wert": "10 Wochen",
+     "was": "Frist der Krankenkasse für den Reha-Antrag",
+     "grundlage": "§ 51 SGB V"
+    },
+    {
+     "wert": "1 Monat",
+     "was": "Frist der Agentur für Arbeit für den Reha-Antrag",
+     "grundlage": "§ 145 Abs. 2 SGB III"
+    }
+   ],
+   "achtung": [
+    "Ein Reha-Antrag kann als Rentenantrag gelten (§ 116 Abs. 2 SGB VI). Lassen Sie sich vorher beraten.",
+    "Wird Übergangsgeld gezahlt und später Rente für dieselbe Zeit bewilligt, ist der Rentenanspruch insoweit erfüllt. Ein Überschuss des Übergangsgeldes wird nicht zurückgefordert (§ 116 Abs. 3 SGB VI).",
+    "Zuständig kann auch ein anderer Reha-Träger sein, etwa die Krankenkasse. Frist zur Zuständigkeitsklärung: 2 Wochen nach Antragseingang (§ 14 SGB IX)."
+   ],
+   "fach_html": "<h3>Persönliche Voraussetzungen (§ 10 SGB VI)</h3><p>Versicherte müssen eine erheblich gefährdete oder geminderte Erwerbsfähigkeit haben, und es muss erwartet werden, dass Maßnahmen zur medizinischen Rehabilitation oder zur Teilhabe am Arbeitsleben eine drohende Minderung abwenden oder eine bestehende bessern oder wiederherstellen können. Bei teilweiser Erwerbsminderung muss dadurch der Arbeitsplatz erhalten oder ein neuer erlangt werden können.</p><h3>Versicherungsrechtliche Voraussetzungen (§ 11 SGB VI)</h3><p>Regelfall: Wartezeit von 15 Jahren oder bereits Bezug einer Rente wegen verminderter Erwerbsfähigkeit. Erleichterte Voraussetzungen gelten unter anderem bei sechs Kalendermonaten Pflichtbeiträgen in den letzten zwei Jahren. Für berufliche Wiedereingliederung reicht auch, dass ohne die Leistung eine Erwerbsminderungsrente zu leisten wäre.</p><h3>Umdeutung und Übergangsgeld (§ 116 SGB VI)</h3><p>Ein Antrag auf medizinische Rehabilitation oder berufliche Teilhabe gilt als Rentenantrag, wenn die Erwerbsfähigkeit gemindert ist und Erfolg nicht zu erwarten ist oder die Maßnahmen erfolglos waren. Gezahltes Übergangsgeld wird auf die Rente für dieselbe Zeit angerechnet.</p><h3>Übergangsgeld (§ 66 SGB IX)</h3><p>Übergangsgeld beträgt 75 Prozent, wenn mindestens ein Kind zu berücksichtigen ist oder der Partner pflegebedingt nicht erwerbstätig ist, sonst 68 Prozent.</p><h3>Zuständigkeitsklärung und Entscheidung (§ 14 SGB IX)</h3><p>Der zuerst angegangene Reha-Träger klärt seine Zuständigkeit innerhalb von zwei Wochen nach Antragseingang. Die Entscheidung über den Antrag fällt innerhalb von drei Wochen nach Antragseingang, bei erforderlichem Gutachten innerhalb von zwei Wochen nach Vorliegen des Gutachtens.</p><h3>Zuzahlung (§ 62 SGB V)</h3><p>Die Belastungsgrenze für Zuzahlungen beträgt 2 Prozent der Bruttoeinnahmen, bei chronisch Kranken in Dauerbehandlung 1 Prozent.</p><h3>Nicht geprüft</h3><p>Dauer und Ablauf der Reha. Zur Reha in der Krankenversicherung: Gruppe Chronisch Kranke. Grundlagen zu Reha vor Rente: Gruppe Berufsunfähigkeit.</p>",
+   "zustaendig": [
+    "Deutsche Rentenversicherung",
+    "Krankenkasse",
+    "Agentur für Arbeit"
+   ],
+   "belege": [
+    "§ 10 SGB VI, gesetze-im-internet.de, abgerufen 21.09.2026",
+    "§ 11 SGB VI, gesetze-im-internet.de, abgerufen 21.09.2026",
+    "§ 116 SGB VI, gesetze-im-internet.de, abgerufen 21.09.2026",
+    "DRV, Erwerbsminderungsrenten, abgerufen 21.09.2026",
+    "§§ 14, 66 SGB IX; § 62 SGB V, gesetze-im-internet.de"
+   ],
+   "siehe_auch": [
+    "krankengeld-aussteuerung",
+    "werkstatt-budget-arbeit",
+    "arbeiten-hinzuverdienst-erprobung"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "werkstatt-budget-arbeit",
+   "kategorie": "teilhabe",
+   "titel": "Werkstatt für behinderte Menschen und Budget für Arbeit",
+   "icon": "🏭",
+   "teaser": "Wenn der allgemeine Arbeitsmarkt (noch) nicht möglich ist, gibt es geschützte Beschäftigung und Zuschüsse für Arbeitgeber.",
+   "schlagworte": [
+    "Werkstatt",
+    "WfbM",
+    "Budget für Arbeit",
+    "Lohnkostenzuschuss",
+    "75 Prozent",
+    "§ 219 SGB IX",
+    "§ 61 SGB IX"
+   ],
+   "kurz_html": "<p>Nicht alle können auf dem allgemeinen Arbeitsmarkt arbeiten. Eine Werkstatt für behinderte Menschen bietet Bildung und Beschäftigung. Voraussetzung ist, dass Sie spätestens nach der beruflichen Bildung wenigstens ein Mindestmaß wirtschaftlich verwertbarer Arbeitsleistung erbringen können.</p><p>Das Budget für Arbeit hilft beim Weg in eine Arbeit bei einem normalen Arbeitgeber. Der Arbeitgeber kann einen Lohnkostenzuschuss von bis zu 75 Prozent des Arbeitsentgelts bekommen. Dazu gibt es Geld für Anleitung und Begleitung am Arbeitsplatz.</p><p>Es gibt keinen Anspruch, dass der Träger eine Stelle bei einem Arbeitgeber vermittelt.</p>",
+   "schritte": [
+    {
+     "titel": "Beratung nutzen",
+     "text": "Lassen Sie sich von der EUTB und dem Rehaträger beraten."
+    },
+    {
+     "titel": "Träger klären",
+     "text": "Fragen Sie, wer zuständig ist, zum Beispiel Rentenversicherung, Bundesagentur oder Eingliederungshilfe."
+    },
+    {
+     "titel": "Arbeitgeber oder Werkstatt suchen",
+     "text": "Suchen Sie einen Arbeitgeber oder eine Werkstatt in Ihrer Region."
+    },
+    {
+     "titel": "Antrag stellen",
+     "text": "Stellen Sie den Antrag beim zuständigen Träger."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "bis zu 75 Prozent",
+     "was": "Lohnkostenzuschuss im Budget für Arbeit",
+     "grundlage": "§ 61 SGB IX"
+    },
+    {
+     "wert": "Mindestmaß",
+     "was": "wirtschaftlich verwertbare Arbeitsleistung als Aufnahmevoraussetzung der Werkstatt",
+     "grundlage": "§ 219 SGB IX"
+    }
+   ],
+   "achtung": [
+    "Entgelt aus Behindertenwerkstätten ist bei der Hinzuverdienstgrenze nach § 96a SGB VI ausgenommen. Details prüfen lassen.",
+    "Wer ohne wirtschaftlich verwertbare Leistung in der Werkstatt ist, kann anderweitig betreut werden (§ 219 SGB IX).",
+    "Die Voraussetzung nach § 58 SGB IX für das Budget für Arbeit wurde hier nicht im Volltext geprüft."
+   ],
+   "fach_html": "<h3>Werkstatt (§ 219 SGB IX)</h3><p>Die Werkstatt ist eine Einrichtung zur Teilhabe am Arbeitsleben und zur Eingliederung in das Arbeitsleben für Menschen, die wegen Art oder Schwere der Behinderung nicht, noch nicht oder noch nicht wieder auf dem allgemeinen Arbeitsmarkt tätig sein können. Sie bietet berufliche Bildung und Beschäftigung und fördert den Übergang auf den allgemeinen Arbeitsmarkt. Aufnahme: Erwartung von mindestens einem Mindestmaß wirtschaftlich verwertbarer Arbeitsleistung spätestens nach Maßnahmen im Berufsbildungsbereich. Ausgeschlossen sind Personen mit erheblicher Selbst- oder Fremdgefährdung oder mit einem Betreuungsaufwand, der ein Mindestmaß dauerhaft unmöglich macht.</p><h3>Budget für Arbeit (§ 61 SGB IX)</h3><p>Wer nach § 58 SGB IX leistungsberechtigt ist und ein Angebot für ein sozialversicherungspflichtiges Arbeitsverhältnis zu tariflichem oder ortsüblichem Entgelt erhält, kann das Budget für Arbeit beantragen. Es umfasst einen Lohnkostenzuschuss (bis zu 75 Prozent des regelmäßig gezahlten Arbeitsentgelts) und die Aufwendungen für Anleitung und Begleitung. Ein Zuschuss entfällt bei Verdacht, dass ein anderer Arbeitnehmer nur zur Erlangung des Zuschusses entlassen wurde. § 61 Abs. 2 SGB IX nennt aktuell keine betragsmäßige Obergrenze. Der Lohnkostenzuschuss beträgt bis zu 75 Prozent des regelmäßig gezahlten Arbeitsentgelts; Dauer und Umfang richten sich nach dem Einzelfall.</p><h3>Verweis</h3><p>Die Gruppe Menschen mit Behinderung erklärt weitere Teilhabeleistungen wie das Persönliche Budget.</p>",
+   "zustaendig": [
+    "Eingliederungshilfeträger, Rentenversicherung oder Agentur für Arbeit je nach Fall",
+    "EUTB",
+    "Integrationsamt (nicht geprüft)"
+   ],
+   "belege": [
+    "§ 219 SGB IX, gesetze-im-internet.de, abgerufen 21.09.2026",
+    "§ 61 SGB IX, gesetze-im-internet.de, abgerufen 21.09.2026",
+    "§ 96a SGB VI, gesetze-im-internet.de, abgerufen 21.09.2026"
+   ],
+   "siehe_auch": [
+    "reha-lta-umdeutung",
+    "arbeiten-hinzuverdienst-erprobung",
+    "beratung-erwerbsgeminderte"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "kranken-pflegeversicherung",
+   "kategorie": "absicherung",
+   "titel": "Krankenversicherung und Pflegeversicherung bei Erwerbsminderungsrente",
+   "icon": "🩹",
+   "teaser": "Ob Sie in der gesetzlichen Krankenversicherung der Rentner pflichtversichert sind, hängt von Ihrer Vorversicherung ab.",
+   "schlagworte": [
+    "KVdR",
+    "Krankenversicherung der Rentner",
+    "9/10",
+    "Rahmenfrist",
+    "freiwillig versichert",
+    "Familienversicherung",
+    "Pflegeversicherung"
+   ],
+   "kurz_html": "<p>Wenn Sie eine Erwerbsminderungsrente beantragen, prüft die Krankenkasse, ob Sie in der Krankenversicherung der Rentner (KVdR) pflichtversichert sind.</p><p>Die Regel: Sie müssen in der zweiten Hälfte der Zeit seit Ihrem ersten Erwerbsleben zu mindestens neun Zehnteln gesetzlich versichert gewesen sein (§ 5 Abs. 1 Nr. 11 SGB V). Wenn das nicht erfüllt ist, gibt es andere Möglichkeiten, zum Beispiel freiwillige Versicherung oder Familienversicherung.</p><p>Melden Sie den Rentenantrag frühzeitig bei Ihrer Krankenkasse. Lassen Sie den Beitragsabzug im Bescheid prüfen.</p>",
+   "schritte": [
+    {
+     "titel": "Krankenkasse informieren",
+     "text": "Teilen Sie der Krankenkasse mit, dass Sie eine Rente beantragt haben."
+    },
+    {
+     "titel": "Versicherungsstatus erfragen",
+     "text": "Fragen Sie, ob Sie pflichtversichert in der KVdR sind."
+    },
+    {
+     "titel": "Beiträge im Bescheid prüfen",
+     "text": "Kontrollieren Sie die Beitragsabzüge im Rentenbescheid."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "neun Zehntel der zweiten Hälfte",
+     "was": "Vorversicherungszeit für die Pflichtversicherung als Rentner (Rentenantrag)",
+     "grundlage": "§ 5 Abs. 1 Nr. 11 SGB V"
+    }
+   ],
+   "achtung": [
+    "Wer bereits als Beschäftigter pflichtversichert ist, wird durch die Rentenvorschriften nicht zusätzlich erfasst (§ 5 Abs. 8 SGB V).",
+    "Wer die Vorversicherungszeit nicht erfüllt, sollte den Versicherungsschutz sofort klären, damit keine Lücke entsteht.",
+    "Beitragssätze und Zusatzbeitrag wurden nicht in einer Primärquelle geprüft und stehen hier nicht."
+   ],
+   "fach_html": "<h3>Pflichtversicherung nach § 5 Abs. 1 Nr. 11 SGB V</h3><p>Versicherungspflichtig sind Personen, die die Voraussetzungen für den Anspruch auf eine Rente aus der gesetzlichen Rentenversicherung erfüllen und diese beantragt haben, wenn sie seit der erstmaligen Aufnahme einer Erwerbstätigkeit bis zur Stellung des Rentenantrags mindestens neun Zehntel der zweiten Hälfte dieses Zeitraums Mitglied oder familienversichert waren. Nach Absatz 8 gilt die Versicherungspflicht nach Nr. 11 bis 12 nicht, wenn bereits Pflichtversicherung nach Nr. 1 bis 8 besteht.</p><h3>Nicht geprüft</h3><p>Anrechnung von Kindererziehungszeiten auf die Vorversicherung, Beitragsberechnung, Beitragsübernahme durch die Rentenversicherung, freiwillige Versicherung, Familienversicherung und Pflegeversicherung (SGB XI) wurden hier nicht in Primärquellen geprüft. Fragen Sie Ihre Krankenkasse oder eine Beratungsstelle.</p><h3>Verweise</h3><p>Krankenversicherung in Arbeitslosigkeit: Gruppe Arbeitslose. KVdR im Rentenalter: Gruppe Rentner.</p>",
+   "zustaendig": [
+    "Krankenkasse",
+    "Deutsche Rentenversicherung"
+   ],
+   "belege": [
+    "§ 5 SGB V, gesetze-im-internet.de, abgerufen 21.09.2026",
+    "DRV, Erwerbsminderungsrenten, abgerufen 21.09.2026"
+   ],
+   "siehe_auch": [
+    "antrag-begutachtung-bescheid",
+    "steuer-wohngeld-weitere-hilfen"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "steuer-wohngeld-weitere-hilfen",
+   "kategorie": "absicherung",
+   "titel": "Steuer, Wohngeld, Zuzahlungsbefreiung und weitere Hilfen",
+   "icon": "🧾",
+   "teaser": "Was neben der Rente wichtig ist: Steuerpflicht, Wohngeld, Zuzahlungen, Schwerbehinderung und private Absicherung.",
+   "schlagworte": [
+    "Rente Steuer",
+    "Besteuerungsanteil 84 Prozent",
+    "Wohngeld",
+    "Zuzahlungsbefreiung",
+    "GdB",
+    "Schwerbehindertenausweis",
+    "private BU"
+   ],
+   "kurz_html": "<p>Auch eine Erwerbsminderungsrente kann steuerpflichtig sein. Nach Angabe der Deutschen Rentenversicherung müssen Menschen, die 2026 in Rente gehen, diese zu einem Anteil von 84 Prozent versteuern. Ob Sie tatsächlich Steuern zahlen, hängt von Ihrem gesamten Einkommen ab.</p><p>Wohngeld ist eine Alternative zur Grundsicherung. Prüfen Sie, welche Leistung besser passt. Bei Wohngeld gilt im Zusammenhang mit Grundsicherung ein Ausschluss; Genaues nennt die Gruppe Rentner.</p><p>Zuzahlungsbefreiung, Schwerbehindertenausweis und Nachteilsausgleiche haben eigene Seiten in anderen Gruppen. Private Berufsunfähigkeitsversicherung ist ein eigenes Thema: Gruppe Berufsunfähigkeit.</p>",
+   "schritte": [
+    {
+     "titel": "Steuer prüfen",
+     "text": "Klären Sie mit einer Lohnsteuerhilfe oder Steuerberatung, ob eine Steuererklärung nötig ist."
+    },
+    {
+     "titel": "Wohngeld prüfen",
+     "text": "Fragen Sie bei der Wohngeldbehörde, ob Wohngeld oder Grundsicherung passt."
+    },
+    {
+     "titel": "Zuzahlungen sammeln",
+     "text": "Sammeln Sie Belege, um die Belastungsgrenze zu erreichen."
+    },
+    {
+     "titel": "GdB prüfen",
+     "text": "Klären Sie, ob ein Antrag auf Feststellung der Schwerbehinderung sinnvoll ist."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "84 Prozent",
+     "was": "Besteuerungsanteil bei Rentenbeginn 2026 (nach DRV-Angabe)",
+     "grundlage": "DRV, Änderungen zum 1. Januar 2026"
+    }
+   ],
+   "achtung": [
+    "Die Steuerpflicht hängt vom gesamten Einkommen ab. Der Besteuerungsanteil allein sagt nichts über die Steuerlast.",
+    "Wohngeld und Grundsicherung schließen sich in der Regel aus. Der genaue Ausschluss (§ 7 WoGG) wurde hier nicht geprüft.",
+    "Zuzahlungsbefreiung ist in der Gruppe Chronisch Kranke erklärt (§ 62 SGB V). Schwerbehindertenausweis und GdB: Gruppe Menschen mit Behinderung.",
+    "Private BU-Verträge: Fristen und Klauseln prüfen. Hier nur Verweis."
+   ],
+   "fach_html": "<h3>Steuer</h3><p>Die Deutsche Rentenversicherung nennt für Renten, die 2026 beginnen, einen Besteuerungsanteil von 84 Prozent, der Rest von 16 Prozent bleibt zunächst steuerfrei. Grundfreibetrag, Werbungskosten, Sonderausgaben, Steuererklärungspflicht und Abgabefristen wurden hier nicht in Primärquellen geprüft; siehe Gruppe Rentner (Rente und Steuern) und Gruppe Berufsunfähigkeit (Steuern auf Erwerbsminderungsrente).</p><h3>Wohngeld</h3><p>Voraussetzungen, Beträge und Ausschluss bei Grundsicherung wurden nicht im Volltext geprüft. Die Wohngeldreform 2027 ist nach Angaben in der Gruppe Rentner ein Kabinettsentwurf und nicht beschlossen.</p><h3>Zuzahlungsbefreiung und GdB</h3><p>Die Belastungsgrenze nach § 62 SGB V und der Schwerbehindertenausweis sind in den Gruppen Chronisch Kranke und Menschen mit Behinderung erläutert. Der Zusammenhang von Schwerbehinderung und Erwerbsminderung steht in der Gruppe Berufsunfähigkeit.</p><h3>Private Absicherung</h3><p>Private Berufsunfähigkeitsversicherungen sind Verträge und keine gesetzliche Leistung. Vertragsgrundlagen, Ablehnung, Verweisung und Nachprüfung: Gruppe Berufsunfähigkeit.</p>",
+   "zustaendig": [
+    "Finanzamt, Lohnsteuerhilfe",
+    "Wohngeldbehörde",
+    "Krankenkasse",
+    "Versorgungsamt"
+   ],
+   "belege": [
+    "DRV, Pressemitteilung Änderungen in der gesetzlichen Rentenversicherung zum 1. Januar 2026, abgerufen 21.09.2026",
+    "DRV, Erwerbsminderungsrenten, abgerufen 21.09.2026",
+    "Wegweiser-Gruppe Rentner, Quellenseite (Wohngeld, Steuern), abgerufen 21.09.2026"
+   ],
+   "siehe_auch": [
+    "kranken-pflegeversicherung",
+    "grundsicherung-uebergang",
+    "rechtslage-2026-reform"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "rechtslage-2026-reform",
+   "kategorie": "ueberblick",
+   "titel": "Rechtslage 2026: Was gilt, was ist nur vorgeschlagen",
+   "icon": "📅",
+   "teaser": "Zahlen und Änderungen 2026 im Überblick, und was die Alterssicherungskommission empfiehlt, aber noch kein Gesetz ist.",
+   "schlagworte": [
+    "2026",
+    "Rentenanpassung",
+    "Hinzuverdienstgrenze",
+    "Zurechnungszeit",
+    "Grundsicherungsgeld",
+    "Alterssicherungskommission",
+    "Reform"
+   ],
+   "kurz_html": "<p>Diese Änderungen gelten 2026: Die Hinzuverdienstgrenzen haben sich erhöht (20.763,75 Euro und 41.527,50 Euro). Die Zurechnungszeit endet bei Rentenbeginn 2026 mit 66 Jahren und 3 Monaten. Die Renten stiegen zum 1. Juli 2026 um 4,24 Prozent. Das Bürgergeld wird schrittweise zum Grundsicherungsgeld.</p><p>Das ist nur ein Vorschlag, aber noch kein Gesetz: Die Alterssicherungskommission empfiehlt unter anderem, den Wiedereingliederungsversuch für Bezieher von Erwerbsminderungsrenten attraktiver zu machen, den Begriff der Erwerbsminderung grundlegend zu überarbeiten und die Arbeitserprobung von 6 auf 12 Monate auszuweiten. Die Empfehlungen haben keinen Gesetzescharakter. Bis zu einem Gesetz gilt das bestehende Recht.</p>",
+   "schritte": [
+    {
+     "titel": "Nur geltendes Recht anwenden",
+     "text": "Verlassen Sie sich auf Gesetze, Bescheide und Auskünfte der Rentenversicherung."
+    },
+    {
+     "titel": "Nachrichten einordnen",
+     "text": "Prüfen Sie bei Reformmeldungen, ob es ein beschlossenes Gesetz gibt."
+    },
+    {
+     "titel": "Bescheid aktualisieren lassen",
+     "text": "Lassen Sie bei Änderungen den Bescheid prüfen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "1. Juli 2026",
+     "was": "Rentenanpassung um 4,24 Prozent, aktueller Rentenwert 42,52 Euro",
+     "grundlage": "DRV, Rentenanpassung 2026"
+    },
+    {
+     "wert": "1. Juli 2026",
+     "was": "Beginn der schrittweisen Einführung des Grundsicherungsgeldes",
+     "grundlage": "Bundesregierung"
+    },
+    {
+     "wert": "66 Jahre 3 Monate",
+     "was": "Ende der Zurechnungszeit bei Rentenbeginn 2026",
+     "grundlage": "DRV, Änderungen zum 1. Januar 2026"
+    }
+   ],
+   "achtung": [
+    "Empfehlungen der Alterssicherungskommission (Bericht vom Juni 2026) sind kein Gesetz.",
+    "Umsetzungsvorschläge von Kommission oder Politik nicht als geltendes Recht behandeln.",
+    "Bei Änderungen gilt: maßgeblich ist das Inkrafttreten. Prüfen Sie den Stand bei der Rentenversicherung."
+   ],
+   "fach_html": "<h3>Geltende Änderungen</h3><p>Nach der Deutschen Rentenversicherung (Pressemitteilung 18.12.2025) steigen 2026 die Hinzuverdienstgrenzen (rund 20.700 Euro bei voller, rund 41.500 Euro bei teilweiser Erwerbsminderung; genaue Werte 20.763,75 Euro und 41.527,50 Euro nach der DRV-Meldung vom 22.01.2026). Die Zurechnungszeit erhöht sich um einen Monat auf 66 Jahre und 3 Monate. Die Beitragsbemessungsgrenze beträgt 8.450 Euro monatlich, der Beitragssatz 18,6 Prozent. Zum 1. Juli 2026 steigen die Renten um 4,24 Prozent; die Haltelinie von 48 Prozent für das Rentenniveau gilt bis 2031. Das Bürgergeld wird nach Beschluss des Bundestags (5. März 2026) und Bundesrats (27. März 2026) ab 1. Juli 2026 schrittweise zum Grundsicherungsgeld umgestaltet.</p><h3>Nicht beschlossen</h3><p>Die Alterssicherungskommission hat 33 Maßnahmen vorgeschlagen. Nach der Deutschen Rentenversicherung haben die Empfehlungen keinen Gesetzescharakter, und es gilt ausschließlich das bestehende Rentenrecht, bis ein Gesetz verabschiedet ist. Zur Erwerbsminderungsrente empfiehlt die Kommission nach DRV-Darstellung, den seit 1. Januar 2024 bestehenden Wiedereingliederungsversuch (§ 43 Abs. 7 SGB VI) attraktiver auszugestalten, und das Prinzip „Prävention und Reha vor Rente“ zu stärken. Zusätzlich empfiehlt sie (Empfehlung 10) eine grundlegende Überarbeitung des Begriffs der Erwerbsminderung mit stärkerer Berücksichtigung konkreter Vermittlungschancen bei 3-Stunden-Leistungsvermögen sowie die Ausweitung der Arbeitserprobung von 6 auf 12 Monate. Auch dazu gibt es weiterhin kein Gesetz. Gesetzentwürfe zur Umsetzung wurden nicht geprüft; eine Änderung der Definition der Erwerbsminderung ist nach den geprüften Quellen nicht beschlossen.</p><h3>Nicht geprüft</h3><p>Weitere Änderungen bei Krankengeld oder Nahtlosigkeit wurden nicht in einer Primärquelle geprüft.</p>",
+   "zustaendig": [
+    "Deutsche Rentenversicherung",
+    "Bundesministerium für Arbeit und Soziales (Reformstand)"
+   ],
+   "belege": [
+    "DRV, Pressemitteilung Änderungen in der gesetzlichen Rentenversicherung zum 1. Januar 2026 (18.12.2025), abgerufen 21.09.2026",
+    "DRV, Meldung Erwerbsminderungsrente: Hinzuverdienstgrenzen, Arbeitserprobung (22.01.2026), abgerufen 21.09.2026",
+    "DRV, Alterssicherungskommission: Was die Vorschläge für Ihre Rente bedeuten würden, abgerufen 21.09.2026",
+    "Bundesregierung, Bürgergeld wird zur neuen Grundsicherung, abgerufen 21.09.2026",
+    "DRV, Rentenanpassung 2026, abgerufen 21.09.2026"
+   ],
+   "siehe_auch": [
+    "arbeiten-hinzuverdienst-erprobung",
+    "grundsicherung-uebergang",
+    "rentenhoehe-zurechnungszeit"
+   ],
+   "stand": "September 2026"
+  },
+  {
+   "id": "beratung-erwerbsgeminderte",
+   "kategorie": "beratung",
+   "titel": "Beratung und Anlaufstellen",
+   "icon": "🤝",
+   "teaser": "Wer bei Erwerbsminderung kostenlos oder unabhängig berät: Rentenversicherung, EUTB und weitere Stellen.",
+   "schlagworte": [
+    "Beratung",
+    "Deutsche Rentenversicherung",
+    "EUTB",
+    "VdK",
+    "SoVD",
+    "Rentenberater",
+    "Sozialgericht"
+   ],
+   "kurz_html": "<p>Sie müssen die Wege nicht allein gehen. Fragen Sie früh nach Hilfe, bevor Fristen ablaufen.</p><p>Die Deutsche Rentenversicherung berät zu Rente und Reha. Die Rentenversicherung nennt als Servicetelefon 0800 1000 4800.</p><p>Die Ergänzende unabhängige Teilhabeberatung (EUTB) berät zu Teilhabe-Themen. Auf www.teilhabeberatung.de finden Sie eine Beratungsstellensuche.</p><p>Sozialverbände wie VdK und SoVD bieten Beratung und Vertretung für Mitglieder an. Konditionen und Standorte wurden nicht geprüft.</p>",
+   "schritte": [
+    {
+     "titel": "Anliegen einordnen",
+     "text": "Rente, Reha, Krankengeld, Grundsicherung oder Arbeit: Bestimmen Sie das Hauptthema."
+    },
+    {
+     "titel": "Erstkontakt aufnehmen",
+     "text": "Rufen Sie die zuständige Stelle an oder suchen Sie eine EUTB-Stelle."
+    },
+    {
+     "titel": "Unterlagen bereithalten",
+     "text": "Halten Sie Bescheide, Arztbriefe und Versicherungsnummer bereit."
+    },
+    {
+     "titel": "Fristen notieren",
+     "text": "Notieren Sie alle Fristen aus Bescheiden."
+    },
+    {
+     "titel": "Bei Streit Rechtsberatung nutzen",
+     "text": "Lassen Sie sich vor einer Klage von Verband oder Rentenberater beraten."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "1 Monat",
+     "was": "Widerspruch und Klage im Sozialrecht",
+     "grundlage": "§§ 84, 87 SGG"
+    },
+    {
+     "wert": "10 Wochen",
+     "was": "Frist der Krankenkasse für den Reha-Antrag",
+     "grundlage": "§ 51 SGB V"
+    }
+   ],
+   "achtung": [
+    "Nicht jeder Ratgeber im Internet ist unabhängig. Bevorzugen Sie Behörden, Sozialverbände und EUTB.",
+    "Vermeiden Sie Zahlungen an Dritte für Antragsstellung, bevor Sie geklärt haben, was kostenlos möglich ist.",
+    "Beratungsstellen, Adressen und Telefonnummern vor Ort prüfen Sie auf den Seiten der jeweiligen Träger. Hier stehen nur bundesweite belegte Angaben."
+   ],
+   "fach_html": "<h3>Deutsche Rentenversicherung</h3><p>Auf der DRV-Seite zu Hinzuverdienstgrenzen wird das Servicetelefon 0800 1000 4800 genannt. Träger, Auskunfts- und Beratungsstellen finden Sie auf deutsche-rentenversicherung.de.</p><h3>EUTB</h3><p>Die Ergänzende unabhängige Teilhabeberatung (EUTB) ist nach der Website www.teilhabeberatung.de ein Beratungsangebot mit Standortsuche, Terminen persönlich, telefonisch oder per Video sowie Angeboten in Leichter Sprache und Gebärdensprache. Träger der Website ist die GSUB mbH.</p><h3>Sozialverbände und Rentenberater</h3><p>VdK und SoVD sind Sozialverbände, die im Sozialrecht beraten und vertreten. Rentenberater sind Rechtsdienstleister. Kosten, Zulassung, Adressen und Beratungsumfang wurden hier nicht geprüft. Gerichtsverfahren führen Sie vor dem Sozialgericht.</p><h3>Verweise</h3><p>Weitere Anlaufstellen finden Sie in den Beratungsseiten der Gruppen Berufsunfähigkeit, Menschen mit Behinderung und Chronisch Kranke.</p>",
+   "zustaendig": [
+    "Deutsche Rentenversicherung",
+    "EUTB (teilhabeberatung.de)",
+    "Sozialverbände (VdK, SoVD)",
+    "Sozialgericht"
+   ],
+   "belege": [
+    "DRV, Hinzuverdienstgrenzen bei Erwerbsminderungsrente (FAQ), abgerufen 21.09.2026",
+    "EUTB, www.teilhabeberatung.de, abgerufen 21.09.2026",
+    "§§ 84, 87 SGG, gesetze-im-internet.de, abgerufen 21.09.2026"
+   ],
+   "siehe_auch": [
+    "ablehnung-klage",
+    "ueberblick-erwerbsminderung"
+   ],
+   "stand": "September 2026"
+  }
+ ]
+}

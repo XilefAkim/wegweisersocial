@@ -1,0 +1,34 @@
+{
+ "titel": "Erwerbsgeminderte",
+ "zusatz": "Erwerbsgeminderte &middot; Rente, Reha, Krankengeld und Übergänge verständlich erklärt",
+ "icon": "🩺",
+ "teaser": "Wenn Sie aus gesundheitlichen Gründen nicht mehr voll arbeiten können: Erwerbsminderungsrente, Reha, Krankengeld-Aussteuerung, Grundsicherung und Übergänge, Stand September 2026.",
+ "suche_placeholder": "Suchen: Erwerbsminderungsrente, Aussteuerung, Nahtlosigkeit, Hinzuverdienst, Reha …",
+ "meta_description": "Wegweiser für Erwerbsgeminderte (Stand September 2026): Erwerbsminderungsrente, Zurechnungszeit, Befristung, Hinzuverdienstgrenzen 2026, Krankengeld-Aussteuerung, Nahtlosigkeit, Grundsicherung, Reha, Werkstatt, Budget für Arbeit.",
+ "hinweis": "<p><strong>Rechtsstand: September 2026.</strong> Hinzuverdienstgrenzen 2026 (20.763,75 € und 41.527,50 €), Zurechnungszeit bis 66 Jahre 3 Monate bei Rentenbeginn 2026, Rentenanpassung 4,24 Prozent zum 1. Juli 2026 und die schrittweise Einführung des Grundsicherungsgeldes ab 1. Juli 2026 gelten. <strong>Nicht beschlossen:</strong> Die Empfehlungen der Alterssicherungskommission zur Erwerbsminderung sind kein Gesetz. Zur Quellenlage siehe <a href=\"quellen.html\">Quellen und Grenzen</a>.</p>",
+ "haeufig": [
+  "ueberblick-erwerbsminderung",
+  "krankengeld-aussteuerung",
+  "nahtlosigkeit-alg",
+  "arbeiten-hinzuverdienst-erprobung",
+  "befristung-verlaengerung",
+  "ablehnung-klage"
+ ],
+ "fusszeile": "Allgemeine Information, keine Rechtsberatung; Stand September 2026, geprüft anhand der auf der Quellenseite genannten Fundstellen.",
+ "beratung_id": "beratung-erwerbsgeminderte",
+ "quellen_teaser": "<p>Die Angaben stammen aus Gesetzestexten und Meldungen von Behörden. Was nur aus Zusammenfassungen oder Sekundärquellen stammt oder nicht geprüft wurde, ist auf den Seiten und hier ausdrücklich genannt.</p>",
+ "quellen_abschnitte": [
+  {
+   "h": "Quellen (abgerufen 21.09.2026)",
+   "html": "<ol><li>SGB VI (§§ 10, 11, 43, 50, 59, 77, 96a, 101, 102, 116, 253a, 307i, 307j), gesetze-im-internet.de</li><li>SGB V (§§ 5, 44, 47, 48, 51, 62); SGB III § 145; SGB II § 8; SGB XII (§§ 41, 45); SGB IX (§§ 14, 61, 66, 219); SGG (§§ 84, 87, 109), gesetze-im-internet.de</li><li>Deutsche Rentenversicherung: Erwerbsminderungsrenten; Hinzuverdienstgrenzen (FAQ); Meldung Erwerbsminderungsrente: Hinzuverdienstgrenzen, Arbeitserprobung (22.01.2026); Änderungen zum 1. Januar 2026 (18.12.2025); Rentenanpassung 2026; Alterssicherungskommission: Was die Vorschläge für Ihre Rente bedeuten würden; Formulare für Ärzte im Rentenverfahren</li><li>Bundesregierung: Regelbedarfe 2026; Bürgergeld wird zur neuen Grundsicherung</li><li>EUTB: www.teilhabeberatung.de</li></ol>"
+  },
+  {
+   "h": "Unsichere und nicht im Volltext geprüfte Punkte",
+   "html": "<ul><li>Zuständigkeit Jobcenter oder Sozialamt bei befristeter voller Erwerbsminderung; Auswirkungen des Grundsicherungsgeldes auf Erwerbsgeminderte; Vermögensgrenzen.</li><li>Krankengeld: Beitragsfreiheit.</li><li>Kranken- und Pflegeversicherung: Beitragssätze, Beitragsübernahme, freiwillige und Familienversicherung. Steuer: Grundfreibetrag, Erklärungspflicht. Wohngeld: Voraussetzungen und Ausschluss bei Grundsicherung.</li><li>VdK, SoVD, Rentenberater, Integrationsamt: keine Adressen, Kosten oder Zulassungen geprüft.</li></ul>"
+  },
+  {
+   "h": "Was diese Plattform leistet – und was nicht",
+   "html": "<p>Diese Seiten geben einen allgemeinen Überblick über die Rechtslage. Sie sind keine Rechtsberatung nach dem Rechtsdienstleistungsgesetz (RDG) und ersetzen keine Prüfung Ihres Einzelfalls. Es werden keine personenbezogenen Daten erhoben. Für verbindliche Auskünfte wenden Sie sich an die Deutsche Rentenversicherung, die Krankenkasse, das Sozialamt oder eine Beratungsstelle. Zu Grundlagen der Erwerbsminderungsrente und privater Berufsunfähigkeitsversicherung siehe die Gruppe Berufsunfähigkeit, zu Schwerbehinderung die Gruppe Menschen mit Behinderung, zu Krankenkassenleistungen die Gruppe Chronisch Kranke.</p>"
+  }
+ ]
+}

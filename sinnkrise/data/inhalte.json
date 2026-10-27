@@ -1,0 +1,954 @@
+{
+  "kategorien": [
+    {
+      "id": "sich-orientieren",
+      "titel": "Sinnkrise verstehen und einordnen",
+      "icon": "🧭",
+      "beschreibung": "Was eine Sinnkrise ist, wie sie sich von einer Depression unterscheidet und in welchen Lebensphasen sie häufig auftritt."
+    },
+    {
+      "id": "hilfe-einschaetzen",
+      "titel": "Hilfe einschätzen",
+      "icon": "🚦",
+      "beschreibung": "Woran Sie erkennen, ob Selbsthilfe reicht oder professionelle Unterstützung nötig ist – und wie die Kostenübernahme für Psychotherapie funktioniert."
+    },
+    {
+      "id": "sprechen-und-seelsorge",
+      "titel": "Sprechen und Seelsorge",
+      "icon": "📞",
+      "beschreibung": "Kostenlose und niedrigschwellige Gesprächsangebote: Telefonseelsorge, psychosoziale Beratungsstellen und Selbsthilfegruppen."
+    },
+    {
+      "id": "beruf-neu-ausrichten",
+      "titel": "Beruf neu ausrichten",
+      "icon": "💼",
+      "beschreibung": "Berufliche Neuorientierung, Umschulung, Sabbatical und Bildungsurlaub als Wege, sich Zeit und Raum für Veränderung zu verschaffen."
+    },
+    {
+      "id": "rueckzug-und-sinnsuche",
+      "titel": "Rückzug, Stille und Sinnsuche",
+      "icon": "🕯️",
+      "beschreibung": "Klosteraufenthalte, Glaube, Weltanschauung und philosophische Lebensberatung als Angebote abseits des Gesundheitssystems."
+    },
+    {
+      "id": "beratung-finden",
+      "titel": "Beratung finden",
+      "icon": "🔎",
+      "beschreibung": "Überblick und Entscheidungshilfe: welches Angebot zu welcher Situation passt."
+    }
+  ],
+  "seiten": [
+    {
+      "id": "ueberblick-sinnkrise-erkennen",
+      "kategorie": "sich-orientieren",
+      "titel": "Sinnkrise erkennen: ein Überblick",
+      "icon": "🧭",
+      "teaser": "Wie sich eine Sinnkrise von vorübergehenden Zweifeln unterscheidet – und wo die Grenze zu einer behandlungsbedürftigen Depression verläuft.",
+      "schlagworte": [
+        "Sinnkrise",
+        "Existenzielle Krise",
+        "Lebenskrise",
+        "Z60.0",
+        "Midlife-Crisis"
+      ],
+      "kurz_html": "<p>Eine Sinnkrise ist keine Krankheit und keine amtliche Kategorie, sondern eine Phase, in der bisherige Ziele, Werte oder Lebensentwürfe fraglich werden. Typisch sind Gefühle von Leere, Orientierungslosigkeit oder die Frage „War das schon alles?“. Auslöser können Lebensumbrüche sein – Jobverlust, Trennung, das Verlassen des Elternhauses durch die Kinder, ein runder Geburtstag, eine schwere Diagnose – aber eine Sinnkrise kann auch ohne einen klaren äußeren Anlass entstehen.</p>\n<p>Entscheidend ist die Unterscheidung zu einer <strong>Depression</strong> als behandlungsbedürftiger Erkrankung: Halten Freudlosigkeit, Antriebslosigkeit, Schlafstörungen, Hoffnungslosigkeit oder ein spürbarer Einbruch der Leistungsfähigkeit über mehrere Wochen an, sprechen Fachleute nicht mehr nur von einer Krise, sondern von möglichen Krankheitszeichen. Dieses Portal führt dazu einen eigenen, ausführlichen Themenbereich „Depression“; die vorliegenden Seiten behandeln die nicht-klinische, existenzielle Seite und verweisen bei Bedarf dorthin.</p>",
+      "schritte": [
+        {
+          "titel": "Einordnen statt sofort handeln",
+          "text": "Nehmen Sie sich Zeit, bevor Sie unumkehrbare Entscheidungen treffen (Kündigung, Trennung, Umzug). Eine akute Krise ist selten der beste Zeitpunkt für weitreichende Weichenstellungen."
+        },
+        {
+          "titel": "Körperliche und psychische Warnzeichen prüfen",
+          "text": "Prüfen Sie anhand der nächsten Seite „Wann professionelle Hilfe nötig ist“, ob Anzeichen vorliegen, die über eine Sinnkrise hinausgehen."
+        },
+        {
+          "titel": "Sprechen",
+          "text": "Sprechen Sie mit einer Vertrauensperson oder nutzen Sie ein kostenloses, anonymes Angebot wie die TelefonSeelsorge – schon das Aussprechen entlastet häufig."
+        },
+        {
+          "titel": "Niedrigschwellige Angebote nutzen",
+          "text": "Psychosoziale Beratungsstellen, Selbsthilfegruppen oder philosophische Lebensberatung setzen keine Diagnose voraus und sind ein möglicher erster Schritt."
+        }
+      ],
+      "fristen": [],
+      "achtung": [
+        "Eine Sinnkrise vorschnell als „nur eine Phase“ abzutun kann dazu führen, dass eine tatsächliche Depression übersehen und nicht behandelt wird.",
+        "Umgekehrt ist nicht jede Sinnkrise eine Krankheit – nicht jede Verunsicherung über den eigenen Lebensweg erfordert eine Diagnose oder Therapie.",
+        "Große, endgültige Entscheidungen (Kündigung ohne Anschlussplan, überstürzte Trennung) während einer akuten Krise lassen sich oft nicht rückgängig machen."
+      ],
+      "fach_html": "<h3>Keine eigenständige Diagnose</h3>\n<p>„Sinnkrise“ ist kein Diagnosebegriff der ICD-10-GM oder ICD-11. Am ehesten berührt sie deskriptive Kategorien wie <strong>Z60.0 „Anpassungsschwierigkeiten bei Lebensabschnittswechsel“</strong> im Kapitel XXI der ICD-10-GM (Faktoren, die den Gesundheitszustand beeinflussen) – ein sogenannter Z-Code, der einen Lebensumstand dokumentiert, keine Krankheit im engeren Sinn. Erst wenn zusätzlich die Kriterien einer depressiven Episode (ICD-10 F32/F33) oder einer Anpassungsstörung (F43.2) erfüllt sind, liegt eine behandlungsbedürftige psychische Störung vor.</p>\n<h3>„Midlife-Crisis“: populärer Begriff, unsichere Forschungslage</h3>\n<p>Der Begriff „Midlife-Crisis“ geht auf den kanadischen Psychoanalytiker Elliott Jaques (1965) zurück und ist ein Konzept der Populärpsychologie. Eine gesicherte, breit reproduzierte empirische Grundlage für eine typische „Krise der Lebensmitte“ in der deutschen Bevölkerung ist nach dem hier verfügbaren Rechercheergebnis nicht auffindbar; Studien zur Lebenszufriedenheit über die Lebensspanne kommen zu uneinheitlichen Befunden. Diese Seiten verzichten deshalb bewusst auf konkrete Zahlen oder Häufigkeitsangaben zu „der“ Sinnkrise oder „der“ Midlife-Crisis, da eine belastbare Quelle dafür nicht vorliegt.</p>\n<h3>Abgrenzung zur Trauer</h3>\n<p>Trauer nach einem Verlust (Tod, Trennung) kann eine Sinnkrise auslösen oder begleiten, ist aber ein eigenständiger Prozess. Für Trauer im engeren Sinn baut das Wegweiser-Portal einen eigenen Themenbereich auf.</p>",
+      "zustaendig": [
+        "Keine Behörde ist für „Sinnkrisen“ als solche zuständig.",
+        "Je nach Bedarf: Hausärztin/Hausarzt, Psychotherapeutin/Psychotherapeut, psychosoziale Beratungsstelle oder Seelsorge."
+      ],
+      "belege": [
+        "ICD-10-GM, Kapitel XXI, Kode Z60.0 „Anpassungsschwierigkeiten bei Lebensabschnittswechsel“ (BfArM, icd-code.de)",
+        "ICD-10-GM F32/F33 (depressive Episode/rezidivierende depressive Störung), F43.2 (Anpassungsstörung)",
+        "Zur „Midlife-Crisis“ als populärpsychologischem, nicht klinisch etabliertem Begriff: allgemeine Fachliteraturübersichten; eine spezifische, aktuelle deutsche Prävalenzstudie wurde im Rahmen dieser Recherche nicht gefunden – dies wird hier ausdrücklich offen benannt."
+      ],
+      "siehe_auch": [
+        {
+          "titel": "Wann professionelle Hilfe nötig ist",
+          "href": "wann-professionelle-hilfe-noetig-bei-sinnkrise.html"
+        },
+        {
+          "titel": "Sinnkrise in der Lebensmitte",
+          "href": "sinnkrise-in-lebensmitte.html"
+        },
+        {
+          "titel": "Sinnkrise nach einem Lebensumbruch",
+          "href": "sinnkrise-nach-lebensumbruch.html"
+        },
+        {
+          "titel": "Depression: eigener Themenbereich dieses Portals",
+          "href": "../../depression/index.html"
+        }
+      ],
+      "stand": "Stand: September 2026"
+    },
+    {
+      "id": "wann-professionelle-hilfe-noetig-bei-sinnkrise",
+      "kategorie": "hilfe-einschaetzen",
+      "titel": "Wann professionelle Hilfe nötig ist",
+      "icon": "🚦",
+      "teaser": "Anzeichen, bei denen Selbsthilfe und Gespräche allein nicht mehr ausreichen – und was im akuten Notfall zu tun ist.",
+      "schlagworte": [
+        "Warnzeichen",
+        "Suizidgedanken",
+        "Depression",
+        "Notfall",
+        "Psychiatrischer Notdienst"
+      ],
+      "kurz_html": "<p>Eine Sinnkrise braucht nicht automatisch eine Therapie. Ärztliche oder psychotherapeutische Hilfe wird jedoch wichtig, wenn zu der Sinnfrage weitere Anzeichen hinzukommen: seit mehr als zwei Wochen anhaltend gedrückte Stimmung, Verlust von Freude und Interesse, Schlaf- oder Appetitveränderungen, starker Rückzug, Gefühle von Wertlosigkeit oder Hoffnungslosigkeit, oder wenn Alltag, Arbeit und Beziehungen spürbar beeinträchtigt sind.</p>\n<p><strong>Bei Gedanken, sich das Leben zu nehmen, oder bei akuter Verzweiflung ist sofortiges Handeln wichtig</strong> – das ist kein Zeichen von Schwäche, sondern ein medizinischer Notfall wie jeder andere.</p>",
+      "schritte": [
+        {
+          "titel": "Akute Gefahr einschätzen",
+          "text": "Bestehen konkrete Gedanken oder Pläne, sich selbst zu schaden? Dann sofort die 112, die nächste psychiatrische Notaufnahme oder die TelefonSeelsorge (0800 111 0 111 / 0800 111 0 222 / 116 123, rund um die Uhr) kontaktieren."
+        },
+        {
+          "titel": "Anhaltende Symptome mit der Hausärztin/dem Hausarzt besprechen",
+          "text": "Bei Symptomen über mehrere Wochen ist die Hausarztpraxis ein guter erster Anlaufpunkt; sie kann überweisen und akute Ursachen ausschließen."
+        },
+        {
+          "titel": "Terminservicestelle nutzen",
+          "text": "Für einen Psychotherapieplatz vermittelt die Terminservicestelle der Kassenärztlichen Vereinigungen unter 116117 innerhalb einer im Einzelfall unterschiedlichen Frist einen Termin."
+        },
+        {
+          "titel": "Bei Unsicherheit: niedrigschwellig vorfühlen",
+          "text": "Wenn unklar ist, ob es „nur“ eine Krise oder mehr ist, ist ein Gespräch bei einer psychosozialen Beratungsstelle oder der TelefonSeelsorge ein risikoloser erster Schritt – auch dort wird bei Bedarf an ärztliche Hilfe weitervermittelt."
+        }
+      ],
+      "fristen": [],
+      "achtung": [
+        "Warnzeichen abzuwarten „ob es von selbst besser wird“ kann eine Depression unnötig verlängern – frühzeitige Abklärung verkürzt oft den Leidensweg.",
+        "Selbstmedikation mit Alkohol oder Beruhigungsmitteln verschleiert Symptome, statt sie zu behandeln, und birgt eigene Risiken.",
+        "Suizidgedanken sollten nie als reine „Gedankenspiele“ abgetan werden – auch vage oder wiederkehrende Gedanken sind ein Anlass, Hilfe zu suchen."
+      ],
+      "fach_html": "<h3>Fachliche Abgrenzung</h3>\n<p>Für die Unterscheidung zwischen vorübergehender Krise und behandlungsbedürftiger depressiver Episode orientiert sich die Versorgung in Deutschland an der S3-Leitlinie/Nationalen VersorgungsLeitlinie „Unipolare Depression“ der AWMF. Kernkriterien sind unter anderem Dauer (in der Regel mindestens zwei Wochen), Anzahl und Schwere der Symptome sowie das Ausmaß der Beeinträchtigung von Alltag und Funktionsfähigkeit. Eine Selbstdiagnose ersetzt diese fachliche Einschätzung nicht.</p>\n<h3>Notfallstrukturen</h3>\n<p>Bei akuter Suizidalität sind rund um die Uhr erreichbar: Rettungsdienst/Notruf 112, psychiatrische Kliniken mit Notaufnahme, die TelefonSeelsorge sowie vielerorts sozialpsychiatrische Krisendienste. Diese Angebote sind kostenlos und setzen keine Überweisung voraus.</p>",
+      "zustaendig": [
+        "Hausärztin/Hausarzt",
+        "Psychotherapeutische Sprechstunde",
+        "Terminservicestelle der Kassenärztlichen Vereinigung (116117)",
+        "Im Notfall: Rettungsdienst (112), psychiatrische Notaufnahme, TelefonSeelsorge"
+      ],
+      "belege": [
+        "S3-Leitlinie/Nationale VersorgungsLeitlinie Unipolare Depression, AWMF-Register-Nr. nll-005 (aktuelle Fassung, awmf.org)",
+        "TelefonSeelsorge Deutschland (telefonseelsorge.de) – Erreichbarkeit und Notfallhinweise",
+        "Kassenärztliche Bundesvereinigung: Terminservicestellen 116117 (116117.de)"
+      ],
+      "siehe_auch": [
+        {
+          "titel": "Sinnkrise erkennen: ein Überblick",
+          "href": "ueberblick-sinnkrise-erkennen.html"
+        },
+        {
+          "titel": "TelefonSeelsorge und kirchliche Seelsorge",
+          "href": "telefonseelsorge-und-kirchliche-seelsorge.html"
+        },
+        {
+          "titel": "Psychotherapie bei Sinnkrise: Kostenübernahme",
+          "href": "psychotherapie-bei-sinnkrise-kostenuebernahme.html"
+        },
+        {
+          "titel": "Depression: eigener Themenbereich dieses Portals",
+          "href": "../../depression/index.html"
+        }
+      ],
+      "stand": "Stand: September 2026"
+    },
+    {
+      "id": "telefonseelsorge-und-kirchliche-seelsorge",
+      "kategorie": "sprechen-und-seelsorge",
+      "titel": "TelefonSeelsorge und kirchliche Seelsorge",
+      "icon": "📞",
+      "teaser": "Kostenlos, anonym und rund um die Uhr erreichbar – unabhängig von Konfession oder Weltanschauung.",
+      "schlagworte": [
+        "TelefonSeelsorge",
+        "116123",
+        "Seelsorge",
+        "Notfallseelsorge",
+        "Krisendienst"
+      ],
+      "kurz_html": "<p>Die TelefonSeelsorge ist unter <strong>0800 111 0 111</strong> (evangelisch getragen), <strong>0800 111 0 222</strong> (katholisch getragen) oder der bundesweit einheitlichen Rufnummer <strong>116 123</strong> kostenlos, anonym und rund um die Uhr erreichbar – an 365 Tagen im Jahr, unabhängig davon, ob Sie einer Kirche angehören. Über 7.500 ehrenamtlich geschulte Mitarbeitende hören zu, werten nicht und geben bei Bedarf Hinweise auf weiterführende Hilfe. Daneben bietet die TelefonSeelsorge Mail- und Chatberatung an – diese sind jedoch anders als das Telefon nicht durchgehend, sondern nur zu den auf telefonseelsorge.de veröffentlichten Zeiten besetzt.</p>\n<p>Unabhängig davon bieten viele Kirchengemeinden vor Ort reguläre Seelsorgegespräche an – meist kostenlos oder auf Spendenbasis, in der Regel auch für Menschen ohne Kirchenmitgliedschaft offen.</p>",
+      "schritte": [
+        {
+          "titel": "Anrufen oder chatten",
+          "text": "Wählen Sie eine der drei Nummern oder nutzen Sie das Chatangebot auf telefonseelsorge.de. Ein Namen müssen Sie nicht nennen."
+        },
+        {
+          "titel": "Offen sprechen",
+          "text": "Es gibt kein „falsches“ Anliegen – Einsamkeit, Sinnfragen, akute Verzweiflung oder auch „nur“ das Bedürfnis zu reden sind gleichermaßen willkommen."
+        },
+        {
+          "titel": "Bei Bedarf weiterleiten lassen",
+          "text": "Die Mitarbeitenden können auf regionale Beratungsstellen, ärztliche oder seelsorgerliche Angebote vor Ort hinweisen."
+        },
+        {
+          "titel": "Örtliche Seelsorge ansprechen",
+          "text": "Für ein persönliches, wiederkehrendes Gespräch können Sie sich zusätzlich an eine Kirchengemeinde vor Ort wenden."
+        }
+      ],
+      "fristen": [],
+      "achtung": [
+        "Die kirchliche <strong>Notfallseelsorge</strong> ist für akute Notfälle wie Unfälle oder plötzliche Todesfälle da und wird über die Rettungsleitstelle alarmiert – für eine andauernde Sinnkrise ohne akutes Ereignis ist sie nicht der richtige Kanal. Passender sind hier die TelefonSeelsorge oder reguläre Seelsorgegespräche.",
+        "Chat- und Mailberatung sind nicht rund um die Uhr besetzt – bei akutem Bedarf ist das Telefon die zuverlässigere Option.",
+        "Die TelefonSeelsorge ersetzt keine Psychotherapie; bei anhaltenden Symptomen einer möglichen Depression sollte zusätzlich ärztliche oder psychotherapeutische Hilfe gesucht werden."
+      ],
+      "fach_html": "<h3>Trägerschaft und Reichweite</h3>\n<p>Die TelefonSeelsorge wird gemeinsam von der Evangelischen Kirche in Deutschland (EKD) und der Deutschen Bischofskonferenz getragen und ist an rund 100 Standorten mit über 7.500 ehrenamtlichen Mitarbeitenden organisiert. Das Beratungsverständnis ist nicht-direktiv: Zuhören und gemeinsames Klären stehen im Vordergrund, nicht das Erteilen von Ratschlägen.</p>\n<h3>Abgrenzung Seelsorge – Notfallseelsorge – Psychotherapie</h3>\n<p>Seelsorge im engeren Sinn ist ein offenes, meist wiederkehrendes Gespräch ohne Diagnosestellung. Notfallseelsorge ist auf die unmittelbare Akutphase nach belastenden Ereignissen ausgerichtet und eng mit Rettungsdiensten verzahnt. Beides ersetzt keine Psychotherapie bei einer diagnostizierten psychischen Erkrankung.</p>",
+      "zustaendig": [
+        "TelefonSeelsorge Deutschland (bundesweite Rufnummern)",
+        "Örtliche Kirchengemeinde für reguläre Seelsorgegespräche"
+      ],
+      "belege": [
+        "TelefonSeelsorge Deutschland, telefonseelsorge.de – Erreichbarkeit, Trägerschaft, Chat-/Mailzeiten (abgerufen September 2026)"
+      ],
+      "siehe_auch": [
+        {
+          "titel": "Wann professionelle Hilfe nötig ist",
+          "href": "wann-professionelle-hilfe-noetig-bei-sinnkrise.html"
+        },
+        {
+          "titel": "Psychosoziale Beratungsstellen",
+          "href": "psychosoziale-beratungsstellen.html"
+        },
+        {
+          "titel": "Glaube, Spiritualität und Weltanschauung",
+          "href": "glaube-spiritualitaet-und-weltanschauung.html"
+        }
+      ],
+      "stand": "Stand: September 2026"
+    },
+    {
+      "id": "psychosoziale-beratungsstellen",
+      "kategorie": "sprechen-und-seelsorge",
+      "titel": "Psychosoziale Beratungsstellen",
+      "icon": "🏢",
+      "teaser": "Kurzfristige, meist kostenlose Beratung ohne Diagnose – getragen von Kommunen, Diakonie, Caritas, AWO und anderen freien Trägern.",
+      "schlagworte": [
+        "Psychosoziale Beratung",
+        "Diakonie",
+        "Caritas",
+        "Lebensberatungsstelle",
+        "Erziehungsberatung"
+      ],
+      "kurz_html": "<p>Psychosoziale Beratungsstellen bieten Gespräche bei Lebenskrisen, Beziehungs-, Familien- oder Sinnfragen an – ohne dass eine Diagnose oder Überweisung nötig ist. Träger sind meist Kommunen, Diakonie, Caritas, AWO, Deutsches Rotes Kreuz oder Der Paritätische. Die Erstberatung ist überwiegend kostenlos; manche Stellen bitten um eine freiwillige Spende oder erheben je nach Angebot und Region einen gestaffelten Eigenbeitrag.</p>",
+      "schritte": [
+        {
+          "titel": "Beratungsstelle vor Ort suchen",
+          "text": "Über die Website von Diakonie, Caritas oder das örtliche Sozialamt/Bürgeramt lassen sich Beratungsstellen in der Nähe finden."
+        },
+        {
+          "titel": "Kontakt aufnehmen",
+          "text": "Meist reicht ein Anruf oder eine kurze Anmeldung online – ein förmlicher Antrag ist in der Regel nicht nötig."
+        },
+        {
+          "titel": "Erstgespräch wahrnehmen",
+          "text": "Im Erstgespräch wird geklärt, worum es geht und ob das Angebot passt oder eine Weitervermittlung sinnvoll ist."
+        }
+      ],
+      "fristen": [],
+      "achtung": [
+        "Nicht jede Beratungsstelle ist kostenlos – Kostenmodelle unterscheiden sich je nach Träger und Bundesland; das sollte im Erstkontakt erfragt werden.",
+        "Psychosoziale Beratung ersetzt keine Psychotherapie bei einer diagnostizierten psychischen Erkrankung.",
+        "Wartezeiten sind regional unterschiedlich und werden nicht einheitlich veröffentlicht – bei akutem Bedarf zusätzlich die TelefonSeelsorge oder einen Krisendienst kontaktieren."
+      ],
+      "fach_html": "<h3>Rechtlicher und organisatorischer Rahmen</h3>\n<p>Ein bundeseinheitliches Gesetz für „psychosoziale Beratung“ oder allgemeine Lebensberatung existiert nicht; die Finanzierung ist ein Mix aus kommunalen, kirchlichen und Landesmitteln. Eine Sonderstellung hat die Schwangerschaftskonfliktberatung, die im Schwangerschaftskonfliktgesetz (SchKG) eigens geregelt ist und in vielen Bundesländern kostenlos und pflichtgemäß vorzuhalten ist – dieser Rechtsrahmen gilt jedoch spezifisch für Schwangerschaftskonflikte, nicht für allgemeine Lebens- oder Sinnkrisenberatung.</p>\n<p>Für die konkrete Kostenstruktur einer einzelnen Beratungsstelle liegt keine bundesweit einheitliche, tagesaktuelle Übersicht vor; verlässliche Angaben liefert nur die jeweilige Stelle selbst.</p>",
+      "zustaendig": [
+        "Kommunale, kirchliche und freie Träger vor Ort (Diakonie, Caritas, AWO u. a.)"
+      ],
+      "belege": [
+        "Schwangerschaftskonfliktgesetz (SchKG), gesetze-im-internet.de – zur Abgrenzung, nicht als Rechtsgrundlage allgemeiner Lebensberatung",
+        "Allgemeine Trägerinformationen von Diakonie Deutschland und Deutscher Caritasverband (abgerufen September 2026)"
+      ],
+      "siehe_auch": [
+        {
+          "titel": "TelefonSeelsorge und kirchliche Seelsorge",
+          "href": "telefonseelsorge-und-kirchliche-seelsorge.html"
+        },
+        {
+          "titel": "Selbsthilfegruppen und Gesprächskreise",
+          "href": "selbsthilfegruppen-und-gespraechskreise.html"
+        },
+        {
+          "titel": "Beratung und Anlaufstellen bei Sinnkrise",
+          "href": "beratung-anlaufstellen-sinnkrise.html"
+        }
+      ],
+      "stand": "Stand: September 2026"
+    },
+    {
+      "id": "philosophische-lebensberatung",
+      "kategorie": "rueckzug-und-sinnsuche",
+      "titel": "Philosophische Lebensberatung",
+      "icon": "📖",
+      "teaser": "Ein Gespräch über Sinn- und Lebensfragen mit philosophischem Handwerkszeug – kein medizinisches Angebot und nicht durch die Krankenkasse finanziert.",
+      "schlagworte": [
+        "Philosophische Praxis",
+        "Philosophische Lebensberatung",
+        "Gerd Achenbach",
+        "Lebensberater"
+      ],
+      "kurz_html": "<p>Philosophische Lebensberatung (auch „Philosophische Praxis“) ist ein Gesprächsangebot, das Werkzeuge der Philosophie nutzt, um über Sinn-, Wert- und Lebensfragen nachzudenken – ohne Diagnose, ohne Krankheitsverständnis. Begründet wurde die Bewegung 1981 von Gerd B. Achenbach mit der ersten „Philosophischen Praxis“ in Bergisch Gladbach; 2004 gründete er die „Gesellschaft für Philosophische Praxis“ als Berufsverband. Heute gibt es im deutschsprachigen Raum nach Angaben einschlägiger Verzeichnisse rund 180 philosophische Praxen.</p>",
+      "schritte": [
+        {
+          "titel": "Verzeichnis oder Verband konsultieren",
+          "text": "Über Verbände wie die Gesellschaft für Philosophische Praxis oder den Berufsverband für Philosophische Praxis (BV-PP) lassen sich Praktizierende finden."
+        },
+        {
+          "titel": "Erstgespräch vereinbaren",
+          "text": "Ein unverbindliches Kennenlerngespräch klärt, ob Format und Person passen."
+        },
+        {
+          "titel": "Honorar vorab klären",
+          "text": "Da keine Kassenfinanzierung besteht, sollten Sitzungsanzahl und Kosten vorab klar vereinbart werden."
+        }
+      ],
+      "fristen": [],
+      "achtung": [
+        "„Philosophische/r Lebensberater/in“ ist in Deutschland kein geschützter Titel und keine reglementierte Ausbildung – die Qualität und Vorbildung der Anbietenden variiert erheblich.",
+        "Die Kosten trägt die ratsuchende Person selbst; eine Erstattung durch die gesetzliche oder private Krankenversicherung ist nicht vorgesehen, da es sich nicht um ein Heilverfahren handelt.",
+        "Bei Anzeichen einer behandlungsbedürftigen Depression ersetzt philosophische Lebensberatung keine ärztliche oder psychotherapeutische Behandlung."
+      ],
+      "fach_html": "<h3>Selbstverständnis</h3>\n<p>Nach der vielzitierten Definition des Philosophen Odo Marquard (1989) verordnet Philosophische Praxis keine philosophischen Lehrsätze und verabreicht keine fertigen Einsichten, sondern „bringt das Denken in Gang“. Sie versteht sich ausdrücklich nicht als Therapieersatz, sondern als eigenständiges, nicht-klinisches Format für Menschen ohne Krankheitswert, die über ihr Leben nachdenken wollen.</p>\n<h3>Fehlende Regulierung</h3>\n<p>Anders als etwa in Österreich, wo „Lebens- und Sozialberatung“ ein gesetzlich geregeltes Gewerbe mit vorgeschriebener Ausbildung ist, gibt es in Deutschland keine bundeseinheitliche Zulassungs- oder Qualifikationspflicht für Lebensberater/innen oder philosophische Praktiker/innen. Interessierte sollten sich Ausbildung und Erfahrung der jeweiligen Person aktiv erläutern lassen.</p>",
+      "zustaendig": [
+        "Freiberuflich tätige philosophische Praktiker/innen (nicht staatlich geregelt)"
+      ],
+      "belege": [
+        "Gesellschaft für Philosophische Praxis / Achenbach-PP (achenbach-pp.de), abgerufen September 2026",
+        "Wikipedia „Philosophische Praxis“ und „Gerd B. Achenbach“ als allgemeine Übersicht, mit den dort genannten Primärquellen",
+        "Zur österreichischen Gewerberegelung „Lebens- und Sozialberatung“: Wirtschaftskammer Österreich (WKO), als Kontrastbeispiel zur fehlenden Regelung in Deutschland"
+      ],
+      "siehe_auch": [
+        {
+          "titel": "Glaube, Spiritualität und Weltanschauung",
+          "href": "glaube-spiritualitaet-und-weltanschauung.html"
+        },
+        {
+          "titel": "Beratung und Anlaufstellen bei Sinnkrise",
+          "href": "beratung-anlaufstellen-sinnkrise.html"
+        }
+      ],
+      "stand": "Stand: September 2026"
+    },
+    {
+      "id": "sinnkrise-in-lebensmitte",
+      "kategorie": "sich-orientieren",
+      "titel": "Sinnkrise in der Lebensmitte",
+      "icon": "⏳",
+      "teaser": "Rückblick, Neubewertung und die Frage „Ist das noch mein Leben?“ – häufig zwischen Mitte 40 und Mitte 50, aber ohne festen Zeitplan.",
+      "schlagworte": [
+        "Lebensmitte",
+        "Midlife-Crisis",
+        "Lebensbilanz",
+        "Leeres Nest"
+      ],
+      "kurz_html": "<p>In der Lebensmitte verdichten sich häufig mehrere Themen: der Vergleich zwischen gelebtem und ungelebtem Leben, körperliche Veränderungen, das Auszuggehen erwachsener Kinder („leeres Nest“), das Erreichen oder Verfehlen beruflicher Ziele und das wachsende Bewusstsein der eigenen Endlichkeit. Das im Alltag oft „Midlife-Crisis“ genannte Phänomen ist kein medizinischer Fachbegriff, sondern eine populärpsychologische Beschreibung – nicht jede Person in dieser Lebensphase erlebt eine Krise, und wer eine erlebt, tut dies zu ganz unterschiedlichen Zeitpunkten.</p>",
+      "schritte": [
+        {
+          "titel": "Bestandsaufnahme statt Sprung",
+          "text": "Eine strukturierte Rückschau (z. B. schriftlich, in Beratung oder im Gespräch) hilft oft mehr als eine impulsive Kurskorrektur."
+        },
+        {
+          "titel": "Zeitfenster schaffen",
+          "text": "Formate wie Bildungsurlaub, ein Sabbatical oder ein Klosteraufenthalt können Raum zum Nachdenken schaffen, ohne dass sofort alles verändert werden muss."
+        },
+        {
+          "titel": "Fachliche Einschätzung bei anhaltender Belastung",
+          "text": "Wenn aus der Krise anhaltende Hoffnungslosigkeit oder Freudlosigkeit wird, prüfen Sie die Warnzeichen auf der Seite „Wann professionelle Hilfe nötig ist“."
+        }
+      ],
+      "fristen": [],
+      "achtung": [
+        "Der Vergleich mit vermeintlich erfolgreicheren Gleichaltrigen (auch über soziale Medien) verstärkt Unzufriedenheit häufig zusätzlich, ohne die eigentliche Frage zu beantworten.",
+        "Abrupte, allein aus der Krise heraus getroffene Entscheidungen (z. B. fristlose Kündigung, plötzlicher Beziehungsabbruch) lassen sich oft schwer rückgängig machen.",
+        "Es gibt keine belastbare Statistik darüber, wie viele Menschen in Deutschland „eine Midlife-Crisis“ durchleben – Aussagen mit konkreten Prozentzahlen dazu sollten kritisch hinterfragt werden."
+      ],
+      "fach_html": "<h3>Forschungsstand</h3>\n<p>Die Vorstellung einer nahezu universellen „Krise der Lebensmitte“ wird in der psychologischen Alternsforschung kontrovers diskutiert; mehrere Untersuchungen zur Lebenszufriedenheit über die Lebensspanne (teils mit einem U-förmigen Verlauf diskutiert) liefern uneinheitliche Ergebnisse und beziehen sich zudem oft auf nicht-deutsche Stichproben. Eine spezifisch deutsche, aktuelle und methodisch belastbare Untersuchung mit konkreten Häufigkeitsangaben wurde im Rahmen dieser Recherche nicht gefunden. Diese Seite verzichtet daher bewusst auf Zahlenangaben und beschreibt das Phänomen ausschließlich qualitativ.</p>",
+      "zustaendig": [
+        "Keine amtliche Zuständigkeit; je nach Bedarf Beratung, Seelsorge oder ärztliche/psychotherapeutische Hilfe"
+      ],
+      "belege": [
+        "Siehe „Ueberblick Sinnkrise erkennen“ für die Einordnung des Begriffs „Midlife-Crisis“ (Elliott Jaques, 1965) und den Hinweis auf die unsichere Forschungslage."
+      ],
+      "siehe_auch": [
+        {
+          "titel": "Sinnkrise erkennen: ein Überblick",
+          "href": "ueberblick-sinnkrise-erkennen.html"
+        },
+        {
+          "titel": "Sabbatical und Auszeit vom Job",
+          "href": "sabbatical-und-auszeit-vom-job.html"
+        },
+        {
+          "titel": "Klosteraufenthalt und Einkehrtage",
+          "href": "klosteraufenthalt-und-einkehrtage.html"
+        }
+      ],
+      "stand": "Stand: September 2026"
+    },
+    {
+      "id": "berufliche-neuorientierung-und-umschulung",
+      "kategorie": "beruf-neu-ausrichten",
+      "titel": "Berufliche Neuorientierung und Umschulung",
+      "icon": "🧭",
+      "teaser": "Kostenlose Berufsberatung der Agentur für Arbeit steht auch Berufstätigen offen – unabhängig von Arbeitslosigkeit.",
+      "schlagworte": [
+        "Berufsberatung",
+        "Umschulung",
+        "Bildungsgutschein",
+        "Qualifizierungsgeld",
+        "Berufspsychologischer Service"
+      ],
+      "kurz_html": "<p>Wer beruflich neu ansetzen möchte, muss dafür nicht arbeitslos sein: Die <strong>Berufsberatung im Erwerbsleben</strong> der Agentur für Arbeit ist kostenlos auch für Beschäftigte zugänglich und umfasst auf Wunsch eine psychologische Eignungs- und Interessenabklärung durch den Berufspsychologischen Service. Für förderfähige Umschulungen oder Weiterbildungen kann unter bestimmten Voraussetzungen ein Bildungsgutschein infrage kommen; die konkreten Voraussetzungen prüft die Agentur für Arbeit im Einzelfall.</p>",
+      "schritte": [
+        {
+          "titel": "Beratungstermin vereinbaren",
+          "text": "Termin bei der Berufsberatung im Erwerbsleben der Agentur für Arbeit vereinbaren – telefonisch, online oder vor Ort."
+        },
+        {
+          "titel": "Eignung und Interessen klären lassen",
+          "text": "Bei Bedarf den Berufspsychologischen Service für eine kostenlose Potenzial- und Interessenanalyse einbeziehen."
+        },
+        {
+          "titel": "Förderoptionen prüfen",
+          "text": "Gemeinsam mit der Beratung klären, ob ein Bildungsgutschein, Aufstiegs-BAföG oder eine andere Förderung passt – Voraussetzungen sind einzelfallabhängig."
+        },
+        {
+          "titel": "Private Angebote kritisch prüfen",
+          "text": "Karriere-Coachings privater Anbieter kosten Geld und sind wie „Lebensberater“ kein geschützter Titel – Qualifikation vorab erfragen."
+        }
+      ],
+      "fristen": [],
+      "achtung": [
+        "Die Annahme, Berufsberatung stehe nur Arbeitslosen offen, ist falsch – sie ist grundsätzlich für alle offen, die sich beruflich orientieren möchten.",
+        "Ein Bildungsgutschein wird nicht automatisch gewährt; die Voraussetzungen (u. a. arbeitsmarktliche Notwendigkeit) prüft die Agentur für Arbeit einzelfallbezogen.",
+        "Private Karriere-Coaches sind fachlich nicht einheitlich reguliert; Kosten und Qualifikationsnachweise sollten vorab klar sein."
+      ],
+      "fach_html": "<h3>Rechtsgrundlagen</h3>\n<p>Die Berufsberatung ist in §§ 29 ff. SGB III geregelt und richtet sich sowohl an Ausbildungs- und Studieninteressierte als auch an bereits Erwerbstätige. Für die Förderung beruflicher Weiterbildung Beschäftigter kommen je nach Fall u. a. §§ 81 ff. SGB III in Betracht.</p>\n<h3>Qualifizierungsgeld</h3>\n<p>Mit dem Gesetz zur Stärkung der Aus- und Weiterbildungsförderung wurde ab 2024 das sogenannte Qualifizierungsgeld eingeführt (§ 82a SGB III): Es unterstützt Beschäftigte, deren Arbeitsplatz durch den Strukturwandel gefährdet ist, während einer vom Arbeitgeber mitgetragenen Weiterbildung. Das Instrument setzt eine Vereinbarung mit dem Arbeitgeber und einen belegten Strukturwandel-Bezug voraus; es ist damit kein allgemeines Förderinstrument für eine persönlich motivierte Sinnkrise, kann aber im Einzelfall relevant sein. Details zu Höhe und genauen Voraussetzungen sollten direkt bei der Agentur für Arbeit erfragt werden, da sich Verwaltungspraxis hier weiterentwickelt.</p>",
+      "zustaendig": [
+        "Agentur für Arbeit (Berufsberatung im Erwerbsleben, Berufspsychologischer Service)"
+      ],
+      "belege": [
+        "§§ 29 ff., 81 ff., 82a SGB III (gesetze-im-internet.de)",
+        "Bundesagentur für Arbeit: „Berufsberatung im Erwerbsleben“ (arbeitsagentur.de), abgerufen September 2026",
+        "Gesetz zur Stärkung der Aus- und Weiterbildungsförderung (Weiterbildungsgesetz) 2023 – Einführung des Qualifizierungsgeldes"
+      ],
+      "siehe_auch": [
+        {
+          "titel": "Sabbatical und Auszeit vom Job",
+          "href": "sabbatical-und-auszeit-vom-job.html"
+        },
+        {
+          "titel": "Bildungsurlaub für Orientierung",
+          "href": "bildungsurlaub-fuer-orientierung.html"
+        },
+        {
+          "titel": "Rechte bei Arbeitslosigkeit: eigener Themenbereich",
+          "href": "../../arbeitslose/index.html"
+        }
+      ],
+      "stand": "Stand: September 2026"
+    },
+    {
+      "id": "sabbatical-und-auszeit-vom-job",
+      "kategorie": "beruf-neu-ausrichten",
+      "titel": "Sabbatical und Auszeit vom Job",
+      "icon": "🌤️",
+      "teaser": "Es gibt keinen allgemeinen gesetzlichen Anspruch auf ein Sabbatical – Auszeiten hängen von einer Vereinbarung mit dem Arbeitgeber ab.",
+      "schlagworte": [
+        "Sabbatical",
+        "Unbezahlter Sonderurlaub",
+        "Zeitwertkonto",
+        "Wertguthaben",
+        "§ 629 BGB"
+      ],
+      "kurz_html": "<p><strong>In der deutschen Privatwirtschaft besteht kein allgemeiner gesetzlicher Anspruch auf ein Sabbatical.</strong> Eine Auszeit ist möglich, wenn sie im Arbeitsvertrag, einem Tarifvertrag oder einer Betriebsvereinbarung vorgesehen ist oder der Arbeitgeber im Einzelfall freiwillig zustimmt. Die zwei gängigsten Modelle sind unbezahlter Sonderurlaub (rechtlich am einfachsten, aber ohne Fortzahlung von Gehalt und mit Lücken im Sozialversicherungsschutz) und das Zeitwertkonto, bei dem vorher angespartes Arbeitsentgelt oder Arbeitszeit die spätere Freistellung finanziert und der Sozialversicherungsschutz erhalten bleibt.</p>",
+      "schritte": [
+        {
+          "titel": "Betriebliche Regelung prüfen",
+          "text": "Prüfen Sie Arbeitsvertrag, Tarifvertrag und Betriebsvereinbarungen darauf, ob bereits eine Sabbatical- oder Zeitwertkonto-Regelung existiert."
+        },
+        {
+          "titel": "Gespräch mit dem Arbeitgeber",
+          "text": "Ohne bestehende Regelung ist ein Sabbatical Verhandlungssache – klären Sie Dauer, Rückkehrbedingungen, Bezahlung und Sozialversicherung schriftlich, bevor Sie zusagen."
+        },
+        {
+          "titel": "Betriebsrat einbeziehen",
+          "text": "Falls vorhanden, kann der Betriebsrat bei der Aushandlung einer Regelung unterstützen."
+        },
+        {
+          "titel": "Absicherung klären",
+          "text": "Bei unbezahltem Sonderurlaub prüfen, wie Kranken- und Rentenversicherung während der Auszeit weiterlaufen (z. B. freiwillige Versicherung, Familienversicherung)."
+        }
+      ],
+      "fristen": [],
+      "achtung": [
+        "Es gibt keinen gesetzlichen Anspruch auf ein Sabbatical – wer sich allein darauf beruft, hat rechtlich keine Handhabe gegenüber dem Arbeitgeber.",
+        "Bei unbezahltem Sonderurlaub endet der Schutz der gesetzlichen Krankenversicherung über den Arbeitgeber in der Regel nach etwa einem Monat; danach ist eigenständig für Versicherungsschutz zu sorgen (z. B. freiwillige Versicherung).",
+        "§ 629 BGB wird gelegentlich fälschlich mit einem „Recht auf Auszeit“ in Verbindung gebracht – tatsächlich regelt er die Freizeit zur Stellungssuche nach einer Kündigung und hat mit einem Sabbatical zur persönlichen Orientierung nichts zu tun.",
+        "Rückkehrbedingungen (gleicher oder gleichwertiger Arbeitsplatz) sollten vor Antritt der Auszeit schriftlich vereinbart werden."
+      ],
+      "fach_html": "<h3>Klarstellung zu § 629 BGB</h3>\n<p>§ 629 BGB verpflichtet Arbeitgeber, nach Kündigung eines Dienstverhältnisses angemessene Zeit zur Suche eines neuen Arbeitsplatzes freizustellen. Er begründet keinen Anspruch auf eine Auszeit zur persönlichen Orientierung während eines bestehenden Arbeitsverhältnisses und ist von „Sabbatical“-Modellen klar zu unterscheiden.</p>\n<h3>Zeitwertkonten (Flexi-Gesetz)</h3>\n<p>Rechtlich abgesichert sind Wertguthabenvereinbarungen nach §§ 7b–7e SGB IV („Flexi-Gesetz II“, 2009). Der Arbeitgeber muss angespartes Wertguthaben gegen Insolvenz absichern (§ 7e SGB IV); während der bezahlten Freistellungsphase aus dem Wertguthaben besteht regelmäßig weiterhin voller Sozialversicherungsschutz. Ob und in welcher Form ein Zeitwertkonto angeboten wird, ist jedoch ebenfalls freiwillig und nicht gesetzlich erzwingbar.</p>\n<h3>Familienpflegezeit als Sonderfall</h3>\n<p>Eigenständig geregelte Freistellungsansprüche bestehen z. B. nach dem Pflegezeitgesetz und dem Familienpflegezeitgesetz bei der Pflege naher Angehöriger – das sind jedoch zweckgebundene Ansprüche für Pflegesituationen, keine allgemeinen Sabbatical-Rechte für Sinnfragen.</p>",
+      "zustaendig": [
+        "Arbeitgeber/Personalabteilung",
+        "Betriebsrat, falls vorhanden"
+      ],
+      "belege": [
+        "§ 629 BGB (gesetze-im-internet.de)",
+        "§§ 7b–7e SGB IV, Flexi-Gesetz II 2009 (gesetze-im-internet.de)",
+        "Pflegezeitgesetz, Familienpflegezeitgesetz (gesetze-im-internet.de) – zur Abgrenzung",
+        "Allgemeine arbeitsrechtliche Übersichtsdarstellungen zu Sabbatical-Modellen (u. a. Arbeitnehmerkammer Bremen), abgerufen September 2026"
+      ],
+      "siehe_auch": [
+        {
+          "titel": "Bildungsurlaub für Orientierung",
+          "href": "bildungsurlaub-fuer-orientierung.html"
+        },
+        {
+          "titel": "Berufliche Neuorientierung und Umschulung",
+          "href": "berufliche-neuorientierung-und-umschulung.html"
+        }
+      ],
+      "stand": "Stand: September 2026"
+    },
+    {
+      "id": "bildungsurlaub-fuer-orientierung",
+      "kategorie": "beruf-neu-ausrichten",
+      "titel": "Bildungsurlaub für Orientierung",
+      "icon": "📚",
+      "teaser": "Bis zu 5 bezahlte Tage im Jahr für anerkannte Weiterbildung – aber nicht in allen Bundesländern, und nur mit rechtzeitigem Antrag.",
+      "schlagworte": [
+        "Bildungsurlaub",
+        "Bildungszeit",
+        "Bildungsfreistellung",
+        "Anerkannter Träger"
+      ],
+      "kurz_html": "<p>In 14 der 16 Bundesländer gibt es ein Landesgesetz, das Beschäftigten einen Anspruch auf bezahlte Freistellung für anerkannte Weiterbildung gibt – meist 5 Arbeitstage pro Kalenderjahr, in manchen Ländern ansparbar auf 10 Tage über 2 Jahre. Die Gesetze heißen je nach Bundesland unterschiedlich (z. B. Bildungsurlaubsgesetz, Bildungszeitgesetz, Bildungsfreistellungsgesetz) und unterscheiden sich in Details wie Wartezeiten, Antragsfrist und Umfang.</p>\n<p><strong>Bayern und Sachsen haben derzeit kein eigenes Bildungsurlaubsgesetz</strong> – dort besteht ein Anspruch nur, wenn er im Arbeits- oder Tarifvertrag oder einer Betriebsvereinbarung ausdrücklich vorgesehen ist. Für Sachsen wurde das Sächsische Qualifizierungszeitgesetz (SächsQZG) am 4. Februar 2026 vom Landtag beschlossen und am 27. Februar 2026 im Sächsischen Gesetz- und Verordnungsblatt verkündet; es tritt jedoch erst zum 1. Januar 2027 in Kraft und sieht mit 3 bezahlten Tagen pro Jahr weniger vor als die sonst üblichen 5 Tage, zudem sind eine mindestens sechsmonatige Beschäftigungsdauer und ein Antrag 12 Wochen im Voraus vorausgesetzt.</p>",
+      "schritte": [
+        {
+          "titel": "Landesgesetz prüfen",
+          "text": "Zunächst klären, ob im eigenen Bundesland überhaupt ein Bildungsurlaubsgesetz gilt (außer in Bayern und Sachsen: ja)."
+        },
+        {
+          "titel": "Anerkannten Kurs wählen",
+          "text": "Der Kurs muss von der zuständigen Landesstelle als Bildungsurlaub anerkannt sein; nicht jedes Selbstfindungs- oder Coaching-Angebot erfüllt automatisch die Kriterien."
+        },
+        {
+          "titel": "Fristgerecht beantragen",
+          "text": "Antrag mit Anmeldebestätigung und Anerkennungsnachweis rechtzeitig beim Arbeitgeber einreichen – die Frist liegt je nach Bundesland meist zwischen 4 und 9 Wochen vor Kursbeginn."
+        },
+        {
+          "titel": "Schriftliche Zusage einholen",
+          "text": "Die Rückmeldung des Arbeitgebers (Zustimmung oder Ablehnung aus betrieblichen Gründen) sollte schriftlich vorliegen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "4–9 Wochen vorher",
+          "was": "Antragsfrist beim Arbeitgeber, je nach Bundesland unterschiedlich (Beispiel: Baden-Württemberg 9 Wochen)",
+          "grundlage": "jeweiliges Landesgesetz"
+        }
+      ],
+      "achtung": [
+        "In Bayern und Sachsen besteht kein gesetzlicher Anspruch – hier zählt nur eine ausdrückliche vertragliche Regelung.",
+        "Wird die Antragsfrist verpasst, entfällt der Anspruch für den betreffenden Kurs meist ersatzlos.",
+        "Nicht jeder als „Selbstfindung“ oder „Coaching“ beworbene Kurs ist als Bildungsurlaub anerkannt – die Anerkennung durch die zuständige Landesstelle vorab prüfen.",
+        "Der Arbeitgeber kann die Freistellung aus dringenden betrieblichen Gründen ablehnen; die genauen Ablehnungsvoraussetzungen unterscheiden sich je nach Landesgesetz."
+      ],
+      "fach_html": "<h3>Länderspezifisches Patchwork</h3>\n<p>Bildungsurlaub ist Landesrecht: 14 Bundesländer haben ein eigenes Gesetz mit jeweils eigenem Namen, eigenem Umfang (überwiegend 5 Tage/Jahr, teils ansparbar), eigenen Wartezeiten vor erstmaliger Inanspruchnahme und eigenen Antrags- bzw. Reaktionsfristen. Beispiel: In Baden-Württemberg gilt eine Antragsfrist von 9 Wochen vor Kursbeginn, in mehreren anderen Ländern sind es 4 bis 6 Wochen. Für die im Einzelfall geltende Frist ist immer das konkrete Landesgesetz oder eine verlässliche Landes-Zusammenstellung maßgeblich, nicht eine bundesweite Faustregel.</p>\n<h3>Anerkennung der Veranstaltung</h3>\n<p>Ob ein Kurs als Bildungsurlaub zählt, entscheidet die jeweils zuständige Anerkennungsstelle des Bundeslandes anhand landesrechtlicher Kriterien (u. a. Mindeststundenzahl, Themenbezug zur beruflichen oder – in den meisten Ländern auch zulässigen – allgemeinen/politischen Weiterbildung). Seminare zu Lebensplanung, Kommunikation oder Persönlichkeitsentwicklung können darunterfallen, wenn der Träger die Anerkennung eingeholt hat – das ist im Einzelfall beim Anbieter zu erfragen, nicht pauschal zu unterstellen.</p>",
+      "zustaendig": [
+        "Arbeitgeber",
+        "Landesstelle für die Anerkennung von Bildungsurlaubsveranstaltungen (je Bundesland unterschiedlich benannt)"
+      ],
+      "belege": [
+        "Landesspezifische Bildungsurlaubs-/Bildungszeit-/Bildungsfreistellungsgesetze der 14 Bundesländer ohne Bayern und Sachsen (jeweilige Landesrecht-Portale)",
+        "Allgemeine Übersichtsdarstellungen zu Fristen und Bundesländern (u. a. bildungsurlaub.de als privates Informationsportal, nicht amtliche Quelle – zur Orientierung, im Zweifel Landesgesetz prüfen), abgerufen September 2026"
+      ],
+      "siehe_auch": [
+        {
+          "titel": "Sabbatical und Auszeit vom Job",
+          "href": "sabbatical-und-auszeit-vom-job.html"
+        },
+        {
+          "titel": "Berufliche Neuorientierung und Umschulung",
+          "href": "berufliche-neuorientierung-und-umschulung.html"
+        }
+      ],
+      "stand": "Stand: September 2026"
+    },
+    {
+      "id": "klosteraufenthalt-und-einkehrtage",
+      "kategorie": "rueckzug-und-sinnsuche",
+      "titel": "Klosteraufenthalt und Einkehrtage",
+      "icon": "🕯️",
+      "teaser": "Stille, Struktur und Abstand vom Alltag – ein kostenpflichtiges, niedrigschwelliges Angebot, offen auch für Konfessionslose.",
+      "schlagworte": [
+        "Kloster auf Zeit",
+        "Einkehrtage",
+        "Exerzitien",
+        "Klostergästehaus"
+      ],
+      "kurz_html": "<p>Viele Klöster bieten Gästehäuser für einen zeitlich begrenzten Aufenthalt an – oft „Kloster auf Zeit“ genannt, häufig für mindestens etwa 5 Tage gedacht. Manche Häuser erwarten eine Mitarbeit in den klösterlichen Arbeitsbereichen (dann teils kostenfrei oder auf Spendenbasis), andere berechnen eine Übernachtungspauschale mit Verpflegung – die gefundenen Beispiele reichen von rund 20–40 €/Tag bis über 100 €/Tag, je nach Haus, Zimmerkategorie und Verpflegung. Eine Religionszugehörigkeit wird bei den meisten, aber nicht allen Häusern vorausgesetzt oder erwartet; das sollte vorab erfragt werden.</p>\n<p>Eine strukturiertere, angeleitete Variante sind <strong>Exerzitien</strong> (z. B. in der ignatianischen Tradition) mit fester Begleitung, im Unterschied zum eher unbegleiteten „Gast im Kloster“.</p>",
+      "schritte": [
+        {
+          "titel": "Kloster oder Verzeichnis auswählen",
+          "text": "Über Verzeichnisse wie kloster-auf-zeit.de (privates Informationsangebot) oder die Website einzelner Klöster ein passendes Haus finden."
+        },
+        {
+          "titel": "Bedingungen erfragen",
+          "text": "Vorab klären: Mindestaufenthaltsdauer, Kosten, ob Mitarbeit erwartet wird, ob Konfessionslose willkommen sind, Teilnahme am Klosterrhythmus verpflichtend oder freiwillig."
+        },
+        {
+          "titel": "Rechtzeitig buchen",
+          "text": "Beliebte Häuser sind oft Wochen im Voraus ausgebucht, besonders in den Ferien."
+        }
+      ],
+      "fristen": [],
+      "achtung": [
+        "Ein Klosteraufenthalt ist kein Ersatz für professionelle Hilfe bei akuten psychischen Krisen oder Suizidgedanken – dafür sind Notfallstrukturen zuständig, siehe „Wann professionelle Hilfe nötig ist“.",
+        "Nicht jedes Haus nimmt Gäste unter der üblichen Mindestaufenthaltsdauer oder ohne Religionszugehörigkeit auf – das vorab klären, statt vor Ort abgewiesen zu werden.",
+        "Die genannten Preisbeispiele sind Einzelfälle aus der Recherche, keine allgemeingültige Preistabelle – die Kosten variieren stark von Haus zu Haus."
+      ],
+      "fach_html": "<h3>Beispiele aus der Recherche (keine Preisgarantie)</h3>\n<p>Zur Illustration der Bandbreite: Im Kloster Wennigsen wurde eine Übernachtung mit rund 41 €/Tag im Einzelzimmer angegeben, im Benediktinerkloster Disentis (Schweiz) mit rund CHF 115/Tag im Einzelzimmer mit Vollpension; einzelne Häuser bieten den Aufenthalt gegen Mitarbeit kostenfrei oder auf Spendenbasis an. Diese Zahlen stammen von den jeweiligen Klosterwebsites zum RechercheZeitpunkt und können sich ändern.</p>\n<h3>Kein staatlich reguliertes Angebot</h3>\n<p>Klostergästehäuser sind privatrechtlich organisierte Angebote der jeweiligen Ordensgemeinschaft; es gibt keine staatliche Aufsicht oder Förderung speziell für diese Aufenthaltsform.</p>",
+      "zustaendig": [
+        "Jeweiliges Kloster/Gästehaus (keine staatliche Zuständigkeit)"
+      ],
+      "belege": [
+        "Websites einzelner Klostergästehäuser (u. a. Kloster Wennigsen, Kloster Disentis, Abtei Münsterschwarzach), abgerufen September 2026",
+        "kloster-auf-zeit.de als privates Verzeichnis – nicht amtlich, keine Vollständigkeits- oder Qualitätsgarantie"
+      ],
+      "siehe_auch": [
+        {
+          "titel": "Glaube, Spiritualität und Weltanschauung",
+          "href": "glaube-spiritualitaet-und-weltanschauung.html"
+        },
+        {
+          "titel": "Philosophische Lebensberatung",
+          "href": "philosophische-lebensberatung.html"
+        }
+      ],
+      "stand": "Stand: September 2026"
+    },
+    {
+      "id": "selbsthilfegruppen-und-gespraechskreise",
+      "kategorie": "sprechen-und-seelsorge",
+      "titel": "Selbsthilfegruppen und Gesprächskreise",
+      "icon": "🤝",
+      "teaser": "Austausch mit Menschen in ähnlicher Lage – kostenlos, ohne Diagnose, organisiert über NAKOS und lokale Kontaktstellen.",
+      "schlagworte": [
+        "Selbsthilfegruppe",
+        "NAKOS",
+        "Selbsthilfekontaktstelle",
+        "Gesprächskreis"
+      ],
+      "kurz_html": "<p>Selbsthilfegruppen bringen Menschen mit ähnlichen Erfahrungen zusammen – etwa zu Lebensumbrüchen, Trennung, Trauer oder allgemeinen Sinnfragen. Sie sind in der Regel kostenlos, setzen keine Diagnose voraus und werden meist ehrenamtlich organisiert. Die bundesweite Nationale Kontakt- und Informationsstelle zur Anregung und Unterstützung von Selbsthilfegruppen (NAKOS) sowie regionale Selbsthilfekontaktstellen helfen, passende Gruppen zu finden.</p>",
+      "schritte": [
+        {
+          "titel": "Gruppe finden",
+          "text": "Über die NAKOS-Datenbank (nakos.de) oder die örtliche Selbsthilfekontaktstelle nach Thema und Postleitzahl suchen."
+        },
+        {
+          "titel": "Unverbindlich reinschnuppern",
+          "text": "Die meisten Gruppen erlauben ein Kennenlernen ohne Verpflichtung zur weiteren Teilnahme."
+        },
+        {
+          "titel": "Bei Bedarf mehrere Gruppen ausprobieren",
+          "text": "Passung und Gruppendynamik unterscheiden sich – ein zweiter Versuch bei einer anderen Gruppe ist üblich und kein Zeichen des Scheiterns."
+        }
+      ],
+      "fristen": [],
+      "achtung": [
+        "Nicht jede Region hat eine Gruppe speziell zum Thema „Sinnkrise“ – oft passen thematisch angrenzende Gruppen (Trennung, Trauer, berufliche Veränderung) ebenso gut.",
+        "Selbsthilfegruppen ersetzen keine Psychotherapie bei einer diagnostizierten psychischen Erkrankung.",
+        "Die Qualität und Leitung von Gruppen ist unterschiedlich; bei Unwohlsein ist ein Wechsel jederzeit möglich."
+      ],
+      "fach_html": "<h3>Förderung durch die Krankenkassen</h3>\n<p>Gesetzliche Krankenkassen sind im Rahmen der Selbsthilfeförderung nach den einschlägigen Vorschriften des SGB V verpflichtet, gesundheitsbezogene Selbsthilfe finanziell zu unterstützen (Gruppen, Kontaktstellen und Verbände). Diese Förderung betrifft in erster Linie gesundheitsbezogene Selbsthilfe im engeren Sinn; allgemeine Lebenskrisen-Gesprächskreise werden teils zusätzlich kommunal oder durch freie Träger unterstützt.</p>",
+      "zustaendig": [
+        "NAKOS (bundesweit)",
+        "Regionale Selbsthilfekontaktstellen"
+      ],
+      "belege": [
+        "NAKOS – Nationale Kontakt- und Informationsstelle zur Anregung und Unterstützung von Selbsthilfegruppen (nakos.de), abgerufen September 2026",
+        "SGB V, Vorschriften zur Selbsthilfeförderung der gesetzlichen Krankenkassen (gesetze-im-internet.de)"
+      ],
+      "siehe_auch": [
+        {
+          "titel": "Psychosoziale Beratungsstellen",
+          "href": "psychosoziale-beratungsstellen.html"
+        },
+        {
+          "titel": "Sinnkrise nach einem Lebensumbruch",
+          "href": "sinnkrise-nach-lebensumbruch.html"
+        }
+      ],
+      "stand": "Stand: September 2026"
+    },
+    {
+      "id": "psychotherapie-bei-sinnkrise-kostenuebernahme",
+      "kategorie": "hilfe-einschaetzen",
+      "titel": "Psychotherapie bei Sinnkrise: Kostenübernahme",
+      "icon": "🩺",
+      "teaser": "Die gesetzliche Krankenversicherung zahlt Psychotherapie nur bei Krankheitswert – eine Sinnkrise allein reicht dafür in der Regel nicht aus.",
+      "schlagworte": [
+        "Psychotherapie",
+        "Krankheitswert",
+        "Probatorische Sitzungen",
+        "Akutbehandlung",
+        "Kostenerstattung"
+      ],
+      "kurz_html": "<p>Die gesetzliche Krankenversicherung übernimmt Psychotherapie nur, wenn eine psychische Störung mit <strong>Krankheitswert</strong> vorliegt – also eine nach anerkannten Kriterien diagnostizierbare Störung, keine Sinnkrise ohne weitere Krankheitszeichen. Besteht eine solche Störung (z. B. eine depressive Episode, die im Zusammenhang mit der Sinnkrise aufgetreten ist), läuft der Zugang über eine psychotherapeutische Sprechstunde, gegebenenfalls probatorische Sitzungen und dann eine reguläre oder Akutbehandlung.</p>",
+      "schritte": [
+        {
+          "titel": "Psychotherapeutische Sprechstunde",
+          "text": "Erster Pflichtschritt ist eine 50-minütige Sprechstunde bei einer Psychotherapeutin/einem Psychotherapeuten mit Kassenzulassung."
+        },
+        {
+          "titel": "Probatorische Sitzungen",
+          "text": "Es folgen in der Regel mehrere probatorische (Vor-)Sitzungen, in denen Störungsbild und Passung zwischen Patient/in und Therapeut/in geklärt werden."
+        },
+        {
+          "titel": "Akutbehandlung bei dringendem Bedarf",
+          "text": "Ist rasche Hilfe nötig, aber noch kein regulärer Therapieplatz frei, kann eine Akutbehandlung von bis zu 24 Einheiten überbrücken; diese Stunden werden auf eine anschließende reguläre Therapie angerechnet."
+        },
+        {
+          "titel": "Antrag auf Kurz- oder Langzeittherapie",
+          "text": "Für die reguläre Richtlinientherapie wird bei der Krankenkasse ein Antrag bzw. eine Anzeige eingereicht."
+        },
+        {
+          "titel": "Bei fehlendem Platz: Kostenerstattung prüfen",
+          "text": "Findet sich innerhalb angemessener Zeit kein Behandlungsplatz, kann im Einzelfall ein Kostenerstattungsverfahren nach § 13 Abs. 3 SGB V infrage kommen – die Kasse rechtzeitig vorher kontaktieren."
+        }
+      ],
+      "fristen": [],
+      "achtung": [
+        "Eine Sinnkrise ohne diagnostizierbare Störung begründet für sich genommen keinen Anspruch auf eine von der Krankenkasse finanzierte Psychotherapie.",
+        "Die Terminservicestelle (116117) vermittelt Termine, kann aber regional unterschiedlich lange Wartezeiten haben – dazu liegt keine bundesweit einheitliche, verlässliche Zahl vor.",
+        "Akutbehandlung ist eine Überbrückung, keine vollständige Therapie – die genutzten Einheiten werden auf eine spätere reguläre Behandlung angerechnet.",
+        "Wer ohne Krankheitswert Unterstützung sucht, hat mit psychosozialer Beratung, Selbsthilfegruppen, Seelsorge oder selbst finanzierter Lebensberatung nicht-medizinische, aber legitime Alternativen."
+      ],
+      "fach_html": "<h3>Rechtsgrundlagen</h3>\n<p>Maßgeblich sind §§ 27, 92 SGB V sowie die Psychotherapie-Richtlinie des Gemeinsamen Bundesausschusses (G-BA), die probatorische Sitzungen, Akutbehandlung und die Antragsverfahren für Kurz- und Langzeittherapie im Detail regelt. Nach der hier vorliegenden Recherche sind für Erwachsene mindestens zwei, bis zu vier probatorische Sitzungen (Einzelsitzung 50 Minuten, Gruppensitzung 100 Minuten) sowie eine Akutbehandlung von bis zu 24 Einheiten (mindestens 25 Minuten, insgesamt bis zu 600 Minuten) vorgesehen; bis zu sechs probatorische Sitzungen gelten nur für Kinder, Jugendliche und Menschen mit geistiger Behinderung.</p>\n<h3>Kostenerstattung nach § 13 Abs. 3 SGB V</h3>\n<p>Kann die Krankenkasse eine unaufschiebbare Leistung nicht rechtzeitig erbringen oder wird eine Leistung zu Unrecht abgelehnt, können Versicherte sich die Kosten für selbst beschaffte Behandlung im Rahmen von § 13 Abs. 3 SGB V erstatten lassen. Das Verfahren ist im Einzelfall zu prüfen und sollte nach Möglichkeit vor Beginn der Behandlung mit der Kasse abgestimmt werden.</p>\n<h3>Abgrenzung zur Sinnkrise ohne Krankheitswert</h3>\n<p>Fachlich ist die Unterscheidung wichtig, weil sie über die Finanzierung entscheidet: Ohne Krankheitswert bleibt der Weg über die gesetzliche Krankenversicherung in aller Regel verschlossen, auch wenn der Leidensdruck subjektiv hoch ist. Für diese Fälle sind die anderen auf diesen Seiten beschriebenen, nicht-medizinischen Angebote gedacht.</p>",
+      "zustaendig": [
+        "Gesetzliche oder private Krankenkasse",
+        "Terminservicestelle der Kassenärztlichen Vereinigung (116117)"
+      ],
+      "belege": [
+        "§§ 27, 92, 13 Abs. 3 SGB V (gesetze-im-internet.de)",
+        "Psychotherapie-Richtlinie des Gemeinsamen Bundesausschusses (g-ba.de), abgerufen September 2026",
+        "Allgemeine Informationsdarstellungen der Kassenärztlichen Vereinigungen zu probatorischen Sitzungen und Akutbehandlung, abgerufen September 2026"
+      ],
+      "siehe_auch": [
+        {
+          "titel": "Wann professionelle Hilfe nötig ist",
+          "href": "wann-professionelle-hilfe-noetig-bei-sinnkrise.html"
+        },
+        {
+          "titel": "Psychosoziale Beratungsstellen",
+          "href": "psychosoziale-beratungsstellen.html"
+        },
+        {
+          "titel": "Depression: eigener Themenbereich dieses Portals",
+          "href": "../../depression/index.html"
+        }
+      ],
+      "stand": "Stand: September 2026"
+    },
+    {
+      "id": "sinnkrise-nach-lebensumbruch",
+      "kategorie": "sich-orientieren",
+      "titel": "Sinnkrise nach einem Lebensumbruch",
+      "icon": "🔄",
+      "teaser": "Jobverlust, Trennung, Auszug der Kinder, Ruhestand oder eine schwere Diagnose können eine Sinnfrage auslösen – ganz ohne festen Zeitplan der Verarbeitung.",
+      "schlagworte": [
+        "Lebensumbruch",
+        "Ruhestand",
+        "Leeres Nest",
+        "Kritische Lebensereignisse"
+      ],
+      "kurz_html": "<p>Einschneidende Veränderungen – der Verlust des Arbeitsplatzes, eine Trennung, der Auszug der Kinder, der Übergang in den Ruhestand, eine schwere Diagnose oder ein Umzug – werfen häufig grundsätzliche Fragen nach dem eigenen Lebensentwurf auf. Das ist eine normale menschliche Anpassungsreaktion und keine Schwäche. Es gibt dafür keinen „richtigen“ Zeitrahmen: Manche Menschen verarbeiten einen Umbruch in Wochen, andere brauchen deutlich länger.</p>",
+      "schritte": [
+        {
+          "titel": "Konkreten Anlass benennen",
+          "text": "Zu verstehen, welcher Umbruch die Sinnfrage ausgelöst hat, hilft, passende Unterstützung zu finden."
+        },
+        {
+          "titel": "Themenspezifische Hilfe nutzen",
+          "text": "Bei Jobverlust hilft der Themenbereich „Arbeitslose“ dieses Portals, bei Trauer nach einem Todesfall ein eigener Trauer-Themenbereich, bei Trennungsfragen eine Ehe-/Familienberatungsstelle."
+        },
+        {
+          "titel": "Eigenes Tempo respektieren",
+          "text": "Vergleiche mit dem vermeintlichen Verarbeitungstempo anderer sind selten hilfreich."
+        },
+        {
+          "titel": "Bei anhaltender Belastung fachliche Einschätzung suchen",
+          "text": "Halten Hoffnungslosigkeit oder Rückzug über Wochen an, die Warnzeichen auf der Seite „Wann professionelle Hilfe nötig ist“ prüfen."
+        }
+      ],
+      "fristen": [],
+      "achtung": [
+        "Es gibt keine gesetzliche oder medizinisch verbindliche Frist, innerhalb derer ein Lebensumbruch „verarbeitet“ sein muss.",
+        "Wichtige Entscheidungen (z. B. Verkauf des Hauses direkt nach dem Auszug der Kinder, überstürzte neue Beziehung nach einer Trennung) sollten möglichst nicht allein aus dem akuten Umbruch heraus getroffen werden.",
+        "Klassische Instrumente zur Messung von „Lebensstress“ (z. B. die US-amerikanische Holmes-Rahe-Skala von 1967) sind historisch einflussreich, aber alt, kulturell auf die USA bezogen und nicht als individuelle Diagnose zu verstehen."
+      ],
+      "fach_html": "<h3>ICD-10-GM Z-Codes als Dokumentationshilfe</h3>\n<p>Für die ärztliche Dokumentation existieren deskriptive Kodes wie Z60.0 („Anpassungsschwierigkeiten bei Lebensabschnittswechsel“) oder die Z63-Gruppe („Sonstige Probleme mit Bezug auf die primäre Bezugsgruppe, einschließlich Familienverhältnisse“). Diese Kodes beschreiben eine Lebenssituation, sind aber selbst keine Krankheitsdiagnose und begründen für sich allein keinen Behandlungsanspruch.</p>\n<h3>Kritische Lebensereignisse in der Stressforschung</h3>\n<p>Die 1967 von Holmes und Rahe entwickelte „Social Readjustment Rating Scale“ gehört zu den historisch einflussreichsten Instrumenten der Stressforschung zu einschneidenden Lebensereignissen. Sie wurde jedoch in den USA der 1960er-Jahre entwickelt und normiert; eine unveränderte Übertragbarkeit auf heutige Verhältnisse in Deutschland ist in der Forschung umstritten. Sie wird hier ausschließlich als historische Einordnung genannt, nicht als aktuelles diagnostisches Instrument.</p>",
+      "zustaendig": [
+        "Je nach Anlass unterschiedlich – siehe verlinkte Themenbereiche"
+      ],
+      "belege": [
+        "ICD-10-GM Z60.0, Z63.– (BfArM, icd-code.de)",
+        "Holmes, T. H. & Rahe, R. H. (1967): The Social Readjustment Rating Scale. Journal of Psychosomatic Research – als historische, US-amerikanische Quelle ausdrücklich gekennzeichnet, nicht als aktuelle deutsche Norm."
+      ],
+      "siehe_auch": [
+        {
+          "titel": "Sinnkrise erkennen: ein Überblick",
+          "href": "ueberblick-sinnkrise-erkennen.html"
+        },
+        {
+          "titel": "Selbsthilfegruppen und Gesprächskreise",
+          "href": "selbsthilfegruppen-und-gespraechskreise.html"
+        },
+        {
+          "titel": "Rechte bei Arbeitslosigkeit: eigener Themenbereich",
+          "href": "../../arbeitslose/index.html"
+        }
+      ],
+      "stand": "Stand: September 2026"
+    },
+    {
+      "id": "glaube-spiritualitaet-und-weltanschauung",
+      "kategorie": "rueckzug-und-sinnsuche",
+      "titel": "Glaube, Spiritualität und Weltanschauung",
+      "icon": "🕊️",
+      "teaser": "Religiöse, spirituelle und weltlich-humanistische Anlaufstellen als eine mögliche, aber keineswegs einzige Antwort auf Sinnfragen.",
+      "schlagworte": [
+        "Seelsorge",
+        "Humanistischer Verband",
+        "Weltanschauungsgemeinschaft",
+        "Meditation"
+      ],
+      "kurz_html": "<p>Für manche Menschen ist die Auseinandersetzung mit Glauben, Spiritualität oder einer bewusst nicht-religiösen Weltanschauung ein wichtiger Teil der Sinnsuche. Das Angebot in Deutschland ist vielfältig: christliche Kirchengemeinden mit Seelsorge, wachsende interreligiöse Angebote (z. B. islamische, jüdische oder buddhistisch geprägte Seelsorge, unter anderem in Krankenhäusern), Meditations- und buddhistisch inspirierte Gruppen sowie ausdrücklich weltliche Angebote wie die Lebensberatung und Lebenskunde des Humanistischen Verbands Deutschlands (HVD) für Menschen ohne religiöses Bekenntnis.</p>",
+      "schritte": [
+        {
+          "titel": "Eigene Offenheit klären",
+          "text": "Überlegen, ob ein religiöses, spirituelles oder ausdrücklich weltliches Angebot besser passt."
+        },
+        {
+          "titel": "Örtliche Anlaufstelle suchen",
+          "text": "Kirchengemeinden, Moscheegemeinden, jüdische Gemeinden, buddhistische Zentren oder der HVD vor Ort sind meist über deren Websites auffindbar."
+        },
+        {
+          "titel": "Unverbindlich Kontakt aufnehmen",
+          "text": "Ein erstes Gespräch ist in der Regel offen und unverbindlich möglich."
+        }
+      ],
+      "fristen": [],
+      "achtung": [
+        "Nicht jedes Angebot ist neutral – manche Gemeinschaften verfolgen eine missionarische Ausrichtung; die Unabhängigkeit und Zielsetzung eines Angebots sollte vorab kritisch geprüft werden.",
+        "Spirituelle oder religiöse Begleitung ersetzt keine medizinische oder psychotherapeutische Behandlung bei einer diagnostizierten psychischen Erkrankung.",
+        "Das Angebot ist regional sehr unterschiedlich verteilt – in ländlichen Regionen kann die Auswahl deutlich kleiner sein als in Großstädten."
+      ],
+      "fach_html": "<h3>Wachsende interreligiöse Seelsorge</h3>\n<p>Neben der traditionell großen christlichen Krankenhaus- und Klinikseelsorge gibt es einen wachsenden Bereich islamischer, jüdischer und anderer Seelsorge, unter anderem im Krankenhaus- und zunehmend auch im Justizvollzugsbereich. Umfang und Organisation sind jedoch je nach Bundesland und Einrichtung unterschiedlich ausgebaut; eine bundesweit einheitliche Struktur wie bei der evangelischen/katholischen Seelsorge existiert dafür nicht in gleichem Maße.</p>\n<h3>Humanistischer Verband Deutschlands (HVD)</h3>\n<p>Der HVD bietet als weltanschaulich neutrale, nicht-religiöse Organisation unter anderem Lebensberatung, Selbsthilfegruppen sowie in einigen Bundesländern das Schulfach „Humanistische Lebenskunde“ an. Die Angebote richten sich ausdrücklich an Menschen jeder oder keiner Weltanschauung.</p>",
+      "zustaendig": [
+        "Jeweilige Glaubens- oder Weltanschauungsgemeinschaft vor Ort"
+      ],
+      "belege": [
+        "Humanistischer Verband Deutschlands (humanismus.de), abgerufen September 2026",
+        "Allgemeine Übersichten zu kirchlicher und interreligiöser Seelsorge der EKD und der Deutschen Bischofskonferenz"
+      ],
+      "siehe_auch": [
+        {
+          "titel": "TelefonSeelsorge und kirchliche Seelsorge",
+          "href": "telefonseelsorge-und-kirchliche-seelsorge.html"
+        },
+        {
+          "titel": "Klosteraufenthalt und Einkehrtage",
+          "href": "klosteraufenthalt-und-einkehrtage.html"
+        },
+        {
+          "titel": "Philosophische Lebensberatung",
+          "href": "philosophische-lebensberatung.html"
+        }
+      ],
+      "stand": "Stand: September 2026"
+    },
+    {
+      "id": "beratung-anlaufstellen-sinnkrise",
+      "kategorie": "beratung-finden",
+      "titel": "Beratung und Anlaufstellen bei Sinnkrise",
+      "icon": "🔎",
+      "teaser": "Ein Überblick, welches Angebot zu welcher Situation passt – und worauf Sie bei der Wahl einer Beratungsperson achten sollten.",
+      "schlagworte": [
+        "Beratung finden",
+        "Anlaufstellen",
+        "Lebensberater",
+        "Qualitätssicherung"
+      ],
+      "kurz_html": "<p>Diese Seite fasst zusammen, welches Angebot dieses Themenbereichs zu welcher Situation passt:</p>\n<ul>\n<li><strong>Akute Verzweiflung oder Suizidgedanken:</strong> sofort Notruf 112, psychiatrische Notaufnahme oder TelefonSeelsorge.</li>\n<li><strong>Anhaltende Symptome, möglicherweise Depression:</strong> Hausärztin/Hausarzt, psychotherapeutische Sprechstunde.</li>\n<li><strong>Belastende Sinnfrage ohne Krankheitswert:</strong> psychosoziale Beratungsstelle, Seelsorge, Selbsthilfegruppe oder – selbst finanziert – Lebensberatung/philosophische Praxis.</li>\n<li><strong>Berufliche Neuorientierung:</strong> Berufsberatung der Agentur für Arbeit, ggf. Bildungsurlaub oder Sabbatical.</li>\n<li><strong>Wunsch nach Rückzug und Stille:</strong> Klosteraufenthalt, Einkehrtage, Exerzitien.</li>\n</ul>",
+      "schritte": [
+        {
+          "titel": "Situation einordnen",
+          "text": "Mit der obigen Übersicht die eigene Situation grob zuordnen."
+        },
+        {
+          "titel": "Passendes Angebot auswählen",
+          "text": "Den verlinkten Themenseiten folgen, um Details, Kosten und Vorgehen zu klären."
+        },
+        {
+          "titel": "Qualifikation prüfen",
+          "text": "Bei nicht-medizinischen Beratungsangeboten (Lebensberatung, Coaching) Ausbildung und Erfahrung der Person aktiv erfragen, da diese Titel in Deutschland nicht geschützt sind."
+        }
+      ],
+      "fristen": [],
+      "achtung": [
+        "„Lebensberater/in“, „Coach“ oder „philosophische/r Praktiker/in“ sind in Deutschland keine geschützten Berufsbezeichnungen – anders als etwa in Österreich, wo „Lebens- und Sozialberatung“ ein reglementiertes Gewerbe mit vorgeschriebener Ausbildung ist. Wer ein solches Angebot nutzt, sollte die Qualifikation der beratenden Person selbst erfragen.",
+        "Selbst finanzierte Beratungs- oder Coachingangebote werden von der Krankenkasse in aller Regel nicht erstattet, auch wenn sie „Beratung“ oder „Therapie“ im Namen tragen.",
+        "Wer auf ein völlig kostenloses und sofort verfügbares Angebot wartet, verzögert unter Umständen unnötig den ersten Schritt – TelefonSeelsorge und viele psychosoziale Beratungsstellen sind kostenlos und meist zeitnah erreichbar."
+      ],
+      "fach_html": "<h3>Qualitätsorientierung ohne staatliche Regulierung</h3>\n<p>Für den nicht-medizinischen Beratungsbereich existiert in Deutschland keine einheitliche gesetzliche Zulassung. Eine freiwillige Orientierung bietet die Deutsche Gesellschaft für Beratung (DGfB) als Dachverband mehrerer Fachverbände, deren Mitgliedschaft bestimmte Qualitätsstandards voraussetzt – eine Mitgliedschaft ist jedoch kein Garant für Eignung im Einzelfall und keine Voraussetzung, um überhaupt beraten zu dürfen.</p>\n<h3>Verweis auf die Einzelseiten</h3>\n<p>Alle rechtlichen Details, Fristen und Kostenfragen zu den einzelnen Angeboten stehen auf den jeweiligen Themenseiten dieses Bereichs; diese Seite dient ausschließlich der Orientierung zwischen den Angeboten.</p>",
+      "zustaendig": [
+        "Siehe jeweilige Einzelseiten"
+      ],
+      "belege": [
+        "Deutsche Gesellschaft für Beratung (DGfB), dachverband-beratung.de, abgerufen September 2026"
+      ],
+      "siehe_auch": [
+        {
+          "titel": "Wann professionelle Hilfe nötig ist",
+          "href": "wann-professionelle-hilfe-noetig-bei-sinnkrise.html"
+        },
+        {
+          "titel": "Psychosoziale Beratungsstellen",
+          "href": "psychosoziale-beratungsstellen.html"
+        },
+        {
+          "titel": "TelefonSeelsorge und kirchliche Seelsorge",
+          "href": "telefonseelsorge-und-kirchliche-seelsorge.html"
+        },
+        {
+          "titel": "Philosophische Lebensberatung",
+          "href": "philosophische-lebensberatung.html"
+        }
+      ],
+      "stand": "Stand: September 2026"
+    }
+  ]
+}

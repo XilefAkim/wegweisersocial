@@ -1,0 +1,34 @@
+{
+  "titel": "Handwerker",
+  "zusatz": "Handwerker &middot; Recht und Betrieb im Handwerk",
+  "icon": "🔨",
+  "teaser": "Meisterpflicht, Werkvertrag, Rechnung, Steuern, Rente, Ausbildung, Baustelle: Recht und Pflichten für Betriebsinhaber:innen, Selbstständige und Gesellen.",
+  "suche_placeholder": "Suchen: Meisterpflicht, Gewährleistung, E-Rechnung, Kleinunternehmer, Sofortmeldung …",
+  "meta_description": "Handwerksrecht verständlich: Meisterpflicht, Handwerksrolle, Werkvertrag, Gewährleistung, Zahlungsverzug, E-Rechnung, Steuern, Rentenversicherung, Ausbildung, Sofortmeldung im Bau. Stand September 2026.",
+  "hinweis": "<strong>Rechtsstand: September 2026.</strong> Diese Seiten sind Information, keine Rechtsberatung. Einige Zahlen und Fristen (E-Rechnung, Mindestlohn, Minijob-Grenze, Beitragssätze) stammen aus Sekundärquellen und sind als solche gekennzeichnet. Was nicht geprüft wurde, steht in den Seiten und auf der <a href=\"quellen.html\">Quellenseite</a>.",
+  "haeufig": [
+    "meisterpflicht-handwerksrolle",
+    "abnahme-gewaehrleistung",
+    "zahlungsverzug-bausicherung",
+    "rechnung-e-rechnung",
+    "steuern-kleinunternehmer",
+    "schwarzarbeit-sofortmeldung"
+  ],
+  "fusszeile": "Information für Handwerksbetriebe, Selbstständige und Gesellen, keine Rechtsberatung; Stand September 2026.",
+  "beratung_id": "beratung-anlaufstellen",
+  "quellen_teaser": "Alle Aussagen stützen sich auf Gesetzestexte (gesetze-im-internet.de) sowie auf Angaben von Kammern, IHK und Behörden. Sekundärquellen und ungeprüfte Punkte sind offen benannt.",
+  "quellen_abschnitte": [
+    {
+      "h": "Quellen",
+      "html": "<ol><li>Handwerksordnung (§§ 1, 6, 7, 7b, 90, Anlage A), gesetze-im-internet.de, abgerufen 20.09.2026.</li><li>Bürgerliches Gesetzbuch (§§ 195, 288, 634a, 640, 649, 650f, 650l), gesetze-im-internet.de, abgerufen 20.09.2026.</li><li>Umsatzsteuergesetz (§§ 13b, 14, 19) und Umsatzsteuer-Durchführungsverordnung (§ 33), gesetze-im-internet.de, abgerufen 20.09.2026.</li><li>Gewerbesteuergesetz (§ 11), gesetze-im-internet.de, abgerufen 20.09.2026.</li><li>SGB IV (§§ 7a, 28a), SGB VI (§§ 2, 6), SGB VII (§ 192), gesetze-im-internet.de, abgerufen 20.09.2026.</li><li>Berufsbildungsgesetz (§§ 11, 28), Baustellenverordnung (§ 2), Arbeitnehmerüberlassungsgesetz (§ 1b), Schwarzarbeitsbekämpfungsgesetz (§ 2a), gesetze-im-internet.de, abgerufen 20.09.2026.</li><li>UStG (§ 27 Abs. 38), BMF-Schreiben zur E-Rechnung vom 15.10.2024 und 15.10.2025, EStG (§§ 48, 48b), SGB IV (§ 8 Abs. 1a), Sozialversicherungs-Rechengrößenverordnung 2026, Fünfte Mindestlohnanpassungsverordnung (MiLoV5), Bekanntmachung der Mindestausbildungsvergütung im BGBl. vom 10.10.2025, abgerufen 20.09.2026.</li><li>Bundesregierung (Mindestlohn 2026/2027), Deutsche Rentenversicherung (Beitragssatz, Beitragsbemessungsgrenze, Minijob-Grenze), BIBB (Mindestausbildungsvergütung), Handwerkskammer Berlin (Meisterpflicht seit 14.02.2020), abgerufen 20.09.2026.</li></ol>"
+    },
+    {
+      "h": "Unsichere und nicht geprüfte Punkte",
+      "html": "<ul><li>Branchenmindestlöhne 2026 (Dachdecker, Elektro, Maler) nach DGB als Sekundärquelle; Bauhauptgewerbe (ca. 15,86 und 17,34 Euro) ungeprüft, vor Übernahme im Tarifvertrag Mindestlohn Bau prüfen.</li><li>VOB/B: nur Fassung 2016 (§ 13 Abs. 4) aus Sekundärquellen; aktuelle Fassung nicht geprüft.</li><li>Verzug (§ 286 BGB), Basiszinssatz, Mahnverfahren, Krankenversicherung von Selbstständigen, Arbeitsschutzgesetz: nicht aus der Primärquelle ausgewertet.</li><li>Zulassungsfreie Handwerke (Anlagen B1 und B2) und Zahl der Gewerbe dort nicht ausgewertet. Meisterpflicht seit 2020 laut Kammerdarstellung.</li><li>Innung, Kreishandwerkerschaft, BG BAU, konkrete Kontaktdaten: nicht belegt und deshalb nicht aufgeführt.</li></ul>"
+    },
+    {
+      "h": "Was diese Plattform leistet – und was nicht",
+      "html": "<p>Sie erklärt allgemein, was im Handwerksrecht gilt, in einfacher Sprache mit einem Vertiefungsteil. Sie ersetzt keine Beratung durch Handwerkskammer, Steuerberatung oder Rechtsanwält:innen und ist keine Rechtsberatung im Sinne des Rechtsdienstleistungsgesetzes. Sie nennt keine Kontaktdaten einzelner Stellen und speichert keine persönlichen Daten. Rechte als Angestellte finden Sie im Baustein Arbeitnehmer.</p>"
+    }
+  ]
+}

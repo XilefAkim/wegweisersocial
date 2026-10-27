@@ -1,0 +1,1002 @@
+{
+ "kategorien": [
+  {
+   "id": "ueberblick",
+   "titel": "Überblick und Grundlagen",
+   "icon": "🧭",
+   "beschreibung": "Was Armut rechtlich und statistisch bedeutet – und welches System zuständig ist."
+  },
+  {
+   "id": "erwerbsarmut",
+   "titel": "Erwerbstätigkeit und Armut",
+   "icon": "💼",
+   "beschreibung": "Wenn der Lohn zum Leben nicht reicht: Aufstocken und Working Poor."
+  },
+  {
+   "id": "alltag",
+   "titel": "Alltag mit wenig Geld",
+   "icon": "🛒",
+   "beschreibung": "Tafel, Sachleistungen, Sozialpass und Vergünstigungen."
+  },
+  {
+   "id": "kinder-familie",
+   "titel": "Kinder und Familie",
+   "icon": "👨‍👩‍👧",
+   "beschreibung": "Bildungs- und Teilhabepaket, Kinderarmut und Familienleistungen."
+  },
+  {
+   "id": "wohnen-energie",
+   "titel": "Wohnen und Energie",
+   "icon": "🏠",
+   "beschreibung": "Energieschulden, Stromsperre, Mietschulden und Wohnungsverlust vorbeugen."
+  },
+  {
+   "id": "schulden-konto",
+   "titel": "Schulden und Konto",
+   "icon": "💳",
+   "beschreibung": "Schuldnerberatung, Privatinsolvenz, Pfändungsschutz- und Basiskonto."
+  },
+  {
+   "id": "gesundheit-alter",
+   "titel": "Gesundheit und Alter",
+   "icon": "🩺",
+   "beschreibung": "Gesundheitliche Folgen von Armut und Grundsicherung im Alter."
+  },
+  {
+   "id": "beratung",
+   "titel": "Beratung und Anlaufstellen",
+   "icon": "📞",
+   "beschreibung": "Wer bei welchem Anliegen hilft."
+  }
+ ],
+ "seiten": [
+  {
+   "id": "ueberblick-armut-und-grundsicherung",
+   "kategorie": "ueberblick",
+   "titel": "Überblick: Armut und Grundsicherung in Deutschland",
+   "icon": "🧭",
+   "teaser": "Was Armut in Deutschland rechtlich und statistisch bedeutet, welche Grundsicherungssysteme es gibt – und warum Ihre Lebenssituation entscheidet, welches System zuständig ist.",
+   "schlagworte": [
+    "Armutsgefährdungsquote",
+    "Existenzminimum",
+    "Regelbedarf",
+    "SGB II",
+    "SGB XII",
+    "AsylbLG",
+    "Nachrangprinzip",
+    "Kenntnisgrundsatz"
+   ],
+   "kurz_html": "\n<p>Es gibt in Deutschland keine einzelne gesetzliche Definition von „Armut“. Mehrere Maßstäbe stehen nebeneinander:\nDie <strong>Armutsgefährdungsquote</strong> ist ein statistischer Wert, der beschreibt, wie viele Menschen mit weniger\nals 60&nbsp;% des mittleren Einkommens auskommen müssen. Das <strong>Existenzminimum</strong> ist dagegen ein rechtlicher\nMaßstab: Er legt fest, welches Einkommen der Staat mindestens garantieren muss, und wird über den\n<strong>Regelbedarf</strong> in der Grundsicherung konkret beziffert. Beide Maßstäbe messen unterschiedliche Dinge und\nsollten nicht vermischt werden.</p>\n<p>Welches Grundsicherungssystem für Sie zuständig ist, hängt nicht davon ab, „wie arm“ Sie sind, sondern von Ihrer\nLebenssituation: Erwerbsfähige Menschen zwischen 15 Jahren und der Regelaltersgrenze fallen unter das SGB II\n(Grundsicherungsgeld, vormals „Bürgergeld“). Wer dauerhaft voll erwerbsgemindert ist oder die Regelaltersgrenze erreicht\nhat, sowie alle übrigen Fälle der Sozialhilfe fallen unter das SGB XII. Asylsuchende und bestimmte weitere Gruppen\nerhalten Leistungen nach dem Asylbewerberleistungsgesetz (AsylbLG).</p>\n",
+   "schritte": [
+    {
+     "titel": "Lebenssituation einordnen",
+     "text": "Prüfen Sie, ob Sie erwerbsfähig sind, die Regelaltersgrenze erreicht haben, dauerhaft voll erwerbsgemindert sind oder sich im Asylverfahren befinden – davon hängt ab, welches Gesetzbuch für Sie gilt."
+    },
+    {
+     "titel": "Zuständiges Amt finden",
+     "text": "Erwerbsfähige wenden sich ans Jobcenter (SGB II), alle anderen Fälle der Sozialhilfe an das Sozialamt der Kommune (SGB XII), Asylsuchende ebenfalls an das Sozialamt (AsylbLG)."
+    },
+    {
+     "titel": "Anspruch grob prüfen",
+     "text": "Vergleichen Sie Ihr Einkommen und Vermögen mit dem für Sie geltenden Regelbedarf plus angemessenen Wohnkosten – reicht es nicht, besteht in der Regel ein Anspruch."
+    },
+    {
+     "titel": "Antrag stellen oder Kenntnis herbeiführen",
+     "text": "Beim SGB II müssen Sie einen Antrag stellen (Antragsprinzip); bei der Sozialhilfe nach SGB XII genügt grundsätzlich, dass der Träger von Ihrer Notlage Kenntnis erlangt (Kenntnisgrundsatz)."
+    },
+    {
+     "titel": "Beratung nutzen, wenn unklar",
+     "text": "Bei Zweifeln, welches System zuständig ist oder ob mehrere Leistungen zusammentreffen, hilft eine unabhängige Sozialberatung weiter."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Antragsmonat",
+     "was": "Grundsicherungsgeld (SGB II) wird grundsätzlich erst ab dem Monat der Antragstellung gezahlt",
+     "grundlage": "§ 37 SGB II"
+    },
+    {
+     "wert": "Ab Kenntnis",
+     "was": "Sozialhilfe nach SGB XII setzt bereits ein, sobald der Träger von der Notlage Kenntnis erhält – ein förmlicher Antrag ist keine Voraussetzung",
+     "grundlage": "§ 18 SGB XII"
+    },
+    {
+     "wert": "1 Monat",
+     "was": "Widerspruchsfrist gegen ablehnende Bescheide von Jobcenter oder Sozialamt",
+     "grundlage": "§ 84 SGG"
+    }
+   ],
+   "achtung": [
+    "Verwechseln Sie nicht die Armutsgefährdungsquote (ein statistischer, relativer Wert) mit der individuellen Bedürftigkeit für Sozialleistungen – aus einer Quote lässt sich kein eigener Anspruch ableiten.",
+    "Bei der Sozialhilfe (SGB XII) reicht anders als beim Grundsicherungsgeld schon die Kenntnis des Amts von der Notlage; wer trotzdem wartet, bis „alles klar“ ist, verschenkt möglicherweise Leistungszeiträume.",
+    "„Bürgergeld“ und „Grundsicherungsgeld“ bezeichnen seit 1. Juli 2026 dieselbe Leistung; „Grundsicherung im Alter“ (SGB XII) ist rechtlich etwas anderes, auch wenn der Name ähnlich klingt.",
+    "Wer mehrere denkbare Ansprüche hat (z. B. Wohngeld, Kinderzuschlag, Grundsicherungsgeld), sollte sich beraten lassen statt sich für die vermeintlich einfachste Option zu entscheiden – Nachrang- und Vorrangregeln greifen ineinander."
+   ],
+   "fach_html": "\n<h3>Zwei statistische Maßstäbe, ein Wort</h3>\n<p>Die <strong>Armutsgefährdungsquote</strong> nach der EU-weiten Erhebung EU-SILC lag für Deutschland 2025 laut\nStatistischem Bundesamt bei 16,1&nbsp;% der Bevölkerung (rund 13,3 Millionen Menschen; die Einkommensangaben der\nErhebung beziehen sich methodisch auf das Vorjahr 2024). Für das Berichtsjahr 2024 hatte die Quote bei 15,5&nbsp;%\ngelegen. Die Schwelle lag 2025 bei 1.446 Euro monatlichem Nettoeinkommen für Einpersonenhaushalte bzw. 3.036 Euro für\nzwei Erwachsene mit zwei Kindern unter 14 Jahren. Einschließlich weiterer Kriterien (materielle Entbehrung, geringe\nErwerbsbeteiligung im Haushalt) waren 2025 rund 21,2&nbsp;% von Armut oder sozialer Ausgrenzung bedroht.</p>\n<p>Der <strong>Paritätische Gesamtverband</strong> wertet dieselbe Mikrozensus-/EU-SILC-Datengrundlage in seinem\nArmutsbericht 2025 zusätzlich nach Gruppen aus: Für 2024 lag die Armutsquote bei Frauen bei 16,2&nbsp;% gegenüber\n14,7&nbsp;% bei Männern, bei jungen Erwachsenen (18–24 Jahre) bei 24,8&nbsp;%, bei Menschen ab 65 Jahren bei\n19,4&nbsp;%, bei Alleinerziehenden bei 27&nbsp;% und bei Einpersonenhaushalten bei 29&nbsp;%. Unter Erwerbstätigen lag\ndie Quote bei 6,5&nbsp;%, bei Teilzeitbeschäftigten bei 9,6&nbsp;%.</p>\n<h3>Existenzminimum und Regelbedarf</h3>\n<p>Das verfassungsrechtlich abgesicherte Existenzminimum (Art. 1 Abs. 1, Art. 20 Abs. 1 GG) wird durch die\nRegelbedarfsstufen konkretisiert. Für 2026 beträgt die Regelbedarfsstufe 1 amtlich 563 Euro monatlich (Anlage zu § 28 SGB XII). Die rechnerische Fortschreibung hätte 557 Euro ergeben; der Besitzstandsschutz des § 28a Abs. 5 SGB XII schließt eine Absenkung aus (Regelbedarfsstufen-Fortschreibungsverordnung 2026 vom 17. Oktober 2025, BGBl. 2025 I Nr. 243).</p>\n<h3>Drei Sicherungssysteme, ein Nachrangprinzip</h3>\n<p>SGB II (Antragsprinzip, § 37 SGB II) gilt für Erwerbsfähige; SGB XII gilt nach dem Kenntnisgrundsatz (§ 18 SGB XII)\nfür dauerhaft voll Erwerbsgeminderte und Menschen ab der Regelaltersgrenze (Grundsicherung im Alter und bei\nErwerbsminderung, §§ 41 ff. SGB XII) sowie als „Hilfe zum Lebensunterhalt“ (§§ 27 ff. SGB XII) für alle übrigen Fälle.\nDas AsylbLG gilt für Asylsuchende und bestimmte weitere Personengruppen. Alle drei Systeme teilen das sozialrechtliche\nNachrangprinzip: Eigenes Einkommen, Vermögen und vorrangige Leistungen (Kindergeld, Unterhalt, Wohngeld, Rente) sind\nvorrangig einzusetzen.</p>\n",
+   "zustaendig": [
+    "Jobcenter (SGB II, erwerbsfähige Personen)",
+    "Sozialamt der Kommune (SGB XII, Sozialhilfe, Grundsicherung im Alter und bei Erwerbsminderung)",
+    "Sozialamt (AsylbLG)"
+   ],
+   "belege": [
+    "§§ 37, 39 SGB II; §§ 18, 27, 41 SGB XII; § 1 AsylbLG (gesetze-im-internet.de)",
+    "Statistisches Bundesamt, Pressemitteilung Nr. 039 vom 03.02.2026: Armutsgefährdungsquote 2025",
+    "Statistisches Bundesamt, Pressemitteilung Nr. 036 vom 22.01.2025: Armutsgefährdungsquote 2024",
+    "Der Paritätische Gesamtverband, Armutsbericht 2025 (der-paritaetische.de)"
+   ],
+   "siehe_auch": [
+    "verdeckte-armut-und-nichtinanspruchnahme",
+    "aufstocken-bei-niedrigem-einkommen",
+    "beratung-anlaufstellen-armut"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "verdeckte-armut-und-nichtinanspruchnahme",
+   "kategorie": "ueberblick",
+   "titel": "Verdeckte Armut und Nichtinanspruchnahme von Leistungen",
+   "icon": "🙈",
+   "teaser": "Viele Menschen, die Anspruch auf Grundsicherung hätten, beantragen sie nicht. Warum das so ist – und wie Sie prüfen, ob Sie betroffen sind.",
+   "schlagworte": [
+    "Verdeckte Armut",
+    "Nichtinanspruchnahme",
+    "Dunkelziffer",
+    "Stigmatisierung",
+    "Grundsicherung im Alter",
+    "Rückwirkung"
+   ],
+   "kurz_html": "\n<p><strong>Verdeckte Armut</strong> bezeichnet Menschen, die Anspruch auf Sozialleistungen hätten, diese aber nicht\nbeantragen – aus Unwissenheit, Scham, weil das Verfahren als zu kompliziert empfunden wird, oder weil der erwartete\nBetrag als zu gering für den Aufwand erscheint. Sie tauchen dadurch in keiner Sozialstatistik als Leistungsbeziehende\nauf, obwohl sie faktisch von weniger Geld leben müssen als der Regelbedarf vorsieht.</p>\n<p>Besonders betroffen sind nach vorliegenden Untersuchungen ältere Menschen mit Anspruch auf Grundsicherung im Alter\nsowie Menschen mit sehr geringem, ergänzendem Anspruch auf Grundsicherungsgeld. Ein Antrag lohnt sich aber oft auch bei\nkleinen Beträgen, weil daran weitere Vergünstigungen hängen (siehe Sozialpass, Zuzahlungsbefreiung, Rundfunkbeitrag).</p>\n",
+   "schritte": [
+    {
+     "titel": "Groben Anspruch prüfen",
+     "text": "Nutzen Sie einen unabhängigen Sozialleistungsrechner oder eine Beratungsstelle, um zu prüfen, ob Einkommen und Vermögen unter dem für Sie geltenden Bedarf liegen."
+    },
+    {
+     "titel": "Nicht von der Höhe abschrecken lassen",
+     "text": "Auch ein kleiner monatlicher Anspruch lohnt sich oft, weil er zusätzliche Vergünstigungen (Sozialpass, Zuzahlungsbefreiung, Rundfunkbeitragsbefreiung) eröffnet."
+    },
+    {
+     "titel": "Antrag frühzeitig stellen",
+     "text": "Da Leistungen in der Regel nicht rückwirkend für lange zurückliegende Zeiträume gezahlt werden, kostet Zögern bares Geld."
+    },
+    {
+     "titel": "Bei Scham: anonyme Erstberatung nutzen",
+     "text": "Viele Sozialberatungsstellen und Verbraucherzentralen bieten eine erste, anonyme Einschätzung an, bevor überhaupt ein Amt kontaktiert wird."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Keine allgemeine Nachzahlung",
+     "was": "Grundsicherungsgeld und Sozialhilfe werden grundsätzlich nicht rückwirkend für Zeiträume vor Antragstellung bzw. vor Kenntnis des Amts gezahlt",
+     "grundlage": "§ 37 SGB II, § 18 SGB XII"
+    }
+   ],
+   "achtung": [
+    "Nichtinanspruchnahme ist kein Randphänomen: Je nach Schätzung verzichten laut mehreren zusammengetragenen Sekundärquellen etwa 35–40&nbsp;% der Anspruchsberechtigten beim Grundsicherungsgeld (SGB II) auf eine Antragstellung; bei der Grundsicherung im Alter (SGB XII) schätzte eine DIW-Studie aus dem Jahr 2019 die Nichtinanspruchnahme auf rund 60&nbsp;% der Berechtigten. Beide Zahlen stammen aus unterschiedlichen Quellen und Jahren und sollten nicht gleichgesetzt werden.",
+    "Scham ist kein Grund, auf eine Leistung zu verzichten, auf die ein gesetzlicher Anspruch besteht – Sozialleistungen sind keine Almosen, sondern gesetzlich geregelte Ansprüche.",
+    "Wer ausschließlich Wohngeld oder Kinderzuschlag statt der eigentlich zustehenden Grundsicherung bezieht, weil das „weniger stigmatisiert“ wirkt, kann dadurch auf zustehende Zusatzleistungen (Bildungspaket, Zuzahlungsbefreiung) verzichten – ein Beratungsgespräch klärt, was tatsächlich günstiger ist.",
+    "Auch Eigentümerinnen und Eigentümer einer selbst genutzten Immobilie können anspruchsberechtigt sein; der Verzicht „weil man ja ein Haus hat“ beruht oft auf einem Irrtum über das Schonvermögen."
+   ],
+   "fach_html": "\n<h3>Warum Ansprüche nicht wahrgenommen werden</h3>\n<p>In der Forschung zur Nichtinanspruchnahme (englisch: non-take-up) werden vier wiederkehrende Gründe genannt:\nUnwissenheit über den eigenen Anspruch, als zu gering empfundene Leistungshöhe im Verhältnis zum Aufwand,\nStigmatisierungsangst sowie die wahrgenommene Komplexität des Verfahrens. Diese Faktoren wirken oft zusammen und\nverstärken sich gegenseitig.</p>\n<h3>Zahlenlage: uneinheitlich und mit Vorsicht zu lesen</h3>\n<p>Eine grundlegende DIW-Studie (Buslei, Geyer, Haan, Harnisch, DIW Wochenbericht 49/2019) bezifferte die\nNichtinanspruchnahme der Grundsicherung im Alter auf rund 60&nbsp;% der Berechtigten bzw. etwa 625.000 private\nHaushalte – mit Blick auf das Erhebungsjahr der zugrunde liegenden Daten, nicht auf die aktuelle Rechtslage 2026. Für\ndas Grundsicherungsgeld (SGB II) kursieren in verschiedenen Sekundärquellen (u. a. Auswertungen, auf die die\nBundeszentrale für politische Bildung und Fachpublikationen verweisen) Schätzwerte zwischen rund 35&nbsp;% und in\nEinzelschätzungen bis zu 55&nbsp;% der Berechtigten. Eine einzelne, aktuelle amtliche Zahl für 2026 ließ sich im Rahmen\ndieser Recherche nicht auffinden; die genannten Prozentwerte sind deshalb ausdrücklich als Schätzungen mit Bandbreite\nund nicht als amtlich festgestellte Quote zu verstehen.</p>\n<h3>Praxisfolge für die Beratung</h3>\n<p>Weil verdeckt arme Menschen per Definition nicht in Leistungsbezugsstatistiken erscheinen, erreicht sie klassische\nAmtskommunikation kaum. In der Beratungspraxis hat sich eine aufsuchende, niedrigschwellige Ansprache (z. B. über\nWohlfahrtsverbände, Seniorentreffs, Tafeln) als wirksamer erwiesen als reine Informationsangebote der Ämter selbst.</p>\n",
+   "zustaendig": [
+    "Jobcenter bzw. Sozialamt (je nach Lebenssituation, siehe Überblicksseite)",
+    "Unabhängige Sozialberatungsstellen und Wohlfahrtsverbände"
+   ],
+   "belege": [
+    "§ 37 SGB II, § 18 SGB XII (gesetze-im-internet.de)",
+    "Buslei/Geyer/Haan/Harnisch, DIW Wochenbericht 49/2019: Starke Nichtinanspruchnahme von Grundsicherung deutet auf hohe verdeckte Altersarmut (diw.de)",
+    "Bundeszentrale für politische Bildung, Themendossier Verteilung von Armut und Reichtum: Empfängerzahlen und Dunkelziffer der Nicht-Inanspruchnahme (bpb.de)",
+    "Verschiedene journalistische und fachliche Sekundärquellen zur Nichtinanspruchnahme beim SGB II, u. a. NachDenkSeiten, Januar 2026 – Schätzwerte, keine amtliche Statistik"
+   ],
+   "siehe_auch": [
+    "ueberblick-armut-und-grundsicherung",
+    "armut-im-alter",
+    "beratung-anlaufstellen-armut"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "aufstocken-bei-niedrigem-einkommen",
+   "kategorie": "erwerbsarmut",
+   "titel": "Aufstocken bei niedrigem Einkommen (Working Poor)",
+   "icon": "💼",
+   "teaser": "Wer trotz Arbeit nicht genug zum Leben verdient, kann ergänzend Grundsicherungsgeld erhalten. Was „Aufstocken“ bedeutet und was dabei zu beachten ist.",
+   "schlagworte": [
+    "Aufstocker",
+    "Working Poor",
+    "Erwerbstätigenfreibetrag",
+    "Ergänzende Leistungen",
+    "Mindestlohn"
+   ],
+   "kurz_html": "\n<p>„Aufstocken“ bedeutet: Sie arbeiten, verdienen aber trotzdem so wenig, dass Ihr Einkommen nicht für den\nLebensunterhalt reicht. In diesem Fall können Sie ergänzend Grundsicherungsgeld (SGB II) beantragen. Häufige Gründe\nsind niedrige Stundenlöhne, Teilzeit, Minijobs, hohe Wohnkosten in Ballungsräumen oder mehrere zu versorgende\nKinder. Aufstocken ist keine Ausnahme, sondern ein regulärer Bestandteil des Systems: Ein Teil des Erwerbseinkommens\ndarf behalten werden, damit sich Arbeit gegenüber reinem Leistungsbezug lohnt.</p>\n",
+   "schritte": [
+    {
+     "titel": "Bedarf und Einkommen gegenüberstellen",
+     "text": "Vergleichen Sie Regelbedarf plus angemessene Wohnkosten mit Ihrem tatsächlichen Nettoeinkommen nach Abzug der Freibeträge."
+    },
+    {
+     "titel": "Antrag beim Jobcenter stellen",
+     "text": "Aufstockende Leistungen werden wie reguläres Grundsicherungsgeld beim Jobcenter beantragt; Verdienstbescheinigungen der letzten Monate sind beizufügen."
+    },
+    {
+     "titel": "Einkommen laufend mitteilen",
+     "text": "Schwankendes Einkommen (z. B. bei Schichtarbeit, Saisonjobs) muss dem Jobcenter gemeldet werden; oft erfolgt zunächst eine vorläufige Bewilligung."
+    },
+    {
+     "titel": "Vorrangige Leistungen prüfen",
+     "text": "Kinderzuschlag und Wohngeld können bei Erwerbstätigkeit mit Kindern günstiger sein als Grundsicherungsgeld und sind vorrangig zu prüfen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Antragsmonat",
+     "was": "Auch aufstockendes Grundsicherungsgeld wird grundsätzlich erst ab dem Monat der Antragstellung gezahlt",
+     "grundlage": "§ 37 SGB II"
+    },
+    {
+     "wert": "Unverzüglich",
+     "was": "Änderungen des Erwerbseinkommens sind dem Jobcenter unverzüglich mitzuteilen",
+     "grundlage": "§ 60 SGB I"
+    }
+   ],
+   "achtung": [
+    "Aufstocken ist kein Zeichen von Versagen, sondern eine gesetzlich vorgesehene ergänzende Leistung – der Anspruch besteht unabhängig davon, ob die Arbeit Voll- oder Teilzeit, befristet oder ein Minijob ist.",
+    "Wer Aufstockung aus Scham nicht beantragt, verzichtet oft zugleich auf Zugang zum Bildungs- und Teilhabepaket für die Kinder und auf Vergünstigungen wie den Sozialpass.",
+    "Schwankendes Einkommen sollte realistisch geschätzt werden: Wird zu wenig Einkommen angegeben, drohen spätere Rückforderungen; wird zu viel angegeben, fehlt Geld im laufenden Monat.",
+    "Kinderzuschlag und Wohngeld können bei Familien mit Erwerbseinkommen zu einem höheren Gesamteinkommen führen als Grundsicherungsgeld – ein Wechsel ist erst nach Beratung sinnvoll, nicht auf Verdacht."
+   ],
+   "fach_html": "\n<h3>Erwerbstätigenfreibeträge</h3>\n<p>Nach § 11b SGB II bleibt ein Teil des Erwerbseinkommens anrechnungsfrei: 100 Euro als Grundfreibetrag, darüber\nhinaus gestaffelte Freibeträge auf weitere Einkommensanteile. Ziel ist es, einen finanziellen Anreiz zu erhalten,\nErwerbsarbeit aufzunehmen oder auszuweiten, statt vollständig auf Grundsicherungsgeld verwiesen zu sein. Die genaue\nStaffelung der Freibeträge oberhalb des Grundfreibetrags richtet sich nach der Bruttoeinkommenshöhe (§ 11b Abs. 3\nSGB II).</p>\n<h3>Umfang des Phänomens</h3>\n<p>Nach Angaben der Bundesagentur für Arbeit bezogen im Jahresdurchschnitt 2025 rund 5,3 Millionen Menschen\nSGB-II-Leistungen, davon rund 3,9 Millionen (etwa 73&nbsp;%) erwerbsfähig. Davon waren im Juli 2025 rund 806.000\nerwerbstätige erwerbsfähige Leistungsberechtigte gleichzeitig erwerbstätig und auf ergänzendes Grundsicherungsgeld\nangewiesen – das entspricht rund 20&nbsp;% aller erwerbsfähigen Leistungsberechtigten. Der Paritätische Gesamtverband\nbeziffert in seinem Armutsbericht 2025 die Armutsquote unter Erwerbstätigen auf 6,5&nbsp;%, unter Teilzeitbeschäftigten\nauf 9,6&nbsp;% (Berichtsjahr 2024, EU-SILC-Methodik) – dies ist ein anderer statistischer Wert als die Aufstockerzahl\nder Bundesagentur für Arbeit und sollte nicht mit dieser gleichgesetzt werden.</p>\n<h3>Verhältnis zu Kinderzuschlag und Wohngeld</h3>\n<p>Familien mit Erwerbseinkommen, die knapp über der Grundsicherungsschwelle liegen, erhalten häufig vorrangig\nKinderzuschlag (§ 6a BKGG) und Wohngeld statt Grundsicherungsgeld – Details dazu, einschließlich Antragsweg, behandelt\nder bereits bestehende Wegweiser-Baustein „Arbeitslose“ im Beitrag zu Kinderzuschlag und Familienleistungen.</p>\n",
+   "zustaendig": [
+    "Jobcenter am Wohnort"
+   ],
+   "belege": [
+    "§ 11b SGB II (gesetze-im-internet.de)",
+    "Bundesagentur für Arbeit, Statistik der Grundsicherung für Arbeitsuchende (SGB II), Berichtsmonate 2025 (statistik.arbeitsagentur.de)",
+    "Der Paritätische Gesamtverband, Armutsbericht 2025 (der-paritaetische.de)"
+   ],
+   "siehe_auch": [
+    "ueberblick-armut-und-grundsicherung",
+    "kinderarmut-und-familienleistungen",
+    "bildung-und-teilhabepaket"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "tafel-und-sachleistungen",
+   "kategorie": "alltag",
+   "titel": "Tafel und andere Sachleistungen",
+   "icon": "🥫",
+   "teaser": "Lebensmittel-Tafeln und andere Sachleistungsangebote ergänzen, ersetzen aber nicht die gesetzliche Grundsicherung. Wie der Zugang funktioniert.",
+   "schlagworte": [
+    "Tafel",
+    "Sachleistung",
+    "Lebensmittelausgabe",
+    "Ehrenamt",
+    "Kleiderkammer"
+   ],
+   "kurz_html": "\n<p>Tafeln sind ehrenamtlich organisierte, gemeinnützige Vereine. Sie geben Lebensmittel weiter, die im Handel nicht\nmehr verkauft, aber noch genießbar sind, gegen einen kleinen Unkostenbeitrag an Menschen mit geringem Einkommen ab.\nTafeln sind eine freiwillige, zivilgesellschaftliche Ergänzung – kein gesetzlicher Anspruch und kein Ersatz für die\nGrundsicherung. Ähnliche Sachleistungsangebote gibt es als Kleiderkammern, Möbellager oder Schulranzen-Börsen, meist\nüber Wohlfahrtsverbände oder kirchliche Träger organisiert.</p>\n",
+   "schritte": [
+    {
+     "titel": "Zugangsvoraussetzungen der örtlichen Tafel klären",
+     "text": "Die meisten Tafeln verlangen einen Nachweis über geringes Einkommen (z. B. Bescheid über Grundsicherungsgeld, Wohngeld, Rente); die genauen Regeln legt die jeweilige Tafel vor Ort fest."
+    },
+    {
+     "titel": "Ausweis/Berechtigungskarte beantragen",
+     "text": "Viele Tafeln stellen nach Prüfung eine Kundenkarte aus, mit der Sie an festen Ausgabetagen Lebensmittel erhalten."
+    },
+    {
+     "titel": "Ergänzende Angebote erfragen",
+     "text": "Fragen Sie zusätzlich nach Kleiderkammern, Möbellagern oder Schulranzen-Börsen vor Ort – viele Tafeln vermitteln an weitere Anlaufstellen."
+    }
+   ],
+   "fristen": [],
+   "achtung": [
+    "Tafeln sind keine flächendeckende, garantierte Versorgung: Es gibt keinen Rechtsanspruch auf Aufnahme, und Angebot sowie Öffnungszeiten unterscheiden sich stark von Ort zu Ort.",
+    "Die Nutzung einer Tafel ersetzt nicht die Beantragung von Grundsicherungsgeld oder Sozialhilfe – sie überbrückt akute Engpässe, löst aber nicht die zugrunde liegende Unterversorgung.",
+    "Manche Tafeln mussten wegen hoher Nachfrage zeitweise Aufnahmestopps verhängen; ein Anruf vor dem ersten Besuch erspart unnötige Wege."
+   ],
+   "fach_html": "\n<h3>Rechtlicher Status</h3>\n<p>Tafeln sind privatrechtlich organisierte, überwiegend ehrenamtlich getragene Vereine, meist im Dachverband\nTafel Deutschland e.V. zusammengeschlossen. Sie erhalten keine bundesgesetzlich vorgeschriebene Regelfinanzierung; ihre\nArbeit beruht auf Lebensmittelspenden des Handels, Sachspenden und ehrenamtlichem Engagement. Rechtsgrundlage für den\nZugang gibt es nicht – die Aufnahmekriterien legt jede Tafel selbst fest.</p>\n<h3>Umfang der Nutzung (Verbandsangaben)</h3>\n<p>Nach eigenen Angaben von Tafel Deutschland e.V. nutzten 2025 rund 1,5 Millionen Menschen das Angebot von\nbundesweit mehr als 970 Tafeln; rund 30&nbsp;% der Nutzenden waren Kinder, rund 20&nbsp;% waren älter als 63 Jahre.\nDiese Zahlen sind eine <strong>Verbandsschätzung</strong> von Tafel Deutschland e.V., keine amtliche Sozialstatistik,\nund sollten entsprechend gekennzeichnet zitiert werden.</p>\n<h3>Einordnung in der Beratung</h3>\n<p>Fachlich wird die Ausweitung der Tafel-Nutzung häufig als Indiz für eine Lücke zwischen gesetzlichem Regelbedarf und\ntatsächlichen Lebenshaltungskosten diskutiert. Für die Einzelfallberatung gilt: Eine Tafel-Nutzung schließt einen\ngleichzeitigen Anspruch auf Grundsicherungsgeld oder Sozialhilfe nicht aus und sollte diesen nicht ersetzen.</p>\n",
+   "zustaendig": [
+    "Örtliche Tafel-Vereine (privatrechtlich, keine Behörde)",
+    "Wohlfahrtsverbände für Kleiderkammern und Möbellager"
+   ],
+   "belege": [
+    "Tafel Deutschland e.V., Zahlen & Fakten, Stand 2025 (tafel.de) – Verbandsangaben, keine amtliche Statistik"
+   ],
+   "siehe_auch": [
+    "sozialpass-und-verguenstigungen",
+    "beratung-anlaufstellen-armut"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "sozialpass-und-verguenstigungen",
+   "kategorie": "alltag",
+   "titel": "Sozialpass und Vergünstigungen",
+   "icon": "🎫",
+   "teaser": "Viele Städte und Gemeinden bieten einen Sozialpass mit vergünstigtem Nahverkehr, Kultur- und Sportangeboten. Ein bundesweit einheitliches Angebot ist das aber nicht.",
+   "schlagworte": [
+    "Sozialpass",
+    "Bonuscard",
+    "Ermäßigung",
+    "Kommunale Leistung",
+    "Teilhabe"
+   ],
+   "kurz_html": "\n<p>Ein Sozialpass (auch Bonuscard, Familienpass oder ähnlich genannt) ist eine <strong>freiwillige kommunale\nLeistung</strong> – kein Bundesgesetz schreibt ihn vor. Städte und Landkreise, die einen Sozialpass anbieten, gewähren\ndamit meist Ermäßigungen bei Bus und Bahn, Schwimmbädern, Theatern, Museen und Volkshochschulen für Menschen mit\ngeringem Einkommen. Ob es einen Sozialpass gibt, wie er heißt, wer ihn bekommt und welche Vergünstigungen er umfasst,\nunterscheidet sich von Kommune zu Kommune erheblich.</p>\n",
+   "schritte": [
+    {
+     "titel": "Prüfen, ob die eigene Kommune einen Sozialpass anbietet",
+     "text": "Informieren Sie sich direkt bei Stadt- oder Kreisverwaltung, ob es ein entsprechendes Angebot gibt – ein bundesweites Verzeichnis existiert nicht."
+    },
+    {
+     "titel": "Nachweis der Berechtigung einreichen",
+     "text": "In der Regel genügt der Bescheid über Grundsicherungsgeld, Wohngeld, Kinderzuschlag oder eine vergleichbare Leistung als Nachweis."
+    },
+    {
+     "titel": "Automatische Ausstellung erfragen",
+     "text": "Manche Kommunen (z. B. Stuttgart mit der „BonusCard“) stellen den Pass automatisch an Empfängerinnen und Empfänger von SGB-II-, SGB-XII- oder AsylbLG-Leistungen aus, ohne gesonderten Antrag."
+    }
+   ],
+   "fristen": [],
+   "achtung": [
+    "Es gibt keinen bundesweiten Sozialpass und keinen bundesgesetzlichen Anspruch darauf – wer aus einer Kommune mit Sozialpass in eine andere ohne ein solches Angebot zieht, verliert die Vergünstigung möglicherweise ersatzlos.",
+    "Die Angaben zu Ermäßigungen (z. B. Nahverkehr) veralten schnell, weil Kommunen ihre Programme regelmäßig anpassen – die aktuellen Konditionen sind immer bei der zuständigen Kommune zu erfragen.",
+    "Ein Sozialpass ersetzt keinen Antrag auf Grundsicherung – die Berechtigung für den Pass leitet sich meist gerade aus einem bereits bewilligten Leistungsbescheid ab."
+   ],
+   "fach_html": "\n<h3>Rechtlicher Rahmen: freiwillige Selbstverwaltungsaufgabe</h3>\n<p>Der Sozialpass beruht auf keinem Bundesgesetz, sondern auf kommunalem Ortsrecht bzw. Beschlüssen von Stadt- oder\nKreisräten im Rahmen der kommunalen Selbstverwaltung (Art. 28 Abs. 2 GG). Das erklärt die großen Unterschiede: Nach\nvorliegenden Übersichten ist der Sozialpass regional unterschiedlich verbreitet, mit auffälliger Häufung in\nBaden-Württemberg und Nordrhein-Westfalen sowie in mehreren ostdeutschen Bundesländern, während er andernorts fehlt.</p>\n<h3>Beispiel Stuttgart „BonusCard“</h3>\n<p>Die Stuttgarter „BonusCard“ wird Empfängerinnen und Empfängern von Leistungen nach SGB II, SGB XII oder AsylbLG ohne\ngesonderten Antrag ausgestellt und ermöglicht u. a. ermäßigte Tarife im Nahverkehr sowie vergünstigten Zugang zu\nstädtischem Theater, Museen und Volkshochschule. Dieses Modell ist ein Beispiel unter vielen kommunalen Ausgestaltungen\nund nicht bundesweit übertragbar.</p>\n<h3>Praxishinweis für die Beratung</h3>\n<p>Da es kein zentrales Verzeichnis aller kommunalen Sozialpass-Programme gibt, sollte in der Beratung stets die\nWebsite der zuständigen Stadt- oder Kreisverwaltung („Sozialpass“, „Bonuscard“, „Familienpass“ als Suchbegriffe)\nkonsultiert werden, statt pauschale bundesweite Aussagen zu treffen.</p>\n",
+   "zustaendig": [
+    "Stadt- oder Kreisverwaltung (Sozialamt, teils auch eigenständige Fachstelle)"
+   ],
+   "belege": [
+    "Die Linke, Kommunal-Antragsdatenbank: Sozialpässe in Städten und Landkreisen – weshalb, wo und wie (die-linke.de)",
+    "Landeshauptstadt Stuttgart, BonusCard, Verwaltungsangaben – Beispiel für ein kommunales Modell"
+   ],
+   "siehe_auch": [
+    "tafel-und-sachleistungen",
+    "bildung-und-teilhabepaket"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "bildung-und-teilhabepaket",
+   "kategorie": "kinder-familie",
+   "titel": "Bildungs- und Teilhabepaket (§ 28 SGB II)",
+   "icon": "🎒",
+   "teaser": "Schulausflüge, Nachhilfe, Mittagessen, Vereinsbeitrag: Das Bildungs- und Teilhabepaket unterstützt Kinder aus einkommensschwachen Familien zusätzlich zum Regelbedarf.",
+   "schlagworte": [
+    "Bildungspaket",
+    "Schulbedarf",
+    "Teilhabe",
+    "Lernförderung",
+    "Schulausflug",
+    "Vereinsbeitrag",
+    "§ 28 SGB II"
+   ],
+   "kurz_html": "\n<p>Neben dem Regelbedarf gibt es für Kinder, Jugendliche und junge Erwachsene bis 25 Jahre besondere Leistungen für\nBildung und Teilhabe. Sie stehen nicht nur Kindern im Grundsicherungsgeld-Bezug zu, sondern auch Kindern in Familien,\ndie Wohngeld, Kinderzuschlag oder Sozialhilfe erhalten. Dazu zählen unter anderem Zuschüsse zu Klassenfahrten und\nSchulausflügen, ein Schulbedarfspaket, Lernförderung bei drohender Versetzungsgefährdung, ein Zuschuss zum\ngemeinschaftlichen Mittagessen in Schule oder Kita sowie ein monatlicher Betrag für Vereinsmitgliedschaft, Musikschule\noder ähnliche Freizeitangebote.</p>\n",
+   "schritte": [
+    {
+     "titel": "Anspruchsgrundlage prüfen",
+     "text": "Bildungs- und Teilhabeleistungen stehen Kindern in Familien mit Grundsicherungsgeld, Sozialhilfe, Wohngeld oder Kinderzuschlag zu – unabhängig davon, welche dieser Leistungen die Familie insgesamt bezieht."
+    },
+    {
+     "titel": "Einzelleistung beim zuständigen Träger beantragen",
+     "text": "Je nach Kommune sind Jobcenter, Sozialamt oder eine gesonderte Bildungs-und-Teilhabe-Stelle zuständig; einige Leistungen müssen einzeln beantragt werden, andere werden direkt an Schule oder Anbieter ausgezahlt."
+    },
+    {
+     "titel": "Schulbedarfspaket zu den Stichtagen prüfen",
+     "text": "Das Schulbedarfspaket wird in zwei Teilbeträgen zum Schuljahresbeginn im August und zum zweiten Schulhalbjahr ausgezahlt."
+    },
+    {
+     "titel": "Vereins- oder Kursbeitrag direkt einreichen",
+     "text": "Für die Teilhabepauschale reicht meist eine Bestätigung des Vereins oder Kursanbieters über die tatsächlichen Kosten."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "195 €/Jahr",
+     "was": "Persönlicher Schulbedarf, ausgezahlt in zwei Teilbeträgen (130 € im August, 65 € zum zweiten Schulhalbjahr) – Betrag nach mehreren übereinstimmenden Sekundärquellen für 2026, unverändert gegenüber Vorjahren wegen Nullrunde bei den Regelbedarfen",
+     "grundlage": "§ 28 Abs. 3 SGB II"
+    },
+    {
+     "wert": "15 €/Monat",
+     "was": "Pauschale für Teilhabe am sozialen und kulturellen Leben (Verein, Musikschule u. Ä.) bei Kindern und Jugendlichen unter 18 Jahren, wenn tatsächliche Kosten anfallen",
+     "grundlage": "§ 28 Abs. 7 SGB II"
+    }
+   ],
+   "achtung": [
+    "Das Bildungspaket ist keine Leistung nur für Kinder im Grundsicherungsgeld-Bezug: Auch Familien, die „nur“ Wohngeld oder Kinderzuschlag erhalten, haben Anspruch – das wird in der Praxis häufig übersehen.",
+    "Einzelne Leistungen (z. B. Lernförderung) setzen einen konkreten Bedarf voraus, etwa eine drohende Versetzungsgefährdung; ein pauschaler Anspruch „einfach so“ besteht nicht bei jeder Teilleistung.",
+    "Fristen für Klassenfahrten und Schulausflüge sind oft kurz, weil Schulen selbst Vorlauf für die Anmeldung benötigen – ein Antrag sollte gestellt werden, sobald der Termin bekannt ist, nicht erst kurz davor.",
+    "Der exakte Prozess (Auszahlung an Eltern vs. Direktzahlung an Schule/Verein) unterscheidet sich je nach Kommune und Jobcenter – im Zweifel vor Ort nachfragen."
+   ],
+   "fach_html": "\n<h3>Rechtsgrundlage und Anspruchsberechtigte</h3>\n<p>Die maßgebliche Norm im SGB II ist <strong>§ 28 SGB II</strong> „Bedarfe für Bildung und Teilhabe“ (nicht zu\nverwechseln mit § 24 SGB II, der abweichende Leistungserbringung und Sonderbedarfe regelt). Für Kinder in\nSozialhilfe-Haushalten gilt die Parallelvorschrift § 34 SGB XII. Anspruchsberechtigt sind Personen, die das 25.\nLebensjahr noch nicht vollendet haben, eine allgemein- oder berufsbildende Schule besuchen und keine\nAusbildungsvergütung erhalten. Nach § 6b BKGG gilt eine entsprechende Regelung für Kinder in Familien mit\nKinderzuschlag oder Wohngeld.</p>\n<h3>Leistungen im Überblick</h3>\n<p>Zu den Einzelleistungen zählen: eintägige Ausflüge und mehrtägige Klassenfahrten (tatsächliche Kosten), das\nSchulbedarfspaket (195 Euro/Jahr in zwei Teilbeträgen), Schülerbeförderung, Lernförderung bei Versetzungsgefährdung,\nein Zuschuss zur Mittagsverpflegung in Schule und Kita sowie die Teilhabepauschale von 15 Euro monatlich für Vereine,\nMusikunterricht oder vergleichbare Aktivitäten (§ 28 Abs. 7 SGB II).</p>\n<h3>Bekannter Umsetzungsschwachpunkt</h3>\n<p>In der sozialpolitischen Debatte wird seit Jahren kritisiert, dass die Inanspruchnahme des Bildungspakets deutlich\nhinter der Zahl der Berechtigten zurückbleibt, unter anderem wegen der Vielzahl unterschiedlicher Antragswege je\nEinzelleistung und Kommune. Eine bundesweit einheitliche, aktuelle Inanspruchnahmequote für 2026 wurde im Rahmen dieser\nRecherche nicht gefunden und wird daher hier nicht beziffert.</p>\n",
+   "zustaendig": [
+    "Jobcenter oder Sozialamt (Antrag), teils gesonderte Bildungs-und-Teilhabe-Stelle der Kommune"
+   ],
+   "belege": [
+    "§ 28 SGB II; § 34 SGB XII; § 6b BKGG (gesetze-im-internet.de)",
+    "Bundesministerium für Arbeit und Soziales, Leistungen des Bildungspakets, Stand 2026 (bmas.de)",
+    "Sekundärquellen zum Schulbedarfspaket 2026 (u. a. sozialleistungen.info, amtsdeutschland.de) für die Fortschreibung des Betrags"
+   ],
+   "siehe_auch": [
+    "kinderarmut-und-familienleistungen",
+    "aufstocken-bei-niedrigem-einkommen",
+    "sozialpass-und-verguenstigungen"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "kinderarmut-und-familienleistungen",
+   "kategorie": "kinder-familie",
+   "titel": "Kinderarmut und Familienleistungen im Überblick",
+   "icon": "👨‍👩‍👧",
+   "teaser": "Kinder sind überdurchschnittlich oft von Armut betroffen. Welche Familienleistungen es neben der Grundsicherung gibt und wie sie zusammenwirken.",
+   "schlagworte": [
+    "Kinderarmut",
+    "Kindergeld",
+    "Kinderzuschlag",
+    "Unterhaltsvorschuss",
+    "Existenzminimum Kind"
+   ],
+   "kurz_html": "\n<p>Kinder und Jugendliche sind in Deutschland überdurchschnittlich häufig von Armut betroffen. Neben der Grundsicherung\n(Grundsicherungsgeld, Sozialhilfe) gibt es mehrere eigenständige Familienleistungen, die sich gegenseitig ausschließen\noder ergänzen können: Kindergeld, Kinderzuschlag, Unterhaltsvorschuss und das Bildungs- und Teilhabepaket. Welche\nKombination im Einzelfall am günstigsten ist, hängt vom Familieneinkommen, der Zahl der Kinder und den Wohnkosten ab\nund sollte im Zweifel durch eine Beratungsstelle geprüft werden.</p>\n",
+   "schritte": [
+    {
+     "titel": "Kindergeld sicherstellen",
+     "text": "Kindergeld steht grundsätzlich allen Familien unabhängig vom Einkommen zu und wird auf Sozialleistungen angerechnet – es sollte in jedem Fall beantragt sein, bevor weitere Leistungen geprüft werden."
+    },
+    {
+     "titel": "Kinderzuschlag prüfen, wenn Einkommen knapp über der Grundsicherungsschwelle liegt",
+     "text": "Der Kinderzuschlag richtet sich an Eltern, deren eigenes Einkommen für sich selbst reicht, aber nicht für die Kinder."
+    },
+    {
+     "titel": "Unterhaltsvorschuss bei Alleinerziehenden prüfen",
+     "text": "Zahlt der andere Elternteil keinen oder zu wenig Unterhalt, kann das Jugendamt einen Unterhaltsvorschuss leisten, unabhängig vom Einkommen des betreuenden Elternteils."
+    },
+    {
+     "titel": "Bildungs- und Teilhabepaket nicht vergessen",
+     "text": "Unabhängig davon, welche der genannten Leistungen die Familie bezieht, besteht in der Regel zusätzlich Anspruch auf Bildungs- und Teilhabeleistungen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "6 Monate rückwirkend",
+     "was": "Kindergeld kann rückwirkend für maximal die letzten sechs Monate vor Antragstellung ausgezahlt werden",
+     "grundlage": "§ 66 Abs. 3 EStG"
+    }
+   ],
+   "achtung": [
+    "Kindergeld wird auf Grundsicherungsgeld und Sozialhilfe als Einkommen des Kindes angerechnet – ein Verzicht auf die Beantragung „um mehr Grundsicherung zu bekommen“ funktioniert nicht und verschlechtert die Lage nur.",
+    "Der 2024 eingeführte Sofortzuschlag beim Kinderzuschlag und ähnliche familienpolitische Leistungen ändern sich häufig; verlassen Sie sich bei konkreten Eurobeträgen nicht auf ältere Informationen, sondern lassen Sie sich aktuell beraten.",
+    "Unterschiedliche Armutsdefinitionen für Kinder (EU-SILC-Armutsgefährdungsquote der amtlichen Statistik vs. Berechnungen von Wohlfahrtsverbänden) beruhen auf unterschiedlichen Methoden und sollten nicht ungeprüft addiert oder verglichen werden."
+   ],
+   "fach_html": "\n<h3>Zahlenlage laut amtlicher Statistik</h3>\n<p>Nach Angaben des Statistischen Bundesamts waren 2024 rund 15,2&nbsp;% der unter 18-Jährigen in Deutschland\narmutsgefährdet im Sinne der EU-SILC-Erhebung – das entspricht rund 2,2 Millionen Kindern und Jugendlichen\n(Pressemitteilung Nr. N065 vom 17.11.2025, Berichtsjahr 2024). Diese Quote misst relative Einkommensarmut auf\nHaushaltsebene, nicht kindspezifische Bedarfe.</p>\n<h3>Zusammenspiel der Familienleistungen</h3>\n<p>Kindergeld (§§ 62 ff. EStG bzw. §§ 1 ff. BKGG) wird unabhängig vom Elterneinkommen gezahlt, aber auf\nGrundsicherungsleistungen des Kindes angerechnet. Der Kinderzuschlag (§ 6a BKGG) richtet sich an Eltern mit\nausreichendem Einkommen für sich selbst, aber nicht für die Kinder, und ist damit ein Instrument, um den Bezug von\nGrundsicherungsgeld für die ganze Familie zu vermeiden. Der Unterhaltsvorschuss (Unterhaltsvorschussgesetz) springt bei\nAlleinerziehenden ein, wenn der andere Elternteil keinen oder unzureichenden Unterhalt zahlt. Alle vier Leistungen\nkönnen mit dem Bildungs- und Teilhabepaket kombiniert werden. Die konkrete Ausgestaltung von Kinderzuschlag und\nWohngeld beim Zusammentreffen mit Erwerbseinkommen behandelt ausführlich der Wegweiser-Baustein „Arbeitslose“.</p>\n<h3>Fachliche Einordnung</h3>\n<p>In der Armutsforschung gilt Kinderarmut überwiegend als Familienarmut: Kinder sind in der Regel deshalb arm, weil\nder Haushalt, in dem sie leben, arm ist – Alleinerziehenden-Haushalte und Haushalte mit mehreren Kindern sind nach dem\nArmutsbericht 2025 des Paritätischen Gesamtverbands besonders betroffen (Alleinerziehende: 27&nbsp;% Armutsquote für\ndas Berichtsjahr 2024).</p>\n",
+   "zustaendig": [
+    "Familienkasse (Kindergeld)",
+    "Jobcenter (Kinderzuschlag, wenn zusammen mit Grundsicherungsgeld beantragt)",
+    "Jugendamt (Unterhaltsvorschuss)"
+   ],
+   "belege": [
+    "§§ 62 ff. EStG; § 6a BKGG; Unterhaltsvorschussgesetz (gesetze-im-internet.de)",
+    "Statistisches Bundesamt, Pressemitteilung Nr. N065 vom 17.11.2025: Kinderarmutsgefährdung 2024",
+    "Der Paritätische Gesamtverband, Armutsbericht 2025 (der-paritaetische.de)"
+   ],
+   "siehe_auch": [
+    "bildung-und-teilhabepaket",
+    "aufstocken-bei-niedrigem-einkommen"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "energie-schulden-und-stromsperre",
+   "kategorie": "wohnen-energie",
+   "titel": "Energieschulden und Stromsperre",
+   "icon": "🔌",
+   "teaser": "Bevor Strom oder Gas gesperrt werden dürfen, müssen Versorger enge gesetzliche Fristen und Ankündigungspflichten einhalten. Was Betroffene wissen sollten.",
+   "schlagworte": [
+    "Stromsperre",
+    "Energieschulden",
+    "Versorgungssperre",
+    "Grundversorgung",
+    "Ratenzahlung"
+   ],
+   "kurz_html": "\n<p>Wenn Rechnungen für Strom oder Gas unbezahlt bleiben, darf der Grundversorger die Versorgung nicht einfach sperren.\nEs gelten enge gesetzliche Voraussetzungen: eine schriftliche Zahlungsaufforderung, eine vorherige schriftliche\nAndrohung der Sperre mit Fristsetzung und eine gesonderte Ankündigung des konkreten Sperrtermins. Eine Sperre ist\nzudem unzulässig, wenn sie außer Verhältnis zur Schwere der Pflichtverletzung steht oder wenn glaubhaft gemacht wird,\ndass eine Ratenzahlung eingehalten werden kann.</p>\n",
+   "schritte": [
+    {
+     "titel": "Zahlungsaufforderung nicht ignorieren",
+     "text": "Reagieren Sie umgehend auf die erste Mahnung, auch wenn der volle Betrag nicht sofort zahlbar ist."
+    },
+    {
+     "titel": "Ratenzahlung oder Vermeidungsvereinbarung anbieten",
+     "text": "Grundversorger müssen laut Verordnung dem Kunden vor einer Sperre eine Vereinbarung zur Vermeidung der Unterbrechung vorschlagen; nehmen Sie dieses Angebot aktiv wahr oder machen Sie einen eigenen Vorschlag."
+    },
+    {
+     "titel": "Fristen der Sperrandrohung prüfen",
+     "text": "Zwischen schriftlicher Androhung und Sperrung müssen mindestens vier volle Wochen liegen; der konkrete Sperrtermin muss zusätzlich mindestens acht Werktage vorher gesondert angekündigt werden."
+    },
+    {
+     "titel": "Härtefall oder Unverhältnismäßigkeit geltend machen",
+     "text": "Weisen Sie schriftlich auf besondere Härten hin (z. B. Pflegebedürftigkeit, kleine Kinder, Erkrankung) – eine unverhältnismäßige Sperre ist unzulässig."
+    },
+    {
+     "titel": "Sofort Beratung und ggf. Jobcenter/Sozialamt einschalten",
+     "text": "Energieschulden können als Darlehen übernommen werden, wenn sonst Wohnungslosigkeit oder eine vergleichbare Notlage droht – Schuldnerberatung und Sozialamt frühzeitig einbeziehen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "4 Wochen",
+     "was": "Mindestzeitraum zwischen schriftlicher Androhung der Versorgungssperre und der Unterbrechung",
+     "grundlage": "§ 19 Abs. 2 StromGVV/GasGVV"
+    },
+    {
+     "wert": "8 Werktage",
+     "was": "Der konkrete Termin der Versorgungsunterbrechung muss zusätzlich mindestens acht Werktage vorher gesondert angekündigt werden",
+     "grundlage": "§ 19 Abs. 4 StromGVV/GasGVV"
+    }
+   ],
+   "achtung": [
+    "Eine Sperre ohne vorherige schriftliche Androhung mit korrekter Fristsetzung und ohne gesonderte Ankündigung des Sperrtermins ist unwirksam – beides muss kumulativ eingehalten werden.",
+    "Eine Sperre ist unzulässig, wenn ihre Folgen außer Verhältnis zur Pflichtverletzung stehen (§ 19 Abs. 2 Satz 2 StromGVV/GasGVV), etwa bei schwerer Erkrankung im Haushalt – das muss aber gegenüber dem Versorger dargelegt werden.",
+    "Wer nur mündlich mit dem Versorger telefoniert, sollte Zusagen (Ratenzahlung, Fristverlängerung) zusätzlich schriftlich bestätigen lassen.",
+    "Energieschulden sollten nicht verheimlicht werden, bis die Sperre droht: Jobcenter und Sozialamt können unter bestimmten Voraussetzungen ein Darlehen zur Schuldenübernahme gewähren, wenn rechtzeitig reagiert wird."
+   ],
+   "fach_html": "\n<h3>Rechtsgrundlage der Versorgungssperre</h3>\n<p>Für Haushaltskunden in der Grundversorgung regeln die Stromgrundversorgungsverordnung (StromGVV) und die\nGasgrundversorgungsverordnung (GasGVV) das Verfahren einer Versorgungsunterbrechung wegen Zahlungsverzugs. Nach § 19\nAbs. 2 Satz 1 StromGVV/GasGVV darf der Grundversorger die Grundversorgung vier Wochen nach Androhung unterbrechen,\nwenn der Kunde trotz Mahnung mit Zahlungen von mindestens 100 Euro (bzw. einem in der Verordnung genannten\nSchwellenwert) in Verzug ist. Nach § 19 Abs. 2 Satz 2 ist die Unterbrechung unzulässig, wenn ihre Folgen außer\nVerhältnis zur Schwere der Pflichtverletzung stehen oder der Kunde glaubhaft macht, dass ausreichende Aussicht auf\nErfüllung der Zahlungspflicht besteht.</p>\n<h3>Zweistufiges Ankündigungsverfahren</h3>\n<p>Der Versorger muss zunächst schriftlich androhen und dabei mindestens vier volle Wochen Frist bis zur Sperre setzen;\nzusätzlich muss er den konkreten Termin der Unterbrechung mindestens acht Werktage vorher gesondert ankündigen und dem\nKunden eine Vermeidungsvereinbarung (z. B. Ratenzahlung) anbieten. Beide Fristen müssen kumulativ eingehalten werden;\neine verkürzte Frist oder eine fehlende zweite Ankündigung macht die Sperre unwirksam.</p>\n<h3>Zusammenspiel mit der Grundsicherung</h3>\n<p>Droht wegen Energieschulden der Verlust der Wohnfähigkeit oder eine vergleichbare Notlage, kommt eine\ndarlehensweise Übernahme der Schulden durch das Jobcenter (§ 22 Abs. 8 SGB II, entsprechend im SGB XII) in Betracht –\ndie Voraussetzungen ähneln denen bei Mietschulden (siehe Beitrag „Wohnkosten und Mietschulden“).</p>\n",
+   "zustaendig": [
+    "Grundversorger (Strom-/Gasanbieter)",
+    "Jobcenter bzw. Sozialamt (Darlehen bei drohender Notlage)",
+    "Schuldnerberatung"
+   ],
+   "belege": [
+    "§ 19 StromGVV; § 19 GasGVV (gesetze-im-internet.de)",
+    "§ 22 Abs. 8 SGB II (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "wohnkosten-und-mietschulden",
+    "schuldnerberatung-und-privatinsolvenz",
+    "beratung-anlaufstellen-armut"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "wohnkosten-und-mietschulden",
+   "kategorie": "wohnen-energie",
+   "titel": "Wohnkosten und Mietschulden",
+   "icon": "🏚️",
+   "teaser": "Mietschulden können unabhängig vom Erwerbsstatus jeden treffen. Welche Fristen bei einer Kündigung wegen Zahlungsverzugs gelten und wie sich eine Räumung noch abwenden lässt.",
+   "schlagworte": [
+    "Mietschulden",
+    "Fristlose Kündigung",
+    "Schonfristzahlung",
+    "Räumungsklage",
+    "Wohnungslosigkeit vorbeugen"
+   ],
+   "kurz_html": "\n<p>Mietschulden entstehen nicht nur bei Menschen im SGB-II-Bezug, sondern auch bei Geringverdienenden, Rentnerinnen\nund Rentnern oder Menschen mit unregelmäßigem Einkommen, die keine laufenden Sozialleistungen beziehen. Diese Seite\nbehandelt den allgemeinen Ablauf bei Mietrückständen und wie sich eine Wohnungskündigung noch abwenden lässt – unabhängig\ndavon, ob Sie Grundsicherung beziehen oder nicht. Die laufende Übernahme angemessener Unterkunftskosten während des\nSGB-II-Bezugs behandelt der Wegweiser-Baustein „Arbeitslose“.</p>\n",
+   "schritte": [
+    {
+     "titel": "Bei ersten Zahlungsschwierigkeiten aktiv werden",
+     "text": "Informieren Sie die Vermieterin oder den Vermieter frühzeitig und schriftlich, statt abzuwarten – das verbessert die Chancen auf eine Ratenzahlungsvereinbarung erheblich."
+    },
+    {
+     "titel": "Fachstelle für Wohnungssicherung oder Schuldnerberatung einschalten",
+     "text": "Viele Kommunen haben eigene Fachstellen zur Verhinderung von Wohnungsverlust, die zwischen Mieter und Vermieter vermitteln und Sozialleistungsträger einbinden können."
+    },
+    {
+     "titel": "Bei Kündigung: Schonfristzahlung prüfen",
+     "text": "Wird wegen Zahlungsverzugs fristlos gekündigt, kann die vollständige Nachzahlung der Rückstände innerhalb von zwei Monaten nach Zustellung der Räumungsklage die fristlose Kündigung nachträglich unwirksam machen."
+    },
+    {
+     "titel": "Übernahme der Mietschulden durch das Amt beantragen",
+     "text": "Jobcenter oder Sozialamt können die Mietschulden als Darlehen übernehmen, wenn dadurch Wohnungslosigkeit abgewendet wird und die Wohnung angemessen ist."
+    },
+    {
+     "titel": "Räumungsklage nicht ignorieren",
+     "text": "Auch wenn eine Einigung mit dem Vermieter unwahrscheinlich erscheint, sollten Fristen im gerichtlichen Verfahren unbedingt eingehalten werden – notfalls mit anwaltlicher oder Beratungshilfe."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "2 Monatsmieten",
+     "was": "Ab einem Zahlungsrückstand von zwei Monatsmieten (oder wiederholtem teilweisem Rückstand) kann der Vermieter fristlos kündigen",
+     "grundlage": "§ 543 Abs. 2 Nr. 3 BGB"
+    },
+    {
+     "wert": "2 Monate ab Klagezustellung",
+     "was": "Schonfristzahlung: Vollständiger Ausgleich der Rückstände innerhalb von zwei Monaten nach Zustellung der Räumungsklage heilt eine fristlose Kündigung – wirkt aber nicht gegenüber einer zusätzlich ausgesprochenen ordentlichen Kündigung und nicht, wenn die Schonfristzahlung in den letzten zwei Jahren bereits einmal genutzt wurde",
+     "grundlage": "§ 569 Abs. 3 Nr. 2 BGB"
+    }
+   ],
+   "achtung": [
+    "Die Schonfristzahlung heilt nach der Rechtsprechung des Bundesgerichtshofs ausschließlich die fristlose (außerordentliche) Kündigung, nicht eine gleichzeitig ausgesprochene ordentliche Kündigung wegen Zahlungsverzugs – bei „Doppelkündigungen“ bleibt die Wohnung trotz Nachzahlung gefährdet.",
+    "Die Schonfristzahlung wirkt nur einmal innerhalb von zwei Jahren; wer sie bereits genutzt hat, kann sich bei einer erneuten fristlosen Kündigung nicht noch einmal darauf berufen.",
+    "Eine Übernahme von Mietschulden durch Jobcenter oder Sozialamt ist keine Pflichtleistung ohne jede Voraussetzung – sie setzt in der Regel voraus, dass die Wohnung angemessen ist und die Übernahme die Wohnungslosigkeit tatsächlich abwendet.",
+    "Wer bereits einmal auf eigene Faust ein Darlehen aufgenommen hat, um Mietschulden zu tilgen, schließt eine spätere Übernahme durch das Amt dadurch nach der Rechtsprechung nicht grundsätzlich aus – ein Beratungsgespräch klärt den Einzelfall."
+   ],
+   "fach_html": "\n<h3>Kündigung wegen Zahlungsverzugs</h3>\n<p>Nach § 543 Abs. 2 Nr. 3 BGB kann der Vermieter fristlos kündigen, wenn der Mieter für zwei aufeinanderfolgende\nTermine mit der Miete oder einem nicht unerheblichen Teil in Verzug ist, oder wenn der Rückstand über einen längeren\nZeitraum die Höhe von zwei Monatsmieten erreicht. Häufig wird zusätzlich hilfsweise ordentlich gekündigt (§ 573 Abs. 2\nNr. 1 BGB), um die Wohnung auch dann zurückzuerhalten, wenn die fristlose Kündigung nachträglich geheilt wird.</p>\n<h3>Schonfristzahlung (§ 569 Abs. 3 Nr. 2 BGB)</h3>\n<p>Wird innerhalb von zwei Monaten nach Zustellung der Räumungsklage der vollständige Rückstand beglichen oder eine\nöffentliche Stelle verpflichtet sich zur Zahlung, wird die fristlose Kündigung unwirksam. Der Bundesgerichtshof hat\nwiederholt bestätigt, dass dies ausschließlich für die außerordentliche Kündigung gilt und nicht analog auf eine\nordentliche Kündigung wegen Zahlungsverzugs angewendet werden kann. Die Schonfristzahlung ist zudem gesperrt, wenn der\nVermieter innerhalb der letzten zwei Jahre bereits einmal wegen Zahlungsverzugs gekündigt hatte und diese Kündigung\ndurch eine Schonfristzahlung unwirksam wurde.</p>\n<h3>Schuldenübernahme durch die Grundsicherung</h3>\n<p>Sowohl im SGB II (§ 22 Abs. 8) als auch im SGB XII (§ 36) können Mietschulden übernommen werden, wenn dies zur\nSicherung der Unterkunft gerechtfertigt ist und andernfalls Wohnungslosigkeit droht. Nach der Rechtsprechung des\nBundessozialgerichts besteht in echten Erstfällen drohender Wohnungslosigkeit bei grundsätzlicher Angemessenheit der\nWohnung regelmäßig kein weiter Ermessensspielraum des Trägers, die Übernahme abzulehnen; ein wirtschaftlich\nunvernünftiges Vorverhalten der leistungsberechtigten Person tritt in diesen Fällen in den Hintergrund.</p>\n",
+   "zustaendig": [
+    "Kommunale Fachstelle für Wohnungssicherung (wo vorhanden)",
+    "Jobcenter bzw. Sozialamt (Darlehen)",
+    "Amtsgericht (Räumungsklage)"
+   ],
+   "belege": [
+    "§ 543 Abs. 2 Nr. 3, § 569 Abs. 3 Nr. 2, § 573 Abs. 2 Nr. 1 BGB (gesetze-im-internet.de)",
+    "§ 22 Abs. 8 SGB II; § 36 SGB XII (gesetze-im-internet.de)",
+    "Deutscher Verein für öffentliche und private Fürsorge, Empfehlungen zur Übernahme von Mietschulden und Energiekostenrückständen im SGB II und SGB XII (deutscher-verein.de)"
+   ],
+   "siehe_auch": [
+    "energie-schulden-und-stromsperre",
+    "schuldnerberatung-und-privatinsolvenz",
+    "beratung-anlaufstellen-armut"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "schuldnerberatung-und-privatinsolvenz",
+   "kategorie": "schulden-konto",
+   "titel": "Schuldnerberatung und Privatinsolvenz",
+   "icon": "📉",
+   "teaser": "Schuldnerberatung ist eine kommunale Pflichtleistung. Der Weg in die Privatinsolvenz führt seit 2020 schneller als früher zur Restschuldbefreiung.",
+   "schlagworte": [
+    "Schuldnerberatung",
+    "Privatinsolvenz",
+    "Restschuldbefreiung",
+    "Pflichtleistung",
+    "Außergerichtlicher Einigungsversuch"
+   ],
+   "kurz_html": "\n<p>Wer sich überschuldet hat, hat Anspruch auf kostenlose Schuldnerberatung – sie ist eine kommunale Pflichtleistung\nund steht unabhängig vom Erwerbsstatus jeder überschuldeten Person offen, nicht nur Empfängerinnen und Empfängern von\nGrundsicherung. Führt kein Weg an einer gerichtlichen Lösung vorbei, kann eine Privatinsolvenz beantragt werden. Seit\neiner Reform 2020/2021 wird die Restschuldbefreiung – die endgültige Befreiung von den verbliebenen Schulden – in der\nRegel bereits nach drei statt wie zuvor nach sechs Jahren erteilt.</p>\n",
+   "schritte": [
+    {
+     "titel": "Schuldnerberatung aufsuchen",
+     "text": "Kommunale, kirchliche oder Verbraucherzentralen-Schuldnerberatungsstellen prüfen kostenlos die Gesamtsituation und mögliche Lösungswege."
+    },
+    {
+     "titel": "Außergerichtlichen Einigungsversuch unternehmen",
+     "text": "Vor einem Insolvenzantrag ist grundsätzlich der ernsthafte Versuch einer außergerichtlichen Einigung mit den Gläubigern erforderlich; die Schuldnerberatung unterstützt dabei und bescheinigt das Scheitern."
+    },
+    {
+     "titel": "Privatinsolvenz beantragen",
+     "text": "Scheitert die außergerichtliche Einigung, kann beim zuständigen Amtsgericht die Eröffnung des Insolvenzverfahrens beantragt werden, zusammen mit dem Antrag auf Restschuldbefreiung."
+    },
+    {
+     "titel": "Wohlverhaltensphase durchlaufen",
+     "text": "Während des Verfahrens müssen pfändbare Einkommensanteile an die Insolvenzverwaltung abgeführt werden; nach Ablauf der Frist wird über die Restschuldbefreiung entschieden."
+    },
+    {
+     "titel": "Restschuldbefreiung erhalten",
+     "text": "Sind keine Forderungen angemeldet oder sind Kosten und Masseverbindlichkeiten gedeckt, ist eine vorzeitige Restschuldbefreiung sogar vor Ablauf der drei Jahre möglich."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "3 Jahre",
+     "was": "Regeldauer bis zur Restschuldbefreiung für alle ab dem 1. Oktober 2020 beantragten Insolvenzverfahren (zuvor 6 Jahre)",
+     "grundlage": "§ 287 Abs. 2 Satz 1, § 300 Abs. 1 InsO"
+    },
+    {
+     "wert": "Vor Ablauf der 3 Jahre möglich",
+     "was": "Vorzeitige Restschuldbefreiung, wenn keine Forderungen angemeldet wurden oder Verfahrenskosten und Masseverbindlichkeiten gedeckt sind",
+     "grundlage": "§ 300 Abs. 2 InsO"
+    }
+   ],
+   "achtung": [
+    "Ohne den vorherigen ernsthaften außergerichtlichen Einigungsversuch ist ein Insolvenzantrag als Privatperson in der Regel nicht zulässig – die Schuldnerberatung ist dafür meist der richtige erste Schritt, nicht ein Rechtsanwalt allein.",
+    "Die Verkürzung auf drei Jahre gilt für Verfahren, die ab dem 1. Oktober 2020 beantragt wurden; für ältere, bereits laufende Verfahren galten teils abweichende Übergangsregeln.",
+    "Neue Schulden, die während der Wohlverhaltensphase entstehen (z. B. neue Kredite, Handyverträge), gefährden die Restschuldbefreiung und sollten vermieden werden.",
+    "Schuldnerberatung ist eine kommunale Pflichtleistung, aber die Wartezeiten auf einen Termin unterscheiden sich stark je nach Kommune – bei drohender Zwangsvollstreckung oder Kontopfändung sollte das ausdrücklich als dringend gemeldet werden."
+   ],
+   "fach_html": "\n<h3>Schuldnerberatung als kommunale Pflichtleistung</h3>\n<p>Nach § 11 SGB XII (bzw. mit Bezug zur Eingliederung in Arbeit ergänzend § 16a SGB II) gehört die Schuldnerberatung\nzu den Leistungen, die die Kommune bereitstellen muss. Die konkrete Ausgestaltung – Trägerschaft, Wartezeiten,\nzusätzliche Angebote wie eine Budgetberatung – variiert jedoch von Kommune zu Kommune.</p>\n<h3>Reform der Restschuldbefreiung 2020/2021</h3>\n<p>Mit dem Gesetz zur weiteren Verkürzung des Restschuldbefreiungsverfahrens, in Kraft seit 1. Oktober 2020, wurde die\nsogenannte Abtretungsfrist von sechs auf drei Jahre verkürzt (§ 287 Abs. 2 Satz 1 i. V. m. § 300 Abs. 1 InsO). Eine\nvorzeitige Restschuldbefreiung ist nach § 300 Abs. 2 InsO schon früher möglich, wenn keine Forderungen angemeldet\nwurden oder Verfahrenskosten und Masseverbindlichkeiten vollständig gedeckt sind.</p>\n<h3>Verhältnis zu anderen Themen dieses Bausteins</h3>\n<p>Schuldnerberatung und Privatinsolvenz stehen häufig im Zusammenhang mit den Themen Pfändungsschutzkonto (während\ndes Verfahrens wichtig, um das Existenzminimum zu sichern) und Mietschulden bzw. Energieschulden (oft Auslöser oder\nTeil der Gesamtverschuldung).</p>\n",
+   "zustaendig": [
+    "Kommunale, kirchliche oder Verbraucherzentralen-Schuldnerberatung",
+    "Insolvenzgericht (Amtsgericht)"
+   ],
+   "belege": [
+    "§ 11 SGB XII; § 16a SGB II (gesetze-im-internet.de)",
+    "§ 287, § 300 InsO (gesetze-im-internet.de)",
+    "Bundesministerium der Justiz, Merkblatt über das Verfahren zur Restschuldbefreiung, Stand 2021 (justiz.de)"
+   ],
+   "siehe_auch": [
+    "pfaendungsschutzkonto",
+    "wohnkosten-und-mietschulden",
+    "beratung-anlaufstellen-armut"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "pfaendungsschutzkonto",
+   "kategorie": "schulden-konto",
+   "titel": "Pfändungsschutzkonto (P-Konto)",
+   "icon": "🛡️",
+   "teaser": "Ein Pfändungsschutzkonto schützt einen Grundfreibetrag Ihres Kontoguthabens automatisch vor dem Zugriff von Gläubigern.",
+   "schlagworte": [
+    "P-Konto",
+    "Pfändungsschutzkonto",
+    "Grundfreibetrag",
+    "§ 850k ZPO",
+    "Pfändungsschutzbescheinigung"
+   ],
+   "kurz_html": "\n<p>Ein Pfändungsschutzkonto (P-Konto) ist ein normales Girokonto mit eingebautem Basisschutz: Bis zu einem gesetzlich\nfestgelegten monatlichen Grundfreibetrag ist Ihr Guthaben automatisch vor einer Kontopfändung geschützt, ohne dass Sie\ndafür zum Vollstreckungsgericht müssen. Jede Person kann von ihrer Bank jederzeit verlangen, ein bestehendes\nGirokonto in ein P-Konto umzuwandeln. Für höhere Freibeträge, etwa bei Unterhaltspflichten für Kinder, ist eine\nBescheinigung nötig.</p>\n",
+   "schritte": [
+    {
+     "titel": "P-Konto rechtzeitig beantragen",
+     "text": "Beantragen Sie die Umwandlung Ihres bestehenden Girokontos in ein P-Konto bei Ihrer Bank, bevor eine Pfändung eingeht – jede Person hat darauf einen gesetzlichen Anspruch."
+    },
+    {
+     "titel": "Nur ein P-Konto führen",
+     "text": "Pro Person darf immer nur ein einziges Konto als P-Konto geführt werden; ein zweites P-Konto bei einer anderen Bank ist unzulässig."
+    },
+    {
+     "titel": "Erhöhungsbeträge bescheinigen lassen",
+     "text": "Für Unterhaltspflichten, Kindergeld oder bestimmte Sozialleistungen kann der Grundfreibetrag erhöht werden – eine entsprechende Bescheinigung stellen Schuldnerberatung, Familienkasse, Sozialleistungsträger oder eine Notarin/ein Notar aus."
+    },
+    {
+     "titel": "Bei Problemen sofort reagieren",
+     "text": "Wird trotz P-Konto zu viel gesperrt, wenden Sie sich unverzüglich an die Bank oder das Vollstreckungsgericht, um den Fehler korrigieren zu lassen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "1.590 €/Monat",
+     "was": "Pfändungsfreier Grundfreibetrag auf dem P-Konto ohne gesonderten Nachweis, gültig vom 1. Juli 2026 bis 30. Juni 2027 (zuvor, bis 30. Juni 2026: 1.560 €/Monat)",
+     "grundlage": "§ 850k Abs. 1 i. V. m. § 850c ZPO"
+    }
+   ],
+   "achtung": [
+    "Der Basisschutz gilt nur für ein einziges P-Konto pro Person – wer versucht, über mehrere Konten zusätzlichen Schutz zu erlangen, riskiert, dass keines davon korrekt geschützt ist.",
+    "Ohne Bescheinigung erhalten Sie nur den Grundfreibetrag; Unterhaltspflichten für Kinder oder bestimmte einmalige Sozialleistungen (z. B. Nachzahlungen) erhöhen den Schutz nur, wenn sie nachgewiesen werden.",
+    "Guthaben, das den Freibetrag am Monatsende übersteigt, wird grundsätzlich nicht automatisch in den Folgemonat übertragen – bestimmte Ansparbeträge können aber unter engen Voraussetzungen geschützt werden; im Zweifel Schuldnerberatung fragen.",
+    "Ein P-Konto verhindert keine Pfändung von vornherein, sondern sichert nur, dass der Freibetrag geschützt bleibt – bereits gepfändete Beträge oberhalb des Freibetrags müssen ggf. gesondert zurückgefordert werden."
+   ],
+   "fach_html": "\n<h3>Rechtsgrundlage und Grundfreibetrag</h3>\n<p>Nach § 850k ZPO kann jede natürliche Person von ihrem Kreditinstitut verlangen, ein bei diesem geführtes\nZahlungskonto als Pfändungsschutzkonto zu führen. Der Grundfreibetrag ergibt sich aus § 850c ZPO und wird jährlich zum\n1. Juli angepasst, indem der Rohbetrag auf den nächsten vollen 10-Euro-Betrag aufgerundet wird (§ 899 Abs. 1 ZPO). Für\nden Zeitraum vom 1. Juli 2026 bis 30. Juni 2027 gilt bundeseinheitlich ein Grundfreibetrag von 1.590 Euro monatlich\n(zuvor, bis 30. Juni 2026: 1.560 Euro).</p>\n<h3>Erhöhungsbeträge</h3>\n<p>Der Grundfreibetrag erhöht sich auf Nachweis bei gesetzlichen Unterhaltspflichten sowie beim Bezug bestimmter\nSozialleistungen und einmaliger Zahlungen (§ 850k Abs. 2, Abs. 4 ZPO). Die notwendige Bescheinigung können neben\nSchuldnerberatungsstellen auch Familienkassen, Sozialleistungsträger, Steuerberaterinnen und Steuerberater sowie\nNotarinnen und Notare ausstellen.</p>\n<h3>Zusammenhang mit anderen Verfahren</h3>\n<p>Ein P-Konto ist besonders in Verbindung mit einer laufenden Privatinsolvenz oder außergerichtlichen\nSchuldenregulierung relevant, um während des Verfahrens das Existenzminimum zu sichern, und ebenso, wenn eine\nKontopfändung droht, ohne dass ein Insolvenzverfahren läuft.</p>\n",
+   "zustaendig": [
+    "Kontoführendes Kreditinstitut",
+    "Vollstreckungsgericht (bei Streit über die Pfändung)"
+   ],
+   "belege": [
+    "§ 850k, § 850c, § 899 ZPO (gesetze-im-internet.de)",
+    "Bundesministerium der Justiz, Informationen zum Pfändungsschutzkonto (bmj.de)"
+   ],
+   "siehe_auch": [
+    "schuldnerberatung-und-privatinsolvenz",
+    "konto-fuer-jedermann-und-bankgebuehren"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "konto-fuer-jedermann-und-bankgebuehren",
+   "kategorie": "schulden-konto",
+   "titel": "Konto für jedermann und Bankgebühren",
+   "icon": "🏦",
+   "teaser": "Jede Person mit rechtmäßigem Aufenthalt in der EU hat Anspruch auf ein Basiskonto – unabhängig von Einkommen, Schufa-Eintrag oder bestehenden Schulden.",
+   "schlagworte": [
+    "Basiskonto",
+    "Konto für jedermann",
+    "Zahlungskontengesetz",
+    "Kontoeröffnung ablehnen",
+    "BaFin-Beschwerde"
+   ],
+   "kurz_html": "\n<p>Ohne Girokonto ist die Teilnahme am Wirtschaftsleben kaum möglich: Miete, Gehalt, Sozialleistungen und\nVertragszahlungen laufen heute fast ausschließlich über ein Konto. Das Zahlungskontengesetz (ZKG) gibt daher jeder\nVerbraucherin und jedem Verbraucher mit rechtmäßigem Aufenthalt in der EU einen einklagbaren Anspruch auf ein\nsogenanntes Basiskonto – auch bei negativer Schufa, Überschuldung oder fehlendem festen Wohnsitz. Banken dürfen die\nEröffnung nur in eng begrenzten Ausnahmefällen ablehnen.</p>\n",
+   "schritte": [
+    {
+     "titel": "Basiskonto bei einer Bank beantragen",
+     "text": "Sie können bei praktisch jeder Bank in Deutschland ein Basiskonto beantragen, nicht nur bei Ihrer Hausbank."
+    },
+    {
+     "titel": "Ablehnung nicht hinnehmen",
+     "text": "Eine Bank darf die Eröffnung nur aus den im Gesetz abschließend genannten Gründen ablehnen (z. B. wenn Sie bereits ein Zahlungskonto bei einer anderen Bank in Deutschland führen) – bei anderen Ablehnungsgründen können Sie widersprechen."
+    },
+    {
+     "titel": "Bearbeitungsfristen im Blick behalten",
+     "text": "Die Bank muss den Antrag innerhalb der gesetzlichen Fristen bearbeiten und eine Ablehnung schriftlich begründen."
+    },
+    {
+     "titel": "Bei Ablehnung oder Untätigkeit Beschwerde bei der BaFin einlegen",
+     "text": "Reagiert die Bank nicht fristgerecht oder lehnt sie zu Unrecht ab, können Sie sich mit einer Beschwerde an die Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) wenden."
+    },
+    {
+     "titel": "Gebühren vergleichen",
+     "text": "Auch ein Basiskonto ist nicht automatisch kostenlos; das Gesetz verlangt lediglich ein „angemessenes“ Entgelt – ein Vergleich zwischen Banken kann sich lohnen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "10 Geschäftstage",
+     "was": "Regelfrist, innerhalb derer die Bank über einen vollständigen Antrag auf ein Basiskonto entscheiden und das Konto bei Zustimmung eröffnen muss",
+     "grundlage": "§ 32 Zahlungskontengesetz (ZKG)"
+    }
+   ],
+   "achtung": [
+    "Ein Basiskonto ist gesetzlich nicht gebührenfrei – verlangt ist nur ein „angemessenes“ Entgelt (§ 41 ZKG); was angemessen ist, wird im Streitfall von der BaFin bzw. den Gerichten beurteilt.",
+    "Eine Bank darf die Eröffnung nicht allein wegen negativer Schufa-Auskunft, Überschuldung oder fehlender fester Anschrift ablehnen – solche pauschalen Ablehnungen sind nach dem ZKG unzulässig und sollten angefochten werden.",
+    "Wer bereits ein Zahlungskonto bei einer anderen deutschen Bank besitzt, hat in der Regel keinen zusätzlichen Anspruch auf ein zweites Basiskonto – Ausnahmen bestehen etwa, wenn das bestehende Konto gekündigt werden soll.",
+    "Ein Basiskonto darf zwar in der Kontoführung eingeschränkt sein (z. B. kein Dispokredit), muss aber grundlegende Zahlungsdienste wie Überweisungen, Lastschriften und eine Girocard ermöglichen."
+   ],
+   "fach_html": "\n<h3>Anspruchsgrundlage</h3>\n<p>Das Zahlungskontengesetz (ZKG) setzt die EU-Zahlungskontenrichtlinie um und verankert in § 31 ZKG einen Anspruch auf\nAbschluss eines Basiskontovertrags für jede natürliche Person mit rechtmäßigem Aufenthalt in der Europäischen Union,\nunabhängig vom Aufenthaltsstatus im Einzelnen, ohne dass eine Wohnadresse in Deutschland zwingend Voraussetzung ist. Die\nAblehnungsgründe sind in § 34 ZKG abschließend aufgezählt.</p>\n<h3>Fristen und Verfahren</h3>\n<p>Nach § 32 ZKG muss die Bank einen vollständigen Antrag innerhalb von zehn Geschäftstagen bearbeiten und im Fall der\nAblehnung die Gründe schriftlich mitteilen (§ 34 Abs. 3 ZKG). Bei Verstößen kann Beschwerde bei der BaFin als\nzuständiger Aufsichtsbehörde eingelegt werden (§ 48 ZKG); daneben bleibt der Zivilrechtsweg möglich.</p>\n<h3>Entgelte</h3>\n<p>§ 41 ZKG verlangt, dass das Entgelt für ein Basiskonto „angemessen“ ist; das Gesetz nennt hierzu Vergleichsmaßstäbe\nwie das durchschnittliche Marktentgelt für vergleichbare Kontomodelle, ohne einen bundeseinheitlichen Höchstbetrag\nfestzulegen.</p>\n",
+   "zustaendig": [
+    "Kreditinstitute (Kontoeröffnung)",
+    "BaFin (Aufsicht/Beschwerde)"
+   ],
+   "belege": [
+    "§ 31, § 32, § 34, § 41, § 48 Zahlungskontengesetz (ZKG) (gesetze-im-internet.de)",
+    "BaFin, Verbraucherinformationen zum Basiskonto (bafin.de)"
+   ],
+   "siehe_auch": [
+    "pfaendungsschutzkonto",
+    "schuldnerberatung-und-privatinsolvenz"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "gesundheit-bei-geringem-einkommen",
+   "kategorie": "gesundheit-alter",
+   "titel": "Gesundheit bei geringem Einkommen",
+   "icon": "🩺",
+   "teaser": "Zuzahlungen zur Krankenversicherung sind gesetzlich gedeckelt. Wer die Belastungsgrenze erreicht, kann sich für den Rest des Jahres befreien lassen.",
+   "schlagworte": [
+    "Belastungsgrenze",
+    "Zuzahlungsbefreiung",
+    "§ 62 SGB V",
+    "Chronisch krank",
+    "Eigenanteil"
+   ],
+   "kurz_html": "\n<p>Armut und Krankheit hängen häufig zusammen: Wer wenig Geld hat, kann Zuzahlungen zu Medikamenten, Heil- und\nHilfsmitteln oder Fahrtkosten oft schwerer aufbringen, und gesundheitliche Probleme können umgekehrt zu Einkommensverlust\nführen. Das Gesetz begrenzt deshalb, wie viel gesetzlich Krankenversicherte im Kalenderjahr insgesamt an Zuzahlungen\nleisten müssen: die sogenannte Belastungsgrenze. Wird sie erreicht, stellt die Krankenkasse auf Antrag eine\nBefreiung für den Rest des Jahres aus.</p>\n",
+   "schritte": [
+    {
+     "titel": "Zuzahlungsbelege sammeln",
+     "text": "Bewahren Sie alle Quittungen über Zuzahlungen zu Arzneimitteln, Heil- und Hilfsmitteln, Krankenhausaufenthalten und Fahrkosten während des Jahres auf."
+    },
+    {
+     "titel": "Belastungsgrenze ausrechnen (lassen)",
+     "text": "Die Belastungsgrenze richtet sich nach dem jährlichen Bruttoeinkommen des Haushalts; die Krankenkasse oder eine Beratungsstelle kann bei der Berechnung helfen."
+    },
+    {
+     "titel": "Befreiungsantrag bei der Krankenkasse stellen",
+     "text": "Sobald die Belege die individuelle Belastungsgrenze erreichen, können Sie bei Ihrer Krankenkasse einen Antrag auf Befreiung von weiteren Zuzahlungen für den Rest des Kalenderjahres stellen."
+    },
+    {
+     "titel": "Bei chronischer Erkrankung reduzierte Grenze prüfen lassen",
+     "text": "Für schwerwiegend chronisch kranke Menschen gilt unter bestimmten Voraussetzungen eine abgesenkte Belastungsgrenze; die Krankenkasse prüft dies auf Antrag."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "2 % des Bruttoeinkommens",
+     "was": "Allgemeine jährliche Belastungsgrenze für Zuzahlungen zur gesetzlichen Krankenversicherung",
+     "grundlage": "§ 62 Abs. 1 Satz 1 SGB V"
+    },
+    {
+     "wert": "1 % des Bruttoeinkommens",
+     "was": "Abgesenkte Belastungsgrenze für schwerwiegend chronisch kranke Menschen unter den gesetzlichen Voraussetzungen",
+     "grundlage": "§ 62 Abs. 1 Satz 2, Abs. 2 SGB V"
+    }
+   ],
+   "achtung": [
+    "Für den Bezug von Leistungen nach SGB II oder SGB XII gilt bei der Berechnung der Belastungsgrenze in der Regel eine besondere, oft niedrigere Bezugsgröße als das tatsächliche Einkommen – lassen Sie sich die Berechnung von der Krankenkasse im Einzelfall erklären, statt selbst zu schätzen.",
+    "Die Befreiung gilt nur für die im laufenden Kalenderjahr noch anfallenden Zuzahlungen; bereits geleistete Zuzahlungen über die Belastungsgrenze hinaus können auf Antrag erstattet werden, werden aber nicht automatisch zurückgezahlt.",
+    "Die abgesenkte Grenze für chronisch Kranke gilt nur unter bestimmten gesetzlichen Voraussetzungen (u. a. Dauerbehandlung); ob diese im Einzelfall erfüllt sind, prüft die Krankenkasse anhand ärztlicher Unterlagen."
+   ],
+   "fach_html": "\n<h3>Belastungsgrenze nach § 62 SGB V</h3>\n<p>§ 62 SGB V begrenzt die jährliche Zuzahlungslast auf 2 % der jährlichen Bruttoeinnahmen zum Lebensunterhalt des\nHaushalts, für schwerwiegend chronisch kranke Menschen mit Dauerbehandlung wegen derselben Krankheit auf 1 %. Als\nBruttoeinnahmen zum Lebensunterhalt gelten nach § 62 Abs. 2 i. V. m. § 2 Abs. 2 der einschlägigen Bestimmungen bei\nBeziehenden von SGB-II- oder SGB-XII-Leistungen regelmäßig standardisierte Bezugsgrößen statt des individuell\nberechneten Haushaltseinkommens; die genauen Mindest- und Freibeträge sollten im Einzelfall bei der Krankenkasse\nerfragt werden, da sie sich jährlich ändern können.</p>\n<h3>Verhältnis zur Grundsicherung</h3>\n<p>Menschen im Bezug von Grundsicherung nach SGB II oder SGB XII sind von der Belastungsgrenze besonders betroffen, weil\nschon geringe Zuzahlungen einen spürbaren Anteil des Regelbedarfs ausmachen können. Die Möglichkeit der Befreiung\nbesteht unabhängig vom Erwerbsstatus für alle gesetzlich Krankenversicherten, deren Zuzahlungen die individuelle\nGrenze erreichen.</p>\n",
+   "zustaendig": [
+    "Gesetzliche Krankenkasse"
+   ],
+   "belege": [
+    "§ 62 SGB V (gesetze-im-internet.de)",
+    "GKV-Spitzenverband, Gemeinsame Empfehlung zur Anwendung der Belastungsgrenze nach § 62 SGB V (gkv-spitzenverband.de)"
+   ],
+   "siehe_auch": [
+    "ueberblick-armut-und-grundsicherung",
+    "armut-im-alter"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "armut-im-alter",
+   "kategorie": "gesundheit-alter",
+   "titel": "Armut im Alter",
+   "icon": "👵",
+   "teaser": "Reicht die Rente nicht zum Leben, gibt es mit der Grundsicherung im Alter eine eigene Leistung außerhalb des SGB II – mit anderen Regeln als beim Grundsicherungsgeld.",
+   "schlagworte": [
+    "Grundsicherung im Alter",
+    "§ 41 SGB XII",
+    "Altersarmut",
+    "Kenntnisgrundsatz",
+    "Rentenaufstockung"
+   ],
+   "kurz_html": "\n<p>Wer das gesetzliche Renteneintrittsalter erreicht hat oder dauerhaft voll erwerbsgemindert ist und dessen Einkommen\nund Vermögen nicht zum Lebensunterhalt ausreicht, kann Grundsicherung im Alter und bei Erwerbsminderung nach dem SGB\nXII erhalten. Sie unterscheidet sich in wichtigen Punkten vom Bürgergeld bzw. Grundsicherungsgeld nach dem SGB II –\netwa darin, wie der Antrag ausgelöst wird und dass grundsätzlich kein Vermittlungsvorrang in Arbeit gilt.</p>\n",
+   "schritte": [
+    {
+     "titel": "Anspruchsvoraussetzungen prüfen",
+     "text": "Grundsicherung im Alter kommt infrage, wenn die Regelaltersgrenze erreicht ist oder eine dauerhafte volle Erwerbsminderung vorliegt und die Rente oder sonstiges Einkommen nicht zum Lebensunterhalt reicht."
+    },
+    {
+     "titel": "Antrag beim Sozialamt stellen",
+     "text": "Zuständig ist das örtliche Sozialamt, nicht das Jobcenter; anders als beim Grundsicherungsgeld genügt teils bereits die Kenntnis der Bedürftigkeit durch die Behörde, um Leistungen rückwirkend auszulösen."
+    },
+    {
+     "titel": "Einkommen und Vermögen offenlegen",
+     "text": "Rente, sonstige Einkünfte und Vermögen werden bei der Berechnung berücksichtigt; ein Schonvermögen bleibt anrechnungsfrei."
+    },
+    {
+     "titel": "Unterhaltsrückgriff beachten",
+     "text": "Anders als bei jüngeren Angehörigen wird der Unterhaltsrückgriff auf Kinder oder Eltern bei der Grundsicherung im Alter nur eingeschränkt geprüft, wenn deren Jahreseinkommen eine gesetzliche Grenze nicht übersteigt."
+    }
+   ],
+   "fristen": [],
+   "achtung": [
+    "Grundsicherung im Alter wird auf Antrag gewährt, kann aber nach § 44 SGB XII rückwirkend ab dem Zeitpunkt beginnen, in dem die Notwendigkeit der Sozialhilfe der Behörde bekannt wird – anders als beim SGB II, wo grundsätzlich das strikte Antragsprinzip gilt.",
+    "Auch bei niedriger Rente lohnt sich eine Antragstellung nicht automatisch für jeden – Vermögen oberhalb des Schonvermögens oder Einkünfte von Kindern oberhalb der gesetzlichen Grenze können die Leistung mindern oder ausschließen.",
+    "Verdeckte Armut ist bei älteren Menschen laut vorliegenden Studien besonders verbreitet (siehe Themenseite „Verdeckte Armut und Nichtinanspruchnahme“) – Scham oder Unkenntnis führen häufig dazu, dass ein bestehender Anspruch nicht geltend gemacht wird."
+   ],
+   "fach_html": "\n<h3>Rechtsgrundlage und Abgrenzung zum SGB II</h3>\n<p>Die Grundsicherung im Alter und bei Erwerbsminderung ist in §§ 41 ff. SGB XII geregelt. Sie richtet sich an Personen,\ndie die Regelaltersgrenze erreicht haben oder dauerhaft voll erwerbsgemindert sind, und tritt insoweit an die Stelle\ndes SGB II, das grundsätzlich erwerbsfähige Personen erfasst (§ 7 Abs. 1 SGB II). Anders als im SGB II gilt im SGB XII\nnach § 18 SGB XII der sogenannte Kenntnisgrundsatz: Sozialhilfe setzt ein, sobald dem Träger die Notwendigkeit der\nHilfe bekannt wird, nicht erst mit förmlicher Antragstellung – ein förmlicher Antrag ist bei der Grundsicherung im\nAlter nach § 41 Abs. 1 i. V. m. § 44 SGB XII dennoch erforderlich, wirkt aber auf den Zeitpunkt der Kenntnis zurück.</p>\n<h3>Eingeschränkter Unterhaltsrückgriff</h3>\n<p>Nach § 43 Abs. 5 SGB XII wird ein Rückgriff auf unterhaltspflichtige Kinder oder Eltern bei der Grundsicherung im\nAlter nur durchgeführt, wenn deren jährliches Gesamteinkommen einen gesetzlich festgelegten Betrag übersteigt – dies\nsoll die Hemmschwelle für eine Antragstellung senken.</p>\n",
+   "zustaendig": [
+    "Örtliches Sozialamt bzw. überörtlicher Träger der Sozialhilfe"
+   ],
+   "belege": [
+    "§ 7, § 41, § 43, § 44 SGB XII; § 7 SGB II (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "verdeckte-armut-und-nichtinanspruchnahme",
+    "gesundheit-bei-geringem-einkommen",
+    "ueberblick-armut-und-grundsicherung"
+   ],
+   "stand": "Stand: September 2026."
+  },
+  {
+   "id": "beratung-anlaufstellen-armut",
+   "kategorie": "beratung",
+   "titel": "Beratung und Anlaufstellen",
+   "icon": "📞",
+   "teaser": "Ein Überblick über kostenlose Beratungsangebote bei Armut, Verschuldung und existenziellen Notlagen – unabhängig davon, ob Sie erwerbstätig sind oder nicht.",
+   "schlagworte": [
+    "Beratungsstelle",
+    "Schuldnerberatung",
+    "Sozialberatung",
+    "Kostenlose Rechtsberatung",
+    "Notlage"
+   ],
+   "kurz_html": "\n<p>Bei Armut, drohender Wohnungslosigkeit, Überschuldung oder Problemen mit Behörden gibt es zahlreiche kostenlose oder\nkostengünstige Beratungsangebote. Diese Seite bündelt die wichtigsten Anlaufstellen-Typen, die in den anderen\nThemenseiten dieses Bausteins bereits einzeln genannt wurden, damit Sie im Bedarfsfall schnell die richtige Stelle\nfinden.</p>\n",
+   "schritte": [
+    {
+     "titel": "Kommunale Sozialberatung als ersten Kontakt nutzen",
+     "text": "Sozialämter und viele Wohlfahrtsverbände bieten allgemeine Sozialberatung an, die auch bei der Orientierung hilft, welche spezialisierte Stelle im Einzelfall zuständig ist."
+    },
+    {
+     "titel": "Schuldnerberatung bei Verschuldung kontaktieren",
+     "text": "Kommunale, kirchliche oder Verbraucherzentralen-Schuldnerberatungsstellen sind kostenlos und für alle überschuldeten Personen offen, siehe Themenseite „Schuldnerberatung und Privatinsolvenz“."
+    },
+    {
+     "titel": "Fachstelle für Wohnungssicherung bei drohender Räumung ansprechen",
+     "text": "Wo vorhanden, vermitteln diese Fachstellen zwischen Mietparteien und binden Sozialleistungsträger frühzeitig ein."
+    },
+    {
+     "titel": "Verbraucherzentrale bei Vertrags- und Bankfragen einschalten",
+     "text": "Für Fragen rund um Basiskonto, Verträge oder überhöhte Gebühren bieten Verbraucherzentralen spezialisierte, oft kostengünstige Beratung."
+    },
+    {
+     "titel": "Unabhängige Rechtsberatung bei rechtlichen Streitfragen prüfen",
+     "text": "Bei geringem Einkommen kann Beratungshilfe beim zuständigen Amtsgericht beantragt werden, um anwaltliche Erstberatung gegen eine geringe Gebühr zu erhalten."
+    }
+   ],
+   "fristen": [],
+   "achtung": [
+    "Das Angebot, die Trägerschaft und die Wartezeiten von Beratungsstellen unterscheiden sich stark von Kommune zu Kommune – ein bundesweit einheitliches Verzeichnis existiert nach vorliegenden Informationen nicht; die konkrete Anlaufstelle vor Ort sollte über die Kommune, das Sozialamt oder Wohlfahrtsverbände erfragt werden.",
+    "Beratungshilfe beim Amtsgericht deckt in der Regel nur eine außergerichtliche Erstberatung ab, nicht automatisch die Vertretung vor Gericht – dafür ist ggf. zusätzlich Prozesskostenhilfe erforderlich.",
+    "Seriöse Schuldner- und Sozialberatung ist kostenlos oder gegen einen sehr geringen Eigenanteil erhältlich; bei kostenpflichtigen kommerziellen Angeboten mit Erfolgsversprechen ist Vorsicht geboten."
+   ],
+   "fach_html": "\n<h3>Beratungshilfe</h3>\n<p>Nach dem Beratungshilfegesetz (BerHG) können Personen mit geringem Einkommen beim zuständigen Amtsgericht\nBeratungshilfe für außergerichtliche Rechtsberatung beantragen; die Gerichte stellen dazu einen\nBerechtigungsschein aus, mit dem eine Anwältin oder ein Anwalt gegen eine geringe Gebühr (in der Regel 15 Euro)\nkonsultiert werden kann.</p>\n<h3>Struktur der Beratungslandschaft</h3>\n<p>Die Zuständigkeiten sind je nach Thema verteilt: Sozialämter und Jobcenter für Leistungsfragen, kommunale und freie\nTräger für Schuldner- und allgemeine Sozialberatung, Verbraucherzentralen für Vertrags- und Finanzfragen, sowie\nFachstellen für Wohnungssicherung, wo diese eingerichtet wurden. Eine bundesweit einheitliche, amtliche\nZusammenstellung aller lokalen Anlaufstellen liegt nach vorliegenden Informationen nicht vor; die Suche über die\njeweilige Kommune bzw. den Landkreis ist meist der zuverlässigste Weg.</p>\n",
+   "zustaendig": [
+    "Kommunale Sozialämter und Beratungsstellen",
+    "Amtsgericht (Beratungshilfe)",
+    "Verbraucherzentralen der Länder"
+   ],
+   "belege": [
+    "Beratungshilfegesetz (BerHG) (gesetze-im-internet.de)",
+    "§ 11 SGB XII; § 16a SGB II (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "schuldnerberatung-und-privatinsolvenz",
+    "wohnkosten-und-mietschulden",
+    "ueberblick-armut-und-grundsicherung"
+   ],
+   "stand": "Stand: September 2026."
+  }
+ ]
+}

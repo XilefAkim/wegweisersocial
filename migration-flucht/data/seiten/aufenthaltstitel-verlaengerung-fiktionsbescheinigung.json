@@ -1,0 +1,87 @@
+{
+  "id": "aufenthaltstitel-verlaengerung-fiktionsbescheinigung",
+  "kategorie": "aufenthalt-arbeit",
+  "titel": "Aufenthaltstitel verlängern und Fiktionsbescheinigung",
+  "icon": "📄",
+  "teaser": "Wer die Verlängerung rechtzeitig beantragt, bleibt bis zur Entscheidung rechtmäßig im Land – fordern Sie dafür aktiv eine Fiktionsbescheinigung ein.",
+  "schlagworte": [
+    "Fortgeltungsfiktion",
+    "Fiktionsbescheinigung",
+    "Aufenthaltstitel verlängern",
+    "Niederlassungserlaubnis",
+    "§ 81 AufenthG",
+    "§ 26 AufenthG"
+  ],
+  "kurz_html": "<p>Ihr Aufenthaltstitel läuft irgendwann ab. Beantragen Sie die Verlängerung rechtzeitig, bevor er abläuft – das ist wichtig.</p><p>Stellen Sie den Antrag noch während Ihr Titel gültig ist, gilt er automatisch weiter, bis die Ausländerbehörde entschieden hat. Das nennt man Fortgeltungsfiktion.</p><p>Verlangen Sie dafür eine <strong>Fiktionsbescheinigung</strong>. Sie ist kein neuer Aufenthaltstitel, sondern der Nachweis, dass Ihr alter Titel bis zur Entscheidung weitergilt.</p><p>Haben Sie Flüchtlingsschutz oder Asylberechtigung, können Sie nach 5 Jahren (bei besonders guter Integration schon nach 3 Jahren) eine Niederlassungserlaubnis beantragen – einen unbefristeten Aufenthaltstitel. Bei subsidiärem Schutz geht das frühestens nach 5 Jahren, mit strengeren Voraussetzungen.</p><p>Bekommen Sie keinen Termin bei der Ausländerbehörde, bevor Ihr Titel abläuft? Bewahren Sie jeden Nachweis auf – Termin-Buchungsbestätigungen, E-Mails, Anrufprotokolle. Das kann später wichtig werden.</p>",
+  "schritte": [
+    {
+      "titel": "Ablaufdatum im Kalender eintragen",
+      "text": "Notieren Sie sich das Datum rechtzeitig, am besten mit Vorlauf von mehreren Wochen."
+    },
+    {
+      "titel": "Termin bei der Ausländerbehörde buchen",
+      "text": "Beantragen Sie die Verlängerung so früh wie möglich, noch während der Titel gültig ist."
+    },
+    {
+      "titel": "Fiktionsbescheinigung einfordern",
+      "text": "Verlangen Sie aktiv eine Bescheinigung über die Fortgeltung Ihres Titels."
+    },
+    {
+      "titel": "Bei Terminproblemen Nachweise sammeln",
+      "text": "Speichern Sie Buchungsbestätigungen und Kontaktversuche, falls kein Termin vor Ablauf verfügbar ist."
+    },
+    {
+      "titel": "Niederlassungserlaubnis prüfen",
+      "text": "Prüfen Sie nach den ersten Jahren, ob Sie die Voraussetzungen für einen unbefristeten Titel erfüllen."
+    }
+  ],
+  "fristen": [
+    {
+      "wert": "rechtzeitig vor Ablauf",
+      "was": "Die Fortgeltungsfiktion setzt voraus, dass der Antrag noch vor Ablauf des bisherigen Titels gestellt wird; das Gesetz nennt keine feste Zahl von Tagen, verlangt aber Rechtzeitigkeit.",
+      "grundlage": "§ 81 Abs. 4 AufenthG"
+    },
+    {
+      "wert": "5 Jahre",
+      "was": "Regelweg zur Niederlassungserlaubnis für Inhaber einer Aufenthaltserlaubnis nach § 25 Abs. 1 oder 2 Satz 1 AufenthG (Asylberechtigte, Flüchtlinge, bestimmte Familienangehörige); die Asylverfahrenszeit wird angerechnet.",
+      "grundlage": "§ 26 Abs. 3 Satz 1 AufenthG n. F."
+    },
+    {
+      "wert": "3 Jahre",
+      "was": "Verkürzter Weg zur Niederlassungserlaubnis bei fortgeschrittener Integration (Lebensunterhalt weit überwiegend gesichert, Deutschkenntnisse).",
+      "grundlage": "§ 26 Abs. 3 Satz 3 AufenthG n. F."
+    },
+    {
+      "wert": "5 Jahre und 60 Monate Rentenbeiträge",
+      "was": "Frühester Antrag auf Niederlassungserlaubnis bei subsidiärem oder humanitärem Schutz; zusätzlich sind mindestens 60 Monate Beiträge zur Rentenversicherung nachzuweisen.",
+      "grundlage": "§ 26 Abs. 4 AufenthG in Verbindung mit § 9 Abs. 2 AufenthG"
+    }
+  ],
+  "achtung": [
+    "Die Fortgeltungsfiktion gilt nur bei rechtzeitiger Antragstellung, solange der bisherige Titel noch gültig ist. Nach Ablauf hilft nur noch eine Ausnahmeentscheidung der Behörde zur Vermeidung einer unbilligen Härte.",
+    "Die Fiktionsbescheinigung ist kein neuer Aufenthaltstitel. Fordern Sie sie aktiv ein und bewahren Sie sie zusammen mit dem alten Titel auf.",
+    "Bekommen Sie keinen rechtzeitigen Termin bei überlasteten Ausländerbehörden, dokumentieren Sie jeden Kontaktversuch – das kann später als Nachweis der rechtzeitigen Bemühung dienen.",
+    "Eine Mitteilung des BAMF über ein laufendes Entzugs-, Widerrufs- oder Rücknahmeverfahren sperrt die Erteilung der Niederlassungserlaubnis.",
+    "Für den verkürzten Drei-Jahres-Weg zur Niederlassungserlaubnis nennt der Gesetzestext bislang nur Widerruf und Rücknahme als Sperrgrund, nicht ausdrücklich den neuen Oberbegriff 'Entzug' – ob ein laufendes Entzugsverfahren auch hier sperrt, ist nach dem Wortlaut nicht abschließend geklärt."
+  ],
+  "fach_html": "<h3>Fortgeltungsfiktion (§ 81 Abs. 4 AufenthG)</h3><p>Beantragt eine Person rechtzeitig die Verlängerung ihres Aufenthaltstitels oder einen anderen Aufenthaltstitel, gilt der bisherige Titel vom Zeitpunkt seines Ablaufs bis zur Entscheidung der Ausländerbehörde als fortbestehend (§ 81 Abs. 4 Satz 1 AufenthG). Das ermöglicht die Fortsetzung von Arbeit, Aufenthalt und Sozialleistungsbezug während des laufenden Verfahrens. Bei einer verspäteten Antragstellung kann die Behörde die Fortgeltung zur Vermeidung einer unbilligen Härte anordnen; ein Anspruch darauf besteht aber nicht in gleicher Weise wie bei rechtzeitiger Antragstellung.</p><h3>Fiktionsbescheinigung (§ 81 Abs. 5 AufenthG)</h3><p>Der Person ist eine Bescheinigung über die Wirkung ihrer Antragstellung auszustellen (Fiktionsbescheinigung, § 81 Abs. 5 AufenthG). Nur bei künftigen Titeln zu Ausbildungs- oder Erwerbszwecken (Kapitel 2 Abschnitt 3 und 4 AufenthG) gilt die dort vorgesehene Erwerbstätigkeit schon während des Verfahrens als erlaubt und ist in die Fiktionsbescheinigung aufzunehmen (§ 81 Abs. 5a AufenthG). Für Schutzberechtigte ergibt sich die Arbeitserlaubnis aus dem fortgeltenden bisherigen Titel. Fordern Sie dieses Dokument aktiv ein, wenn die Behörde es nicht von sich aus ausstellt.</p><h3>Niederlassungserlaubnis für Schutzberechtigte (§ 26 Abs. 3 und 4 AufenthG)</h3><p>Für Asylberechtigte, anerkannte Flüchtlinge und bestimmte Familienangehörige mit einer Aufenthaltserlaubnis nach § 25 Abs. 1 oder 2 Satz 1 AufenthG ist die Niederlassungserlaubnis nach fünf Jahren möglich, wenn der Lebensunterhalt überwiegend gesichert ist und hinreichende Deutschkenntnisse sowie die weiteren allgemeinen Voraussetzungen des § 9 Abs. 2 AufenthG vorliegen (§ 26 Abs. 3 Satz 1 AufenthG n. F.); bei weit überwiegend gesichertem Lebensunterhalt und Beherrschung der deutschen Sprache verkürzt sich die Frist auf drei Jahre (§ 26 Abs. 3 Satz 3 AufenthG n. F.). Subsidiär und humanitär Schutzberechtigte haben keinen privilegierten Zugang: Für sie gilt § 26 Abs. 4 AufenthG in Verbindung mit § 9 AufenthG, das heißt frühestens nach fünf Jahren, mit vollständig gesichertem Lebensunterhalt, ausreichendem Wohnraum und mindestens 60 Monaten Rentenversicherungsbeiträgen. In beiden Fällen wird die Dauer des Asylverfahrens angerechnet. Die Erteilung ist gesperrt, solange das BAMF der Ausländerbehörde eine Mitteilung über ein laufendes Entzugs-, Widerrufs- oder Rücknahmeverfahren gemacht hat (§ 73b Abs. 3 AsylG n. F.).</p><h3>Terminprobleme und Nachweis der Antragstellung</h3><p>Überlastete Ausländerbehörden, ausgebuchte Online-Terminsysteme und technische Ausfälle können dazu führen, dass ein Termin erst nach Ablauf des Titels verfügbar ist. Bewahren Sie deshalb jeden Nachweis eines rechtzeitigen Kontaktversuchs auf – Buchungsbestätigungen, E-Mails, Anrufprotokolle – und legen Sie ihn bei einer möglichen Härtefallprüfung nach § 81 Abs. 4 Satz 3 AufenthG vor.</p><h3>Selbst machen oder Anwalt?</h3><p>Verlängerungsantrag, Einforderung der Fiktionsbescheinigung und Antrag auf Niederlassungserlaubnis können Sie selbst bei der Ausländerbehörde stellen; ein Vertretungszwang besteht nicht. Wird ein Antrag abgelehnt oder bleibt die Behörde untätig, ist eine Klage vor dem Verwaltungsgericht ohne Anwalt möglich (§ 67 VwGO gilt erst ab dem Oberverwaltungsgericht). Kosten trägt im Klageverfahren die unterliegende Seite (§ 154 Abs. 1 VwGO), der Streitwert liegt bei befristeten Titeln meist beim Auffangwert von 5.000 Euro (Streitwertkatalog 2025 Nr. 8.1.2), bei der Niederlassungserlaubnis beim Eineinhalbfachen, also 7.500 Euro (Nr. 8.1.1). Anwaltliche Hilfe ist ratsam, wenn eine Sperrwirkung durch ein BAMF-Verfahren im Raum steht oder die Auslegung von 'überwiegend gesichertem Lebensunterhalt' streitig ist.</p>",
+  "zustaendig": [
+    "Ausländerbehörde am Wohnort",
+    "BAMF (Mitteilung über laufendes Entzugs-, Widerrufs- oder Rücknahmeverfahren)",
+    "Deutsche Rentenversicherung (Auskunft über Beitragszeiten bei subsidiärem Schutz)",
+    "Verwaltungsgericht (bei Ablehnung oder Untätigkeit)"
+  ],
+  "belege": [
+    "§ 81 AufenthG, gesetze-im-internet.de, abgerufen 24.09.2026",
+    "§ 26 AufenthG, gesetze-im-internet.de, abgerufen 24.09.2026",
+    "§ 9 AufenthG, gesetze-im-internet.de, abgerufen 24.09.2026",
+    "§ 73b AsylG, gesetze-im-internet.de, abgerufen 24.09.2026",
+    "GEAS-Anpassungsgesetz vom 23.04.2026, BGBl. 2026 I Nr. 111, ausgegeben 28.04.2026, abgerufen 24.09.2026"
+  ],
+  "siehe_auch": [
+    "wohnsitzauflage-umverteilung",
+    "einbuergerung-antrag",
+    "untaetigkeitsklage-auslaenderbehoerde"
+  ],
+  "stand": "September 2026"
+}

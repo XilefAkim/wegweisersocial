@@ -1,0 +1,1103 @@
+{
+ "kategorien": [
+  {
+   "id": "ueberblick",
+   "titel": "Überblick und Grundlagen",
+   "icon": "🧭",
+   "beschreibung": "Einstieg: Ihre Rechte und Pflichten im Überblick."
+  },
+  {
+   "id": "antrag",
+   "titel": "Antrag und Leistungen",
+   "icon": "📝",
+   "beschreibung": "Grundsicherungsgeld beantragen, Arbeitslosengeld I."
+  },
+  {
+   "id": "jobcenter",
+   "titel": "Jobcenter-Pflichten",
+   "icon": "🤝",
+   "beschreibung": "Kooperationsplan, Mitwirkungspflichten, Sanktionen."
+  },
+  {
+   "id": "geld",
+   "titel": "Geld im Detail",
+   "icon": "💶",
+   "beschreibung": "Wohnkosten, Vermögen, Hinzuverdienst, Kinderzuschlag."
+  },
+  {
+   "id": "gesundheit",
+   "titel": "Gesundheit",
+   "icon": "🩺",
+   "beschreibung": "Krankenversicherung während der Arbeitslosigkeit."
+  },
+  {
+   "id": "qualifizierung",
+   "titel": "Arbeit und Qualifizierung",
+   "icon": "🎓",
+   "beschreibung": "Weiterbildung, Umschulung, Arbeitsgelegenheiten."
+  },
+  {
+   "id": "rechtsschutz",
+   "titel": "Rechtsschutz und Schulden",
+   "icon": "⚖️",
+   "beschreibung": "Widerspruch, Klage, Schulden und Insolvenz."
+  },
+  {
+   "id": "beratung",
+   "titel": "Beratung und Anlaufstellen",
+   "icon": "📞",
+   "beschreibung": "Wer bei welchem Anliegen hilft."
+  }
+ ],
+ "seiten": [
+  {
+   "id": "rechte-und-pflichten-ueberblick",
+   "kategorie": "ueberblick",
+   "titel": "Rechte und Pflichten im Überblick",
+   "icon": "🧭",
+   "teaser": "Was Arbeitslosigkeit in Deutschland rechtlich bedeutet: welche Leistungen es gibt, was von Ihnen erwartet wird und wo Ihre Rechte enden.",
+   "schlagworte": [
+    "Arbeitslosengeld I",
+    "Grundsicherungsgeld",
+    "Bürgergeld",
+    "Nachrangprinzip",
+    "Mitwirkungspflicht",
+    "Vermittlungsvorrang",
+    "SGB II",
+    "SGB III"
+   ],
+   "kurz_html": "\n<p>Wenn Sie arbeitslos werden, gibt es in Deutschland zwei getrennte Systeme, die nacheinander greifen können:\n<strong>Arbeitslosengeld I</strong> (Versicherungsleistung der Arbeitsagentur, SGB III) und <strong>Grundsicherungsgeld</strong>\n(bis 30. Juni 2026 „Bürgergeld“ genannt; steuerfinanzierte Grundsicherung des Jobcenters, SGB II). Beide Systeme verbinden\nLeistungen mit Pflichten: Sie müssen sich selbst um Arbeit bemühen, Termine wahrnehmen und Änderungen Ihrer Verhältnisse\nmitteilen. Im Gegenzug haben Sie Anspruch auf Beratung, Vermittlung, Qualifizierung und existenzsichernde Leistungen.</p>\n<p>Wichtig: Sozialleistungen sind in Deutschland nachrangig. Das heißt, Sie müssen zunächst eigenes Einkommen, Vermögen\nund vorrangige Leistungen (z. B. Wohngeld, Kindergeld, Unterhalt) einsetzen, bevor Grundsicherungsgeld gezahlt wird.</p>\n",
+   "schritte": [
+    {
+     "titel": "Arbeitslos melden",
+     "text": "Melden Sie sich spätestens am ersten Tag der Arbeitslosigkeit persönlich oder online bei der Agentur für Arbeit arbeitslos – bei bekanntem Beendigungstermin sogar 3 Monate vorher (Frühmeldepflicht, § 38 Abs. 1 SGB III)."
+    },
+    {
+     "titel": "Leistung klären",
+     "text": "Prüfen Sie, ob Sie Arbeitslosengeld I bekommen (Versicherungsleistung) oder auf Grundsicherungsgeld angewiesen sind (bedürftigkeitsabhängig) – oder beides parallel, wenn ALG I nicht existenzsichernd ist."
+    },
+    {
+     "titel": "Antrag stellen",
+     "text": "Stellen Sie den jeweiligen Antrag möglichst sofort; ein formloser Antrag beim Jobcenter sichert bereits die Rückwirkung auf den Monatsersten."
+    },
+    {
+     "titel": "Mitwirken",
+     "text": "Erscheinen Sie zu Terminen, legen Sie angeforderte Unterlagen vor und teilen Sie Änderungen (Umzug, neues Einkommen, Krankheit) unverzüglich mit."
+    },
+    {
+     "titel": "Rechte kennen",
+     "text": "Sie haben Anspruch auf Beratung, eine schriftliche Rechtsbehelfsbelehrung zu jedem Bescheid und die Möglichkeit, gegen Entscheidungen Widerspruch einzulegen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "3 Monate vorher",
+     "was": "Frühzeitige Arbeitsuchendmeldung bei bekanntem Beendigungstermin",
+     "grundlage": "§ 38 Abs. 1 SGB III"
+    },
+    {
+     "wert": "1 Monat",
+     "was": "Widerspruchsfrist gegen Bescheide von Jobcenter oder Arbeitsagentur",
+     "grundlage": "§ 84 SGG"
+    },
+    {
+     "wert": "unverzüglich",
+     "was": "Mitteilungspflicht bei Änderung der persönlichen oder finanziellen Verhältnisse",
+     "grundlage": "§ 60 SGB I"
+    }
+   ],
+   "achtung": [
+    "Wer sich zu spät arbeitslos meldet, riskiert bei Arbeitslosengeld I eine Sperrzeit oder den Verlust von Anspruchstagen.",
+    "„Bürgergeld“ und „Grundsicherungsgeld“ bezeichnen seit 1. Juli 2026 dieselbe Leistung – ältere Bescheide und Formulare tragen noch den alten Namen, das ändert nichts an Ihrem Anspruch.",
+    "Nachrangigkeit gilt auch für Wohngeld: Wenn Wohngeld die Hilfebedürftigkeit für mindestens 3 Monate für alle Personen im Haushalt beseitigen würde, müssen Sie es vorrangig beantragen (§ 12a SGB II).",
+    "Ein Kooperationsplan oder eine Meldeaufforderung ist auch dann verbindlich, wenn Sie sie für unangemessen halten – Einwände gehören in den Widerspruch, nicht ins Ignorieren des Termins."
+   ],
+   "fach_html": "\n<h3>Zwei Systeme, ein Nachrangprinzip</h3>\n<p><strong>Arbeitslosengeld I</strong> (§§ 136 ff. SGB III) ist eine Versicherungsleistung: Anspruch und Höhe hängen von\nvorheriger Beitragszahlung ab, nicht von Bedürftigkeit. <strong>Grundsicherungsgeld</strong> (§§ 7 ff. SGB II, bis\n30.6.2026 „Bürgergeld“) ist eine bedürftigkeitsabhängige Grundsicherung: Anspruch besteht nur, soweit Einkommen und\nVermögen den Bedarf nicht decken (§ 9 SGB II). Reicht das Arbeitslosengeld I nicht zur Existenzsicherung, kann\nergänzend Grundsicherungsgeld beantragt werden (§ 5 Abs. 2 SGB II – kein Ausschluss, nur Anrechnung als Einkommen).</p>\n<h3>Vermittlungsvorrang</h3>\n<p>Seit der Reform zum 1.7.2026 betont § 3a SGB II n. F. ausdrücklich den Vorrang der Vermittlung in Arbeit vor anderen\nEingliederungsleistungen, soweit dies nach den Umständen des Einzelfalls sachgerecht ist. Das ändert nichts an Ihrem\nRecht auf Qualifizierung, wenn diese die Aussichten auf dauerhafte Beschäftigung erhöht.</p>\n<h3>Zumutbarkeit</h3>\n<p>Nach § 10 SGB II ist grundsätzlich jede Arbeit zumutbar, für die Sie geistig, seelisch und körperlich in der Lage\nsind. Ausnahmen bestehen u. a. bei der Betreuung eines Kindes unter 14 Monaten, wenn keine Betreuungsmöglichkeit\nbesteht oder zumutbar organisiert werden kann (§ 10 Abs. 1 Nr. 3 SGB II n. F.; die Altersgrenze wurde mit der Reform\n2026 von 3 Jahren auf 14 Monate abgesenkt).</p>\n<h3>Was sich am 1. Juli 2026 geändert hat</h3>\n<p>Das Dreizehnte Gesetz zur Änderung des Zweiten Buches Sozialgesetzbuch und anderer Gesetze (BGBl. 2026 I Nr. 107,\nausgegeben 22.4.2026) hat „Bürgergeld“ in „Grundsicherungsgeld“ umbenannt und u. a. den Vermittlungsvorrang (§ 3a),\nschärfere Sanktionsregeln (§§ 31, 31a, 32) und ein neues, nach Lebensalter gestaffeltes Vermögensschonvermögen (§ 12\nAbs. 2) eingeführt. Der 2025/2026 diskutierte Begriff „Neue Grundsicherung“ bezeichnete Vorschläge im politischen\nDiskurs vor der Verabschiedung; maßgeblich ist ausschließlich der tatsächlich verkündete Gesetzestext.</p>\n",
+   "zustaendig": [
+    "Agentur für Arbeit (Arbeitslosengeld I, Vermittlung, Weiterbildung)",
+    "Jobcenter (Grundsicherungsgeld, Kosten der Unterkunft, Kooperationsplan)"
+   ],
+   "belege": [
+    "§§ 3a, 5, 9, 10 SGB II (gesetze-im-internet.de)",
+    "§ 38 SGB III (gesetze-im-internet.de)",
+    "§ 84 SGG (gesetze-im-internet.de)",
+    "§ 60 SGB I (gesetze-im-internet.de)",
+    "BGBl. 2026 I Nr. 107 vom 22.04.2026 (recht.bund.de)"
+   ],
+   "siehe_auch": [
+    "buergergeld-beantragen",
+    "arbeitslosengeld-i",
+    "eingliederungsvereinbarung"
+   ],
+   "stand": "Stand: September 2026 (Rechtsstand seit 1. Juli 2026, 13. SGB-II-Änderungsgesetz, BGBl. 2026 I Nr. 107)."
+  },
+  {
+   "id": "buergergeld-beantragen",
+   "kategorie": "antrag",
+   "titel": "Grundsicherungsgeld (Bürgergeld) beantragen",
+   "icon": "📝",
+   "teaser": "Seit 1. Juli 2026 heißt das Bürgergeld amtlich „Grundsicherungsgeld“. So stellen Sie den Antrag richtig und wahren die Rückwirkung.",
+   "schlagworte": [
+    "Grundsicherungsgeld",
+    "Bürgergeld",
+    "Jobcenter-HA",
+    "Vorläufige Entscheidung",
+    "Wohngeld-Vorrang",
+    "§ 41a SGB II",
+    "§ 12a SGB II"
+   ],
+   "kurz_html": "\n<p>Grundsicherungsgeld (bis 30. Juni 2026 „Bürgergeld“) sichert Ihren Lebensunterhalt, wenn Ihr Einkommen und Vermögen\ndafür nicht ausreichen und Sie erwerbsfähig sind. Zuständig ist das Jobcenter an Ihrem Wohnort. Der Antrag ist zunächst\nformlos möglich – wichtig ist, dass Sie ihn stellen, bevor der Monat beginnt, für den Sie Leistungen wollen, denn\nGrundsicherungsgeld wird grundsätzlich erst ab dem Tag der Antragstellung gezahlt, rückwirkend höchstens bis zum\nMonatsersten.</p>\n",
+   "schritte": [
+    {
+     "titel": "Formlos vorstellig werden oder online antragen",
+     "text": "Ein formloser, auch mündlicher Antrag beim Jobcenter reicht, um die Rückwirkung auf den 1. des Monats zu sichern. Das offizielle Formular „Jobcenter-HA“ können Sie nachreichen."
+    },
+    {
+     "titel": "Hauptantrag und Anlagen ausfüllen",
+     "text": "Zum Hauptantrag gehören je nach Situation Anlagen, u. a. die Anlage „WEP“ (Weitere Personen) für alle Haushaltsmitglieder ab 15 Jahren."
+    },
+    {
+     "titel": "Unterlagen einreichen",
+     "text": "Mietvertrag, Kontoauszüge der letzten Monate, Einkommensnachweise, Personalausweis – fehlende Unterlagen können Sie nachreichen, ohne den Antragstag zu verlieren."
+    },
+    {
+     "titel": "Wohngeld prüfen lassen",
+     "text": "Würde Wohngeld Ihre Hilfebedürftigkeit für mindestens 3 Monate für alle Personen im Haushalt beseitigen, müssen Sie es vorrangig beantragen; das Jobcenter zahlt bis dahin vorschussweise weiter (§ 12a SGB II)."
+    },
+    {
+     "titel": "Bescheid abwarten und prüfen",
+     "text": "Sie erhalten einen schriftlichen Bescheid mit Rechtsbehelfsbelehrung. Bei unklarer Sach- oder Rechtslage kann das Jobcenter zunächst vorläufig entscheiden (§ 41a SGB II)."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Antragsmonat",
+     "was": "Leistungen werden grundsätzlich erst ab dem Monat der Antragstellung gezahlt, nicht rückwirkend für Vormonate",
+     "grundlage": "§ 37 SGB II"
+    },
+    {
+     "wert": "1 Jahr",
+     "was": "Ohne endgültige Entscheidung gilt eine vorläufige Bewilligung nach Ablauf eines Jahres als endgültig festgesetzt",
+     "grundlage": "§ 41a Abs. 5 SGB II"
+    },
+    {
+     "wert": "bis zu 10 Jahre",
+     "was": "Ausnahme von der 1-Jahres-Fiktion bei nachträglich bekannt gewordenen neuen Tatsachen",
+     "grundlage": "§ 41a Abs. 5 SGB II"
+    }
+   ],
+   "achtung": [
+    "Warten Sie mit dem Antrag nicht, „bis alle Unterlagen komplett sind“ – das kostet Sie bares Geld, weil die Rückwirkung nur bis zum Antragstag reicht.",
+    "Ein Antrag, der nur mündlich am Empfangstresen gestellt wurde, sollte möglichst schriftlich bestätigt oder zumindest mit Datum dokumentiert werden (Zeugin/Zeuge, Aktenzeichen erfragen).",
+    "„Bürgergeld“ steht auf vielen Formularen und in der Umgangssprache weiter für dieselbe Leistung wie „Grundsicherungsgeld“ – es handelt sich nicht um zwei verschiedene Leistungen.",
+    "Eine vorläufige Bewilligung ist kein vorläufiger Rechtsschutz light: Auch gegen einen vorläufigen Bescheid läuft die reguläre Widerspruchsfrist von einem Monat."
+   ],
+   "fach_html": "\n<h3>Rechtsgrundlage und Umbenennung</h3>\n<p>Anspruchsgrundlage ist unverändert § 7 ff. SGB II. Mit dem Dreizehnten Gesetz zur Änderung des Zweiten Buches\nSozialgesetzbuch und anderer Gesetze (BGBl. 2026 I Nr. 107 v. 22.4.2026), in Kraft seit 1.7.2026, wurde die Leistung\nin „Grundsicherungsgeld“ umbenannt; die Anspruchsvoraussetzungen (Erwerbsfähigkeit, Hilfebedürftigkeit, gewöhnlicher\nAufenthalt in Deutschland, Alter zwischen 15 Jahren und Erreichen der Regelaltersgrenze) blieben unverändert.</p>\n<h3>Formloser Antrag und Antragsformular</h3>\n<p>Ein Antrag kann formlos, auch fernmündlich oder persönlich, gestellt werden; das förmliche Antragsformular\n„Jobcenter-HA“ der Bundesagentur für Arbeit (Formularcenter der Arbeitsagentur, Stand 04/2026) sowie ergänzende\nAnlagen können nachgereicht werden, ohne dass der ursprüngliche Antragstag verloren geht.</p>\n<h3>Vorläufige Entscheidung (§ 41a SGB II)</h3>\n<p>Steht der Leistungsanspruch dem Grunde nach fest, ist aber Höhe oder Dauer wegen schwankenden Einkommens oder\noffener Tatsachen ungewiss, entscheidet das Jobcenter vorläufig. Ohne abschließende Entscheidung gilt die vorläufige\nBewilligung nach einem Jahr als endgültig festgesetzt (§ 41a Abs. 5 SGB II); eine Korrektur bleibt bis zu zehn Jahre\nmöglich, wenn nachträglich neue Tatsachen bekannt werden (§ 41a Abs. 5 SGB II).</p>\n<h3>Wohngeld-Vorrang (§ 12a SGB II)</h3>\n<p>Grundsicherungsgeld ist nachrangig gegenüber Wohngeld. Eine Pflicht, Wohngeld vorrangig zu beantragen, besteht nur,\nwenn dadurch die Hilfebedürftigkeit für mindestens drei Monate für alle Mitglieder der Bedarfsgemeinschaft entfiele.\nBis die Wohngeldzahlung tatsächlich fließt, zahlt das Jobcenter die Leistungen vorschussweise weiter.</p>\n",
+   "zustaendig": [
+    "Jobcenter am Wohnort (gemeinsame Einrichtung von Agentur für Arbeit und Kommune, oder zugelassener kommunaler Träger)"
+   ],
+   "belege": [
+    "§§ 7, 9, 37, 41a SGB II (gesetze-im-internet.de)",
+    "§ 12a SGB II (gesetze-im-internet.de)",
+    "BGBl. 2026 I Nr. 107 vom 22.04.2026 (recht.bund.de)",
+    "Antragsformular „Jobcenter-HA“, Bundesagentur für Arbeit, Stand 04/2026 (arbeitsagentur.de)"
+   ],
+   "siehe_auch": [
+    "rechte-und-pflichten-ueberblick",
+    "kosten-der-unterkunft",
+    "vermoegen-schonvermoegen"
+   ],
+   "stand": "Stand: September 2026 (Rechtsstand seit 1. Juli 2026, 13. SGB-II-Änderungsgesetz, BGBl. 2026 I Nr. 107)."
+  },
+  {
+   "id": "arbeitslosengeld-i",
+   "kategorie": "antrag",
+   "titel": "Arbeitslosengeld I",
+   "icon": "💼",
+   "teaser": "Arbeitslosengeld I ist eine Versicherungsleistung: Höhe und Dauer richten sich nach Ihrer Beitragszeit, nicht nach Bedürftigkeit.",
+   "schlagworte": [
+    "Arbeitslosengeld I",
+    "Anwartschaftszeit",
+    "Sperrzeit",
+    "Leistungsentgelt",
+    "Frühzeitige Arbeitsuchendmeldung",
+    "§ 147 SGB III",
+    "§ 159 SGB III"
+   ],
+   "kurz_html": "\n<p>Arbeitslosengeld I zahlt die Agentur für Arbeit, wenn Sie zuvor mindestens 12 Monate innerhalb der letzten 30 Monate\nsozialversicherungspflichtig beschäftigt waren, sich arbeitslos gemeldet haben und der Vermittlung zur Verfügung\nstehen. Die Höhe richtet sich nach Ihrem früheren Nettoentgelt, die Dauer nach Ihrer Versicherungszeit und – ab 50\nJahren – zusätzlich nach Ihrem Alter.</p>\n",
+   "schritte": [
+    {
+     "titel": "Frühzeitig melden",
+     "text": "Ist der Beendigungszeitpunkt Ihrer Beschäftigung bekannt (z. B. befristeter Vertrag, Kündigung), melden Sie sich spätestens 3 Monate vorher arbeitsuchend (§ 38 Abs. 1 SGB III); sonst innerhalb von 3 Tagen nach Kenntnis."
+    },
+    {
+     "titel": "Arbeitslos melden",
+     "text": "Am ersten Tag der Arbeitslosigkeit müssen Sie sich zusätzlich persönlich oder online arbeitslos melden – das ist Voraussetzung für die Zahlung."
+    },
+    {
+     "titel": "Antrag stellen",
+     "text": "Stellen Sie den Leistungsantrag bei Ihrer Agentur für Arbeit, möglichst mit Arbeitsbescheinigung des letzten Arbeitgebers."
+    },
+    {
+     "titel": "Verfügbarkeit erhalten",
+     "text": "Stehen Sie der Arbeitsvermittlung zur Verfügung: Sie müssen bereit und in der Lage sein, eine zumutbare Beschäftigung anzunehmen und an Eingliederungsmaßnahmen teilzunehmen."
+    },
+    {
+     "titel": "Bei Bedarf aufstocken",
+     "text": "Reicht das Arbeitslosengeld I nicht zur Existenzsicherung, können Sie ergänzend Grundsicherungsgeld beim Jobcenter beantragen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "3 Monate vorher",
+     "was": "Frühzeitige Arbeitsuchendmeldung bei bekanntem Beendigungstermin",
+     "grundlage": "§ 38 Abs. 1 SGB III"
+    },
+    {
+     "wert": "3 Tage",
+     "was": "Arbeitsuchendmeldung nach Kenntnis eines nicht vorhersehbaren Beendigungstermins",
+     "grundlage": "§ 38 Abs. 1 SGB III"
+    },
+    {
+     "wert": "12 von 30 Monaten",
+     "was": "Anwartschaftszeit: Mindestversicherungszeit vor der Arbeitslosmeldung",
+     "grundlage": "§ 142 SGB III"
+    },
+    {
+     "wert": "12 Wochen",
+     "was": "Regel-Sperrzeit bei selbstverschuldeter Arbeitslosigkeit (z. B. Eigenkündigung ohne wichtigen Grund)",
+     "grundlage": "§ 159 SGB III"
+    }
+   ],
+   "achtung": [
+    "Wer die Frühmeldepflicht versäumt, riskiert eine Minderung des Arbeitslosengeldes – unabhängig von einer eventuellen Sperrzeit.",
+    "Eine Eigenkündigung ohne wichtigen Grund oder ein Aufhebungsvertrag löst in aller Regel eine 12-wöchige Sperrzeit aus, die zusätzlich die Gesamtbezugsdauer verkürzt.",
+    "Die genaue Bezugsdauer-Tabelle in § 147 SGB III ist gestaffelt nach Versicherungszeit und ab 50 Jahren zusätzlich nach Alter – lassen Sie sich die für Sie geltende Dauer von der Agentur für Arbeit schriftlich bestätigen, statt sich auf Faustregeln zu verlassen.",
+    "Arbeitslosengeld I ersetzt keine Beiträge zur Kranken- und Pflegeversicherung aus eigener Tasche – diese übernimmt während des Bezugs die Bundesagentur für Arbeit automatisch."
+   ],
+   "fach_html": "\n<h3>Anwartschaftszeit (§ 142 SGB III)</h3>\n<p>Grundsätzlich benötigen Sie mindestens 12 Monate in einem Versicherungspflichtverhältnis innerhalb der letzten 30\nMonate vor der Arbeitslosmeldung (Rahmenfrist). Für Beschäftigte mit überwiegend kurzbefristeten Arbeitsverhältnissen\n(jeweils bis zu 14 Wochen) gilt unter zusätzlichen Voraussetzungen eine verkürzte Anwartschaftszeit von 6 Monaten.</p>\n<h3>Höhe (§ 149 SGB III)</h3>\n<p>Das Arbeitslosengeld I beträgt 60 % des pauschalierten Nettoentgelts (Leistungsentgelt) aus dem\nBemessungszeitraum, bzw. 67 %, wenn Sie mindestens ein kindergeldberechtigtes Kind haben.</p>\n<h3>Dauer (§ 147 SGB III)</h3>\n<p>Die Bezugsdauer staffelt sich nach der Versicherungszeit innerhalb der erweiterten Rahmenfrist und – ab\nVollendung des 50. Lebensjahres – zusätzlich nach dem Alter. Als grobe Orientierung (im Gesetzestext im Detail\nnachzulesen, da Verwaltungspraxis und Sekundärquellen hier leicht abweichende Formulierungen verwenden): 12 Monate\nVersicherungszeit führen zu 6 Monaten Bezug, 16 zu 8, 20 zu 10 und 24 Monate Versicherungszeit zur\nRegel-Höchstdauer von 12 Monaten ohne Altersbonus; mit 50 Jahren und 30 Monaten Versicherungszeit sind bis zu 15\nMonate möglich, mit 55 Jahren und 36 Monaten bis zu 18 Monate, mit 58 Jahren und 48 Monaten bis zu 24 Monate\n(Höchstdauer). <strong>Da automatisierte Auswertungen des Gesetzestextes hier uneinheitliche Werte lieferten, sollte\ndie für den Einzelfall geltende Dauer stets im Originaltext des § 147 SGB III oder direkt bei der Agentur für Arbeit\nverifiziert werden, bevor sie verbindlich kommuniziert wird.</strong></p>\n<h3>Sperrzeit (§ 159 SGB III)</h3>\n<p>Bei versicherungswidrigem Verhalten – etwa Eigenkündigung oder Aufhebungsvertrag ohne wichtigen Grund, Ablehnung\neiner zumutbaren Beschäftigung oder Ablehnung einer Eingliederungsmaßnahme – tritt eine Sperrzeit ein. Regeldauer bei\nLösung des Beschäftigungsverhältnisses: 12 Wochen; Verkürzung auf 3 Wochen, wenn das Beschäftigungsverhältnis\nohnehin innerhalb von 6 Wochen geendet hätte, bzw. auf 6 Wochen bei Beendigung innerhalb von 12 Wochen oder bei\nbesonderer Härte. Die Sperrzeit mindert zugleich die Gesamtanspruchsdauer.</p>\n<h3>Verhältnis zu Grundsicherungsgeld</h3>\n<p>Arbeitslosengeld I und Grundsicherungsgeld schließen sich nicht gegenseitig aus: Reicht das Arbeitslosengeld I\nnicht zur Existenzsicherung der Bedarfsgemeinschaft, kann ergänzend Grundsicherungsgeld beantragt werden; das\nArbeitslosengeld I wird dabei als Einkommen angerechnet (Nachrangprinzip, § 5 SGB II).</p>\n",
+   "zustaendig": [
+    "Agentur für Arbeit"
+   ],
+   "belege": [
+    "§§ 38, 142, 147, 149, 159 SGB III (gesetze-im-internet.de)",
+    "§ 5 SGB II (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "rechte-und-pflichten-ueberblick",
+    "buergergeld-beantragen",
+    "krankenversicherung-arbeitslosigkeit"
+   ],
+   "stand": "Stand: September 2026 (Rechtsstand seit 1. Juli 2026, 13. SGB-II-Änderungsgesetz, BGBl. 2026 I Nr. 107)."
+  },
+  {
+   "id": "eingliederungsvereinbarung",
+   "kategorie": "jobcenter",
+   "titel": "Kooperationsplan (frühere Eingliederungsvereinbarung)",
+   "icon": "🤝",
+   "teaser": "Seit 2023 heißt die Vereinbarung mit dem Jobcenter „Kooperationsplan“, nicht mehr „Eingliederungsvereinbarung“ – und ist kein Verwaltungsakt.",
+   "schlagworte": [
+    "Kooperationsplan",
+    "Eingliederungsvereinbarung",
+    "Potenzialanalyse",
+    "§ 15 SGB II",
+    "Verwaltungsakt",
+    "Mitwirkungspflicht"
+   ],
+   "kurz_html": "\n<p>Viele suchen noch nach „Eingliederungsvereinbarung“ – dieses Instrument heißt seit dem Bürgergeld-Gesetz (1.1.2023)\n„Kooperationsplan“ und ist rechtlich in § 15 SGB II geregelt. Er wird gemeinsam mit Ihrer Ansprechperson im Jobcenter\nauf Grundlage einer Potenzialanalyse erarbeitet, hält Ziele und gegenseitige Zusagen fest und wird bei Bedarf\nfortgeschrieben. Anders als früher ist der Kooperationsplan grundsätzlich kein Verwaltungsakt, gegen den man\nWiderspruch einlegt – er kommt im Idealfall im Konsens zustande.</p>\n",
+   "schritte": [
+    {
+     "titel": "Potenzialanalyse",
+     "text": "Gemeinsam mit dem Jobcenter werden Ihre Stärken, Qualifikationen und Vermittlungshemmnisse erfasst."
+    },
+    {
+     "titel": "Ziele festlegen",
+     "text": "Sie und das Jobcenter halten fest, was Sie unternehmen (z. B. Bewerbungen, Kurse) und was das Jobcenter dafür leistet (z. B. Vermittlung, Kostenübernahme)."
+    },
+    {
+     "titel": "Kooperationsplan unterschreiben oder Einwände vorbringen",
+     "text": "Sie können Bedenken zu einzelnen Punkten äußern; kommt keine Einigung zustande, kann das Jobcenter Inhalte durch Verwaltungsakt festlegen."
+    },
+    {
+     "titel": "Regelmäßig überprüfen",
+     "text": "Der Kooperationsplan wird in der Regel alle 6 Monate gemeinsam überprüft und fortgeschrieben."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "i. d. R. 6 Monate",
+     "was": "Regelmäßige Überprüfung und Fortschreibung des Kooperationsplans",
+     "grundlage": "§ 15 Abs. 3 SGB II"
+    }
+   ],
+   "achtung": [
+    "Auch wenn der Kooperationsplan selbst meist kein Verwaltungsakt ist: Einzelne Pflichten (z. B. eine Meldeaufforderung oder eine Eingliederungsmaßnahme) können als eigenständiger Verwaltungsakt festgelegt werden und sind dann eigenständig mit Widerspruch angreifbar.",
+    "Ob die Reform 2026 den Kooperationsplan verbindlicher gemacht hat, wird in der Praxis diskutiert; eine förmliche Rückkehr zum Verwaltungsakt-Charakter ist im Gesetzestext nicht bestätigt – lassen Sie sich im Zweifel den genauen Rechtscharakter der konkreten Vereinbarung erklären.",
+    "Nichterscheinen zu Terminen rund um den Kooperationsplan kann unabhängig vom Vereinbarungscharakter als Meldeversäumnis sanktioniert werden."
+   ],
+   "fach_html": "\n<h3>Vom Verwaltungsakt zur Vereinbarung</h3>\n<p>Bis Ende 2022 wurde die Vereinbarung zwischen Jobcenter und leistungsberechtigter Person als „Eingliederungsvereinbarung“\nbezeichnet und war in der Praxis oft als Verwaltungsakt ausgestaltet. Mit dem Bürgergeld-Gesetz (in Kraft seit\n1.1.2023) wurde sie durch den kooperativ angelegten „Kooperationsplan“ ersetzt (§ 15 SGB II). Recherchen zum\nRechtsstand September 2026 bestätigen: Das Dreizehnte SGB-II-Änderungsgesetz (BGBl. 2026 I Nr. 107) hat § 15 SGB II\nin seiner Bezeichnung „Potenzialanalyse und Kooperationsplan“ nicht zurückbenannt und keine ausdrückliche\ngesetzliche Rückkehr zum Verwaltungsakt-Charakter vorgenommen.</p>\n<p>Presseberichte und Praxisstimmen deuten 2026 auf eine faktische Verschärfung des Pflichtcharakters hin; dies ist\nzum jetzigen Stand nicht anhand einer eindeutigen Gesetzesänderung verifiziert und wird hier deshalb ausdrücklich als\n<strong>umstritten / nicht amtlich bestätigt</strong> gekennzeichnet, statt als feststehende Rechtslage dargestellt.</p>\n<h3>Inhalt</h3>\n<p>Der Kooperationsplan hält u. a. fest: die Ziele der Eingliederung, die Bemühungen der leistungsberechtigten Person\n(z. B. Zahl und Art von Bewerbungen), die Leistungen des Jobcenters (z. B. Vermittlungsangebote, Kostenübernahme für\nBewerbungen oder Fahrten, Zugang zu Qualifizierung) sowie eine Verständigung über die Konsequenzen bei\nPflichtverletzungen.</p>\n<h3>Rechtsschutz</h3>\n<p>Da der Kooperationsplan selbst regelmäßig kein Verwaltungsakt ist, ist er grundsätzlich nicht isoliert mit\nWiderspruch angreifbar. Wird jedoch eine konkrete Pflicht (z. B. Teilnahme an einer bestimmten Maßnahme) per\neigenständigem Verwaltungsakt festgelegt, weil keine Einigung erzielt wurde, gelten dafür die normalen\nRechtsbehelfsfristen (Widerspruch binnen eines Monats, § 84 SGG).</p>\n",
+   "zustaendig": [
+    "Jobcenter, persönliche Ansprechperson (Integration Point / Fallmanagement)"
+   ],
+   "belege": [
+    "§ 15 SGB II (gesetze-im-internet.de)",
+    "§ 84 SGG (gesetze-im-internet.de)",
+    "BGBl. 2026 I Nr. 107 vom 22.04.2026 (recht.bund.de) – keine Änderung der Überschrift von § 15 SGB II festgestellt"
+   ],
+   "siehe_auch": [
+    "sanktionen-pflichtverletzungen",
+    "widerspruch-jobcenter",
+    "rechte-und-pflichten-ueberblick"
+   ],
+   "stand": "Stand: September 2026 (Rechtsstand seit 1. Juli 2026, 13. SGB-II-Änderungsgesetz, BGBl. 2026 I Nr. 107)."
+  },
+  {
+   "id": "sanktionen-pflichtverletzungen",
+   "kategorie": "jobcenter",
+   "titel": "Sanktionen und Pflichtverletzungen",
+   "icon": "⚠️",
+   "teaser": "Seit 1. Juli 2026 gilt ein einheitlicher Kürzungssatz von 30 % statt des früheren Stufenmodells – bei Arbeitsverweigerung droht der volle Wegfall des Regelbedarfs.",
+   "schlagworte": [
+    "Sanktion",
+    "Pflichtverletzung",
+    "§ 31a SGB II",
+    "§ 32 SGB II",
+    "Meldeversäumnis",
+    "Minderung",
+    "Härtefall"
+   ],
+   "kurz_html": "\n<p>Wenn Sie eine Pflicht aus dem Grundsicherungsgeld-Bezug verletzen – etwa eine zumutbare Arbeit ohne wichtigen Grund\nablehnen, eine Maßnahme abbrechen oder einen Termin ohne wichtigen Grund versäumen – kann das Jobcenter Ihre Leistung\nkürzen. Seit der Reform zum 1. Juli 2026 gibt es kein Stufenmodell mit steigenden Prozentsätzen mehr, sondern\neinheitlich <strong>30 % Kürzung des Regelbedarfs für drei Monate</strong>. Lehnen Sie eine zumutbare Arbeit bewusst\nund ohne wichtigen Grund ab, entfällt der Regelbedarf; die Minderung wird aufgehoben, sobald die Arbeitsaufnahme nicht mehr möglich ist, frühestens nach einem, spätestens nach zwei Monaten (§ 31b Abs. 3 SGB II). Ausgezahlt wird dann nur noch 1 Euro pro Monat, laut Gesetzesbegründung damit Ihr Kranken- und Pflegeversicherungsschutz erhalten bleibt. Die Kosten der Unterkunft\ndürfen dabei nie gekürzt werden.</p>\n",
+   "schritte": [
+    {
+     "titel": "Anhörung wahrnehmen",
+     "text": "Bevor das Jobcenter kürzt, muss es Sie anhören. Nutzen Sie die Gelegenheit, einen wichtigen Grund (Krankheit, Betreuungsprobleme, Unzumutbarkeit) darzulegen und zu belegen."
+    },
+    {
+     "titel": "Wichtigen Grund nachweisen",
+     "text": "Legen Sie Nachweise vor (z. B. ärztliches Attest, Nachweis über Kinderbetreuung) – ein rechtzeitig und plausibel dargelegter wichtiger Grund verhindert die Minderung."
+    },
+    {
+     "titel": "Bescheid prüfen",
+     "text": "Der Kürzungsbescheid muss die Pflichtverletzung, den Kürzungssatz und die Dauer konkret benennen."
+    },
+    {
+     "titel": "Pflicht nachträglich erfüllen",
+     "text": "Erklären Sie sich nachträglich zur Mitwirkung bereit oder erfüllen Sie die Pflicht, kann die Minderung vorzeitig enden."
+    },
+    {
+     "titel": "Härtefall geltend machen",
+     "text": "Bei außergewöhnlicher Härte (z. B. Schwangerschaft, schwere Erkrankung) kann das Jobcenter von einer vollständigen Kürzung absehen oder ergänzende Sachleistungen prüfen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "3 Monate",
+     "was": "Regeldauer einer Minderung ab dem Monat nach Bekanntgabe des Bescheids",
+     "grundlage": "§ 31b Abs. 2 Satz 1 SGB II"
+    },
+    {
+     "wert": "30 %",
+     "was": "Einheitliche Kürzung des Regelbedarfs bei erster und weiterer Pflichtverletzung (kein Stufenmodell mehr)",
+     "grundlage": "§ 31a Abs. 1 SGB II n. F."
+    },
+    {
+     "wert": "1 Monat",
+     "was": "Kürzung um 30 % bei wiederholtem Meldeversäumnis ohne wichtigen Grund",
+     "grundlage": "§ 32 Abs. 1, Abs. 2 SGB II"
+    },
+    {
+     "wert": "1 Monat",
+     "was": "Widerspruchsfrist gegen den Minderungsbescheid",
+     "grundlage": "§ 84 SGG"
+    }
+   ],
+   "achtung": [
+    "Erst ein wiederholtes unentschuldigtes Fernbleiben löst die Minderung wegen Meldeversäumnis aus – melden Sie Verhinderungen trotzdem vorher.",
+    "Die 30-%-Kürzung betrifft den Regelbedarf; die Kosten der Unterkunft und Heizung dürfen laut Gesetz nicht gekürzt werden – wird das dennoch getan, sollten Sie das prüfen lassen.",
+    "Beim vollständigen Wegfall des Regelbedarfs wegen Arbeitsverweigerung bleibt nur der 1-Euro-Betrag (§ 31a Abs. 4 Satz 3 SGB II), laut Gesetzesbegründung zur Sicherung der Kranken- und Pflegeversicherung – ob und in welchem Umfang daneben ergänzende Sachleistungen für Kinder im Haushalt gewährt werden, ist nicht bundeseinheitlich geregelt und sollte im Einzelfall beim Jobcenter erfragt werden.",
+    "Eine Sanktion ist ein eigener Verwaltungsakt und kann eigenständig mit Widerspruch angefochten werden – auch wenn der zugrunde liegende Kooperationsplan selbst kein Verwaltungsakt ist."
+   ],
+   "fach_html": "\n<h3>Pflichtverletzungstatbestände (§ 31 SGB II)</h3>\n<p>Als Pflichtverletzung gelten insbesondere: fehlende Eigenbemühungen oder deren fehlender Nachweis, die Ablehnung\noder Vereitelung einer zumutbaren Arbeit, Ausbildung oder Eingliederungsmaßnahme, der Abbruch einer solchen Maßnahme\noder eines Integrations-/Sprachkurses, eine rechtsmissbräuchliche Minderung von Einkommen oder Vermögen sowie\nunwirtschaftliches Verhalten trotz vorheriger Belehrung über die Rechtsfolgen.</p>\n<h3>Rechtsfolgen (§ 31a SGB II n. F.)</h3>\n<p>Seit 1.7.2026 gilt: Eine Pflichtverletzung führt zu einer einheitlichen Minderung des Regelbedarfs um 30 % für\ndrei Monate (kein gestuftes Modell mit 10/20/30 % mehr). Wird eine zumutbare Arbeit, Ausbildung oder Beschäftigung\nbewusst und ohne wichtigen Grund abgelehnt, entfällt der Regelbedarf vollständig; die Minderung wird aufgehoben, sobald die Arbeitsaufnahme nicht mehr möglich ist, frühestens nach einem, spätestens nach zwei Monaten (§ 31b Abs. 3 SGB II). Ein Betrag von 1 Euro monatlich wird weiter ausgezahlt (§ 31a Abs. 4 Satz 3 SGB II), laut Gesetzesbegründung zur Erhaltung der Kranken- und Pflegeversicherungspflicht. Die Kosten der Unterkunft\nund Heizung bleiben von jeder Minderung unberührt und werden – ggf. auf Antrag als Direktzahlung an Vermieter oder\nEnergieversorger – weitergezahlt. Bei außergewöhnlicher Härte kann von einer Minderung ganz oder teilweise abgesehen\nwerden.</p>\n<h3>Meldeversäumnis (§ 32 SGB II)</h3>\n<p>Kommt eine leistungsberechtigte Person einer Meldeaufforderung oder einem Untersuchungstermin ohne wichtigen\nGrund nicht nach, mindert sich der Regelbedarf bei wiederholtem Versäumnis um 30 % (§ 32 Abs. 1, 2 SGB II; Dauer nach § 31b SGB II).</p>\n<h3>Anhörung</h3>\n<p>Vor jeder Minderung ist die leistungsberechtigte Person anzuhören. Eine persönliche Anhörung soll insbesondere bei\nAnhaltspunkten für eine psychische Erkrankung sowie ab dem dritten aufeinanderfolgenden Meldeversäumnis erfolgen.</p>\n<h3>Beendigung der Minderung</h3>\n<p>Erklärt sich die betroffene Person nachträglich ernsthaft zur Erfüllung ihrer Pflichten bereit bzw. erfüllt sie\ndiese, kann die Minderung vorzeitig enden.</p>\n<h3>Offene Punkte</h3>\n<p>Ob und in welcher Form Familien mit Kindern während einer vollständigen Kürzung automatisch ergänzende\nSachleistungen erhalten, ließ sich anhand der verfügbaren Primärquellen nicht eindeutig bestätigen; dies wird hier\nausdrücklich als ungeklärt gekennzeichnet, statt einen Anspruch zu behaupten. Fragen Sie im Einzelfall aktiv beim\nJobcenter oder einer Schuldner-/Sozialberatungsstelle nach.</p>\n",
+   "zustaendig": [
+    "Jobcenter"
+   ],
+   "belege": [
+    "§§ 31, 31a, 31b, 32 SGB II (gesetze-im-internet.de)",
+    "§ 84 SGG (gesetze-im-internet.de)",
+    "BA Fachliche Weisungen §§ 31, 31a, 31b SGB II, Stand 01.07.2026 (arbeitsagentur.de)"
+   ],
+   "siehe_auch": [
+    "eingliederungsvereinbarung",
+    "widerspruch-jobcenter",
+    "beratung-anlaufstellen"
+   ],
+   "stand": "Stand: September 2026 (Rechtsstand seit 1. Juli 2026, 13. SGB-II-Änderungsgesetz, BGBl. 2026 I Nr. 107)."
+  },
+  {
+   "id": "kosten-der-unterkunft",
+   "kategorie": "geld",
+   "titel": "Kosten der Unterkunft und Heizung",
+   "icon": "🏠",
+   "teaser": "In den ersten 12 Monaten (Karenzzeit) übernimmt das Jobcenter Ihre tatsächliche Miete nur bis zum 1,5-Fachen der Angemessenheitsgrenze – danach gilt die kommunale Angemessenheitsgrenze.",
+   "schlagworte": [
+    "Kosten der Unterkunft",
+    "Karenzzeit",
+    "Angemessenheit",
+    "Mietschulden",
+    "§ 22 SGB II",
+    "Schlüssiges Konzept"
+   ],
+   "kurz_html": "\n<p>Neben dem Regelbedarf übernimmt das Jobcenter „Kosten der Unterkunft und Heizung“ (KdU) in tatsächlicher Höhe – mit\nEinschränkungen. Im ersten Jahr Ihres Leistungsbezugs (Karenzzeit) gilt Ihre tatsächliche Miete als angemessen, ohne dass das Jobcenter die Wohnungsgröße oder den Quadratmeterpreis prüft – seit 1.7.2026 aber nur bis zum 1,5-Fachen des als angemessen geltenden Betrags (§ 22 Abs. 1 Satz 5 SGB II). Erst danach greift eine kommunale\nAngemessenheitsgrenze, die sich am „schlüssigen Konzept“ Ihrer Kommune orientiert.</p>\n",
+   "schritte": [
+    {
+     "titel": "Mietvertrag einreichen",
+     "text": "Legen Sie beim Antrag den vollständigen Mietvertrag mit Kaltmiete, Nebenkosten und Heizkosten vor."
+    },
+    {
+     "titel": "Karenzzeit nutzen",
+     "text": "In den ersten 12 Monaten wird Ihre tatsächliche Miete bis zum 1,5-Fachen der Angemessenheitsgrenze übernommen – Umzüge in dieser Zeit sind nicht nötig, um Kosten zu sparen."
+    },
+    {
+     "titel": "Kostensenkungsaufforderung ernst nehmen",
+     "text": "Nach Ablauf der Karenzzeit kann das Jobcenter Sie schriftlich auffordern, die Kosten zu senken (z. B. durch Umzug oder Untervermietung), wenn Ihre Miete über der örtlichen Angemessenheitsgrenze liegt."
+    },
+    {
+     "titel": "Mietschulden melden",
+     "text": "Drohen Ihnen wegen Mietschulden Kündigung oder Räumung, wenden Sie sich sofort ans Jobcenter – eine Übernahme als Darlehen ist möglich, wenn dies zur Sicherung der Unterkunft gerechtfertigt und notwendig ist."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "12 Monate",
+     "was": "Karenzzeit: tatsächliche Miete wird nur bis zum 1,5-Fachen der Angemessenheitsgrenze übernommen",
+     "grundlage": "§ 22 Abs. 1 Satz 3 SGB II"
+    },
+    {
+     "wert": "3 Jahre",
+     "was": "Nach einer Unterbrechung des Leistungsbezugs von mindestens 1 Monat beginnt eine neue Karenzzeit erst nach 3 Jahren ohne Leistungsbezug",
+     "grundlage": "§ 22 SGB II"
+    },
+    {
+     "wert": "1,5-fach",
+     "was": "Gesetzliche Obergrenze, auch während der Karenzzeit (Faktor auf den Angemessenheitswert)",
+     "grundlage": "§ 22 Abs. 1 Satz 5 SGB II"
+    }
+   ],
+   "achtung": [
+    "Die Karenzzeit für die Miete (12 Monate) ist etwas anderes als die Vermögensprüfung – verwechseln Sie beides nicht: Ihr Vermögen wird unabhängig davon sofort nach dem neuen, altersgestaffelten Schonvermögen geprüft.",
+    "„Angemessen“ ist keine bundeseinheitliche Zahl, sondern richtet sich nach dem „schlüssigen Konzept“ Ihrer Kommune – lassen Sie sich die für Ihren Ort geltenden Werte konkret nennen, statt sich auf pauschale Aussagen aus dem Internet zu verlassen.",
+    "Eine Mietschuldenübernahme ist eine „Soll“-Leistung, kein automatischer Anspruch – sie wird vorrangig als Darlehen gewährt, und eigenes Vermögen ist vorrangig einzusetzen.",
+    "Nach Ablauf der Karenzzeit kann bei Unabweisbarkeit (z. B. Behinderung, viele Kinder) auch eine über der Angemessenheitsgrenze liegende Miete weiter übernommen werden – das ist keine automatische Regel, sondern eine Einzelfallprüfung."
+   ],
+   "fach_html": "\n<h3>Karenzzeit (§ 22 Abs. 1 Satz 3 SGB II)</h3>\n<p>Für die Dauer von zwölf Monaten ab Beginn des ersten Bewilligungszeitraums werden die tatsächlichen\nAufwendungen für die Unterkunft in voller Höhe anerkannt, unabhängig von ihrer Angemessenheit – seit 1.7.2026 jedoch nur bis zum 1,5-Fachen des als angemessen geltenden Betrags (§ 22 Abs. 1 Satz 5 SGB II). Diese Regelung ist\nvon der Vermögensreform 2026 unberührt geblieben – Miet-Karenzzeit und Vermögensfreibetrag sind zwei getrennte\nRegelungen mit unterschiedlichen Voraussetzungen und sollten nicht verwechselt werden. Eine Unterbrechung des\nLeistungsbezugs von mindestens einem Monat führt dazu, dass eine erneute Karenzzeit erst nach drei Jahren ohne\nLeistungsbezug wieder zu laufen beginnt.</p>\n<h3>Nach der Karenzzeit: schlüssiges Konzept</h3>\n<p>Nach Ablauf der Karenzzeit werden nur noch angemessene Kosten übernommen. Was angemessen ist, ermittelt die\njeweilige Kommune anhand eines „schlüssigen Konzepts“ (z. B. Mietspiegel, Wohnungsmarktanalyse). Bis zum\nErreichen der neuen, niedrigeren Angemessenheitsgrenze gilt regelmäßig eine Übergangsfrist von sechs Monaten; die 1,5-fache Angemessenheitsgrenze gilt nach § 22 Abs. 1 Satz 5 SGB II als gesetzliche Obergrenze bereits während der Karenzzeit. Bei Unzumutbarkeit\neines Umzugs (z. B. hohes Alter, Behinderung, minderjährige Kinder mit sozialem Umfeld) kann die tatsächliche\nMiete dauerhaft weiter übernommen werden.</p>\n<h3>Mietschulden (§ 22 Abs. 8 SGB II)</h3>\n<p>Schulden, die zur Sicherung der Unterkunft gerechtfertigt sind (drohende Wohnungslosigkeit) und deren Übernahme\nnotwendig ist, sollen übernommen werden – vorrangig als Darlehen. Vorhandenes eigenes Vermögen ist vorrangig\neinzusetzen. Zuständig für die Bewilligung ist regelmäßig das Jobcenter, teils in Abstimmung mit kommunalen Stellen\nder Wohnungsnotfallhilfe.</p>\n",
+   "zustaendig": [
+    "Jobcenter"
+   ],
+   "belege": [
+    "§ 22 SGB II (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "buergergeld-beantragen",
+    "vermoegen-schonvermoegen",
+    "schulden-und-insolvenz"
+   ],
+   "stand": "Stand: September 2026 (Rechtsstand seit 1. Juli 2026, 13. SGB-II-Änderungsgesetz, BGBl. 2026 I Nr. 107)."
+  },
+  {
+   "id": "vermoegen-schonvermoegen",
+   "kategorie": "geld",
+   "titel": "Vermögen und Schonvermögen",
+   "icon": "💰",
+   "teaser": "Seit 1. Juli 2026 gilt ein nach Lebensalter gestaffeltes Schonvermögen statt der früheren einheitlichen Karenzzeit fürs Vermögen.",
+   "schlagworte": [
+    "Schonvermögen",
+    "Vermögensfreibetrag",
+    "§ 12 SGB II",
+    "Altersstaffel",
+    "Angemessenes Kraftfahrzeug",
+    "Selbstgenutzte Immobilie"
+   ],
+   "kurz_html": "\n<p>Grundsicherungsgeld gibt es nur, wenn Ihr verwertbares Vermögen bestimmte Freibeträge nicht übersteigt. Bis 30.\nJuni 2026 galt für neue Leistungsbeziehende zunächst eine einjährige Karenzzeit, in der praktisch nur „erhebliches“\nVermögen geprüft wurde. Seit 1. Juli 2026 ist diese Karenzzeit für das Vermögen entfallen; stattdessen gilt sofort\nein fester, nach Ihrem Lebensalter gestaffelter Freibetrag pro Person in Ihrer Bedarfsgemeinschaft.</p>\n",
+   "schritte": [
+    {
+     "titel": "Vermögen auflisten",
+     "text": "Erfassen Sie Bankguthaben, Bausparverträge, Wertpapiere, Bargeld, Fahrzeuge und Immobilien, die nicht selbst bewohnt werden."
+    },
+    {
+     "titel": "Freibetrag nach Alter ermitteln",
+     "text": "Prüfen Sie, welcher Freibetrag für Ihr Alter gilt, und rechnen Sie die Freibeträge aller Personen der Bedarfsgemeinschaft zusammen."
+    },
+    {
+     "titel": "Geschütztes Vermögen prüfen",
+     "text": "Ein selbstgenutztes angemessenes Hausgrundstück oder eine entsprechende Eigentumswohnung sowie ein angemessenes Kraftfahrzeug je erwerbsfähiger Person sind unabhängig vom Freibetrag grundsätzlich geschützt."
+    },
+    {
+     "titel": "Überschüssiges Vermögen verwerten oder erklären",
+     "text": "Übersteigt Ihr Vermögen den Freibetrag, müssen Sie es grundsätzlich vor Leistungsbeginn einsetzen – legen Sie dem Jobcenter dar, welches Vermögen wie verwertbar ist."
+    },
+    {
+     "titel": "Härtefall geltend machen",
+     "text": "Wäre eine sofortige Verwertung offensichtlich unwirtschaftlich oder für Sie eine besondere Härte, weisen Sie das Jobcenter aktiv darauf hin."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "5.000 €",
+     "was": "Vermögensfreibetrag je Person der Bedarfsgemeinschaft bis zum vollendeten 30. Lebensjahr",
+     "grundlage": "§ 12 Abs. 2 SGB II n. F."
+    },
+    {
+     "wert": "10.000 €",
+     "was": "Freibetrag ab Vollendung des 31. Lebensjahres",
+     "grundlage": "§ 12 Abs. 2 SGB II n. F."
+    },
+    {
+     "wert": "12.500 €",
+     "was": "Freibetrag ab Vollendung des 41. Lebensjahres",
+     "grundlage": "§ 12 Abs. 2 SGB II n. F."
+    },
+    {
+     "wert": "20.000 €",
+     "was": "Freibetrag ab Vollendung des 51. Lebensjahres",
+     "grundlage": "§ 12 Abs. 2 SGB II n. F."
+    }
+   ],
+   "achtung": [
+    "Verwechseln Sie die Vermögensprüfung nicht mit der 12-monatigen Karenzzeit für die Miete (§ 22 SGB II) – seit 1.7.2026 sind das zwei völlig getrennte Regelungen mit unterschiedlichen Fristen.",
+    "Der Begriff „erhebliches Vermögen“ und die früher kursierende Faustregel von rund 40.000 € für Alleinstehende bezogen sich auf die alte, bis 30.6.2026 geltende Karenzzeit-Regelung und gelten seit der Reform 2026 nicht mehr unverändert weiter.",
+    "Was ein „angemessenes“ Kraftfahrzeug ist, ist nicht als fester Euro-Betrag im Gesetz genannt, sondern wird anhand von Sozialgerichtsurteilen im Einzelfall beurteilt – verlassen Sie sich nicht auf eine einzelne im Internet kursierende Zahl.",
+    "Vermögen, das Sie kurz vor der Antragstellung verschenken oder verschleudern, kann als „Vermögensminderung zur Herbeiführung der Hilfebedürftigkeit“ gewertet werden und zu einer Sanktion führen."
+   ],
+   "fach_html": "\n<h3>Die Reform zum 1. Juli 2026</h3>\n<p>Bis 30.6.2026 galt nach dem Bürgergeld-Gesetz eine einjährige Karenzzeit, während der beim Vermögen nur eine\nPrüfung auf „erhebliches Vermögen“ stattfand; erst danach griff ein einheitlicher Vermögensfreibetrag von 15.000 €\npro Person. Das Dreizehnte Gesetz zur Änderung des SGB II (BGBl. 2026 I Nr. 107) hat diese Karenzzeit für das\nVermögen zum 1.7.2026 abgeschafft und durch feste, nach Lebensalter gestaffelte Freibeträge ersetzt (§ 12 Abs. 2\nSGB II n. F.): 5.000 € bis zum vollendeten 30. Lebensjahr, 10.000 € ab dem 31., 12.500 € ab dem 41. und 20.000 € ab\ndem 51. Lebensjahr – jeweils je Person der Bedarfsgemeinschaft, die Freibeträge werden addiert.</p>\n<h3>Geschütztes Vermögen unabhängig vom Freibetrag</h3>\n<p>Daneben bleiben – wie schon vor der Reform – bestimmte Vermögenswerte grundsätzlich geschützt: ein\nselbstgenutztes angemessenes Hausgrundstück bzw. eine entsprechende Eigentumswohnung, ein angemessenes\nKraftfahrzeug je erwerbsfähiger Person in der Bedarfsgemeinschaft sowie Vermögen, das der Altersvorsorge dient und\nvertraglich vor dem Erreichen der Regelaltersgrenze nicht verwertet werden kann. Was im Einzelfall „angemessen“ ist,\nwird nicht durch eine feste gesetzliche Zahl bestimmt, sondern durch die Rechtsprechung der Sozialgerichte\nkonkretisiert; pauschale Eurobeträge aus Ratgeberportalen sind insoweit mit Vorsicht zu behandeln.</p>\n<h3>Verwertung und Härtefall</h3>\n<p>Übersteigendes Vermögen ist grundsätzlich vor Leistungsbeginn einzusetzen. Wäre die Verwertung offensichtlich\nunwirtschaftlich (deutlich unter Wert) oder für die betroffene Person eine besondere Härte, kann davon abgesehen\nwerden; in diesem Fall kommt ggf. eine darlehensweise Leistung in Betracht.</p>\n",
+   "zustaendig": [
+    "Jobcenter"
+   ],
+   "belege": [
+    "§ 12 SGB II (gesetze-im-internet.de)",
+    "BA Fachliche Weisungen § 12 SGB II, Stand 01.07.2026 (arbeitsagentur.de)",
+    "BGBl. 2026 I Nr. 107 vom 22.04.2026 (recht.bund.de)"
+   ],
+   "siehe_auch": [
+    "kosten-der-unterkunft",
+    "buergergeld-beantragen",
+    "hinzuverdienst"
+   ],
+   "stand": "Stand: September 2026 (Rechtsstand seit 1. Juli 2026, 13. SGB-II-Änderungsgesetz, BGBl. 2026 I Nr. 107)."
+  },
+  {
+   "id": "hinzuverdienst",
+   "kategorie": "geld",
+   "titel": "Hinzuverdienst beim Grundsicherungsgeld",
+   "icon": "➕",
+   "teaser": "Wer zum Grundsicherungsgeld dazuverdient, darf einen Teil davon behalten – gestaffelt nach Höhe des Einkommens.",
+   "schlagworte": [
+    "Hinzuverdienst",
+    "Freibetrag",
+    "Grundfreibetrag",
+    "Minijob",
+    "§ 11b SGB II",
+    "Erwerbstätigenfreibetrag"
+   ],
+   "kurz_html": "\n<p>Wenn Sie neben dem Grundsicherungsgeld arbeiten, wird Ihr Einkommen nicht in voller Höhe angerechnet. Ein\nGrundfreibetrag und gestaffelte Prozentsätze sorgen dafür, dass sich Arbeit finanziell lohnt: Je mehr Sie verdienen,\ndesto geringer wird der Anteil, den Sie zusätzlich behalten dürfen – aber Sie haben immer mehr insgesamt zur\nVerfügung als ohne Erwerbstätigkeit.</p>\n",
+   "schritte": [
+    {
+     "titel": "Einkommen melden",
+     "text": "Teilen Sie dem Jobcenter jede Aufnahme einer Beschäftigung und die Höhe des Verdienstes unverzüglich mit."
+    },
+    {
+     "titel": "Freibeträge berechnen lassen",
+     "text": "Das Jobcenter berechnet den anrechnungsfreien Anteil anhand der gesetzlichen Staffel; lassen Sie sich die Berechnung im Bescheid erklären."
+    },
+    {
+     "titel": "Belege einreichen",
+     "text": "Reichen Sie Lohnabrechnungen oder Gewerbeeinnahmen-Nachweise regelmäßig ein, damit die Leistung korrekt berechnet wird."
+    },
+    {
+     "titel": "Änderungen sofort mitteilen",
+     "text": "Steigt oder sinkt Ihr Einkommen, melden Sie das umgehend – zu spät gemeldete Änderungen können zu Rückforderungen führen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "100 €",
+     "was": "Grundfreibetrag: bleibt vollständig anrechnungsfrei",
+     "grundlage": "§ 11b Abs. 1 SGB II"
+    },
+    {
+     "wert": "20 %",
+     "was": "Anrechnungsfreier Anteil vom Bruttoeinkommen zwischen 100 € und 520 €",
+     "grundlage": "§ 11b Abs. 3 SGB II"
+    },
+    {
+     "wert": "30 %",
+     "was": "Anrechnungsfreier Anteil vom Bruttoeinkommen zwischen 520 € und 1.000 €",
+     "grundlage": "§ 11b Abs. 3 SGB II"
+    },
+    {
+     "wert": "10 %",
+     "was": "Anrechnungsfreier Anteil zwischen 1.000 € und 1.200 € (bzw. 1.500 € mit minderjährigem Kind im Haushalt)",
+     "grundlage": "§ 11b Abs. 3 SGB II"
+    }
+   ],
+   "achtung": [
+    "Die Minijob-Grenze wurde zum 1.1.2026 an den erhöhten gesetzlichen Mindestlohn gekoppelt und liegt nach übereinstimmenden, aber nicht amtlich im Detail nachgeprüften Sekundärquellen bei rund 603 € monatlich – prüfen Sie den exakten, aktuell gültigen Betrag vor wichtigen Entscheidungen direkt bei der Minijob-Zentrale oder dem BMAS.",
+    "Auch ein Minijob-Einkommen wird nicht vollständig angerechnet, aber es zählt für die Berechnung des Freibetrags mit – Schwarzarbeit oder verschwiegenes Einkommen kann als Leistungsbetrug strafrechtlich verfolgt werden und führt zusätzlich zu Rückforderungen.",
+    "Wer mit minderjährigen Kindern im Haushalt lebt, profitiert von der höheren Freibetragsgrenze von 1.500 € statt 1.200 € – das wird nicht automatisch erkannt, sondern muss dem Jobcenter bekannt sein."
+   ],
+   "fach_html": "\n<h3>Berechnung nach § 11b SGB II</h3>\n<p>Vom Bruttoerwerbseinkommen bleiben zunächst 100 € vollständig anrechnungsfrei (Grundfreibetrag, der zugleich\nWerbungskosten, Versicherungsbeiträge u. Ä. pauschal abdeckt). Vom übersteigenden Einkommen bleiben weitere 20 %\nzwischen 100 € und 520 € sowie 30 % zwischen 520 € und 1.000 € anrechnungsfrei. Zwischen 1.000 € und 1.200 € (bzw.\n1.500 € bei mindestens einem minderjährigen Kind in der Bedarfsgemeinschaft) bleiben weitere 10 % anrechnungsfrei.\nNach den ausgewerteten Quellen hat die Reform zum 1.7.2026 diese Staffel unverändert gelassen.</p>\n<h3>Minijob-Grenze 2026</h3>\n<p>Die Minijob-Grenze ist gesetzlich an den Mindestlohn gekoppelt und wurde mit dessen Erhöhung zum 1.1.2026\nangepasst. Nach mehreren übereinstimmenden, aber sekundären Quellen liegt sie 2026 bei rund 603 € monatlich\n(7.236 € jährlich); dieser Wert konnte in dieser Recherche nicht unmittelbar an einer amtlichen Primärquelle\n(Minijob-Zentrale/BMAS) gegengeprüft werden und sollte vor einer verbindlichen Aussage im Einzelfall dort verifiziert\nwerden.</p>\n<h3>Verhältnis zur Sanktion</h3>\n<p>Wird Einkommen bewusst verschleiert oder Vermögen zur Herbeiführung von Hilfebedürftigkeit vermindert, kann dies\nals Pflichtverletzung sanktioniert werden und strafrechtliche Konsequenzen (Leistungsbetrug, § 263 StGB bzw.\nOrdnungswidrigkeit nach § 63 SGB II) nach sich ziehen.</p>\n",
+   "zustaendig": [
+    "Jobcenter"
+   ],
+   "belege": [
+    "§ 11b SGB II (gesetze-im-internet.de)",
+    "Minijob-Grenze 2026: Sekundärquellen (u. a. verdi.de, haufe.de), nicht amtlich einzeln verifiziert – vor Veröffentlichung bei Minijob-Zentrale/BMAS gegenprüfen"
+   ],
+   "siehe_auch": [
+    "vermoegen-schonvermoegen",
+    "kinderzuschlag-und-familie",
+    "ein-euro-jobs"
+   ],
+   "stand": "Stand: September 2026 (Rechtsstand seit 1. Juli 2026, 13. SGB-II-Änderungsgesetz, BGBl. 2026 I Nr. 107)."
+  },
+  {
+   "id": "kinderzuschlag-und-familie",
+   "kategorie": "geld",
+   "titel": "Kinderzuschlag und Familienleistungen",
+   "icon": "👨‍👩‍👧",
+   "teaser": "Wer als Familie mit eigenem Einkommen knapp über der Grundsicherungsschwelle liegt, kann statt oder ergänzend zum Grundsicherungsgeld Kinderzuschlag und das Bildungspaket erhalten.",
+   "schlagworte": [
+    "Kinderzuschlag",
+    "§ 6a BKGG",
+    "Bildungspaket",
+    "Kindergeld",
+    "Sofortzuschlag",
+    "Existenzminimum Kind"
+   ],
+   "kurz_html": "\n<p>Der Kinderzuschlag ist eine eigenständige Familienleistung der Familienkasse – für Eltern, die zwar für sich selbst\nsorgen können, deren Einkommen aber nicht für die ganze Familie reicht. Er kann Grundsicherungsgeld für die Kinder\nvermeiden oder ergänzen und ist unabhängig davon mit dem Bildungs- und Teilhabepaket kombinierbar, das zusätzliche\nKosten rund um Schule, Mittagessen und Freizeit abdeckt.</p>\n",
+   "schritte": [
+    {
+     "titel": "Mindesteinkommen prüfen",
+     "text": "Paare benötigen ein Bruttoeinkommen von mindestens 900 €, Alleinerziehende von mindestens 600 € monatlich, um überhaupt Kinderzuschlag beantragen zu können."
+    },
+    {
+     "titel": "Antrag bei der Familienkasse stellen",
+     "text": "Der Kinderzuschlag wird bei der Familienkasse der Bundesagentur für Arbeit beantragt, meist zusammen mit oder ergänzend zum Kindergeldantrag."
+    },
+    {
+     "titel": "Bildungspaket mitbeantragen",
+     "text": "Leistungen aus dem Bildungs- und Teilhabepaket (Schulbedarf, Mittagessen, Lernförderung, Ausflüge, Vereinsbeiträge) werden meist automatisch mitgeprüft, wenn Kinderzuschlag, Wohngeld oder Grundsicherungsgeld bezogen wird."
+    },
+    {
+     "titel": "Bewilligungszeitraum beachten",
+     "text": "Der Kinderzuschlag wird in der Regel für 6 Monate bewilligt und muss danach neu beantragt werden."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "bis 297 €",
+     "was": "Höchstbetrag des Kinderzuschlags je Kind und Monat (inklusive 25 € Sofortzuschlag)",
+     "grundlage": "§ 6a BKGG (Werte 2026)"
+    },
+    {
+     "wert": "900 € / 600 €",
+     "was": "Mindestbruttoeinkommen für Paare bzw. Alleinerziehende als Zugangsvoraussetzung",
+     "grundlage": "§ 9a BKGG"
+    },
+    {
+     "wert": "195 €/Jahr",
+     "was": "Schulbedarfspaket aus dem Bildungspaket, ausgezahlt in zwei Raten (Februar/August), ohne gesonderten Antrag",
+     "grundlage": "§ 28 SGB II / BMAS-Informationen zum Bildungspaket"
+    }
+   ],
+   "achtung": [
+    "Kinderzuschlag lohnt sich nur, wenn dadurch der gesamte Familienbedarf gedeckt wird oder zumindest kein Grundsicherungsgeld für die Kinder mehr nötig ist – lassen Sie im Zweifel eine Vergleichsberechnung durch die Familienkasse oder eine Beratungsstelle machen.",
+    "Die genauen Eurobeträge zum Kinderzuschlag und Bildungspaket für 2026 stammen überwiegend aus Sekundärquellen bzw. BMAS-Informationsseiten und sollten vor einer verbindlichen Zusage im Einzelfall direkt bei der Familienkasse gegengeprüft werden.",
+    "Der Kinderzuschlag entfällt nicht automatisch bei geringfügig höherem Einkommen – eine Besitzstandsregelung sorgt dafür, dass er nicht unter den zuletzt bewilligten Betrag des Vorjahres fällt."
+   ],
+   "fach_html": "\n<h3>Anspruch und Höhe (§ 6a BKGG)</h3>\n<p>Der Kinderzuschlag ergänzt das Kindergeld für Eltern, deren eigenes Einkommen zwar den eigenen Bedarf, nicht aber\nden der Kinder deckt. 2026 liegt der Höchstbetrag nach ausgewerteten Quellen bei bis zu 297 € je Kind und Monat\n(inklusive eines 2022 eingeführten „Sofortzuschlags“ von 25 €). Vom sächlichen Existenzminimum eines Kindes\n(2026 rund 6.696 € jährlich) werden das Kindergeld (259 €/Monat) und ein pauschaler Anteil für Bildung und Teilhabe\n(29 €/Monat) abgezogen; der verbleibende Betrag ist der maximale Kinderzuschlag. Eine Besitzstandsgarantie\nverhindert, dass der Zuschlag unter den zuletzt bewilligten Vorjahresbetrag fällt.</p>\n<h3>Mindesteinkommensgrenze (§ 9a BKGG)</h3>\n<p>Zugangsvoraussetzung ist ein Mindestbruttoeinkommen von 900 € für Paare bzw. 600 € für Alleinerziehende\nmonatlich; ohne dieses Mindesteinkommen verweist das System auf Grundsicherungsgeld statt Kinderzuschlag.</p>\n<h3>Bildungs- und Teilhabepaket</h3>\n<p>Unabhängig vom Bezug von Kinderzuschlag, Wohngeld oder Grundsicherungsgeld gibt es ergänzende Leistungen für\nSchulbedarf (zweimal jährlich, ohne gesonderten Antrag ausgezahlt), Mittagsverpflegung in Schule und Kita,\nLernförderung bei Versetzungsgefährdung, Schülerbeförderung sowie Ausflüge, Klassenfahrten und einen monatlichen\nZuschuss zu Vereins-, Musik- oder Freizeitangeboten. Die konkreten Eurobeträge stammen aus BMAS-Veröffentlichungen\nzum Bildungspaket und sollten vor Veröffentlichung noch einmal an der BMAS-Originalquelle gegengelesen werden, da\nsie sich jährlich ändern können.</p>\n",
+   "zustaendig": [
+    "Familienkasse der Bundesagentur für Arbeit (Kinderzuschlag)",
+    "Jobcenter oder Kommune (Bildungs- und Teilhabepaket)"
+   ],
+   "belege": [
+    "§ 6a, § 9a BKGG (gesetze-im-internet.de)",
+    "BMAS-Informationen zum Bildungs- und Teilhabepaket (bmas.de), Stand 2026 – Beträge vor Veröffentlichung erneut zu prüfen",
+    "§ 28 SGB II (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "hinzuverdienst",
+    "buergergeld-beantragen",
+    "beratung-anlaufstellen"
+   ],
+   "stand": "Stand: September 2026 (Rechtsstand seit 1. Juli 2026, 13. SGB-II-Änderungsgesetz, BGBl. 2026 I Nr. 107)."
+  },
+  {
+   "id": "krankenversicherung-arbeitslosigkeit",
+   "kategorie": "gesundheit",
+   "titel": "Krankenversicherung bei Arbeitslosigkeit",
+   "icon": "🩺",
+   "teaser": "Ob Arbeitslosengeld I oder Grundsicherungsgeld: In beiden Fällen sind Sie in der Regel weiter pflichtversichert – die Beiträge übernimmt jeweils der Leistungsträger.",
+   "schlagworte": [
+    "Krankenversicherung",
+    "Pflegeversicherung",
+    "§ 5 SGB V",
+    "Pflichtversicherung",
+    "Auffangversicherung"
+   ],
+   "kurz_html": "\n<p>Sie müssen sich bei Arbeitslosigkeit in Deutschland nicht selbst um Ihre Krankenversicherung kümmern, solange Sie\nArbeitslosengeld I oder Grundsicherungsgeld beziehen: In beiden Fällen sind Sie kraft Gesetzes pflichtversichert in\nder gesetzlichen Kranken- und Pflegeversicherung, und die Beiträge trägt die Bundesagentur für Arbeit\nbeziehungsweise der Bund. Wichtig wird es vor allem in den Lücken – etwa zwischen dem Ende einer Beschäftigung und\ndem Beginn einer Leistung.</p>\n",
+   "schritte": [
+    {
+     "titel": "Mitgliedschaft klären",
+     "text": "Bleiben Sie in der Regel bei Ihrer bisherigen gesetzlichen Krankenkasse pflichtversichert, sobald Sie Arbeitslosengeld I oder Grundsicherungsgeld beziehen."
+    },
+    {
+     "titel": "Lücken vermeiden",
+     "text": "Stellen Sie den jeweiligen Leistungsantrag möglichst nahtlos, damit keine Versicherungslücke entsteht."
+    },
+    {
+     "titel": "Bei Lücken freiwillig versichern oder Auffangversicherung prüfen",
+     "text": "Entsteht dennoch eine Lücke ohne anderweitigen Versicherungsschutz, sollten Sie umgehend Kontakt zu einer gesetzlichen Krankenkasse aufnehmen – seit 2007 besteht grundsätzlich eine Versicherungspflicht für alle in Deutschland lebenden Personen (Auffangversicherung)."
+    },
+    {
+     "titel": "Familienversicherung prüfen",
+     "text": "Leben Sie mit einem erwerbstätigen Ehe- oder Lebenspartner zusammen, kann unter Umständen eine beitragsfreie Familienversicherung möglich sein."
+    }
+   ],
+   "fristen": [],
+   "achtung": [
+    "Verlassen Sie sich nicht darauf, dass die Krankenkasse Sie automatisch informiert, wenn zwischen zwei Leistungen eine Lücke entsteht – melden Sie sich aktiv, sobald ein Bezug endet oder sich verzögert.",
+    "Die genaue Höhe des vom Bund bzw. von der Bundesagentur für Arbeit getragenen Krankenversicherungsbeitrags während des Grundsicherungsgeld- bzw. Arbeitslosengeld-I-Bezugs konnte in dieser Recherche nicht abschließend an einer einzelnen amtlichen Quelle mit Betrag verifiziert werden – für konkrete Beitragsfragen ist die zuständige Krankenkasse die richtige Anlaufstelle.",
+    "Privat Krankenversicherte müssen sich bei Arbeitslosigkeit selbst um die Fortführung ihres Vertrags kümmern; ein automatischer Wechsel in die gesetzliche Versicherung erfolgt nicht ohne Weiteres."
+   ],
+   "fach_html": "\n<h3>Pflichtversicherung während Grundsicherungsgeld-Bezug</h3>\n<p>Nach § 5 Abs. 1 Nr. 2a SGB V sind Personen, die laufend Grundsicherungsgeld nach § 19 Abs. 1 Satz 1 SGB II\nbeziehen, in der gesetzlichen Krankenversicherung pflichtversichert (bei entsprechender Vorversicherung\nüblicherweise über die zuletzt zuständige Krankenkasse). Die Beiträge trägt der Bund. Die genaue Ausgestaltung der\nBeitragshöhe wird durch gesonderte Verwaltungsvorgaben der Bundesagentur für Arbeit geregelt; ein konkreter,\nverifizierter Beitragssatz konnte im Rahmen dieser Recherche nicht mit ausreichender Sicherheit benannt werden und\nwird hier deshalb bewusst nicht beziffert.</p>\n<h3>Pflichtversicherung während Arbeitslosengeld I</h3>\n<p>Während des Bezugs von Arbeitslosengeld I trägt die Bundesagentur für Arbeit die Beiträge zur Kranken- und\nPflegeversicherung; die Mitgliedschaft in der zuletzt zuständigen gesetzlichen Krankenkasse setzt sich in der Regel\nfort.</p>\n<h3>Auffangversicherung</h3>\n<p>Seit der Gesundheitsreform 2007 gilt in Deutschland grundsätzlich eine allgemeine Krankenversicherungspflicht für\nalle Personen mit Wohnsitz im Inland. Wer keiner anderen Pflichtversicherung unterliegt und zuletzt gesetzlich\nversichert war, fällt regelmäßig automatisch in die gesetzliche Krankenversicherung zurück.</p>\n",
+   "zustaendig": [
+    "Gesetzliche Krankenkasse (Mitgliedschaft)",
+    "Jobcenter bzw. Agentur für Arbeit (Beitragstragung)"
+   ],
+   "belege": [
+    "§ 5 Abs. 1 Nr. 2a SGB V (gesetze-im-internet.de)",
+    "§ 19 Abs. 1 SGB II (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "buergergeld-beantragen",
+    "arbeitslosengeld-i"
+   ],
+   "stand": "Stand: September 2026 (Rechtsstand seit 1. Juli 2026, 13. SGB-II-Änderungsgesetz, BGBl. 2026 I Nr. 107)."
+  },
+  {
+   "id": "weiterbildung-umschulung",
+   "kategorie": "qualifizierung",
+   "titel": "Weiterbildung und Umschulung",
+   "icon": "🎓",
+   "teaser": "Bildungsgutschein, Umschulung und das Weiterbildungsgeld sollen die Aussichten auf dauerhafte Beschäftigung verbessern.",
+   "schlagworte": [
+    "Bildungsgutschein",
+    "Umschulung",
+    "Weiterbildungsgeld",
+    "§ 81 SGB III",
+    "§ 87a Abs. 2, 3 SGB III",
+    "AZAV"
+   ],
+   "kurz_html": "\n<p>Wenn eine Weiterbildung oder Umschulung Ihre Chancen auf dauerhafte Beschäftigung deutlich verbessert oder eine\nsonst drohende Arbeitslosigkeit verhindert, können Arbeitsagentur oder Jobcenter die Kosten übernehmen – meist über\neinen Bildungsgutschein für eine zertifizierte Maßnahme bei einem zugelassenen Träger. Wer eine abschlussbezogene\nWeiterbildung erfolgreich durchzieht, kann zusätzlich ein Weiterbildungsgeld erhalten.</p>\n",
+   "schritte": [
+    {
+     "titel": "Beratung wahrnehmen",
+     "text": "Lassen Sie sich vor jeder Weiterbildung von Ihrer Ansprechperson beraten – ohne vorherige Beratung wird in der Regel kein Bildungsgutschein ausgestellt."
+    },
+    {
+     "titel": "Notwendigkeit klären",
+     "text": "Die Maßnahme muss notwendig sein, um Arbeitslosigkeit zu beenden oder zu vermeiden, oder einen fehlenden Berufsabschluss nachzuholen."
+    },
+    {
+     "titel": "Zugelassenen Träger und zertifizierte Maßnahme wählen",
+     "text": "Träger und Maßnahme müssen nach der Akkreditierungs- und Zulassungsverordnung Arbeitsförderung (AZAV) zugelassen sein."
+    },
+    {
+     "titel": "Bildungsgutschein einlösen",
+     "text": "Der Bildungsgutschein legt Ziel, Dauer und regionale Gültigkeit der Maßnahme fest; Sie suchen sich innerhalb dieses Rahmens den Kurs oder Träger aus."
+    },
+    {
+     "titel": "Weiterbildungsgeld beantragen",
+     "text": "Bei einer abschlussbezogenen Weiterbildung während des Grundsicherungsgeld-Bezugs kann zusätzlich ein monatliches Weiterbildungsgeld beantragt werden."
+    }
+   ],
+   "fristen": [],
+   "achtung": [
+    "Ohne vorherige Beratung und Ausstellung eines Bildungsgutscheins übernimmt die Agentur für Arbeit die Kosten in aller Regel nicht rückwirkend.",
+    "Verwechseln Sie das weiterhin bestehende „Weiterbildungsgeld“ (150 €/Monat für abschlussbezogene Weiterbildung, § 87a Abs. 2, 3 SGB III) nicht mit dem früheren „Bürgergeldbonus“ (75 €/Monat) – dieser wurde bereits zum 28.3.2024 durch das Haushaltsbegleitgesetz gestrichen und existiert seither nicht mehr.",
+    "Der Abbruch einer bewilligten Maßnahme ohne wichtigen Grund kann als Pflichtverletzung gewertet werden und zu einer Kürzung nach § 31a SGB II führen."
+   ],
+   "fach_html": "\n<h3>Bildungsgutschein (§ 81 SGB III)</h3>\n<p>Voraussetzung für die Förderung einer beruflichen Weiterbildung ist, dass die Teilnahme wegen fehlenden\nBerufsabschlusses, veralteter Qualifikation oder zur Vermeidung/Beendigung von Arbeitslosigkeit notwendig ist, eine\nvorherige Beratung stattgefunden hat und Maßnahme sowie Träger nach der AZAV zugelassen sind.</p>\n<h3>Weiterbildungsgeld (§ 87a Abs. 2, 3 SGB III)</h3>\n<p>Personen im Grundsicherungsgeld-Bezug, die an einer abschlussbezogenen Weiterbildung teilnehmen, können\nzusätzlich zu den Weiterbildungskosten ein monatliches Weiterbildungsgeld von 150 € erhalten. Die Höhe des Betrags ist\nunverändert, die Rechtsgrundlage hat sich mit der Reform jedoch geändert: Seit 1.1.2025 ist das Weiterbildungsgeld in\n§ 87a Abs. 2 SGB III geregelt und wird über Abs. 3 auf Grundsicherungsgeld-/SGB-II-Beziehende erstreckt; zuständig\nist seither die Agentur für Arbeit (SGB III) statt wie zuvor das Jobcenter (SGB II).</p>\n<h3>Abgrenzung: gestrichener „Bürgergeldbonus“</h3>\n<p>Der frühere „Bürgergeldbonus“ in Höhe von 75 € monatlich für die Teilnahme an bestimmten\nEingliederungsmaßnahmen wurde bereits zum 28.3.2024 im Zuge des Haushaltsbegleitgesetzes 2024 gestrichen. Er ist\nnicht identisch mit dem weiterhin bestehenden Weiterbildungsgeld nach § 87a Abs. 2, 3 SGB III; beide Begriffe werden in\nRatgebertexten häufig verwechselt.</p>\n",
+   "zustaendig": [
+    "Agentur für Arbeit oder Jobcenter (je nach Leistungsbezug)"
+   ],
+   "belege": [
+    "§ 81 SGB III (gesetze-im-internet.de)",
+    "§ 87a SGB III (gesetze-im-internet.de)",
+    "Haushaltsbegleitgesetz 2024 – Streichung des Bürgergeldbonus zum 28.3.2024"
+   ],
+   "siehe_auch": [
+    "ein-euro-jobs",
+    "rechte-und-pflichten-ueberblick"
+   ],
+   "stand": "Stand: September 2026 (Rechtsstand seit 1. Juli 2026, 13. SGB-II-Änderungsgesetz, BGBl. 2026 I Nr. 107)."
+  },
+  {
+   "id": "ein-euro-jobs",
+   "kategorie": "qualifizierung",
+   "titel": "Ein-Euro-Jobs (Arbeitsgelegenheiten)",
+   "icon": "🛠️",
+   "teaser": "Arbeitsgelegenheiten sollen die Beschäftigungsfähigkeit erhalten, sind zeitlich begrenzt und mit einer Mehraufwandsentschädigung verbunden.",
+   "schlagworte": [
+    "Arbeitsgelegenheit",
+    "Ein-Euro-Job",
+    "§ 16d SGB II",
+    "Mehraufwandsentschädigung",
+    "Zusätzlichkeit"
+   ],
+   "kurz_html": "\n<p>„Ein-Euro-Jobs“ – rechtlich Arbeitsgelegenheiten genannt – sind zusätzliche, im öffentlichen Interesse liegende und\nwettbewerbsneutrale Tätigkeiten, meist bei gemeinnützigen Trägern oder Kommunen. Sie sind kein reguläres\nArbeitsverhältnis, sondern eine Eingliederungsmaßnahme; dafür erhalten Sie zusätzlich zum Grundsicherungsgeld eine\nMehraufwandsentschädigung.</p>\n",
+   "schritte": [
+    {
+     "titel": "Zuweisung erhalten",
+     "text": "Das Jobcenter weist Ihnen im Rahmen der Zumutbarkeit eine konkrete Arbeitsgelegenheit zu, meist im Rahmen des Kooperationsplans."
+    },
+    {
+     "titel": "Voraussetzungen prüfen lassen",
+     "text": "Die Tätigkeit muss zusätzlich, im öffentlichen Interesse und wettbewerbsneutral sein – ist das nicht der Fall, sollten Sie das ansprechen."
+    },
+    {
+     "titel": "Tätigkeit ausüben",
+     "text": "Sie üben die Tätigkeit i. d. R. befristet und in einem begrenzten Stundenumfang aus."
+    },
+    {
+     "titel": "Mehraufwandsentschädigung erhalten",
+     "text": "Für die Tätigkeit erhalten Sie eine Entschädigung pro geleisteter Stunde zusätzlich zum Regelbedarf, die nicht als Einkommen angerechnet wird."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "24 Monate in 5 Jahren",
+     "was": "Regel-Höchstdauer der Zuweisung zu Arbeitsgelegenheiten",
+     "grundlage": "§ 16d SGB II"
+    },
+    {
+     "wert": "bis zu 12 weitere Monate",
+     "was": "Mögliche Verlängerung über die Regel-Höchstdauer hinaus in begründeten Fällen",
+     "grundlage": "§ 16d SGB II"
+    }
+   ],
+   "achtung": [
+    "Ablehnung einer zugewiesenen Arbeitsgelegenheit ohne wichtigen Grund kann als Pflichtverletzung gewertet werden und zu einer Kürzung nach § 31a SGB II führen – „freiwillig“ im engeren Sinne ist die Teilnahme also nur bedingt.",
+    "Die Höhe der Mehraufwandsentschädigung ist nicht als fester Eurobetrag im Gesetz festgelegt, sondern wird als „angemessene Entschädigung“ von der Praxis (häufig kommunal bzw. trägerabhängig) konkretisiert – in Ratgebertexten kursierende Beträge zwischen 1 und 2,50 € pro Stunde sind Praxiswerte, keine Gesetzesvorgabe, und wurden in dieser Recherche nicht amtlich verifiziert.",
+    "Eine Arbeitsgelegenheit darf reguläre Arbeitsplätze nicht verdrängen (Zusätzlichkeits- und Wettbewerbsneutralitätsgebot) – Zweifel daran können Sie beim Jobcenter oder einer Beratungsstelle ansprechen."
+   ],
+   "fach_html": "\n<h3>Voraussetzungen (§ 16d SGB II)</h3>\n<p>Arbeitsgelegenheiten müssen zusätzlich sein (es dürfen keine bereits vorhandenen oder für die Zukunft geplanten\nregulären Arbeitsplätze ersetzt werden), im öffentlichen Interesse liegen und wettbewerbsneutral ausgestaltet sein,\ndas heißt private Wirtschaftsunternehmen nicht benachteiligen.</p>\n<h3>Dauer</h3>\n<p>Die Zuweisung ist grundsätzlich auf 24 Monate innerhalb von 5 Jahren begrenzt; in begründeten Ausnahmefällen ist\neine Verlängerung um bis zu 12 weitere Monate möglich.</p>\n<h3>Mehraufwandsentschädigung</h3>\n<p>Für die Teilnahme wird eine „angemessene Entschädigung“ pro Stunde gezahlt, die nicht auf den Regelbedarf\nangerechnet wird. Das Gesetz nennt keinen bundeseinheitlichen Eurobetrag; in der Praxis kursieren Werte zwischen\n1 € und 2,50 € pro Stunde, die jedoch nicht Gegenstand des Gesetzestexts sind, sondern trägerabhängige\nVerwaltungspraxis – vor einer konkreten Zusage sollte der tatsächlich vereinbarte Betrag beim jeweiligen Träger\nerfragt werden.</p>\n<h3>Rechtsschutz</h3>\n<p>Die Zuweisung zu einer Arbeitsgelegenheit erfolgt durch Verwaltungsakt und kann eigenständig mit Widerspruch\nangegriffen werden, etwa wenn die gesetzlichen Voraussetzungen (Zusätzlichkeit, öffentliches Interesse,\nWettbewerbsneutralität) im Einzelfall nicht erfüllt sind.</p>\n",
+   "zustaendig": [
+    "Jobcenter",
+    "Maßnahmeträger (meist gemeinnützige Träger oder Kommune)"
+   ],
+   "belege": [
+    "§ 16d SGB II (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "weiterbildung-umschulung",
+    "sanktionen-pflichtverletzungen",
+    "widerspruch-jobcenter"
+   ],
+   "stand": "Stand: September 2026 (Rechtsstand seit 1. Juli 2026, 13. SGB-II-Änderungsgesetz, BGBl. 2026 I Nr. 107)."
+  },
+  {
+   "id": "widerspruch-jobcenter",
+   "kategorie": "rechtsschutz",
+   "titel": "Widerspruch gegen einen Jobcenter-Bescheid",
+   "icon": "⚖️",
+   "teaser": "Gegen jeden Bescheid des Jobcenters können Sie innerhalb eines Monats Widerspruch einlegen – bei Sanktions- und Aufhebungsbescheiden wirkt das jedoch nicht automatisch aufschiebend.",
+   "schlagworte": [
+    "Widerspruch",
+    "§ 84 SGG",
+    "Sozialgericht",
+    "Aufschiebende Wirkung",
+    "Einstweiliger Rechtsschutz",
+    "§ 86b SGG"
+   ],
+   "kurz_html": "\n<p>Sind Sie mit einem Bescheid des Jobcenters nicht einverstanden – etwa weil eine Leistung abgelehnt, gekürzt oder\nzurückgefordert wird – können Sie innerhalb eines Monats nach Zustellung schriftlich oder zur Niederschrift\nWiderspruch einlegen. Das kostet nichts. Hilft der Widerspruch nicht, können Sie danach kostenfrei vor dem\nSozialgericht klagen.</p>\n",
+   "schritte": [
+    {
+     "titel": "Bescheid genau lesen",
+     "text": "Prüfen Sie Datum, Zustellung und die beigefügte Rechtsbehelfsbelehrung – sie nennt Frist und zuständige Stelle."
+    },
+    {
+     "titel": "Widerspruch fristgerecht einlegen",
+     "text": "Legen Sie den Widerspruch schriftlich, per Fax, zur Niederschrift oder in bestimmten Fällen elektronisch beim Jobcenter ein – eine kurze Begründung reicht zunächst, kann nachgereicht werden."
+    },
+    {
+     "titel": "Akteneinsicht verlangen",
+     "text": "Sie haben das Recht, Einsicht in Ihre Akte zu nehmen, um die Begründung des Bescheids nachvollziehen zu können."
+    },
+    {
+     "titel": "Bei Eilbedürftigkeit einstweiligen Rechtsschutz beantragen",
+     "text": "Droht durch einen sofort vollziehbaren Bescheid eine existenzielle Notlage, können Sie parallel beim Sozialgericht einen Eilantrag stellen."
+    },
+    {
+     "titel": "Widerspruchsbescheid abwarten oder klagen",
+     "text": "Hilft das Jobcenter dem Widerspruch nicht ab, erhalten Sie einen Widerspruchsbescheid; dagegen können Sie klagen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "1 Monat",
+     "was": "Widerspruchsfrist ab Zustellung des Bescheids (3 Monate bei Zustellung im Ausland)",
+     "grundlage": "§ 84 SGG"
+    },
+    {
+     "wert": "1 Monat",
+     "was": "Klagefrist gegen den Widerspruchsbescheid",
+     "grundlage": "§ 87 SGG"
+    }
+   ],
+   "achtung": [
+    "Widerspruch und Klage vor dem Sozialgericht sind für Versicherte und Leistungsempfänger als Kläger grundsätzlich gerichtskostenfrei – lassen Sie sich von den Kosten nicht abschrecken.",
+    "Bei Aufhebungs- und Erstattungsbescheiden, Sanktionsbescheiden, Aufforderungen zur Inanspruchnahme vorrangiger Leistungen und Meldeaufforderungen hat ein Widerspruch nach § 39 SGB II keine aufschiebende Wirkung – die Zahlung wird also trotz Widerspruch zunächst eingestellt oder gekürzt, wenn Sie nicht zusätzlich einstweiligen Rechtsschutz beantragen.",
+    "Verpassen Sie die Monatsfrist, wird der Bescheid bestandskräftig – eine spätere Überprüfung ist dann nur noch unter engeren Voraussetzungen möglich (z. B. Überprüfungsantrag nach § 44 SGB X)."
+   ],
+   "fach_html": "\n<h3>Widerspruchsverfahren</h3>\n<p>Nach § 84 SGG beträgt die Widerspruchsfrist einen Monat ab Bekanntgabe des Verwaltungsakts, bei Zustellung im\nAusland drei Monate. Der Widerspruch ist formfrei fristwahrend, wenn er innerhalb der Frist bei irgendeiner\ninländischen Behörde eingeht, die ihn an das zuständige Jobcenter weiterleitet.</p>\n<h3>Aufschiebende Wirkung (§ 39 SGB II)</h3>\n<p>Abweichend vom sozialrechtlichen Regelfall entfalten Widerspruch und Klage gegen bestimmte Verwaltungsakte des\nJobcenters keine aufschiebende Wirkung: Aufhebung und Erstattung von Leistungen, Feststellung einer\nPflichtverletzung mit Absenkung/Wegfall des Regelbedarfs, Aufforderung zur Inanspruchnahme vorrangiger Leistungen\nsowie Meldeaufforderungen sind sofort vollziehbar.</p>\n<h3>Einstweiliger Rechtsschutz (§ 86b SGG)</h3>\n<p>In diesen Fällen kann beim Sozialgericht die Anordnung oder Wiederherstellung der aufschiebenden Wirkung\nbeantragt werden (§ 86b Abs. 1 SGG). Wurde noch kein belastender Verwaltungsakt erlassen, aber droht ohne\nsofortige gerichtliche Regelung eine Rechtsvereitelung (z. B. dringend benötigte Leistung wird nicht ausgezahlt),\nkommt eine einstweilige Anordnung nach § 86b Abs. 2 SGG in Betracht. Über beide Anträge entscheidet das Gericht per\nBeschluss, häufig innerhalb weniger Tage.</p>\n<h3>Kostenfreiheit</h3>\n<p>Nach § 183 SGG sind Verfahren vor den Sozialgerichten für Versicherte, Leistungsempfänger und bestimmte andere\nPersonengruppen als Kläger oder Beklagte grundsätzlich gerichtskostenfrei; Ausnahmen bestehen u. a. bei\nmissbräuchlicher Rechtsverfolgung oder überlangen Verfahren.</p>\n",
+   "zustaendig": [
+    "Jobcenter (Widerspruch)",
+    "Sozialgericht (Klage, einstweiliger Rechtsschutz)"
+   ],
+   "belege": [
+    "§§ 84, 87, 183, 86b SGG (gesetze-im-internet.de)",
+    "§ 39 SGB II (gesetze-im-internet.de)",
+    "§ 44 SGB X (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "sanktionen-pflichtverletzungen",
+    "beratung-anlaufstellen"
+   ],
+   "stand": "Stand: September 2026 (Rechtsstand seit 1. Juli 2026, 13. SGB-II-Änderungsgesetz, BGBl. 2026 I Nr. 107)."
+  },
+  {
+   "id": "schulden-und-insolvenz",
+   "kategorie": "rechtsschutz",
+   "titel": "Schulden und Privatinsolvenz",
+   "icon": "📉",
+   "teaser": "Arbeitslosigkeit und Schulden hängen oft zusammen: Schuldnerberatung ist eine kommunale Pflichtleistung, Restschuldbefreiung ist seit 2020 schon nach 3 Jahren möglich.",
+   "schlagworte": [
+    "Schuldnerberatung",
+    "Privatinsolvenz",
+    "Restschuldbefreiung",
+    "§ 16a SGB II",
+    "§ 287 InsO"
+   ],
+   "kurz_html": "\n<p>Wer arbeitslos wird, gerät nicht selten zusätzlich in finanzielle Schwierigkeiten. Schuldnerberatung ist eine\nkommunale Eingliederungsleistung, auf die Sie im Rahmen der Ermessensausübung der Kommune Zugang haben. Bei\naussichtslos hoher Verschuldung kann ein Privatinsolvenzverfahren mit anschließender Restschuldbefreiung ein Ausweg\nsein – seit der Reform des Insolvenzrechts 2020 ist das schon nach drei statt sechs Jahren möglich.</p>\n",
+   "schritte": [
+    {
+     "titel": "Schuldnerberatung aufsuchen",
+     "text": "Wenden Sie sich an eine anerkannte Schuldner- und Insolvenzberatungsstelle – oft vermittelt oder finanziert das Jobcenter diese als kommunale Eingliederungsleistung."
+    },
+    {
+     "titel": "Außergerichtlichen Einigungsversuch prüfen",
+     "text": "Vor einem gerichtlichen Insolvenzverfahren ist grundsätzlich ein außergerichtlicher Einigungsversuch mit den Gläubigern vorgesehen."
+    },
+    {
+     "titel": "Privatinsolvenz beantragen",
+     "text": "Scheitert die außergerichtliche Einigung, kann beim zuständigen Insolvenzgericht das Verbraucherinsolvenzverfahren beantragt werden."
+    },
+    {
+     "titel": "Abtretungsfrist durchlaufen",
+     "text": "Während der Abtretungsfrist müssen pfändbares Einkommen bzw. Vermögen an einen Treuhänder abgeführt werden; bei Bezug von Grundsicherungsgeld ist regelmäßig ohnehin nichts pfändbar."
+    },
+    {
+     "titel": "Restschuldbefreiung erhalten",
+     "text": "Nach Ablauf der Abtretungsfrist werden die verbleibenden Restschulden erlassen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "3 Jahre",
+     "was": "Regel-Abtretungsfrist bis zur Restschuldbefreiung (bei Anträgen ab 1.10.2020)",
+     "grundlage": "§ 287 InsO"
+    },
+    {
+     "wert": "5 Jahre",
+     "was": "Verlängerte Frist im Wiederholungsfall (frühere Restschuldbefreiung innerhalb der letzten 11 Jahre)",
+     "grundlage": "§ 287a InsO"
+    }
+   ],
+   "achtung": [
+    "Eine Mindestquote von 35 % der Forderungen ist seit der Reform 2020 keine Voraussetzung mehr für die reguläre Restschuldbefreiung nach 3 Jahren – wer diese Quote zusätzlich erreicht, kann unter Umständen weitere Vorteile erlangen, muss es aber nicht, um überhaupt schuldenfrei zu werden.",
+    "Nicht jede Schuldnerberatungsstelle ist kostenlos oder unabhängig – lassen Sie sich vom Jobcenter oder einer Verbraucherzentrale eine anerkannte, meist kommunal geförderte Stelle nennen.",
+    "Diese Recherche fand keine belastbare Primärquelle zu näheren Details des außergerichtlichen Einigungsversuchs nach § 305 InsO – lassen Sie sich dazu konkret bei der Schuldnerberatung beraten, statt sich auf pauschale Aussagen zu verlassen."
+   ],
+   "fach_html": "\n<h3>Schuldnerberatung als kommunale Pflichtleistung</h3>\n<p>Nach § 16a SGB II umfassen die kommunalen Eingliederungsleistungen u. a. die Schuldnerberatung, psychosoziale\nBetreuung, Suchtberatung sowie die Betreuung minderjähriger oder behinderter Kinder bzw. die häusliche Pflege von\nAngehörigen, soweit dies für die Eingliederung in Arbeit erforderlich ist. Die konkrete Ausgestaltung liegt im\nErmessen der Kommune.</p>\n<h3>Verbraucherinsolvenzverfahren</h3>\n<p>Reicht die außergerichtliche Einigung mit den Gläubigern nicht aus, kann beim zuständigen Amtsgericht\n(Insolvenzgericht) ein Verbraucherinsolvenzverfahren beantragt werden. Während der anschließenden Abtretungsfrist\nwird pfändbares Einkommen an einen Treuhänder abgeführt; da der Regelbedarf beim Grundsicherungsgeld regelmäßig\nunterhalb der Pfändungsfreigrenzen liegt, ist während des Leistungsbezugs meist nichts abzuführen.</p>\n<h3>Restschuldbefreiung (§ 287 InsO)</h3>\n<p>Seit der Reform des Verbraucherinsolvenzrechts (in Kraft seit 1.10.2020) beträgt die reguläre Abtretungsfrist bis\nzur Restschuldbefreiung drei Jahre, unabhängig vom Erreichen einer bestimmten Befriedigungsquote. Wurde der\nSchuldnerin oder dem Schuldner bereits innerhalb der letzten elf Jahre vor dem aktuellen Antrag Restschuldbefreiung\nerteilt, verlängert sich die Frist im Wiederholungsfall auf fünf Jahre (§ 287a InsO).</p>\n",
+   "zustaendig": [
+    "Anerkannte Schuldner- und Insolvenzberatungsstellen (meist kommunal gefördert)",
+    "Insolvenzgericht (Amtsgericht)"
+   ],
+   "belege": [
+    "§ 16a SGB II (gesetze-im-internet.de)",
+    "§§ 287, 287a InsO (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "kosten-der-unterkunft",
+    "beratung-anlaufstellen"
+   ],
+   "stand": "Stand: September 2026 (Rechtsstand seit 1. Juli 2026, 13. SGB-II-Änderungsgesetz, BGBl. 2026 I Nr. 107)."
+  },
+  {
+   "id": "beratung-anlaufstellen",
+   "kategorie": "beratung",
+   "titel": "Beratung und Anlaufstellen",
+   "icon": "📞",
+   "teaser": "Wer ist wofür zuständig – und wo bekommen Sie unabhängige Unterstützung, wenn Sie mit Jobcenter oder Arbeitsagentur nicht weiterkommen?",
+   "schlagworte": [
+    "Jobcenter",
+    "Agentur für Arbeit",
+    "Erwerbslosenberatung",
+    "Sozialberatung",
+    "Beratungsstelle"
+   ],
+   "kurz_html": "\n<p>Für Arbeitslosengeld I, Berufsberatung und Vermittlung ist die Agentur für Arbeit zuständig, für Grundsicherungsgeld,\nKosten der Unterkunft und den Kooperationsplan das Jobcenter an Ihrem Wohnort. Daneben gibt es unabhängige\nBeratungsangebote – etwa Erwerbslosenberatungsstellen, Schuldnerberatung, Sozial- und Verbraucherberatung –, die\nnicht an Entscheidungen der Behörden gebunden sind und Sie insbesondere bei Widersprüchen und Konflikten\nunterstützen können.</p>\n",
+   "schritte": [
+    {
+     "titel": "Zuständigkeit klären",
+     "text": "Prüfen Sie zunächst, ob Ihr Anliegen die Agentur für Arbeit (ALG I, Vermittlung, Weiterbildung) oder das Jobcenter (Grundsicherungsgeld, KdU, Kooperationsplan, Sanktionen) betrifft."
+    },
+    {
+     "titel": "Erste Anlaufstelle im Amt nutzen",
+     "text": "Beide Behörden haben eigene Beratungs- und Beschwerdestellen; fragen Sie aktiv nach einer schriftlichen Bestätigung von Zusagen."
+    },
+    {
+     "titel": "Unabhängige Beratung hinzuziehen",
+     "text": "Bei Konflikten, Sanktionen oder komplizierten Fällen kann eine unabhängige Erwerbslosen-, Sozial- oder Schuldnerberatungsstelle helfen, Ihre Situation einzuschätzen."
+    },
+    {
+     "titel": "Rechtsberatung in Anspruch nehmen",
+     "text": "Bei rechtlich strittigen Fragen (z. B. vor einer Klage) kann eine Fachanwältin oder ein Fachanwalt für Sozialrecht, ggf. über Beratungshilfe, weiterhelfen."
+    }
+   ],
+   "fristen": [],
+   "achtung": [
+    "Verwechseln Sie das Jobcenter (Grundsicherungsgeld) nicht mit der Agentur für Arbeit (Arbeitslosengeld I) – beide sitzen oft im selben Gebäude, sind aber unterschiedliche Behörden mit unterschiedlicher Zuständigkeit.",
+    "Eine bundesweite, einheitlich geförderte unabhängige Erwerbslosenberatung konnte in dieser Recherche nicht nachgewiesen werden – entsprechende Angebote werden nach vorliegenden Informationen überwiegend auf Länder- oder kommunaler Ebene gefördert und sind daher regional unterschiedlich verfügbar; prüfen Sie das Angebot in Ihrer Region direkt.",
+    "Beratungshilfe für den außergerichtlichen Bereich und Prozesskostenhilfe für ein Klageverfahren müssen gesondert beim Amtsgericht bzw. Sozialgericht beantragt werden und sind einkommensabhängig."
+   ],
+   "fach_html": "\n<h3>Behördliche Zuständigkeiten</h3>\n<p>Die Agentur für Arbeit ist zuständig für Arbeitslosengeld I, Berufsberatung, Ausbildungsvermittlung und die\nBewilligung von Bildungsgutscheinen. Das Jobcenter – als gemeinsame Einrichtung von Agentur für Arbeit und Kommune\noder als zugelassener kommunaler Träger – ist zuständig für Grundsicherungsgeld, Kosten der Unterkunft, den\nKooperationsplan sowie Sanktionsentscheidungen.</p>\n<h3>Unabhängige Beratung</h3>\n<p>Neben den Behörden selbst gibt es unabhängige Erwerbslosenberatungsstellen, die typischerweise von Wohlfahrtsverbänden\ngetragen und – soweit ermittelbar – überwiegend auf Landes- oder kommunaler Ebene gefördert werden (z. B. über\nLandesförderprogramme). Eine bundesweit einheitliche Förderung unabhängiger Erwerbslosenberatung ließ sich in\ndieser Recherche nicht belegen; die tatsächliche Verfügbarkeit ist deshalb regional unterschiedlich und sollte vor\nOrt erfragt werden.</p>\n<h3>Rechtliche Unterstützung</h3>\n<p>Bei Widersprüchen und sozialgerichtlichen Verfahren kann außergerichtliche Beratungshilfe (beim Amtsgericht zu\nbeantragen) und für das Klageverfahren ggf. Prozesskostenhilfe in Anspruch genommen werden. Fachanwältinnen und\nFachanwälte für Sozialrecht sowie Sozialverbände (z. B. Sozialverband VdK, SoVD) bieten häufig eine erste\nRechtsberatung für Mitglieder an.</p>\n",
+   "zustaendig": [
+    "Agentur für Arbeit",
+    "Jobcenter",
+    "Unabhängige Erwerbslosen-, Sozial- und Schuldnerberatungsstellen (regional unterschiedlich gefördert)"
+   ],
+   "belege": [
+    "Recherche zu SGB II/SGB III Zuständigkeiten (gesetze-im-internet.de)",
+    "Förderdatenbank des Bundes – Beispiel Landesförderung Erwerbslosenberatung Niedersachsen (foerderdatenbank.de) – als Beleg dafür, dass Förderung auf Länderebene, nicht bundeseinheitlich erfolgt"
+   ],
+   "siehe_auch": [
+    "widerspruch-jobcenter",
+    "schulden-und-insolvenz",
+    "rechte-und-pflichten-ueberblick"
+   ],
+   "stand": "Stand: September 2026 (Rechtsstand seit 1. Juli 2026, 13. SGB-II-Änderungsgesetz, BGBl. 2026 I Nr. 107)."
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "titel": "Eigentümer & Bauherren",
+ "zusatz": "Eigentümer &amp; Bauherren &middot; Kaufen, bauen, besitzen",
+ "icon": "🏡",
+ "teaser": "Immobilienkauf, Baufinanzierung, Bauvertrag, Eigentümergemeinschaft, Grundsteuer, Heizung und Vermietung: verständliche Antworten und die wichtigsten Fristen.",
+ "suche_placeholder": "Suchen: Notar, Grunderwerbsteuer, Bauträger, Hausgeld, Heizungsgesetz …",
+ "meta_description": "Wegweiser für Eigentümer und Bauherren: Immobilienkauf, Grunderwerbsteuer, Baufinanzierung, Bauvertrag, WEG-Recht, Nachbarrecht, Grundsteuer, Heizungsgesetz, Vermietung, Zwangsversteigerung, Erbe. Rechtsstand September 2026.",
+ "hinweis": "<p><strong>Rechtsstand: September 2026.</strong> Vieles ist Landesrecht und unterscheidet sich je nach Bundesland (geprüft nur für Bayern, Nordrhein-Westfalen und Berlin, die übrigen Länder nicht): Grunderwerbsteuersatz, Bauordnung und Baugenehmigung, Nachbarrecht, Grundsteuer-Berechnung. Diese Stellen sind im Text als landesabhängig gekennzeichnet. Das Gebäudemodernisierungsgesetz (Nachfolger des Heizungsgesetzes) wurde am 10. Juli 2026 von Bundestag und Bundesrat beschlossen, am 28. Juli 2026 verkündet (BGBl. 2026 Nr. 226) und ist in erster Stufe seit 29. Juli 2026 in Kraft. Die geplante Elementarschaden-Pflichtversicherung ist nicht beschlossen. Quellen und offene Punkte: <a href=\"quellen.html\">Quellen und Grenzen</a>. Information, keine Rechtsberatung.</p>",
+ "haeufig": [
+  "kaufvertrag-notar-grundbuch",
+  "kaufnebenkosten-grunderwerbsteuer",
+  "bautraeger-mabv",
+  "weg-recht",
+  "geg-heizung-foerderung",
+  "beratung"
+ ],
+ "fusszeile": "Wegweiser Eigentümer & Bauherren: Information zu Immobilien-, Bau- und Wohnungseigentumsrecht, keine Rechtsberatung; Stand September 2026.",
+ "beratung_id": "beratung",
+ "quellen_teaser": "<p>Alle Angaben stammen aus Gesetzestexten und amtlichen Seiten. Unsichere Punkte sind unten offen benannt. Landesrecht wurde nur für Bayern, Nordrhein-Westfalen und Berlin geprüft; 13 weitere Länder nicht.</p>",
+ "quellen_abschnitte": [
+  {
+   "h": "Quellenliste",
+   "html": "<ol><li>Bundesministerium der Justiz, Gesetze im Internet: BGB §§ 311b, 355, 356b, 356e, 489, 495, 500, 502, 551, 556d, 573, 577a, 634a, 640, 650g, 650i, 650j, 650k, 650l, 650m, 650u, 656a, 656b, 656c, 656d, 906, 910, 2325; BeurkG § 17; GrEStG §§ 3, 11; GrStG § 28; AO §§ 122, 351, 355; GG Art. 105 Abs. 2a; WEG §§ 19, 20, 24, 25, 26, 28, 45; ZVG §§ 44, 68, 74a, 85a; MaBV § 3 (gewo_34cdv); ErbStG §§ 13, 14, 16, 30. Abgerufen 20.09.2026.</li><li>Landesrecht Bayern, Nordrhein-Westfalen, Berlin: BayGrStG; BayBO; AGBGB Art. 43 bis 54; BauO NRW 2018; NachbG NRW; JustG NRW; BauO Bln; NachbG Bln; Berliner Grundsteuergesetz; SolarG Bln. Abgerufen 20.09.2026.</li><li>Deutscher Bundestag, Textarchiv: Beschluss des Heizungsgesetz-Novelle vom 10.07.2026; Antrag zur Elementarschadenversicherung (16.04.2026, von der Tagesordnung abgesetzt). Abgerufen 20.09.2026.</li><li>Bundesregierung, Seite zum Gebäudemodernisierungsgesetz; gmodg.bund.de, Chronologie (Beschluss 10.07.2026, Verkündung 28.07.2026, BGBl. 2026 Nr. 226). Abgerufen 20.09.2026.</li><li>finanz-tools.de, Bundesländer-Tabelle Grunderwerbsteuer (Sekundärquelle). Abgerufen 20.09.2026.</li><li>ADAC, Seite zur KfW-Heizungsförderung ab 21.07.2026 (Sekundärquelle; KfW-Merkblatt 458 nicht direkt ausgewertet). Abgerufen 20.09.2026.</li><li>Bundesfinanzministerium, Fragen und Antworten zur neuen Grundsteuer. Abgerufen 20.09.2026.</li><li>Bauherren-Schutzbund e. V., bsb-ev.de; Bundesnotarkammer, bnotk.de (jeweils Selbstdarstellung). Abgerufen 20.09.2026.</li></ol>"
+  },
+  {
+   "h": "Unsichere und offene Punkte",
+   "html": "<ul><li>Grunderwerbsteuersätze der übrigen 13 Länder: aus einer Sekundärquelle (finanz-tools.de, Bundesländer-Tabelle, Stand 2026); die Landesgesetze wurden nicht einzeln geprüft (Bayern, Berlin, NRW geprüft). Grundlage ist Art. 105 Abs. 2a Satz 2 GG.</li><li>Notar- und Grundbuchkosten (etwa 1,0 bis 1,5 Prozent Notar, etwa 0,5 Prozent Grundbuch, seit GNotKG-Erhöhung 01.06.2025): nur Sekundärquellen, GNotKG nicht selbst ausgewertet.</li><li>Gebäudemodernisierungsgesetz: Details der Förderung (BEG ab 21.07.2026) aus Sekundärquellen.</li><li>Landesrecht: 13 weitere Länder nicht geprüft; Berliner Paragrafen bei Hammerschlagsrecht, Bauüberwachung, 10-m³-Grenze und Mietverordnungen nicht im Volltext geprüft. Erhaltungs- und Milieuschutzsatzungen nicht geprüft.</li><li>Steuerliche Behandlung der Vermietung (Einkommensteuer) und Erbschaftsteuer-Bewertung von Immobilien: nur Grundzüge, nicht vertieft.</li><li>Haus &amp; Grund Deutschland: Website war nicht abrufbar; Verband deshalb nur namentlich genannt.</li></ul>"
+  },
+  {
+   "h": "Was diese Plattform leistet – und was nicht",
+   "html": "<p>Der Wegweiser erklärt Eigentümer- und Bauherrenrechte in einfacher Sprache und nennt Rechtsgrundlagen, Fristen und Zahlen aus den genannten Quellen. Er ersetzt keine Rechtsberatung, keine Steuer- und keine Finanzierungsberatung und keine Prüfung Ihres Einzelfalls. Er nennt keine örtlichen Beratungsstellen, Adressen oder Telefonnummern außer bundesweit belegten Stellen. Es werden keine personenbezogenen Daten gespeichert. Bei Kauf, Bauvertrag und Beschlüssen gelten strenge Fristen: Holen Sie früh Rat.</p>"
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "untaetigkeitsklage-auslaenderbehoerde",
+  "kategorie": "behoerde-untaetig",
+  "titel": "Untätigkeitsklage gegen Ausländer- oder Einbürgerungsbehörde",
+  "icon": "⏳",
+  "teaser": "Keine Entscheidung über Ihren Aufenthaltstitel oder Ihre Einbürgerung? Nach drei Monaten können Sie beim Verwaltungsgericht klagen – auch ohne Anwalt.",
+  "schlagworte": [
+    "Untätigkeitsklage",
+    "§ 75 VwGO",
+    "Ausländerbehörde",
+    "Einbürgerung",
+    "Niederlassungserlaubnis",
+    "Verwaltungsgericht",
+    "Rechtsantragstelle",
+    "Gerichtskosten"
+  ],
+  "kurz_html": "<p>Sie haben einen Antrag gestellt, zum Beispiel auf Verlängerung, Niederlassungserlaubnis oder Einbürgerung. Die Behörde entscheidet aber nicht.</p><p>Dann können Sie eine <strong>Untätigkeitsklage</strong> beim Verwaltungsgericht erheben. Das geht frühestens <strong>drei Monate</strong> nach Ihrem Antrag. Voraussetzung: Die Behörde hat keinen guten Grund für die Verzögerung.</p><p>Sie brauchen dafür keinen Anwalt. Sie können die Klage schriftlich schicken oder beim Gericht aufschreiben lassen (Rechtsantragstelle).</p><p>Die Klage kostet Gerichtsgebühren. Entscheidet die Behörde nach der Klage und durften Sie mit einer früheren Entscheidung rechnen, trägt die Behörde die Kosten.</p><p>Diese Seite informiert allgemein. Sie ersetzt keine Rechtsberatung.</p>",
+  "schritte": [
+    {
+      "titel": "Antrag belegen",
+      "text": "Kopie des Antrags, Eingangsbestätigung oder Nachweis der Online-Antragstellung sichern. Das Datum ist wichtig."
+    },
+    {
+      "titel": "Erinnern und Frist setzen",
+      "text": "Schriftlich nach dem Stand fragen und eine Frist nennen, zum Beispiel zwei Wochen. Kopie aufheben."
+    },
+    {
+      "titel": "Drei Monate abwarten",
+      "text": "Frühestens drei Monate nach dem Antrag ist die Klage zulässig, außer bei besonderen Umständen."
+    },
+    {
+      "titel": "Klage erheben",
+      "text": "Beim Verwaltungsgericht, in dessen Bezirk die zuständige Behörde ihren Sitz hat (meist das Gericht Ihres Wohnorts; im Zweifel dort nachfragen): schriftlich, elektronisch über ein sicheres Postfach oder zu Protokoll bei der Rechtsantragstelle. Keine einfache E-Mail."
+    },
+    {
+      "titel": "Nach der Entscheidung reagieren",
+      "text": "Entscheidet die Behörde, das Verfahren für erledigt erklären. Wird abgelehnt, zeitnah Rat einholen, wie die Klage weitergeführt wird."
+    }
+  ],
+  "fristen": [
+    {
+      "wert": "3 Monate",
+      "was": "Frühester Zeitpunkt der Untätigkeitsklage seit Antragstellung (früher nur bei besonderen Umständen).",
+      "grundlage": "§ 75 Satz 2 VwGO"
+    },
+    {
+      "wert": "5.000 €",
+      "was": "Auffangstreitwert; laut Streitwertkatalog 2025 für befristete Aufenthaltstitel pro Person, das Eineinhalbfache für unbefristete, das Doppelte für Einbürgerung.",
+      "grundlage": "§ 52 Abs. 2 GKG; Streitwertkatalog 2025 Nr. 8.1, 42.1"
+    },
+    {
+      "wert": "3,0 Gebühren",
+      "was": "Gerichtsgebühr für das Verfahren; bei 5.000 € Streitwert 3 × 170,50 € = 511,50 €, fällig mit Einreichung der Klage.",
+      "grundlage": "KV GKG Nr. 5110, Anlage 2 GKG, § 6 Abs. 1 Nr. 5 GKG"
+    },
+    {
+      "wert": "1,0 Gebühr",
+      "was": "Ermäßigung u. a. bei Klagerücknahme oder Erledigungserklärungen ohne streitige Kostenentscheidung; bei 5.000 € Streitwert 170,50 €.",
+      "grundlage": "KV GKG Nr. 5111"
+    }
+  ],
+  "achtung": [
+    "Drei Monate sind die Untergrenze, kein Automatismus: Hat die Behörde einen zureichenden Grund, setzt das Gericht aus und gibt ihr eine Frist (§ 75 Satz 3 VwGO).",
+    "Die Kostenregel zugunsten der Kläger (§ 161 Abs. 3 VwGO) greift nur, wenn Sie mit einer Entscheidung vor der Klage rechnen durften – vollständige Unterlagen und Mitwirkung sind wichtig.",
+    "Klage per einfacher E-Mail ist nicht wirksam.",
+    "Klagegegner ist grundsätzlich der Rechtsträger der Behörde (Land, Kommune); in manchen Ländern die Behörde selbst (§ 78 VwGO).",
+    "Bei drohendem Verlust des Aufenthaltsrechts ist nicht die Untätigkeitsklage, sondern Eilrechtsschutz das richtige Mittel – dann schnell Rat holen."
+  ],
+  "fach_html": "<h3>Voraussetzungen (§ 75 VwGO)</h3><p>Ist über einen Antrag auf Vornahme eines Verwaltungsakts „ohne zureichenden Grund in angemessener Frist sachlich nicht entschieden“ worden, ist die Klage ohne Vorverfahren zulässig. Sie kann „nicht vor Ablauf von drei Monaten seit […] dem Antrag auf Vornahme des Verwaltungsakts erhoben werden, außer wenn wegen besonderer Umstände des Falles eine kürzere Frist geboten ist“. Liegt ein zureichender Grund vor, setzt das Gericht das Verfahren bis zum Ablauf einer von ihm bestimmten Frist aus; wird dem Antrag innerhalb dieser Frist entsprochen, ist die Hauptsache für erledigt zu erklären. Ob etwa Personalmangel oder Antragsstau ein zureichender Grund ist, beurteilen die Gerichte im Einzelfall; eine allgemeine Regel ist hier nicht belegt. Typische Fälle: Verlängerung oder Erteilung einer Aufenthaltserlaubnis, Niederlassungserlaubnis, Einbürgerung, Beschäftigungserlaubnis.</p><h3>Form und Inhalt der Klage</h3><p>Die Klage ist „schriftlich zu erheben“; beim Verwaltungsgericht „auch zu Protokoll des Urkundsbeamten der Geschäftsstelle“ (§ 81 Abs. 1 VwGO), also bei der Rechtsantragstelle. Sie „muß den Kläger, den Beklagten und den Gegenstand des Klagebegehrens bezeichnen“ (§ 82 Abs. 1 VwGO) und soll einen bestimmten Antrag enthalten. Üblicher Aufbau: Adressat (Verwaltungsgericht), Kläger mit Anschrift, Beklagter (nach § 78 Abs. 1 Nr. 1 VwGO der Bund, das Land oder die Körperschaft, deren Behörde den Verwaltungsakt unterlassen hat; nach Landesrecht ggf. die Behörde selbst), Antrag (die Behörde zu verpflichten, den beantragten Titel zu erteilen, hilfsweise über den Antrag zu entscheiden), Sachverhalt mit Datum des Antrags und aller Erinnerungen, Anlagen (Antrag, Eingangsbestätigung, Schriftwechsel). Eine einfache E-Mail genügt nicht; elektronisch nur über die zugelassenen sicheren Übermittlungswege.</p><h3>Erledigung und Kosten</h3><p>Entscheidet die Behörde während des Verfahrens positiv, erklären die Beteiligten den Rechtsstreit für erledigt; das Gericht entscheidet dann nach billigem Ermessen über die Kosten (§ 161 Abs. 2 VwGO). Nach § 161 Abs. 3 VwGO fallen „in den Fällen des § 75 […] die Kosten stets dem Beklagten zur Last, wenn der Kläger mit seiner Bescheidung vor Klageerhebung rechnen durfte“. Streitwert: Fehlen Anhaltspunkte, „ist ein Streitwert von 5 000 Euro anzunehmen“ (§ 52 Abs. 2 GKG). Der Streitwertkatalog 2025 (Empfehlung, Fassung 21.02.2025) nennt für befristete Aufenthaltstitel den Auffangwert pro Person (Nr. 8.1.2), für unbefristete den eineinhalbfachen (Nr. 8.1.1), für Einbürgerung den doppelten Auffangwert pro Person (Nr. 42.1); wird nur Bescheidung beantragt, mindestens die Hälfte (Nr. 1.4). Gerichtsgebühr: 3,0 nach KV GKG Nr. 5110; Ermäßigung auf 1,0 nach Nr. 5111 u. a. bei Klagerücknahme oder bei Erledigungserklärungen nach § 161 Abs. 2 VwGO, wenn keine Kostenentscheidung ergeht oder sie einer mitgeteilten Einigung bzw. Kostenübernahmeerklärung folgt. Eine Gebühr beträgt nach Anlage 2 GKG bei Streitwert bis 5.000 € 170,50 €, bis 8.000 € 238,00 €, bis 10.000 € 283,00 €. Daraus ergeben sich rechnerisch 511,50 € (Aufenthaltserlaubnis), 714,00 € (Niederlassungserlaubnis, 7.500 €) und 849,00 € (Einbürgerung, 10.000 €) bei voller Gebühr; der Streitwert wird aber vom Gericht festgesetzt.</p><h3>Selbst machen oder Anwalt?</h3><p>Vor dem Verwaltungsgericht können Sie „den Rechtsstreit selbst führen“ (§ 67 Abs. 1 VwGO); Anwaltszwang gilt erst vor OVG und BVerwG (§ 67 Abs. 4). Kosten: Gerichtsgebühren wie oben, die bei Erfolg oder nach § 161 Abs. 3 VwGO die Behörde trägt; eigene Anwaltskosten richten sich nach dem RVG (Beträge hier nicht belegt). Prozesskostenhilfe ist möglich (siehe eigene Seite). Anwaltliche Hilfe ist ratsam, wenn die Behörde während des Verfahrens ablehnt, wenn die Aufenthaltserlaubnis abläuft oder bei Einbürgerungen mit Sicherheits- oder Identitätsfragen.</p>",
+  "zustaendig": [
+    "Verwaltungsgericht am Wohnort bzw. Sitz der Behörde (Rechtsantragstelle)",
+    "Ausländerbehörde oder Einbürgerungsbehörde (Erinnerung, Sachstandsanfrage)",
+    "Rechtsanwältin/Rechtsanwalt für Migrationsrecht",
+    "Beratungsstellen, Beratungshilfe beim Amtsgericht"
+  ],
+  "belege": [
+    "Gesetze im Internet, §§ 67, 75, 78, 81, 82, 161 VwGO, abgerufen 24.09.2026",
+    "Gesetze im Internet, § 52 und § 6 GKG, Anlage 1 (KV Nr. 5110, 5111) und Anlage 2 GKG (BGBl. 2025 I Nr. 109), abgerufen 24.09.2026",
+    "Bundesverwaltungsgericht, Streitwertkatalog 2025 (Fassung 21.02.2025), abgerufen 24.09.2026",
+    "Verwaltungsgericht Berlin, Merkblatt Visa-Verfahren (Rechtsantragstelle, kein Anwaltszwang, keine Klage per E-Mail), abgerufen 24.09.2026"
+  ],
+  "siehe_auch": [
+    "aufenthaltstitel-verlaengerung-fiktionsbescheinigung",
+    "einbuergerung-antrag",
+    "prozesskostenhilfe-beratungshilfe"
+  ],
+  "stand": "September 2026"
+}

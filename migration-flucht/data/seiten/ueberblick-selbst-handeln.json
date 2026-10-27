@@ -1,0 +1,88 @@
+{
+  "id": "ueberblick-selbst-handeln",
+  "kategorie": "grundlagen",
+  "titel": "Verfahren, die Sie selbst führen können",
+  "icon": "🧭",
+  "teaser": "Viele Anträge, Auskünfte und sogar Klagen im Ausländer- und Asylrecht können Sie ohne Anwalt führen – wenn Sie Form und Fristen kennen.",
+  "schlagworte": [
+    "Selbst handeln",
+    "Vertretungszwang",
+    "Fristen",
+    "Rechtsantragstelle",
+    "Verwaltungsgericht",
+    "Sozialgericht",
+    "Untätigkeitsklage",
+    "Antrag"
+  ],
+  "kurz_html": "<p>Viele Verfahren im Ausländer- und Asylrecht können Sie selbst führen – ohne Anwalt oder Anwältin. Das gilt für Anträge, Auskunftsersuchen, Widersprüche und bestimmte Klagen.</p><p>Vor Gericht brauchen Sie in erster Instanz meist keine Vertretung. Ein Anwaltszwang gilt erst vor dem Oberverwaltungsgericht oder dem Bundesverwaltungsgericht, im Sozialrecht erst vor dem Bundessozialgericht.</p><p>Für eine Klage gibt es zwei Wege: schriftlich einreichen oder zu Protokoll der sogenannten Rechtsantragstelle bei Gericht erklären. Das ist kostenlos, ersetzt aber keine inhaltliche Beratung.</p><p>Fristen sind im Ausländer- und Asylrecht oft kurz: manchmal nur eine Woche oder zwei Wochen, sonst ein Monat. Verpassen Sie eine Frist, kann Ihr Anliegen abgelehnt werden, ohne dass der Inhalt geprüft wird.</p><p>Auf den folgenden 14 Seiten dieser Gruppe finden Sie einzelne Verfahren im Detail: von der Arbeitserlaubnis über die Einbürgerung bis zur Untätigkeitsklage gegen Behörden.</p>",
+  "schritte": [
+    {
+      "titel": "Bescheid oder Schreiben genau lesen",
+      "text": "Suchen Sie nach dem Datum der Zustellung und einer Rechtsbehelfsbelehrung. Sie bestimmt Frist und zuständiges Gericht."
+    },
+    {
+      "titel": "Zuständiges Gericht klären",
+      "text": "Ausländer- und Asylrecht gehört vor das Verwaltungsgericht, Sozialleistungen (zum Beispiel AsylbLG, Bürgergeld) vor das Sozialgericht."
+    },
+    {
+      "titel": "Form wählen",
+      "text": "Reichen Sie schriftlich ein oder gehen Sie zur Rechtsantragstelle des Gerichts und lassen Sie Ihr Anliegen zu Protokoll nehmen (§ 81 VwGO, § 90 SGG)."
+    },
+    {
+      "titel": "Frist nicht verstreichen lassen",
+      "text": "Notieren Sie das Fristende. Im Zweifel lieber zu früh als zu spät handeln."
+    },
+    {
+      "titel": "Passende Seite in dieser Übersicht suchen",
+      "text": "Für Ihr konkretes Anliegen finden Sie auf den folgenden Seiten Schritt-für-Schritt-Anleitungen."
+    }
+  ],
+  "fristen": [
+    {
+      "wert": "1 Woche",
+      "was": "Verkürzte Klagefrist im Asylverfahren in bestimmten, gesetzlich benannten Fällen (unter anderem bei Eilanträgen nach § 80 Abs. 5 VwGO).",
+      "grundlage": "§ 74 Abs. 1 AsylG n. F."
+    },
+    {
+      "wert": "2 Wochen",
+      "was": "Regelfrist für die Klage gegen Entscheidungen nach dem Asylgesetz.",
+      "grundlage": "§ 74 Abs. 1 AsylG n. F."
+    },
+    {
+      "wert": "1 Monat",
+      "was": "Klagefrist im allgemeinen Verwaltungsrecht (Anfechtungs- und Verpflichtungsklage) nach Zustellung des Bescheids oder Widerspruchsbescheids.",
+      "grundlage": "§ 74 Abs. 1 und 2 VwGO"
+    },
+    {
+      "wert": "3 Monate",
+      "was": "Frühester Zeitpunkt für eine Untätigkeitsklage nach Widerspruch oder Antrag ohne Entscheidung.",
+      "grundlage": "§ 75 VwGO"
+    }
+  ],
+  "achtung": [
+    "Die Zwei-Wochen-Frist bei Asylklagen gilt seit der GEAS-Reform ausdrücklich im Einklang mit Art. 67 Abs. 7 der Verordnung (EU) 2024/1348; prüfen Sie im Einzelfall, ob nicht die kürzere Wochenfrist gilt.",
+    "Formlose E-Mails reichen für eine Klage nicht. Nötig ist Schriftform oder eine Erklärung zu Protokoll der Rechtsantragstelle.",
+    "Die Rechtsantragstelle nimmt Ihre Erklärung nur auf – sie berät nicht inhaltlich und vertritt Sie nicht.",
+    "Vertretungszwang gilt vor dem Verwaltungsgericht und dem Sozialgericht nicht, wohl aber vor Oberverwaltungsgericht/Bundesverwaltungsgericht (§ 67 VwGO) beziehungsweise vor dem Bundessozialgericht (§ 73 SGG)."
+  ],
+  "fach_html": "<h3>Vertretungszwang</h3><p>Vor dem Verwaltungsgericht und dem Sozialgericht können Sie sich selbst vertreten; ein Anwaltszwang besteht in erster Instanz grundsätzlich nicht. Erst vor dem Oberverwaltungsgericht und dem Bundesverwaltungsgericht müssen sich Beteiligte durch Prozessbevollmächtigte vertreten lassen, außer im Prozesskostenhilfeverfahren (§ 67 VwGO). Im Sozialrecht gilt dieser Zwang erst vor dem Bundessozialgericht (§ 73 SGG).</p><h3>Formvorschriften</h3><p>Eine Klage vor dem Verwaltungsgericht ist schriftlich zu erheben oder zu Protokoll des Urkundsbeamten der Geschäftsstelle (§ 81 VwGO). Vor dem Sozialgericht gilt dasselbe: schriftlich oder zu Protokoll der Geschäftsstelle (§ 90 SGG). Diese Möglichkeit, eine Klage mündlich bei der sogenannten Rechtsantragstelle zu Protokoll zu geben, ist kostenlos und ersetzt weder eine juristische Prüfung noch eine Beratung.</p><h3>Fristen im Ausländer- und Asylrecht</h3><p>Seit der GEAS-Reform (in Kraft seit 12. Juni 2026) beträgt die Klagefrist gegen Entscheidungen nach dem Asylgesetz im Regelfall zwei Wochen nach Zustellung; in bestimmten, im Gesetz benannten Fällen – etwa wenn ein Antrag nach § 80 Abs. 5 VwGO innerhalb einer Woche zu stellen ist – verkürzt sich die Frist auf eine Woche (§ 74 Abs. 1 AsylG n. F. in Verbindung mit Art. 67 Abs. 7 der Verordnung (EU) 2024/1348). Im allgemeinen Verwaltungsrecht gilt für Anfechtungs- und Verpflichtungsklagen eine Frist von einem Monat nach Zustellung des Bescheids oder Widerspruchsbescheids (§ 74 Abs. 1 und 2 VwGO). Bleibt eine Behörde ohne zureichenden Grund untätig, ist eine Klage frühestens drei Monate nach Antragstellung oder Widerspruch möglich (§ 75 VwGO); im Sozialrecht gelten sechs Monate nach Antragstellung beziehungsweise drei Monate nach Widerspruch (§ 88 SGG).</p><h3>Übersicht der Themen dieser Gruppe</h3><p>Die folgenden 14 Seiten behandeln einzelne Verfahren im Detail: Arbeits- und Beschäftigungserlaubnis, Einbürgerung, Verlängerung des Aufenthaltstitels und Fiktionsbescheinigung, Wohnsitzauflage und Umverteilung, Familiennachzug, Anerkennung ausländischer Abschlüsse, Untätigkeitsklagen gegen Ausländerbehörde, Visumstelle und BAMF, Auskunft aus dem Ausländerzentralregister, Akteneinsicht, Widerspruch gegen Leistungskürzungen nach dem AsylbLG, Prozesskosten- und Beratungshilfe sowie Beratungsstellen.</p><h3>Selbst machen oder Anwalt?</h3><p>Anträge, Auskunftsersuchen und die meisten Klagen vor dem Verwaltungs- oder Sozialgericht können Sie ohne anwaltliche Vertretung führen; ein Vertretungszwang besteht erst vor Oberverwaltungsgericht, Bundesverwaltungsgericht oder Bundessozialgericht (§ 67 VwGO, § 73 SGG). Kosten trägt im Verwaltungsprozess grundsätzlich die unterliegende Partei (§ 154 Abs. 1 VwGO); Streitigkeiten nach dem Asylgesetz sind gerichtskostenfrei (§ 83b AsylG); im sozialgerichtlichen Verfahren sind Betroffene meist gerichtskostenfrei gestellt (§ 183 SGG). Anwaltliche Hilfe ist sinnvoll, wenn der Sachverhalt komplex ist, mehrere Rechtsgebiete zusammentreffen, eine Frist bereits knapp wird oder es um existenzielle Fragen wie den Schutzstatus selbst geht; bei geringem Einkommen kann Prozesskostenhilfe oder Beratungshilfe die Kosten übernehmen.</p>",
+  "zustaendig": [
+    "Verwaltungsgericht (Ausländer- und Asylrecht)",
+    "Sozialgericht (Sozialleistungen, zum Beispiel AsylbLG)",
+    "Rechtsantragstelle beim jeweiligen Gericht (Erklärung zu Protokoll)",
+    "Ausländerbehörde, BAMF oder Jobcenter/Sozialamt je nach Verfahren"
+  ],
+  "belege": [
+    "§ 67 VwGO, gesetze-im-internet.de, abgerufen 24.09.2026",
+    "§ 73 SGG, gesetze-im-internet.de, abgerufen 24.09.2026",
+    "§ 81 VwGO und § 90 SGG, gesetze-im-internet.de, abgerufen 24.09.2026",
+    "§ 74 AsylG und § 74 VwGO, gesetze-im-internet.de, abgerufen 24.09.2026",
+    "§ 75 VwGO, gesetze-im-internet.de, abgerufen 24.09.2026"
+  ],
+  "siehe_auch": [
+    "untaetigkeitsklage-auslaenderbehoerde",
+    "akteneinsicht-auslaenderakte",
+    "prozesskostenhilfe-beratungshilfe"
+  ],
+  "stand": "September 2026"
+}

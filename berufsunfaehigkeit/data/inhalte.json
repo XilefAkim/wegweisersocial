@@ -1,0 +1,1242 @@
+{
+  "kategorien": [
+    {
+      "id": "ueberblick",
+      "titel": "Überblick und Grundlagen",
+      "icon": "🧭",
+      "beschreibung": "Erwerbsminderungsrente und private BU-Versicherung im Vergleich."
+    },
+    {
+      "id": "gesetzliche-rente",
+      "titel": "Gesetzliche Erwerbsminderungsrente",
+      "icon": "⚖️",
+      "beschreibung": "Voraussetzungen, Reha vor Rente, Widerspruch, Hinzuverdienst."
+    },
+    {
+      "id": "auffangnetz",
+      "titel": "Auffangleistungen",
+      "icon": "🛟",
+      "beschreibung": "Grundsicherung, wenn die Rente nicht reicht."
+    },
+    {
+      "id": "private-versicherung",
+      "titel": "Private Berufsunfähigkeitsversicherung",
+      "icon": "📄",
+      "beschreibung": "Vertragsgrundlagen, Ablehnung, Verweisung, Nachprüfung."
+    },
+    {
+      "id": "geld-steuern",
+      "titel": "Geld und Steuern",
+      "icon": "💶",
+      "beschreibung": "Steuerliche Behandlung, Riester und Rürup bei Berufsunfähigkeit."
+    },
+    {
+      "id": "arbeitsplatz",
+      "titel": "Arbeitsplatz und besondere Konstellationen",
+      "icon": "🏢",
+      "beschreibung": "Kündigungsschutz, BEM, Schwerbehindertenausweis."
+    },
+    {
+      "id": "besondere-gruppen",
+      "titel": "Besondere Gruppen",
+      "icon": "🧑‍💼",
+      "beschreibung": "Berufsunfähigkeit von Selbstständigen."
+    },
+    {
+      "id": "beratung",
+      "titel": "Beratung und Anlaufstellen",
+      "icon": "📞",
+      "beschreibung": "Wer bei welchem Anliegen hilft."
+    }
+  ],
+  "seiten": [
+    {
+      "id": "ueberblick-em-rente-vs-bu-versicherung",
+      "kategorie": "ueberblick",
+      "titel": "Erwerbsminderungsrente und private Berufsunfähigkeitsversicherung im Vergleich",
+      "icon": "🧭",
+      "teaser": "Die gesetzliche Erwerbsminderungsrente und die private Berufsunfähigkeitsversicherung prüfen unterschiedliche Dinge und zahlen oft nicht dasselbe – deshalb ergänzen sie sich, statt sich zu ersetzen.",
+      "schlagworte": [
+        "Erwerbsminderungsrente",
+        "Berufsunfähigkeitsversicherung",
+        "Berufsunfähigkeit",
+        "Erwerbsminderung",
+        "Versorgungslücke"
+      ],
+      "kurz_html": "\n<p>Wer wegen einer Krankheit oder Behinderung nicht mehr oder nur noch eingeschränkt arbeiten kann, hat es in\nDeutschland mit zwei völlig unterschiedlichen Systemen zu tun: der <strong>gesetzlichen Erwerbsminderungsrente</strong>\naus der Rentenversicherung (SGB VI) und der <strong>privaten Berufsunfähigkeitsversicherung</strong> (BU-Versicherung),\neinem freiwillig abgeschlossenen Vertrag. Beide werden umgangssprachlich oft „BU\" genannt, meinen aber Verschiedenes\nund prüfen nach unterschiedlichen Maßstäben.</p>\n<p>Die gesetzliche Erwerbsminderungsrente fragt, ob Sie überhaupt noch irgendeiner Tätigkeit auf dem allgemeinen\nArbeitsmarkt mindestens sechs Stunden täglich nachgehen können – unabhängig von Ihrem erlernten Beruf. Die private\nBerufsunfähigkeitsversicherung fragt dagegen, ob Sie noch Ihren zuletzt ausgeübten Beruf ausüben können. Das führt in\nder Praxis häufig dazu, dass jemand nach den Maßstäben der privaten Versicherung berufsunfähig ist, aber keine\nErwerbsminderungsrente bekommt, weil er formal noch irgendeiner anderen Arbeit nachgehen könnte.</p>\n",
+      "schritte": [
+        {
+          "titel": "Beide Begriffe auseinanderhalten",
+          "text": "„Berufsunfähigkeit“ ist der Maßstab der privaten Versicherung, „Erwerbsminderung“ der Maßstab der gesetzlichen Rente – wer das eine geprüft hat, kennt nicht automatisch den Anspruch auf das andere."
+        },
+        {
+          "titel": "Bestehenden Schutz prüfen",
+          "text": "Klären Sie, ob Sie Pflichtmitglied der gesetzlichen Rentenversicherung sind und ob ein privater BU-Vertrag besteht."
+        },
+        {
+          "titel": "Wartezeit im Blick behalten",
+          "text": "Für die gesetzliche Erwerbsminderungsrente ist in der Regel eine fünfjährige Wartezeit nötig – siehe die vertiefende Themenseite zu Voraussetzungen und Antrag."
+        },
+        {
+          "titel": "Absicherungslücke ergänzend schließen",
+          "text": "Wer nur schwach oder gar nicht gesetzlich abgesichert ist, sollte eine private Berufsunfähigkeitsversicherung prüfen – am besten, solange noch keine Erkrankung vorliegt."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "Keine gesetzliche Frist",
+          "was": "Der Vergleich beider Systeme ist kein Antragsverfahren. Fristen entstehen erst mit dem konkreten Renten- oder Leistungsantrag – siehe die jeweiligen Themenseiten."
+        }
+      ],
+      "achtung": [
+        "Eine private BU-Versicherung muss in aller Regel vor Eintritt der Erkrankung abgeschlossen werden: Die Gesundheitsprüfung bei Vertragsschluss (vorvertragliche Anzeigepflicht, § 19 VVG) führt bei bereits bestehenden Beschwerden meist zu Leistungsausschlüssen oder zur Ablehnung des Antrags.",
+        "Die gesetzliche Erwerbsminderungsrente ersetzt in der Praxis häufig nur einen Bruchteil des letzten Nettoeinkommens – sie ist als alleinige Absicherung oft nicht ausreichend.",
+        "Wer keine gesetzliche Rentenversicherungspflicht hat (etwa viele Selbstständige, siehe eigene Themenseite), hat im Ernstfall häufig gar keinen Zugang zur gesetzlichen Erwerbsminderungsrente."
+      ],
+      "tief": [
+        {
+          "titel": "Zwei Systeme, zwei Maßstäbe",
+          "html": "<p>Die gesetzliche Erwerbsminderungsrente nach § 43 SGB VI stellt auf das <em>Restleistungsvermögen auf dem allgemeinen Arbeitsmarkt</em> ab: Wer noch mindestens sechs Stunden täglich irgendeiner Tätigkeit nachgehen könnte, für die er nach Ausbildung und Erfahrung in Betracht kommt, erhält keine volle Erwerbsminderungsrente – unabhängig davon, ob diese Tätigkeit dem bisherigen Beruf, der Qualifikation oder dem bisherigen Einkommen entspricht. Die private Berufsunfähigkeitsversicherung nach § 172 VVG stellt dagegen auf den <em>zuletzt ausgeübten Beruf in seiner konkreten Ausgestaltung</em> ab.</p>"
+        },
+        {
+          "titel": "Warum beide zusammen gedacht werden sollten",
+          "html": "<p>Weil die Maßstäbe unabhängig voneinander sind, kann eine Person zugleich berufsunfähig im Sinne des Versicherungsvertrags und nicht erwerbsgemindert im Sinne des SGB VI sein – und umgekehrt. Eine vollständige Absicherung berücksichtigt deshalb beide Systeme, nicht nur eines.</p>"
+        }
+      ],
+      "zustaendigkeit": [
+        "Deutsche Rentenversicherung (gesetzliche Erwerbsminderungsrente)",
+        "Privater Versicherer (Berufsunfähigkeitsversicherung)"
+      ],
+      "weiterlesen": [
+        {
+          "href": "em-rente-voraussetzungen-antrag.html",
+          "titel": "Erwerbsminderungsrente: Voraussetzungen, Wartezeit und Antrag"
+        },
+        {
+          "href": "private-bu-vertragsgrundlagen.html",
+          "titel": "Private Berufsunfähigkeitsversicherung: Vertragsgrundlagen"
+        }
+      ],
+      "belege": [
+        "§ 43 SGB VI (gesetze-im-internet.de)",
+        "§ 172 VVG (gesetze-im-internet.de)",
+        "§ 19 VVG (gesetze-im-internet.de)"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "em-rente-voraussetzungen-antrag",
+      "kategorie": "gesetzliche-rente",
+      "titel": "Erwerbsminderungsrente: Voraussetzungen, Wartezeit und Antrag",
+      "icon": "📝",
+      "teaser": "Wer wegen Krankheit oder Behinderung auf dem allgemeinen Arbeitsmarkt nicht mehr mindestens sechs Stunden täglich arbeiten kann, kommt für eine Rente wegen Erwerbsminderung in Betracht – vorausgesetzt, Wartezeit und versicherungsrechtliche Voraussetzungen sind erfüllt.",
+      "schlagworte": [
+        "§ 43 SGB VI",
+        "Wartezeit",
+        "Volle Erwerbsminderung",
+        "Teilweise Erwerbsminderung",
+        "Rentenantrag",
+        "§ 99 SGB VI",
+        "§ 102 SGB VI"
+      ],
+      "kurz_html": "\n<p>Nach § 43 SGB VI gibt es zwei Stufen: <strong>volle Erwerbsminderung</strong> liegt vor, wenn Sie auf dem\nallgemeinen Arbeitsmarkt unter drei Stunden täglich arbeiten können; <strong>teilweise Erwerbsminderung</strong>,\nwenn es noch mindestens drei, aber unter sechs Stunden sind. Maßgeblich ist dabei nicht Ihr bisheriger Beruf,\nsondern jede Tätigkeit, die der allgemeine Arbeitsmarkt bereithält.</p>\n<p>Voraussetzung ist außerdem die allgemeine Wartezeit von fünf Jahren sowie – anders als bei der Altersrente –\neine besondere versicherungsrechtliche Voraussetzung: In den letzten fünf Jahren vor Eintritt der Erwerbsminderung\nmüssen mindestens drei Jahre Pflichtbeiträge liegen (§ 43 Abs. 1 Nr. 2, Abs. 4 SGB VI). Für Personen, die kurz nach\nAusbildungsende oder durch einen Arbeitsunfall bzw. eine Berufskrankheit erwerbsgemindert werden, gelten Ausnahmen.</p>\n",
+      "schritte": [
+        {
+          "titel": "Ärztliche Unterlagen sammeln",
+          "text": "Befunde, Reha-Entlassberichte und fachärztliche Stellungnahmen belegen die Einschränkung Ihres Leistungsvermögens."
+        },
+        {
+          "titel": "Antrag bei der Deutschen Rentenversicherung stellen",
+          "text": "Formlos, online oder über eine Beratungsstelle – der Antrag löst zugleich die Prüfung „Reha vor Rente“ aus."
+        },
+        {
+          "titel": "Sozialmedizinische Begutachtung durchlaufen",
+          "text": "Ein Gutachter der Rentenversicherung bewertet Ihr Restleistungsvermögen auf dem allgemeinen Arbeitsmarkt."
+        },
+        {
+          "titel": "Bescheid prüfen",
+          "text": "Erwerbsminderungsrenten werden in der Regel zunächst befristet bewilligt (§ 102 SGB VI) – prüfen Sie Befristung und Rentenbeginn genau."
+        },
+        {
+          "titel": "Reha-Vorrang beachten",
+          "text": "Die Rentenversicherung kann vorrangig eine Rehabilitation prüfen, bevor sie über die Rente entscheidet – siehe die eigene Themenseite dazu."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "5 Jahre",
+          "was": "Allgemeine Wartezeit als Grundvoraussetzung.",
+          "gr": "§ 50 SGB VI"
+        },
+        {
+          "wert": "3 von 5 Jahren",
+          "was": "Besondere versicherungsrechtliche Voraussetzung: Pflichtbeiträge in den letzten fünf Jahren vor Eintritt der Erwerbsminderung.",
+          "gr": "§ 43 Abs. 1 Nr. 2, Abs. 4 SGB VI"
+        },
+        {
+          "wert": "3 Kalendermonate",
+          "was": "Wird der Rentenantrag innerhalb dieser Frist nach Ablauf des Monats gestellt, in dem die Voraussetzungen erfüllt sind, beginnt die Rente rückwirkend – sonst erst mit dem Antragsmonat.",
+          "gr": "§ 99 Abs. 1 SGB VI"
+        }
+      ],
+      "achtung": [
+        "Die gesetzliche Rente prüft „abstrakt“: Es zählt, ob Sie irgendeine Tätigkeit auf dem allgemeinen Arbeitsmarkt mindestens sechs Stunden täglich ausüben könnten – nicht, ob Sie Ihren erlernten oder zuletzt ausgeübten Beruf noch ausüben können.",
+        "Wer sehr früh im Erwerbsleben erwerbsgemindert wird (z. B. kurz nach Ausbildungsende durch einen Unfall), erfüllt die fünfjährige Wartezeit oft noch nicht – hierfür bestehen Ausnahmeregelungen bei Arbeitsunfall/Berufskrankheit und für bestimmte Berufseinsteiger.",
+        "Erwerbsminderungsrenten sind meist befristet und fallen wegen der Zurechnungszeit (§ 59 SGB VI) und der Rentenformel oft deutlich niedriger aus als das frühere Nettoeinkommen."
+      ],
+      "tief": [
+        {
+          "titel": "Volle und teilweise Erwerbsminderung",
+          "html": "<p>§ 43 Abs. 1 und 2 SGB VI unterscheiden nach dem verbleibenden Leistungsvermögen: unter drei Stunden täglich (volle Erwerbsminderung) bzw. drei bis unter sechs Stunden täglich (teilweise Erwerbsminderung), jeweils bezogen auf den allgemeinen Arbeitsmarkt und unabhängig von der Arbeitsmarktlage.</p>"
+        },
+        {
+          "titel": "Wartezeit und besondere versicherungsrechtliche Voraussetzungen",
+          "html": "<p>Neben der allgemeinen Wartezeit von fünf Jahren (§ 50 SGB VI) verlangt § 43 Abs. 1 Nr. 2, Abs. 4 SGB VI mindestens drei Jahre Pflichtbeiträge in den letzten fünf Jahren vor Eintritt der Erwerbsminderung. § 53 SGB VI lässt hiervon Ausnahmen zu, u. a. bei Erwerbsminderung infolge eines Arbeitsunfalls oder einer Berufskrankheit.</p>"
+        },
+        {
+          "titel": "Befristung",
+          "html": "<p>Nach § 102 Abs. 2 SGB VI werden Renten wegen Erwerbsminderung in der Regel befristet geleistet, wenn unwahrscheinlich ist, dass die Erwerbsminderung dauerhaft bleibt; eine Verlängerung ist möglich, eine unbefristete Rente kommt erst nach längerem Leistungsbezug oder bei erkennbarer Dauerhaftigkeit in Betracht.</p>"
+        },
+        {
+          "titel": "Rentenbeginn",
+          "html": "<p>§ 99 Abs. 1 SGB VI regelt den Rentenbeginn: Bei rechtzeitigem Antrag (innerhalb von drei Kalendermonaten nach Ablauf des Monats der Anspruchsentstehung) beginnt die Rente rückwirkend zum Monat der Anspruchsentstehung, sonst erst mit dem Antragsmonat.</p>"
+        }
+      ],
+      "zustaendigkeit": [
+        "Deutsche Rentenversicherung Bund oder zuständiger Regionalträger"
+      ],
+      "weiterlesen": [
+        {
+          "href": "reha-vor-rente.html",
+          "titel": "Reha vor Rente"
+        },
+        {
+          "href": "widerspruch-em-rente.html",
+          "titel": "Widerspruch gegen den Ablehnungsbescheid"
+        },
+        {
+          "href": "hinzuverdienst-em-rente.html",
+          "titel": "Hinzuverdienst bei der Erwerbsminderungsrente"
+        }
+      ],
+      "belege": [
+        "§§ 43, 50, 53, 59, 99, 102 SGB VI (gesetze-im-internet.de)"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "reha-vor-rente",
+      "kategorie": "gesetzliche-rente",
+      "titel": "Reha vor Rente",
+      "icon": "🩺",
+      "teaser": "Bevor die Deutsche Rentenversicherung eine Erwerbsminderungsrente bewilligt, muss sie prüfen, ob medizinische oder berufliche Rehabilitation die Erwerbsfähigkeit erhalten oder wiederherstellen kann – der Grundsatz „Reha vor Rente“.",
+      "schlagworte": [
+        "Reha vor Rente",
+        "§ 9 SGB VI",
+        "Medizinische Rehabilitation",
+        "Berufliche Rehabilitation",
+        "§ 116 SGB VI",
+        "Teilhabe"
+      ],
+      "kurz_html": "\n<p>§ 9 SGB VI verpflichtet die Rentenversicherung, Leistungen zur Teilhabe (Rehabilitation) vorrangig vor einer Rente\nwegen verminderter Erwerbsfähigkeit zu erbringen, wenn dadurch die Erwerbsfähigkeit erhalten, gebessert oder\nwiederhergestellt werden kann. Deshalb kann ein Antrag auf Erwerbsminderungsrente von der Rentenversicherung von\nAmts wegen in einen Reha-Antrag umgedeutet werden (§ 116 Abs. 2 SGB VI).</p>\n<p>Das bedeutet nicht, dass Ihnen die Rente verweigert wird – sondern dass zunächst geprüft wird, ob eine\nmedizinische Reha (z. B. eine Anschlussheilbehandlung) oder eine berufliche Reha (Leistungen zur Teilhabe am\nArbeitsleben, etwa Umschulung oder ein leidensgerechter Arbeitsplatz) ausreicht, um wieder erwerbsfähig zu werden.</p>\n",
+      "schritte": [
+        {
+          "titel": "Reha-Bedarf einschätzen lassen",
+          "text": "Ärztliche Unterlagen und der Rentenantrag selbst geben der Rentenversicherung Hinweise auf einen möglichen Reha-Bedarf."
+        },
+        {
+          "titel": "Auf Umdeutung reagieren",
+          "text": "Wird Ihr Rentenantrag in einen Reha-Antrag umgedeutet, prüfen Sie die Mitteilung genau – Sie können unter engen Voraussetzungen widersprechen."
+        },
+        {
+          "titel": "Reha-Maßnahme durchlaufen",
+          "text": "Medizinische Reha oder Leistungen zur Teilhabe am Arbeitsleben (LTA) sollen die Erwerbsfähigkeit erhalten oder wiederherstellen."
+        },
+        {
+          "titel": "Bei unzureichendem Erfolg erneut Rente beantragen",
+          "text": "Reicht die Reha nicht aus, bleibt der Weg zur Erwerbsminderungsrente offen – siehe die Themenseite zu Voraussetzungen und Antrag."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "Keine gesetzliche Frist",
+          "was": "Für die Frage, ob Reha vor Rente greift, gibt es keine feste Frist. Die Rentenversicherung entscheidet im Einzelfall; Fristen entstehen erst mit einem konkreten Bescheid oder Widerspruch."
+        }
+      ],
+      "achtung": [
+        "Sie können der Umdeutung Ihres Rentenantrags in einen Reha-Antrag widersprechen (§ 116 Abs. 2 Satz 2 SGB VI), etwa wenn Reha aus gesundheitlichen Gründen offensichtlich nicht zumutbar erscheint – das sollte aber nicht leichtfertig geschehen, denn ein abgelehnter Reha-Antrag beschleunigt die Rentenprüfung nicht automatisch.",
+        "Nach § 9 Abs. 2 SGB VI können Reha-Leistungen entfallen, wenn sie offensichtlich aussichtslos oder aus gesundheitlichen Gründen nicht zumutbar sind – auch das muss im Einzelfall geprüft und ggf. angegriffen werden."
+      ],
+      "tief": [
+        {
+          "titel": "§ 9 SGB VI: Vorrang von Prävention und Reha",
+          "html": "<p>Der Vorrang gilt sowohl gegenüber der Rente wegen verminderter Erwerbsfähigkeit als auch – nach § 9 Abs. 1 SGB VI – im Grundsatz „Prävention vor Reha vor Rente“.</p>"
+        },
+        {
+          "titel": "Umdeutung des Rentenantrags",
+          "html": "<p>§ 116 Abs. 2 SGB VI erlaubt es der Rentenversicherung, einen Rentenantrag als Reha-Antrag zu werten, wenn dadurch die Erwerbsfähigkeit voraussichtlich wiederhergestellt werden kann; Versicherte können dem unter den gesetzlich genannten Voraussetzungen widersprechen.</p>"
+        },
+        {
+          "titel": "Übergangsgeld während der Reha",
+          "html": "<p>Während einer Reha-Maßnahme wird in der Regel Übergangsgeld gezahlt, das den Lebensunterhalt sichern soll – die konkrete Höhe richtet sich nach dem vorherigen Einkommen und ist hier nicht mit einem festen Betrag beziffert, da sie individuell berechnet wird.</p>"
+        }
+      ],
+      "zustaendigkeit": [
+        "Deutsche Rentenversicherung als Reha-Träger"
+      ],
+      "weiterlesen": [
+        {
+          "href": "em-rente-voraussetzungen-antrag.html",
+          "titel": "Erwerbsminderungsrente: Voraussetzungen, Wartezeit und Antrag"
+        },
+        {
+          "href": "widerspruch-em-rente.html",
+          "titel": "Widerspruch gegen den Ablehnungsbescheid"
+        }
+      ],
+      "belege": [
+        "§§ 9, 116 SGB VI (gesetze-im-internet.de)"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "widerspruch-em-rente",
+      "kategorie": "gesetzliche-rente",
+      "titel": "Widerspruch gegen den Ablehnungsbescheid der Erwerbsminderungsrente",
+      "icon": "⚖️",
+      "teaser": "Wird die Erwerbsminderungsrente abgelehnt, zu niedrig oder zu kurz befristet bewilligt, können Sie innerhalb eines Monats Widerspruch einlegen – entscheidend ist dabei meist ein weiteres, fundiertes medizinisches Gutachten.",
+      "schlagworte": [
+        "Widerspruch",
+        "§ 84 SGG",
+        "Sozialgericht",
+        "Sachverständigengutachten",
+        "Klage",
+        "§ 183 SGG"
+      ],
+      "kurz_html": "\n<p>Die häufigste Ursache für die Ablehnung einer Erwerbsminderungsrente ist ein sozialmedizinisches Gutachten, das\nein noch ausreichendes Restleistungsvermögen auf dem allgemeinen Arbeitsmarkt bescheinigt. Gegen den\nAblehnungsbescheid können Sie innerhalb eines Monats nach Zustellung schriftlich Widerspruch einlegen – das kostet\nnichts. Hilft die Rentenversicherung dem Widerspruch nicht ab, können Sie danach kostenfrei vor dem Sozialgericht\nklagen.</p>\n",
+      "schritte": [
+        {
+          "titel": "Bescheid und Gutachten anfordern",
+          "text": "Fordern Sie das zugrunde liegende sozialmedizinische Gutachten über Ihre Akteneinsicht an, um die Ablehnung nachvollziehen zu können."
+        },
+        {
+          "titel": "Widerspruch fristgerecht einlegen",
+          "text": "Ein Monat nach Zustellung – eine kurze Begründung reicht zunächst, kann nachgereicht werden."
+        },
+        {
+          "titel": "Eigene fachärztliche Unterlagen beibringen",
+          "text": "Ein fundiertes Gegen-Gutachten oder aktuelle fachärztliche Befunde sind meist wirksamer als eine bloße Wiederholung des Antrags."
+        },
+        {
+          "titel": "Bei Ablehnung des Widerspruchs klagen",
+          "text": "Die Klage vor dem Sozialgericht ist für Versicherte grundsätzlich gerichtskostenfrei; das Gericht klärt strittige medizinische Fragen ggf. durch ein eigenes Sachverständigengutachten."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "1 Monat",
+          "was": "Widerspruchsfrist ab Zustellung des Bescheids (3 Monate bei Zustellung im Ausland).",
+          "gr": "§ 84 SGG"
+        },
+        {
+          "wert": "1 Monat",
+          "was": "Klagefrist gegen den Widerspruchsbescheid.",
+          "gr": "§ 87 SGG"
+        }
+      ],
+      "achtung": [
+        "Gegen ein sozialmedizinisches Gutachten hilft meist nur ein fundiertes Gegen-Gutachten oder aktuelle fachärztliche Befunde – nicht die bloße Wiederholung der bisherigen Angaben.",
+        "Sozialgerichtliche Verfahren können sich über Monate bis Jahre hinziehen; prüfen Sie frühzeitig, wie eine finanzielle Überbrückung möglich ist (z. B. Grundsicherung, siehe eigene Themenseite).",
+        "Widerspruch und Klage sind für Versicherte als Kläger grundsätzlich gerichtskostenfrei (§ 183 SGG) – lassen Sie sich von Kosten nicht abschrecken."
+      ],
+      "tief": [
+        {
+          "titel": "Gutachten als Kern des Verfahrens",
+          "html": "<p>Die Ablehnung stützt sich in aller Regel auf ein sozialmedizinisches Gutachten im Auftrag der Rentenversicherung. Im Widerspruchs- und Klageverfahren kommt es maßgeblich darauf an, dieses Gutachten fachlich zu entkräften.</p>"
+        },
+        {
+          "titel": "Beweislast und Sachverständigenbeweis",
+          "html": "<p>Im sozialgerichtlichen Verfahren gilt der Amtsermittlungsgrundsatz; das Gericht kann nach § 103 SGG von Amts wegen oder auf Antrag eigene Sachverständigengutachten einholen, u. a. auf Antrag der klagenden Person nach § 109 SGG gegen Kostenübernahme.</p>"
+        },
+        {
+          "titel": "Kostenfreiheit",
+          "html": "<p>Nach § 183 SGG sind Verfahren vor den Sozialgerichten für Versicherte, Leistungsempfänger und bestimmte weitere Personengruppen als Kläger oder Beklagte grundsätzlich gerichtskostenfrei.</p>"
+        }
+      ],
+      "zustaendigkeit": [
+        "Deutsche Rentenversicherung (Widerspruch)",
+        "Sozialgericht (Klage)"
+      ],
+      "weiterlesen": [
+        {
+          "href": "em-rente-voraussetzungen-antrag.html",
+          "titel": "Erwerbsminderungsrente: Voraussetzungen, Wartezeit und Antrag"
+        },
+        {
+          "href": "grundsicherung-bei-erwerbsminderung.html",
+          "titel": "Grundsicherung im Alter und bei Erwerbsminderung"
+        }
+      ],
+      "belege": [
+        "§§ 84, 87, 103, 109, 183 SGG (gesetze-im-internet.de)"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "hinzuverdienst-em-rente",
+      "kategorie": "gesetzliche-rente",
+      "titel": "Hinzuverdienst bei der Erwerbsminderungsrente",
+      "icon": "➕",
+      "teaser": "Auch mit einer Erwerbsminderungsrente dürfen Sie unter bestimmten Grenzen hinzuverdienen, ohne dass die Rente gekürzt wird – seit 2023 gelten dafür deutlich großzügigere Regeln als früher.",
+      "schlagworte": [
+        "Hinzuverdienstgrenze",
+        "§ 96a SGB VI",
+        "Bezugsgröße",
+        "Volle Erwerbsminderungsrente",
+        "Teilweise Erwerbsminderungsrente"
+      ],
+      "kurz_html": "\n<p>Seit dem 1. Januar 2023 gilt für Renten wegen Erwerbsminderung eine individuelle Hinzuverdienstgrenze nach\n§ 96a SGB VI. Bei voller Erwerbsminderung gibt es eine formelbasierte Mindesthinzuverdienstgrenze; bei teilweiser\nErwerbsminderung orientiert sich die individuelle Grenze zusätzlich am höchsten Verdienst der letzten 15\nKalenderjahre. Wird die Grenze überschritten, wird der übersteigende Betrag nur anteilig auf die Rente angerechnet\n– die Rente entfällt nicht automatisch vollständig.</p>\n",
+      "schritte": [
+        {
+          "titel": "Rentenbescheid auf die genannte Hinzuverdienstgrenze prüfen",
+          "text": "Die individuelle Grenze steht im Rentenbescheid."
+        },
+        {
+          "titel": "Einkommen der Rentenversicherung melden",
+          "text": "Änderungen des Hinzuverdienstes müssen der Deutschen Rentenversicherung mitgeteilt werden."
+        },
+        {
+          "titel": "Bei Überschreiten die anteilige Anrechnung beachten",
+          "text": "Es kommt in der Regel nicht zum vollständigen Wegfall, sondern zu einer stufenweisen Kürzung."
+        },
+        {
+          "titel": "Aktuellen Betrag direkt bei der Rentenversicherung erfragen",
+          "text": "Da sich die Werte jährlich an der Bezugsgröße orientieren, ist eine individuelle Auskunft zuverlässiger als eine pauschale Zahl."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "Keine gesetzliche Frist",
+          "was": "Für den Hinzuverdienst selbst gibt es keine Antragsfrist – die Mitteilungspflicht gegenüber der Rentenversicherung besteht aber laufend, sobald sich der Verdienst ändert."
+        }
+      ],
+      "achtung": [
+        "Diese Seite nennt bewusst keinen festen Euro-Betrag für 2026: Die Mindesthinzuverdienstgrenze hängt von der jährlich neu festgesetzten Bezugsgröße ab, die sich zuverlässig nur tagesaktuell bei der Deutschen Rentenversicherung ermitteln lässt.",
+        "Bei teilweiser Erwerbsminderung kann die individuelle Hinzuverdienstgrenze deutlich über der reinen Mindestgrenze liegen, wenn Sie zuvor gut verdient haben – ein Überschreiten führt dann nur zu einer stufenweisen Anrechnung, nicht zum sofortigen Wegfall der Rente."
+      ],
+      "tief": [
+        {
+          "titel": "Formel für die Mindesthinzuverdienstgrenze",
+          "html": "<p>§ 96a Abs. 1a SGB VI legt eine formelbasierte Mindesthinzuverdienstgrenze fest, die sich an der jeweils aktuellen Bezugsgröße orientiert und für volle und teilweise Erwerbsminderung unterschiedlich hoch ausfällt.</p>"
+        },
+        {
+          "titel": "Individuelle Hinzuverdienstgrenze",
+          "html": "<p>Bei teilweiser Erwerbsminderung wird zusätzlich eine individuelle Hinzuverdienstgrenze aus dem höchsten Jahresverdienst der letzten 15 Kalenderjahre vor Eintritt der Erwerbsminderung ermittelt, wenn diese über der Mindestgrenze liegt.</p>"
+        },
+        {
+          "titel": "Anrechnung des übersteigenden Betrags",
+          "html": "<p>Übersteigt der Hinzuverdienst die maßgebliche Grenze, wird nicht die gesamte Rente gestrichen, sondern der übersteigende Betrag anteilig auf die Rente angerechnet, gestaffelt nach Rentenart.</p>"
+        }
+      ],
+      "zustaendigkeit": [
+        "Deutsche Rentenversicherung"
+      ],
+      "weiterlesen": [
+        {
+          "href": "em-rente-voraussetzungen-antrag.html",
+          "titel": "Erwerbsminderungsrente: Voraussetzungen, Wartezeit und Antrag"
+        },
+        {
+          "href": "steuern-em-rente-bu.html",
+          "titel": "Steuern auf Erwerbsminderungsrente und private BU-Rente"
+        }
+      ],
+      "belege": [
+        "§ 96a SGB VI (gesetze-im-internet.de)"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "grundsicherung-bei-erwerbsminderung",
+      "kategorie": "auffangnetz",
+      "titel": "Grundsicherung im Alter und bei Erwerbsminderung",
+      "icon": "🛟",
+      "teaser": "Wer dauerhaft voll erwerbsgemindert ist und dessen Einkommen und Vermögen nicht zum Lebensunterhalt reicht, kann ergänzend oder anstelle einer zu niedrigen Erwerbsminderungsrente Grundsicherung nach dem SGB XII beantragen.",
+      "schlagworte": [
+        "Grundsicherung",
+        "§ 41 SGB XII",
+        "§ 43 SGB XII",
+        "Sozialamt",
+        "Angehörigenentlastungsgesetz"
+      ],
+      "kurz_html": "\n<p>Die Grundsicherung im Alter und bei Erwerbsminderung nach § 41 SGB XII richtet sich an volljährige Personen, die\ndauerhaft voll erwerbsgemindert sind und deren Einkommen und Vermögen nicht ausreicht. Sie unterscheidet sich von\nBürgergeld/Grundsicherungsgeld (SGB II), das für Personen gedacht ist, die noch mindestens drei Stunden täglich\narbeiten könnten: Wer dauerhaft unter drei Stunden leistungsfähig ist, fällt in der Regel unter das SGB XII, nicht\ndas SGB II.</p>\n<p>Anders als häufig befürchtet, müssen Angehörige bei der Grundsicherung nach dem Angehörigenentlastungsgesetz nur\ndann für Kosten herangezogen werden, wenn ihr eigenes Jahreseinkommen die gesetzliche Grenze von 100.000 Euro\nübersteigt (§ 94 Abs. 1a SGB XII) – für die weit überwiegende Mehrheit der Angehörigen entsteht daher kein\nKostenrisiko.</p>\n",
+      "schritte": [
+        {
+          "titel": "Dauerhafte volle Erwerbsminderung klären lassen",
+          "text": "Meist liegt bereits eine entsprechende Feststellung der Deutschen Rentenversicherung vor."
+        },
+        {
+          "titel": "Antrag beim örtlichen Sozialamt stellen",
+          "text": "Zuständig ist in der Regel der überörtliche oder örtliche Träger der Sozialhilfe am Wohnort."
+        },
+        {
+          "titel": "Einkommens- und Vermögensnachweise einreichen",
+          "text": "Das Sozialamt prüft die Bedürftigkeit einschließlich Regelsatz, Kosten der Unterkunft und möglicher Mehrbedarfe."
+        },
+        {
+          "titel": "Bescheid auf Regelsatz, Unterkunftskosten und Mehrbedarfe prüfen",
+          "text": "Bei Zweifeln kann auch hier innerhalb eines Monats Widerspruch eingelegt werden."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "Keine gesetzliche Frist",
+          "was": "Es gibt keine Ausschlussfrist für den Erstantrag; Leistungen werden aber in der Regel nicht rückwirkend vor dem Monat der Antragstellung erbracht – ein früher Antrag lohnt sich deshalb."
+        }
+      ],
+      "achtung": [
+        "Grundsicherung wird nur bei DAUERHAFTER voller Erwerbsminderung gezahlt; bei nur teilweiser oder absehbar befristeter Erwerbsminderung ist meist Bürgergeld/Grundsicherungsgeld (SGB II) einschlägig – die Abgrenzung sollte im Zweifel beim Sozialamt oder Jobcenter geklärt werden.",
+        "Die Sorge vor einem finanziellen Rückgriff auf Kinder oder Eltern hält viele Betroffene unnötig vom Antrag ab: Seit dem Angehörigenentlastungsgesetz (in Kraft seit 1. Januar 2020) greift ein Rückgriff erst ab einem Jahreseinkommen der Angehörigen von über 100.000 Euro."
+      ],
+      "tief": [
+        {
+          "titel": "§ 41 SGB XII: Anspruchsvoraussetzungen",
+          "html": "<p>Anspruch haben Personen ab der Regelaltersgrenze sowie Volljährige, die dauerhaft voll erwerbsgemindert im Sinne des SGB VI sind, sofern eine Besserung der Erwerbsminderung unwahrscheinlich ist.</p>"
+        },
+        {
+          "titel": "§ 43 SGB XII: Einkommens- und Vermögenseinsatz",
+          "html": "<p>Eigenes Einkommen und Vermögen sind vorrangig einzusetzen; Freibeträge und Schonvermögen mindern die anzurechnende Höhe.</p>"
+        },
+        {
+          "titel": "Angehörigenentlastungsgesetz",
+          "html": "<p>§ 94 Abs. 1a SGB XII begrenzt den Rückgriff auf unterhaltspflichtige Angehörige bei der Grundsicherung auf Fälle mit einem Jahreseinkommen von über 100.000 Euro – unterhalb dieser Grenze findet kein Kostenrückgriff statt.</p>"
+        },
+        {
+          "titel": "Abgrenzung zum SGB II",
+          "html": "<p>Grundsicherungsgeld (Bürgergeld) nach dem SGB II setzt voraus, dass mindestens drei Stunden täglich Erwerbsfähigkeit besteht; bei dauerhafter voller Erwerbsminderung ist stattdessen die Grundsicherung nach dem SGB XII einschlägig.</p>"
+        }
+      ],
+      "zustaendigkeit": [
+        "Örtlicher oder überörtlicher Träger der Sozialhilfe (Sozialamt)"
+      ],
+      "weiterlesen": [
+        {
+          "href": "em-rente-voraussetzungen-antrag.html",
+          "titel": "Erwerbsminderungsrente: Voraussetzungen, Wartezeit und Antrag"
+        },
+        {
+          "href": "hinzuverdienst-em-rente.html",
+          "titel": "Hinzuverdienst bei der Erwerbsminderungsrente"
+        }
+      ],
+      "belege": [
+        "§§ 41, 43, 94 SGB XII (gesetze-im-internet.de)"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "private-bu-vertragsgrundlagen",
+      "kategorie": "private-versicherung",
+      "titel": "Private Berufsunfähigkeitsversicherung: Vertragsgrundlagen",
+      "icon": "📄",
+      "teaser": "Eine private Berufsunfähigkeitsversicherung zahlt, wenn Sie Ihren zuletzt ausgeübten Beruf voraussichtlich mindestens sechs Monate zu einem im Vertrag festgelegten Grad nicht mehr ausüben können – die genauen Bedingungen stehen im Kleingedruckten.",
+      "schlagworte": [
+        "Berufsunfähigkeitsversicherung",
+        "§ 172 VVG",
+        "Prognosezeitraum",
+        "Bedingungswerk",
+        "Vorvertragliche Anzeigepflicht",
+        "§ 19 VVG"
+      ],
+      "kurz_html": "\n<p>§ 172 Abs. 1 VVG beschreibt den gesetzlichen Mindestinhalt einer Berufsunfähigkeitsversicherung: Der Versicherer\nmuss leisten, wenn die versicherte Person infolge Krankheit, Körperverletzung oder Kräfteverfalls, die ärztlich\nnachzuweisen sind, ihren zuletzt ausgeübten Beruf, so wie er ohne gesundheitliche Beeinträchtigung ausgestaltet\nwar, voraussichtlich auf Dauer, mindestens aber für sechs Monate, nicht mehr ausüben kann. Die konkreten\nLeistungsvoraussetzungen – etwa ab welchem Prozentsatz der Berufsunfähigkeit gezahlt wird – regelt aber nicht das\nGesetz, sondern das jeweilige Bedingungswerk des Versicherers.</p>\n<p>Beim Vertragsschluss gilt die vorvertragliche Anzeigepflicht nach § 19 VVG: Gesundheitsfragen müssen wahrheitsgemäß\nund vollständig beantwortet werden. Unrichtige oder unvollständige Angaben können Jahre später zur Anfechtung oder\nzum Rücktritt des Versicherers führen.</p>\n",
+      "schritte": [
+        {
+          "titel": "Bedingungswerk statt nur Antragsformular lesen",
+          "text": "Erst das konkrete Bedingungswerk zeigt, ab welchem Grad der Berufsunfähigkeit gezahlt wird und welche Nachweise verlangt werden."
+        },
+        {
+          "titel": "Gesundheitsfragen im Antrag sorgfältig und vollständig beantworten",
+          "text": "Auch scheinbar unwichtige Vorerkrankungen gehören dazu."
+        },
+        {
+          "titel": "Leistungsantrag rechtzeitig einreichen",
+          "text": "Sobald der Beruf voraussichtlich für mindestens sechs Monate nicht mehr im vereinbarten Umfang ausgeübt werden kann."
+        },
+        {
+          "titel": "Nachprüfungstermine des Versicherers einplanen",
+          "text": "Laufende BU-Renten werden vom Versicherer periodisch überprüft – siehe die eigene Themenseite dazu."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "6 Monate",
+          "was": "Gesetzlicher Mindest-Prognosezeitraum: Der Beruf muss voraussichtlich mindestens sechs Monate nicht mehr im vereinbarten Umfang ausgeübt werden können.",
+          "gr": "§ 172 Abs. 1 VVG"
+        }
+      ],
+      "achtung": [
+        "Der häufigste Streitpunkt ist die vorvertragliche Anzeigepflicht (§ 19 VVG): Unvollständige oder falsche Angaben zu Vorerkrankungen bei Vertragsschluss können Jahre später zur rückwirkenden Anfechtung oder zum Rücktritt führen – selbst wenn die aktuelle Erkrankung mit der verschwiegenen nichts zu tun hat, wobei ein Kausalitätsgegenbeweis nach § 21 VVG möglich bleibt.",
+        "Der gesetzliche Mindeststandard des § 172 VVG wird in den Versicherungsbedingungen praktisch immer konkretisiert oder erweitert und mit zusätzlichen Ausschlüssen versehen – lesen Sie deshalb immer das konkrete Bedingungswerk, nicht nur den Gesetzestext."
+      ],
+      "tief": [
+        {
+          "titel": "§ 172 VVG: gesetzlicher Mindestinhalt",
+          "html": "<p>Das Gesetz definiert nur den Mindestrahmen; Details wie der maßgebliche Berufsunfähigkeitsgrad (in der Praxis meist 50 Prozent), Wartezeiten oder Nachweispflichten ergeben sich aus dem individuellen Vertrag.</p>"
+        },
+        {
+          "titel": "Vorvertragliche Anzeigepflicht",
+          "html": "<p>§§ 19–22 VVG regeln, welche Folgen unrichtige oder unvollständige Angaben bei Vertragsschluss haben können: Rücktritt, Anfechtung wegen arglistiger Täuschung oder rückwirkende Vertragsanpassung, je nach Grad des Verschuldens.</p>"
+        },
+        {
+          "titel": "Rückwirkende Anerkennung nach sechs Monaten",
+          "html": "<p>§ 172 Abs. 3 VVG sieht vor, dass eine ununterbrochen mindestens sechs Monate andauernde Beeinträchtigung rückwirkend als Berufsunfähigkeit gilt, auch wenn zu Beginn noch keine dauerhafte Prognose gestellt werden konnte.</p>"
+        }
+      ],
+      "zustaendigkeit": [
+        "Privater Versicherer"
+      ],
+      "weiterlesen": [
+        {
+          "href": "ablehnung-verweisung-private-bu.html",
+          "titel": "Ablehnung und Verweisung bei der privaten BU-Versicherung"
+        },
+        {
+          "href": "nachpruefung-widerspruch-klage-private-bu.html",
+          "titel": "Nachprüfung, Widerspruch und Klage"
+        }
+      ],
+      "belege": [
+        "§§ 19, 21, 172 VVG (gesetze-im-internet.de)"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "ablehnung-verweisung-private-bu",
+      "kategorie": "private-versicherung",
+      "titel": "Ablehnung und Verweisung bei der privaten Berufsunfähigkeitsversicherung",
+      "icon": "🚫",
+      "teaser": "Lehnt der Versicherer die BU-Rente ab, verweist er häufig auf eine andere Tätigkeit – entscheidend ist der Unterschied zwischen einer im modernen Bedingungswerk meist ausgeschlossenen abstrakten und einer zulässigen konkreten Verweisung.",
+      "schlagworte": [
+        "Verweisung",
+        "Abstrakte Verweisung",
+        "Konkrete Verweisung",
+        "Bisherige Lebensstellung",
+        "Ablehnung"
+      ],
+      "kurz_html": "\n<p>Bei einer <strong>abstrakten Verweisung</strong> verweist der Versicherer allgemein auf eine vergleichbare\nTätigkeit, ohne dass Sie diese konkret ausüben könnten oder ausüben – es genügt, dass eine solche Tätigkeit\ntheoretisch existiert. Bei einer <strong>konkreten Verweisung</strong> muss der Versicherer eine tatsächlich\nzumutbare, Ihrer bisherigen Ausbildung, Erfahrung und Lebensstellung entsprechende Tätigkeit benennen, die Sie\nnachweislich tatsächlich ausüben könnten.</p>\n<p>Der gesetzliche Mindeststandard des § 172 VVG lässt eine abstrakte Verweisung im Grundsatz zu; nahezu alle\nmodernen Bedingungswerke schließen sie jedoch vertraglich aus und lassen nur noch die konkrete Verweisung zu. Ob\nein Vertrag die abstrakte Verweisung ausschließt, ergibt sich ausschließlich aus dem jeweiligen Bedingungswerk, nicht\naus dem Gesetzestext selbst.</p>\n",
+      "schritte": [
+        {
+          "titel": "Ablehnungsschreiben auf die Verweisungsklausel prüfen",
+          "text": "Steht dort eine abstrakte oder eine konkrete Verweisung – und schließt Ihr Bedingungswerk die abstrakte Verweisung ausdrücklich aus?"
+        },
+        {
+          "titel": "Konkret genannte Tätigkeit auf Zumutbarkeit prüfen",
+          "text": "Entspricht sie Ausbildung, Erfahrung, Einkommen und Ansehen Ihrer bisherigen Tätigkeit?"
+        },
+        {
+          "titel": "Eigene Unterlagen und Gegenargumente zusammenstellen",
+          "text": "Qualifikationsnachweise und eine Einkommenshistorie helfen, eine unpassende Verweisung zu widerlegen."
+        },
+        {
+          "titel": "Weitere Schritte prüfen",
+          "text": "Widerspruch beim Versicherer, kostenfreie Beschwerde beim Versicherungsombudsmann oder Klage – siehe die eigene Themenseite dazu."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "Keine gesetzliche Frist",
+          "was": "Für die Verweisung selbst gibt es keine eigene gesetzliche Frist. Für Ansprüche aus dem Versicherungsvertrag gilt aber die allgemeine Verjährung – siehe die Themenseite zu Nachprüfung, Widerspruch und Klage."
+        }
+      ],
+      "achtung": [
+        "Die „bisherige Lebensstellung“ muss bei einer konkreten Verweisung angemessen gewahrt bleiben – eine Verweisung auf eine deutlich schlechter bezahlte oder geringerwertigere Tätigkeit ist in der Regel unzulässig, wird von Versicherern aber regelmäßig versucht.",
+        "In der Verbraucherpresse kursiert die Angabe, rund jeder fünfte BU-Antrag werde abgelehnt. Eine amtlich geprüfte, einheitliche Ablehnungsquote ließ sich dafür nicht verifizieren; die tatsächliche Quote hängt stark vom einzelnen Versicherer, Tarif und Erhebungsjahr ab – diese Seite übernimmt die Zahl deshalb nicht als gesicherten Fakt."
+      ],
+      "tief": [
+        {
+          "titel": "Abstrakte vs. konkrete Verweisung",
+          "html": "<p>Der gesetzliche Mindeststandard des § 172 VVG lässt eine abstrakte Verweisung im Grundsatz zu. In der Vertragspraxis schließen jedoch nahezu alle seit den 1990er- und 2000er-Jahren verkauften Bedingungswerke die abstrakte Verweisung ausdrücklich aus – maßgeblich ist daher immer die konkrete Klausel Ihres Vertrags, nicht das Gesetz allein.</p>"
+        },
+        {
+          "titel": "Bisherige Lebensstellung als Maßstab",
+          "html": "<p>Bei der konkreten Verweisung muss die benannte Tätigkeit der bisherigen Lebensstellung in Bezug auf Vergütung, Qualifikation und Ansehen angemessen entsprechen; die Rechtsprechung stellt hierfür im Einzelfall auf eine Gesamtwürdigung ab.</p>"
+        },
+        {
+          "titel": "Warum moderne Bedingungswerke die abstrakte Verweisung meist ausschließen",
+          "html": "<p>Der Ausschluss der abstrakten Verweisung ist seit Jahrzehnten ein zentrales Qualitätsmerkmal von BU-Tarifen und wird in Vergleichen und Beratungen entsprechend hervorgehoben.</p>"
+        }
+      ],
+      "zustaendigkeit": [
+        "Privater Versicherer",
+        "im Streitfall: Versicherungsombudsmann e.V. oder Zivilgericht"
+      ],
+      "weiterlesen": [
+        {
+          "href": "private-bu-vertragsgrundlagen.html",
+          "titel": "Private Berufsunfähigkeitsversicherung: Vertragsgrundlagen"
+        },
+        {
+          "href": "nachpruefung-widerspruch-klage-private-bu.html",
+          "titel": "Nachprüfung, Widerspruch und Klage"
+        }
+      ],
+      "belege": [
+        "§ 172 VVG (gesetze-im-internet.de) – die konkrete Ausgestaltung der Verweisung ergibt sich in der Praxis primär aus dem jeweiligen Bedingungswerk, nicht unmittelbar aus dem Gesetzestext."
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "nachpruefung-widerspruch-klage-private-bu",
+      "kategorie": "private-versicherung",
+      "titel": "Nachprüfung, Widerspruch und Klage bei der privaten Berufsunfähigkeitsversicherung",
+      "icon": "🔁",
+      "teaser": "Auch nach einer Ablehnung ist nicht automatisch Schluss: Sie können dem Versicherer widersprechen, sich kostenfrei an den Versicherungsombudsmann wenden oder klagen – und auch laufende BU-Renten können der Versicherer im Nachprüfungsverfahren überprüfen.",
+      "schlagworte": [
+        "Nachprüfungsverfahren",
+        "Versicherungsombudsmann",
+        "Verjährung",
+        "§ 195 BGB",
+        "§ 199 BGB",
+        "Klage"
+      ],
+      "kurz_html": "\n<p>Läuft eine BU-Rente bereits, darf der Versicherer im sogenannten <strong>Nachprüfungsverfahren</strong> in\nregelmäßigen Abständen prüfen, ob sich der Gesundheitszustand gebessert hat. Das Verfahren richtet sich nach dem\nBedingungswerk und muss förmlich mit Begründung und angemessener Frist erfolgen – eine formlose Einstellung der\nZahlung ist unwirksam.</p>\n<p>Bei Streit über Ablehnung, Verweisung oder Nachprüfung stehen mehrere Wege offen: ein schriftlicher Widerspruch\nbeim Versicherer, die kostenfreie Beschwerde beim Versicherungsombudsmann e.V. oder eine Klage vor dem zuständigen\nZivilgericht. Ansprüche aus dem Versicherungsvertrag verjähren nach der regelmäßigen Verjährungsfrist von drei\nJahren (§§ 195, 199 BGB).</p>\n",
+      "schritte": [
+        {
+          "titel": "Ablehnungs- oder Kürzungsschreiben schriftlich widersprechen",
+          "text": "Mit Begründung und – soweit vorhanden – ärztlichen Unterlagen."
+        },
+        {
+          "titel": "Kostenlose Beschwerde beim Versicherungsombudsmann e.V. prüfen",
+          "text": "Kein Anwaltszwang, unabhängige Prüfung, Entscheidungen bis 10.000 Euro Streitwert sind für den Versicherer bindend."
+        },
+        {
+          "titel": "Verjährungsfrist im Blick behalten",
+          "text": "Ein Ombudsmann-Verfahren hemmt die Verjährung, ersetzt aber keine eigene Fristenkontrolle."
+        },
+        {
+          "titel": "Bei Bedarf Klage einreichen",
+          "text": "Vor dem zuständigen Zivilgericht, ggf. mit Rechtsschutzversicherung oder Prozesskostenhilfe."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "3 Jahre",
+          "was": "Regelmäßige Verjährungsfrist für Ansprüche aus dem BU-Vertrag, beginnend mit dem Schluss des Jahres, in dem der Anspruch entstanden ist und die betroffene Person davon Kenntnis erlangt hat oder ohne grobe Fahrlässigkeit hätte erlangen müssen.",
+          "gr": "§§ 195, 199 BGB"
+        }
+      ],
+      "achtung": [
+        "Ein Antrag beim Versicherungsombudsmann hemmt die Verjährung (§ 204 Abs. 1 Nr. 4 BGB) – dennoch sollte die Frist nicht bewusst ausgereizt werden, da die genaue Berechnung im Einzelfall streitig sein kann.",
+        "Beim Nachprüfungsverfahren muss der Versicherer eine Verschlechterung oder Verbesserung förmlich und mit angemessener Fristsetzung mitteilen; eine formlose Einstellung der Zahlung ohne ordnungsgemäße Nachprüfungsmitteilung ist unwirksam."
+      ],
+      "tief": [
+        {
+          "titel": "Nachprüfungsverfahren nach dem Bedingungswerk",
+          "html": "<p>Das Recht des Versicherers zur Nachprüfung ergibt sich nicht unmittelbar aus dem VVG, sondern aus dem jeweiligen Bedingungswerk; es muss förmlich, begründet und mit angemessener Frist ausgeübt werden.</p>"
+        },
+        {
+          "titel": "Versicherungsombudsmann e.V.",
+          "html": "<p>Das Ombudsmannverfahren ist für Versicherungsnehmer kostenfrei. Nach der Verfahrensordnung des Versicherungsombudsmanns e.V. entscheidet der Ombudsmann bei einem Beschwerdewert bis 10.000 Euro durch eine für den Versicherer bindende Entscheidung; bei höheren Werten spricht er eine Empfehlung aus.</p>"
+        },
+        {
+          "titel": "Verjährung",
+          "html": "<p>§§ 195, 199 BGB regeln die regelmäßige dreijährige Verjährungsfrist; § 204 Abs. 1 Nr. 4 BGB bestimmt, dass die Einleitung eines Ombudsmannverfahrens die Verjährung hemmt.</p>"
+        }
+      ],
+      "zustaendigkeit": [
+        "Privater Versicherer",
+        "Versicherungsombudsmann e.V.",
+        "Zivilgericht (in der Regel Landgericht)"
+      ],
+      "weiterlesen": [
+        {
+          "href": "ablehnung-verweisung-private-bu.html",
+          "titel": "Ablehnung und Verweisung bei der privaten BU-Versicherung"
+        },
+        {
+          "href": "private-bu-vertragsgrundlagen.html",
+          "titel": "Private Berufsunfähigkeitsversicherung: Vertragsgrundlagen"
+        },
+        {
+          "href": "beratung-anlaufstellen-bu.html",
+          "titel": "Beratung und Anlaufstellen"
+        }
+      ],
+      "belege": [
+        "§§ 195, 199, 204 BGB (gesetze-im-internet.de)",
+        "Verfahrensordnung des Versicherungsombudsmanns e.V. (§§ 12, 14 VomVO), versicherungsombudsmann.de"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "steuern-em-rente-bu",
+      "kategorie": "geld-steuern",
+      "titel": "Steuern auf Erwerbsminderungsrente und private BU-Rente",
+      "icon": "💶",
+      "teaser": "Die gesetzliche Erwerbsminderungsrente ist wie die Altersrente nachgelagert zu versteuern, während Leistungen aus einer privaten Berufsunfähigkeitsversicherung je nach Vertragsgestaltung unterschiedlich behandelt werden.",
+      "schlagworte": [
+        "Besteuerung",
+        "§ 22 EStG",
+        "Ertragsanteil",
+        "Nachgelagerte Besteuerung",
+        "Besteuerungsanteil"
+      ],
+      "kurz_html": "\n<p>Die gesetzliche Erwerbsminderungsrente wird wie die Altersrente nach § 22 Nr. 1 Satz 3 Buchst. a EStG\n„nachgelagert“ besteuert: Ein nach dem Jahr des Rentenbeginns gestaffelter Besteuerungsanteil ist steuerpflichtig,\nder Rest bleibt als individueller Rentenfreibetrag dauerhaft steuerfrei. Je später die Rente beginnt, desto höher\nfällt der steuerpflichtige Anteil aus.</p>\n<p>Bei privaten Berufsunfähigkeitsrenten kommt es auf die genaue Vertragsgestaltung an: Ist die BU-Absicherung als\nZusatzbaustein in eine private Rentenversicherung eingebettet, wird die Leistung häufig nur mit dem niedrigeren\nErtragsanteil besteuert; bei einer eigenständigen BU-Versicherung außerhalb der Basisversorgung kann die steuerliche\nBehandlung abweichen. Eine pauschale, für alle Verträge gleich hohe Prozentzahl gibt es hierfür nicht.</p>\n",
+      "schritte": [
+        {
+          "titel": "Rentenbescheid bzw. Steuerbescheinigung prüfen",
+          "text": "Die Deutsche Rentenversicherung und private Versicherer stellen jährlich Bescheinigungen für die Steuererklärung aus."
+        },
+        {
+          "titel": "Besteuerungsanteil bzw. Ertragsanteil kontrollieren",
+          "text": "Beide hängen vom Jahr des Rentenbeginns und der Vertragsart ab."
+        },
+        {
+          "titel": "Bei komplexen BU-Konstruktionen steuerliche Beratung einholen",
+          "text": "Insbesondere bei Rürup-Verträgen mit BU-Baustein oder selbstständiger Tätigkeit."
+        },
+        {
+          "titel": "Rentenfreibetrag im Steuerbescheid gegenprüfen",
+          "text": "Fehler bei der einmalig festgelegten Freibetragshöhe wirken sich über die gesamte Rentenlaufzeit aus."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "Keine gesetzliche Frist",
+          "was": "Für die steuerliche Behandlung selbst gibt es keine eigene Frist – es gelten die allgemeinen Fristen für die Einkommensteuererklärung."
+        }
+      ],
+      "achtung": [
+        "Der Besteuerungsanteil der gesetzlichen Rente richtet sich nach dem Jahr des Rentenbeginns, nicht nach dem aktuellen Kalenderjahr – ein Kohortenprinzip, das für den gesamten Rentenbezug festgeschrieben wird.",
+        "Ob eine private BU-Leistung voll, mit Ertragsanteil oder abweichend behandelt wird, hängt stark von der Vertragsgestaltung ab. Diese Seite nennt bewusst keine einheitliche Prozentzahl, da sie vom Einzelfall abhängt und individuell mit Versicherer bzw. Steuerberatung geklärt werden sollte."
+      ],
+      "tief": [
+        {
+          "titel": "§ 22 EStG: nachgelagerte Besteuerung der gesetzlichen Rente",
+          "html": "<p>Der Besteuerungsanteil steigt für neue Rentenjahrgänge gesetzlich schrittweise an; der einmal ermittelte Rentenfreibetrag gilt für die gesamte Rentenlaufzeit als fester Euro-Betrag.</p>"
+        },
+        {
+          "titel": "Ertragsanteilsbesteuerung bei Rentenversicherungen mit BU-Zusatz",
+          "html": "<p>Leistungen aus einer BU-Zusatzversicherung zu einer privaten Rentenversicherung werden häufig nur mit dem in § 22 EStG festgelegten, niedrigeren Ertragsanteil besteuert.</p>"
+        },
+        {
+          "titel": "Eigenständige BU-Versicherungen",
+          "html": "<p>Bei einer selbstständigen BU-Versicherung außerhalb der Basisversorgung hängt die steuerliche Einordnung von der konkreten Vertragsgestaltung ab; hierzu trifft diese Seite bewusst keine pauschale Aussage.</p>"
+        }
+      ],
+      "zustaendigkeit": [
+        "Finanzamt"
+      ],
+      "weiterlesen": [
+        {
+          "href": "riester-ruerup-berufsunfaehigkeit.html",
+          "titel": "Berufsunfähigkeit bei Riester- und Rürup-Verträgen"
+        },
+        {
+          "href": "em-rente-voraussetzungen-antrag.html",
+          "titel": "Erwerbsminderungsrente: Voraussetzungen, Wartezeit und Antrag"
+        }
+      ],
+      "belege": [
+        "§ 22 EStG (gesetze-im-internet.de)"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "riester-ruerup-berufsunfaehigkeit",
+      "kategorie": "geld-steuern",
+      "titel": "Berufsunfähigkeit bei Riester- und Rürup-Verträgen",
+      "icon": "🏦",
+      "teaser": "Riester- und Rürup-Renten können optional um eine Absicherung der verminderten Erwerbsfähigkeit ergänzt werden – aktuell bis zu 20 Prozent der Gesamtbeiträge; Berichte über eine mögliche Einschränkung ab 2027 ließen sich anhand der geltenden Gesetzesfassung nicht bestätigen.",
+      "schlagworte": [
+        "Riester-Rente",
+        "Rürup-Rente",
+        "§ 1 AltZertG",
+        "Erwerbsminderungsschutz",
+        "Basisrente"
+      ],
+      "kurz_html": "\n<p>Nach § 1 Abs. 1 Satz 1 Nr. 2 Buchst. b AltZertG können zertifizierte Riester- und Rürup-Verträge um eine\nergänzende Absicherung der verminderten Erwerbsfähigkeit oder Dienstunfähigkeit erweitert werden. Dieser\nZusatzbaustein darf bis zu 20 Prozent der Gesamtbeiträge ausmachen, ohne die steuerliche Förderfähigkeit des\nVertrags zu gefährden. Die Beiträge zu Rürup-(Basis-)Renten sind im Rahmen der Höchstbeträge nach § 10 EStG als\nVorsorgeaufwendungen absetzbar.</p>\n<p>Der Baustein prüft die Erwerbsminderung nach rentenrechtsähnlichen Maßstäben, nicht nach dem Berufsbegriff der\nprivaten Berufsunfähigkeitsversicherung (§ 172 VVG) – er ist also kein vollwertiger Ersatz für eine eigenständige\nBU-Versicherung, sondern eine mögliche Ergänzung.</p>\n",
+      "schritte": [
+        {
+          "titel": "Vertragsunterlagen auf einen Erwerbsminderungs- oder Dienstunfähigkeitsbaustein prüfen",
+          "text": "Nicht jeder Riester- oder Rürup-Vertrag enthält diesen optionalen Baustein."
+        },
+        {
+          "titel": "Beitragsanteil für den Zusatzbaustein erfragen",
+          "text": "Er darf höchstens 20 Prozent der Gesamtbeiträge ausmachen."
+        },
+        {
+          "titel": "Steuerliche Abziehbarkeit im Rahmen der Höchstbeträge prüfen",
+          "text": "Nach § 10 EStG für Rürup-Verträge, nach den Riester-Regeln für Riester-Verträge."
+        },
+        {
+          "titel": "Bei Neuabschluss aktuelle Bedingungen direkt beim Anbieter erfragen",
+          "text": "Da in der Finanzpresse Ankündigungen zu künftigen Änderungen kursieren, die sich anhand des Gesetzestexts nicht bestätigen ließen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "Keine gesetzliche Frist",
+          "was": "Für den optionalen Zusatzbaustein besteht keine eigene Antragsfrist – er wird bei Vertragsabschluss oder in bestimmten Fällen nachträglich vereinbart."
+        }
+      ],
+      "achtung": [
+        "In der Finanzpresse kursieren Berichte, dass der ergänzende Erwerbsminderungs- bzw. Dienstunfähigkeitsschutz bei neu abgeschlossenen Riester-Verträgen ab 2027 eingeschränkt werden solle. Das ließ sich anhand der aktuell konsolidierten Fassung des § 1 AltZertG (Stand der Einsichtnahme: September 2026) nicht bestätigen – der Gesetzestext erlaubt weiterhin ausdrücklich eine ergänzende Absicherung bis zu 20 Prozent der Gesamtbeiträge, ohne erkennbare Übergangsregelung zu 2027. Verlassen Sie sich bei einer konkreten Vertragsentscheidung nicht auf diese Presseberichte, sondern auf die aktuelle Auskunft Ihres Anbieters.",
+        "Der Zusatzbaustein ist freiwillig und in vielen älteren oder besonders günstigen Riester-/Rürup-Verträgen gar nicht enthalten – ein Vertrag ohne diesen Baustein bietet keinen BU-Schutz."
+      ],
+      "tief": [
+        {
+          "titel": "§ 1 AltZertG: Zertifizierungsvoraussetzungen und die 20-Prozent-Grenze",
+          "html": "<p>Damit ein Altersvorsorgevertrag zertifiziert werden kann, darf eine ergänzende Absicherung der verminderten Erwerbsfähigkeit oder Dienstunfähigkeit vereinbart werden, deren Beitragsanteil 20 Prozent der Gesamtbeiträge nicht übersteigt.</p>"
+        },
+        {
+          "titel": "Unsichere Ankündigungen zu 2027",
+          "html": "<p>Eine gezielte Prüfung der konsolidierten Fassung von § 1 AltZertG ergab keinen Hinweis auf eine bereits beschlossene Gesetzesänderung zu 2027. Solche Berichte sollten daher als unbestätigt behandelt werden, bis eine amtliche Quelle (Bundesgesetzblatt oder gesetze-im-internet.de) eine entsprechende Änderung ausweist.</p>"
+        },
+        {
+          "titel": "Abgrenzung zur privaten BU-Versicherung",
+          "html": "<p>Der Riester-/Rürup-Baustein orientiert sich an rentenrechtlichen Maßstäben der Erwerbsminderung, nicht am Berufsbegriff des § 172 VVG – beide Absicherungen ergänzen sich, ersetzen sich aber nicht.</p>"
+        }
+      ],
+      "zustaendigkeit": [
+        "Anbieter (Versicherer, Bank oder Fondsgesellschaft), zertifiziert nach dem AltZertG"
+      ],
+      "weiterlesen": [
+        {
+          "href": "steuern-em-rente-bu.html",
+          "titel": "Steuern auf Erwerbsminderungsrente und private BU-Rente"
+        },
+        {
+          "href": "private-bu-vertragsgrundlagen.html",
+          "titel": "Private Berufsunfähigkeitsversicherung: Vertragsgrundlagen"
+        }
+      ],
+      "belege": [
+        "§ 1 AltZertG (gesetze-im-internet.de, konsolidierte Fassung, Stand der Einsichtnahme September 2026)",
+        "§ 10 EStG (gesetze-im-internet.de)"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "kuendigungsschutz-bem-berufsunfaehigkeit",
+      "kategorie": "arbeitsplatz",
+      "titel": "Kündigungsschutz und betriebliches Eingliederungsmanagement (BEM)",
+      "icon": "🏢",
+      "teaser": "Wer wegen Krankheit über längere Zeit ausfällt, ist nicht automatisch kündigungsschutzlos – Arbeitgeber müssen vor einer krankheitsbedingten Kündigung ein betriebliches Eingliederungsmanagement anbieten und strenge Anforderungen erfüllen.",
+      "schlagworte": [
+        "Betriebliches Eingliederungsmanagement",
+        "BEM",
+        "§ 167 SGB IX",
+        "Krankheitsbedingte Kündigung",
+        "§ 4 KSchG"
+      ],
+      "kurz_html": "\n<p>Nach § 167 Abs. 2 SGB IX muss der Arbeitgeber allen Beschäftigten – nicht nur Menschen mit Schwerbehinderung –\nein betriebliches Eingliederungsmanagement (BEM) anbieten, sobald sie innerhalb von zwölf Monaten länger als sechs\nWochen ununterbrochen oder wiederholt arbeitsunfähig waren. Ziel ist es, gemeinsam zu klären, wie die\nArbeitsunfähigkeit überwunden und mit welchen Leistungen oder Hilfen einer erneuten Arbeitsunfähigkeit vorgebeugt\nund der Arbeitsplatz erhalten werden kann.</p>\n<p>Die Teilnahme am BEM ist freiwillig. Bei einer späteren krankheitsbedingten Kündigung prüfen Arbeitsgerichte nach\ngefestigter Rechtsprechung in drei Stufen: eine negative Gesundheitsprognose, eine erhebliche Beeinträchtigung\nbetrieblicher oder wirtschaftlicher Interessen sowie eine abschließende Interessenabwägung. Ein unterlassenes BEM\nmacht die Kündigung nicht automatisch unwirksam, verschärft aber die Darlegungslast des Arbeitgebers, dass es keine\nmilderen Mittel gab.</p>\n",
+      "schritte": [
+        {
+          "titel": "BEM-Angebot prüfen",
+          "text": "Der Arbeitgeber muss das Angebot machen, sobald die Sechs-Wochen-Schwelle erreicht ist – die Teilnahme selbst ist freiwillig."
+        },
+        {
+          "titel": "An einem BEM-Gespräch teilnehmen, wenn gewünscht",
+          "text": "Ziehen Sie ggf. Betriebs- oder Personalrat sowie – bei Schwerbehinderung – die Schwerbehindertenvertretung hinzu."
+        },
+        {
+          "titel": "Bei Kündigung prüfen, ob überhaupt ein BEM angeboten wurde",
+          "text": "Fehlt es, muss der Arbeitgeber vor Gericht besonders genau darlegen, dass es keine milderen Mittel gab."
+        },
+        {
+          "titel": "Kündigungsschutzklage fristgerecht einreichen",
+          "text": "Innerhalb von drei Wochen nach Zugang der Kündigung."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "6 Wochen / 12 Monate",
+          "was": "Schwelle, ab der ein BEM angeboten werden muss: mehr als sechs Wochen Arbeitsunfähigkeit innerhalb von zwölf Monaten.",
+          "gr": "§ 167 Abs. 2 SGB IX"
+        },
+        {
+          "wert": "3 Wochen",
+          "was": "Klagefrist gegen eine Kündigung ab Zugang.",
+          "gr": "§ 4 KSchG"
+        }
+      ],
+      "achtung": [
+        "Die Teilnahme am BEM ist freiwillig – Sie können sie ablehnen, ohne dass dies allein einen Kündigungsgrund darstellt.",
+        "Die Klagefrist von drei Wochen nach § 4 KSchG gilt praktisch ausnahmslos: Wird sie versäumt, gilt die Kündigung von Anfang an als wirksam (§ 7 KSchG); eine nachträgliche Zulassung nach § 5 KSchG kommt nur in engen Ausnahmefällen in Betracht."
+      ],
+      "tief": [
+        {
+          "titel": "§ 167 Abs. 2 SGB IX: BEM-Pflicht",
+          "html": "<p>Die Pflicht trifft den Arbeitgeber gegenüber allen Beschäftigten unabhängig von einer Schwerbehinderung; Zweck ist die Klärung von Möglichkeiten, mit denen die Arbeitsunfähigkeit überwunden und der Arbeitsplatz langfristig erhalten werden kann.</p>"
+        },
+        {
+          "titel": "Krankheitsbedingte Kündigung: dreistufige Prüfung",
+          "html": "<p>Die arbeitsgerichtliche Rechtsprechung prüft eine negative Gesundheitsprognose, eine dadurch bedingte erhebliche Beeinträchtigung betrieblicher oder wirtschaftlicher Interessen sowie eine abschließende Interessenabwägung im Einzelfall.</p>"
+        },
+        {
+          "titel": "§§ 4, 5, 7 KSchG: Klagefrist und Folgen der Fristversäumung",
+          "html": "<p>Die dreiwöchige Klagefrist beginnt mit Zugang der schriftlichen Kündigung; wird sie versäumt, gilt die Kündigung nach § 7 KSchG als von Anfang an wirksam, sofern keine nachträgliche Zulassung nach § 5 KSchG erfolgt.</p>"
+        }
+      ],
+      "zustaendigkeit": [
+        "Arbeitgeber (BEM)",
+        "Arbeitsgericht (Kündigungsschutzklage)"
+      ],
+      "weiterlesen": [
+        {
+          "href": "schwerbehindertenausweis-erwerbsminderung.html",
+          "titel": "Schwerbehindertenausweis und Erwerbsminderung"
+        },
+        {
+          "href": "em-rente-voraussetzungen-antrag.html",
+          "titel": "Erwerbsminderungsrente: Voraussetzungen, Wartezeit und Antrag"
+        }
+      ],
+      "belege": [
+        "§ 167 SGB IX (gesetze-im-internet.de)",
+        "§§ 4, 5, 7 KSchG (gesetze-im-internet.de)"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "schwerbehindertenausweis-erwerbsminderung",
+      "kategorie": "arbeitsplatz",
+      "titel": "Schwerbehindertenausweis und Erwerbsminderung: wie beides zusammenhängt",
+      "icon": "🪪",
+      "teaser": "Ein Schwerbehindertenausweis und eine Erwerbsminderungsrente werden unabhängig voneinander und nach unterschiedlichen Maßstäben festgestellt – das eine ist keine Voraussetzung für das andere, kann sich aber sinnvoll ergänzen.",
+      "schlagworte": [
+        "Schwerbehindertenausweis",
+        "Grad der Behinderung",
+        "§ 152 SGB IX",
+        "§ 168 SGB IX",
+        "Besonderer Kündigungsschutz"
+      ],
+      "kurz_html": "\n<p>Der Grad der Behinderung (GdB) wird vom Versorgungsamt nach § 152 SGB IX unabhängig von Ihrer Erwerbsfähigkeit\nfestgestellt: Er bewertet die Beeinträchtigung in allen Lebensbereichen, nicht nur bei der Arbeit. Die\nErwerbsminderung nach § 43 SGB VI betrifft dagegen ausschließlich die Fähigkeit, auf dem allgemeinen Arbeitsmarkt zu\narbeiten. Beide Verfahren laufen bei unterschiedlichen Behörden – Versorgungsamt bzw. Deutsche Rentenversicherung –\nund ein Bescheid bindet den jeweils anderen nicht.</p>\n<p>Ein Schwerbehindertenausweis (ab GdB 50) bringt eigene, für die Frage der Berufsunfähigkeit relevante Vorteile\nmit sich, etwa besonderen Kündigungsschutz mit erforderlicher Zustimmung des Integrationsamts (§ 168 SGB IX),\nZusatzurlaub und steuerliche Pauschbeträge. Die ausführliche Anleitung zur Antragstellung, zu Widerspruch und zu den\nGdB-Tabellen finden Sie im eigenen Themenbereich „Behinderung“ dieser Plattform – dieser Beitrag dupliziert das\nbewusst nicht, sondern erklärt nur den Zusammenhang mit Berufsunfähigkeit.</p>\n",
+      "schritte": [
+        {
+          "titel": "Nutzen unabhängig vom Rentenverfahren klären",
+          "text": "Zusatzurlaub, besonderer Kündigungsschutz und Steuerpauschbeträge können auch ohne Erwerbsminderungsrente sinnvoll sein."
+        },
+        {
+          "titel": "Antrag beim Versorgungsamt separat vom Rentenantrag stellen",
+          "text": "Die ausführliche Anleitung dazu finden Sie im Themenbereich „Behinderung“."
+        },
+        {
+          "titel": "Ärztliche Unterlagen ggf. doppelt verwenden",
+          "text": "Für Renten- und Schwerbehindertenverfahren, jedoch mit getrennten Anträgen bei unterschiedlichen Behörden."
+        },
+        {
+          "titel": "Besonderen Kündigungsschutz bei Bedarf geltend machen",
+          "text": "Nach § 168 SGB IX ist bei GdB ab 50 vor einer Kündigung die Zustimmung des Integrationsamts erforderlich."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "Keine gesetzliche Frist",
+          "was": "Der Antrag auf einen Schwerbehindertenausweis kann jederzeit gestellt werden, wirkt aber grundsätzlich erst ab dem Monat der Antragstellung und nicht rückwirkend auf frühere Zeiträume."
+        }
+      ],
+      "achtung": [
+        "Ein GdB von 50 wird häufig mit Erwerbsminderung verwechselt – beides sind rechtlich getrennte Verfahren bei unterschiedlichen Behörden mit unterschiedlichen Maßstäben; der eine Bescheid bindet den anderen nicht.",
+        "Für Details zur Antragstellung, zum Widerspruch und zu den GdB-Bewertungstabellen siehe den eigenen Themenbereich „Behinderung“ dieser Plattform."
+      ],
+      "tief": [
+        {
+          "titel": "GdB-Feststellung nach § 152 SGB IX",
+          "html": "<p>Das Versorgungsamt bewertet die Beeinträchtigung der Teilhabe am Leben in der Gesellschaft in allen Lebensbereichen anhand der Versorgungsmedizin-Verordnung – unabhängig davon, ob und wie viel die betroffene Person noch arbeiten kann.</p>"
+        },
+        {
+          "titel": "Besonderer Kündigungsschutz nach § 168 SGB IX",
+          "html": "<p>Bei einem GdB von mindestens 50 (oder Gleichstellung) bedarf eine Kündigung der vorherigen Zustimmung des Integrationsamts.</p>"
+        },
+        {
+          "titel": "Warum GdB und Erwerbsminderung unabhängig voneinander sind",
+          "html": "<p>Eine Person kann einen hohen GdB haben und dennoch voll erwerbstätig sein, oder einen niedrigen GdB haben und dennoch voll erwerbsgemindert sein – die Maßstäbe unterscheiden sich grundlegend.</p>"
+        }
+      ],
+      "zustaendigkeit": [
+        "Versorgungsamt (Schwerbehindertenausweis)",
+        "Integrationsamt (Zustimmung zur Kündigung)"
+      ],
+      "weiterlesen": [
+        {
+          "href": "../../behinderung/themen/schwerbehindertenausweis-beantragen.html",
+          "titel": "Schwerbehindertenausweis beantragen (Wegweiser Behinderung)"
+        },
+        {
+          "href": "../../behinderung/themen/rente-und-erwerbsminderung-bei-behinderung.html",
+          "titel": "Rente und Erwerbsminderung bei Behinderung (Wegweiser Behinderung)"
+        },
+        {
+          "href": "kuendigungsschutz-bem-berufsunfaehigkeit.html",
+          "titel": "Kündigungsschutz und betriebliches Eingliederungsmanagement"
+        }
+      ],
+      "belege": [
+        "§§ 152, 168 SGB IX (gesetze-im-internet.de)"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "selbststaendige-berufsunfaehigkeit",
+      "kategorie": "besondere-gruppen",
+      "titel": "Berufsunfähigkeit bei Selbstständigen",
+      "icon": "🧑‍💼",
+      "teaser": "Die meisten Selbstständigen sind nicht gesetzlich rentenversichert und fallen bei Berufsunfähigkeit ohne private Vorsorge auf die Grundsicherung zurück – umso wichtiger ist hier eine frühzeitige private Absicherung.",
+      "schlagworte": [
+        "Selbstständige",
+        "Rentenversicherungspflicht",
+        "§ 2 SGB VI",
+        "§ 7 SGB VI",
+        "Private Vorsorge"
+      ],
+      "kurz_html": "\n<p>Die meisten Selbstständigen unterliegen nicht der gesetzlichen Rentenversicherungspflicht. Ausnahmen bestehen\nnach § 2 SGB VI unter anderem für bestimmte Handwerker, Lehrer, Pflegepersonen, Künstler und Publizisten (über die\nKünstlersozialkasse) sowie für arbeitnehmerähnliche Selbstständige mit im Wesentlichen nur einem Auftraggeber. Ohne\nPflichtmitgliedschaft und ohne freiwillige Beiträge (§ 7 SGB VI) besteht in der Regel kein Zugang zur gesetzlichen\nErwerbsminderungsrente.</p>\n<p>Deshalb ist für die meisten Selbstständigen eine private Berufsunfähigkeitsversicherung oft die einzige\nrealistische Absicherung gegen Berufsunfähigkeit. Zur umfassenden Alters- und Risikovorsorge von Selbstständigen –\neinschließlich der politisch diskutierten Altersvorsorgepflicht und betrieblicher Versicherungen – siehe die\nvertiefenden Beiträge im eigenen Themenbereich „Selbstständige“ dieser Plattform.</p>\n",
+      "schritte": [
+        {
+          "titel": "Rentenversicherungspflicht nach § 2 SGB VI prüfen",
+          "text": "Nur bestimmte Berufsgruppen sind kraft Gesetzes pflichtversichert."
+        },
+        {
+          "titel": "Bei fehlender Pflichtversicherung freiwillige Beiträge erwägen",
+          "text": "Freiwillige Beiträge nach § 7 SGB VI können den Zugang zur gesetzlichen Erwerbsminderungsrente erhalten."
+        },
+        {
+          "titel": "Private BU-Versicherung frühzeitig abschließen",
+          "text": "Am besten vor Beginn einer Erkrankung, da die Gesundheitsprüfung sonst zu Ausschlüssen oder Ablehnung führen kann."
+        },
+        {
+          "titel": "Vertiefende Beiträge im Themenbereich „Selbstständige“ lesen",
+          "text": "Zur Altersvorsorgepflicht und zu betrieblichen Versicherungen für Selbstständige."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "Keine gesetzliche Frist",
+          "was": "Für die freiwillige Versicherung oder den Abschluss einer privaten BU gibt es keine allgemeine gesetzliche Frist – wohl aber Fristen im Einzelfall, etwa für den Antrag auf freiwillige Versicherung nach Aufnahme der selbstständigen Tätigkeit."
+        }
+      ],
+      "achtung": [
+        "Ohne gesetzliche Rentenversicherungspflicht und ohne freiwillige Beiträge haben Selbstständige im Fall der Berufsunfähigkeit meist keinen Zugang zur gesetzlichen Erwerbsminderungsrente und sind bei fehlender privater Vorsorge auf die Grundsicherung angewiesen.",
+        "Bei der politisch diskutierten Altersvorsorgepflicht für Selbstständige ist nach bisherigem Kenntnisstand offen, ob und wie eine Erwerbsminderungsabsicherung Teil einer künftigen Pflichtvorsorge werden könnte – diese Seite trifft dazu bewusst keine eigene Aussage, da der aktuelle Stand im Themenbereich „Selbstständige“ dokumentiert ist."
+      ],
+      "tief": [
+        {
+          "titel": "§ 2 SGB VI: Rentenversicherungspflicht bestimmter Selbstständiger",
+          "html": "<p>Die Vorschrift zählt einzelne Berufsgruppen abschließend auf, für die trotz selbstständiger Tätigkeit eine gesetzliche Rentenversicherungspflicht besteht.</p>"
+        },
+        {
+          "titel": "§ 7 SGB VI: Freiwillige Versicherung",
+          "html": "<p>Wer nicht pflichtversichert ist, kann sich freiwillig in der gesetzlichen Rentenversicherung versichern und sich so grundsätzlich auch den Zugang zur Erwerbsminderungsrente erhalten, sofern die übrigen Voraussetzungen (Wartezeit, versicherungsrechtliche Voraussetzungen) erfüllt werden.</p>"
+        },
+        {
+          "titel": "Warum private BU für Selbstständige besonders wichtig ist",
+          "html": "<p>Da der gesetzliche Auffangschutz für die meisten Selbstständigen fehlt, kommt der frühzeitigen privaten Absicherung hier ein besonders hohes Gewicht zu.</p>"
+        }
+      ],
+      "zustaendigkeit": [
+        "Deutsche Rentenversicherung (Pflicht- oder freiwillige Versicherung)",
+        "Privater Versicherer (BU-Versicherung)"
+      ],
+      "weiterlesen": [
+        {
+          "href": "../../selbststaendige/themen/altersvorsorgepflicht-selbststaendige.html",
+          "titel": "Rentenversicherungspflicht und geplante Altersvorsorgepflicht (Wegweiser Selbstständige)"
+        },
+        {
+          "href": "../../selbststaendige/themen/betriebliche-versicherungen.html",
+          "titel": "Betriebliche Versicherungen für Selbstständige (Wegweiser Selbstständige)"
+        },
+        {
+          "href": "../../selbststaendige/themen/krankheit-und-lohnersatz-selbststaendige.html",
+          "titel": "Krankheit und Lohnersatz für Selbstständige (Wegweiser Selbstständige)"
+        },
+        {
+          "href": "private-bu-vertragsgrundlagen.html",
+          "titel": "Private Berufsunfähigkeitsversicherung: Vertragsgrundlagen"
+        }
+      ],
+      "belege": [
+        "§§ 2, 7 SGB VI (gesetze-im-internet.de)"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "beratung-anlaufstellen-bu",
+      "kategorie": "beratung",
+      "titel": "Beratung und Anlaufstellen bei Berufsunfähigkeit",
+      "icon": "📞",
+      "teaser": "Ob Rentenberatung, Sozialverband oder unabhängige Versicherungsberatung – bei Berufsunfähigkeit gibt es für jedes Anliegen eine passende, oft kostenfreie Anlaufstelle.",
+      "schlagworte": [
+        "Rentenberatung",
+        "Versicherungsombudsmann",
+        "Sozialverband",
+        "Verbraucherzentrale"
+      ],
+      "kurz_html": "\n<p>Für Fragen rund um die gesetzliche Erwerbsminderungsrente beraten die Auskunfts- und Beratungsstellen der\nDeutschen Rentenversicherung kostenfrei; registrierte Rentenberaterinnen und Rentenberater übernehmen gegen Honorar\nauch komplexe Widerspruchs- und Klageverfahren. Sozialverbände wie der VdK oder der SoVD vertreten ihre Mitglieder\nhäufig ebenfalls in solchen Verfahren.</p>\n<p>Bei Streit mit einem privaten BU-Versicherer ist der Versicherungsombudsmann e.V. die richtige, kostenfreie\nAnlaufstelle. Verbraucherzentralen bieten unabhängige, teils kostenpflichtige Versicherungsberatung. Steht eine\nGrundsicherung im Raum, helfen kommunale Sozialberatungsstellen weiter.</p>\n",
+      "schritte": [
+        {
+          "titel": "Anliegen einordnen",
+          "text": "Geht es um das Rentenverfahren oder um einen privaten Versicherungsvertrag? Davon hängt die richtige Anlaufstelle ab."
+        },
+        {
+          "titel": "Bei Rentenfragen: DRV-Beratung oder Sozialverband kontaktieren",
+          "text": "Die Beratung der Deutschen Rentenversicherung ist kostenfrei."
+        },
+        {
+          "titel": "Bei Streit mit dem privaten Versicherer: Versicherungsombudsmann kontaktieren",
+          "text": "Kostenfrei und unabhängig, bevor eine Klage erwogen wird."
+        },
+        {
+          "titel": "Bei Bedarf anwaltliche Vertretung hinzuziehen",
+          "text": "Ein Fachanwalt für Sozialrecht bzw. Versicherungsrecht, ggf. mit Rechtsschutzversicherung oder Prozesskostenhilfe."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "Keine gesetzliche Frist",
+          "was": "Beratung kann grundsätzlich jederzeit in Anspruch genommen werden. Für die zugrunde liegenden Verfahren (Widerspruch, Klage) gelten aber eigene Fristen – siehe die jeweiligen Themenseiten."
+        }
+      ],
+      "achtung": [
+        "Sozialverbände wie VdK oder SoVD setzen in der Regel eine – oft schon vor dem Streitfall bestehende – Mitgliedschaft voraus, bevor sie im Widerspruchs- oder Klageverfahren vertreten; ein Beitritt erst nach Erhalt des Ablehnungsbescheids kommt für die laufende Sache häufig zu spät.",
+        "Der Versicherungsombudsmann kann nur in Streitigkeiten mit dem eigenen privaten Versicherer angerufen werden, nicht bei Fragen zur gesetzlichen Rente – dafür sind DRV-Beratungsstellen oder Sozialgerichte zuständig."
+      ],
+      "tief": [
+        {
+          "titel": "DRV-Auskunfts- und Beratungsstellen",
+          "html": "<p>Die Deutsche Rentenversicherung berät kostenfrei zu allen Fragen der gesetzlichen Rente, einschließlich Erwerbsminderungsrente, Reha und Kontenklärung.</p>"
+        },
+        {
+          "titel": "Versicherungsombudsmann e.V.",
+          "html": "<p>Der Ombudsmann ist zuständig für Streitigkeiten zwischen Verbraucherinnen und Verbrauchern und ihrem Versicherer, unter anderem bei privaten Berufsunfähigkeitsversicherungen; das Verfahren ist für die beschwerdeführende Person kostenfrei.</p>"
+        },
+        {
+          "titel": "Sozialverbände und Fachanwaltschaft",
+          "html": "<p>Sozialverbände bieten ihren Mitgliedern häufig Rechtsberatung und -vertretung in Sozialrechtsverfahren; bei privatrechtlichen BU-Streitigkeiten ist meist ein Fachanwalt für Versicherungsrecht die passendere Anlaufstelle.</p>"
+        }
+      ],
+      "zustaendigkeit": [
+        "Deutsche Rentenversicherung",
+        "Versicherungsombudsmann e.V.",
+        "Sozialverbände",
+        "Verbraucherzentralen"
+      ],
+      "weiterlesen": [
+        {
+          "href": "widerspruch-em-rente.html",
+          "titel": "Widerspruch gegen den Ablehnungsbescheid der Erwerbsminderungsrente"
+        },
+        {
+          "href": "nachpruefung-widerspruch-klage-private-bu.html",
+          "titel": "Nachprüfung, Widerspruch und Klage bei der privaten BU-Versicherung"
+        }
+      ],
+      "belege": [
+        "Verfahrensordnung des Versicherungsombudsmanns e.V. (§ 12 VomVO), versicherungsombudsmann.de",
+        "Öffentliche Selbstdarstellungen der Deutschen Rentenversicherung, des VdK, des SoVD und der Verbraucherzentralen (Zuständigkeitsangaben)"
+      ],
+      "stand": "September 2026"
+    }
+  ]
+}

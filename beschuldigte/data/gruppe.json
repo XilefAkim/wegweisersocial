@@ -1,0 +1,34 @@
+{
+  "titel": "Beschuldigte & Angeklagte",
+  "zusatz": "Beschuldigte &middot; Ihre Rechte im Strafverfahren",
+  "icon": "⚖️",
+  "teaser": "Vorladung, Schweigerecht, Verteidiger, Durchsuchung, Untersuchungshaft, Strafbefehl mit 2 Wochen Einspruchsfrist, Einstellung, Rechtsmittel und Kosten: verständliche Antworten und die wichtigsten Fristen.",
+  "suche_placeholder": "Suchen: Vorladung, Schweigerecht, Strafbefehl, Pflichtverteidiger, Durchsuchung …",
+  "meta_description": "Wegweiser für Beschuldigte und Angeklagte: Vorladung, Schweigerecht, Verteidiger und Pflichtverteidigung, Durchsuchung, Untersuchungshaft, Akteneinsicht, Strafbefehl und Einspruch in 2 Wochen, Einstellung nach §§ 153/153a StPO, Rechtsmittel, Kosten, Bußgeld, Jugendliche. Rechtsstand September 2026.",
+  "hinweis": "<p><strong>Rechtsstand: September 2026.</strong> Grundlage sind die zum Abrufdatum auf gesetze-im-internet.de veröffentlichten Fassungen der StPO, des OWiG und des JGG. Angekündigte, nicht verabschiedete Reformen wurden nicht ausgewertet; das ist keine Garantie, dass keine bevorstehen. Quellen und offene Punkte: <a href=\"quellen.html\">Quellen und Grenzen</a>. Information, keine Rechtsberatung.</p>",
+  "haeufig": [
+    "ueberblick",
+    "schweigerecht",
+    "strafbefehl",
+    "verteidiger",
+    "durchsuchung",
+    "beratung"
+  ],
+  "fusszeile": "Wegweiser Beschuldigte: Information zum Strafverfahren, keine Rechtsberatung; Stand September 2026.",
+  "beratung_id": "beratung",
+  "quellen_teaser": "<p>Alle Angaben stammen aus Gesetzestexten und Verbandsseiten. Unsichere Punkte sind unten offen benannt.</p>",
+  "quellen_abschnitte": [
+    {
+      "h": "Quellenliste",
+      "html": "<ol><li>Bundesministerium der Justiz, Gesetze im Internet: StPO §§ 44, 45, 102, 105, 106, 112, 115, 117, 121, 128, 136, 136a, 137, 140, 141, 142, 147, 153, 153a, 163a, 311, 314, 341, 345, 407, 410, 411, 464, 465, 467. Abgerufen 20.09.2026.</li><li>Bundesministerium der Justiz, Gesetze im Internet: OWiG § 67; JGG §§ 1, 68, 105; StGB § 19; BerHG § 2 (gesetze-im-internet.de/berathig/__2.html). Abgerufen 20.09.2026.</li><li>Bundesrechtsanwaltskammer (brak.de): Bundesweites Amtliches Anwaltsverzeichnis. Abgerufen 20.09.2026.</li></ol>"
+    },
+    {
+      "h": "Unsichere und offene Punkte",
+      "html": "<ul><li>§ 140 StPO: Fälle notwendiger Verteidigung nur in Auszügen ausgewertet; die vollständige Liste des Absatzes 1 bitte im Gesetz nachlesen.</li><li>Nicht abgerufen: § 112a, § 201, § 257c, § 412 StPO. Nicht behandelt: Gebührenhöhen, Rückzahlung der Pflichtverteidigervergütung, Verfahren in Abwesenheit, Rechtsbehelfe gegen Durchsuchung, Steuer- und Wirtschaftsstrafsachen, Auslieferung.</li><li>Keine örtlichen Beratungsstellen, Adressen oder Telefonnummern; ein bundesweites Beratungsangebot speziell für Beschuldigte wurde nicht belegt.</li></ul>"
+    },
+    {
+      "h": "Was diese Plattform leistet – und was nicht",
+      "html": "<p>Der Wegweiser erklärt Rechte im Strafverfahren in einfacher Sprache und nennt Rechtsgrundlagen, Fristen und Zahlen aus den genannten Quellen. Er ersetzt keine Rechtsberatung und keine Prüfung Ihres Einzelfalls. Er nennt keine örtlichen Beratungsstellen, Adressen oder Telefonnummern außer bundesweit belegten Stellen. Es werden keine personenbezogenen Daten gespeichert. Haft und Resozialisierung behandelt der Wegweiser Straffällige, Rechte von Verletzten der Wegweiser Kriminalitätsopfer. Fristen bei Strafbefehl, Bußgeldbescheid und Urteil sind streng: Holen Sie früh Rat.</p>"
+    }
+  ]
+}

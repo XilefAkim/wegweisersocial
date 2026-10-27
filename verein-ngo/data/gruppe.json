@@ -1,0 +1,34 @@
+{
+  "titel": "Verein & NGO",
+  "zusatz": "Verein &amp; NGO &middot; Recht und Steuern für Engagierte",
+  "icon": "🤝",
+  "teaser": "Gründung, Gemeinnützigkeit, Vorstandshaftung, Spenden, Steuern und Pauschalen: verständlich erklärt für Vorstände, Gründer:innen und Engagierte in Verein, gGmbH, Stiftung und Initiative, mit Rechtsstand September 2026.",
+  "suche_placeholder": "Suchen: Gemeinnützigkeit, Spendenbescheinigung, Übungsleiterpauschale, Vorstandshaftung …",
+  "meta_description": "Wegweiser Verein & NGO: Vereinsgründung, Satzung, Gemeinnützigkeit, Vorstandshaftung, Spenden, Steuern, Ehrenamtspauschale, Datenschutz. Rechtsstand September 2026.",
+  "hinweis": "<p><strong>Rechtsstand:</strong> September 2026. Berücksichtigt ist das Steueränderungsgesetz 2025 (BGBl. 2025 I, verkündet am 23.12.2025, in Kraft seit 1. Januar 2026). Angekündigte, nicht beschlossene Reformen werden nicht als geltendes Recht dargestellt. Einzelne Punkte sind ausdrücklich als unsicher gekennzeichnet. Quellen und Grenzen: <a href=\"quellen.html\">Quellen und Hinweise</a>. Diese Seiten sind Information, keine Rechts- oder Steuerberatung.</p>",
+  "haeufig": [
+    "gemeinnuetzigkeit",
+    "vorstand-haftung-und-versicherung",
+    "ehrenamts-und-uebungsleiterpauschale",
+    "spenden-und-zuwendungsbestaetigung",
+    "steuern-im-verein",
+    "vereinsgruendung-und-eintragung"
+  ],
+  "fusszeile": "Information zu Vereins- und Gemeinnützigkeitsrecht, Stand September 2026; keine Rechts- oder Steuerberatung.",
+  "beratung_id": "beratung-anlaufstellen-verein",
+  "quellen_teaser": "<p>Die Inhalte stützen sich auf Gesetzestexte (gesetze-im-internet.de), Bundesgesetzblatt, Rechtsprechung des Bundesfinanzhofs, Angaben von Behörden und der Deutschen Stiftung für Engagement und Ehrenamt sowie, wo Primärquellen fehlten, auf Kanzlei- und Fachseiten. Wo nur Sekundärquellen vorlagen, steht das im Text.</p>",
+  "quellen_abschnitte": [
+    {
+      "h": "Quellenliste",
+      "html": "<ol><li>Bürgerliches Gesetzbuch §§ 26, 27, 31a, 31b, 32, 41, 56, 58, 59, 73, 77, gesetze-im-internet.de, abgerufen 20.09.2026.</li><li>Abgabenordnung §§ 52, 55, 60, 60a, 64, 141, gesetze-im-internet.de, abgerufen 20.09.2026.</li><li>Einkommensteuergesetz §§ 3 Nr. 26, 26a, 10b; Einkommensteuer-Durchführungsverordnung § 50; Körperschaftsteuergesetz § 24; Umsatzsteuergesetz § 19, gesetze-im-internet.de, abgerufen 20.09.2026.</li><li>SGB IV § 7a; SGB VII §§ 2, 6; Geldwäschegesetz § 20; Bundesdatenschutzgesetz § 38, gesetze-im-internet.de, abgerufen 20.09.2026.</li><li>Bundesgesetzblatt Teil I 2025 (Steueränderungsgesetz 2025, Verkündung 23.12.2025) und Bundesrat, 19.12.2025, abgerufen 20.09.2026.</li><li>Bundesfinanzhof, Urteil vom 10.01.2019, V R 60/17, bundesfinanzhof.de, abgerufen 20.09.2026.</li><li>Deutsche Stiftung für Engagement und Ehrenamt, Beiträge zu Steueränderungsgesetz, Transparenzregister und Versicherungsschutz-Beratung, abgerufen 20.09.2026.</li><li>Minijob-Zentrale, Deutsche Rentenversicherung Baden-Württemberg (Minijobgrenze 2026), abgerufen 20.09.2026.</li><li>Bundesamt für Justiz, Stiftungsregister; Bundesbeauftragter für den Datenschutz, Landesbehörden; DSGVO Art. 30, abgerufen 20.09.2026.</li><li>Kanzleiseiten (Flick Gocke Schaumburg, weitere) und Verwaltungsportale zur Gemeinnützigkeitsprüfung, abgerufen 20.09.2026.</li></ol>"
+    },
+    {
+      "h": "Unsichere und nicht geprüfte Punkte",
+      "html": "<p>Jetzt primär bestätigt: Kumulierung von Übungsleiter- und Ehrenamtspauschale, Zweckbetriebsgrenze § 67a AO und Transparenzregister (§ 20a GwG).</p><ul><li>Turnus der Gemeinnützigkeitsprüfung (in der Praxis alle drei Jahre): Verwaltungspraxis, kein Drei-Jahres-Turnus im Gesetz.</li><li>Fördermittel: ANBest-P nur als NRW-Beispiel; Fristen und Vergaberegeln stehen im jeweiligen Bescheid.</li><li>Stiftungsregister: Bundesamt für Justiz nennt 2028, Kanzleien 2026; maßgeblich ist das Bundesamt für Justiz.</li><li>Politische Betätigung: nur das Urteil V R 60/17 direkt geprüft; weitere Verfahren und Verwaltungsanweisungen nicht.</li><li>Nicht abgedeckt: Registergebühren, Notarkosten, Gewerbesteuer-Freibetrag, Sachspenden, § 63 AO im Einzelnen, Datenpannen, Stiftungs- und gGmbH-Einzelheiten, Landesrecht.</li></ul>"
+    },
+    {
+      "h": "Was diese Plattform leistet – und was nicht",
+      "html": "<p>Diese Plattform bietet allgemeine Information in einfacher Sprache mit Fachteil und Belegen. Sie ist keine Rechtsberatung im Sinne des Rechtsdienstleistungsgesetzes und keine Steuerberatung. Sie prüft keinen Einzelfall, verarbeitet keine personenbezogenen Daten und gibt keine Gewähr für Vollständigkeit. Bei Satzung, Gemeinnützigkeit, Haftung und Steuern wenden Sie sich an Steuerberatung, Rechtsberatung oder die zuständigen Behörden. Stand: September 2026.</p>"
+    }
+  ]
+}

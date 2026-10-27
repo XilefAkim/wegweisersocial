@@ -1,0 +1,89 @@
+{
+  "id": "anerkennung-abschluesse",
+  "kategorie": "familie-abschluesse",
+  "titel": "Ausländische Abschlüsse anerkennen lassen",
+  "icon": "🎓",
+  "teaser": "Berufsabschluss oder Studium aus dem Ausland? Die zuständige Stelle muss in der Regel innerhalb von drei Monaten über die Gleichwertigkeit entscheiden. Für Kosten gibt es Zuschüsse.",
+  "schlagworte": [
+    "Anerkennung",
+    "BQFG",
+    "Gleichwertigkeit",
+    "Zeugnisbewertung",
+    "ZAB",
+    "Anerkennungszuschuss",
+    "reglementierter Beruf",
+    "Qualifikationsanalyse"
+  ],
+  "kurz_html": "<p>Sie haben im Ausland einen Beruf gelernt oder studiert? Dann können Sie prüfen lassen, ob Ihr Abschluss einem deutschen Abschluss entspricht. Das heißt <strong>Anerkennung</strong>.</p><p>Bei manchen Berufen brauchen Sie die Anerkennung, um überhaupt arbeiten zu dürfen, zum Beispiel in Gesundheitsberufen. Diese Berufe heißen <strong>reglementiert</strong>. Bei anderen Berufen ist sie freiwillig, hilft aber bei der Jobsuche.</p><p>Sie können den Antrag auch aus dem Ausland stellen. Die Stelle muss den Eingang innerhalb eines Monats bestätigen. Wenn alle Unterlagen da sind, muss sie in der Regel innerhalb von drei Monaten entscheiden.</p><p>Das Verfahren kostet Gebühren. Mit geringem Einkommen können Sie vorher einen Zuschuss beantragen.</p><p>Die Hotline „Arbeiten und Leben in Deutschland“ hilft: +49 30 1815-1111.</p>",
+  "schritte": [
+    {
+      "titel": "Zuständige Stelle finden",
+      "text": "Welche Stelle zuständig ist, hängt vom Beruf und oft vom Bundesland ab. Das Portal „Anerkennung in Deutschland“ und die Hotline helfen dabei."
+    },
+    {
+      "titel": "Zuschuss zuerst beantragen",
+      "text": "Wer den Anerkennungszuschuss möchte, muss ihn vor dem Anerkennungsantrag beantragen. Kosten werden nicht rückwirkend übernommen."
+    },
+    {
+      "titel": "Unterlagen vorbereiten",
+      "text": "Lebenslauf in Tabellenform auf Deutsch, Identitätsnachweis, Zeugnisse, Nachweise über Berufserfahrung, Übersetzungen durch vereidigte Übersetzer."
+    },
+    {
+      "titel": "Antrag stellen und Frist beobachten",
+      "text": "Eingangsbestätigung abwarten (1 Monat). Ab vollständigen Unterlagen läuft die 3-Monats-Frist."
+    },
+    {
+      "titel": "Fehlen Unterlagen: Qualifikationsanalyse",
+      "text": "Wenn Sie Zeugnisse unverschuldet nicht vorlegen können, kann die Stelle Ihre Fähigkeiten anders prüfen, etwa mit Arbeitsproben oder Fachgesprächen."
+    }
+  ],
+  "fristen": [
+    {
+      "wert": "1 Monat",
+      "was": "Eingangsbestätigung durch die zuständige Stelle, mit Hinweis auf fehlende Unterlagen.",
+      "grundlage": "§ 6 Abs. 2 BQFG (reglementierte Berufe: § 13 Abs. 2 BQFG)"
+    },
+    {
+      "wert": "3 Monate",
+      "was": "Entscheidung über die Gleichwertigkeit ab Eingang der vollständigen Unterlagen; einmal angemessen verlängerbar.",
+      "grundlage": "§ 6 Abs. 3 BQFG (reglementierte Berufe: § 13 Abs. 3 BQFG)"
+    },
+    {
+      "wert": "bis 600 €",
+      "was": "Anerkennungszuschuss für Verfahrenskosten, Übersetzungen u. a. (Qualifizierung bis 3.000 €); Aufnahmeanträge letztmalig am 30.06.2027.",
+      "grundlage": "Förderrichtlinie Anerkennungszuschuss, fortgesetzt ab 01.01.2025"
+    },
+    {
+      "wert": "208 €",
+      "was": "Gebühr der ZAB für eine Zeugnisbewertung ausländischer Hochschulqualifikationen; Zahlungsfrist regulär 3 Wochen.",
+      "grundlage": "Gebührenangabe der ZAB (Gebührenverordnung zuletzt Juni 2024 angepasst)"
+    }
+  ],
+  "achtung": [
+    "Die 3-Monats-Frist beginnt erst, wenn alle Unterlagen vollständig vorliegen (§ 6 Abs. 3 Satz 2 BQFG).",
+    "Wer außerhalb von EU, EWR und Schweiz wohnt, muss durch Unterlagen darlegen, in Deutschland arbeiten zu wollen (§ 5 Abs. 6, § 12 Abs. 6 BQFG).",
+    "Das BQFG gilt für bundesrechtlich geregelte Berufe. Für Landesberufe gelten die Anerkennungsgesetze der Länder.",
+    "Den Anerkennungszuschuss nur beantragen, bevor Sie den Anerkennungsantrag stellen – sonst keine Förderung.",
+    "Die ZAB-Zeugnisbewertung ist keine Anerkennung für reglementierte Berufe."
+  ],
+  "fach_html": "<h3>Anspruch und Verfahren nach dem BQFG</h3><p>§ 6 Abs. 1 BQFG: „Antragsberechtigt ist jede Person, die im Ausland einen Ausbildungsnachweis im Sinne des § 3 Absatz 2 erworben hat.“ Ein Wohnsitz in Deutschland ist nicht vorausgesetzt; Antragstellende müssen aber „durch geeignete Unterlagen darlegen, im Inland eine Erwerbstätigkeit ausüben zu wollen“ (§ 5 Abs. 6, § 12 Abs. 6 BQFG). Für Wohnsitz oder Staatsangehörigkeit in EU, EWR oder Schweiz ist diese Darlegung nach § 12 Abs. 6 entbehrlich, „sofern keine besonderen Gründe gegen eine entsprechende Absicht sprechen“.</p><h3>Fristen</h3><p>Die Stelle bestätigt „innerhalb eines Monats den Eingang des Antrags“ und teilt fehlende Unterlagen mit (§ 6 Abs. 2 BQFG). Nach § 6 Abs. 3 BQFG muss sie „innerhalb von drei Monaten über die Gleichwertigkeit entscheiden. Die Frist beginnt mit Eingang der vollständigen Unterlagen. Sie kann einmal angemessen verlängert werden“; die Verlängerung ist zu begründen und rechtzeitig mitzuteilen. Für reglementierte Berufe gilt nach § 13 Abs. 3 BQFG dieselbe Drei-Monats-Frist. Die Frist ist gehemmt bei Nachforderungen nach § 5 Abs. 4 und 5 und während eines Verfahrens nach § 14 (§ 6 Abs. 4). Bleibt die Stelle untätig, kommt eine Untätigkeitsklage nach § 75 VwGO in Betracht.</p><h3>Qualifikationsanalyse (§ 14 BQFG)</h3><p>Können Nachweise „aus nicht selbst zu vertretenden Gründen nicht oder nur teilweise“ vorgelegt werden, stellt die Stelle die Fähigkeiten „durch sonstige geeignete Verfahren“ fest, „insbesondere Arbeitsproben, Fachgespräche, praktische und theoretische Prüfungen sowie Gutachten von Sachverständigen“. Das ist für Geflüchtete ohne vollständige Unterlagen zentral.</p><h3>Zeugnisbewertung und Kosten</h3><p>Für ausländische Hochschulabschlüsse in nicht reglementierten Berufen stellt die Zentralstelle für ausländisches Bildungswesen (ZAB) bei der Kultusministerkonferenz Zeugnisbewertungen aus: „Die Zeugnisbewertung kostet 208 Euro“, Zahlungsfrist „regulär 3 Wochen“. Die Gebühren der übrigen Anerkennungsstellen legt jede Stelle nach eigenem Gebührenrecht fest; eine belegte bundesweite Spanne liegt hier nicht vor. Der Anerkennungszuschuss erstattet laut Portal „Anerkennung in Deutschland“ Kosten von 100 bis höchstens 600 Euro (Qualifizierungsmaßnahmen bis 3.000 Euro je Person). Einkommensgrenzen: 32.000 Euro brutto für Alleinstehende, 50.000 Euro für Verheiratete bzw. Lebenspartnerschaften. Voraussetzung sind gewöhnlicher Aufenthalt in Deutschland seit mindestens drei Monaten und Antrag vor dem Anerkennungsantrag. Nicht gefördert werden u. a. Sprachkurse und Kosten, die Arbeitsagentur oder Jobcenter übernehmen. Anträge auf Aufnahme in die Förderung sind laut IQ Brandenburg „letztmalig am 30. Juni 2027“ möglich, Auszahlungsanträge bis 30. September 2028.</p><h3>Beratung</h3><p>Die Hotline „Arbeiten und Leben in Deutschland“ (BAMF und Bundesagentur für Arbeit) ist unter +49 30 1815-1111 erreichbar (Mo–Do 9–16 Uhr, Fr 9–12 Uhr). Das Förderprogramm „Integration durch Qualifizierung (IQ)“ (BMAS, ESF Plus) bietet Anerkennungs- und Qualifizierungsberatung über regionale Stellen an.</p><h3>Selbst machen oder Anwalt?</h3><p>Den Anerkennungsantrag stellen Sie selbst; ein Anwalt ist nicht nötig. Die Gebühren tragen Sie, soweit kein Zuschuss, Jobcenter oder Arbeitsagentur sie übernimmt. Gegen einen ablehnenden Bescheid oder bei Untätigkeit ist der Verwaltungsrechtsweg eröffnet; vor dem Verwaltungsgericht besteht kein Anwaltszwang (§ 67 Abs. 1 VwGO). Anwaltliche Hilfe ist sinnvoll bei Ablehnung in einem reglementierten Beruf (z. B. Approbation) oder wenn Ausgleichsmaßnahmen strittig sind.</p>",
+  "zustaendig": [
+    "Zuständige Anerkennungsstelle je nach Beruf und Land (z. B. Kammern, Landesbehörden)",
+    "ZAB bei der Kultusministerkonferenz (Zeugnisbewertung Hochschulabschlüsse)",
+    "Hotline „Arbeiten und Leben in Deutschland“ (BAMF/BA)",
+    "Beratungsstellen des Förderprogramms IQ"
+  ],
+  "belege": [
+    "Gesetze im Internet, §§ 5, 6, 12, 13, 14 BQFG, abgerufen 24.09.2026",
+    "ZAB/Kultusministerkonferenz, Gebühren der Zeugnisbewertung, abgerufen 24.09.2026",
+    "Anerkennung in Deutschland (BMBFSFJ), Recognition grant / Anerkennungszuschuss, abgerufen 24.09.2026",
+    "IQ Brandenburg, Anerkennungszuschuss bis 2027 verlängert (14.01.2025), abgerufen 24.09.2026",
+    "BAMF, Hotline Arbeiten und Leben in Deutschland, abgerufen 24.09.2026"
+  ],
+  "siehe_auch": [
+    "arbeitserlaubnis-beschaeftigungserlaubnis",
+    "untaetigkeitsklage-auslaenderbehoerde",
+    "beratung-anlaufstellen"
+  ],
+  "stand": "September 2026"
+}

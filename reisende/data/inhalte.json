@@ -1,0 +1,1180 @@
+{
+  "kategorien": [
+    {
+      "id": "start",
+      "titel": "Überblick und Hilfe",
+      "icon": "🧭",
+      "beschreibung": "Erster Überblick, Rechtsstand 2026 und Anlaufstellen."
+    },
+    {
+      "id": "buchen",
+      "titel": "Buchen und Vertrag",
+      "icon": "🧳",
+      "beschreibung": "Pauschalreise, Unterkunft, Buchungsportale, Mietwagen."
+    },
+    {
+      "id": "verkehr",
+      "titel": "Flug, Bahn, Schiff",
+      "icon": "✈️",
+      "beschreibung": "Verspätung, Ausfall, Gepäck, Entschädigung und Schlichtung."
+    },
+    {
+      "id": "einreise",
+      "titel": "Einreise und Zoll",
+      "icon": "🛂",
+      "beschreibung": "Ausweis, Pass, EES, ETIAS, Zoll, Kinder und Tiere."
+    },
+    {
+      "id": "gesundheit",
+      "titel": "Gesundheit und Sicherheit",
+      "icon": "🩺",
+      "beschreibung": "Reiseversicherung, Krankheit im Ausland, Reisewarnungen."
+    },
+    {
+      "id": "geld",
+      "titel": "Geld und Handy",
+      "icon": "💳",
+      "beschreibung": "Kreditkarte, Bargeld, Roaming."
+    }
+  ],
+  "seiten": [
+    {
+      "id": "ueberblick",
+      "kategorie": "start",
+      "titel": "Überblick: Ihre Rechte auf Reisen",
+      "icon": "🧭",
+      "teaser": "Welche Regeln für welche Reise gelten, was sich 2026 geändert hat und was erst später gilt.",
+      "schlagworte": [
+        "Reiserecht",
+        "Überblick",
+        "Pauschalreise",
+        "Fluggastrechte",
+        "Rechtsstand 2026",
+        "EES",
+        "ETIAS",
+        "Reform"
+      ],
+      "kurz_html": "<p>Wie gut Sie geschützt sind, hängt davon ab, <strong>wie Sie gebucht haben</strong>. Eine Pauschalreise aus einer Hand ist stärker geschützt als einzeln gebuchte Bausteine.</p><ul><li><strong>Pauschalreise:</strong> Reiseveranstalter haftet für die ganze Reise.</li><li><strong>Einzelbuchung:</strong> Flug, Hotel und Mietwagen sind getrennte Verträge.</li><li><strong>Flug, Bahn, Schiff:</strong> Es gelten zusätzlich EU-Fahrgastrechte.</li></ul><p><strong>Neu 2026:</strong> Die EU hat die Fluggastrechte und die Pauschalreiserichtlinie reformiert. Beide Reformen gelten <strong>noch nicht</strong>. Bis dahin gilt das bisherige Recht. Das Ein- und Ausreisesystem EES läuft seit 2025/2026 an den Schengen-Außengrenzen. Das Reisegenehmigungssystem ETIAS ist noch nicht gestartet. Für Deutsche ändert sich bei Reisen im Schengen-Raum durch beides nichts.</p><p>Für Reisen ins Vereinigte Königreich brauchen Deutsche seit 2026 eine elektronische Reisegenehmigung (ETA) und einen Reisepass.</p>",
+      "schritte": [
+        {
+          "titel": "Buchungsart klären",
+          "text": "Prüfen Sie, ob es eine Pauschalreise ist oder ob Sie einzelne Leistungen gebucht haben."
+        },
+        {
+          "titel": "Unterlagen sichern",
+          "text": "Bewahren Sie Buchungsbestätigung, Belege, Fotos und Mails auf."
+        },
+        {
+          "titel": "Früh melden",
+          "text": "Melden Sie Mängel und Störungen sofort dem Veranstalter oder Unternehmen."
+        },
+        {
+          "titel": "Fristen beachten",
+          "text": "Schauen Sie auf der passenden Seite nach den Fristen für Ihren Fall."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "2 Jahre",
+          "was": "Verjährung von Ansprüchen aus einer mangelhaften Pauschalreise",
+          "grundlage": "§ 651j BGB"
+        },
+        {
+          "wert": "29.03.2029",
+          "was": "Geplante Anwendung der reformierten Pauschalreiserichtlinie (noch nicht geltendes Recht)",
+          "grundlage": "Richtlinie (EU) 2026/1024 (CELEX 32026L1024)"
+        }
+      ],
+      "achtung": [
+        "Reformen (Fluggastrechte, Pauschalreise) sind beschlossen, aber noch nicht anwendbar.",
+        "Viele Ausschluss- und Beschwerdefristen sind kurz, oft nur Tage oder Monate.",
+        "Bei Reisen außerhalb der EU gelten teils andere Regeln; prüfen Sie das Zielland.",
+        "Diese Seite ist Information, keine Rechtsberatung."
+      ],
+      "fach_html": "<h3>Systematik</h3><p>Das Reiserecht besteht aus mehreren Schichten: dem Pauschalreiserecht im BGB (§§ 651a ff.), dem Fahrgastrecht der EU (Fluggast-VO (EG) Nr. 261/2004, Bahn-VO (EU) 2021/782, Schiffs-VO (EU) Nr. 1177/2010), dem Montrealer Übereinkommen für Luftfahrt und dem allgemeinen Vertragsrecht für Einzelleistungen wie Hotel und Mietwagen.</p><h3>Reformen 2026 (noch nicht geltendes Recht)</h3><p>Fluggastrechte: Nach einer Einigung von Rat und Parlament am 15.06.2026 stimmte das Europäische Parlament laut ÖAMTC am 07.07.2026 zu; der Rat bestätigte am 13.07.2026. Die neuen Regeln gelten 12 Monate und 20 Tage nach Veröffentlichung im Amtsblatt; ob und wann diese erfolgt ist, ist nicht bestätigt. Siehe Seite Fluggastrechte.</p><p>Pauschalreiserichtlinie: Richtlinie (EU) 2026/1024 (CELEX 32026L1024): Veröffentlichung im Amtsblatt am 08.05.2026, Inkrafttreten 20 Tage nach Veröffentlichung, Umsetzung bis 29.09.2028, Anwendung ab 29.03.2029. Bis zur Umsetzung in Deutschland gelten die §§ 651a ff. BGB unverändert.</p><h3>Einreise</h3><p>EES: Start 12.10.2025, Vollbetrieb seit 10.04.2026. ETIAS: Die offizielle EU-Seite nennt kein Startdatum mehr; der Start soll Monate im Voraus angekündigt werden; Berichte nennen 2027.</p><h3>Abgrenzung</h3><p>Zu Auto und Führerschein im Ausland siehe die Zielgruppe Kfz-Halter (Wegweiser kfz-halter). Diese Plattform behandelt Privatreisen, keine Dienstreisen.</p><h3>Landesrecht (Stichprobe BY/NRW/BE)</h3><p>Stichprobe, nicht vollständig, Landesrecht weicht ab. Ihre Ansprüche bei Reise, Flug, Bahn und Gepäck beruhen auf Bundes- und EU-Recht; wesentliches Landesrecht dazu wurde nicht festgestellt. Feiertage und Ferienzeiten sind Ländersache (Bayern: Feiertagsgesetz, gesetze-bayern.de); für NRW und Berlin nicht im Volltext geprüft. Für Vermietung von Ferienwohnungen siehe die Gruppe Kleinvermieter.</p>",
+      "zustaendig": [
+        "Reiseveranstalter oder Vertragspartner",
+        "Schlichtung Reise & Verkehr e.V.",
+        "Europäisches Verbraucherzentrum Deutschland"
+      ],
+      "belege": [
+        "Bundesministerium der Justiz, Gesetze im Internet, §§ 651a, 651h, 651j BGB, abgerufen 21.09.2026",
+        "Prof. Führich, Reiserecht, Beitrag Tonner zur Pauschalreiserichtlinie (12.06.2026), abgerufen 21.09.2026",
+        "ÖAMTC, Neue EU-Fluggastrechte, abgerufen 21.09.2026",
+        "Euronews, ETIAS-Verzögerung (08.07.2026), abgerufen 21.09.2026",
+        "gesetze-bayern.de, Feiertagsgesetz Art. 1 (Landesrecht-Stichprobe, abgerufen 21.09.2026)"
+      ],
+      "siehe_auch": [
+        "pauschalreise",
+        "fluggastrechte",
+        "einreise-dokumente"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "pauschalreise",
+      "kategorie": "buchen",
+      "titel": "Pauschalreise: Rücktritt, Mängel, Insolvenzschutz",
+      "icon": "🏝️",
+      "teaser": "Was eine Pauschalreise ist, wann Sie zurücktreten können, was bei Mängeln gilt und wie Ihr Geld gesichert ist.",
+      "schlagworte": [
+        "Pauschalreise",
+        "Rücktritt",
+        "Reisemangel",
+        "Minderung",
+        "Sicherungsschein",
+        "Insolvenz",
+        "Preiserhöhung",
+        "651"
+      ],
+      "kurz_html": "<p>Eine <strong>Pauschalreise</strong> sind mindestens zwei verschiedene Reiseleistungen für dieselbe Reise, zum Beispiel Flug und Hotel. Der Veranstalter haftet dann für die ganze Reise.</p><ul><li>Sie können <strong>vor Reisebeginn jederzeit zurücktreten</strong>. Der Veranstalter darf dafür aber eine angemessene Entschädigung verlangen.</li><li>Gibt es am Reiseziel <strong>unvermeidbare, außergewöhnliche Umstände</strong>, kann er keine Entschädigung verlangen.</li><li>Bei einem <strong>Mangel</strong> melden Sie ihn sofort, am besten schriftlich. Sie können Abhilfe und Minderung verlangen.</li><li>Ihr Geld ist bei Insolvenz des Veranstalters durch einen <strong>Sicherungsschein</strong> geschützt.</li></ul>",
+      "schritte": [
+        {
+          "titel": "Mangel sofort melden",
+          "text": "Zeigen Sie den Mangel unverzüglich dem Veranstalter oder der Reiseleitung an und setzen Sie eine Frist zur Abhilfe."
+        },
+        {
+          "titel": "Beweise sammeln",
+          "text": "Machen Sie Fotos, notieren Sie Datum und Zeugen, sammeln Sie Belege."
+        },
+        {
+          "titel": "Minderung berechnen",
+          "text": "Fordern Sie nach der Reise schriftlich Minderung oder Schadensersatz."
+        },
+        {
+          "titel": "Sicherungsschein prüfen",
+          "text": "Prüfen Sie bei Buchung, ob Sie einen Sicherungsschein erhalten haben."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "unverzüglich",
+          "was": "Mängel dem Veranstalter anzeigen",
+          "grundlage": "§ 651o BGB"
+        },
+        {
+          "wert": "14 Tage",
+          "was": "Erstattung des Reisepreises nach Rücktritt",
+          "grundlage": "§ 651h BGB"
+        },
+        {
+          "wert": "20 Tage vor Reisebeginn",
+          "was": "Späteste Unterrichtung über Preiserhöhung",
+          "grundlage": "§ 651f BGB"
+        },
+        {
+          "wert": "2 Jahre",
+          "was": "Verjährung der Ansprüche wegen Mängeln",
+          "grundlage": "§ 651j BGB"
+        }
+      ],
+      "achtung": [
+        "Wer einen Mangel nicht anzeigt, kann Ansprüche verlieren, soweit der Veranstalter deshalb nicht abhelfen konnte (§ 651o BGB).",
+        "Eine Pauschalreise kann auch entstehen, wenn Sie online innerhalb von 24 Stunden bei einem verbundenen Anbieter zubuchen (§ 651c BGB).",
+        "Ohne Sicherungsschein dürfen Veranstalter vor Reiseende keine Vorauszahlungen annehmen (§ 651t BGB).",
+        "Die EU-Reform der Pauschalreiserichtlinie gilt in Deutschland noch nicht."
+      ],
+      "fach_html": "<h3>Begriff und Rücktritt</h3><p>Nach § 651a Abs. 2 BGB ist eine Pauschalreise eine Gesamtheit von mindestens zwei verschiedenen Arten von Reiseleistungen für den Zweck derselben Reise. Nach § 651h BGB kann der Reisende vor Reisebeginn jederzeit zurücktreten; der Veranstalter verliert den Preisanspruch, kann aber eine angemessene Entschädigung verlangen. Diese kann im Vertrag pauschaliert sein (Zeit bis Reisebeginn, ersparte Aufwendungen, anderweitige Verwendung). Bei unvermeidbaren, außergewöhnlichen Umständen am Bestimmungsort kann er keine Entschädigung verlangen. Der Veranstalter muss den Preis innerhalb von 14 Tagen erstatten.</p><h3>Änderungen, Übertragung</h3><p>Preiserhöhungen sind nur bei vertraglich vorgesehener Klausel und aus bestimmten Gründen (Treibstoff, Steuern und Abgaben, Wechselkurse) zulässig; Unterrichtung spätestens 20 Tage vor Reisebeginn (§ 651f BGB). Erhebliche Vertragsänderungen: Nach § 651g BGB gilt eine Erhöhung von mehr als 8 Prozent nicht als einseitig zulässig. Ein Dritter kann in den Vertrag eintreten; die Mitteilung ist rechtzeitig, wenn sie spätestens sieben Tage vor Reisebeginn zugeht (§ 651e BGB).</p><h3>Mängel</h3><p>Ein Reisemangel liegt vor, wenn die Reise die vereinbarte Beschaffenheit nicht hat oder sich nicht für den vorgesehenen Zweck eignet, auch bei unangemessener Verspätung von Leistungen (§ 651i BGB). Rechte: Abhilfe, Selbstabhilfe mit Kostenersatz, Kündigung, Minderung, Schadensersatz. Der Preis ist für die Dauer des Mangels gemindert (§ 651m BGB). Der Mangel ist unverzüglich anzuzeigen (§ 651o BGB). Die Ansprüche nach § 651i Abs. 3 verjähren in zwei Jahren (§ 651j BGB).</p><h3>Insolvenzschutz</h3><p>Der Veranstalter muss den gezahlten Reisepreis absichern (§ 651r BGB), durch Reisesicherungsfonds; Versicherungen oder Kreditinstitutszusagen nur für kleinere Unternehmen (unter 10 Mio. Euro Jahresumsatz). Bei sehr kleinen Anbietern (unter 3 Mio. Euro Umsatz) kann die Haftung des Versicherers auf 1 Mio. Euro je Insolvenzfall begrenzt sein. Nachweis ist der Sicherungsschein; nach § 651t BGB müssen Kontaktdaten des Absicherers klar mitgeteilt werden.</p><h3>Haftungsbeschränkung und Anrechnung</h3><p>Nach § 651p BGB kann der Veranstalter seine Haftung für nicht-körperliche, nicht schuldhaft herbeigeführte Schäden vertraglich auf das Dreifache des Reisepreises beschränken. Leistungen, die Sie nach EU-Verordnungen (etwa Fluggastrechten) erhalten, werden auf Schadensersatzansprüche angerechnet.</p><h3>Reform</h3><p>Richtlinie (EU) 2026/1024 (CELEX 32026L1024): Umsetzung bis 29.09.2028, Anwendung ab 29.03.2029; Beibehaltung der 14-tägigen Rückzahlungsfrist, Gutscheine bleiben freiwillig, Erstattung nach Veranstalterinsolvenz innerhalb von sechs Monaten. Vorauszahlung im Regelfall höchstens 25 Prozent, Wegfall der verbundenen Reiseleistungen; Richtlinientext nicht im Volltext geprüft. Geltendes Recht bleibt bis zur Umsetzung das BGB.</p>",
+      "zustaendig": [
+        "Reiseveranstalter (Beschwerde)",
+        "Schlichtung Reise & Verkehr e.V. (Pauschalreise)",
+        "Europäisches Verbraucherzentrum Deutschland (Anbieter im EU-Ausland)"
+      ],
+      "belege": [
+        "Bundesministerium der Justiz, Gesetze im Internet, §§ 651a, 651c, 651e, 651f, 651g, 651h, 651i, 651j, 651k, 651m, 651o, 651p, 651r, 651t BGB, abgerufen 21.09.2026",
+        "Prof. Führich, Reiserecht, Beitrag Tonner zur Pauschalreiserichtlinie (12.06.2026), abgerufen 21.09.2026",
+        "Schlichtung Reise & Verkehr e.V., Startseite, abgerufen 21.09.2026"
+      ],
+      "siehe_auch": [
+        "fluggastrechte",
+        "versicherung-gesundheit",
+        "reisewarnungen-krisen"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "unterkunft-plattformen",
+      "kategorie": "buchen",
+      "titel": "Unterkunft und Buchungsplattformen",
+      "icon": "🏨",
+      "teaser": "Hotel oder Ferienwohnung online gebucht: kein gesetzliches Widerrufsrecht, aber Stornoregeln und die Frage, wer Vertragspartner ist.",
+      "schlagworte": [
+        "Hotel",
+        "Ferienwohnung",
+        "Booking",
+        "Widerrufsrecht",
+        "Stornierung",
+        "Buchungsportal",
+        "312g",
+        "Vermittler"
+      ],
+      "kurz_html": "<p>Wenn Sie ein Hotel oder eine Ferienwohnung <strong>online</strong> buchen, haben Sie <strong>kein gesetzliches 14-tägiges Widerrufsrecht</strong>. Das gilt, wenn der Vertrag einen bestimmten Termin oder Zeitraum vorsieht.</p><ul><li>Ob Sie kostenlos stornieren können, steht in den <strong>Buchungsbedingungen</strong>.</li><li>Viele Portale vermitteln nur. Vertragspartner ist dann das Hotel.</li><li>Manche Portale sind selbst Vertragspartner. Das steht in den Bedingungen.</li></ul><p>Speichern Sie Buchungsbestätigung und Stornobedingungen als Bild oder PDF.</p>",
+      "schritte": [
+        {
+          "titel": "Vertragspartner finden",
+          "text": "Lesen Sie, ob das Portal oder das Hotel Ihr Vertragspartner ist."
+        },
+        {
+          "titel": "Storno prüfen",
+          "text": "Prüfen Sie Frist und Kosten der kostenlosen Stornierung vor dem Klick auf Buchen."
+        },
+        {
+          "titel": "Bedingungen speichern",
+          "text": "Sichern Sie die Bedingungen zum Zeitpunkt der Buchung."
+        },
+        {
+          "titel": "Bei Mängeln melden",
+          "text": "Melden Sie Mängel sofort schriftlich dem Vermieter und dokumentieren Sie sie."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "kein Widerrufsrecht",
+          "was": "Beherbergung zu anderen Zwecken als zu Wohnzwecken mit festem Termin oder Zeitraum",
+          "grundlage": "§ 312g Abs. 2 Nr. 9 BGB"
+        },
+        {
+          "wert": "24 Stunden",
+          "was": "Zubuchung über verbundenes Online-Buchungsverfahren kann eine Pauschalreise begründen",
+          "grundlage": "§ 651c BGB"
+        }
+      ],
+      "achtung": [
+        "Wer Flug und Hotel getrennt bucht, hat keine Pauschalreise (außer bei verbundener Online-Buchung nach § 651c BGB).",
+        "Kostenlose Stornierung ist eine Kulanz oder Vertragsbedingung, kein gesetzlicher Anspruch.",
+        "Bei Ferienwohnungen im EU-Ausland kann ausländisches Recht Bedeutung haben; nicht im Volltext geprüft.",
+        "Prüfen Sie die Buchungsseite auf echte Anbieter, nicht auf Nachahmer-Seiten."
+      ],
+      "fach_html": "<h3>Widerrufsrecht</h3><p>Nach § 312g Abs. 1 BGB besteht bei Fernabsatzverträgen grundsätzlich ein Widerrufsrecht nach § 355 BGB. § 312g Abs. 2 Nr. 9 BGB nimmt Verträge über Dienstleistungen in den Bereichen Beherbergung zu anderen Zwecken als zu Wohnzwecken, Beförderung von Waren, Kraftfahrzeugvermietung und Lieferung von Speisen und Getränken sowie Freizeitbetätigungen aus, wenn der Vertrag für die Erbringung einen spezifischen Termin oder Zeitraum vorsieht (Kurzauswertung des Gesetzestextes; die Nummer enthält weitere Einschränkungen, die hier nicht wiedergegeben sind). Verbraucherzentrale Hamburg und Europäisches Verbraucherzentrum weisen darauf hin, dass bei Online-Urlaubsbuchungen kein Widerrufsrecht besteht (Suchtreffer). Ob und wie sich das für Flug und Bahn auswirkt, ist nicht im Volltext geprüft.</p><h3>Vertragspartner</h3><p>Nach Suchtreffern vermitteln Portale wie Booking.com oder HRS typischerweise nur; Online-Reisebüros wie Hotels.com oder Expedia können selbst Vertragspartner sein. Das ist im Einzelfall aus den Bedingungen zu entnehmen; Belege nur als Suchtreffer.</p><h3>Verbundene Buchung</h3><p>Nach § 651c BGB wird ein Unternehmer wie ein Reiseveranstalter behandelt, wenn er über ein Online-Buchungsverfahren Zugang zu einem weiteren Anbieter verschafft, Name, Zahlungsdaten und E-Mail übermittelt werden und der weitere Vertrag innerhalb von 24 Stunden nach Bestätigung der ersten Leistung geschlossen wird. Dann gelten die Verträge als ein Pauschalreisevertrag.</p>",
+      "zustaendig": [
+        "Vermieter/Hotel oder Buchungsportal",
+        "Europäisches Verbraucherzentrum Deutschland (EU-Ausland)",
+        "Verbraucherzentrale"
+      ],
+      "belege": [
+        "Bundesministerium der Justiz, Gesetze im Internet, § 312g BGB, § 651c BGB, abgerufen 21.09.2026",
+        "Verbraucherzentrale Hamburg, Urlaub buchen: online kein Widerrufsrecht (Suchtreffer), abgerufen 21.09.2026",
+        "Europäisches Verbraucherzentrum, Hotelbuchung (Suchtreffer), abgerufen 21.09.2026"
+      ],
+      "siehe_auch": [
+        "pauschalreise",
+        "mietwagen-fahrzeug",
+        "versicherung-gesundheit"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "mietwagen-fahrzeug",
+      "kategorie": "buchen",
+      "titel": "Mietwagen und Fahrzeug im Ausland",
+      "icon": "🚗",
+      "teaser": "Mietwagen im Urlaub: Kaution, Versicherung, Übergabeprotokoll. Für das eigene Auto im Ausland verweist diese Seite weiter.",
+      "schlagworte": [
+        "Mietwagen",
+        "Kaution",
+        "Vollkasko",
+        "Selbstbeteiligung",
+        "Übergabeprotokoll",
+        "Mallorca-Police",
+        "Kreditkarte",
+        "Fahrzeug im Ausland"
+      ],
+      "kurz_html": "<p>Beim Mietwagen im Ausland sparen Sie sich Ärger mit gründlicher Vorbereitung.</p><ul><li><strong>Von Deutschland aus buchen</strong> und den Vertrag vor dem Unterschreiben lesen.</li><li>Für die Kaution wird oft eine <strong>echte Kreditkarte</strong> verlangt.</li><li>Eine <strong>Vollkasko ohne Selbstbeteiligung</strong> ist ratsam.</li><li>Fotografieren Sie das Auto bei Übergabe und Rückgabe und lassen Sie Mängel im Protokoll notieren.</li></ul><p>Zum <strong>eigenen Auto</strong> im Ausland (Zulassung, Versicherung, Führerschein) finden Sie Hinweise im Wegweiser für Kfz-Halter.</p>",
+      "schritte": [
+        {
+          "titel": "Vertrag prüfen",
+          "text": "Lesen Sie Kilometer, Kaution, Selbstbeteiligung und Tankregel."
+        },
+        {
+          "titel": "Versicherung wählen",
+          "text": "Prüfen Sie Haftpflicht-Deckungssumme und Vollkasko ohne Selbstbeteiligung."
+        },
+        {
+          "titel": "Zustand dokumentieren",
+          "text": "Fotos und Übergabeprotokoll mit allen Schäden bei Abholung."
+        },
+        {
+          "titel": "Rückgabe absichern",
+          "text": "Lassen Sie sich die Rückgabe ohne neue Schäden schriftlich bestätigen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "250 bis 3.000 Euro",
+          "was": "Übliche Kaution, die auf der Kreditkarte geblockt wird",
+          "grundlage": "Verbraucherzentrale, Auslandsurlaub mit dem Mietwagen"
+        },
+        {
+          "wert": "50 bis 100 Mio. Euro",
+          "was": "Empfohlene Deckungssumme der Haftpflicht bei Personenschäden",
+          "grundlage": "Verbraucherzentrale, Auslandsurlaub mit dem Mietwagen"
+        }
+      ],
+      "achtung": [
+        "Debitkarten werden für die Kaution oft nicht akzeptiert.",
+        "Ohne Protokoll müssen Sie bei Rückgabe damit rechnen, für vorhandene Schäden zu zahlen.",
+        "Kfz-Vermietung ist vom Widerrufsrecht im Fernabsatz ausgenommen (§ 312g Abs. 2 Nr. 9 BGB).",
+        "Maut, Umweltzonen, Grüne Karte und Regeln im Ausland: nicht im Volltext geprüft."
+      ],
+      "fach_html": "<h3>Vertrag und Versicherung</h3><p>Nach der Verbraucherzentrale ist die Kfz-Haftpflicht essenziell; empfohlen werden hohe Deckungssummen für Personenschäden (50 bis 100 Millionen Euro) und eine Vollkasko ohne Selbstbeteiligung. Ergänzend werden die „Mallorca-Police“ (Europa) und die „Traveller-Police“ (außerhalb Europas) genannt, die die Haftpflicht auf deutsches Niveau anheben.</p><h3>Kaution und Kreditkarte</h3><p>Die Kaution liegt laut Verbraucherzentrale meist zwischen 250 und 3.000 Euro und wird auf der Kreditkarte geblockt; Debitkarten werden oft nicht akzeptiert.</p><h3>Übergabe und Unfall</h3><p>Zustand mit Fotos dokumentieren, Mängel im Mietvertrag oder Übergabeprotokoll notieren lassen; bei Unfall Polizei rufen, Unfallprotokoll ausfüllen und alle Belege aufbewahren.</p><h3>Abgrenzung Kfz-Halter</h3><p>Fragen zu Zulassung, Kfz-Versicherung, Steuer, HU, Bußgeld und Führerschein behandelt der Wegweiser Kfz-Halter (Ordner kfz-halter). Diese Seite prüft nicht: Grüne Karte, Maut- und Vignettensysteme, Umweltzonen im Ausland, Bußgeldvollstreckung aus dem Ausland.</p>",
+      "zustaendig": [
+        "Autovermieter (Beschwerde)",
+        "Europäisches Verbraucherzentrum Deutschland (Vermieter im EU-Ausland)",
+        "Schlichtung nur, wenn Vermieter teilnimmt; nicht geprüft"
+      ],
+      "belege": [
+        "Verbraucherzentrale, Auslandsurlaub mit dem Mietwagen: So vermeiden Sie Ärger und Fallen, abgerufen 21.09.2026",
+        "Bundesministerium der Justiz, Gesetze im Internet, § 312g BGB, abgerufen 21.09.2026",
+        "Verbraucherzentrale, Auslandsreisen: welcher Versicherungsschutz ist notwendig, abgerufen 21.09.2026"
+      ],
+      "siehe_auch": [
+        "versicherung-gesundheit",
+        "geld-handy",
+        "unterkunft-plattformen"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "fluggastrechte",
+      "kategorie": "verkehr",
+      "titel": "Flug: Verspätung, Ausfall, Nichtbeförderung",
+      "icon": "🛫",
+      "teaser": "Was Ihnen bei Verspätung, Annullierung und Nichtbeförderung zusteht und was die EU-Reform 2026 ändert.",
+      "schlagworte": [
+        "Flugverspätung",
+        "Annullierung",
+        "Nichtbeförderung",
+        "261/2004",
+        "Entschädigung 250 400 600",
+        "Schlichtung",
+        "Verjährung",
+        "Fluggastrechte Reform"
+      ],
+      "kurz_html": "<p>Bei Problemen mit einem Flug gilt in der EU die <strong>Fluggastrechte-Verordnung (EG) Nr. 261/2004</strong>.</p><ul><li>Bei <strong>mehr als 3 Stunden Verspätung</strong> am Ziel oder bei <strong>Annullierung weniger als 14 Tage</strong> vor Abflug kann Entschädigung von <strong>250 bis 600 Euro</strong> fällig sein, je nach Entfernung.</li><li>Die Fluggesellschaft muss Sie <strong>betreuen</strong> (Getränke, Essen, ggf. Hotel) und <strong>erstatten oder umbuchen</strong>.</li><li>Bei <strong>außergewöhnlichen Umständen</strong> (etwa Unwetter) gibt es keine Entschädigung.</li></ul><p>Zunächst schreiben Sie an die Airline. Hilft das nicht, kann die <strong>Schlichtung Reise &amp; Verkehr</strong> helfen. Sie ist kostenlos.</p><p><strong>Reform:</strong> Die EU hat 2026 neue Regeln beschlossen. Die 3-Stunden-Schwelle und die Beträge bleiben. Die neuen Regeln gelten aber noch nicht.</p>",
+      "schritte": [
+        {
+          "titel": "Belege sichern",
+          "text": "Buchung, Bordkarte, Fotos der Anzeigetafel, Zeiten und Belege für eigene Kosten."
+        },
+        {
+          "titel": "Betreuung verlangen",
+          "text": "Fordern Sie Verpflegung und Hotel an. Sammeln Sie Rechnungen, falls Sie selbst zahlen."
+        },
+        {
+          "titel": "Airline anschreiben",
+          "text": "Machen Sie den Anspruch schriftlich geltend."
+        },
+        {
+          "titel": "Schlichtung nutzen",
+          "text": "Bleibt die Antwort aus oder ist sie ungenügend, wenden Sie sich an die Schlichtung Reise & Verkehr."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "3 Stunden",
+          "was": "Schwelle der Verspätung am Ankunftsort für Entschädigung",
+          "grundlage": "EuGH, C-402/07 (Sturgeon) und C-581/10 (Nelson); nicht im Verordnungstext"
+        },
+        {
+          "wert": "14 Tage",
+          "was": "Annullierung weniger als 14 Tage vor Abflug kann Entschädigung auslösen",
+          "grundlage": "VO (EG) Nr. 261/2004; laut Bundeskanzleramt Österreich"
+        },
+        {
+          "wert": "3 Jahre",
+          "was": "Regelmäßige Verjährung, auch bei Flug als Teil einer Pauschalreise",
+          "grundlage": "§§ 195, 199 Abs. 1 BGB; BGH, 04.06.2024, X ZR 62/23"
+        },
+        {
+          "wert": "9 Monate",
+          "was": "Künftige Antragsfrist nach dem Abflug (noch nicht geltendes Recht)",
+          "grundlage": "Reform laut Presse, noch nicht anwendbar"
+        }
+      ],
+      "achtung": [
+        "Reform 2026: Nach 12 Monaten und 20 Tagen ab Amtsblatt-Veröffentlichung anwendbar; Veröffentlichungsdatum nicht bestätigt.",
+        "Reformdetails außer den genannten stammen überwiegend aus Presseangaben und sind unbestätigt.",
+        "Bei Pauschalreisen kann der Veranstalter zuständig sein; die Verjährung bleibt bei 3 Jahren: § 651j BGB (2 Jahre) erfasst Ausgleichsansprüche nach VO 261/2004 nicht (BGH, 04.06.2024, X ZR 62/23).",
+        "Staffel nach Art. 7 Abs. 1: 250 Euro bis 1.500 km; 400 Euro innergemeinschaftlich über 1.500 km und sonstige Flüge von 1.500 bis 3.500 km; 600 Euro übrige."
+      ],
+      "fach_html": "<h3>Geltendes Recht</h3><p>Die Verordnung (EG) Nr. 261/2004 regelt Ausgleichsleistungen bei Nichtbeförderung, Annullierung und großer Verspätung. Ausgleichsleistung nach Art. 7 Abs. 1: 250 Euro bis 1.500 km; 400 Euro innergemeinschaftlich über 1.500 km und sonstige Flüge von 1.500 bis 3.500 km; 600 Euro übrige. Die 3-Stunden-Schwelle bei Verspätung beruht auf der Rechtsprechung des EuGH (C-402/07 Sturgeon, C-581/10 Nelson), nicht auf dem Verordnungstext. Gewährt werden Erstattung oder anderweitige Beförderung sowie Betreuungsleistungen nach Art. 9 (Mahlzeiten und Erfrischungen, ggf. Hotel und Transfer). Nach Art. 6 Abs. 1 setzt die Betreuung bei Verspätung ab 2 Stunden bei Flügen bis 1.500 km ein, ab 3 Stunden bei innergemeinschaftlichen Flügen über 1.500 km und sonstigen Flügen von 1.500 bis 3.500 km, ab 4 Stunden bei allen übrigen. Bei außergewöhnlichen Umständen, die auch mit allen zumutbaren Maßnahmen nicht zu vermeiden gewesen wären, entfällt die Ausgleichszahlung (Art. 5 Abs. 3 der Verordnung).</p><h3>Durchsetzung</h3><p>Die Schlichtung Reise &amp; Verkehr e.V. (früher söp) ist kostenlos für Verbraucher; das Verfahren setzt voraus, dass die Beschwerde beim Unternehmen erfolglos blieb. Laut Luftfahrt-Bundesamt gilt dies für Ansprüche bis 5.000 Euro; Ansprüche unter 10 Euro sind ausgenommen; Schlichtungsvorschläge sind nur verbindlich, wenn beide Seiten zustimmen. Das Luftfahrt-Bundesamt entscheidet nicht über Einzelansprüche. Für Fluggesellschaften, die nicht teilnehmen, ist das Bundesamt für Justiz in Bonn zuständig (laut BMV). Bürgerservice Luftfahrt-Bundesamt Braunschweig: Tel. +49 531 23 55-115 (Mo bis Do 10 bis 13 Uhr, laut BMV).</p><h3>Verjährung</h3><p>Für Ansprüche nach der Fluggastrechte-Verordnung gilt in Deutschland die regelmäßige Verjährung von drei Jahren ab Jahresende (§§ 195, 199 Abs. 1 BGB). Das gilt auch bei Flug als Teil einer Pauschalreise: § 651j BGB (2 Jahre) erfasst Ausgleichsansprüche nach VO 261/2004 nicht (BGH, 04.06.2024, X ZR 62/23).</p><h3>Reform 2026 (nicht geltendes Recht)</h3><p>Am 15.06.2026 einigten sich Rat und Parlament; das Parlament stimmte laut ÖAMTC am 07.07.2026 zu; der Rat gab laut Suchtreffer am 13.07.2026 die endgültige Zustimmung. Anwendung: 12 Monate und 20 Tage nach Amtsblatt-Veröffentlichung. Inhalt laut Bundeskanzleramt Österreich, ÖAMTC und Pressequellen: 96-Stunden-Information durch die Airline, 9 Monate Antragsfrist, 30 Tage Bearbeitung, Verbot des No-Show-Ausschlusses beim Rückflug, kostenlose Namenskorrektur, ein kostenloser persönlicher Gegenstand (kleine Tasche oder Rucksack, Maße nicht festgelegt), Kosten für Handgepäck vor der Buchung sichtbar, Betreuungsstaffel 2 Stunden / 3 Stunden / alle 5 Stunden (Reformregel, gilt noch nicht), Anspruch auf Selbstumbuchung bis 400 Prozent des Ticketpreises. Die Punkte stammen überwiegend aus Presse; der Wortlaut der Verordnung wurde nicht geprüft.</p>",
+      "zustaendig": [
+        "Fluggesellschaft (erste Beschwerde)",
+        "Schlichtung Reise & Verkehr e.V., Berlin (portal.sruv.de)",
+        "Bundesamt für Justiz, Bonn (Airline ohne Teilnahme)",
+        "Luftfahrt-Bundesamt (Aufsicht)"
+      ],
+      "belege": [
+        "Bundeskanzleramt Österreich, EU-Fluggastrechte werden vereinfacht, präzisiert und gestärkt (Juli 2026), abgerufen 21.09.2026",
+        "ÖAMTC, Neue EU-Fluggastrechte voraussichtlich ab Herbst 2027, abgerufen 21.09.2026",
+        "Luftfahrt-Bundesamt, Schlichtung, abgerufen 21.09.2026",
+        "BMV, Fahr- und Fluggastrechte, abgerufen 21.09.2026",
+        "BGH, Urteil vom 04.06.2024, X ZR 62/23, abgerufen 21.09.2026"
+      ],
+      "siehe_auch": [
+        "gepaeck",
+        "pauschalreise",
+        "beratung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "gepaeck",
+      "kategorie": "verkehr",
+      "titel": "Gepäck: Verlust, Schaden, Verspätung",
+      "icon": "🧳",
+      "teaser": "Kofferschaden oder verspätetes Gepäck bei internationalen Flügen: Haftungsgrenzen nach dem Montrealer Übereinkommen.",
+      "schlagworte": [
+        "Gepäck",
+        "Koffer",
+        "Montrealer Übereinkommen",
+        "Sonderziehungsrechte",
+        "PIR",
+        "Schadenanzeige",
+        "Gepäckverspätung",
+        "Handgepäck"
+      ],
+      "kurz_html": "<p>Bei <strong>internationalen Flügen</strong> haftet die Fluggesellschaft für Gepäck nach dem <strong>Montrealer Übereinkommen</strong>.</p><ul><li>Für Verlust, Beschädigung und Verspätung des Reisegepäcks gilt seit 28.12.2024 eine Höchstgrenze von <strong>1.519 Sonderziehungsrechten</strong> je Fluggast (Art. 22 Abs. 2).</li><li>Melden Sie fehlendes oder beschädigtes Gepäck <strong>noch am Flughafen</strong>.</li><li>Für Verspätungsschäden bei der Personenbeförderung (nicht Gepäck) gelten bis zu <strong>6.303 Sonderziehungsrechten</strong> je Fluggast (Art. 22 Abs. 1).</li></ul><p>Bewahren Sie Belege für Ersatzkäufe auf. Schreiben Sie der Airline <strong>schriftlich und schnell</strong>.</p>",
+      "schritte": [
+        {
+          "titel": "Vor Ort melden",
+          "text": "Melden Sie den Schaden am Flughafen beim Schalter der Airline oder Bodenverkehrsdienst."
+        },
+        {
+          "titel": "Belege sammeln",
+          "text": "Fotos, Gepäckschein, Kaufbelege der Ersatzartikel, Inhaltsliste."
+        },
+        {
+          "titel": "Schriftlich anzeigen",
+          "text": "Zeigen Sie den Schaden zusätzlich schriftlich an; beachten Sie die Frist."
+        },
+        {
+          "titel": "Schlichtung",
+          "text": "Bei Ablehnung: Schlichtung Reise & Verkehr."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "7 Tage",
+          "was": "Schriftliche Anzeige einer Beschädigung nach Erhalt des Gepäcks",
+          "grundlage": "Montrealer Übereinkommen Art. 31 Abs. 2"
+        },
+        {
+          "wert": "21 Tage",
+          "was": "Schriftliche Anzeige einer Verspätung, gerechnet ab Bereitstellung des Gepäcks",
+          "grundlage": "Montrealer Übereinkommen Art. 31 Abs. 2"
+        },
+        {
+          "wert": "2 Jahre",
+          "was": "Klagefrist (Ausschlussfrist)",
+          "grundlage": "Montrealer Übereinkommen Art. 35"
+        },
+        {
+          "wert": "1.519 SZR",
+          "was": "Höchsthaftung je Fluggast für Verlust, Beschädigung und Verspätung des Reisegepäcks",
+          "grundlage": "Montrealer Übereinkommen Art. 22 Abs. 2, ab 28.12.2024"
+        },
+        {
+          "wert": "6.303 SZR",
+          "was": "Höchsthaftung je Fluggast für Verspätungsschäden bei der Personenbeförderung (nicht Gepäck)",
+          "grundlage": "Montrealer Übereinkommen Art. 22 Abs. 1, ab 28.12.2024"
+        }
+      ],
+      "achtung": [
+        "Klagefrist 2 Jahre (Ausschlussfrist, Art. 35); Anzeigefristen 7 Tage bei Beschädigung, 21 Tage bei Verspätung (Art. 31 Abs. 2), jeweils schriftlich.",
+        "Das Übereinkommen gilt, wenn Abflug- und Zielflughafen in zwei Vertragsstaaten liegen.",
+        "Wertvolle Gegenstände sollten im Handgepäck bleiben.",
+        "Der Wechselkurs von SZR in Euro schwankt; Euro-Beträge nennt diese Seite nicht."
+      ],
+      "fach_html": "<h3>Haftungsgrenzen</h3><p>Nach der Schlichtung Reise &amp; Verkehr gelten seit dem 28.12.2024: Verspätungsschäden bei der Personenbeförderung bis 6.303 Sonderziehungsrechte je Fluggast (Art. 22 Abs. 1); Verlust, Beschädigung und Verspätung des Reisegepäcks bis 1.519 SZR (Art. 22 Abs. 2), bei Tod oder Körperverletzung haften Fluggesellschaften grundsätzlich bis 151.880 SZR ohne Verschuldensnachweis. Das Übereinkommen gilt bei internationalen Flügen zwischen zwei Vertragsstaaten.</p><h3>Fristen</h3><p>Nach Art. 31 Abs. 2 des Übereinkommens ist eine Beschädigung binnen 7 Tagen, eine Verspätung binnen 21 Tagen nach Bereitstellung des Gepäcks schriftlich anzuzeigen. Klagen sind binnen 2 Jahren zu erheben (Art. 35, Ausschlussfrist). Setzen Sie die Anzeige deshalb sofort auf.</p><h3>Abgrenzung</h3><p>Gepäck bei Pauschalreisen: Ansprüche können zusätzlich gegen den Veranstalter bestehen (Seite Pauschalreise). Reisegepäckversicherung: die Verbraucherzentrale rät wegen hoher Prämien und geringer Leistung eher ab.</p>",
+      "zustaendig": [
+        "Fluggesellschaft",
+        "Schlichtung Reise & Verkehr e.V.",
+        "Reiseveranstalter (bei Pauschalreise)"
+      ],
+      "belege": [
+        "Schlichtung Reise & Verkehr, Das Montrealer Übereinkommen im Kurzüberblick, abgerufen 21.09.2026",
+        "Luftfahrt-Bundesamt, Haftung für Personen-, Gepäck-, Güter- oder Verspätungs-Schäden (Suchtreffer), abgerufen 21.09.2026",
+        "Verbraucherzentrale, Auslandsreisen: welcher Versicherungsschutz ist notwendig, abgerufen 21.09.2026"
+      ],
+      "siehe_auch": [
+        "fluggastrechte",
+        "versicherung-gesundheit",
+        "pauschalreise"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "bahn",
+      "kategorie": "verkehr",
+      "titel": "Bahn: Fahrgastrechte bei Verspätung und Ausfall",
+      "icon": "🚆",
+      "teaser": "Entschädigung ab 60 Minuten Verspätung, Weiterreise, Hilfe und wo Sie Ihren Antrag stellen.",
+      "schlagworte": [
+        "Bahn",
+        "Fahrgastrechte",
+        "Verspätung",
+        "Entschädigung",
+        "Zugausfall",
+        "2021/782",
+        "Eisenbahn-Bundesamt",
+        "Fahrpreiserstattung"
+      ],
+      "kurz_html": "<p>Für Bahnreisen in der EU gilt die <strong>Fahrgastrechte-Verordnung (EU) 2021/782</strong>.</p><ul><li>Ab <strong>60 Minuten</strong> Verspätung am Ziel erhalten Sie <strong>25 Prozent</strong> des Fahrpreises, ab <strong>120 Minuten</strong> <strong>50 Prozent</strong>.</li><li>Bei erheblicher Verspätung oder Ausfall dürfen Sie mit einem <strong>anderen Zug</strong> weiterfahren.</li><li>Bei langer Verzögerung gibt es <strong>Hilfe</strong>, etwa Getränke, Snacks, Mahlzeiten oder Unterbringung.</li></ul><p>Das Unternehmen darf einen Mindestbetrag festlegen, <strong>höchstens 4 Euro</strong> je Fahrkarte. Den Antrag stellen Sie beim Bahnunternehmen.</p>",
+      "schritte": [
+        {
+          "titel": "Verspätung belegen",
+          "text": "Ticket aufbewahren, Zeiten notieren, Screenshot der App."
+        },
+        {
+          "titel": "Antrag stellen",
+          "text": "Beantragen Sie die Entschädigung beim Bahnunternehmen."
+        },
+        {
+          "titel": "Frist beachten",
+          "text": "Halten Sie die Beschwerdefrist von drei Monaten ein."
+        },
+        {
+          "titel": "Bei Ablehnung",
+          "text": "Schlichtung Reise & Verkehr oder Beschwerde beim Eisenbahn-Bundesamt."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "25 % ab 60 Minuten, 50 % ab 120 Minuten",
+          "was": "Entschädigung vom Fahrpreis",
+          "grundlage": "VO (EU) 2021/782 Art. 19; Auszahlung binnen 1 Monat"
+        },
+        {
+          "wert": "3 Monate",
+          "was": "Beschwerde beim Eisenbahnunternehmen",
+          "grundlage": "VO (EU) 2021/782 Art. 28; Eisenbahn-Bundesamt, FAQ"
+        },
+        {
+          "wert": "1 Monat",
+          "was": "Antwort des Unternehmens auf die Beschwerde (begründet bis zu 3 Monate)",
+          "grundlage": "VO (EU) 2021/782 Art. 28"
+        },
+        {
+          "wert": "4 Euro",
+          "was": "Höchstens zulässiger Mindestbetrag je Fahrkarte, den das Unternehmen festlegen darf; keine automatische Bagatellgrenze",
+          "grundlage": "VO (EU) 2021/782 Art. 19 Abs. 6"
+        }
+      ],
+      "achtung": [
+        "Die Antragsfrist kann je nach Unternehmen und Ticket abweichen; prüfen Sie die Beförderungsbedingungen.",
+        "Das Eisenbahn-Bundesamt prüft Einzelbeschwerden und kann auf Zahlung hinwirken, entscheidet aber nicht über den Zahlungsanspruch.",
+        "Ausnahmen und Sonderfälle (Nahverkehr, Auslandsstrecken, höhere Gewalt): siehe EBA-Seite; nicht im Volltext geprüft.",
+        "Bei Pauschalreisen mit Bahn kann der Veranstalter zuständig sein."
+      ],
+      "fach_html": "<h3>Anspruch</h3><p>Das Eisenbahn-Bundesamt (EBA) nennt bei Verspätungen eine Entschädigung von 25 Prozent des Fahrpreises. Die Stufen 25 Prozent ab 60 Minuten (bis 119) und 50 Prozent ab 120 Minuten am Zielbahnhof folgen aus Art. 19 der Verordnung; ausgezahlt wird binnen 1 Monat. Das Unternehmen darf einen Mindestbetrag von höchstens 4 Euro je Fahrkarte festlegen (Art. 19 Abs. 6). Die Beschwerde ist binnen 3 Monaten einzureichen, das Unternehmen antwortet binnen 1 Monat, begründet bis zu 3 Monate (Art. 28). Bei erheblicher Verspätung oder Zugausfall darf der Fahrgast mit einem anderen Zug weiterreisen, auch mit höherwertigen Zügen oder anderer Unternehmen (EBA, FAQ). Hilfeleistungen umfassen Getränke, Snacks, Mahlzeiten oder Unterbringung.</p><h3>Durchsetzung</h3><p>Fahrgäste können bei Verdacht auf Rechtsverletzungen die nationale Durchsetzungsstelle, das Eisenbahn-Bundesamt, kontaktieren; es prüft Einzelbeschwerden und kann auf Zahlung hinwirken, entscheidet aber nicht über den Zahlungsanspruch. Hotline laut BMV: +49 228 307 95-400. Zuständig für Bahn, Bus und Schiff.</p><h3>Schlichtung</h3><p>Die Schlichtung Reise &amp; Verkehr e.V. bearbeitet Fälle bei Bahn, Bus und Schiff; daneben nennt das BMV die Schlichtungsstellen SNUB und Schlichtungsstelle Nahverkehr (snv).</p>",
+      "zustaendig": [
+        "Bahnunternehmen (Servicecenter Fahrgastrechte)",
+        "Schlichtung Reise & Verkehr e.V.",
+        "Eisenbahn-Bundesamt, Bonn (Durchsetzung)"
+      ],
+      "belege": [
+        "Eisenbahn-Bundesamt, Fragen und Antworten zu den Fahrgastrechten im Eisenbahnverkehr, abgerufen 21.09.2026",
+        "Eisenbahn-Bundesamt, Fahrgastrechte Bahn, abgerufen 21.09.2026",
+        "BMV, Fahr- und Fluggastrechte, abgerufen 21.09.2026"
+      ],
+      "siehe_auch": [
+        "faehre-kreuzfahrt",
+        "fluggastrechte",
+        "beratung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "faehre-kreuzfahrt",
+      "kategorie": "verkehr",
+      "titel": "Fähre und Kreuzfahrt",
+      "icon": "🚢",
+      "teaser": "Rechte bei Fährverspätung oder Ausfall nach der EU-Schiffsverordnung und Besonderheiten bei Kreuzfahrten.",
+      "schlagworte": [
+        "Fähre",
+        "Kreuzfahrt",
+        "1177/2010",
+        "Schiff",
+        "Verspätung",
+        "Eisenbahn-Bundesamt",
+        "Beschwerde",
+        "Pauschalreise"
+      ],
+      "kurz_html": "<p>Bei Schiffsreisen in der EU gilt die <strong>Verordnung (EU) Nr. 1177/2010</strong>. Sie gilt, wenn der Einschiffungshafen in der EU liegt, oder der Ausschiffungshafen in der EU liegt und ein Unionsbeförderer fährt (Art. 2 Abs. 1).</p><ul><li>Bei Verspätung gibt es <strong>25 Prozent</strong> des Fahrpreises, bei doppelter Verspätung <strong>50 Prozent</strong>.</li><li>Die Beschwerde muss innerhalb von <strong>2 Monaten</strong> erfolgen.</li><li>Kreuzfahrten sind von Erstattung, Ersatzbeförderung und Verspätungsentschädigung ausgenommen.</li></ul><p>Ist die Kreuzfahrt eine <strong>Pauschalreise</strong> (zum Beispiel mit Flug), gelten zusätzlich die Regeln der Seite Pauschalreise.</p>",
+      "schritte": [
+        {
+          "titel": "Zeiten festhalten",
+          "text": "Notieren Sie planmäßige und tatsächliche Abfahrt und Ankunft."
+        },
+        {
+          "titel": "Beim Reeder melden",
+          "text": "Reichen Sie die Beschwerde innerhalb von 2 Monaten beim Beförderer ein."
+        },
+        {
+          "titel": "Belege sammeln",
+          "text": "Sichern Sie Ticket, Rechnungen und Schriftverkehr."
+        },
+        {
+          "titel": "Bei Ablehnung",
+          "text": "Eisenbahn-Bundesamt oder Schlichtung Reise & Verkehr."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "2 Monate",
+          "was": "Beschwerde beim Beförderer",
+          "grundlage": "VO (EU) Nr. 1177/2010 Art. 24"
+        },
+        {
+          "wert": "25 % / 50 %",
+          "was": "Entschädigung nach Verspätungsdauer, gestaffelt nach Fahrtdauer (1, 2, 3 oder 6 Stunden)",
+          "grundlage": "VO (EU) Nr. 1177/2010 Art. 19"
+        }
+      ],
+      "achtung": [
+        "Die Schiffsverordnung enthält Ausnahmen (zum Beispiel Wetter).",
+        "Für kleine Betreiber und kurze Strecken gibt es Ausnahmen (laut EBA).",
+        "Kreuzfahrten sind von Erstattung, Ersatzbeförderung und Verspätungsentschädigung ausgenommen.",
+        "Fährfahrten mit Auto: Kfz-Fragen siehe Kfz-Halter."
+      ],
+      "fach_html": "<h3>Anwendungsbereich</h3><p>Die Verordnung (EU) Nr. 1177/2010 regelt Fahrgastrechte im See- und Binnenschiffsverkehr, wenn nach Art. 2 Abs. 1 der Einschiffungshafen in der EU liegt oder der Ausschiffungshafen in der EU liegt und der Dienst von einem Unionsbeförderer erbracht wird. Kreuzfahrten sind von Erstattung, Ersatzbeförderung und Verspätungsentschädigung ausgenommen.</p><h3>Entschädigung</h3><p>Nach Art. 19 beträgt die Entschädigung mindestens 25 Prozent des Fahrpreises bei einer Verspätung von einer Stunde (Fahrt bis 4 Stunden), zwei Stunden (über 4 bis 8), drei Stunden (über 8 bis 24) oder sechs Stunden (über 24 Stunden); bei doppelter Verspätung 50 Prozent. Die Beschwerde ist binnen 2 Monaten einzureichen (Art. 24).</p><h3>Durchsetzung</h3><p>Nationale Durchsetzungsstelle ist in Deutschland das Eisenbahn-Bundesamt (Bonn), Hotline +49 228 307 95-400 (laut BMV). Das EBA weist darauf hin, dass die Prüfung einer Beschwerde Zeit dauert. Kleine Betreiber und kurze Strecken sind teilweise ausgenommen.</p>",
+      "zustaendig": [
+        "Reederei/Fährbetreiber",
+        "Eisenbahn-Bundesamt, Bonn (Durchsetzung)",
+        "Schlichtung Reise & Verkehr e.V."
+      ],
+      "belege": [
+        "Eisenbahn-Bundesamt, Fahrgastrechte im Schiffsverkehr, abgerufen 21.09.2026",
+        "EUR-Lex, Verordnung (EU) Nr. 1177/2010 , abgerufen 21.09.2026",
+        "BMV, Fahr- und Fluggastrechte, abgerufen 21.09.2026"
+      ],
+      "siehe_auch": [
+        "bahn",
+        "pauschalreise",
+        "beratung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "einreise-dokumente",
+      "kategorie": "einreise",
+      "titel": "Ausweis, Pass, ETA, EES und ETIAS",
+      "icon": "🛂",
+      "teaser": "Welches Dokument Sie brauchen, was EES und ETIAS für Deutsche bedeuten und was für Großbritannien gilt.",
+      "schlagworte": [
+        "Reisepass",
+        "Personalausweis",
+        "ETIAS",
+        "EES",
+        "ETA Großbritannien",
+        "Visum",
+        "Schengen",
+        "Einreise"
+      ],
+      "kurz_html": "<p>In der EU, in Norwegen, Island, der Schweiz und in Liechtenstein reicht meist der <strong>Personalausweis</strong>. Das Auswärtige Amt nennt auch die Türkei. Für die meisten anderen Länder brauchen Sie einen <strong>Reisepass</strong>.</p><ul><li><strong>EES</strong> (Ein-/Ausreisesystem): erfasst Drittstaatsangehörige an den Schengen-Außengrenzen. EU-Bürger sind ausgenommen.</li><li><strong>ETIAS</strong>: Reisegenehmigung für Drittstaatsangehörige. Für Deutsche gilt sie nicht. Ein Starttermin ist offen.</li><li><strong>Vereinigtes Königreich:</strong> Sie brauchen einen Reisepass und eine <strong>ETA</strong> (20 Pfund). Ein Personalausweis reicht in der Regel nicht (Ausnahme: Schülergruppen, siehe unten).</li></ul><p>Prüfen Sie Ihr Reiseland vor jeder Reise beim Auswärtigen Amt.</p>",
+      "schritte": [
+        {
+          "titel": "Reiseland prüfen",
+          "text": "Schauen Sie in die Reise- und Sicherheitshinweise des Auswärtigen Amts."
+        },
+        {
+          "titel": "Gültigkeit prüfen",
+          "text": "Kontrollieren Sie, ob Ausweis oder Pass für das Reiseland und die Dauer gültig sind."
+        },
+        {
+          "titel": "ETA beantragen",
+          "text": "Für das Vereinigte Königreich rechtzeitig, mindestens 3 Werktage vorher, per App oder GOV.UK."
+        },
+        {
+          "titel": "Kopien anlegen",
+          "text": "Legen Sie getrennte Kopien und Fotos der Dokumente an."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "3 Werktage",
+          "was": "Mindestvorlauf für die ETA-Beantragung Vereinigtes Königreich",
+          "grundlage": "Auswärtiges Amt, Reise- und Sicherheitshinweise Vereinigtes Königreich"
+        },
+        {
+          "wert": "20 Pfund",
+          "was": "Gebühr ETA (seit 08.04.2026), gültig 2 Jahre oder bis Passablauf, Aufenthalt bis 6 Monate je Einreise",
+          "grundlage": "Auswärtiges Amt, Vereinigtes Königreich"
+        },
+        {
+          "wert": "20 Euro",
+          "was": "Gebühr ETIAS für Drittstaatsangehörige",
+          "grundlage": "Euronews, 08.07.2026 (Start noch offen)"
+        }
+      ],
+      "achtung": [
+        "ETIAS ist noch nicht gestartet; die offizielle EU-Seite nennt kein Startdatum mehr, der Start soll Monate im Voraus angekündigt werden (Berichte: 2027).",
+        "Bei ETIAS ist laut Bericht eine sechsmonatige Übergangsphase vorgesehen.",
+        "Der Kinderreisepass wurde zum 01.01.2024 abgeschafft; früher ausgestellte gelten bis zum aufgedruckten Datum.",
+        "Visa- und Einreisebestimmungen für Länder außerhalb Europas: nicht geprüft; siehe Auswärtiges Amt."
+      ],
+      "fach_html": "<h3>Ausweis oder Pass</h3><p>Nach dem Auswärtigen Amt genügt der Personalausweis für Reisen in die EU, nach Norwegen, Island, in die Schweiz und nach Liechtenstein sowie in die Türkei. Reisepässe gelten für Erwachsene 10 Jahre, unter 24 Jahren 6 Jahre. Bei Verlust im Ausland können Botschaften und Konsulate Reisedokumente für die Rückreise ausstellen; eine Verlustanzeige bei der Polizei ist nötig. Gebühr Reisepass: 70 Euro ab 24 Jahren (darunter 37,50 Euro); im Ausland insgesamt 101 Euro (mit 31 Euro Auslandszuschlag).</p><h3>EES</h3><p>Das EES erfasst Ein- und Ausreisen von Drittstaatsangehörigen, die zum Kurzaufenthalt berechtigt sind, einschließlich biometrischer Daten. Ausgenommen sind unter anderem Staatsangehörige der EU, des EWR und der Schweiz. Das EES startete am 12.10.2025 und ist seit 10.04.2026 im Vollbetrieb; Berichte nennen lange Wartezeiten.</p><h3>ETIAS</h3><p>ETIAS betrifft Reisende aus visumbefreiten Drittstaaten (rund 60 Länder), 20 Euro je Antragsteller, mit Ausnahmen für unter 18- und über 70-Jährige. Die offizielle EU-Seite nennt kein Startdatum mehr; der Start soll Monate im Voraus angekündigt werden. Berichte nennen 2027 (Financial Times nach Euronews); ein EU-Lisa-Vertreter hielt den Start bis Jahresende für nicht machbar.</p><h3>Vereinigtes Königreich</h3><p>Deutsche brauchen laut Auswärtigem Amt eine ETA; Einreise mit Personalausweis ist grundsätzlich nicht möglich. Ab 01.08.2026 gilt das German School Group Travel Scheme: Schülergruppen ab 5 Personen bis 19 Jahre reisen mit nationalem Personalausweis ohne ETA und Visum; Begleitpersonen brauchen Reisepass und ETA.</p>",
+      "zustaendig": [
+        "Auswärtiges Amt (Reise- und Sicherheitshinweise)",
+        "Bürgeramt/Pass- und Ausweisbehörde (Dokumente)",
+        "Botschaft/Konsulat im Ausland (Ersatzdokument)"
+      ],
+      "belege": [
+        "Auswärtiges Amt, Reisepässe und Personalausweise, abgerufen 21.09.2026",
+        "Auswärtiges Amt, Vereinigtes Königreich: Reise- und Sicherheitshinweise, abgerufen 21.09.2026",
+        "Euronews, ETIAS: After EES chaos (08.07.2026), abgerufen 21.09.2026",
+        "BMI, Pressemitteilung EES (Suchtreffer; Seite nicht abrufbar), abgerufen 21.09.2026"
+      ],
+      "siehe_auch": [
+        "kinder-tiere",
+        "reisewarnungen-krisen",
+        "zoll-mitbringen"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "zoll-mitbringen",
+      "kategorie": "einreise",
+      "titel": "Zoll: Was Sie mitbringen dürfen",
+      "icon": "🛃",
+      "teaser": "Freimengen bei der Rückkehr aus Nicht-EU-Staaten und die Anmeldung von Bargeld ab 10.000 Euro.",
+      "schlagworte": [
+        "Zoll",
+        "Freimenge",
+        "Freigrenze 430 Euro",
+        "Tabak",
+        "Alkohol",
+        "Barmittel",
+        "Reisemitbringsel",
+        "Nicht-EU-Staat"
+      ],
+      "kurz_html": "<p>Bei der Rückkehr aus einem <strong>Nicht-EU-Staat</strong> gelten Freimengen für Waren zum eigenen Gebrauch.</p><ul><li><strong>Wert:</strong> 300 Euro, bei Flug- und Seereisen 430 Euro, unter 15 Jahren 175 Euro.</li><li><strong>Tabak</strong> (ab 17): 200 Zigaretten oder 100 Zigarillos oder 50 Zigarren oder 250 g Tabak.</li><li><strong>Alkohol</strong> (ab 17): 1 Liter Spirituosen über 22 Prozent vol. oder 2 Liter Alkohol bis 22 Prozent vol.; zusätzlich 4 Liter nicht schäumender Wein und 16 Liter Bier.</li></ul><p>Bargeld ab <strong>10.000 Euro</strong> müssen Sie bei Ein- und Ausreise (Nicht-EU) ungefragt schriftlich oder elektronisch anmelden. Innerhalb der EU müssen Sie auf Verlangen mündlich Auskunft geben, unabhängig von 10.000 Euro.</p>",
+      "schritte": [
+        {
+          "titel": "Menge prüfen",
+          "text": "Zählen Sie Wert und Mengen aller Mitbringsel zusammen."
+        },
+        {
+          "titel": "Nicht für Weiterverkauf",
+          "text": "Waren müssen zum persönlichen Gebrauch sein."
+        },
+        {
+          "titel": "Bargeld anmelden",
+          "text": "Melden Sie Bargeld ab 10.000 Euro bei Ein- und Ausreise (Nicht-EU) unaufgefordert an."
+        },
+        {
+          "titel": "Im Zweifel anmelden",
+          "text": "Nutzen Sie den roten Ausgang oder die Zoll-Hotline; Auskünfte auf zoll.de."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "300 / 430 / 175 Euro",
+          "was": "Wertgrenzen bei Rückkehr aus Nicht-EU-Staat (Flug/See 430, unter 15 Jahren 175)",
+          "grundlage": "Zoll online, Reisefreimengen"
+        },
+        {
+          "wert": "10.000 Euro",
+          "was": "Unaufgeforderte Anmeldung von Barmitteln bei Ein- und Ausreise (Nicht-EU); innerhalb der EU nur mündliche Anzeige auf Verlangen",
+          "grundlage": "Zoll online, Barmittel"
+        }
+      ],
+      "achtung": [
+        "Freimengen gelten je Person und dürfen bei unmittelbar aufeinanderfolgendem Grenzübertritt nicht mehrfach genutzt werden.",
+        "Verstoß gegen die Unaufgeforderte Anmeldung von Barmitteln bei Ein- und Ausreise (Nicht-EU); innerhalb der EU nur mündliche Anzeige auf Verlangen kann mit Geldbuße bis zu 1 Million Euro geahndet werden (laut Suchtreffer).",
+        "Innerhalb der EU gelten andere Regeln (Eigenbedarf); nicht im Volltext geprüft.",
+        "Verbote und Beschränkungen (Artenschutz, Arzneimittel, Lebensmittel): nicht geprüft."
+      ],
+      "fach_html": "<h3>Freimengen</h3><p>Nach Zoll online gilt bei Rückkehr aus Nicht-EU-Staaten: Tabakwaren (ab 17 Jahren) 200 Zigaretten oder 100 Zigarillos oder 50 Zigarren oder 250 g Rauchtabak; Alkohol (ab 17 Jahren) 1 Liter Spirituosen über 22 Prozent Vol. oder 2 Liter Alkohol bis 22 Prozent Vol., zusätzlich 4 Liter nicht schäumender Wein und 16 Liter Bier; sonstige Waren bis 300 Euro, für Flug- und Seereisende 430 Euro, für Reisende unter 15 Jahren 175 Euro; Kraftstoff im Tank sowie 10 Liter im Kanister. Die Waren müssen mitgeführt werden und zum persönlichen Gebrauch dienen. Die Altersangabe für Kaffee (ab 15 Jahren) stammt aus einem Suchtreffer.</p><h3>Barmittel</h3><p>Nach Zoll online müssen Barmittel ab 10.000 Euro bei Ein- und Ausreise im Verkehr mit Nicht-EU-Staaten unaufgefordert schriftlich oder elektronisch angemeldet werden. Innerhalb der EU besteht eine mündliche Anzeigepflicht auf Verlangen, unabhängig von 10.000 Euro. Die Anmeldung ist online über das Zoll-Portal möglich.</p>",
+      "zustaendig": [
+        "Zoll (zoll.de)",
+        "Hauptzollamt am Reiseort",
+        "Auswärtiges Amt (Länderregeln)"
+      ],
+      "belege": [
+        "Zoll online, Reisefreimengen (Rückkehr aus einem Nicht-EU-Staat), abgerufen 21.09.2026",
+        "Zoll online, Barmittel Anmelde- und Anzeigepflicht (Suchtreffer), abgerufen 21.09.2026",
+        "Deurag, Zollfreigrenzen und Reisefreimengen (Suchtreffer für Kaffee-Altersgrenze), abgerufen 21.09.2026"
+      ],
+      "siehe_auch": [
+        "kinder-tiere",
+        "geld-handy",
+        "einreise-dokumente"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "kinder-tiere",
+      "kategorie": "einreise",
+      "titel": "Reisen mit Kindern und Tieren",
+      "icon": "🐕",
+      "teaser": "Ausweise für Kinder, Einverständniserklärung und die Regeln für Hund und Katze in der EU.",
+      "schlagworte": [
+        "Kinder",
+        "Kinderreisepass",
+        "Einverständniserklärung",
+        "Heimtierausweis",
+        "Mikrochip",
+        "Tollwut",
+        "Hund",
+        "Katze"
+      ],
+      "kurz_html": "<p><strong>Kinder</strong> brauchen beim Grenzübertritt ein eigenes Reisedokument. Der Kinderreisepass wurde zum 01.01.2024 abgeschafft. Ein Eintrag im Elternpass gilt seit 26.06.2012 nicht mehr.</p><ul><li>Für Reisen in EU-Staaten reicht der <strong>Personalausweis</strong> des Kindes.</li><li>Reist ein Kind <strong>ohne Eltern</strong>, empfiehlt das Auswärtige Amt eine formlose Einverständniserklärung und eine Kopie der Ausweisdatenseite der Sorgeberechtigten.</li></ul><p><strong>Hunde, Katzen, Frettchen</strong> brauchen in der EU einen <strong>Heimtierausweis</strong>, Kennzeichnung per <strong>Mikrochip</strong> und eine gültige <strong>Tollwutimpfung</strong>. Bei Einreise aus Nicht-EU-Ländern verlangt man eine Tiergesundheitsbescheinigung (bei Einreise höchstens 10 Tage alt).</p>",
+      "schritte": [
+        {
+          "titel": "Dokumente für Kinder",
+          "text": "Prüfen Sie Gültigkeit von Pass oder Personalausweis des Kindes."
+        },
+        {
+          "titel": "Einverständnis mitgeben",
+          "text": "Bei Reise ohne Sorgeberechtigte: Erklärung mit Ausweiskopie."
+        },
+        {
+          "titel": "Tier vorbereiten",
+          "text": "Mikrochip, Tollwutimpfung und Heimtierausweis rechtzeitig beim Tierarzt klären."
+        },
+        {
+          "titel": "Zielland-Regeln prüfen",
+          "text": "Manche Länder verlangen zusätzliche Behandlungen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "21 Tage",
+          "was": "Wartezeit nach der ersten Tollwutimpfung vor der Reise",
+          "grundlage": "Your Europe, Reisen mit Haustieren"
+        },
+        {
+          "wert": "12 Wochen",
+          "was": "Mindestalter für die erste Tollwutimpfung",
+          "grundlage": "Your Europe, Reisen mit Haustieren"
+        },
+        {
+          "wert": "5 Tiere",
+          "was": "Höchstzahl mitreisender Heimtiere ohne Nachweis",
+          "grundlage": "Your Europe, Reisen mit Haustieren"
+        }
+      ],
+      "achtung": [
+        "Für Hunde in Finnland, Irland, Malta, Norwegen und Nordirland ist eine Bandwurmbehandlung 24 bis 120 Stunden vor Ankunft vorgeschrieben.",
+        "Die EU-Heimtierregeln gelten nach der Delegierten Verordnung (EU) 2026/131 (seit 22.04.2026); neue EU-Tiergesundheitsbescheinigungen ab 01.10.2026, aktualisierte Heimtierausweise ab 01.01.2028.",
+        "Einreise aus Nicht-EU-Staaten: Anmeldung beim Zoll und Dokumentenkontrolle.",
+        "Beförderungsregeln der Airline oder Fähre für Tiere: nicht geprüft."
+      ],
+      "fach_html": "<h3>Kinder</h3><p>Nach dem Auswärtigen Amt müssen minderjährige Kinder beim Grenzübertritt einen gültigen Reisepass vorlegen; der Personalausweis genügt für Reisen in die EU, nach Norwegen, Island, in die Schweiz, nach Liechtenstein und in die Türkei. Der Kinderreisepass wurde zum 01.01.2024 abgeschafft; vorher ausgestellte gelten bis zum aufgedruckten Datum. Kindereinträge im Elternpass sind seit dem 26.06.2012 ungültig. Bei Reise ohne Sorgeberechtigte ist eine formlose Einverständniserklärung mit Ausweiskopie empfehlenswert (Empfehlung, keine Pflicht laut Quelle).</p><h3>Tiere</h3><p>Nach Your Europe benötigen Hund, Katze und Frettchen für Reisen innerhalb der EU einen EU-Heimtierausweis, ab Nicht-EU-Herkunft eine Tiergesundheitsbescheinigung, außerdem Mikrochip (oder lesbare Tätowierung vor Juli 2011) und Tollwutimpfung. Zoll online: Bei Einfuhr aus Nicht-EU-Staaten ist das Tier anzumelden; es erfolgt Dokumentenkontrolle und Identitätsfeststellung.</p><p>Es gelten die EU-Heimtierregeln nach der Delegierten Verordnung (EU) 2026/131 (seit 22.04.2026). Neue EU-Tiergesundheitsbescheinigungen gelten ab 01.10.2026, aktualisierte Heimtierausweise ab 01.01.2028. Die Tiergesundheitsbescheinigung darf bei Einreise höchstens 10 Tage alt sein. Die Bandwurmbehandlung betrifft nur Hunde (24 bis 120 Stunden vor Ankunft) bei Einreise nach Finnland, Irland, Malta, Norwegen und Nordirland.</p>",
+      "zustaendig": [
+        "Pass- und Ausweisbehörde",
+        "Tierarzt",
+        "Zoll (Einfuhr Heimtiere)",
+        "Auswärtiges Amt"
+      ],
+      "belege": [
+        "Auswärtiges Amt, Reisen mit minderjährigen Kindern und Reisepässe (Suchtreffer), abgerufen 21.09.2026",
+        "Your Europe, Reisen mit Haustieren und anderen Tieren in der EU, abgerufen 21.09.2026",
+        "Zoll online, Regelungen für Heimtiere (Suchtreffer), abgerufen 21.09.2026"
+      ],
+      "siehe_auch": [
+        "einreise-dokumente",
+        "zoll-mitbringen",
+        "reisewarnungen-krisen"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "versicherung-gesundheit",
+      "kategorie": "gesundheit",
+      "titel": "Reiseversicherung und Krankheit im Ausland",
+      "icon": "🩺",
+      "teaser": "Welche Reiseversicherungen sinnvoll sind, was die Krankenversicherungskarte EHIC leistet und was sie nicht deckt.",
+      "schlagworte": [
+        "Auslandskrankenversicherung",
+        "Reiserücktritt",
+        "Reiseabbruch",
+        "EHIC",
+        "Rücktransport",
+        "Krankenkasse",
+        "Vorerkrankung",
+        "Reiseversicherung"
+      ],
+      "kurz_html": "<p>Die wichtigste Reiseversicherung ist die <strong>Auslandsreise-Krankenversicherung</strong>. Achten Sie darauf, dass sie den <strong>Rücktransport</strong> einschließt.</p><ul><li>Die <strong>EHIC</strong> (Rückseite der Gesundheitskarte) gilt für gesetzlich Versicherte in der EU, in Norwegen, Island, Liechtenstein, im Vereinigten Königreich und in der Schweiz.</li><li>Sie deckt Behandlung wie bei Einheimischen. Sie deckt <strong>nicht</strong> den Rücktransport oder Bergungskosten.</li><li>Eine <strong>Reiserücktritts- und Abbruchversicherung</strong> lohnt sich bei teuren Reisen oder Familienreisen.</li></ul><p>Bekannte Vorerkrankungen sind oft ausgeschlossen.</p>",
+      "schritte": [
+        {
+          "titel": "Karte prüfen",
+          "text": "Prüfen Sie, ob Ihre Gesundheitskarte die EHIC enthält."
+        },
+        {
+          "titel": "Zusatzschutz wählen",
+          "text": "Schließen Sie eine Auslandskrankenversicherung mit Rücktransport ab."
+        },
+        {
+          "titel": "Bedingungen lesen",
+          "text": "Prüfen Sie Ausschlüsse (Vorerkrankungen) und Meldefristen."
+        },
+        {
+          "titel": "Im Notfall belegen",
+          "text": "Sammeln Sie ärztliche Belege und Rechnungen, melden Sie den Fall schnell."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "ca. 10 Euro",
+          "was": "Jahresprämie einer Auslandsreise-Krankenversicherung je Person (Größenordnung)",
+          "grundlage": "Verbraucherzentrale, Auslandsreisen"
+        },
+        {
+          "wert": "5 bis 12 %",
+          "was": "Verwaltungskosten der Krankenkasse bei Erstattung nach deutschen Sätzen",
+          "grundlage": "EVZ, EHIC"
+        }
+      ],
+      "achtung": [
+        "Die EHIC gilt nicht in Andorra, Monaco, San Marino, auf den britischen Kanalinseln, den Färöern, der Isle of Man, Spitzbergen und im Vatikan.",
+        "Rücktransport, Rettungskosten und Unterkunft von Angehörigen sind durch die EHIC nicht gedeckt.",
+        "Zu Reisegepäck- und Bündelversicherungen rät die Verbraucherzentrale eher ab.",
+        "Privatversicherte: Regeln nicht geprüft; fragen Sie Ihren Versicherer."
+      ],
+      "fach_html": "<h3>Reiseversicherungen</h3><p>Nach der Verbraucherzentrale ist die Auslandsreise-Krankenversicherung der wichtigste Schutz (Jahrestarife etwa 10 Euro je Person, inklusive Notfalltransport). Eine private Haftpflicht gilt oft weltweit bei Aufenthalten unter einem Jahr. Reiserücktritts- und Reiseabbruchversicherung sind bei teuren Reisen oder Familienurlauben sinnvoll; sie erstatten nicht genutzte Reisekosten bei Krankheit, Unfall oder familiären Notfällen. Bekannte, vorher behandelte Vorerkrankungen sind oft ausgeschlossen; überraschende schwere Erkrankungen wie Herzinfarkt oder Knochenbruch sind meist gedeckt (Verbraucherzentrale Hamburg, Suchtreffer). Abgeraten wird von Reisegepäck-, Reiseunfall- und Rundum-Paketen.</p><h3>EHIC</h3><p>Nach dem Europäischen Verbraucherzentrum gilt die EHIC in den 27 EU-Staaten sowie Norwegen, Island, Liechtenstein, dem Vereinigten Königreich und der Schweiz; Behandlung wie ein Einheimischer, etwa bei plötzlichen Erkrankungen und Krankenhausaufenthalten. Es kann nötig sein, vorzustrecken und später Erstattung zu beantragen; die Kasse erstattet entweder nach dem Recht des Behandlungslandes oder nach deutschen Sätzen mit Verwaltungskosten von 5 bis 12 Prozent. Die DVKA (Deutsche Verbindungsstelle Krankenversicherung – Ausland) bietet länderspezifische Merkblätter (Suchtreffer).</p>",
+      "zustaendig": [
+        "Krankenkasse (EHIC, Erstattung)",
+        "Reiseversicherer",
+        "DVKA (Merkblätter Ausland)",
+        "Verbraucherzentrale"
+      ],
+      "belege": [
+        "Europäisches Verbraucherzentrum Deutschland, Europäische Krankenversicherungskarte (EHIC), abgerufen 21.09.2026",
+        "Verbraucherzentrale, Auslandsreisen: welcher Versicherungsschutz ist notwendig, abgerufen 21.09.2026",
+        "Verbraucherzentrale Hamburg, Reiserücktrittsversicherung zahlt nicht immer (Suchtreffer), abgerufen 21.09.2026"
+      ],
+      "siehe_auch": [
+        "pauschalreise",
+        "reisewarnungen-krisen",
+        "gepaeck"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "reisewarnungen-krisen",
+      "kategorie": "gesundheit",
+      "titel": "Reisewarnungen, Krisenvorsorge, Auswärtiges Amt",
+      "icon": "⚠️",
+      "teaser": "Was Reisewarnungen bedeuten, wie Sie sich in die Krisenvorsorgeliste eintragen und welche Hilfe Botschaften leisten.",
+      "schlagworte": [
+        "Reisewarnung",
+        "Auswärtiges Amt",
+        "Sicherheitshinweise",
+        "ELEFAND",
+        "Krisenvorsorgeliste",
+        "Stornierung",
+        "Botschaft",
+        "Sicher Reisen"
+      ],
+      "kurz_html": "<p>Das <strong>Auswärtige Amt</strong> veröffentlicht <strong>Reise- und Sicherheitshinweise</strong> für jedes Land. Die Stufen reichen von „Von nicht notwendigen Reisen wird abgeraten“ bis „Vor Reisen wird gewarnt“ (Reisewarnung).</p><ul><li>Eine Reisewarnung ist <strong>kein Reiseverbot</strong>.</li><li>Bei Pauschalreisen kann sie ein starkes Argument für <strong>kostenlosen Rücktritt</strong> sein.</li><li>Registrieren Sie sich vor der Reise in der <strong>Krisenvorsorgeliste ELEFAND</strong>. Die Daten werden nach der Reise gelöscht.</li></ul><p>Die App <strong>Sicher Reisen</strong> schickt Hinweise auf Ihr Handy.</p>",
+      "schritte": [
+        {
+          "titel": "Hinweise lesen",
+          "text": "Lesen Sie vor Buchung und Abreise die Hinweise zum Zielland."
+        },
+        {
+          "titel": "Krisenliste eintragen",
+          "text": "Tragen Sie sich auf krisenvorsorgeliste.diplo.de oder in der ELEFAND-App ein."
+        },
+        {
+          "titel": "Bei Warnung handeln",
+          "text": "Bei Pauschalreisen sofort den Veranstalter kontaktieren und schriftlich zurücktreten."
+        },
+        {
+          "titel": "Notfall",
+          "text": "Bei Passverlust oder Notlage wenden Sie sich an die Botschaft oder das Konsulat."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "kein Entschädigungsanspruch des Veranstalters",
+          "was": "Bei unvermeidbaren, außergewöhnlichen Umständen am Reiseziel",
+          "grundlage": "§ 651h BGB"
+        },
+        {
+          "wert": "über 200",
+          "was": "Auslandsvertretungen für konsularische Hilfe (laut Auswärtigem Amt)",
+          "grundlage": "Auswärtiges Amt, Reisetipps"
+        }
+      ],
+      "achtung": [
+        "Eine Reisewarnung begründet nicht automatisch ein Recht auf kostenlose Stornierung; das prüft sich im Einzelfall.",
+        "Bei Einzelbuchungen (nur Flug oder Hotel) gilt das Pauschalreiserecht nicht.",
+        "Konsularische Hilfe ist in Kriegs- und Krisenländern eingeschränkt.",
+        "Die Entscheidung über die Reise liegt am Ende bei Ihnen (Auswärtiges Amt)."
+      ],
+      "fach_html": "<h3>Reise- und Sicherheitshinweise</h3><p>Nach dem Auswärtigen Amt enthalten die Hinweise Informationen zu Einreisebestimmungen, zoll- und strafrechtlichen Vorschriften, medizinischer Versorgung und Sicherheitsrisiken. Die Warnstufen reichen bis „Vor Reisen wird gewarnt“. Die Sicher-Reisen-App bietet Benachrichtigungen bei Änderungen. Das Amt weist darauf hin, dass die letztendliche Entscheidung über den Antritt einer Reise bei den Reisenden liegt.</p><h3>ELEFAND</h3><p>ELEFAND (Elektronische Erfassung von Deutschen im Ausland) ist ein Onlinesystem, in dem sich alle Deutschen unabhängig von Ziel und Dauer registrieren können. Im Krisenfall können Auslandsvertretung oder Krisenreaktionszentrum Sie individuell oder per Landsleutebrief kontaktieren. Die Daten werden nach Ablauf des angegebenen Reisezeitraums automatisch gelöscht.</p><h3>Rücktritt bei Krisen</h3><p>Nach § 651h BGB kann bei unvermeidbaren, außergewöhnlichen Umständen am Bestimmungsort keine Entschädigung verlangt werden. Wann die Voraussetzungen vorliegen, ist Einzelfallfrage; eine Reisewarnung gilt laut Suchtreffern als starkes Indiz. Nicht im Volltext geprüft.</p>",
+      "zustaendig": [
+        "Auswärtiges Amt",
+        "Deutsche Botschaft oder Konsulat",
+        "Reiseveranstalter",
+        "Verbraucherzentrale"
+      ],
+      "belege": [
+        "Auswärtiges Amt, Reisetipps des Auswärtigen Amts, abgerufen 21.09.2026",
+        "Auswärtiges Amt, Krisenvorsorgeliste (ELEFAND), abgerufen 21.09.2026",
+        "Bundesministerium der Justiz, Gesetze im Internet, § 651h BGB, abgerufen 21.09.2026"
+      ],
+      "siehe_auch": [
+        "pauschalreise",
+        "versicherung-gesundheit",
+        "einreise-dokumente"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "geld-handy",
+      "kategorie": "geld",
+      "titel": "Kreditkarte, Bargeld und Roaming",
+      "icon": "💳",
+      "teaser": "Wo Zahlen und Telefonieren im Ausland teuer werden und wie Sie Gebührenfallen vermeiden.",
+      "schlagworte": [
+        "Kreditkarte",
+        "Auslandseinsatzentgelt",
+        "DCC",
+        "Bargeld",
+        "Roaming",
+        "Roam like at home",
+        "Fair Use",
+        "Kostenfalle"
+      ],
+      "kurz_html": "<p><strong>Roaming:</strong> In der EU sowie in Liechtenstein, Norwegen und Island kostet Telefonieren, SMS und Surfen so viel wie in Deutschland. <strong>Nicht</strong> in der Schweiz, der Türkei und im Vereinigten Königreich, wenn Ihr Anbieter das nicht einschließt.</p><ul><li>Nahe der Grenze kann sich das Handy in ein <strong>Netz außerhalb der EU</strong> einbuchen. Das wird teuer.</li><li>Sie erhalten eine Warnung bei 80 Prozent der Kostengrenze von 50 Euro netto; bei 100 Euro netto wird das Datenroaming abgebrochen.</li></ul><p><strong>Kreditkarte:</strong> Im Nicht-Euro-Ausland fällt oft ein Auslandseinsatzentgelt an. Wählen Sie beim Bezahlen immer die <strong>Landeswährung</strong> und nicht Euro.</p>",
+      "schritte": [
+        {
+          "titel": "Tarif prüfen",
+          "text": "Fragen Sie Ihren Anbieter nach Roaming in Nicht-EU-Ländern."
+        },
+        {
+          "titel": "Netz festlegen",
+          "text": "Stellen Sie an Grenzen das Netz manuell ein."
+        },
+        {
+          "titel": "Karte prüfen",
+          "text": "Kontrollieren Sie Gebühren Ihrer Kreditkarte für Zahlung und Abhebung im Ausland."
+        },
+        {
+          "titel": "Landeswährung wählen",
+          "text": "Lehnen Sie die Umrechnung in Euro (DCC) am Terminal und Automaten ab."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "50 Euro / 100 Euro",
+          "was": "Warnung bei 80 Prozent der Kostengrenze von 50 Euro netto; Abbruch des Datenroamings bei 100 Euro netto, sofern nichts anderes vereinbart",
+          "grundlage": "Bundesnetzagentur, Roaming"
+        },
+        {
+          "wert": "1,5 bis 2,5 %",
+          "was": "Typisches Auslandseinsatzentgelt (Anbieterseiten, nicht behördlich)",
+          "grundlage": "Suchtreffer Kreditkartenratgeber"
+        },
+        {
+          "wert": "10.000 Euro",
+          "was": "Anmeldepflicht Bargeld",
+          "grundlage": "Zoll online"
+        }
+      ],
+      "achtung": [
+        "Bordnetze auf Schiffen und in Flugzeugen sind vom EU-Roaming ausgenommen.",
+        "WLAN-Anrufe und Sonderdienste können Extrakosten verursachen.",
+        "Große deutsche Anbieter behandeln Großbritannien laut Bundesnetzagentur (Suchtreffer) mindestens bis Ende 2026 wie EU.",
+        "Konkrete Kreditkartenentgelte hängen vom Vertrag ab; keine behördlich geprüften Zahlen."
+      ],
+      "fach_html": "<h3>Roaming</h3><p>Nach der Bundesnetzagentur gilt Roam-like-at-home beim EU-Roaming: Telefonieren, SMS und Surfen in der EU sowie Liechtenstein, Norwegen und Island kosten so viel wie in Deutschland; seit 01.07.2022 auch mit gleicher Servicequalität, einschließlich 5G, wo verfügbar. Ausnahmen betreffen die Fair-Use-Regel und bestimmte Sonderdienste, Satelliten-, Flugzeug- und Schiffsnetze, WLAN-Anrufe und Mehrwertdienste. Der Kostenschutz warnt bei 80 Prozent der Kostengrenze von 50 Euro netto und bricht das Datenroaming bei 100 Euro netto ab; Anbieter können andere Grenzen setzen. Schweiz, Türkei und Vereinigtes Königreich sind laut Suchtreffern nicht vom EU-Roaming erfasst.</p><h3>Zahlen</h3><p>Suchtreffer von Anbieterseiten nennen ein Auslandseinsatzentgelt von etwa 1,5 bis 2,5 Prozent im Nicht-Euro-Ausland und raten, immer in Landeswährung zu zahlen, um Dynamic Currency Conversion zu vermeiden. Diese Angaben stammen nicht aus Gesetz oder Behörde. Recht der Zahlungsdienste (etwa Entgelte in Euro): nicht geprüft. Bargeldanmeldung: Seite Zoll.</p>",
+      "zustaendig": [
+        "Mobilfunkanbieter",
+        "Bank oder Kartenherausgeber",
+        "Bundesnetzagentur (Aufsicht)",
+        "Verbraucherzentrale"
+      ],
+      "belege": [
+        "Bundesnetzagentur, Telefonieren und Surfen im Ausland: Roaming, abgerufen 21.09.2026",
+        "Bundesnetzagentur, EU-Roaming (Suchtreffer zu Großbritannien), abgerufen 21.09.2026",
+        "Suchtreffer Kreditkarte und DCC (reisetopia.de, vr.de), abgerufen 21.09.2026",
+        "Zoll online, Barmittel, abgerufen 21.09.2026"
+      ],
+      "siehe_auch": [
+        "zoll-mitbringen",
+        "mietwagen-fahrzeug",
+        "reisewarnungen-krisen"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "beratung",
+      "kategorie": "start",
+      "titel": "Beratung und Anlaufstellen",
+      "icon": "🤝",
+      "teaser": "Bundesweit belegte Stellen für Beschwerden, Schlichtung und Beratung bei Reiseproblemen.",
+      "schlagworte": [
+        "Beratung",
+        "Schlichtung",
+        "Verbraucherzentrale",
+        "Europäisches Verbraucherzentrum",
+        "Eisenbahn-Bundesamt",
+        "Luftfahrt-Bundesamt",
+        "Beschwerde",
+        "Anlaufstellen"
+      ],
+      "kurz_html": "<p>Wenn Sie ein Reiseproblem haben, gehen Sie zuerst zum <strong>Unternehmen</strong>. Melden Sie sich schriftlich und mit Frist. Hilft das nicht, gibt es kostenlose Stellen.</p><ul><li><strong>Schlichtung Reise &amp; Verkehr e.V.</strong> für Flug, Bahn, Bus, Schiff und Pauschalreise. Kostenlos für Verbraucher.</li><li><strong>Europäisches Verbraucherzentrum Deutschland</strong> in Kehl für Streit mit Unternehmen in anderen EU-Ländern, Island oder Norwegen.</li><li><strong>Eisenbahn-Bundesamt</strong> und <strong>Luftfahrt-Bundesamt</strong> überwachen die Rechte der Fahrgäste. Sie lösen keinen Einzelfall.</li><li><strong>Verbraucherzentralen</strong> und Rechtsanwälte für Rechtsberatung.</li></ul>",
+      "schritte": [
+        {
+          "titel": "Unternehmen anschreiben",
+          "text": "Schildern Sie den Fall schriftlich, nennen Sie Frist und Forderung."
+        },
+        {
+          "titel": "Schlichtung beantragen",
+          "text": "Reichen Sie bei Erfolglosigkeit den Antrag bei der Schlichtung Reise & Verkehr ein (portal.sruv.de)."
+        },
+        {
+          "titel": "Behörde einschalten",
+          "text": "Melden Sie Verstöße dem Eisenbahn-Bundesamt oder Luftfahrt-Bundesamt."
+        },
+        {
+          "titel": "Rechtsrat holen",
+          "text": "Bei höherem Streitwert oder Fristnot: Verbraucherzentrale oder Anwalt."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "5.000 Euro",
+          "was": "Streitwertgrenze für die Schlichtung bei Fluggastrechten (laut Luftfahrt-Bundesamt)",
+          "grundlage": "Luftfahrt-Bundesamt, Schlichtung"
+        },
+        {
+          "wert": "90 Tage",
+          "was": "Frist für den Schlichtungsvorschlag (laut Luftfahrt-Bundesamt)",
+          "grundlage": "Luftfahrt-Bundesamt, Schlichtung"
+        }
+      ],
+      "achtung": [
+        "Schlichtungsvorschläge sind nur verbindlich, wenn beide Seiten zustimmen.",
+        "Laut Luftfahrt-Bundesamt werden Ansprüche von Geschäftsreisenden nicht geschlichtet; die Schlichtung nach § 57b Abs. 1 LuftVG steht Verbrauchern offen (bis 5.000 Euro, ab 10 Euro).",
+        "Öffnungszeiten und Erreichbarkeit können sich ändern; prüfen Sie auf den offiziellen Seiten.",
+        "Fristen laufen weiter, auch wenn Sie schlichten oder Behörden anschreiben."
+      ],
+      "fach_html": "<h3>Schlichtung</h3><p>Die Schlichtung Reise &amp; Verkehr e.V. (bis 2024 söp) vermittelt zwischen Verkehrsunternehmen und Kunden bei Flug, Bahn, Bus, Schiff und Pauschalreise; sie ist für Verbraucher kostenlos. Antrag über portal.sruv.de. Anschrift laut Luftfahrt-Bundesamt: Fasanenstraße 81, 10623 Berlin. Für Fluggesellschaften ohne Teilnahme ist das Bundesamt für Justiz, Adenauerallee 99-103, 53094 Bonn, zuständig.</p><h3>Behörden</h3><p>Luftfahrt-Bundesamt, Bürgerservice Fluggastrechte Braunschweig, Tel. +49 531 23 55-115 (Mo bis Do 10 bis 13 Uhr, laut BMV). Eisenbahn-Bundesamt, Heinemannstraße 6, 53175 Bonn, Tel. +49 228 307 95-400 (laut BMV; Hotline für Bahn, Bus und Schiff).</p><h3>EU-weit</h3><p>Das Europäische Verbraucherzentrum Deutschland (Bahnhofsplatz 3, 77694 Kehl, evz.de) berät kostenlos zu Ansprüchen gegen Unternehmen in anderen EU-Staaten, Island oder Norwegen (Suchtreffer BMJV/EVZ).</p><h3>Abgrenzung</h3><p>Diese Seite nennt keine örtlichen Beratungsstellen. Die Plattform ist keine Rechtsberatung.</p>",
+      "zustaendig": [
+        "Schlichtung Reise & Verkehr e.V.",
+        "Europäisches Verbraucherzentrum Deutschland",
+        "Eisenbahn-Bundesamt / Luftfahrt-Bundesamt",
+        "Verbraucherzentralen"
+      ],
+      "belege": [
+        "Luftfahrt-Bundesamt, Schlichtung, abgerufen 21.09.2026",
+        "BMV, Fahr- und Fluggastrechte, abgerufen 21.09.2026",
+        "Schlichtung Reise & Verkehr e.V., Startseite, abgerufen 21.09.2026",
+        "BMJV, Europäisches Verbraucherzentrum Deutschland (Suchtreffer), abgerufen 21.09.2026"
+      ],
+      "siehe_auch": [
+        "fluggastrechte",
+        "bahn",
+        "pauschalreise"
+      ],
+      "stand": "September 2026"
+    }
+  ]
+}

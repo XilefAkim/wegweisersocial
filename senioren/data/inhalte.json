@@ -1,0 +1,1051 @@
+{
+ "kategorien": [
+  {
+   "id": "ueberblick",
+   "titel": "Überblick und Grundlagen",
+   "icon": "🧭",
+   "beschreibung": "Einstieg: Ihre Rechte und Anlaufstellen im Alter."
+  },
+  {
+   "id": "rente",
+   "titel": "Rente und Alterseinkünfte",
+   "icon": "💰",
+   "beschreibung": "Altersrente beantragen, Bescheide prüfen, dazuverdienen."
+  },
+  {
+   "id": "pflege",
+   "titel": "Pflege",
+   "icon": "🧑‍⚕️",
+   "beschreibung": "Pflegegrad, Pflegeleistungen und Wohnformen im Alter."
+  },
+  {
+   "id": "geld",
+   "titel": "Grundsicherung und Steuern",
+   "icon": "🧾",
+   "beschreibung": "Grundsicherung im Alter und steuerliche Entlastungen."
+  },
+  {
+   "id": "gesundheit",
+   "titel": "Gesundheit",
+   "icon": "🩺",
+   "beschreibung": "Krankenversicherung, Zuzahlungen und Belastungsgrenzen."
+  },
+  {
+   "id": "vorsorge",
+   "titel": "Vorsorge und Erbrecht",
+   "icon": "📜",
+   "beschreibung": "Patientenverfügung, Vorsorgevollmacht, Testament und Erbrecht."
+  },
+  {
+   "id": "schutz",
+   "titel": "Verbraucherschutz und Digitales",
+   "icon": "🛡️",
+   "beschreibung": "Schutz vor Betrug und Unterstützung bei digitalen Angeboten."
+  },
+  {
+   "id": "beratung",
+   "titel": "Beratung und Anlaufstellen",
+   "icon": "📞",
+   "beschreibung": "Wer bei welchem Anliegen hilft."
+  }
+ ],
+ "seiten": [
+  {
+   "id": "ueberblick-rechte-im-alter",
+   "kategorie": "ueberblick",
+   "icon": "🧭",
+   "titel": "Rechte und Anlaufstellen im Alter im Überblick",
+   "teaser": "Ein erster Überblick, welche Rechte, Leistungen und Anlaufstellen es im Alter gibt – und wo Sie mit Ihrem Anliegen beginnen.",
+   "schlagworte": [
+    "Sozialgesetzbuch",
+    "Deutsche Rentenversicherung",
+    "Sozialamt",
+    "Pflegekasse",
+    "Betreuungsgericht",
+    "Nachrangprinzip"
+   ],
+   "kurz_html": "\n<p>Im Alter berühren sich mehrere Rechtsgebiete gleichzeitig: die gesetzliche Rente (SGB VI), die Pflegeversicherung (SGB XI), die Grundsicherung im Alter (SGB XII), die Krankenversicherung (SGB V) sowie Vorsorge- und Erbrecht (BGB). Wer weiß, welches Thema zu welcher Stelle gehört, verliert weniger Zeit bei Anträgen und Fristen. Diese Seite ordnet die wichtigsten Bereiche ein und verweist auf die passenden Themenseiten.</p>\n",
+   "schritte": [
+    {
+     "titel": "Persönliche Situation einordnen",
+     "text": "Klären Sie zuerst grob, ob es um Rente, Pflege, ergänzende Grundsicherung, Gesundheitskosten oder Vorsorge/Erbrecht geht – häufig spielen mehrere Bereiche zusammen."
+    },
+    {
+     "titel": "Zuständige Stelle identifizieren",
+     "text": "Rente: Deutsche Rentenversicherung. Pflege: die Pflegekasse bei Ihrer Krankenkasse. Ergänzende Grundsicherung: das Sozialamt der Kommune. Vorsorge/Erbrecht: Notar, Betreuungsgericht nur im Streit- oder Vorsorgefall."
+    },
+    {
+     "titel": "Fristen im Blick behalten",
+     "text": "Widersprüche gegen Bescheide sind fast immer nur einen Monat lang möglich – notieren Sie sich das Zustelldatum sofort."
+    },
+    {
+     "titel": "Unabhängige Beratung nutzen",
+     "text": "Pflegestützpunkte, Verbraucherzentralen und Sozialverbände beraten kostenfrei und unabhängig von einzelnen Kassen oder Anbietern."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "1 Monat",
+     "was": "Regelfrist für Widerspruch gegen Bescheide von Rentenversicherung, Pflegekasse und Sozialamt",
+     "grundlage": "§ 84 SGG"
+    }
+   ],
+   "achtung": [
+    "Rente und Grundsicherung im Alter werden häufig verwechselt: Die Rente ist eine Versicherungsleistung nach Beitragszahlung, die Grundsicherung eine bedürftigkeitsabhängige Fürsorgeleistung, die die Rente nur bis zum Existenzminimum aufstockt.",
+    "Wer Fristen für Widerspruch oder Antragstellung verpasst, verliert oft nicht den Anspruch dem Grunde nach, aber die rückwirkende Zahlung für die verstrichene Zeit.",
+    "Seriöse Beratung (Pflegestützpunkt, Rentenversicherung, Verbraucherzentrale, Sozialverbände) ist kostenfrei – bei kostenpflichtigen Angeboten an der Haustür oder am Telefon ist Vorsicht geboten."
+   ],
+   "fach_html": "\n<h3>Aufbau des Sozialrechts, der für Seniorinnen und Senioren relevant ist</h3>\n<p>Das Sozialgesetzbuch (SGB) gliedert die relevanten Bereiche in eigene Bücher: SGB VI (gesetzliche Rentenversicherung), SGB XI (soziale Pflegeversicherung), SGB XII (Sozialhilfe, darunter die Grundsicherung im Alter und bei Erwerbsminderung im Vierten Kapitel, §§ 41 ff.) und SGB V (gesetzliche Krankenversicherung). Für alle Bücher gilt über § 2 SGB XII bzw. vergleichbare Vorschriften der Nachranggrundsatz: Sozialhilfeleistungen werden erst gewährt, wenn vorrangige Ansprüche (Rente, Wohngeld, Unterhalt, eigenes Vermögen) nicht ausreichen.</p>\n<h3>Betreuungsrecht seit der Reform 2023</h3>\n<p>Das Betreuungsrecht wurde zum 1. Januar 2023 grundlegend reformiert und die Vorschriften zu Vorsorgevollmacht, Betreuungsverfügung und Patientenverfügung im Buch 4 des BGB neu nummeriert (u. a. §§ 1814 ff., 1820, 1827 BGB). Neu eingeführt wurde ein zeitlich befristetes gegenseitiges Ehegattennotvertretungsrecht in Gesundheitsangelegenheiten (§ 1358 BGB).</p>\n<h3>Rechtsweg</h3>\n<p>Streitigkeiten über Rente, Pflege und Grundsicherung werden vor den Sozialgerichten ausgetragen (Sozialgerichtsgesetz, SGG); das Verfahren ist für Versicherte und Leistungsempfänger als Kläger grundsätzlich gerichtskostenfrei (§ 183 SGG).</p>\n",
+   "zustaendig": [
+    "Deutsche Rentenversicherung (Rente)",
+    "Pflegekasse bei der Krankenkasse (Pflege)",
+    "Sozialamt der Kommune (Grundsicherung)",
+    "Betreuungsgericht (nur bei fehlender Vorsorge oder im Streitfall)"
+   ],
+   "belege": [
+    "§ 2 SGB XII (gesetze-im-internet.de)",
+    "§§ 41 ff. SGB XII (gesetze-im-internet.de)",
+    "§§ 1358, 1814, 1820, 1827 BGB (gesetze-im-internet.de, Fassung seit 1.1.2023)",
+    "§ 183 SGG (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "altersrente-beantragen",
+    "grundsicherung-im-alter",
+    "pflegegrad-beantragen",
+    "beratung-anlaufstellen-senioren"
+   ],
+   "stand": "Stand: September 2026"
+  },
+  {
+   "id": "altersrente-beantragen",
+   "kategorie": "rente",
+   "icon": "👛",
+   "titel": "Altersrente beantragen",
+   "teaser": "Die Altersrente wird nicht automatisch gezahlt – Sie müssen sie beantragen, am besten rund drei Monate vor dem gewünschten Rentenbeginn.",
+   "schlagworte": [
+    "Regelaltersgrenze",
+    "Altersrente für langjährig Versicherte",
+    "Altersrente für besonders langjährig Versicherte",
+    "Rentenantrag",
+    "Kontenklärung",
+    "Abschlag"
+   ],
+   "kurz_html": "\n<p>Wenn Sie in Rente gehen möchten, müssen Sie das bei der Deutschen Rentenversicherung beantragen – die Rente wird nicht von sich aus ausgezahlt. Je nach Versicherungsverlauf kommen verschiedene Altersrenten infrage, mit unterschiedlichem frühestmöglichem Beginn und teils mit Abschlägen bei vorzeitigem Bezug. Ein Antrag lohnt sich frühzeitig, damit Ihr Versicherungskonto rechtzeitig geklärt ist und die Rente ohne Zahlungslücke beginnt.</p>\n",
+   "schritte": [
+    {
+     "titel": "Rentenkonto klären lassen",
+     "text": "Beantragen Sie eine Kontenklärung, wenn Lücken im Versicherungsverlauf bestehen (z. B. fehlende Ausbildungs- oder Kindererziehungszeiten)."
+    },
+    {
+     "titel": "Beratungstermin wahrnehmen",
+     "text": "Eine kostenlose Rentenberatung der Deutschen Rentenversicherung klärt, welche Rentenart infrage kommt und ob sich ein späterer Beginn lohnt."
+    },
+    {
+     "titel": "Antrag stellen",
+     "text": "Stellen Sie den Antrag online (Mein Rentenkonto/eAntrag), über eine Auskunfts- und Beratungsstelle oder mit dem Formular V0100 – möglichst drei bis vier Monate vor dem gewünschten Rentenbeginn."
+    },
+    {
+     "titel": "Nachweise einreichen",
+     "text": "Reichen Sie fehlende Unterlagen (z. B. Nachweise zu Schul-, Ausbildungs- oder Erziehungszeiten) zügig nach, damit der Bescheid nicht verzögert wird."
+    },
+    {
+     "titel": "Bescheid prüfen",
+     "text": "Prüfen Sie den Rentenbescheid auf Vollständigkeit des Versicherungsverlaufs und die korrekte Berechnung von Zu- und Abschlägen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "3 Monate",
+     "was": "Empfohlener zeitlicher Vorlauf vor dem gewünschten Rentenbeginn für die Antragstellung",
+     "grundlage": "Deutsche Rentenversicherung, Praxishinweis"
+    },
+    {
+     "wert": "3 Kalendermonate",
+     "was": "Rückwirkende Zahlung nur begrenzt möglich, wenn der Antrag nicht rechtzeitig nach Erfüllung der Voraussetzungen gestellt wird",
+     "grundlage": "§ 99 SGB VI"
+    }
+   ],
+   "achtung": [
+    "Ein vorzeitiger Rentenbeginn vor der maßgeblichen Altersgrenze der jeweiligen Rentenart senkt die Rente dauerhaft um 0,3 % pro Monat des vorzeitigen Bezugs (§ 77 SGB VI).",
+    "Für die beitragsfreie Pflichtversicherung in der Krankenversicherung der Rentner (KVdR) muss die sogenannte 9/10-Vorversicherungszeit erfüllt sein – ohne diese können höhere freiwillige Beiträge anfallen.",
+    "Die Regelaltersgrenze liegt für Jahrgänge ab 1964 bei 67 Jahren; für ältere Jahrgänge gilt eine gestaffelte Übergangsregel – verwechseln Sie Ihre persönliche Altersgrenze nicht mit der für andere Jahrgänge."
+   ],
+   "fach_html": "\n<h3>Rentenarten (SGB VI)</h3>\n<p>Neben der Regelaltersrente (§ 35 SGB VI, Beginn mit der Regelaltersgrenze) gibt es u. a. die Altersrente für besonders langjährig Versicherte (§ 38 SGB VI, 45 Jahre Wartezeit, abschlagsfrei je nach Jahrgang bereits vor der Regelaltersgrenze), die Altersrente für langjährig Versicherte (§ 36 SGB VI, 35 Jahre Wartezeit, frühestens ab 63 mit Abschlag) sowie die Altersrente für schwerbehinderte Menschen (§ 37 SGB VI, 35 Jahre Wartezeit und ein anerkannter Grad der Behinderung von mindestens 50).</p>\n<h3>Abschläge und Zuschläge</h3>\n<p>Für jeden Monat des Rentenbezugs vor der maßgeblichen Altersgrenze wird die Rente dauerhaft um 0,3 % gekürzt (§ 77 Abs. 2 SGB VI). Wer über die Regelaltersgrenze hinaus arbeitet und die Rente aufschiebt, erhält umgekehrt einen Zuschlag von 0,5 % pro Monat des späteren Beginns.</p>\n<h3>Antragsverfahren</h3>\n<p>Der Antrag kann online über das Portal der Deutschen Rentenversicherung, persönlich in einer Auskunfts- und Beratungsstelle oder schriftlich gestellt werden. Nach § 99 SGB VI wird die Rente rückwirkend nur bis zu drei Kalendermonate vor Antragstellung gezahlt, wenn der Antrag nicht unmittelbar nach Erfüllung der Voraussetzungen gestellt wird – ein zu später Antrag kann daher zu endgültigem Zahlungsausfall führen.</p>\n<h3>Kindererziehungszeiten: Änderung ab 2027</h3><p>Nach dem Gesetz zur Stabilisierung des Rentenniveaus und zur vollständigen Gleichstellung der Kindererziehungszeiten (BGBl. 2025 I Nr. 362) soll die Kindererziehungszeit für vor 1992 geborene Kinder nach § 249 Abs. 1 SGB VI ab 1. Januar 2028 36 statt 30 Kalendermonate betragen. Für bestehende Renten und Renten mit Beginn 2027 sieht § 307d SGB VI ab 1. Januar 2027 einen Zuschlag von 0,5 persönlichen Entgeltpunkten je Kind vor, wenn die Voraussetzungen erfüllt sind (u. a. Anrechnung der Berücksichtigungszeit für den 30. Kalendermonat, kein Anspruch nach §§ 294, 294a). Zeitpunkt der Auszahlung und Einzelfall: bei der Deutschen Rentenversicherung klären; nicht im Volltext geprüft.</p>",
+   "zustaendig": [
+    "Deutsche Rentenversicherung (Bund oder Regionalträger)"
+   ],
+   "belege": [
+    "§§ 35, 36, 37, 38, 77, 99 SGB VI (gesetze-im-internet.de)",
+    "Deutsche Rentenversicherung, Merkblätter zur Altersrente, Stand 2026", "Bundesgesetzblatt 2025 I Nr. 362, recht.bund.de, abgerufen 21.09.2026"
+   ],
+   "siehe_auch": [
+    "rentenbescheid-widerspruch",
+    "hinzuverdienst-im-rentenalter",
+    "grundsicherung-im-alter"
+   ],
+   "stand": "Stand: September 2026"
+  },
+  {
+   "id": "rentenbescheid-widerspruch",
+   "kategorie": "rente",
+   "icon": "⚖️",
+   "titel": "Widerspruch gegen den Rentenbescheid",
+   "teaser": "Gegen einen fehlerhaften Rentenbescheid können Sie innerhalb eines Monats kostenfrei Widerspruch einlegen – ältere Fehler lassen sich teils noch per Überprüfungsantrag korrigieren.",
+   "schlagworte": [
+    "Widerspruch",
+    "84 SGG",
+    "Sozialgericht",
+    "44 SGB X",
+    "Versicherungsverlauf",
+    "149 SGB VI"
+   ],
+   "kurz_html": "\n<p>Ist Ihr Rentenbescheid aus Ihrer Sicht falsch – etwa weil Versicherungszeiten fehlen oder die Rentenhöhe nicht stimmt – können Sie innerhalb eines Monats nach Zustellung schriftlich Widerspruch einlegen. Das kostet nichts. Auch wenn diese Frist bereits verstrichen ist, lässt sich ein rechtswidriger Bescheid unter bestimmten Voraussetzungen noch bis zu vier Jahre rückwirkend über einen Überprüfungsantrag korrigieren.</p>\n",
+   "schritte": [
+    {
+     "titel": "Bescheid und Versicherungsverlauf prüfen",
+     "text": "Vergleichen Sie den Versicherungsverlauf im Bescheid mit Ihren eigenen Unterlagen (Arbeitsverträge, Ausbildungszeiten, Kindererziehungszeiten)."
+    },
+    {
+     "titel": "Widerspruch fristgerecht einlegen",
+     "text": "Legen Sie den Widerspruch schriftlich oder zur Niederschrift bei der Deutschen Rentenversicherung ein; eine kurze Begründung genügt zunächst und kann nachgereicht werden."
+    },
+    {
+     "titel": "Fehlende Nachweise nachreichen",
+     "text": "Reichen Sie Belege für fehlende Zeiten nach (z. B. Zeugnisse, Meldebescheinigungen, Geburtsurkunden für Kindererziehungszeiten)."
+    },
+    {
+     "titel": "Widerspruchsbescheid abwarten oder klagen",
+     "text": "Hilft die Rentenversicherung dem Widerspruch nicht ab, erhalten Sie einen Widerspruchsbescheid; dagegen können Sie kostenfrei vor dem Sozialgericht klagen."
+    },
+    {
+     "titel": "Bei älteren Fehlern Überprüfungsantrag stellen",
+     "text": "Ist die Widerspruchsfrist verstrichen, kann bei einem rechtswidrigen, nicht begünstigenden Bescheid ein Überprüfungsantrag nach § 44 SGB X rückwirkend bis zu vier Jahre Wirkung entfalten."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "1 Monat",
+     "was": "Widerspruchsfrist ab Zustellung des Rentenbescheids (3 Monate bei Zustellung im Ausland)",
+     "grundlage": "§ 84 SGG"
+    },
+    {
+     "wert": "1 Monat",
+     "was": "Klagefrist gegen den Widerspruchsbescheid",
+     "grundlage": "§ 87 SGG"
+    },
+    {
+     "wert": "4 Jahre",
+     "was": "Rückwirkende Korrektur eines rechtswidrigen Bescheids über einen Überprüfungsantrag, gerechnet ab Antragstellung",
+     "grundlage": "§ 44 SGB X"
+    }
+   ],
+   "achtung": [
+    "Verpassen Sie die einmonatige Widerspruchsfrist, wird der Bescheid bestandskräftig; eine Korrektur ist dann nur noch über den enger gefassten Überprüfungsantrag nach § 44 SGB X möglich.",
+    "Fehlerhafte Versicherungsverläufe entstehen häufig durch fehlende oder verspätete Meldungen früherer Arbeitgeber – sammeln Sie Belege möglichst schon vor der Rentenantragstellung.",
+    "Verfahren vor den Sozialgerichten sind für Versicherte als Kläger grundsätzlich gerichtskostenfrei – lassen Sie sich von Kosten nicht von einer berechtigten Klage abhalten."
+   ],
+   "fach_html": "\n<h3>Widerspruchsverfahren</h3>\n<p>Nach § 84 SGG beträgt die Widerspruchsfrist einen Monat ab Bekanntgabe des Rentenbescheids, bei Zustellung im Ausland drei Monate. Der Widerspruch ist formfrei fristwahrend, wenn er innerhalb der Frist bei einer inländischen Behörde eingeht, die ihn an die zuständige Stelle weiterleitet.</p>\n<h3>Überprüfungsantrag nach § 44 SGB X</h3>\n<p>Stellt sich nachträglich heraus, dass ein bestandskräftiger Bescheid rechtswidrig war und dadurch Sozialleistungen zu Unrecht nicht oder zu niedrig erbracht wurden, ist die Behörde verpflichtet, ihn zurückzunehmen. Die rückwirkende Erbringung der Leistung ist auf einen Zeitraum von bis zu vier Jahren vor der Rücknahme begrenzt (§ 44 Abs. 4 SGB X).</p>\n<h3>Kontenklärung nach § 149 SGB VI</h3>\n<p>Das Versicherungskonto sollte möglichst schon Jahre vor Rentenbeginn geklärt werden (§ 149 Abs. 4 SGB VI), damit Lücken im Versicherungsverlauf frühzeitig auffallen und noch belegt werden können, statt erst im Widerspruch gegen den fertigen Rentenbescheid.</p>\n",
+   "zustaendig": [
+    "Deutsche Rentenversicherung",
+    "Sozialgericht (bei Klage)"
+   ],
+   "belege": [
+    "§§ 84, 87, 183 SGG (gesetze-im-internet.de)",
+    "§ 44 SGB X (gesetze-im-internet.de)",
+    "§ 149 SGB VI (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "altersrente-beantragen",
+    "beratung-anlaufstellen-senioren"
+   ],
+   "stand": "Stand: September 2026"
+  },
+  {
+   "id": "hinzuverdienst-im-rentenalter",
+   "kategorie": "rente",
+   "icon": "➕",
+   "titel": "Hinzuverdienst im Rentenalter",
+   "teaser": "Seit dem 1. Januar 2023 gibt es für Altersrentnerinnen und Altersrentner keine Hinzuverdienstgrenze mehr – Sie dürfen unbegrenzt dazuverdienen, ohne dass die Rente gekürzt wird.",
+   "schlagworte": [
+    "Hinzuverdienstgrenze",
+    "34 SGB VI",
+    "Erwerbsminderungsrente",
+    "Krankenversicherung der Rentner",
+    "Steuerpflicht",
+    "Vollrente"
+   ],
+   "kurz_html": "\n<p>Früher durften Menschen, die vor Erreichen der Regelaltersgrenze eine Altersrente bezogen, nur bis zu einer bestimmten Grenze hinzuverdienen, ohne dass die Rente gekürzt wurde. Diese Hinzuverdienstgrenze wurde zum 1. Januar 2023 dauerhaft abgeschafft. Wer eine Altersrente bezieht – egal ob vor oder nach der Regelaltersgrenze – kann seither in beliebiger Höhe hinzuverdienen, ohne dass die Rente deswegen gekürzt wird. Für Erwerbsminderungsrenten gilt das nicht in gleicher Weise; dort bestehen weiterhin Hinzuverdienstregelungen.</p>\n",
+   "schritte": [
+    {
+     "titel": "Rentenart unterscheiden",
+     "text": "Prüfen Sie, ob Sie eine Altersrente oder eine Erwerbsminderungsrente beziehen – nur bei der Altersrente ist die Hinzuverdienstgrenze vollständig entfallen."
+    },
+    {
+     "titel": "Beschäftigung wie gewohnt aufnehmen",
+     "text": "Bei einer Altersrente müssen Sie die Aufnahme einer Beschäftigung der Rentenversicherung in der Regel nicht mehr melden, damit die Rentenhöhe unverändert bleibt."
+    },
+    {
+     "titel": "Steuerliche Folgen prüfen",
+     "text": "Arbeitseinkommen neben der Rente unterliegt weiterhin regulär der Einkommensteuer und kann zusammen mit dem steuerpflichtigen Rentenanteil eine Steuererklärungspflicht auslösen."
+    },
+    {
+     "titel": "Krankenversicherungsbeiträge im Blick behalten",
+     "text": "Auf Arbeitseinkommen neben der Rente werden in der Krankenversicherung der Rentner zusätzliche Beiträge fällig."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "seit 1.1.2023",
+     "was": "Vollständige Abschaffung der Hinzuverdienstgrenze bei Altersrenten (vor und nach der Regelaltersgrenze)",
+     "grundlage": "§ 34 SGB VI"
+    }
+   ],
+   "achtung": [
+    "Verwechseln Sie die Regelung nicht mit der Erwerbsminderungsrente: Dort bestehen weiterhin eigene Hinzuverdienstgrenzen, die diese Seite nicht behandelt.",
+    "Der Wegfall der Hinzuverdienstgrenze ändert nichts an der Einkommensteuerpflicht des Arbeitseinkommens und des steuerpflichtigen Rentenanteils.",
+    "Wer neben der Rente arbeitet, zahlt auf dieses Arbeitseinkommen weiterhin reguläre Sozialversicherungsbeiträge, u. a. zur Krankenversicherung der Rentner."
+   ],
+   "fach_html": "\n<h3>Rechtsentwicklung</h3>\n<p>Bis 2022 durften Altersrentnerinnen und -rentner vor Erreichen der Regelaltersgrenze nur bis zu einer festen Jahresgrenze hinzuverdienen, ohne dass die Rente gekürzt wurde (zuletzt 6.300 € jährlich); während der Corona-Pandemie war diese Grenze 2020–2022 vorübergehend ausgesetzt. Mit Wirkung zum 1. Januar 2023 wurde die Hinzuverdienstgrenze bei Altersrenten dauerhaft und vollständig aufgehoben (§ 34 SGB VI in der seit 1.1.2023 geltenden Fassung).</p>\n<h3>Abgrenzung zur Erwerbsminderungsrente</h3>\n<p>Für Renten wegen teilweiser oder voller Erwerbsminderung gelten weiterhin gesonderte Hinzuverdienstregelungen, da diese Renten anders als die Altersrente den Ausgleich einer eingeschränkten Erwerbsfähigkeit bezwecken. Diese Regelungen sind nicht Gegenstand dieser Seite.</p>\n<h3>Steuer und Krankenversicherung</h3>\n<p>Der Wegfall der Hinzuverdienstgrenze betrifft ausschließlich die Rentenhöhe. Arbeitseinkommen bleibt unabhängig davon einkommensteuerpflichtig, und in der Krankenversicherung der Rentner werden auf Arbeitsentgelt zusätzliche Beiträge erhoben.</p>\n",
+   "zustaendig": [
+    "Deutsche Rentenversicherung (Rentenhöhe)",
+    "Finanzamt (Einkommensteuer)",
+    "Krankenkasse (Beiträge zur KVdR)"
+   ],
+   "belege": [
+    "§ 34 SGB VI (gesetze-im-internet.de, Fassung seit 1.1.2023)",
+    "Deutsche Rentenversicherung, Informationen zum Hinzuverdienst, Stand 2026"
+   ],
+   "siehe_auch": [
+    "altersrente-beantragen",
+    "steuererleichterungen-alter"
+   ],
+   "stand": "Stand: September 2026"
+  },
+  {
+   "id": "pflegegrad-beantragen",
+   "kategorie": "pflege",
+   "icon": "📋",
+   "titel": "Pflegegrad beantragen",
+   "teaser": "Pflegeleistungen gibt es erst nach einem anerkannten Pflegegrad – der Antrag bei der Pflegekasse ist formlos und kann auch telefonisch die Frist wahren.",
+   "schlagworte": [
+    "Pflegegrad",
+    "Pflegekasse",
+    "Medizinischer Dienst",
+    "18c SGB XI",
+    "Neues Begutachtungsassessment",
+    "Widerspruch"
+   ],
+   "kurz_html": "\n<p>Um Pflegegeld, Pflegesachleistungen oder andere Leistungen der Pflegeversicherung zu erhalten, muss zuerst ein Pflegegrad festgestellt werden. Den Antrag stellen Sie formlos bei der Pflegekasse, die bei Ihrer Krankenkasse angesiedelt ist – ein Anruf genügt zunächst, um die Frist zu wahren. Danach begutachtet in der Regel der Medizinische Dienst (bei privat Versicherten Medicproof) anhand eines bundeseinheitlichen Verfahrens, wie selbstständig Sie noch sind.</p>\n",
+   "schritte": [
+    {
+     "titel": "Antrag formlos stellen",
+     "text": "Rufen Sie bei der Pflegekasse an oder schreiben Sie einen kurzen Antrag – Leistungen werden rückwirkend ab dem Monat der Antragstellung erbracht, nicht davor."
+    },
+    {
+     "titel": "Pflegetagebuch führen",
+     "text": "Notieren Sie über einige Tage, wobei und wie oft Unterstützung nötig ist – das erleichtert die Begutachtung."
+    },
+    {
+     "titel": "Begutachtungstermin vorbereiten",
+     "text": "Sorgen Sie dafür, dass eine vertraute Person beim Termin des Medizinischen Dienstes dabei ist und Medikamentenpläne sowie Arztberichte bereitliegen."
+    },
+    {
+     "titel": "Bescheid prüfen",
+     "text": "Prüfen Sie den festgestellten Pflegegrad und die Begründung im Gutachten sorgfältig."
+    },
+    {
+     "titel": "Bei Ablehnung Widerspruch einlegen",
+     "text": "Legen Sie bei Unstimmigkeiten innerhalb eines Monats Widerspruch ein, ggf. mit Unterstützung eines Pflegestützpunkts."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "in der Regel 25 Arbeitstage",
+     "was": "Regelfrist der Pflegekasse zur Entscheidung nach Antragseingang",
+     "grundlage": "§ 18c SGB XI"
+    },
+    {
+     "wert": "1 Woche",
+     "was": "Verkürzte Begutachtungsfrist u. a. bei Krankenhausaufenthalt, Hospiz- oder Palliativversorgung",
+     "grundlage": "§ 18c SGB XI"
+    },
+    {
+     "wert": "1 Monat",
+     "was": "Widerspruchsfrist gegen den Bescheid der Pflegekasse",
+     "grundlage": "§ 84 SGG"
+    }
+   ],
+   "achtung": [
+    "Pflegeleistungen werden nicht rückwirkend vor der Antragstellung gezahlt – ein früher, formloser Antrag sichert daher Ansprüche.",
+    "Hält die Pflegekasse die Fristen nach § 18c SGB XI nicht ein, kann ein pauschales Verzugsgeld fällig werden – fragen Sie danach nach, wenn sich die Entscheidung deutlich verzögert.",
+    "Eine Ablehnung oder ein zu niedrig empfundener Pflegegrad sollte nicht kommentarlos hingenommen werden; ein Widerspruch mit Unterstützung eines Pflegestützpunkts oder Sozialverbands lohnt sich häufig."
+   ],
+   "fach_html": "\n<h3>Begutachtung nach dem Neuen Begutachtungsassessment (NBA)</h3>\n<p>Der Medizinische Dienst bewertet die Selbstständigkeit in sechs Modulen (u. a. Mobilität, kognitive und kommunikative Fähigkeiten, Verhaltensweisen und psychische Problemlagen, Selbstversorgung, Bewältigung von krankheits- oder therapiebedingten Anforderungen, Gestaltung des Alltagslebens und sozialer Kontakte). Aus der gewichteten Gesamtpunktzahl ergibt sich einer von fünf Pflegegraden (§§ 14, 15 SGB XI).</p>\n<h3>Bearbeitungsfristen (§ 18c SGB XI)</h3>\n<p>Die Pflegekasse muss in der Regel innerhalb von 25 Arbeitstagen nach Antragseingang entscheiden. Kürzere Fristen von einer Woche gelten u. a. bei Krankenhausaufenthalt, ambulanter Palliativversorgung, Hospizversorgung oder wenn eine pflegende Angehörige oder ein pflegender Angehöriger die Pflegezeit nach dem Pflegezeitgesetz angekündigt hat. Bei Fristüberschreitung sieht das Gesetz ein pauschales Verzugsgeld zugunsten der Antragstellerin oder des Antragstellers vor.</p>\n<h3>Widerspruch</h3>\n<p>Gegen den Bescheid ist innerhalb eines Monats Widerspruch möglich (§ 84 SGG); häufig lohnt sich eine erneute, besser dokumentierte Begutachtung oder ein Pflegegutachten einer unabhängigen Beratungsstelle.</p>\n",
+   "zustaendig": [
+    "Pflegekasse bei der Krankenkasse",
+    "Medizinischer Dienst bzw. Medicproof (private Versicherte)"
+   ],
+   "belege": [
+    "§§ 14, 15, 18c SGB XI (gesetze-im-internet.de)",
+    "§ 84 SGG (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "pflegeleistungen-und-pflegegeld",
+    "betreutes-wohnen-pflegeheim",
+    "beratung-anlaufstellen-senioren"
+   ],
+   "stand": "Stand: September 2026"
+  },
+  {
+   "id": "pflegeleistungen-und-pflegegeld",
+   "kategorie": "pflege",
+   "icon": "🤝",
+   "titel": "Pflegeleistungen und Pflegegeld",
+   "teaser": "Mit einem anerkannten Pflegegrad stehen Ihnen je nach gewählter Versorgungsform Pflegegeld, Pflegesachleistungen oder eine Kombination sowie ergänzende Entlastungsleistungen zu.",
+   "schlagworte": [
+    "Pflegegeld",
+    "Pflegesachleistung",
+    "Entlastungsbetrag",
+    "Verhinderungspflege",
+    "Kurzzeitpflege",
+    "37 SGB XI"
+   ],
+   "kurz_html": "\n<p>Wird die Pflege zu Hause von Angehörigen oder nahestehenden Personen übernommen, zahlt die Pflegekasse Pflegegeld. Wird ein ambulanter Pflegedienst eingesetzt, übernimmt die Kasse stattdessen Pflegesachleistungen; beides lässt sich auch kombinieren. Zusätzlich gibt es einen monatlichen Entlastungsbetrag für Angebote im Alltag sowie Leistungen für Verhinderungs- und Kurzzeitpflege, wenn die Hauptpflegeperson ausfällt.</p>\n",
+   "schritte": [
+    {
+     "titel": "Versorgungsform wählen",
+     "text": "Entscheiden Sie zusammen mit der Pflegekasse, ob Pflegegeld, Pflegesachleistung oder eine Kombination beider zur Situation passt."
+    },
+    {
+     "titel": "Beratungseinsätze wahrnehmen",
+     "text": "Bei Bezug von Pflegegeld sind regelmäßige Beratungseinsätze verpflichtend, deren Rhythmus vom Pflegegrad abhängt."
+    },
+    {
+     "titel": "Entlastungsbetrag nutzen",
+     "text": "Setzen Sie den monatlichen Entlastungsbetrag für qualifizierte Alltagsunterstützung, Betreuungsangebote oder hauswirtschaftliche Hilfe ein."
+    },
+    {
+     "titel": "Verhinderungs- oder Kurzzeitpflege beantragen",
+     "text": "Fällt die Pflegeperson zeitweise aus (Urlaub, Krankheit), können Verhinderungspflege oder Kurzzeitpflege beantragt werden."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "halbjährlich (Pflegegrad 1–3) / vierteljährlich (Pflegegrad 4–5)",
+     "was": "Pflicht zu Beratungseinsätzen bei Bezug von Pflegegeld",
+     "grundlage": "§ 37 Abs. 3 SGB XI"
+    },
+    {
+     "wert": "131 €/Monat",
+     "was": "Entlastungsbetrag seit 1.1.2025 (zuvor 125 €, Erhöhung um 4,5 % durch das Pflegeunterstützungs- und -entlastungsgesetz)",
+     "grundlage": "§ 45b SGB XI"
+    }
+   ],
+   "achtung": [
+    "Pflegegeld wird nur bei häuslicher Pflege durch Angehörige oder andere nahestehende Personen gezahlt, nicht bei vollstationärer Unterbringung.",
+    "Nicht verbrauchter Entlastungsbetrag verfällt grundsätzlich zum Jahresende, kann aber bis zum 30. Juni des Folgejahres noch genutzt werden.",
+    "Werden die verpflichtenden Beratungseinsätze bei Pflegegeldbezug versäumt, kann die Pflegekasse das Pflegegeld kürzen oder einstellen."
+   ],
+   "fach_html": "\n<h3>Pflegegeld und Pflegesachleistung (§§ 36, 37 SGB XI)</h3>\n<p>Die Höhe von Pflegegeld und Pflegesachleistung ist nach Pflegegrad gestaffelt und wurde zum 1. Januar 2025 im Rahmen des Pflegeunterstützungs- und -entlastungsgesetzes (PUEG) um 4,5 % angehoben. Die genauen, zum Redaktionsschluss dieser Seite recherchierten Beträge für Pflegegrad 2 bis 5 sind in den Belegen genannt; da eine weitere turnusmäßige Dynamisierung laut PUEG für 2028 vorgesehen ist, sollten Beträge vor einer verbindlichen Aussage im Einzelfall bei der Pflegekasse oder dem GKV-Spitzenverband geprüft werden.</p>\n<h3>Entlastungsbetrag (§ 45b SGB XI)</h3>\n<p>Alle Personen mit anerkanntem Pflegegrad haben unabhängig von der gewählten Versorgungsform Anspruch auf einen monatlichen Entlastungsbetrag von 131 € (Stand seit 1.1.2025) für qualifizierte Angebote zur Unterstützung im Alltag.</p>\n<h3>Verhinderungspflege und Kurzzeitpflege (§§ 39, 42 SGB XI)</h3>\n<p>Seit der Reform durch das PUEG wurden die Budgets für Verhinderungspflege und Kurzzeitpflege für Pflegegrad 2 bis 5 schrittweise zusammengeführt bzw. flexibilisiert. Die genaue Höhe des gemeinsamen Jahresbudgets nach dem Stand 1.7.2025 konnte in dieser Recherche nicht abschließend an einer amtlichen Primärquelle geprüft werden und ist daher hier bewusst nicht beziffert. Eine in älteren Quellen kursierende sechsmonatige Vorpflegezeit als Voraussetzung für Verhinderungspflege ließ sich im aktuellen Gesetzestext nicht bestätigen und sollte vor einer verbindlichen Aussage bei der Pflegekasse nachgefragt werden.</p>\n",
+   "zustaendig": [
+    "Pflegekasse bei der Krankenkasse"
+   ],
+   "belege": [
+    "§§ 36, 37, 39, 42, 45b SGB XI (gesetze-im-internet.de)",
+    "Pflegeunterstützungs- und -entlastungsgesetz – PUEG (BGBl. 2023 I Nr. 155)",
+    "Leistungsbeträge zum 1.1.2025: nach Quellenlage recherchiert, für Sept. 2026 nicht einzeln neu amtlich verifiziert – bei der Pflegekasse gegenprüfen"
+   ],
+   "siehe_auch": [
+    "pflegegrad-beantragen",
+    "betreutes-wohnen-pflegeheim",
+    "beratung-anlaufstellen-senioren"
+   ],
+   "stand": "Stand: September 2026"
+  },
+  {
+   "id": "betreutes-wohnen-pflegeheim",
+   "kategorie": "pflege",
+   "icon": "🏡",
+   "titel": "Betreutes Wohnen und Pflegeheim",
+   "teaser": "Zwischen der eigenen Wohnung, betreutem Wohnen und dem Pflegeheim gibt es rechtlich und finanziell große Unterschiede – der Heimvertrag ist im Wohn- und Betreuungsvertragsgesetz besonders geregelt.",
+   "schlagworte": [
+    "WBVG",
+    "Vollstationäre Pflege",
+    "43c SGB XI",
+    "Leistungszuschlag",
+    "Wohnraumanpassung",
+    "Eigenanteil"
+   ],
+   "kurz_html": "\n<p>Betreutes Wohnen ist eine privat organisierte Wohnform mit Grundservice (z. B. Hausnotruf, Ansprechperson) und in der Regel keine eigene Pflegeleistung, während die vollstationäre Pflege im Pflegeheim eine eigene Leistungsart der Pflegeversicherung ist. Wer im Pflegeheim lebt, zahlt neben dem Pflegekassenanteil einen einrichtungseinheitlichen Eigenanteil, der durch einen Zuschlag mit der Aufenthaltsdauer prozentual sinkt. Heimverträge sind im Wohn- und Betreuungsvertragsgesetz (WBVG) besonders geschützt.</p>\n",
+   "schritte": [
+    {
+     "titel": "Wohnform klären",
+     "text": "Prüfen Sie, ob betreutes Wohnen, eine Anpassung der eigenen Wohnung oder ein Pflegeheim zur Pflegesituation passt."
+    },
+    {
+     "titel": "Heimvertrag prüfen",
+     "text": "Lassen Sie sich vor Vertragsschluss die vorvertraglichen Informationen nach dem WBVG aushändigen und vergleichen Sie Leistungen und Entgelte verschiedener Einrichtungen."
+    },
+    {
+     "titel": "Pflegekasse einschalten",
+     "text": "Beantragen Sie bei einem anerkannten Pflegegrad die vollstationären Leistungen der Pflegeversicherung."
+    },
+    {
+     "titel": "Eigenanteil und Zuschlag prüfen",
+     "text": "Lassen Sie sich erklären, wie hoch der einrichtungseinheitliche Eigenanteil ist und welcher Leistungszuschlag nach Aufenthaltsdauer bereits berücksichtigt wurde."
+    },
+    {
+     "titel": "Wohnraumanpassung als Alternative prüfen",
+     "text": "Prüfen Sie vor einem Umzug, ob ein barrierereduzierender Umbau der eigenen Wohnung mit Zuschuss der Pflegekasse den Verbleib zu Hause ermöglicht."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "2 Wochen zum Monatsende",
+     "was": "Ordentliches Kündigungsrecht der Bewohnerin oder des Bewohners bei Heimverträgen, jederzeit möglich",
+     "grundlage": "§ 11 Abs. 1 WBVG"
+    },
+    {
+     "wert": "4.180 € je Maßnahme",
+     "was": "Zuschuss der Pflegekasse zu wohnumfeldverbessernden Maßnahmen seit 1.1.2025 (zuvor 4.000 €)",
+     "grundlage": "§ 40 Abs. 4 SGB XI"
+    }
+   ],
+   "achtung": [
+    "Ein Pflegeheimplatz wird von der Pflegeversicherung nur bei anerkanntem Pflegegrad (mit)finanziert; ohne Pflegegrad trägt man die Kosten grundsätzlich vollständig selbst.",
+    "Der Leistungszuschlag mindert den Eigenanteil erst mit zunehmender Aufenthaltsdauer stufenweise – zu Beginn des Heimaufenthalts ist der Eigenanteil am höchsten.",
+    "Betreutes Wohnen ist überwiegend privat zu finanzieren; nur einzelne, klar abgrenzbare Leistungen (z. B. Hausnotruf) können als eigenständige Pflegeleistung übernommen werden."
+   ],
+   "fach_html": "\n<h3>Vollstationäre Pflege (§ 43 SGB XI) und Leistungszuschlag (§ 43c SGB XI)</h3>\n<p>Die Pflegekasse übernimmt bei vollstationärer Pflege einen nach Pflegegrad gestaffelten Betrag; der verbleibende einrichtungseinheitliche Eigenanteil (EEE) wird seit 2022 durch einen Leistungszuschlag der Pflegekasse gemindert, der mit der Dauer des Heimaufenthalts steigt (§ 43c SGB XI): 15 % im ersten Jahr, 30 % im zweiten Jahr, 50 % im dritten Jahr und 75 % ab dem vierten Jahr des Bezugs von Leistungen der vollstationären Pflege.</p>\n<h3>Wohn- und Betreuungsvertragsgesetz (WBVG)</h3>\n<p>Das WBVG regelt Verträge zwischen Verbraucherinnen/Verbrauchern und Unternehmen, die Wohnraum mit Pflege- oder Betreuungsleistungen anbieten. Es verpflichtet Anbieter zu vorvertraglichen Informationen über Leistungen und Entgelte (§ 3 WBVG) und räumt Verbraucherinnen und Verbrauchern ein Kündigungsrecht mit zweiwöchiger Frist zum Monatsende ein (§ 11 Abs. 1 WBVG), unabhängig von den längeren Fristen des allgemeinen Mietrechts.</p>\n<h3>Wohnraumanpassung (§ 40 Abs. 4 SGB XI)</h3>\n<p>Zur Verbesserung des individuellen Wohnumfelds (z. B. Barrierereduzierung im Bad) zahlt die Pflegekasse einen Zuschuss von bis zu 4.180 € je Maßnahme (Stand seit 1.1.2025, zuvor 4.000 €); bei mehreren Pflegebedürftigen im selben Haushalt ist der Zuschuss gedeckelt.</p>\n",
+   "zustaendig": [
+    "Pflegekasse",
+    "Heimaufsicht der Länder",
+    "Sozialamt (Hilfe zur Pflege bei ungedecktem Eigenanteil)"
+   ],
+   "belege": [
+    "§§ 40, 43, 43c SGB XI (gesetze-im-internet.de)",
+    "§§ 3, 11 WBVG (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "pflegegrad-beantragen",
+    "pflegeleistungen-und-pflegegeld",
+    "grundsicherung-im-alter"
+   ],
+   "stand": "Stand: September 2026"
+  },
+  {
+   "id": "grundsicherung-im-alter",
+   "kategorie": "geld",
+   "icon": "🧾",
+   "titel": "Grundsicherung im Alter",
+   "teaser": "Reicht die Rente nicht zum Leben, stockt die Grundsicherung im Alter das Einkommen bis zum Existenzminimum auf – Kinder haften dabei nur bei sehr hohem Einkommen.",
+   "schlagworte": [
+    "Grundsicherung im Alter",
+    "41 SGB XII",
+    "Schonvermögen",
+    "Angehörigen-Entlastungsgesetz",
+    "Regelbedarf",
+    "Nachranggrundsatz"
+   ],
+   "kurz_html": "\n<p>Die Grundsicherung im Alter und bei Erwerbsminderung ergänzt eine zu niedrige Rente oder ein zu niedriges Einkommen bis zur Höhe des sozialhilferechtlichen Existenzminimums. Anspruch besteht ab Erreichen der Regelaltersgrenze oder bei dauerhafter voller Erwerbsminderung. Anders als beim Grundsicherungsgeld für Erwerbsfähige müssen erwachsene Kinder nur dann für die Eltern aufkommen, wenn ihr eigenes Jahreseinkommen 100.000 € übersteigt.</p>\n",
+   "schritte": [
+    {
+     "titel": "Bedürftigkeit prüfen",
+     "text": "Vergleichen Sie Ihre Rente und sonstiges Einkommen mit dem sozialhilferechtlichen Bedarf (Regelbedarf plus Wohnkosten plus etwaige Mehrbedarfe)."
+    },
+    {
+     "titel": "Antrag stellen",
+     "text": "Stellen Sie den Antrag beim Sozialamt Ihrer Kommune; die Deutsche Rentenversicherung weist bei erkennbar niedriger Rente auf die Möglichkeit hin."
+    },
+    {
+     "titel": "Einkommen und Vermögen nachweisen",
+     "text": "Reichen Sie Nachweise zu Rente, sonstigen Einkünften und Vermögen ein."
+    },
+    {
+     "titel": "Bescheid prüfen",
+     "text": "Prüfen Sie, ob Regelbedarf, Unterkunftskosten und etwaige Mehrbedarfe korrekt berücksichtigt wurden."
+    },
+    {
+     "titel": "Änderungen sofort melden",
+     "text": "Melden Sie Einkommens- oder Vermögensänderungen unverzüglich, um Rückforderungen zu vermeiden."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "ab Antragsmonat",
+     "was": "Grundsicherung wird grundsätzlich nicht rückwirkend vor dem Monat der Antragstellung bzw. Kenntnis der Behörde erbracht",
+     "grundlage": "§ 44 SGB XII"
+    },
+    {
+     "wert": "in der Regel 12 Monate",
+     "was": "Üblicher Bewilligungszeitraum, danach ist ein Folgeantrag nötig",
+     "grundlage": "Praxis der Sozialämter"
+    }
+   ],
+   "achtung": [
+    "Erwachsene Kinder haften für ihre Eltern nur, wenn ihr eigenes Jahreseinkommen 100.000 € übersteigt (§ 43 Abs. 5 SGB XII, Angehörigen-Entlastungsgesetz) – das Sozialamt darf sie unterhalb dieser Schwelle grundsätzlich nicht in Regress nehmen.",
+    "Es gilt ein kleines Schonvermögen von 10.000 € pro Person, das nicht für den Bedarf eingesetzt werden muss (Verordnung zu § 90 Abs. 2 Nr. 9 SGB XII).",
+    "Die genaue Höhe der Regelbedarfsstufe 1 wird jährlich zum 1. Januar per Rechtsverordnung neu festgesetzt; der zum 1.1.2026 geltende Betrag ließ sich in dieser Recherche nicht amtlich verifizieren und wird hier daher bewusst nicht beziffert – aktuelle Beträge beim Sozialamt oder BMAS erfragen."
+   ],
+   "fach_html": "\n<h3>Anspruchsvoraussetzungen (§§ 41 ff. SGB XII)</h3>\n<p>Anspruch auf Grundsicherung im Alter haben Personen, die die Regelaltersgrenze erreicht haben und ihren Lebensunterhalt nicht aus eigenen Mitteln bestreiten können; bei dauerhafter voller Erwerbsminderung besteht der Anspruch unabhängig vom Alter. Die Leistung setzt sich aus dem maßgeblichen Regelbedarf, den angemessenen Kosten der Unterkunft und Heizung sowie etwaigen Mehrbedarfen (z. B. bei Vorliegen des Merkzeichens G) zusammen, abzüglich anzurechnenden Einkommens.</p>\n<h3>Angehörigen-Entlastungsgesetz</h3>\n<p>Seit dem Angehörigen-Entlastungsgesetz (2020) werden unterhaltspflichtige Kinder erst ab einem eigenen Jahresbruttoeinkommen von über 100.000 € vom Sozialamt zum Unterhalt herangezogen (§ 43 Abs. 5 SGB XII); unterhalb dieser Schwelle bleibt das Einkommen der Kinder für die Grundsicherung der Eltern unberücksichtigt.</p>\n<h3>Verhältnis zu anderen Leistungen</h3>\n<p>Grundsicherung ist gegenüber vorrangigen Leistungen wie Wohngeld nachrangig (Nachrangprinzip, § 2 SGB XII); kann der Bedarf bereits durch Wohngeld gedeckt werden, geht dieses der Grundsicherung vor.</p>\n",
+   "zustaendig": [
+    "Sozialamt/Grundsicherungsamt der Kommune"
+   ],
+   "belege": [
+    "§§ 2, 41–46a, 43 Abs. 5, 44, 90 Abs. 2 Nr. 9 SGB XII (gesetze-im-internet.de)",
+    "Angehörigen-Entlastungsgesetz (BGBl. 2019 I Nr. 51)"
+   ],
+   "siehe_auch": [
+    "altersrente-beantragen",
+    "steuererleichterungen-alter",
+    "beratung-anlaufstellen-senioren"
+   ],
+   "stand": "Stand: September 2026"
+  },
+  {
+   "id": "steuererleichterungen-alter",
+   "kategorie": "geld",
+   "icon": "📉",
+   "titel": "Steuererleichterungen im Alter",
+   "teaser": "Renten werden nur teilweise besteuert, und für weitere Einkünfte im Alter sowie für Pflegekosten gibt es eigene Freibeträge und Pauschbeträge.",
+   "schlagworte": [
+    "Besteuerungsanteil",
+    "Altersentlastungsbetrag",
+    "24a EStG",
+    "Pflege-Pauschbetrag",
+    "33b EStG",
+    "Rentenbezugsmitteilung"
+   ],
+   "kurz_html": "\n<p>Die gesetzliche gilt als nachgelagert besteuert: Der steuerpflichtige Anteil einer Rente richtet sich nach dem Jahr des Rentenbeginns und steigt für später beginnende Renten schrittweise an. Wer neben der Rente weitere Einkünfte hat (z. B. aus Vermietung oder Kapitalvermögen), kann zusätzlich den Altersentlastungsbetrag nutzen. Wer Angehörige pflegt oder selbst einen hohen Pflegegrad hat, kann außerdem einen Pflege-Pauschbetrag geltend machen.</p>\n",
+   "schritte": [
+    {
+     "titel": "Steuerpflicht der Rente prüfen",
+     "text": "Der Besteuerungsanteil richtet sich nach dem Jahr des Rentenbeginns und bleibt für die gesamte Rentenlaufzeit in Prozent gleich, während der steuerpflichtige Euro-Betrag durch jährliche Rentenanpassungen weiter steigt."
+    },
+    {
+     "titel": "Altersentlastungsbetrag nutzen",
+     "text": "Prüfen Sie, ob für zusätzliche Einkünfte außerhalb der Rente (z. B. Mieteinnahmen) der Altersentlastungsbetrag ab dem 65. Geburtstag infrage kommt."
+    },
+    {
+     "titel": "Pflege-Pauschbetrag geltend machen",
+     "text": "Pflegende Angehörige oder Betroffene mit hohem Pflegegrad können einen Pflege-Pauschbetrag statt des Einzelnachweises außergewöhnlicher Belastungen ansetzen."
+    },
+    {
+     "titel": "Steuererklärung rechtzeitig einreichen",
+     "text": "Prüfen Sie, ob eine Pflicht zur Abgabe einer Einkommensteuererklärung besteht, und nutzen Sie bei Bedarf einen Lohnsteuerhilfeverein oder Steuerberater."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "31. Juli des Folgejahres",
+     "was": "Regelfrist zur Abgabe der Einkommensteuererklärung ohne steuerliche Beratung",
+     "grundlage": "§ 149 AO"
+    }
+   ],
+   "achtung": [
+    "Auch wenn der Besteuerungsanteil für den eigenen Rentenjahrgang feststeht, steigt der in Euro steuerpflichtige Teil durch die jährliche Rentenanpassung zum 1. Juli weiter an.",
+    "Wird trotz Steuerpflicht keine Erklärung abgegeben, kann das Finanzamt schätzen und Verspätungszuschläge festsetzen.",
+    "Der Altersentlastungsbetrag gilt nicht für die Rente selbst, sondern nur für andere Einkünfte wie Miete, Kapitalerträge oder Arbeitslohn."
+   ],
+   "fach_html": "\n<h3>Besteuerungsanteil der Rente (§ 22 EStG)</h3>\n<p>Seit dem Alterseinkünftegesetz wird die gesetzliche Rente schrittweise nachgelagert besteuert. Der Besteuerungsanteil richtet sich nach dem Kalenderjahr des Rentenbeginns und wurde durch das Wachstumschancengesetz ab 2023 verlangsamt: Statt zuvor 1 Prozentpunkt steigt er seither nur noch um 0,5 Prozentpunkte pro Jahrgang, sodass die volle Besteuerung erst 2058 statt 2040 erreicht wird. Für 2026 beginnende Renten dürfte der Besteuerungsanteil bei rund 84 % liegen; der genaue amtliche Wert für den jeweiligen Rentenjahrgang sollte im Zweifel bei der Rentenbezugsmitteilung oder beim Finanzamt geprüft werden.</p>\n<h3>Altersentlastungsbetrag (§ 24a EStG)</h3>\n<p>Personen, die vor Beginn des Kalenderjahres das 64. Lebensjahr vollendet haben, erhalten auf bestimmte andere Einkünfte (nicht auf die Rente selbst) einen Altersentlastungsbetrag als Prozentsatz mit Höchstbetrag, der sich ebenfalls nach dem Geburtsjahrgang richtet und – parallel zur Rentenbesteuerung – durch das Wachstumschancengesetz langsamer sinkt als ursprünglich vorgesehen. Die genauen Eurobeträge je Geburtsjahrgang für 2026 wurden in dieser Recherche nicht abschließend geprüft und sollten beim Finanzamt oder Lohnsteuerhilfeverein erfragt werden.</p>\n<h3>Pflege-Pauschbetrag (§ 33b Abs. 6 EStG)</h3>\n<p>Seit der Reform 2021 ist der Pflege-Pauschbetrag unabhängig vom Merkzeichen „H“ auch bei entsprechendem Pflegegrad nutzbar und beträgt gestaffelt 600 € (Pflegegrad 2), 1.100 € (Pflegegrad 3) und 1.800 € (Pflegegrad 4 oder 5 bzw. bei Vorliegen des Merkzeichens H).</p>\n",
+   "zustaendig": [
+    "Finanzamt",
+    "Lohnsteuerhilfevereine"
+   ],
+   "belege": [
+    "§§ 22, 24a, 33b EStG (gesetze-im-internet.de)",
+    "Wachstumschancengesetz (BGBl. 2024 I Nr. 108)",
+    "§ 149 AO (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "altersrente-beantragen",
+    "grundsicherung-im-alter",
+    "hinzuverdienst-im-rentenalter"
+   ],
+   "stand": "Stand: September 2026"
+  },
+  {
+   "id": "krankenversicherung-zuzahlungen",
+   "kategorie": "gesundheit",
+   "icon": "🩺",
+   "titel": "Krankenversicherung und Zuzahlungen",
+   "teaser": "Zuzahlungen zu Medikamenten, Heil- und Hilfsmitteln sind gedeckelt – wer die Belastungsgrenze erreicht, kann sich von weiteren Zuzahlungen befreien lassen.",
+   "schlagworte": [
+    "Krankenversicherung der Rentner",
+    "Belastungsgrenze",
+    "62 SGB V",
+    "Zuzahlung",
+    "Chronikerregelung",
+    "Befreiung"
+   ],
+   "kurz_html": "\n<p>Rentnerinnen und Rentner sind in der Regel als Pflichtmitglieder in der Krankenversicherung der Rentner (KVdR) versichert, wenn sie die Vorversicherungszeit erfüllen. Für Arzneimittel, Heilmittel und Krankenhausaufenthalte fallen gesetzliche Zuzahlungen an. Diese sind pro Kalenderjahr auf eine Belastungsgrenze gedeckelt, die sich an den Bruttoeinnahmen zum Lebensunterhalt orientiert; wer diese Grenze erreicht, kann sich von der Krankenkasse befreien lassen.</p>\n",
+   "schritte": [
+    {
+     "titel": "Zuzahlungsbelege sammeln",
+     "text": "Bewahren Sie alle Quittungen über Zuzahlungen zu Arzneimitteln, Heil- und Hilfsmitteln sowie Krankenhausaufenthalten auf."
+    },
+    {
+     "titel": "Belastungsgrenze berechnen",
+     "text": "Ermitteln Sie anhand Ihrer jährlichen Bruttoeinnahmen zum Lebensunterhalt, ob die 2-Prozent- bzw. bei chronischer Erkrankung die 1-Prozent-Grenze erreicht ist."
+    },
+    {
+     "titel": "Befreiungsantrag stellen",
+     "text": "Reichen Sie die Belege bei der Krankenkasse ein und beantragen Sie die Befreiung von weiteren Zuzahlungen für das laufende Kalenderjahr."
+    },
+    {
+     "titel": "Chronikerstatus klären lassen",
+     "text": "Lassen Sie prüfen, ob Sie die Voraussetzungen der Chronikerregelung erfüllen, damit für Sie die niedrigere 1-Prozent-Grenze gilt."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "Kalenderjahr",
+     "was": "Die Belastungsgrenze wird stets für ein Kalenderjahr berechnet; nicht verbrauchte Zuzahlungen werden nicht ins Folgejahr übertragen",
+     "grundlage": "§ 62 SGB V"
+    }
+   ],
+   "achtung": [
+    "Zuzahlungen zu Arzneimitteln betragen 10 % des Preises, mindestens 5 € und höchstens 10 €, nie mehr als die tatsächlichen Kosten (§ 61 SGB V).",
+    "Bei Krankenhausaufenthalten fallen 10 € pro Tag an, begrenzt auf höchstens 28 Tage im Kalenderjahr.",
+    "Die niedrigere Chroniker-Belastungsgrenze von 1 % setzt eine kontinuierliche ärztliche Behandlung wegen derselben schweren Erkrankung sowie weitere in der Chroniker-Richtlinie genannte Voraussetzungen voraus – ein hoher Pflegegrad oder Behinderungsgrad allein genügt nicht immer automatisch."
+   ],
+   "fach_html": "\n<h3>Zuzahlungen (§ 61 SGB V)</h3>\n<p>Gesetzlich Versicherte zahlen zu verordneten Arznei-, Verband-, Heil- und Hilfsmitteln 10 % des Abgabepreises, mindestens 5 € und höchstens 10 €, jedoch nie mehr als die tatsächlichen Kosten des Mittels. Bei vollstationärer Krankenhausbehandlung werden 10 € je Kalendertag für höchstens 28 Tage im Jahr erhoben.</p>\n<h3>Belastungsgrenze (§ 62 SGB V)</h3>\n<p>Zuzahlungen sind pro Kalenderjahr auf 2 % der jährlichen Bruttoeinnahmen zum Lebensunterhalt des Haushalts begrenzt, bei schwerwiegend chronisch Kranken auf 1 %. Wird die Grenze erreicht, stellt die Krankenkasse auf Antrag eine Befreiung für den Rest des Jahres aus.</p>\n<h3>Krankenversicherung der Rentner (§ 5 Abs. 1 Nr. 11 SGB V)</h3>\n<p>Pflichtversichert in der KVdR ist, wer in der zweiten Hälfte des Erwerbslebens mindestens neun Zehntel der Zeit gesetzlich versichert war (Vorversicherungszeit). Wird diese Zeit nicht erfüllt, erfolgt die Versicherung als freiwillig Versicherter, meist mit höheren Beiträgen.</p>\n",
+   "zustaendig": [
+    "Gesetzliche Krankenkasse"
+   ],
+   "belege": [
+    "§§ 5, 61, 62 SGB V (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "grundsicherung-im-alter",
+    "pflegeleistungen-und-pflegegeld"
+   ],
+   "stand": "Stand: September 2026"
+  },
+  {
+   "id": "patientenverfuegung-vorsorgevollmacht",
+   "kategorie": "vorsorge",
+   "icon": "📜",
+   "titel": "Patientenverfügung und Vorsorgevollmacht",
+   "teaser": "Ohne Vorsorgevollmacht oder Patientenverfügung bestellt das Betreuungsgericht im Ernstfall eine rechtliche Betreuung – selbst für Ehepartner gilt seit 2023 nur ein zeitlich befristetes Notvertretungsrecht.",
+   "schlagworte": [
+    "Patientenverfügung",
+    "1827 BGB",
+    "Vorsorgevollmacht",
+    "Ehegattennotvertretungsrecht",
+    "1358 BGB",
+    "Vorsorgeregister"
+   ],
+   "kurz_html": "\n<p>Wer im Ernstfall selbst nicht mehr entscheiden kann, sollte vorher schriftlich festlegen, wer für ihn handeln darf und welche medizinischen Behandlungen gewünscht oder abgelehnt werden. Eine Vorsorgevollmacht bestimmt eine Vertrauensperson für Vermögens- und Gesundheitsangelegenheiten, eine Patientenverfügung legt konkrete Behandlungswünsche fest. Seit 2023 dürfen sich Ehegatten zwar für bis zu sechs Monate in Gesundheitsfragen gegenseitig vertreten, das ersetzt aber keine dauerhafte, umfassende Vorsorge.</p>\n",
+   "schritte": [
+    {
+     "titel": "Dokumente unterscheiden",
+     "text": "Machen Sie sich klar, dass Vorsorgevollmacht, Betreuungsverfügung und Patientenverfügung unterschiedliche Zwecke haben und sich sinnvoll ergänzen."
+    },
+    {
+     "titel": "Vertrauensperson auswählen",
+     "text": "Bestimmen Sie eine oder mehrere Personen Ihres Vertrauens für die Vorsorgevollmacht."
+    },
+    {
+     "titel": "Dokumente schriftlich verfassen",
+     "text": "Verfassen Sie die Patientenverfügung schriftlich mit möglichst konkreten Behandlungssituationen; für bestimmte Vollmachtsinhalte (z. B. Grundstücksgeschäfte) ist notarielle Beurkundung erforderlich."
+    },
+    {
+     "titel": "Im Vorsorgeregister eintragen lassen",
+     "text": "Lassen Sie die Vollmacht im Zentralen Vorsorgeregister der Bundesnotarkammer registrieren, damit sie im Ernstfall schnell gefunden wird."
+    },
+    {
+     "titel": "Regelmäßig aktualisieren",
+     "text": "Überprüfen und aktualisieren Sie die Dokumente in regelmäßigen Abständen und nach wichtigen Lebensereignissen."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "bis zu 6 Monate",
+     "was": "Zeitliche Befristung des gesetzlichen Ehegattennotvertretungsrechts in Gesundheitsangelegenheiten",
+     "grundlage": "§ 1358 Abs. 4 BGB"
+    }
+   ],
+   "achtung": [
+    "Eine Patientenverfügung sollte nach der Rechtsprechung konkrete Behandlungssituationen und -maßnahmen benennen; rein pauschale Formulierungen wie „keine lebensverlängernden Maßnahmen“ können im Ernstfall als unwirksam oder nicht hinreichend konkret gewertet werden.",
+    "Eine privatschriftliche Vorsorgevollmacht reicht nicht für alle Geschäfte aus – für Grundstücksgeschäfte oder Kreditaufnahmen ist notarielle Beurkundung erforderlich.",
+    "Ohne jede Vorsorge bestellt das Betreuungsgericht eine rechtliche Betreuung, wobei nicht zwingend der nächste Angehörige ausgewählt wird."
+   ],
+   "fach_html": "\n<h3>Betreuungsrechtsreform 2023</h3>\n<p>Zum 1. Januar 2023 wurden die Vorschriften zum Betreuungsrecht im Buch 4 des BGB neu geordnet. Die Patientenverfügung ist seither in § 1827 BGB geregelt (zuvor § 1901a BGB a. F.), der Vorrang einer wirksamen Vollmacht vor der Bestellung eines Betreuers ergibt sich aus § 1820 BGB.</p>\n<h3>Ehegattennotvertretungsrecht (§ 1358 BGB)</h3>\n<p>Neu eingeführt wurde ein gesetzliches, auf Gesundheitsangelegenheiten begrenztes Vertretungsrecht unter Ehegatten: Kann ein Ehegatte aufgrund von Bewusstlosigkeit oder Krankheit seine Angelegenheiten der Gesundheitssorge vorübergehend nicht selbst besorgen, kann der andere Ehegatte ihn in bestimmten Grenzen vertreten – befristet auf höchstens sechs Monate und nur, wenn kein entgegenstehender Wille dokumentiert oder im Vorsorgeregister ein Widerspruch eingetragen ist.</p>\n<h3>Rechtliche Betreuung als Auffanglösung (§ 1814 BGB)</h3>\n<p>Fehlt jede Vorsorge und kann eine Person ihre Angelegenheiten nicht mehr selbst regeln, bestellt das Betreuungsgericht auf Anregung eine rechtliche Betreuung; diese ist stets nachrangig gegenüber einer wirksamen Vorsorgevollmacht.</p>\n",
+   "zustaendig": [
+    "Betreuungsgericht (nur ohne Vorsorge)",
+    "Notar (Beurkundung)",
+    "Bundesnotarkammer (Vorsorgeregister)",
+    "Betreuungsverein/Betreuungsbehörde (Beratung)"
+   ],
+   "belege": [
+    "§§ 1358, 1814, 1820, 1827 BGB (gesetze-im-internet.de, Fassung seit 1.1.2023)"
+   ],
+   "siehe_auch": [
+    "erbrecht-testament-grundlagen",
+    "beratung-anlaufstellen-senioren"
+   ],
+   "stand": "Stand: September 2026"
+  },
+  {
+   "id": "erbrecht-testament-grundlagen",
+   "kategorie": "vorsorge",
+   "icon": "🖋️",
+   "titel": "Erbrecht und Testament: Grundlagen",
+   "teaser": "Ohne Testament gilt die gesetzliche Erbfolge, die den Ehepartner nicht automatisch zum Alleinerben macht – ein eigenhändiges Testament muss vollständig handgeschrieben sein.",
+   "schlagworte": [
+    "Gesetzliche Erbfolge",
+    "Pflichtteil",
+    "1931 BGB",
+    "Eigenhändiges Testament",
+    "Berliner Testament",
+    "Erbschaftsteuer-Freibetrag"
+   ],
+   "kurz_html": "\n<p>Ohne Testament erben nach der gesetzlichen Erbfolge Ehepartner und Verwandte nach einer festen Quote – der Ehepartner wird dabei nicht automatisch Alleinerbe. Wer andere Regelungen möchte, kann ein Testament errichten: entweder eigenhändig und vollständig handschriftlich verfasst oder notariell beurkundet. Pflichtteilsberechtigte Angehörige können auch bei einem Testament, das sie übergeht, einen Geldanspruch geltend machen.</p>\n",
+   "schritte": [
+    {
+     "titel": "Vermögen und Angehörige auflisten",
+     "text": "Verschaffen Sie sich einen Überblick über Vermögen und mögliche gesetzliche Erben."
+    },
+    {
+     "titel": "Gesetzliche Erbfolge prüfen",
+     "text": "Prüfen Sie, ob das Ergebnis der gesetzlichen gewünscht wird oder ob ein Testament nötig ist – der Güterstand der Ehe beeinflusst die Erbquote des Ehepartners."
+    },
+    {
+     "titel": "Testamentsform wählen",
+     "text": "Entscheiden Sie zwischen einem eigenhändigen Testament oder einem notariellen Testament, je nach Komplexität des Nachlasses."
+    },
+    {
+     "titel": "Pflichtteilsberechtigte bedenken",
+     "text": "Beziehen Sie mögliche Pflichtteilsansprüche von Kindern oder Ehepartnern in die Planung ein."
+    },
+    {
+     "titel": "Testament sicher hinterlegen",
+     "text": "Hinterlegen Sie das Testament beim Nachlassgericht und lassen Sie es im Zentralen Testamentsregister registrieren."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "6 Wochen",
+     "was": "Frist zur Ausschlagung einer Erbschaft ab Kenntnis von Erbfall und Berufungsgrund (3 Monate bei Auslandsbezug)",
+     "grundlage": "§ 1944 BGB"
+    }
+   ],
+   "achtung": [
+    "Der Ehepartner wird ohne Testament nicht automatisch Alleinerbe; seine gesetzliche Erbquote hängt vom Güterstand der Ehe und davon ab, welche weiteren Verwandten vorhanden sind (§ 1931 BGB).",
+    "Pflichtteilsansprüche (in der Regel die Hälfte des gesetzlichen Erbteils) lassen sich durch ein Testament nicht vollständig ausschließen.",
+    "Ein eigenhändiges Testament muss vollständig von Hand geschrieben und unterschrieben sein; ein am Computer geschriebenes und nur unterschriebenes Testament ist unwirksam."
+   ],
+   "fach_html": "\n<h3>Gesetzliche Erbfolge und Ehegattenerbrecht (§ 1931 BGB)</h3>\n<p>Neben Verwandten erster und zweiter Ordnung erhält der Ehepartner nach § 1931 BGB grundsätzlich ein Viertel des Nachlasses neben Kindern, erhöht um ein weiteres Viertel als pauschalen Zugewinnausgleich, wenn die Ehe im gesetzlichen Güterstand der Zugewinngemeinschaft geführt wurde – im Ergebnis meist die Hälfte neben Kindern.</p>\n<h3>Pflichtteil (§ 2303 BGB)</h3>\n<p>Kinder, Ehepartner und unter bestimmten Voraussetzungen Eltern des Erblassers, die durch Testament von der Erbfolge ausgeschlossen wurden, können einen Geldanspruch in Höhe der Hälfte des Werts ihres gesetzlichen Erbteils verlangen.</p>\n<h3>Testamentsformen</h3>\n<p>Das eigenhändige Testament (§ 2247 BGB) muss vollständig handschriftlich verfasst, datiert und unterschrieben sein. Das notarielle Testament (§ 2232 BGB) wird vor einem Notar errichtet. Ehegatten können zusätzlich ein gemeinschaftliches Testament, etwa als sogenanntes Berliner Testament, errichten (§§ 2265 ff. BGB).</p>\n<h3>Erbschaftsteuer-Freibeträge (§ 16 ErbStG)</h3>\n<p>Persönliche Freibeträge bestehen u. a. für Ehepartner (500.000 €), Kinder (400.000 € je Kind) und Enkelkinder (200.000 €); für sonstige Erben gilt ein deutlich niedrigerer Freibetrag von 20.000 €.</p>\n",
+   "zustaendig": [
+    "Nachlassgericht (Amtsgericht)",
+    "Notar",
+    "Zentrales Testamentsregister der Bundesnotarkammer",
+    "Finanzamt (Erbschaftsteuer)"
+   ],
+   "belege": [
+    "§§ 1931, 1944, 2247, 2265, 2303 BGB (gesetze-im-internet.de)",
+    "§ 16 ErbStG (gesetze-im-internet.de)"
+   ],
+   "siehe_auch": [
+    "patientenverfuegung-vorsorgevollmacht",
+    "beratung-anlaufstellen-senioren"
+   ],
+   "stand": "Stand: September 2026"
+  },
+  {
+   "id": "betrug-und-schutz-vor-abzocke",
+   "kategorie": "schutz",
+   "icon": "🚨",
+   "titel": "Betrug und Schutz vor Abzocke",
+   "teaser": "Enkeltrick, falsche Polizeibeamte und Haustürgeschäfte gehören zu den häufigsten Betrugsformen gegenüber älteren Menschen – bei Haustürgeschäften hilft ein 14-tägiges Widerrufsrecht.",
+   "schlagworte": [
+    "Enkeltrick",
+    "Falsche Polizeibeamte",
+    "Widerrufsrecht",
+    "355 BGB",
+    "Haustürgeschäft",
+    "312g BGB"
+   ],
+   "kurz_html": "\n<p>Betrügerische Anrufe von angeblichen Enkeln oder Polizeibeamten, Gewinnversprechen und aufdringliche Verkaufsgespräche an der Haustür zielen häufig gezielt auf ältere Menschen. Wichtigster Schutz ist, sich am Telefon oder an der Haustür nie unter Druck setzen zu lassen und niemals Geld oder Wertsachen an Unbekannte zu übergeben. Wer an der Haustür einen Vertrag unterschrieben hat, kann ihn innerhalb von 14 Tagen ohne Angabe von Gründen widerrufen.</p>\n",
+   "schritte": [
+    {
+     "titel": "Nie unter Druck entscheiden",
+     "text": "Lassen Sie sich am Telefon oder an der Haustür nicht zu sofortigen Entscheidungen, Geld- oder Wertsachenübergaben drängen."
+    },
+    {
+     "titel": "Identität eigenständig prüfen",
+     "text": "Rufen Sie bei Zweifeln selbst über eine bekannte, offizielle Telefonnummer zurück, statt die von der anrufenden Person genannte Nummer zu nutzen."
+    },
+    {
+     "titel": "Sofort auflegen und Hilfe holen",
+     "text": "Legen Sie bei Verdacht auf und wenden Sie sich an die Polizei (110) oder eine Vertrauensperson."
+    },
+    {
+     "titel": "Widerrufsrecht bei Haustürgeschäften nutzen",
+     "text": "Widerrufen Sie einen an der Haustür geschlossenen Vertrag innerhalb von 14 Tagen schriftlich."
+    },
+    {
+     "titel": "Anzeige erstatten",
+     "text": "Erstatten Sie bei einem Betrugsversuch oder -fall Anzeige bei der Polizei und informieren Sie die Verbraucherzentrale."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "14 Tage",
+     "was": "Widerrufsfrist bei Haustürgeschäften und Fernabsatzverträgen ab Vertragsschluss bzw. ordnungsgemäßer Widerrufsbelehrung",
+     "grundlage": "§ 355 BGB i. V. m. § 312g BGB"
+    },
+    {
+     "wert": "bis zu 12 Monate und 14 Tage",
+     "was": "Verlängerte Widerrufsfrist, wenn die Widerrufsbelehrung fehlerhaft war oder ganz fehlte",
+     "grundlage": "§ 356 Abs. 3 BGB"
+    }
+   ],
+   "achtung": [
+    "Echte Polizeibeamtinnen und -beamte fragen niemals nach Bargeld, Bankdaten, PIN oder TAN und bitten nie um „Testkäufe“ bei der eigenen Bank.",
+    "Verträge, die an der Haustür angeboten werden, sollten grundsätzlich nicht sofort unterschrieben werden – bei Unsicherheit lieber ablehnen und später in Ruhe prüfen.",
+    "Bei angeblichen Gewinnspielen, die eine Vorabgebühr verlangen, handelt es sich fast immer um Betrug."
+   ],
+   "fach_html": "\n<h3>Widerrufsrecht bei Haustürgeschäften (§§ 312g, 355, 356 BGB)</h3>\n<p>Verträge, die außerhalb von Geschäftsräumen (z. B. an der Haustür) oder im Fernabsatz geschlossen werden, können Verbraucherinnen und Verbraucher innerhalb von 14 Tagen ohne Angabe von Gründen widerrufen (§ 312g i. V. m. § 355 BGB). Fehlt die vorgeschriebene Widerrufsbelehrung oder ist sie fehlerhaft, verlängert sich die Frist auf bis zu zwölf Monate und 14 Tage (§ 356 Abs. 3 BGB).</p>\n<h3>Strafrechtliche Einordnung</h3>\n<p>Betrügerische Maschen wie der Enkeltrick oder falsche Polizeibeamte erfüllen in der Regel den Straftatbestand des Betrugs (§ 263 StGB); die polizeiliche Kriminalprävention der Länder und des Bundes veröffentlicht regelmäßig aktualisierte Warnhinweise und Präventionsmaterialien zu aktuellen Betrugsmaschen.</p>\n",
+   "zustaendig": [
+    "Polizei",
+    "Verbraucherzentrale",
+    "Staatsanwaltschaft"
+   ],
+   "belege": [
+    "§§ 312g, 355, 356 BGB (gesetze-im-internet.de)",
+    "§ 263 StGB (gesetze-im-internet.de)",
+    "Programm Polizeiliche Kriminalprävention der Länder und des Bundes (ProPK), Veröffentlichungen 2026"
+   ],
+   "siehe_auch": [
+    "digitale-teilhabe-hilfe",
+    "beratung-anlaufstellen-senioren"
+   ],
+   "stand": "Stand: September 2026"
+  },
+  {
+   "id": "digitale-teilhabe-hilfe",
+   "kategorie": "schutz",
+   "icon": "💻",
+   "titel": "Digitale Teilhabe und Hilfe",
+   "teaser": "Digitale Behördengänge und barrierefreie Online-Angebote sollen den Alltag erleichtern – wer dabei Unterstützung braucht, findet kostenfreie Lern- und Beratungsangebote.",
+   "schlagworte": [
+    "Barrierefreiheitsstärkungsgesetz",
+    "Onlinezugangsgesetz",
+    "Digitale Teilhabe",
+    "Digital-Kompass",
+    "Datenschutz",
+    "Verbraucherzentrale"
+   ],
+   "kurz_html": "\n<p>Immer mehr Bank-, Handels- und Verwaltungsangebote laufen digital ab. Seit dem 28. Juni 2025 müssen viele private Anbieter digitaler Dienstleistungen (z. B. Online-Banking, E-Commerce) nach dem Barrierefreiheitsstärkungsgesetz barrierefrei gestaltet sein. Für den Einstieg oder die Vertiefung digitaler Kenntnisse gibt es kostenfreie, speziell für Seniorinnen und Senioren konzipierte Lern- und Beratungsangebote.</p>\n",
+   "schritte": [
+    {
+     "titel": "Passendes Lernangebot finden",
+     "text": "Nutzen Sie Volkshochschulkurse, Seniorenbüros oder das Angebot „Digital-Kompass“ von BAGSO und Verbraucherzentrale für den Einstieg."
+    },
+    {
+     "titel": "Grundschutz einrichten",
+     "text": "Richten Sie sichere Passwörter, Softwareupdates und wenn möglich eine Zwei-Faktor-Authentisierung für wichtige Konten ein."
+    },
+    {
+     "titel": "Online-Behördengänge schrittweise ausprobieren",
+     "text": "Testen Sie digitale Angebote wie die Renteninformation online zunächst gemeinsam mit einer Vertrauensperson oder in einer Beratungsstelle."
+    },
+    {
+     "titel": "Bei Problemen Beratung nutzen",
+     "text": "Wenden Sie sich bei Unsicherheiten oder Problemen an die Verbraucherzentrale oder ein Seniorenbüro."
+    }
+   ],
+   "fristen": [
+    {
+     "wert": "seit 28.6.2025",
+     "was": "Anwendungsbeginn der Barrierefreiheitspflichten für viele private digitale Dienstleistungen",
+     "grundlage": "Barrierefreiheitsstärkungsgesetz (BFSG)"
+    }
+   ],
+   "achtung": [
+    "Ob und in welchem Umfang bundesweit ein einheitlicher Rechtsanspruch auf eine analoge Alternative zu Online-Verwaltungsleistungen besteht, ließ sich in dieser Recherche nicht abschließend klären – im Zweifel bei der jeweiligen Behörde nachfragen, ob persönliche oder telefonische Wege weiterhin angeboten werden.",
+    "Digitale Angebote sollten nur über offizielle, bekannte Adressen und Apps genutzt werden, nicht über Links aus unaufgefordert zugesandten E-Mails oder Nachrichten.",
+    "Kostenfreie, unabhängige Unterstützung bieten Verbraucherzentralen und Seniorenbüros – kostenpflichtige „Computerhilfe“ an der Haustür sollte kritisch geprüft werden."
+   ],
+   "fach_html": "\n<h3>Barrierefreiheitsstärkungsgesetz (BFSG)</h3>\n<p>Das BFSG setzt die europäische Barrierefreiheitsrichtlinie in deutsches Recht um und verpflichtet Anbieter bestimmter Produkte und Dienstleistungen (u. a. E-Commerce, Bankdienstleistungen für Verbraucher, Personenbeförderungsdienste) seit dem 28. Juni 2025 zu barrierefreier Gestaltung.</p>\n<h3>Onlinezugangsgesetz (OZG)</h3>\n<p>Das OZG verpflichtet Bund und Länder, Verwaltungsleistungen auch digital anzubieten. Es regelt in erster Linie die Pflicht der Verwaltung zur Digitalisierung, nicht abschließend, ob und wie lange parallel eine analoge Alternative angeboten werden muss – dies ist je nach Behörde und Leistung unterschiedlich ausgestaltet.</p>\n<h3>Unterstützungsangebote</h3>\n<p>Neben Volkshochschulen bieten die Bundesarbeitsgemeinschaft der Seniorenorganisationen (BAGSO) gemeinsam mit den Verbraucherzentralen im Projekt „Digital-Kompass“ sowie das Portal „Silver Tipps“ kostenfreie, niedrigschwellige Lernangebote speziell für ältere Menschen.</p>\n",
+   "zustaendig": [
+    "Verbraucherzentrale",
+    "Volkshochschulen",
+    "Seniorenbüros",
+    "BAGSO"
+   ],
+   "belege": [
+    "Barrierefreiheitsstärkungsgesetz (BGBl. 2021 I Nr. 43, Anwendung ab 28.6.2025)",
+    "Onlinezugangsgesetz (OZG)",
+    "BAGSO/Verbraucherzentrale, Digital-Kompass, Stand 2026"
+   ],
+   "siehe_auch": [
+    "betrug-und-schutz-vor-abzocke",
+    "beratung-anlaufstellen-senioren"
+   ],
+   "stand": "Stand: September 2026"
+  },
+  {
+   "id": "beratung-anlaufstellen-senioren",
+   "kategorie": "beratung",
+   "icon": "📞",
+   "titel": "Beratung und Anlaufstellen für Senioren",
+   "teaser": "Wer ist wofür zuständig – und wo bekommen Sie unabhängige, kostenfreie Unterstützung bei Rente, Pflege, Sozialleistungen und Recht?",
+   "schlagworte": [
+    "Pflegestützpunkt",
+    "7c SGB XI",
+    "Rentenberater",
+    "10 RDG",
+    "Sozialverband",
+    "Verbraucherzentrale"
+   ],
+   "kurz_html": "\n<p>Für nahezu jedes Anliegen im Alter gibt es unabhängige, kostenfreie Beratung: Pflegestützpunkte für Pflegefragen, die Deutsche Rentenversicherung für die Rente, Sozialverbände wie VdK oder SoVD für Mitglieder, Verbraucherzentralen für Vertrags- und Betrugsfragen sowie Betreuungsvereine für Vorsorgefragen. Kommerzielle Angebote, die Geld für Rentenberatung verlangen, dürfen solche Beratung nur mit einer Zulassung als registrierter Rentenberater anbieten.</p>\n",
+   "schritte": [
+    {
+     "titel": "Thema einordnen",
+     "text": "Klären Sie, ob es um Rente, Pflege, Sozialhilfe, Vorsorge/Erbrecht oder Verbraucherschutz geht."
+    },
+    {
+     "titel": "Passende Stelle wählen",
+     "text": "Wählen Sie eine unabhängige und kostenfreie Beratungsstelle, statt sich an kommerzielle Angebote unbekannter Herkunft zu wenden."
+    },
+    {
+     "titel": "Termin vereinbaren",
+     "text": "Vereinbaren Sie einen Termin und bringen Sie relevante Unterlagen (Bescheide, Verträge, Versicherungsnachweise) mit."
+    },
+    {
+     "titel": "Ergänzend Fachleute hinzuziehen",
+     "text": "Ziehen Sie bei Bedarf zusätzlich einen Fachanwalt, Notar oder Steuerberater hinzu, etwa für Testament oder Steuerfragen."
+    }
+   ],
+   "fristen": [],
+   "achtung": [
+    "Pflegestützpunkte, die Deutsche Rentenversicherung, Betreuungsbehörden und Verbraucherzentralen beraten kostenfrei – seien Sie skeptisch bei kostenpflichtigen Angeboten, die sich als amtliche Beratung ausgeben.",
+    "Rentenberatung außerhalb der Deutschen Rentenversicherung und der zugelassenen Verbände darf nach dem Rechtsdienstleistungsgesetz nur von hierfür registrierten Rentenberatern erbracht werden.",
+    "Der Status und die Trägerschaft der bundesweiten unabhängigen Patientenberatung haben sich in den letzten Jahren mehrfach geändert; die aktuelle Trägerstruktur wurde in dieser Recherche nicht abschließend geprüft – aktuelle Kontaktdaten beim Bundesgesundheitsministerium oder der jeweiligen Krankenkasse erfragen."
+   ],
+   "fach_html": "\n<h3>Pflegestützpunkte (§ 7c SGB XI)</h3>\n<p>Pflegestützpunkte bieten wohnortnahe, trägerunabhängige Beratung zu Pflege- und Unterstützungsangeboten und sind in den meisten Bundesländern flächendeckend eingerichtet.</p>\n<h3>Registrierte Rentenberater (§ 10 RDG)</h3>\n<p>Rechtsdienstleistungen in Rentenangelegenheiten außerhalb der gesetzlichen Rentenversicherung und der Sozialverbände dürfen nach dem Rechtsdienstleistungsgesetz nur von bei der zuständigen Stelle registrierten Rentenberaterinnen und Rentenberatern erbracht werden.</p>\n<h3>Sozialverbände</h3>\n<p>Sozialverbände wie der Sozialverband VdK oder der Sozialverband Deutschland (SoVD) bieten ihren Mitgliedern Beratung und Unterstützung bei Widersprüchen und Klagen in Renten-, Pflege- und Schwerbehindertenangelegenheiten.</p>\n",
+   "zustaendig": [
+    "Pflegestützpunkte",
+    "Deutsche Rentenversicherung",
+    "Sozialämter",
+    "Verbraucherzentralen",
+    "Betreuungsvereine/-behörden",
+    "Sozialverbände (VdK, SoVD)"
+   ],
+   "belege": [
+    "§ 7c SGB XI (gesetze-im-internet.de)",
+    "§ 10 Rechtsdienstleistungsgesetz – RDG (gesetze-im-internet.de)",
+    "BAGSO/BMAS, Verzeichnisse von Beratungsstellen, Stand 2026"
+   ],
+   "siehe_auch": [
+    "ueberblick-rechte-im-alter",
+    "grundsicherung-im-alter",
+    "pflegegrad-beantragen"
+   ],
+   "stand": "Stand: September 2026"
+  }
+ ]
+}

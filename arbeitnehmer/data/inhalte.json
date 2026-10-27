@@ -1,0 +1,1095 @@
+{
+  "kategorien": [
+    {
+      "id": "ueberblick",
+      "titel": "Überblick",
+      "icon": "🧭",
+      "beschreibung": "Grundlagen: was ein Arbeitsvertrag regelt, welche Rechte gesetzlich verankert sind und wo diese Rechte enden."
+    },
+    {
+      "id": "vertrag",
+      "titel": "Arbeitsvertrag & Befristung",
+      "icon": "📄",
+      "beschreibung": "Vertragsinhalte, Nachweispflicht und die Regeln für befristete Arbeitsverhältnisse."
+    },
+    {
+      "id": "kuendigung",
+      "titel": "Kündigung & Konflikt",
+      "icon": "⚖️",
+      "beschreibung": "Kündigungsschutz, Klagefristen, Abmahnungen und das Arbeitszeugnis."
+    },
+    {
+      "id": "geld-zeit",
+      "titel": "Geld, Zeit & Ausfall",
+      "icon": "💶",
+      "beschreibung": "Lohnfortzahlung, Urlaub, Mindestlohn, Arbeitszeit, Überstunden und Kurzarbeit."
+    },
+    {
+      "id": "mitbestimmung",
+      "titel": "Betriebsrat & Mitbestimmung",
+      "icon": "🤝",
+      "beschreibung": "Wie der Betriebsrat gewählt wird und wobei er mitbestimmen darf."
+    },
+    {
+      "id": "schutz",
+      "titel": "Schutz am Arbeitsplatz",
+      "icon": "🛡️",
+      "beschreibung": "Mobbing, Diskriminierung, Arbeitsschutz sowie Arbeitsunfälle und Berufskrankheiten."
+    },
+    {
+      "id": "beratung",
+      "titel": "Beratung & Anlaufstellen",
+      "icon": "📍",
+      "beschreibung": "Wo Sie sich unabhängig und meist kostengünstig beraten lassen können."
+    }
+  ],
+  "seiten": [
+    {
+      "id": "ueberblick-rechte-arbeitnehmer",
+      "kategorie": "ueberblick",
+      "titel": "Überblick: Rechte und Pflichten im Arbeitsverhältnis",
+      "icon": "🧭",
+      "teaser": "Ein erster Überblick, welche Rechte und Pflichten ein Arbeitsverhältnis in Deutschland prägen – und wo Sie auf den folgenden Seiten mehr dazu finden.",
+      "schlagworte": [
+        "Arbeitsvertrag",
+        "Nachweisgesetz",
+        "Direktionsrecht",
+        "AGG",
+        "Weisungsrecht",
+        "Treuepflicht"
+      ],
+      "kurz_html": "<p>Ein Arbeitsverhältnis ist ein Vertrag: Sie schulden Ihre Arbeitsleistung, der Arbeitgeber schuldet Ihnen Vergütung, Fürsorge und die Einhaltung zahlreicher Schutzgesetze. Vieles davon steht nicht im Arbeitsvertrag selbst, sondern ergibt sich aus Gesetzen wie dem Bürgerlichen Gesetzbuch (BGB), dem Nachweisgesetz (NachwG), der Gewerbeordnung (GewO) und dem Allgemeinen Gleichbehandlungsgesetz (AGG).</p><p>Der Arbeitgeber darf im Rahmen des sogenannten Direktionsrechts festlegen, wo, wann und wie Sie arbeiten – aber nur innerhalb der Grenzen, die Vertrag, Gesetz, Tarifvertrag und billiges Ermessen setzen. Diese Seite gibt einen Einstieg; die folgenden Themenseiten vertiefen einzelne Bereiche.</p>",
+      "schritte": [
+        {
+          "titel": "Arbeitsvertrag vollständig lesen",
+          "text": "Achten Sie besonders auf Probezeit, Kündigungsfristen, Ausschlussfristen (Verfallklauseln) und etwaige Bezugnahmen auf Tarifverträge oder Betriebsvereinbarungen."
+        },
+        {
+          "titel": "Nachweis der Arbeitsbedingungen einfordern",
+          "text": "Falls Sie keinen schriftlichen Vertrag erhalten haben, können Sie die Niederschrift der wesentlichen Arbeitsbedingungen nach § 2 NachwG verlangen."
+        },
+        {
+          "titel": "Wichtige Fristen notieren",
+          "text": "Kündigungsfristen, Klagefristen und Ausschlussfristen sind meist kurz und beginnen automatisch zu laufen – ein Kalendereintrag hilft, sie nicht zu verpassen."
+        },
+        {
+          "titel": "Bei Unklarheiten früh beraten lassen",
+          "text": "Betriebsrat, Gewerkschaft, Rechtsantragstelle beim Arbeitsgericht oder eine Anwältin/ein Anwalt für Arbeitsrecht können Vertragsklauseln einordnen, bevor daraus ein Streit wird."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "ab 1. Arbeitstag",
+          "was": "Der Arbeitgeber muss die wichtigsten Arbeitsbedingungen (Vertragsparteien, Beginn, Arbeitsort, Tätigkeitsbeschreibung, Vergütung) schriftlich niederlegen; weitere Angaben spätestens nach 7 Kalendertagen bzw. einem Monat.",
+          "grundlage": "§ 2 NachwG"
+        }
+      ],
+      "achtung": [
+        "Ein mündlich geschlossener Arbeitsvertrag ist grundsätzlich wirksam – Sie haben aber trotzdem Anspruch auf die schriftliche Niederschrift nach dem Nachweisgesetz.",
+        "Ausschlussfristen in Arbeits- oder Tarifverträgen lassen Ansprüche (z. B. auf Lohn oder Überstundenvergütung) verfallen, wenn sie nicht fristgerecht schriftlich geltend gemacht werden – oft schon nach drei Monaten.",
+        "Nicht jede Anweisung des Arbeitgebers ist vom Direktionsrecht gedeckt; Eingriffe in Kernbereiche des Vertrags (z. B. deutlich geringerwertige Tätigkeit) sind meist unzulässig, ohne dass dies im Einzelfall automatisch klar ist.",
+        "Wer eine Vertragsänderung unterschreibt, ohne sie zu verstehen, kann sich später nur sehr eingeschränkt darauf berufen, sie sei unwirksam."
+      ],
+      "fach_html": "<h3>Arbeitsvertrag und Nachweisgesetz</h3><p>Ein Arbeitsvertrag muss nach deutschem Recht nicht zwingend schriftlich geschlossen werden, um wirksam zu sein (Ausnahme: befristete Verträge, siehe eigene Themenseite). Das Nachweisgesetz verpflichtet den Arbeitgeber aber, die wesentlichen Vertragsbedingungen schriftlich niederzulegen, gestaffelt nach Wichtigkeit (§ 2 Abs. 1 NachwG). Verstößt der Arbeitgeber dagegen, drohen ihm Bußgelder nach § 4 NachwG; der Arbeitsvertrag selbst bleibt aber wirksam.</p><h3>Weisungsrecht (Direktionsrecht) nach § 106 GewO</h3><p>Soweit Arbeitsbedingungen nicht durch Vertrag, Betriebsvereinbarung, Tarifvertrag oder Gesetz festgelegt sind, darf der Arbeitgeber Inhalt, Ort und Zeit der Arbeitsleistung nach billigem Ermessen näher bestimmen. „Billiges Ermessen“ bedeutet, dass die beiderseitigen Interessen abzuwägen sind – eine einseitige, unangemessene Verschlechterung ist unzulässig und im Streitfall gerichtlich überprüfbar.</p><h3>Gleichbehandlung und Diskriminierungsschutz</h3><p>Das AGG verbietet Benachteiligungen wegen Rasse oder ethnischer Herkunft, Geschlecht, Religion oder Weltanschauung, Behinderung, Alter oder sexueller Identität – bei Einstellung, während des Arbeitsverhältnisses und bei der Beendigung. Details und Fristen dazu auf der Themenseite „Mobbing, Diskriminierung, Arbeitsschutz“.</p><h3>Wo diese Rechte ihre Grenzen haben</h3><p>Vertragsfreiheit und unternehmerische Entscheidungsfreiheit setzen Grenzen: Der Arbeitgeber darf grundsätzlich frei entscheiden, ob, wen und zu welchen (mindestlohnkonformen) Bedingungen er einstellt oder eine Stelle abbaut. Arbeitnehmerschutzrechte wirken vor allem innerhalb eines bestehenden Arbeitsverhältnisses und bei dessen Beendigung, nicht bei der Einstellungsentscheidung selbst (Ausnahme: Diskriminierungsverbote des AGG).</p>",
+      "zustaendig": [
+        "Betriebsrat, sofern im Betrieb vorhanden",
+        "Gewerkschaft bei Mitgliedschaft",
+        "Örtliches Arbeitsgericht bei Streitigkeiten",
+        "Anwältin/Anwalt für Arbeitsrecht"
+      ],
+      "belege": [
+        "Nachweisgesetz (NachwG), gesetze-im-internet.de",
+        "Gewerbeordnung (GewO) § 106, gesetze-im-internet.de",
+        "Allgemeines Gleichbehandlungsgesetz (AGG), gesetze-im-internet.de",
+        "Bürgerliches Gesetzbuch (BGB) §§ 611 ff., gesetze-im-internet.de"
+      ],
+      "siehe_auch": [
+        "arbeitsvertrag-und-befristung",
+        "mobbing-diskriminierung-arbeitsschutz",
+        "beratung-anlaufstellen-arbeitnehmer"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "arbeitsvertrag-und-befristung",
+      "kategorie": "vertrag",
+      "titel": "Arbeitsvertrag und Befristung",
+      "icon": "📄",
+      "teaser": "Was in den Arbeitsvertrag gehört, wann eine Befristung zulässig ist – und wann aus einem befristeten automatisch ein unbefristetes Arbeitsverhältnis wird.",
+      "schlagworte": [
+        "Befristung",
+        "Sachgrund",
+        "Sachgrundlose Befristung",
+        "TzBfG",
+        "Kettenbefristung",
+        "Vorbeschäftigungsverbot",
+        "Nachweisgesetz"
+      ],
+      "kurz_html": "<p>Ein Arbeitsvertrag kann unbefristet oder befristet geschlossen werden. Eine Befristung ist entweder mit sachlichem Grund möglich (z. B. Vertretung, Projekt, Saison) oder – unter engeren Voraussetzungen – ohne Sachgrund für eine begrenzte Zeit. Jede Befristung muss schriftlich vereinbart werden, sonst gilt der Vertrag als unbefristet geschlossen.</p><p>Wie lange eine sachgrundlose Befristung dauern darf und wie oft sie verlängert werden kann, ist gesetzlich genau geregelt. Im Juli 2026 hat die Bundesregierung eine deutliche Ausweitung dieser Regeln angekündigt; verabschiedet ist das Gesetz zum Stand dieser Seite noch nicht.</p>",
+      "schritte": [
+        {
+          "titel": "Befristungsgrund im Vertrag prüfen",
+          "text": "Steht im Vertrag ein Sachgrund (z. B. „Vertretung wegen Elternzeit“) oder beruft er sich auf die sachgrundlose Befristung nach § 14 Abs. 2 TzBfG?"
+        },
+        {
+          "titel": "Schriftform kontrollieren",
+          "text": "Fehlt die Unterschrift vor Arbeitsbeginn oder liegt nur eine mündliche Absprache vor, ist die Befristung unwirksam – der Vertrag gilt dann als unbefristet (§ 16 TzBfG)."
+        },
+        {
+          "titel": "Vorbeschäftigung prüfen",
+          "text": "Waren Sie schon einmal – auch Jahre zuvor – bei demselben Arbeitgeber beschäftigt, kann das einer sachgrundlosen Befristung entgegenstehen (§ 14 Abs. 2 Satz 2 TzBfG)."
+        },
+        {
+          "titel": "Bei Zweifeln Entfristungsklage rechtzeitig prüfen",
+          "text": "Wer die Unwirksamkeit einer Befristung geltend machen will, muss dies innerhalb von drei Wochen nach dem vereinbarten Vertragsende gerichtlich tun (§ 17 TzBfG)."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "3 Wochen",
+          "was": "Frist für die Klage auf Feststellung, dass das Arbeitsverhältnis wegen unwirksamer Befristung nicht beendet ist – ab dem vereinbarten Vertragsende.",
+          "grundlage": "§ 17 TzBfG i. V. m. § 4 KSchG"
+        },
+        {
+          "wert": "bis 2 Jahre",
+          "was": "Höchstdauer der sachgrundlosen Befristung nach geltendem Recht, mit bis zu drei Verlängerungen innerhalb dieser Zeit.",
+          "grundlage": "§ 14 Abs. 2 TzBfG (geltendes Recht)"
+        }
+      ],
+      "achtung": [
+        "Eine mündlich vereinbarte oder nachträglich unterschriebene Befristung ist unwirksam – dann besteht ein unbefristetes Arbeitsverhältnis, unabhängig davon, was „gemeint“ war.",
+        "Wer nach Fristablauf einfach weiterarbeitet und der Arbeitgeber widerspricht nicht unverzüglich, kann daraus unter Umständen ein unbefristetes Arbeitsverhältnis entstehen (§ 15 Abs. 5 TzBfG) – die genauen Voraussetzungen sind im Einzelfall zu prüfen.",
+        "Die 3-Wochen-Klagefrist gegen eine unwirksame Befristung wird häufig übersehen, weil kein förmliches Kündigungsschreiben vorliegt, das an eine Frist erinnert.",
+        "Achtung, angekündigte Gesetzesänderung: Der Koalitionsausschuss hat am 2. Juli 2026 eine Ausweitung der sachgrundlosen Befristung auf bis zu 48 Monate mit bis zu sechs Verlängerungen für ab diesem Zeitpunkt bis Ende 2030 neu eingestellte Beschäftigte angekündigt, ebenso eine Lockerung des Vorbeschäftigungsverbots und den Wegfall der Schriftformpflicht ab 1. Januar 2027. Diese Pläne sind politische Absichtserklärungen; ein verabschiedetes Gesetz mit endgültigem Wortlaut und Übergangsregeln lag zum Stand dieser Seite nicht vor."
+      ],
+      "fach_html": "<h3>Befristung mit Sachgrund</h3><p>§ 14 Abs. 1 TzBfG nennt beispielhaft anerkannte Sachgründe: vorübergehender betrieblicher Bedarf, Anschluss an eine Ausbildung, Vertretung, Eigenart der Arbeitsleistung, Erprobung, in der Person liegende Gründe, Haushaltsbefristung im öffentlichen Dienst und gerichtlicher Vergleich. Eine sachgrundlose Befristung nach mehrfacher vorheriger sachgrundloser Befristung bei demselben Arbeitgeber (Kettenbefristung) kann unzulässig sein, wenn ein Rechtsmissbrauch vorliegt.</p><h3>Sachgrundlose Befristung – geltendes Recht</h3><p>Ohne Sachgrund ist eine Befristung bis zu zwei Jahren zulässig; innerhalb dieser Frist ist eine höchstens dreimalige Verlängerung möglich (§ 14 Abs. 2 TzBfG). Sie ist ausgeschlossen, wenn mit demselben Arbeitgeber bereits zuvor ein Arbeitsverhältnis bestand (Vorbeschäftigungsverbot); das Bundesverfassungsgericht hat dazu 2018 entschieden, dass eine zeitlich sehr weit zurückliegende oder ganz andersartige Vorbeschäftigung ausnahmsweise unberücksichtigt bleiben kann.</p><h3>Angekündigte Reform (Stand September 2026, nicht in Kraft)</h3><p>Der Koalitionsausschuss kündigte am 2. Juli 2026 an, § 14 TzBfG so zu ändern, dass eine sachgrundlose Befristung bis zu 48 Monate mit bis zu sechs Verlängerungen möglich sein soll – befristet auf Neueinstellungen bis Ende 2030 – sowie das Vorbeschäftigungsverbot zu lockern und die Schriftformpflicht für befristete Verträge zum 1. Januar 2027 abzuschaffen. Diese Vorhaben sind zum Stand dieser Seite politische Beschlüsse der Koalitionsspitzen, noch keine verabschiedeten Gesetze; Umsetzung, genauer Wortlaut und Übergangsregeln stehen noch aus.</p><h3>Was bei Unwirksamkeit passiert</h3><p>Ist eine Befristung unwirksam (z. B. wegen fehlender Schriftform oder unzulässiger sachgrundloser Kettenbefristung), gilt das Arbeitsverhältnis als auf unbestimmte Zeit geschlossen (§ 16 TzBfG). Der Arbeitgeber kann es dann nur noch durch eine ordentliche oder außerordentliche Kündigung beenden – mit allen Anforderungen, die dafür gelten.</p>",
+      "zustaendig": [
+        "Örtliches Arbeitsgericht (Entfristungsklage)",
+        "Betriebsrat, sofern vorhanden",
+        "Anwältin/Anwalt für Arbeitsrecht"
+      ],
+      "belege": [
+        "Teilzeit- und Befristungsgesetz (TzBfG), gesetze-im-internet.de",
+        "Bird & Bird, Koalitionsausschuss Juli 2026 – Arbeitsrechtliche Kernpunkte des Reformpakets",
+        "Personalwirtschaft.de, „AU ab Tag 1 und sachgrundlose Befristung bis 48 Monate“",
+        "Pöppel Rechtsanwälte, „Vier Jahre ohne Grund“ – geplante Ausweitung der sachgrundlosen Befristung"
+      ],
+      "siehe_auch": [
+        "ueberblick-rechte-arbeitnehmer",
+        "kuendigungsschutz",
+        "kuendigungsschutzklage"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "kuendigungsschutz",
+      "kategorie": "kuendigung",
+      "titel": "Kündigungsschutz",
+      "icon": "🛑",
+      "teaser": "Wann das Kündigungsschutzgesetz überhaupt greift, welche Kündigungsfristen gelten und welche Kündigungsgründe das Gesetz unterscheidet.",
+      "schlagworte": [
+        "Kündigungsschutzgesetz",
+        "KSchG",
+        "Kündigungsfrist",
+        "Kleinbetrieb",
+        "betriebsbedingte Kündigung",
+        "verhaltensbedingte Kündigung",
+        "personenbedingte Kündigung",
+        "außerordentliche Kündigung"
+      ],
+      "kurz_html": "<p>Ob eine Kündigung wirksam ist, hängt zunächst davon ab, ob das Kündigungsschutzgesetz (KSchG) überhaupt anwendbar ist. Das ist der Fall, wenn Sie zum Zeitpunkt der Kündigung länger als sechs Monate ununterbrochen im selben Betrieb beschäftigt sind und der Betrieb in der Regel mehr als zehn Arbeitnehmerinnen und Arbeitnehmer beschäftigt.</p><p>Gilt das KSchG, braucht eine ordentliche Kündigung einen anerkannten Grund: betriebsbedingt, verhaltensbedingt oder personenbedingt. Fehlt ein solcher Grund oder wurde er nicht sozial ausreichend abgewogen, ist die Kündigung unwirksam – das müssen Sie aber fristgerecht gerichtlich geltend machen (siehe Themenseite „Kündigungsschutzklage“).</p>",
+      "schritte": [
+        {
+          "titel": "Anwendbarkeit des KSchG prüfen",
+          "text": "Länger als sechs Monate beschäftigt und mehr als zehn Arbeitnehmerinnen/Arbeitnehmer im Betrieb? Nur dann greift der allgemeine Kündigungsschutz."
+        },
+        {
+          "titel": "Kündigungsgrund identifizieren",
+          "text": "Betriebsbedingt (z. B. Wegfall der Stelle), verhaltensbedingt (z. B. Pflichtverletzung) oder personenbedingt (z. B. lang andauernde Krankheit) – die Anforderungen unterscheiden sich."
+        },
+        {
+          "titel": "Kündigungsfrist nachrechnen",
+          "text": "Die gesetzliche Frist richtet sich nach der Dauer der Betriebszugehörigkeit (§ 622 BGB), sofern Vertrag oder Tarifvertrag nichts Günstigeres vorsehen."
+        },
+        {
+          "titel": "Frist für die Kündigungsschutzklage nicht verpassen",
+          "text": "Ab Zugang der Kündigung läuft eine strenge Drei-Wochen-Frist – unabhängig davon, ob die Kündigung offensichtlich fehlerhaft wirkt."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "> 6 Monate",
+          "was": "Mindestbeschäftigungsdauer im Betrieb, damit das Kündigungsschutzgesetz überhaupt anwendbar ist (Wartezeit).",
+          "grundlage": "§ 1 Abs. 1 KSchG"
+        },
+        {
+          "wert": "> 10 Arbeitnehmer",
+          "was": "Schwellenwert der regelmäßigen Betriebsgröße, ab dem das KSchG gilt (Kleinbetriebe sind ausgenommen).",
+          "grundlage": "§ 23 Abs. 1 KSchG"
+        },
+        {
+          "wert": "4 Wochen bis 7 Monate",
+          "was": "Gesetzliche Grundkündigungsfrist 4 Wochen zum 15. oder Monatsende; für Kündigungen durch den Arbeitgeber gestaffelt länger je nach Betriebszugehörigkeit (bis zu 7 Monate zum Monatsende bei 20 Jahren).",
+          "grundlage": "§ 622 Abs. 1 und 2 BGB"
+        }
+      ],
+      "achtung": [
+        "In Kleinbetrieben mit zehn oder weniger Arbeitnehmerinnen und Arbeitnehmern gilt der allgemeine Kündigungsschutz nicht – trotzdem müssen Kündigungsfristen, das Diskriminierungsverbot des AGG und der Grundsatz von Treu und Glauben beachtet werden.",
+        "Auszubildende und Teilzeitkräfte zählen bei der Ermittlung der Betriebsgröße anteilig mit; die genaue Berechnung ist im Einzelfall oft strittig.",
+        "Eine „fristlose“ (außerordentliche) Kündigung nach § 626 BGB braucht einen wichtigen Grund und muss binnen zwei Wochen ab Kenntnis der Kündigungsgründe ausgesprochen werden – ein rein subjektiv als „schwerwiegend“ empfundener Vorfall reicht dafür nicht automatisch aus.",
+        "Auch eine unwirksame Kündigung beendet das Arbeitsverhältnis, wenn Sie nicht fristgerecht Kündigungsschutzklage erheben."
+      ],
+      "fach_html": "<h3>Persönlicher und betrieblicher Geltungsbereich</h3><p>Der allgemeine Kündigungsschutz nach dem KSchG setzt eine Wartezeit von sechs Monaten (§ 1 Abs. 1 KSchG) und eine Betriebsgröße von in der Regel mehr als zehn Arbeitnehmerinnen und Arbeitnehmern voraus (§ 23 Abs. 1 KSchG). Für Arbeitsverhältnisse, die bereits vor dem 1. Januar 2004 bestanden, gilt insoweit eine Übergangsregelung mit einem niedrigeren Schwellenwert von mehr als fünf Beschäftigten für den betroffenen Altbestand.</p><h3>Die drei Kündigungsgründe</h3><p>Eine ordentliche Kündigung ist im Anwendungsbereich des KSchG nur sozial gerechtfertigt, wenn sie durch Gründe bedingt ist, die in der Person (z. B. dauerhafter Wegfall der Eignung), im Verhalten (z. B. wiederholte Pflichtverletzung, i. d. R. nach vorheriger Abmahnung) oder in dringenden betrieblichen Erfordernissen (z. B. Wegfall des Arbeitsplatzes) liegen (§ 1 Abs. 2 KSchG). Bei betriebsbedingten Kündigungen ist zusätzlich eine Sozialauswahl unter vergleichbaren Beschäftigten nach Dauer der Betriebszugehörigkeit, Lebensalter, Unterhaltspflichten und ggf. Schwerbehinderung vorzunehmen (§ 1 Abs. 3 KSchG).</p><h3>Kündigungsfristen</h3><p>Die gesetzliche Grundkündigungsfrist beträgt vier Wochen zum 15. oder zum Ende eines Kalendermonats (§ 622 Abs. 1 BGB). Kündigt der Arbeitgeber, verlängert sich diese Frist gestaffelt nach der Dauer des Arbeitsverhältnisses (§ 622 Abs. 2 BGB): u. a. ein Monat nach zwei Jahren, zwei Monate nach fünf Jahren, bis zu sieben Monate nach zwanzig Jahren Betriebszugehörigkeit – jeweils zum Monatsende. Kürzere Fristen können in der Probezeit (mindestens zwei Wochen, § 622 Abs. 3 BGB) oder durch Tarifvertrag vereinbart sein.</p><h3>Außerordentliche (fristlose) Kündigung</h3><p>Eine außerordentliche Kündigung ist nur bei Vorliegen eines wichtigen Grundes zulässig, der es dem Kündigenden unzumutbar macht, das Arbeitsverhältnis bis zum Ablauf der ordentlichen Kündigungsfrist fortzusetzen (§ 626 Abs. 1 BGB). Sie muss innerhalb von zwei Wochen ab Kenntnis der maßgeblichen Tatsachen erklärt werden (§ 626 Abs. 2 BGB).</p>",
+      "zustaendig": [
+        "Örtliches Arbeitsgericht",
+        "Betriebsrat, sofern vorhanden (Anhörung vor jeder Kündigung Pflicht, § 102 BetrVG)",
+        "Anwältin/Anwalt für Arbeitsrecht"
+      ],
+      "belege": [
+        "Kündigungsschutzgesetz (KSchG), gesetze-im-internet.de",
+        "Bürgerliches Gesetzbuch (BGB) §§ 622, 626, gesetze-im-internet.de",
+        "Betriebsverfassungsgesetz (BetrVG) § 102, gesetze-im-internet.de"
+      ],
+      "siehe_auch": [
+        "kuendigungsschutzklage",
+        "abmahnung-und-reaktion",
+        "arbeitszeugnis"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "kuendigungsschutzklage",
+      "kategorie": "kuendigung",
+      "titel": "Kündigungsschutzklage",
+      "icon": "⚖️",
+      "teaser": "Die Drei-Wochen-Frist ist der wichtigste Termin im gesamten Kündigungsschutzrecht. Was Sie dazu wissen müssen – und was eine Klage kostet.",
+      "schlagworte": [
+        "Kündigungsschutzklage",
+        "Drei-Wochen-Frist",
+        "Arbeitsgericht",
+        "Abfindung",
+        "Gütetermin",
+        "Kostenrecht"
+      ],
+      "kurz_html": "<p>Wer sich gegen eine Kündigung wehren will, muss innerhalb von drei Wochen nach ihrem Zugang Klage beim zuständigen Arbeitsgericht erheben. Diese Frist gilt unabhängig davon, ob das Kündigungsschutzgesetz überhaupt anwendbar ist, und selbst dann, wenn die Kündigung offensichtlich fehlerhaft ist – zum Beispiel weil kein Kündigungsgrund erkennbar ist.</p><p>Versäumen Sie die Frist, gilt die Kündigung als von Anfang an wirksam, auch wenn sie es materiell nicht gewesen wäre. Eine spätere Zulassung der verspäteten Klage ist nur unter engen Voraussetzungen möglich (§ 5 KSchG).</p>",
+      "schritte": [
+        {
+          "titel": "Zugangsdatum genau feststellen",
+          "text": "Die Frist beginnt mit dem tatsächlichen Zugang des Kündigungsschreibens, nicht mit dem Datum auf dem Brief."
+        },
+        {
+          "titel": "Innerhalb von drei Wochen Klage erheben",
+          "text": "Klage beim örtlich zuständigen Arbeitsgericht (i. d. R. Sitz des Betriebs) einreichen – notfalls zunächst formlos zur Fristwahrung, Begründung kann nachgereicht werden."
+        },
+        {
+          "titel": "Rechtsantragstelle nutzen",
+          "text": "Beim Arbeitsgericht kann die Klage kostenlos zu Protokoll der Rechtsantragstelle erklärt werden, auch ohne Anwältin oder Anwalt."
+        },
+        {
+          "titel": "Gütetermin wahrnehmen",
+          "text": "Meist findet zunächst ein kurzfristiger Gütetermin statt, in dem häufig ein Vergleich (oft mit Abfindung) ausgehandelt wird."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "3 Wochen",
+          "was": "Klagefrist ab Zugang der schriftlichen Kündigung; Fristversäumnis führt grundsätzlich zur Wirksamkeit der Kündigung.",
+          "grundlage": "§ 4 KSchG"
+        },
+        {
+          "wert": "keine Vorschusspflicht",
+          "was": "Vor dem Arbeitsgericht trägt in der ersten Instanz jede Partei ihre eigenen Anwaltskosten unabhängig vom Ausgang des Verfahrens selbst.",
+          "grundlage": "§ 12a ArbGG"
+        }
+      ],
+      "achtung": [
+        "Die Drei-Wochen-Frist läuft auch dann, wenn Sie noch verhandeln, krank sind oder im Urlaub waren – Unwissenheit oder Verhandlungen mit dem Arbeitgeber hemmen die Frist grundsätzlich nicht.",
+        "Ein „Recht auf Abfindung“ gibt es im deutschen Kündigungsschutzrecht nicht automatisch; Abfindungen sind meist das Ergebnis eines gerichtlichen oder außergerichtlichen Vergleichs beziehungsweise eines Sozialplans oder eines gesetzlichen Anspruchs bei betriebsbedingter Kündigung mit Verzicht auf Klage (§ 1a KSchG).",
+        "Auch bei offensichtlich unwirksamen Kündigungen (z. B. ohne jede Begründung) muss fristgerecht geklagt werden – „offensichtlich unwirksam“ schützt nicht vor Fristablauf.",
+        "Wer in der ersten Instanz verliert, trägt zwar keine gegnerischen Anwaltskosten, aber die eigenen sowie Gerichtskosten; das Prozessrisiko ist daher nicht null."
+      ],
+      "fach_html": "<h3>Ablauf und Zuständigkeit</h3><p>Zuständig ist das Arbeitsgericht, in dessen Bezirk der Betrieb liegt oder in dem die Arbeitsleistung gewöhnlich erbracht wird (§ 48 ArbGG i. V. m. der Zivilprozessordnung). Die Klage kann schriftlich eingereicht oder mündlich bei der Rechtsantragstelle des Gerichts zu Protokoll gegeben werden. Üblicherweise beraumt das Gericht zunächst einen Gütetermin an, der oft schon wenige Wochen nach Klageeingang stattfindet.</p><h3>Fristversäumnis und nachträgliche Zulassung</h3><p>Wird die Drei-Wochen-Frist versäumt, kann die Klage nach § 5 KSchG nur nachträglich zugelassen werden, wenn die betroffene Person trotz Anwendung aller ihr zuzumutenden Sorgfalt an der rechtzeitigen Klageerhebung gehindert war (z. B. plötzliche schwere Erkrankung) – dieser Maßstab ist in der Praxis streng.</p><h3>Kostenrisiko</h3><p>Eine Besonderheit des Arbeitsgerichtsprozesses: In der ersten Instanz gilt kein Kostenerstattungsanspruch für Anwaltskosten, auch wenn man gewinnt (§ 12a Abs. 1 ArbGG) – Ziel ist ein niedrigschwelliger Zugang zum Gericht. Gerichtskosten fallen bei einem Vergleich häufig ganz weg oder werden reduziert.</p><h3>Abfindung als Ergebnis, nicht als Automatismus</h3><p>Viele Kündigungsschutzverfahren enden mit einem Vergleich: Der Arbeitnehmer nimmt die Beendigung des Arbeitsverhältnisses hin, der Arbeitgeber zahlt eine Abfindung. Als grobe, in der Praxis verbreitete Orientierung wird oft ein halbes Bruttomonatsgehalt pro Beschäftigungsjahr genannt – ein Rechtsanspruch darauf besteht jedoch grundsätzlich nicht; die tatsächliche Höhe hängt von den Erfolgsaussichten der Klage und dem Verhandlungsgeschick ab.</p>",
+      "zustaendig": [
+        "Örtliches Arbeitsgericht (Rechtsantragstelle)",
+        "Anwältin/Anwalt für Arbeitsrecht",
+        "Rechtsschutzversicherung, sofern vorhanden"
+      ],
+      "belege": [
+        "Kündigungsschutzgesetz (KSchG) §§ 4, 5, 1a, gesetze-im-internet.de",
+        "Arbeitsgerichtsgesetz (ArbGG) §§ 12a, 48, gesetze-im-internet.de"
+      ],
+      "siehe_auch": [
+        "kuendigungsschutz",
+        "beratung-anlaufstellen-arbeitnehmer"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "abmahnung-und-reaktion",
+      "kategorie": "kuendigung",
+      "titel": "Abmahnung und wie Sie reagieren können",
+      "icon": "📝",
+      "teaser": "Eine Abmahnung ist keine Kündigung, kann ihr aber vorausgehen. Was formal hineingehört – und welche Möglichkeiten Sie haben, sich dagegen zu wehren.",
+      "schlagworte": [
+        "Abmahnung",
+        "Gegendarstellung",
+        "Personalakte",
+        "Wiederholungsgefahr",
+        "verhaltensbedingte Kündigung"
+      ],
+      "kurz_html": "<p>Eine Abmahnung ist die schriftliche oder mündliche Rüge eines konkreten Fehlverhaltens, verbunden mit der Ankündigung arbeitsrechtlicher Konsequenzen (bis hin zur Kündigung) im Wiederholungsfall. Ein eigenes Gesetz zur Abmahnung im Arbeitsrecht gibt es nicht; ihre Voraussetzungen und Wirkungen sind durch jahrzehntelange Rechtsprechung des Bundesarbeitsgerichts geprägt.</p><p>Bei einer verhaltensbedingten Kündigung verlangt die Rechtsprechung in aller Regel, dass der Arbeitgeber zuvor mindestens einmal wirksam abgemahnt hat – außer bei besonders schweren Pflichtverletzungen, bei denen von vornherein klar ist, dass eine Hinnahme durch den Arbeitgeber ausgeschlossen ist.</p>",
+      "schritte": [
+        {
+          "titel": "Abmahnung genau lesen",
+          "text": "Wird ein konkretes Verhalten (Datum, Vorfall) benannt, oder bleibt sie vage? Nur eine hinreichend bestimmte Abmahnung entfaltet volle Wirkung."
+        },
+        {
+          "titel": "Sachverhalt dokumentieren",
+          "text": "Notieren Sie zeitnah Ihre eigene Erinnerung an den Vorfall, mögliche Zeuginnen und Zeugen sowie eigene Unterlagen."
+        },
+        {
+          "titel": "Gegendarstellung erwägen",
+          "text": "Sie können eine schriftliche Gegendarstellung verfassen, die der Arbeitgeber auf Verlangen zur Personalakte nehmen muss (§ 83 Abs. 2 BetrVG für Betriebe mit Betriebsrat als ausdrückliche Regelung; im Übrigen aus dem allgemeinen Persönlichkeitsrecht abgeleitet)."
+        },
+        {
+          "titel": "Entfernung aus der Personalakte prüfen",
+          "text": "Ist die Abmahnung inhaltlich falsch, unverhältnismäßig oder nicht mehr relevant, kann ein Anspruch auf Entfernung bestehen – notfalls klageweise vor dem Arbeitsgericht."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "keine gesetzliche Frist",
+          "was": "Für die Erteilung einer Abmahnung gibt es keine feste gesetzliche Frist; sie muss aber in einem angemessenen zeitlichen Zusammenhang zum Vorfall stehen, sonst kann sie ihre Warnfunktion verlieren.",
+          "grundlage": "ständige Rechtsprechung des BAG, kein Gesetzestext"
+        },
+        {
+          "wert": "3 Wochen",
+          "was": "Wird auf eine Abmahnung hin dennoch gekündigt, gilt für eine dagegen gerichtete Kündigungsschutzklage wieder die reguläre Drei-Wochen-Frist.",
+          "grundlage": "§ 4 KSchG"
+        }
+      ],
+      "achtung": [
+        "Eine unwirksame oder unverhältnismäßige Abmahnung „verbraucht“ sich nicht von selbst – wer sie nicht angreift, riskiert, dass sie später als Vorstufe einer Kündigung herangezogen wird.",
+        "Auch wenn Sie mit dem Vorwurf nicht einverstanden sind, sollten Sie ihn nicht unbedacht schriftlich „bestätigen“ – eine Gegendarstellung ist der sicherere Weg als informelle Kommentare.",
+        "Ob eine Abmahnung „zu Recht“ erfolgte, wird im Streitfall oft erst im Kündigungsschutzprozess geklärt – eine isolierte Klage allein auf Entfernung der Abmahnung ist möglich, aber nicht immer der schnellste Weg.",
+        "Mehrere Abmahnungen wegen unterschiedlicher, nicht vergleichbarer Pflichtverletzungen begründen nicht automatisch eine Kündigung; entscheidend ist meist die einschlägige Wiederholung desselben oder eines vergleichbaren Fehlverhaltens."
+      ],
+      "fach_html": "<h3>Funktion der Abmahnung</h3><p>Die Abmahnung erfüllt nach ständiger Rechtsprechung des Bundesarbeitsgerichts eine Hinweis- und eine Warnfunktion: Sie soll dem Arbeitnehmer das beanstandete Verhalten klar vor Augen führen (Hinweisfunktion) und ihm deutlich machen, dass im Wiederholungsfall der Bestand des Arbeitsverhältnisses gefährdet ist (Warnfunktion). Fehlt eine dieser Funktionen inhaltlich, ist die Abmahnung unwirksam und kann keine kündigungsrechtliche Wirkung entfalten.</p><h3>Formale Anforderungen</h3><p>Eine Abmahnung muss den Sachverhalt so konkret wie möglich benennen (wann, was, wie), das beanstandete Verhalten als Pflichtverletzung bezeichnen und unmissverständlich auf mögliche arbeitsrechtliche Konsequenzen bei Wiederholung hinweisen. Eine bestimmte Form ist gesetzlich nicht vorgeschrieben; aus Beweisgründen erfolgen Abmahnungen in der Praxis fast immer schriftlich.</p><h3>Entfernungsanspruch</h3><p>Ist eine Abmahnung inhaltlich unzutreffend, unverhältnismäßig oder hat sie ihre Warnfunktion durch Zeitablauf verloren, kann ein Anspruch auf Entfernung aus der Personalakte bestehen, hergeleitet aus dem allgemeinen Persönlichkeitsrecht (Art. 2 Abs. 1 i. V. m. Art. 1 Abs. 1 GG) und § 242 BGB. Der Anspruch wird nötigenfalls im Wege der Leistungsklage vor dem Arbeitsgericht durchgesetzt.</p><h3>Verhältnis zur Kündigung</h3><p>Bei einer verhaltensbedingten Kündigung prüft das Arbeitsgericht regelmäßig, ob eine vorherige einschlägige Abmahnung erfolgt ist und ob sie erfolglos blieb. Bei besonders schweren Pflichtverletzungen (z. B. Diebstahl zulasten des Arbeitgebers) kann ausnahmsweise auf eine vorherige Abmahnung verzichtet werden, weil von vornherein erkennbar ist, dass der Arbeitgeber ein solches Verhalten keinesfalls hinnehmen würde.</p>",
+      "zustaendig": [
+        "Betriebsrat, sofern vorhanden",
+        "Örtliches Arbeitsgericht (Entfernungsklage)",
+        "Anwältin/Anwalt für Arbeitsrecht"
+      ],
+      "belege": [
+        "Bürgerliches Gesetzbuch (BGB) § 242, gesetze-im-internet.de",
+        "Betriebsverfassungsgesetz (BetrVG) § 83, gesetze-im-internet.de",
+        "Grundgesetz (GG) Art. 1, 2, gesetze-im-internet.de"
+      ],
+      "siehe_auch": [
+        "kuendigungsschutz",
+        "kuendigungsschutzklage",
+        "arbeitszeugnis"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "arbeitszeugnis",
+      "kategorie": "kuendigung",
+      "titel": "Arbeitszeugnis",
+      "icon": "📜",
+      "teaser": "Ihr Anspruch auf ein Zeugnis, der Unterschied zwischen einfachem und qualifiziertem Zeugnis – und was tun, wenn die Formulierungen nicht stimmen.",
+      "schlagworte": [
+        "Arbeitszeugnis",
+        "qualifiziertes Zeugnis",
+        "Zeugnisberichtigung",
+        "Zeugnissprache",
+        "Zwischenzeugnis"
+      ],
+      "kurz_html": "<p>Nach Beendigung des Arbeitsverhältnisses haben Sie Anspruch auf ein schriftliches Arbeitszeugnis. Sie können zwischen einem einfachen Zeugnis (Art und Dauer der Tätigkeit) und einem qualifizierten Zeugnis (zusätzlich Leistung und Verhalten) wählen; verlangen müssen Sie das qualifizierte Zeugnis ausdrücklich.</p><p>Ein Zeugnis muss wahr und zugleich wohlwollend formuliert sein – es soll Ihr berufliches Fortkommen nicht unnötig erschweren. Stimmen Formulierungen oder Bewertungen nicht, können Sie eine Berichtigung verlangen.</p>",
+      "schritte": [
+        {
+          "titel": "Zeugnis rechtzeitig anfordern",
+          "text": "Fordern Sie das Zeugnis am besten schriftlich zum Ende des Arbeitsverhältnisses an, sofern es nicht von sich aus ausgestellt wird."
+        },
+        {
+          "titel": "Art des Zeugnisses festlegen",
+          "text": "Sagen Sie ausdrücklich, ob Sie ein qualifiziertes Zeugnis mit Leistungs- und Verhaltensbeurteilung wünschen (§ 109 Abs. 1 Satz 3 GewO)."
+        },
+        {
+          "titel": "Zeugnis sorgfältig prüfen",
+          "text": "Vergleichen Sie Formulierungen mit gängigen Zeugniscodes; achten Sie auf Auslassungen (fehlende übliche Formulierungen können ebenfalls eine versteckte Kritik sein)."
+        },
+        {
+          "titel": "Berichtigung zeitnah verlangen",
+          "text": "Fordern Sie Korrekturen schriftlich und möglichst bald nach Erhalt; je länger Sie warten, desto eher kann der Anspruch als verwirkt gelten."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "keine feste gesetzliche Frist",
+          "was": "Das Gesetz nennt keine feste Frist für die Geltendmachung von Berichtigungsansprüchen; nach der Rechtsprechung kann der Anspruch aber „verwirken“, wenn er unangemessen lange nicht geltend gemacht wird. Häufig verkürzen zusätzlich arbeits- oder tarifvertragliche Ausschlussfristen den Zeitraum erheblich, oft auf wenige Monate.",
+          "grundlage": "§ 242 BGB (Verwirkung); vertragliche/tarifliche Ausschlussfristen im Einzelfall prüfen"
+        }
+      ],
+      "achtung": [
+        "Wird nicht ausdrücklich ein qualifiziertes Zeugnis verlangt, kann der Arbeitgeber sich auf ein einfaches Zeugnis beschränken.",
+        "Ausschlussfristen aus Arbeits- oder Tarifvertrag gelten grundsätzlich auch für den Zeugnisanspruch und -berichtigungsanspruch – wer zu lange wartet, kann seinen Anspruch verlieren, auch ohne dass das Gesetz selbst eine kurze Frist vorschreibt.",
+        "Eine Note „befriedigend“ oder schlechter in der Gesamtbeurteilung muss der Arbeitgeber im Streitfall notfalls belegen können; bis zur Note „gut“ liegt die Darlegungslast eher beim Arbeitnehmer, will er eine bessere Note durchsetzen – die genaue Verteilung ist seit einer BAG-Entscheidung von 2014 umstritten diskutiert und im Einzelfall zu prüfen.",
+        "Ein Zwischenzeugnis (während eines laufenden Arbeitsverhältnisses) gibt es nicht automatisch als Gesetzesanspruch, wird aber bei berechtigtem Interesse (z. B. Vorgesetztenwechsel, Bewerbung) von der Rechtsprechung überwiegend anerkannt."
+      ],
+      "fach_html": "<h3>Rechtsgrundlage und Umfang</h3><p>§ 109 GewO gewährt Arbeitnehmerinnen und Arbeitnehmern bei Beendigung eines Arbeitsverhältnisses Anspruch auf ein schriftliches Zeugnis. Es muss mindestens Angaben zu Art und Dauer der Tätigkeit enthalten (einfaches Zeugnis); auf Verlangen sind zusätzlich Leistung und Verhalten im Arbeitsverhältnis zu beurteilen (qualifiziertes Zeugnis, § 109 Abs. 1 Satz 3 GewO). Das Zeugnis muss klar und verständlich formuliert sein und darf keine Merkmale oder Formulierungen enthalten, die den Eindruck einer anderen als der wörtlichen Aussage erwecken sollen (§ 109 Abs. 2 GewO) – Stichwort „Geheimcode“.</p><h3>Wahrheit und Wohlwollen</h3><p>Die Rechtsprechung verlangt einen Ausgleich zwischen Wahrheitspflicht und Wohlwollensgebot: Das Zeugnis muss inhaltlich zutreffend sein, soll das berufliche Fortkommen aber nicht unnötig erschweren. In der Praxis hat sich eine eigene „Zeugnissprache“ mit feststehenden Formulierungen und Notenäquivalenten etabliert.</p><h3>Berichtigungsanspruch und Beweislast</h3><p>Ist ein Zeugnis unrichtig oder in Formulierungen missverständlich negativ, besteht ein Anspruch auf Berichtigung. Nach einer vielzitierten Entscheidung des Bundesarbeitsgerichts aus dem Jahr 2014 gilt eine Gesamtbeurteilung von „befriedigend“ in der Praxis verbreitet als durchschnittlich; will der Arbeitnehmer eine bessere Note durchsetzen, muss er im Streitfall Anhaltspunkte für eine überdurchschnittliche Leistung vortragen, während der Arbeitgeber eine unterdurchschnittliche Note belegen muss. Die genaue Reichweite dieser Grundsätze wird in der Literatur weiterhin diskutiert.</p><h3>Zwischenzeugnis</h3><p>Ein gesetzlicher Anspruch auf ein Zwischenzeugnis während des laufenden Arbeitsverhältnisses ist in der GewO nicht ausdrücklich geregelt. Nach überwiegender Auffassung besteht ein Anspruch aber jedenfalls bei einem sachlichen, berechtigten Interesse, etwa bei einem Wechsel der oder des unmittelbaren Vorgesetzten oder bei einer internen oder externen Bewerbung.</p>",
+      "zustaendig": [
+        "Betriebsrat (bei Unterstützung im Streitfall)",
+        "Örtliches Arbeitsgericht",
+        "Anwältin/Anwalt für Arbeitsrecht"
+      ],
+      "belege": [
+        "Gewerbeordnung (GewO) § 109, gesetze-im-internet.de",
+        "Bürgerliches Gesetzbuch (BGB) § 242, gesetze-im-internet.de"
+      ],
+      "siehe_auch": [
+        "abmahnung-und-reaktion",
+        "kuendigungsschutz",
+        "beratung-anlaufstellen-arbeitnehmer"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "lohnfortzahlung-im-krankheitsfall",
+      "kategorie": "geld-zeit",
+      "titel": "Lohnfortzahlung im Krankheitsfall",
+      "icon": "🤒",
+      "teaser": "Sechs Wochen volles Gehalt bei Arbeitsunfähigkeit, danach Krankengeld von der Kasse – und was Sie dem Arbeitgeber melden müssen.",
+      "schlagworte": [
+        "Entgeltfortzahlung",
+        "EFZG",
+        "Arbeitsunfähigkeitsbescheinigung",
+        "eAU",
+        "Krankengeld",
+        "Wartezeit"
+      ],
+      "kurz_html": "<p>Werden Sie unverschuldet krank und dadurch arbeitsunfähig, zahlt der Arbeitgeber Ihr volles Gehalt für bis zu sechs Wochen weiter – vorausgesetzt, das Arbeitsverhältnis hat zu diesem Zeitpunkt bereits vier Wochen ununterbrochen bestanden. Danach übernimmt die Krankenkasse mit dem niedrigeren Krankengeld.</p><p>Sie müssen die Arbeitsunfähigkeit unverzüglich anzeigen; seit 2023 wird die ärztliche Bescheinigung bei den meisten gesetzlich Versicherten elektronisch (eAU) direkt an die Krankenkasse und auf Abruf an den Arbeitgeber übermittelt – eine eigene Vorlagepflicht kann aber trotzdem bestehen.</p>",
+      "schritte": [
+        {
+          "titel": "Arbeitsunfähigkeit unverzüglich melden",
+          "text": "Informieren Sie den Arbeitgeber noch am ersten Tag der Arbeitsunfähigkeit, möglichst vor Arbeitsbeginn (§ 5 Abs. 1 EFZG)."
+        },
+        {
+          "titel": "Ärztliche Bescheinigung veranlassen",
+          "text": "Spätestens am vierten Kalendertag der Arbeitsunfähigkeit müssen Sie eine ärztliche Bescheinigung vorliegen haben, wenn der Arbeitgeber sie nicht sogar früher verlangt."
+        },
+        {
+          "titel": "eAU-Abruf durch den Arbeitgeber ermöglichen",
+          "text": "Bei gesetzlich Versicherten ruft der Arbeitgeber die Arbeitsunfähigkeitsdaten in der Regel elektronisch bei der Krankenkasse ab; eine Vorlage in Papierform ist meist nur noch bei privat Versicherten oder technischen Ausnahmefällen nötig."
+        },
+        {
+          "titel": "Nach sechs Wochen: Krankengeld beantragen",
+          "text": "Rechtzeitig vor Ablauf der sechs Wochen bei der Krankenkasse Krankengeld beantragen, damit keine Lücke bei der Zahlung entsteht."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "4 Wochen",
+          "was": "Wartezeit: Das Arbeitsverhältnis muss ununterbrochen vier Wochen bestanden haben, damit der Anspruch auf Entgeltfortzahlung entsteht.",
+          "grundlage": "§ 3 Abs. 3 EFZG"
+        },
+        {
+          "wert": "bis zu 6 Wochen (42 Kalendertage)",
+          "was": "Dauer der vollen Entgeltfortzahlung durch den Arbeitgeber bei derselben Erkrankung; bei einer neuen, anderen Erkrankung kann der Anspruch erneut entstehen.",
+          "grundlage": "§ 3 Abs. 1 EFZG"
+        },
+        {
+          "wert": "spätestens 4. Kalendertag",
+          "was": "Vorlage einer ärztlichen Bescheinigung der Arbeitsunfähigkeit, sofern der Arbeitgeber sie nicht schon früher verlangt hat.",
+          "grundlage": "§ 5 Abs. 1 EFZG"
+        }
+      ],
+      "achtung": [
+        "Wer die Krankmeldung verspätet oder gar nicht mitteilt, riskiert eine Abmahnung – die sechswöchige Entgeltfortzahlungspflicht bleibt davon rechtlich zunächst unberührt, sofern die Arbeitsunfähigkeit selbst nachgewiesen wird.",
+        "Bei wiederholter Arbeitsunfähigkeit wegen derselben Krankheit beginnt der Sechs-Wochen-Zeitraum nicht automatisch neu – hierfür gelten besondere Regeln zum sogenannten „Fortsetzungszusammenhang“ (§ 3 Abs. 1 Satz 2 EFZG), deren Anwendung im Einzelfall komplex sein kann.",
+        "Nach der Reform der Krankschreibung 2023 gilt die eAU nur für gesetzlich Versicherte gegenüber gesetzlichen Krankenkassen; bei privat Versicherten sowie in bestimmten Ausnahmefällen ist weiterhin eine Papierbescheinigung nötig.",
+        "Angekündigte, aber noch nicht beschlossene Änderung: Der Koalitionsausschuss hat im Juli 2026 eine Attestpflicht bereits ab dem ersten Krankheitstag sowie die Abschaffung der telefonischen Krankschreibung angekündigt, mit Ausnahmemöglichkeiten auf betrieblicher Ebene. Ein von Bundestag und Bundesrat verabschiedetes Gesetz mit endgültigem Wortlaut lag zum Stand dieser Seite noch nicht vor; nach verfügbaren Quellen ist frühestens Ende 2026 mit einer Verabschiedung zu rechnen."
+      ],
+      "fach_html": "<h3>Anspruchsvoraussetzungen</h3><p>Anspruch auf Entgeltfortzahlung besteht, wenn ein Arbeitnehmer durch unverschuldete Krankheit an seiner Arbeitsleistung verhindert ist und das Arbeitsverhältnis zu diesem Zeitpunkt bereits vier Wochen ununterbrochen bestanden hat (§ 3 Abs. 1 und 3 EFZG). „Unverschuldet“ bedeutet, dass kein grob eigenverantwortlicher Verstoß gegen das eigene Interesse vorliegt – ein alltäglicher Sportunfall zählt üblicherweise nicht als Verschulden.</p><h3>Dauer und Höhe</h3><p>Die Entgeltfortzahlung erfolgt in Höhe des vollen bisherigen Arbeitsentgelts für die Dauer von bis zu sechs Wochen (42 Kalendertage) je Erkrankung. Danach zahlt die gesetzliche Krankenkasse Krankengeld in Höhe von 70 % des Bruttoentgelts, begrenzt auf höchstens 90 % des Nettoentgelts (§ 47 SGB V), regelmäßig für bis zu 78 Wochen innerhalb von drei Jahren wegen derselben Krankheit (§ 48 SGB V).</p><h3>Anzeige- und Nachweispflichten</h3><p>Der Arbeitnehmer muss die Arbeitsunfähigkeit und ihre voraussichtliche Dauer dem Arbeitgeber unverzüglich mitteilen (§ 5 Abs. 1 Satz 1 EFZG). Seit dem 1. Januar 2023 stellen Vertragsärztinnen und -ärzte die Arbeitsunfähigkeit bei gesetzlich Versicherten elektronisch fest (eAU); der Arbeitgeber ruft die Daten bei der Krankenkasse ab, statt eine Papierbescheinigung zu verlangen. Eine eigene, unmittelbare Mitteilungspflicht der Arbeitnehmerin oder des Arbeitnehmers gegenüber dem Arbeitgeber über den Beginn und die voraussichtliche Dauer der Arbeitsunfähigkeit besteht davon unabhängig weiter.</p><h3>Angekündigte Reform (Stand September 2026, nicht in Kraft)</h3><p>Im Rahmen des im Juli 2026 vom Koalitionsausschuss vorgestellten Reformpakets ist geplant, eine ärztliche Bescheinigungspflicht bereits ab dem ersten Krankheitstag einzuführen und die telefonische Krankschreibung abzuschaffen, mit der Möglichkeit betrieblicher Ausnahmen per Einzelvereinbarung oder Betriebsvereinbarung. Nach verfügbaren Quellen handelt es sich bislang um einen politischen Beschluss der Koalitionsspitzen; das Gesetzgebungsverfahren im Bundestag war zum Stand dieser Seite noch nicht abgeschlossen.</p>",
+      "zustaendig": [
+        "Arbeitgeber (Entgeltfortzahlung)",
+        "Gesetzliche Krankenkasse (Krankengeld, eAU)",
+        "Örtliches Arbeitsgericht bei Streit"
+      ],
+      "belege": [
+        "Entgeltfortzahlungsgesetz (EFZG), gesetze-im-internet.de",
+        "Sozialgesetzbuch V (SGB V) §§ 47, 48, gesetze-im-internet.de",
+        "Deutsches Ärzteblatt, „Koalitionsausschuss: Abschaffung der Telefon-AU und Krankschreibung ab erstem Tag geplant“",
+        "ecovis-kso.com, „Krankschreibung ab Tag 1: Alles zur geplanten Reform 2026“"
+      ],
+      "siehe_auch": [
+        "urlaubsanspruch",
+        "arbeitsunfall-und-berufskrankheit",
+        "beratung-anlaufstellen-arbeitnehmer"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "urlaubsanspruch",
+      "kategorie": "geld-zeit",
+      "titel": "Urlaubsanspruch",
+      "icon": "🏖️",
+      "teaser": "Wie viel Mindesturlaub Ihnen gesetzlich zusteht, wann er verfällt – und warum der Arbeitgeber Sie aktiv auf den Verfall hinweisen muss.",
+      "schlagworte": [
+        "Bundesurlaubsgesetz",
+        "BUrlG",
+        "Mindesturlaub",
+        "Urlaubsverfall",
+        "Übertragung",
+        "Urlaubsabgeltung",
+        "Wartezeit"
+      ],
+      "kurz_html": "<p>Das Bundesurlaubsgesetz garantiert jeder Arbeitnehmerin und jedem Arbeitnehmer einen gesetzlichen Mindesturlaub von 24 Werktagen im Jahr, bezogen auf eine Sechs-Tage-Woche – das entspricht 20 Arbeitstagen bei einer üblichen Fünf-Tage-Woche. Viele Arbeits- und Tarifverträge sehen darüber hinaus mehr Urlaub vor.</p><p>Urlaub soll grundsätzlich im laufenden Kalenderjahr genommen werden. Eine Übertragung ins nächste Jahr ist nur bei dringenden betrieblichen oder in der Person liegenden Gründen möglich und muss dann in der Regel bis zum 31. März genommen werden. Nach der Rechtsprechung verfällt Urlaub aber nur dann, wenn der Arbeitgeber zuvor rechtzeitig und individuell auf den drohenden Verfall hingewiesen hat.</p>",
+      "schritte": [
+        {
+          "titel": "Eigenen Urlaubsanspruch berechnen",
+          "text": "Prüfen Sie Ihren Arbeits- oder Tarifvertrag: Er darf vom gesetzlichen Mindesturlaub nicht nach unten abweichen, wohl aber mehr Urlaub gewähren."
+        },
+        {
+          "titel": "Urlaub rechtzeitig beantragen",
+          "text": "Der Arbeitgeber muss Urlaubswünsche berücksichtigen, kann sie aber aus dringenden betrieblichen Gründen oder wegen des Vorrangs anderer Kolleginnen und Kollegen ablehnen (§ 7 Abs. 1 BUrlG)."
+        },
+        {
+          "titel": "Bei Resturlaub zum Jahresende: Hinweis des Arbeitgebers abwarten oder aktiv nachfragen",
+          "text": "Der Arbeitgeber muss Sie konkret auf noch bestehenden Urlaub und den drohenden Verfall hinweisen; fehlt dieser Hinweis, kann der Urlaub bestehen bleiben."
+        },
+        {
+          "titel": "Bei Ausscheiden: Abgeltung verlangen",
+          "text": "Kann Resturlaub wegen Beendigung des Arbeitsverhältnisses nicht mehr genommen werden, ist er finanziell abzugelten (§ 7 Abs. 4 BUrlG)."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "24 Werktage / 20 Arbeitstage",
+          "was": "Gesetzlicher Mindesturlaub pro Kalenderjahr, bezogen auf eine Sechs- bzw. Fünf-Tage-Woche.",
+          "grundlage": "§ 3 Abs. 1 BUrlG"
+        },
+        {
+          "wert": "6 Monate",
+          "was": "Wartezeit: Der volle Urlaubsanspruch entsteht erstmals nach sechsmonatigem Bestehen des Arbeitsverhältnisses.",
+          "grundlage": "§ 4 BUrlG"
+        },
+        {
+          "wert": "31. März des Folgejahres",
+          "was": "Regulärer spätester Zeitpunkt, bis zu dem ins Folgejahr übertragener Urlaub genommen werden muss, sofern nicht der Arbeitgeber trotz Hinweis eine frühere Verfallmöglichkeit versäumt hat.",
+          "grundlage": "§ 7 Abs. 3 BUrlG"
+        }
+      ],
+      "achtung": [
+        "Nach der Rechtsprechung des Bundesarbeitsgerichts (im Anschluss an den Europäischen Gerichtshof) verfällt gesetzlicher Mindesturlaub am Jahresende oder zum 31. März nur, wenn der Arbeitgeber zuvor konkret, individuell und rechtzeitig auf die genaue Zahl der Resturlaubstage und den drohenden Verfall hingewiesen hat – ohne diesen Hinweis bleibt der Anspruch grundsätzlich bestehen.",
+        "„Ich hatte keine Zeit für Urlaub“ führt bei fehlendem Hinweis des Arbeitgebers nicht automatisch zum Verfall – im Streitfall lohnt sich eine genaue Prüfung, ob der Arbeitgeber seiner Hinweispflicht tatsächlich nachgekommen ist.",
+        "Bei langandauernder Erkrankung kann gesetzlicher Urlaub nach der Rechtsprechung nur noch für einen begrenzten Zeitraum (nach 15 Monaten nach Ablauf des Urlaubsjahres) übertragen werden und verfällt dann auch ohne Hinweispflicht des Arbeitgebers.",
+        "Vertraglicher Mehrurlaub über den gesetzlichen Mindesturlaub hinaus kann in Arbeits- oder Tarifverträgen abweichenden, strengeren Verfallregeln unterliegen – das gilt es getrennt vom gesetzlichen Mindesturlaub zu prüfen."
+      ],
+      "fach_html": "<h3>Umfang des gesetzlichen Mindesturlaubs</h3><p>§ 3 Abs. 1 BUrlG garantiert 24 Werktage Urlaub im Kalenderjahr bei einer Verteilung der Arbeitszeit auf sechs Werktage in der Woche. Bei der heute üblichen Fünf-Tage-Woche entspricht das rechnerisch 20 Arbeitstagen. Der volle Anspruch entsteht erstmals nach einer Wartezeit von sechs Monaten (§ 4 BUrlG); zuvor besteht ein Teilanspruch von einem Zwölftel je vollem Beschäftigungsmonat (§ 5 BUrlG).</p><h3>Übertragung und Verfall</h3><p>Grundsätzlich muss der Urlaub im laufenden Kalenderjahr gewährt und genommen werden. Eine Übertragung auf das erste Quartal des Folgejahres ist nur bei dringenden betrieblichen oder in der Person des Arbeitnehmers liegenden Gründen zulässig; in diesem Fall muss der übertragene Urlaub bis zum 31. März genommen werden, sonst erlischt er grundsätzlich (§ 7 Abs. 3 BUrlG).</p><h3>Die Mitwirkungsobliegenheit des Arbeitgebers</h3><p>Der Europäische Gerichtshof und ihm folgend das Bundesarbeitsgericht haben diese Verfallregeln seit 2018/2019 erheblich eingeschränkt: Der gesetzliche Mindesturlaub verfällt nur, wenn der Arbeitgeber die Arbeitnehmerin oder den Arbeitnehmer zuvor in die Lage versetzt hat, den Urlaub tatsächlich zu nehmen – insbesondere durch einen konkreten, individuellen Hinweis auf die Zahl der Resturlaubstage und die Verfallfrist sowie eine ausdrückliche Aufforderung, den Urlaub zu nehmen. Unterbleibt dieser Hinweis, bleibt der Anspruch grundsätzlich zeitlich unbegrenzt bestehen, mit Ausnahme einer eigenständigen, langfristigen Verjährung.</p><h3>Urlaubsabgeltung</h3><p>Kann der Urlaub wegen Beendigung des Arbeitsverhältnisses nicht mehr genommen werden, ist er finanziell abzugelten (§ 7 Abs. 4 BUrlG). Der Abgeltungsanspruch entsteht mit Beendigung des Arbeitsverhältnisses und unterliegt – anders als der Urlaubsanspruch selbst während des laufenden Arbeitsverhältnisses – grundsätzlich der regulären Verjährung sowie etwaigen vertraglichen Ausschlussfristen.</p>",
+      "zustaendig": [
+        "Arbeitgeber",
+        "Betriebsrat, sofern vorhanden",
+        "Örtliches Arbeitsgericht bei Streit"
+      ],
+      "belege": [
+        "Bundesurlaubsgesetz (BUrlG), gesetze-im-internet.de",
+        "Rechtsprechung des Bundesarbeitsgerichts zur Mitwirkungsobliegenheit des Arbeitgebers (im Anschluss an EuGH-Rechtsprechung seit 2018)"
+      ],
+      "siehe_auch": [
+        "arbeitszeit-und-ueberstunden",
+        "lohn-mindestlohn-und-nachzahlung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "lohn-mindestlohn-und-nachzahlung",
+      "kategorie": "geld-zeit",
+      "titel": "Lohn, Mindestlohn und Nachzahlung",
+      "icon": "💶",
+      "teaser": "Die aktuelle Höhe des gesetzlichen Mindestlohns, warum Verzichtsvereinbarungen unwirksam sind – und wie Sie zu wenig gezahlten Lohn nachfordern.",
+      "schlagworte": [
+        "Mindestlohn",
+        "MiLoG",
+        "Lohnnachzahlung",
+        "Ausschlussfrist",
+        "Minijob",
+        "Verjährung"
+      ],
+      "kurz_html": "<p>Seit dem 1. Januar 2026 beträgt der gesetzliche Mindestlohn in Deutschland 13,90 Euro brutto je Stunde; zum 1. Januar 2027 soll er auf 14,60 Euro steigen. Grundlage ist der Beschluss der unabhängigen Mindestlohnkommission vom 27. Juni 2025, den die Bundesregierung durch eine Mindestlohnanpassungsverordnung verbindlich umgesetzt hat.</p><p>Auf den Mindestlohn kann grundsätzlich nicht wirksam verzichtet werden – auch nicht durch eine Unterschrift unter einen entsprechenden Vertrag. Wurde weniger gezahlt, können Sie die Differenz nachfordern; beachten Sie dabei mögliche Ausschlussfristen und die allgemeine Verjährung.</p>",
+      "schritte": [
+        {
+          "titel": "Tatsächlich gezahlten Stundenlohn nachrechnen",
+          "text": "Teilen Sie das gezahlte Bruttoentgelt durch die tatsächlich geleisteten Arbeitsstunden, einschließlich dokumentierter Überstunden."
+        },
+        {
+          "titel": "Ausschlussfristen im Vertrag prüfen",
+          "text": "Viele Arbeits- und Tarifverträge verlangen, Nachforderungen innerhalb weniger Monate schriftlich geltend zu machen – für den Mindestlohnanspruch selbst sind rein arbeitsvertragliche Ausschlussfristen nach § 3 Satz 1 MiLoG allerdings unwirksam."
+        },
+        {
+          "titel": "Differenz schriftlich geltend machen",
+          "text": "Fordern Sie die Nachzahlung schriftlich vom Arbeitgeber, mit Aufstellung der geleisteten Stunden und des Differenzbetrags."
+        },
+        {
+          "titel": "Bei Nichtzahlung: Arbeitsgericht oder Zoll einschalten",
+          "text": "Der Mindestlohnanspruch kann vor dem Arbeitsgericht eingeklagt werden; Verstöße gegen das MiLoG können zusätzlich der Finanzkontrolle Schwarzarbeit des Zolls gemeldet werden."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "13,90 €/Stunde",
+          "was": "Gesetzlicher Mindestlohn seit dem 1. Januar 2026 (brutto, vor Steuern und Sozialabgaben); ab 1. Januar 2027 verbindlich festgesetzt (§ 1 MiLoV5): 14,60 €/Stunde.",
+          "grundlage": "Fünfter Beschluss der Mindestlohnkommission vom 27.06.2025; Mindestlohnanpassungsverordnung"
+        },
+        {
+          "wert": "unwirksam",
+          "was": "Verzicht auf den Mindestlohnanspruch sowie ihn beschränkende arbeitsvertragliche Ausschlussfristen sind unwirksam, soweit sie den Mindestlohnanspruch selbst betreffen.",
+          "grundlage": "§ 3 MiLoG"
+        },
+        {
+          "wert": "regelmäßig 3 Jahre",
+          "was": "Allgemeine Verjährungsfrist für Lohnansprüche nach dem BGB, sofern keine kürzere wirksame Ausschlussfrist für sonstige (nicht mindestlohngeschützte) Lohnbestandteile greift.",
+          "grundlage": "§§ 195, 199 BGB"
+        }
+      ],
+      "achtung": [
+        "Eine „Pauschale“ oder ein „Fixgehalt“, das rechnerisch unter dem Mindestlohn je geleisteter Stunde liegt, ist unzulässig – entscheidend ist stets der tatsächlich gezahlte Betrag geteilt durch die tatsächlich geleisteten Stunden, nicht die vertraglich vereinbarte Wochenarbeitszeit allein.",
+        "Auch bei Minijobs gilt der gesetzliche Mindestlohn uneingeschränkt; die genaue monatliche Minijob-Verdienstgrenze für 2026 ließ sich im Rahmen dieser Recherche nicht abschließend mit einer amtlichen Primärquelle verifizieren und wird deshalb hier bewusst nicht beziffert – bitte bei der Minijob-Zentrale nachprüfen.",
+        "Trinkgeld darf grundsätzlich nicht auf den Mindestlohn angerechnet werden, da es freiwillig von Dritten gezahlt wird.",
+        "Ausschlussfristen in Arbeits- oder Tarifverträgen können Nachforderungen für Lohnbestandteile oberhalb des Mindestlohns (z. B. übertarifliche Zulagen) verfallen lassen, selbst wenn der Mindestlohnanteil selbst gesichert bleibt – eine getrennte Prüfung ist nötig."
+      ],
+      "fach_html": "<h3>Höhe und Anpassungsmechanismus</h3><p>Der gesetzliche Mindestlohn wird nicht durch das Parlament selbst beziffert, sondern alle zwei Jahre von der unabhängigen, paritätisch mit Vertreterinnen und Vertretern von Gewerkschaften und Arbeitgeberverbänden besetzten Mindestlohnkommission vorgeschlagen und anschließend von der Bundesregierung per Rechtsverordnung für verbindlich erklärt (§§ 4, 9, 11 MiLoG). Die Kommission hat am 27. Juni 2025 beschlossen, den Mindestlohn zum 1. Januar 2026 auf 13,90 Euro und zum 1. Januar 2027 auf 14,60 Euro anzuheben; die Bundesregierung hat dies durch die Fünfte Mindestlohnanpassungsverordnung umgesetzt. Nach eigener Einschätzung der Kommission handelt es sich um die größte sozialpartnerschaftlich vereinbarte Erhöhung seit Einführung des Mindestlohns 2015.</p><h3>Unabdingbarkeit</h3><p>§ 3 MiLoG erklärt Vereinbarungen, die den Mindestlohnanspruch unterschreiten oder seine Geltendmachung beschränken (etwa durch Verzicht oder Verwirkung), für insoweit unwirksam. Das gilt unabhängig davon, ob die Vertragsparteien einer solchen Regelung ausdrücklich zugestimmt haben.</p><h3>Berechnung und typische Streitfragen</h3><p>Maßgeblich ist der Quotient aus tatsächlich gezahltem Bruttoentgelt und tatsächlich geleisteten Arbeitsstunden im jeweiligen Fälligkeitszeitraum. Häufige Streitpunkte sind unter anderem die Anrechenbarkeit von Zulagen, Prämien und Sachleistungen auf den Mindestlohn sowie unbezahlte Bereitschafts- und Rüstzeiten, die nach der Rechtsprechung regelmäßig als Arbeitszeit im mindestlohnrechtlichen Sinn zählen können.</p><h3>Durchsetzung</h3><p>Der Mindestlohnanspruch kann zivilrechtlich vor dem Arbeitsgericht eingeklagt werden. Daneben kontrolliert die Finanzkontrolle Schwarzarbeit (FKS) der Zollverwaltung die Einhaltung des MiLoG und kann Verstöße als Ordnungswidrigkeit mit Bußgeld ahnden (§ 21 MiLoG).</p>",
+      "zustaendig": [
+        "Arbeitgeber",
+        "Örtliches Arbeitsgericht",
+        "Finanzkontrolle Schwarzarbeit (Zoll) bei Verdacht auf Verstöße"
+      ],
+      "belege": [
+        "Mindestlohngesetz (MiLoG), gesetze-im-internet.de",
+        "BMAS, Pressemitteilung „Mindestlohn steigt zum 1. Januar 2026 auf 13,90 Euro“",
+        "Bundesregierung.de, „Mindestlohn zum 1. Januar gestiegen“",
+        "hopkins.law, „Aktueller Mindestlohn 2026 (+Ausblick 2027)“"
+      ],
+      "siehe_auch": [
+        "arbeitszeit-und-ueberstunden",
+        "kurzarbeit",
+        "beratung-anlaufstellen-arbeitnehmer"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "arbeitszeit-und-ueberstunden",
+      "kategorie": "geld-zeit",
+      "titel": "Arbeitszeit und Überstunden",
+      "icon": "⏱️",
+      "teaser": "Wie viel Arbeitszeit das Gesetz höchstens erlaubt, wann Ruhezeiten Pflicht sind – und unter welchen Voraussetzungen Überstunden bezahlt werden müssen.",
+      "schlagworte": [
+        "Arbeitszeitgesetz",
+        "ArbZG",
+        "Höchstarbeitszeit",
+        "Ruhezeit",
+        "Überstunden",
+        "Arbeitszeiterfassung"
+      ],
+      "kurz_html": "<p>Das Arbeitszeitgesetz begrenzt die werktägliche Arbeitszeit grundsätzlich auf acht Stunden, ausnahmsweise bis zu zehn Stunden, wenn im Schnitt von sechs Monaten acht Stunden pro Werktag nicht überschritten werden. Zwischen zwei Arbeitstagen müssen in der Regel mindestens elf Stunden ununterbrochene Ruhezeit liegen.</p><p>Ob und wie Überstunden vergütet oder durch Freizeit ausgeglichen werden, regelt in erster Linie der Arbeits- oder Tarifvertrag. Eine gesetzliche Pflicht zur minutengenauen elektronischen Zeiterfassung existiert nach geltendem Recht noch nicht flächendeckend; ein entsprechender Gesetzentwurf befindet sich aber in Vorbereitung.</p>",
+      "schritte": [
+        {
+          "titel": "Geleistete Stunden dokumentieren",
+          "text": "Führen Sie – auch unabhängig vom Arbeitgeber – eigene Aufzeichnungen über tatsächlich geleistete Arbeitszeit und Pausen; das erleichtert spätere Nachweise."
+        },
+        {
+          "titel": "Vertragliche Regelung zu Überstunden prüfen",
+          "text": "Prüfen Sie, ob und in welchem Umfang Überstunden mit dem Gehalt „pauschal abgegolten“ sein sollen – solche Klauseln sind nur wirksam, wenn Umfang und Vergütung hinreichend klar geregelt sind."
+        },
+        {
+          "titel": "Überstunden zeitnah anzeigen und dokumentieren lassen",
+          "text": "Lassen Sie sich Mehrarbeit nach Möglichkeit ausdrücklich anordnen oder zumindest bestätigen; das erleichtert die spätere Durchsetzung von Vergütung oder Freizeitausgleich."
+        },
+        {
+          "titel": "Ausschlussfristen beachten",
+          "text": "Machen Sie Überstundenvergütung innerhalb der im Vertrag genannten Ausschlussfrist schriftlich geltend."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "8 Stunden (max. 10)",
+          "was": "Werktägliche Höchstarbeitszeit; eine Verlängerung auf bis zu zehn Stunden ist nur zulässig, wenn im Sechsmonatsdurchschnitt acht Stunden pro Werktag nicht überschritten werden.",
+          "grundlage": "§ 3 ArbZG"
+        },
+        {
+          "wert": "11 Stunden",
+          "was": "Mindestruhezeit zwischen zwei Arbeitstagen, mit branchenspezifischen Ausnahmen (z. B. Gaststätten, Krankenhäuser).",
+          "grundlage": "§ 5 ArbZG"
+        },
+        {
+          "wert": "vertrags-/tarifabhängig",
+          "was": "Ob, wie und in welcher Frist Überstunden vergütet oder durch Freizeit ausgeglichen werden, ergibt sich aus dem Arbeits- oder Tarifvertrag; ohne jede Regelung gilt eine übliche Vergütung als stillschweigend vereinbart, wenn Überstunden erkennbar erwartet wurden.",
+          "grundlage": "§ 612 Abs. 1 BGB; Arbeits-/Tarifvertrag"
+        }
+      ],
+      "achtung": [
+        "Eine Klausel wie „mit dem Gehalt sind alle Überstunden abgegolten“ ist nach der Rechtsprechung des Bundesarbeitsgerichts oft unwirksam, wenn sie nicht erkennen lässt, wie viele Überstunden davon erfasst sein sollen – dann müssen tatsächlich geleistete Mehrstunden gesondert vergütet werden.",
+        "Wer Überstunden vor Gericht geltend macht, muss grundsätzlich im Einzelnen darlegen, an welchem Tag wie viele Überstunden aus welchem Grund geleistet und vom Arbeitgeber angeordnet, geduldet oder gebilligt wurden – eigene, lückenlose Aufzeichnungen sind daher wichtig.",
+        "Das Arbeitszeitgesetz schützt vor allem die Höchstarbeitszeit und Ruhezeiten; ein eigenständiger Anspruch auf Überstundenvergütung folgt daraus nicht unmittelbar.",
+        "Angekündigte, aber noch nicht in Kraft getretene Änderung: Ein Referentenentwurf des Bundesministeriums für Arbeit und Soziales vom Juni 2026 sieht eine grundsätzliche Pflicht zur elektronischen Erfassung von Beginn, Ende und Dauer der täglichen Arbeitszeit sowie eine wöchentliche statt tägliche Höchstarbeitszeit für tarifgebundene Betriebe vor. Nach Angaben des Ministeriums handelt es sich bislang um eine hausinterne Arbeitsfassung ohne Kabinettsbeschluss; das parlamentarische Gesetzgebungsverfahren hatte zum Stand dieser Seite noch nicht begonnen."
+      ],
+      "fach_html": "<h3>Höchstarbeitszeit und Ruhezeiten</h3><p>Nach § 3 ArbZG darf die werktägliche Arbeitszeit acht Stunden nicht überschreiten; sie kann auf bis zu zehn Stunden verlängert werden, wenn innerhalb von sechs Kalendermonaten oder 24 Wochen im Durchschnitt acht Stunden werktäglich nicht überschritten werden. Nach Beendigung der täglichen Arbeitszeit müssen Arbeitnehmerinnen und Arbeitnehmer eine ununterbrochene Ruhezeit von mindestens elf Stunden haben (§ 5 Abs. 1 ArbZG), mit branchenspezifischen Verkürzungsmöglichkeiten etwa im Gaststätten- oder Krankenhausbereich.</p><h3>Grundlage für Überstundenvergütung</h3><p>Ein eigenständiger gesetzlicher Anspruch auf Überstundenvergütung existiert nicht; er ergibt sich entweder ausdrücklich aus Arbeits- oder Tarifvertrag oder – mangels anderer Regelung – aus § 612 Abs. 1 BGB, wonach eine Vergütung als stillschweigend vereinbart gilt, wenn die Erbringung der Dienstleistung den Umständen nach nur gegen eine Vergütung zu erwarten ist. Pauschale Abgeltungsklauseln müssen nach ständiger BAG-Rechtsprechung hinreichend transparent regeln, welcher Umfang an Mehrarbeit abgegolten sein soll (Transparenzgebot, § 307 Abs. 1 Satz 2 BGB); andernfalls sind sie unwirksam.</p><h3>Darlegungs- und Beweislast</h3><p>Wer Überstunden gerichtlich geltend macht, muss im Einzelnen vortragen, an welchen Tagen welche Arbeitszeiten geleistet wurden und dass diese vom Arbeitgeber angeordnet, gebilligt oder zumindest geduldet wurden bzw. zur Erledigung der übertragenen Arbeit notwendig waren. Der Europäische Gerichtshof hat 2019 (Rechtssache „CCOO“) eine generelle Pflicht der Mitgliedstaaten zur Einführung eines objektiven, verlässlichen Systems der Arbeitszeiterfassung angenommen; das Bundesarbeitsgericht hat 2022 daraus eine Pflicht des Arbeitgebers zur Arbeitszeiterfassung nach geltendem Arbeitsschutzrecht (§ 3 Abs. 2 Nr. 1 ArbSchG) abgeleitet, ohne dass es dafür bislang ein eigenständiges, im Detail ausformuliertes Gesetz gibt.</p><h3>Geplantes Arbeitszeiterfassungsgesetz</h3><p>Ein Referentenentwurf des BMAS vom Juni 2026 sieht vor, die elektronische Erfassung von Beginn, Ende und Dauer der täglichen Arbeitszeit gesetzlich zur Grundpflicht zu machen und für tarifgebundene Betriebe eine wöchentliche statt tägliche Höchstarbeitszeit zu ermöglichen. Das Ministerium selbst bezeichnete den Entwurf als hausinterne Arbeitsfassung; ein Kabinettsbeschluss lag zum Stand dieser Seite nicht vor, das parlamentarische Verfahren hatte noch nicht begonnen.</p>",
+      "zustaendig": [
+        "Arbeitgeber",
+        "Betriebsrat, sofern vorhanden (Mitbestimmung bei Arbeitszeit, § 87 Abs. 1 Nr. 2, 3 BetrVG)",
+        "Örtliches Arbeitsgericht bei Streit über Vergütung"
+      ],
+      "belege": [
+        "Arbeitszeitgesetz (ArbZG), gesetze-im-internet.de",
+        "Arbeitsschutzgesetz (ArbSchG) § 3, gesetze-im-internet.de",
+        "energieundrecht.com, „Reform des Arbeitszeitgesetzes 2026: Referentenentwurf liegt vor“",
+        "der-paritaetische.de, „Referentenentwurf zur Änderung des Arbeitszeitgesetzes“"
+      ],
+      "siehe_auch": [
+        "lohn-mindestlohn-und-nachzahlung",
+        "kurzarbeit"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "kurzarbeit",
+      "kategorie": "geld-zeit",
+      "titel": "Kurzarbeit und Kurzarbeitergeld",
+      "icon": "📉",
+      "teaser": "Wie Kurzarbeit eingeführt wird, wie viel Kurzarbeitergeld ersetzt – und wie lange es 2026 ausnahmsweise länger als sonst gezahlt werden kann.",
+      "schlagworte": [
+        "Kurzarbeitergeld",
+        "Kug",
+        "SGB III",
+        "Arbeitsausfall",
+        "Bezugsdauer",
+        "Anzeige der Kurzarbeit"
+      ],
+      "kurz_html": "<p>Kurzarbeit ist die vorübergehende Verringerung der betriebsüblichen Arbeitszeit, meist wegen Auftragsmangels. Sie darf nicht einseitig vom Arbeitgeber angeordnet werden, sondern braucht eine Rechtsgrundlage im Arbeits- oder Tarifvertrag, eine Betriebsvereinbarung mit dem Betriebsrat oder Ihre individuelle Zustimmung.</p><p>Das Kurzarbeitergeld der Bundesagentur für Arbeit gleicht einen Teil des Verdienstausfalls aus. Die reguläre Höchstbezugsdauer beträgt zwölf Monate; durch eine befristete Verordnung ist sie für einen Teil des Jahres 2026 ausnahmsweise auf bis zu 24 Monate verlängert worden.</p>",
+      "schritte": [
+        {
+          "titel": "Rechtsgrundlage für Kurzarbeit prüfen",
+          "text": "Ohne Regelung im Arbeits- oder Tarifvertrag, Betriebsvereinbarung oder Ihre Zustimmung darf der Arbeitgeber Kurzarbeit nicht einseitig anordnen."
+        },
+        {
+          "titel": "Anzeige bei der Agentur für Arbeit beachten",
+          "text": "Der Arbeitgeber muss den Arbeitsausfall vorab schriftlich bei der zuständigen Agentur für Arbeit anzeigen."
+        },
+        {
+          "titel": "Eigenen Verdienstausfall nachvollziehen",
+          "text": "Kurzarbeitergeld ersetzt nur einen Teil des ausgefallenen Nettoentgelts – prüfen Sie die Berechnung anhand der Entgeltabrechnung."
+        },
+        {
+          "titel": "Bei Unklarheiten Betriebsrat oder Agentur für Arbeit einschalten",
+          "text": "Der Betriebsrat hat bei Einführung und Ausgestaltung von Kurzarbeit ein Mitbestimmungsrecht und kann Auskünfte einholen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "12 Monate",
+          "was": "Reguläre Höchstbezugsdauer für Kurzarbeitergeld nach dem Gesetz.",
+          "grundlage": "§ 104 Abs. 1 Satz 1 SGB III"
+        },
+        {
+          "wert": "bis zu 24 Monate (befristet)",
+          "was": "Durch eine Rechtsverordnung vom Dezember 2025, in Kraft seit 1. Januar 2026 und befristet bis 31. Dezember 2026, wurde die Bezugsdauer ausnahmsweise auf bis zu 24 Monate verlängert.",
+          "grundlage": "Verordnung über die Bezugsdauer für das Kurzarbeitergeld, gestützt auf § 109 Abs. 5 SGB III"
+        }
+      ],
+      "achtung": [
+        "Kurzarbeit darf nicht einfach per Ansage des Arbeitgebers eingeführt werden – ohne wirksame Rechtsgrundlage (Vertrag, Betriebsvereinbarung, Zustimmung) bleibt der volle Vergütungsanspruch bestehen, auch wenn tatsächlich weniger gearbeitet wird.",
+        "Die Verlängerung der Bezugsdauer auf bis zu 24 Monate ist zeitlich befristet und an die Fortdauer der zugrunde liegenden Verordnung gekoppelt; ob und in welcher Form sie über den 31. Dezember 2026 hinaus verlängert wird, war zum Stand dieser Seite noch offen.",
+        "Bei bereits laufendem Bezug ist für die Verlängerung eine erneute Anzeige des Arbeitgebers mit Nachweis des fortbestehenden erheblichen Arbeitsausfalls erforderlich – geschieht das nicht rechtzeitig, kann die Zahlung unterbrochen werden.",
+        "Während der Kurzarbeit bleibt das Arbeitsverhältnis grundsätzlich in vollem Umfang bestehen; Kurzarbeit schließt eine spätere betriebsbedingte Kündigung nicht automatisch aus, wenn sich die wirtschaftliche Lage nicht bessert."
+      ],
+      "fach_html": "<h3>Voraussetzungen für Kurzarbeitergeld</h3><p>Kurzarbeitergeld wird gewährt, wenn ein erheblicher Arbeitsausfall mit Entgeltausfall vorliegt, der auf wirtschaftlichen Gründen oder einem unabwendbaren Ereignis beruht, vorübergehend ist, nicht vermeidbar ist und im jeweiligen Kalendermonat einen bestimmten Anteil der Beschäftigten mit einem Entgeltausfall von jeweils mehr als 10 % ihres Bruttoentgelts betrifft (§§ 95–99 SGB III). Der Arbeitsausfall muss der Agentur für Arbeit vorher schriftlich angezeigt werden (§ 99 SGB III).</p><h3>Einführung im Betrieb</h3><p>Kurzarbeit selbst ist keine gesetzlich automatisch bestehende Option, sondern muss arbeitsrechtlich wirksam eingeführt werden – durch eine entsprechende Klausel im Arbeitsvertrag, einen Tarifvertrag, eine Betriebsvereinbarung mit dem Betriebsrat (der hierbei ein zwingendes Mitbestimmungsrecht nach § 87 Abs. 1 Nr. 3 BetrVG hat) oder durch individuelle Zustimmung der Arbeitnehmerin oder des Arbeitnehmers.</p><h3>Höhe des Kurzarbeitergeldes</h3><p>Das Kurzarbeitergeld beträgt grundsätzlich 60 % der Nettoentgeltdifferenz, für Arbeitnehmerinnen und Arbeitnehmer mit mindestens einem Kind 67 % (§ 105 SGB III). Es wird von der Agentur für Arbeit berechnet und in der Regel vom Arbeitgeber ausgezahlt, der sich die Beträge anschließend von der Agentur für Arbeit erstatten lässt.</p><h3>Bezugsdauer 2026</h3><p>Die reguläre Höchstbezugsdauer beträgt zwölf Monate (§ 104 Abs. 1 Satz 1 SGB III). Für außergewöhnliche Verhältnisse auf dem gesamten Arbeitsmarkt kann die Bundesregierung die Bezugsdauer per Rechtsverordnung auf bis zu 24 Monate verlängern (§ 109 Abs. 5 SGB III). Eine solche Verordnung – die Vierte Verordnung über die Bezugsdauer für das Kurzarbeitergeld (BMAS, Kabinettsbeschluss November 2025) – ist mit Wirkung zum 1. Januar 2026 erlassen worden und bis zum 31. Dezember 2026 befristet.</p>",
+      "zustaendig": [
+        "Agentur für Arbeit (Bewilligung Kurzarbeitergeld)",
+        "Arbeitgeber (Anzeige, Auszahlung)",
+        "Betriebsrat, sofern vorhanden (Mitbestimmung)"
+      ],
+      "belege": [
+        "Sozialgesetzbuch III (SGB III) §§ 95–99, 104, 105, 109, gesetze-im-internet.de",
+        "BMAS, „Vierte Verordnung über die Bezugsdauer für das Kurzarbeitergeld“",
+        "Bundesregierung.de, „Bezugsdauer von Kurzarbeitergeld“",
+        "bayme vbm, „Verlängerung der Bezugsdauer von Kurzarbeitergeld beschlossen“"
+      ],
+      "siehe_auch": [
+        "arbeitszeit-und-ueberstunden",
+        "betriebsrat-und-mitbestimmung"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "betriebsrat-und-mitbestimmung",
+      "kategorie": "mitbestimmung",
+      "titel": "Betriebsrat und Mitbestimmung",
+      "icon": "🤝",
+      "teaser": "Ab wann ein Betriebsrat gewählt werden kann, wobei er zwingend mitzubestimmen hat – und wie Sie ihn im Konfliktfall einschalten.",
+      "schlagworte": [
+        "Betriebsrat",
+        "BetrVG",
+        "Mitbestimmung",
+        "Betriebsratswahl",
+        "Betriebsversammlung",
+        "Kündigungsanhörung"
+      ],
+      "kurz_html": "<p>In Betrieben mit in der Regel mindestens fünf ständig wahlberechtigten Arbeitnehmerinnen und Arbeitnehmern, von denen drei wählbar sind, kann ein Betriebsrat gewählt werden. Er vertritt die Belegschaft gegenüber dem Arbeitgeber und hat je nach Thema unterschiedlich starke Rechte – von reiner Information bis zur echten Mitbestimmung, bei der der Arbeitgeber ohne Zustimmung des Betriebsrats nichts wirksam entscheiden kann.</p><p>Besonders praxisrelevant: Vor jeder Kündigung muss der Betriebsrat angehört werden. Eine ohne diese Anhörung ausgesprochene Kündigung ist unwirksam.</p>",
+      "schritte": [
+        {
+          "titel": "Prüfen, ob ein Betriebsrat besteht",
+          "text": "Fragen Sie im Betrieb nach oder schauen Sie am Aushang – ein bestehender Betriebsrat muss seine Mitglieder bekanntgeben."
+        },
+        {
+          "titel": "Betriebsrat bei Problemen ansprechen",
+          "text": "Der Betriebsrat kann bei Konflikten mit dem Arbeitgeber vermitteln, Auskünfte einholen und in bestimmten Angelegenheiten die Zustimmung verweigern."
+        },
+        {
+          "titel": "Gibt es keinen Betriebsrat: Wahl anstoßen",
+          "text": "Schon drei wahlberechtigte Arbeitnehmerinnen oder Arbeitnehmer oder eine im Betrieb vertretene Gewerkschaft können zu einer Betriebsversammlung zur Wahl eines Wahlvorstands einladen (§ 17 BetrVG)."
+        },
+        {
+          "titel": "Bei Kündigung: Anhörung des Betriebsrats prüfen",
+          "text": "Erkundigen Sie sich, ob und wann der Betriebsrat vor einer Kündigung angehört wurde – fehlt die Anhörung, ist die Kündigung unwirksam."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "≥ 5 Arbeitnehmer",
+          "was": "Mindestbetriebsgröße, ab der ein Betriebsrat gewählt werden kann (davon mindestens drei wählbar).",
+          "grundlage": "§ 1 Abs. 1 BetrVG"
+        },
+        {
+          "wert": "1 Woche",
+          "was": "Regelfrist, innerhalb derer der Betriebsrat bei einer ordentlichen Kündigung Bedenken äußern kann; bei außerordentlicher Kündigung verkürzt sich die Frist auf drei Tage.",
+          "grundlage": "§ 102 Abs. 2 BetrVG"
+        }
+      ],
+      "achtung": [
+        "Eine Kündigung ohne vorherige Anhörung des Betriebsrats ist unwirksam – das gilt unabhängig davon, ob der Kündigungsgrund selbst berechtigt gewesen wäre.",
+        "Der Betriebsrat kann eine Kündigung nicht verhindern, sondern nur Bedenken äußern oder in bestimmten, gesetzlich benannten Fällen widersprechen; ein Widerspruch verschafft aber unter bestimmten Voraussetzungen einen Weiterbeschäftigungsanspruch bis zum Ende eines Kündigungsschutzprozesses (§ 102 Abs. 5 BetrVG).",
+        "Mitglieder des Betriebsrats genießen besonderen Kündigungsschutz; wer sich als Kandidatin oder Kandidat für die Wahl engagiert, ist bereits im Vorfeld der Wahl in bestimmtem Umfang geschützt (§ 15 KSchG).",
+        "Ohne bestehenden Betriebsrat entfallen viele der hier beschriebenen Mitbestimmungsrechte faktisch – die gesetzlichen Individualansprüche (z. B. auf Lohn, Urlaub, Kündigungsschutz) bleiben davon unberührt."
+      ],
+      "fach_html": "<h3>Errichtung und Wahl</h3><p>Ein Betriebsrat kann in Betrieben mit in der Regel mindestens fünf ständigen wahlberechtigten Arbeitnehmerinnen und Arbeitnehmern gewählt werden, von denen mindestens drei wählbar sein müssen (§ 1 Abs. 1 BetrVG). Die Wahl wird von einem Wahlvorstand organisiert, der entweder von einem bestehenden Betriebsrat, einer Betriebsversammlung oder – wenn kein Betriebsrat besteht – auf Einladung von mindestens drei wahlberechtigten Arbeitnehmerinnen und Arbeitnehmern oder einer im Betrieb vertretenen Gewerkschaft bestellt wird (§ 17 BetrVG).</p><h3>Abstufungen der Beteiligungsrechte</h3><p>Das BetrVG unterscheidet unter anderem Informationsrechte (z. B. zur wirtschaftlichen Lage, § 106 BetrVG), Anhörungsrechte (z. B. vor Kündigungen, § 102 BetrVG), Mitwirkungsrechte (Widerspruchs- und Beratungsrechte, z. B. bei Kündigungen) und echte, erzwingbare Mitbestimmungsrechte in sozialen Angelegenheiten (§ 87 BetrVG), etwa bei Beginn und Ende der täglichen Arbeitszeit, Überstunden, Urlaubsgrundsätzen, betrieblicher Lohngestaltung und der Einführung technischer Überwachungseinrichtungen. Ohne Zustimmung des Betriebsrats oder Ersetzung durch die Einigungsstelle darf der Arbeitgeber in diesen Angelegenheiten nicht wirksam entscheiden.</p><h3>Anhörung vor Kündigungen</h3><p>§ 102 Abs. 1 BetrVG verpflichtet den Arbeitgeber, den Betriebsrat vor jeder Kündigung – ordentlich wie außerordentlich – zu hören und ihm die Kündigungsgründe mitzuteilen. Eine ohne Anhörung ausgesprochene Kündigung ist unwirksam (§ 102 Abs. 1 Satz 3 BetrVG). Widerspricht der Betriebsrat einer ordentlichen Kündigung form- und fristgerecht aus einem der in § 102 Abs. 3 BetrVG genannten Gründe, kann dies unter bestimmten Voraussetzungen einen Anspruch auf Weiterbeschäftigung bis zum rechtskräftigen Abschluss eines Kündigungsschutzprozesses begründen (§ 102 Abs. 5 BetrVG).</p><h3>Sonderkündigungsschutz</h3><p>Mitglieder des Betriebsrats sind während ihrer Amtszeit und ein Jahr danach nur außerordentlich kündbar (§ 15 KSchG); auch Wahlbewerberinnen und -bewerber sowie Initiatoren einer Betriebsratswahl genießen einen zeitlich begrenzten besonderen Schutz.</p>",
+      "zustaendig": [
+        "Betriebsrat",
+        "Örtliches Arbeitsgericht bei Streit über Mitbestimmungsrechte",
+        "Gewerkschaft"
+      ],
+      "belege": [
+        "Betriebsverfassungsgesetz (BetrVG) §§ 1, 15, 17, 87, 102, 106, gesetze-im-internet.de",
+        "Kündigungsschutzgesetz (KSchG) § 15, gesetze-im-internet.de"
+      ],
+      "siehe_auch": [
+        "kuendigungsschutz",
+        "kurzarbeit",
+        "arbeitszeit-und-ueberstunden"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "mobbing-diskriminierung-arbeitsschutz",
+      "kategorie": "schutz",
+      "titel": "Mobbing, Diskriminierung und Arbeitsschutz",
+      "icon": "🛡️",
+      "teaser": "Welchen rechtlichen Schutz Sie bei Mobbing und Diskriminierung haben, welche Frist beim AGG besonders kurz ist – und wer für den Arbeitsschutz zuständig ist.",
+      "schlagworte": [
+        "Mobbing",
+        "AGG",
+        "Diskriminierung",
+        "Fürsorgepflicht",
+        "Arbeitsschutz",
+        "Gefährdungsbeurteilung",
+        "Entschädigung"
+      ],
+      "kurz_html": "<p>„Mobbing“ ist kein eigenständiger Gesetzesbegriff, sondern wird von der Rechtsprechung als systematisches, fortgesetztes Anfeinden, Schikanieren oder Diskriminieren erfasst, das die Würde und Gesundheit der betroffenen Person verletzt. Der Arbeitgeber hat eine Fürsorgepflicht, Beschäftigte davor zu schützen (§ 618 BGB).</p><p>Für Diskriminierung aus den im Allgemeinen Gleichbehandlungsgesetz genannten Gründen – etwa Geschlecht, Alter, Behinderung, ethnische Herkunft, Religion oder sexuelle Identität – gelten besondere, sehr kurze Fristen: Ansprüche müssen in der Regel innerhalb von zwei Monaten schriftlich geltend gemacht werden.</p>",
+      "schritte": [
+        {
+          "titel": "Vorfälle systematisch dokumentieren",
+          "text": "Notieren Sie Datum, Uhrzeit, Beteiligte, Zeuginnen und Zeugen sowie den genauen Wortlaut von Vorfällen – möglichst zeitnah nach jedem Ereignis."
+        },
+        {
+          "titel": "Innerbetriebliche Beschwerdestelle einschalten",
+          "text": "Nach § 13 AGG muss es eine Beschwerdestelle im Betrieb geben, bei der Sie sich beschweren können, ohne Nachteile befürchten zu müssen."
+        },
+        {
+          "titel": "Betriebsrat oder Schwerbehindertenvertretung einbeziehen",
+          "text": "Beide können bei der Aufklärung und Lösung des Konflikts unterstützen und haben eigene Beteiligungsrechte."
+        },
+        {
+          "titel": "Bei AGG-relevanter Diskriminierung: Frist von zwei Monaten beachten",
+          "text": "Entschädigungs- und Schadensersatzansprüche nach dem AGG müssen innerhalb von zwei Monaten schriftlich gegenüber dem Arbeitgeber geltend gemacht werden, danach läuft eine weitere Klagefrist von drei Monaten."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "2 Monate",
+          "was": "Frist zur schriftlichen Geltendmachung von Entschädigungs- und Schadensersatzansprüchen nach dem AGG gegenüber dem Arbeitgeber, ab Kenntnis der Benachteiligung.",
+          "grundlage": "§ 15 Abs. 4 AGG"
+        },
+        {
+          "wert": "3 Monate",
+          "was": "Anschließende Klagefrist vor dem Arbeitsgericht, nachdem der Anspruch fristgerecht geltend gemacht wurde bzw. ab Ablehnung durch den Arbeitgeber.",
+          "grundlage": "§ 61b ArbGG"
+        }
+      ],
+      "achtung": [
+        "Die AGG-Fristen sind sehr kurz und beginnen unabhängig davon zu laufen, ob innerbetriebliche Klärungsversuche noch laufen – parallel zur innerbetrieblichen Beschwerde sollte deshalb frühzeitig anwaltlicher Rat eingeholt werden, wenn die Zwei-Monats-Frist näher rückt.",
+        "„Mobbing“ als solches ist kein eigener Klagegrund; rechtlich müssen einzelne, im Ergebnis eine Rechtsverletzung begründende Handlungen (z. B. Beleidigung, Ausgrenzung, gesundheitsschädigende Weisungen) benannt und möglichst belegt werden.",
+        "Wer sich beschwert, ist vor Repressalien besonders geschützt (Maßregelungsverbot, § 16 AGG); trotzdem sollten Beschwerden gut dokumentiert und nach Möglichkeit mit Unterstützung (Betriebsrat, Beratungsstelle) eingereicht werden.",
+        "Der Arbeitsschutz (u. a. Gefährdungsbeurteilung psychischer Belastungen nach § 5 ArbSchG) ist eine eigenständige, von der Diskriminierungsfrage unabhängige Pflicht des Arbeitgebers, deren Einhaltung auch das zuständige Gewerbeaufsichtsamt bzw. Amt für Arbeitsschutz kontrollieren kann."
+      ],
+      "fach_html": "<h3>Fürsorgepflicht und Mobbing</h3><p>Auch ohne eigenständiges „Mobbing-Gesetz“ ergibt sich aus § 618 BGB (Fürsorgepflicht) sowie dem allgemeinen Persönlichkeitsrecht eine Pflicht des Arbeitgebers, Beschäftigte vor systematischen Anfeindungen und Schikanen am Arbeitsplatz zu schützen und aktiv einzugreifen, wenn er davon Kenntnis erlangt. Verletzt der Arbeitgeber diese Pflicht, können Unterlassungs-, Schadensersatz- und in gravierenden Fällen Schmerzensgeldansprüche in Betracht kommen.</p><h3>Schutz nach dem AGG</h3><p>Das Allgemeine Gleichbehandlungsgesetz verbietet Benachteiligungen aus Gründen der Rasse oder ethnischen Herkunft, des Geschlechts, der Religion oder Weltanschauung, einer Behinderung, des Alters oder der sexuellen Identität (§ 1 AGG) – bei der Begründung, während und bei der Beendigung eines Arbeitsverhältnisses. Bei einem Verstoß können Entschädigung für immaterielle Nachteile (§ 15 Abs. 2 AGG) und Schadensersatz für materielle Schäden (§ 15 Abs. 1 AGG) verlangt werden. Beide Ansprüche müssen innerhalb von zwei Monaten schriftlich gegenüber dem Arbeitgeber geltend gemacht werden (§ 15 Abs. 4 AGG), gefolgt von einer dreimonatigen Klagefrist (§ 61b ArbGG).</p><h3>Beweiserleichterung</h3><p>Legt die betroffene Person Indizien dar, die eine Benachteiligung aus einem der genannten Gründe überwiegend wahrscheinlich machen, trägt der Arbeitgeber die Beweislast dafür, dass kein Verstoß gegen das Benachteiligungsverbot vorlag (§ 22 AGG).</p><h3>Arbeitsschutz und Gefährdungsbeurteilung</h3><p>Unabhängig von Diskriminierungsfragen verpflichtet das Arbeitsschutzgesetz den Arbeitgeber zu einer Gefährdungsbeurteilung, die ausdrücklich auch psychische Belastungen bei der Arbeit einschließt (§ 5 Abs. 3 Nr. 6 ArbSchG). Systematische Konflikte am Arbeitsplatz können hierbei relevant sein und Anlass für Maßnahmen des Arbeitgebers sein, unabhängig von einem individuellen Anspruch der betroffenen Person.</p>",
+      "zustaendig": [
+        "Innerbetriebliche Beschwerdestelle (§ 13 AGG)",
+        "Betriebsrat, sofern vorhanden",
+        "Antidiskriminierungsstelle des Bundes (Erstberatung)",
+        "Örtliches Arbeitsgericht",
+        "Zuständige Arbeitsschutzbehörde des jeweiligen Bundeslandes"
+      ],
+      "belege": [
+        "Allgemeines Gleichbehandlungsgesetz (AGG), gesetze-im-internet.de",
+        "Bürgerliches Gesetzbuch (BGB) § 618, gesetze-im-internet.de",
+        "Arbeitsschutzgesetz (ArbSchG) § 5, gesetze-im-internet.de",
+        "Arbeitsgerichtsgesetz (ArbGG) § 61b, gesetze-im-internet.de"
+      ],
+      "siehe_auch": [
+        "arbeitsunfall-und-berufskrankheit",
+        "beratung-anlaufstellen-arbeitnehmer"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "arbeitsunfall-und-berufskrankheit",
+      "kategorie": "schutz",
+      "titel": "Arbeitsunfall und Berufskrankheit",
+      "icon": "🚑",
+      "teaser": "Was als Arbeitsunfall gilt, warum die Berufsgenossenschaft und nicht die Krankenkasse zuständig ist – und was Sie nach einem Unfall als Erstes tun sollten.",
+      "schlagworte": [
+        "Arbeitsunfall",
+        "Berufskrankheit",
+        "Berufsgenossenschaft",
+        "SGB VII",
+        "Wegeunfall",
+        "Meldepflicht"
+      ],
+      "kurz_html": "<p>Ein Arbeitsunfall ist ein zeitlich begrenztes, von außen auf den Körper einwirkendes Ereignis, das während der versicherten Tätigkeit zu einem Gesundheitsschaden führt – dazu zählt grundsätzlich auch der direkte Weg zur und von der Arbeit (Wegeunfall). Zuständig ist nicht die Krankenkasse, sondern die gesetzliche Unfallversicherung, organisiert in Berufsgenossenschaften.</p><p>Anders als bei „gewöhnlicher“ Krankheit trägt die Berufsgenossenschaft bei einem anerkannten Arbeitsunfall oder einer anerkannten Berufskrankheit die Heilbehandlung von Anfang an und zahlt bei dauerhaften Folgen eine Verletztenrente – unabhängig von einem Verschulden des Arbeitgebers.</p>",
+      "schritte": [
+        {
+          "titel": "Erste Hilfe und ärztliche Versorgung",
+          "text": "Suchen Sie nach einem Arbeitsunfall unverzüglich eine Durchgangsärztin oder einen Durchgangsarzt auf (besondere, von der Berufsgenossenschaft zugelassene Ärztinnen und Ärzte), sofern der Unfall über eine Bagatellverletzung hinausgeht."
+        },
+        {
+          "titel": "Unfall dem Arbeitgeber melden",
+          "text": "Melden Sie den Unfall unverzüglich im Betrieb, damit er ins Verbandbuch eingetragen und bei meldepflichtigen Unfällen an die Berufsgenossenschaft weitergeleitet wird."
+        },
+        {
+          "titel": "Meldung an die Berufsgenossenschaft prüfen",
+          "text": "Der Arbeitgeber muss Unfälle, die zu mehr als drei Tagen Arbeitsunfähigkeit oder zum Tod führen, der Berufsgenossenschaft melden (§ 193 SGB VII)."
+        },
+        {
+          "titel": "Bei Verdacht auf Berufskrankheit: ärztliche Verdachtsanzeige",
+          "text": "Ärztinnen und Ärzte sind verpflichtet, den begründeten Verdacht auf eine Berufskrankheit der Berufsgenossenschaft anzuzeigen; Sie können dies auch selbst anregen."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "unverzüglich",
+          "was": "Meldung eines Arbeitsunfalls im Betrieb, insbesondere zur Sicherung des Versicherungsschutzes und einer lückenlosen Dokumentation.",
+          "grundlage": "betriebliche Praxis, abgeleitet aus § 193 SGB VII (Arbeitgeberpflicht)"
+        },
+        {
+          "wert": "> 3 Tage Arbeitsunfähigkeit oder Tod",
+          "was": "Schwelle, ab der der Arbeitgeber einen Unfall der zuständigen Berufsgenossenschaft melden muss.",
+          "grundlage": "§ 193 Abs. 1 SGB VII"
+        }
+      ],
+      "achtung": [
+        "Wird ein Arbeitsunfall nicht rechtzeitig einer Durchgangsärztin oder einem Durchgangsarzt vorgestellt, kann das die spätere Anerkennung und die Beweisführung erschweren.",
+        "Ein Wegeunfall ist nur auf dem unmittelbaren Weg zur oder von der Arbeit versichert; nicht ganz unerhebliche private Umwege oder Unterbrechungen können den Versicherungsschutz unterbrechen – die genaue Grenze ist im Einzelfall oft streitig.",
+        "Ansprüche gegen die Berufsgenossenschaft schließen in aller Regel eine zusätzliche Haftungsklage gegen den Arbeitgeber oder Kolleginnen und Kollegen wegen desselben Schadens aus (Haftungsprivileg, §§ 104, 105 SGB VII) – außer bei Vorsatz.",
+        "Die Anerkennung einer Berufskrankheit setzt voraus, dass die Erkrankung in der Berufskrankheiten-Liste der Berufskrankheiten-Verordnung aufgeführt ist und ein hinreichender ursächlicher Zusammenhang mit der beruflichen Tätigkeit wahrscheinlich gemacht werden kann – das ist in der Praxis oft die größte Hürde."
+      ],
+      "fach_html": "<h3>Begriff des Arbeitsunfalls</h3><p>Nach § 8 Abs. 1 SGB VII ist ein Arbeitsunfall ein Unfall, den eine versicherte Person infolge einer versicherten Tätigkeit erleidet – ein zeitlich begrenztes, von außen auf den Körper einwirkendes Ereignis, das zu einem Gesundheitsschaden oder Tod führt. Nach § 8 Abs. 2 SGB VII gehören auch Wegeunfälle dazu: Unfälle auf dem unmittelbaren Weg zwischen Wohnung und Ort der Tätigkeit.</p><h3>Zuständigkeit der gesetzlichen Unfallversicherung</h3><p>Träger sind die Berufsgenossenschaften (für die gewerbliche Wirtschaft) beziehungsweise die Unfallversicherungsträger der öffentlichen Hand. Sie erbringen Heilbehandlung „mit allen geeigneten Mitteln“ von Beginn an (§ 26 SGB VII), Leistungen zur Teilhabe am Arbeitsleben sowie bei bleibenden gesundheitlichen Folgen eine Verletztenrente, deren Höhe sich nach dem Grad der Minderung der Erwerbsfähigkeit richtet (§§ 56 ff. SGB VII).</p><h3>Berufskrankheiten</h3><p>Eine Berufskrankheit liegt vor, wenn eine Erkrankung in der Anlage 1 der Berufskrankheiten-Verordnung (BKV) aufgeführt ist und die betroffene Person sie durch ihre versicherte berufliche Tätigkeit in erheblich höherem Maß als die übrige Bevölkerung erlitten hat (§ 9 SGB VII). Ärztinnen und Ärzte sowie Zahnärztinnen und Zahnärzte sind verpflichtet, einen begründeten Verdacht auf eine Berufskrankheit der zuständigen Berufsgenossenschaft anzuzeigen (§ 202 SGB VII).</p><h3>Haftungsprivileg</h3><p>Wegen eines Versicherungsfalls (Arbeitsunfall oder Berufskrankheit) sind der Arbeitgeber sowie im Betrieb tätige Personen gegenüber der geschädigten Person grundsätzlich von der zivilrechtlichen Haftung befreit, außer bei vorsätzlicher Herbeiführung des Schadens (§§ 104, 105 SGB VII). Im Gegenzug tritt die gesetzliche Unfallversicherung unabhängig von einem Verschulden ein.</p>",
+      "zustaendig": [
+        "Zuständige Berufsgenossenschaft",
+        "Durchgangsärztin/Durchgangsarzt",
+        "Betriebsrat, sofern vorhanden (Arbeitsschutzausschuss)"
+      ],
+      "belege": [
+        "Sozialgesetzbuch VII (SGB VII) §§ 8, 9, 26, 56, 104, 105, 193, 202, gesetze-im-internet.de",
+        "Berufskrankheiten-Verordnung (BKV), gesetze-im-internet.de"
+      ],
+      "siehe_auch": [
+        "mobbing-diskriminierung-arbeitsschutz",
+        "lohnfortzahlung-im-krankheitsfall"
+      ],
+      "stand": "September 2026"
+    },
+    {
+      "id": "beratung-anlaufstellen-arbeitnehmer",
+      "kategorie": "beratung",
+      "titel": "Beratung und Anlaufstellen",
+      "icon": "📍",
+      "teaser": "Wer Arbeitnehmerinnen und Arbeitnehmer unabhängig berät – oft kostenlos oder gegen geringes Entgelt – und wann Sie besser sofort zur Anwältin oder zum Anwalt gehen sollten.",
+      "schlagworte": [
+        "Beratungsstelle",
+        "Rechtsantragstelle",
+        "Gewerkschaft",
+        "Rechtsschutzversicherung",
+        "Beratungshilfe",
+        "Prozesskostenhilfe"
+      ],
+      "kurz_html": "<p>Bei arbeitsrechtlichen Fragen müssen Sie nicht allein bleiben: Betriebsrat, Gewerkschaften, Rechtsantragstellen bei den Arbeitsgerichten und – bei geringem Einkommen – die staatliche Beratungshilfe und Prozesskostenhilfe bieten Unterstützung, oft kostenlos oder deutlich vergünstigt.</p><p>Bei kurzen Fristen, insbesondere der Drei-Wochen-Frist für die Kündigungsschutzklage, zählt vor allem Geschwindigkeit: Im Zweifel lieber sofort die Rechtsantragstelle des Arbeitsgerichts oder eine Anwältin oder einen Anwalt aufsuchen, statt erst lange abzuwägen.</p>",
+      "schritte": [
+        {
+          "titel": "Betriebsrat oder Gewerkschaft ansprechen",
+          "text": "Sind Sie Gewerkschaftsmitglied, haben Sie oft Anspruch auf kostenlose Rechtsberatung und -vertretung durch den gewerkschaftlichen Rechtsschutz."
+        },
+        {
+          "titel": "Rechtsantragstelle beim Arbeitsgericht nutzen",
+          "text": "Dort können Sie sich – auch ohne Anwältin oder Anwalt – kostenlos beraten lassen und eine Klage zu Protokoll geben, insbesondere bei drohendem Fristablauf."
+        },
+        {
+          "titel": "Beratungshilfe beantragen",
+          "text": "Bei geringem Einkommen übernimmt der Staat einen Großteil der Kosten für anwaltliche Erstberatung außergerichtlich (Beratungshilfe) und ggf. für ein Gerichtsverfahren (Prozesskostenhilfe)."
+        },
+        {
+          "titel": "Rechtsschutzversicherung prüfen",
+          "text": "Falls vorhanden, klären Sie frühzeitig mit Ihrer Rechtsschutzversicherung, ob und in welchem Umfang Kostendeckung für eine arbeitsrechtliche Auseinandersetzung besteht."
+        }
+      ],
+      "fristen": [
+        {
+          "wert": "sofort bei kurzen Fristen",
+          "was": "Bei Kündigungen und AGG-Ansprüchen laufen sehr kurze Fristen (3 Wochen bzw. 2 Monate) – Beratung sollte hier nicht aufgeschoben werden.",
+          "grundlage": "§ 4 KSchG, § 15 Abs. 4 AGG"
+        }
+      ],
+      "achtung": [
+        "Beratungsangebote unterscheiden sich stark in Qualität und Unabhängigkeit – eine Erstauskunft ersetzt bei komplexeren Fällen meist keine vollständige anwaltliche Prüfung der Erfolgsaussichten.",
+        "Beratungshilfe und Prozesskostenhilfe setzen ein geringes Einkommen und Vermögen voraus und müssen in der Regel vor oder unmittelbar bei Beginn der anwaltlichen Tätigkeit beantragt werden.",
+        "Rechtsschutzversicherungen verlangen häufig eine Wartezeit nach Vertragsabschluss und schließen manche arbeitsrechtlichen Streitigkeiten (z. B. rund um den Abschluss eines neuen Arbeitsvertrags) unter Umständen aus – Vertragsbedingungen genau prüfen.",
+        "Wer erst eine Gewerkschaft beitreten möchte, um deren Rechtsschutz zu nutzen, sollte wissen, dass die meisten Gewerkschaften eine Mitgliedschaft bereits vor Entstehen des konkreten Rechtsstreits voraussetzen, damit der Rechtsschutz greift."
+      ],
+      "fach_html": "<h3>Betriebsrat und Gewerkschaft</h3><p>Der Betriebsrat kann bei innerbetrieblichen Konflikten vermitteln und hat in vielen Angelegenheiten eigene Auskunfts- und Mitbestimmungsrechte (siehe Themenseite „Betriebsrat und Mitbestimmung“). Gewerkschaften bieten ihren Mitgliedern in aller Regel eine kostenlose Rechtsberatung und im Streitfall auch gerichtliche Vertretung durch den gewerkschaftlichen Rechtsschutz an; Voraussetzung ist im Regelfall eine bereits vor dem Streitfall bestehende Mitgliedschaft.</p><h3>Rechtsantragstelle beim Arbeitsgericht</h3><p>Jedes Arbeitsgericht unterhält eine Rechtsantragstelle, bei der Klagen und Anträge auch ohne anwaltliche Vertretung mündlich zu Protokoll erklärt werden können. Das ist insbesondere bei drohendem Fristablauf (z. B. der Drei-Wochen-Frist nach § 4 KSchG) eine schnelle und kostenlose Möglichkeit, die Frist zu wahren.</p><h3>Beratungshilfe und Prozesskostenhilfe</h3><p>Nach dem Beratungshilfegesetz können Personen mit geringem Einkommen und Vermögen für außergerichtliche anwaltliche Beratung einen Beratungshilfeschein beim Amtsgericht beantragen; die Eigenbeteiligung beträgt meist nur einen geringen Betrag. Für ein Gerichtsverfahren kommt entsprechend Prozesskostenhilfe nach §§ 114 ff. ZPO in Betracht, die je nach Einkommen auch als zinsloses Darlehen in Raten ausgestaltet sein kann.</p><h3>Weitere unabhängige Anlaufstellen</h3><p>Daneben bieten unter anderem Verbraucherzentralen, kirchliche und kommunale Sozialberatungsstellen sowie die Antidiskriminierungsstelle des Bundes (bei AGG-relevanten Fällen) erste Orientierung, ersetzen aber keine vollständige anwaltliche Vertretung in einem gerichtlichen Verfahren.</p>",
+      "zustaendig": [
+        "Rechtsantragstelle des örtlichen Arbeitsgerichts",
+        "Gewerkschaftlicher Rechtsschutz (bei Mitgliedschaft)",
+        "Amtsgericht (Beratungshilfe)",
+        "Anwältin/Anwalt für Arbeitsrecht"
+      ],
+      "belege": [
+        "Beratungshilfegesetz (BerHG), gesetze-im-internet.de",
+        "Zivilprozessordnung (ZPO) §§ 114 ff., gesetze-im-internet.de",
+        "Arbeitsgerichtsgesetz (ArbGG), gesetze-im-internet.de"
+      ],
+      "siehe_auch": [
+        "kuendigungsschutzklage",
+        "mobbing-diskriminierung-arbeitsschutz"
+      ],
+      "stand": "September 2026"
+    }
+  ]
+}

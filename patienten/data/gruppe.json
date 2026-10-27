@@ -1,0 +1,34 @@
+{
+  "titel": "Patienten & Behandlungsfehler",
+  "zusatz": "Patienten &middot; Ihre Rechte bei Behandlung und Fehlern",
+  "icon": "🩺",
+  "teaser": "Aufklärung, Akteneinsicht, Behandlungsfehler, Schmerzensgeld, Krankenkasse und Beratung: verständliche Antworten und die wichtigsten Fristen.",
+  "suche_placeholder": "Suchen: Akteneinsicht, Behandlungsfehler, Verjährung, Zweitmeinung, IGeL …",
+  "meta_description": "Wegweiser für Patienten: Patientenrechte (BGB §§ 630a ff.), Aufklärung, Akteneinsicht, Behandlungsfehler, Beweislast, Gutachten, Schmerzensgeld, Verjährung, Krankenkasse, Zweitmeinung, IGeL und Beratung. Rechtsstand September 2026.",
+  "hinweis": "<p><strong>Rechtsstand: September 2026.</strong> Grundlage sind die Patientenrechte im Bürgerlichen Gesetzbuch (§§ 630a bis 630h) und das Fünfte Buch Sozialgesetzbuch. Die Reform des Behandlungsvertragsrechts ist verabschiedet und seit dem 06.02.2026 in Kraft (u. a. „Behandlungsakte“ statt „Patientenakte“ in §§ 630f, 630g, 630h BGB). Das frühere Patientenrechtegesetz (2013) geht im BGB auf; ein gesondertes Gesetz gibt es nicht. Quellen und offene Punkte: <a href=\"quellen.html\">Quellen und Grenzen</a>. Information, keine Rechtsberatung.</p>",
+  "haeufig": [
+    "akteneinsicht",
+    "behandlungsfehler-erkennen",
+    "verjaehrung",
+    "krankenkasse-unterstuetzung",
+    "zweitmeinung",
+    "beratung"
+  ],
+  "fusszeile": "Wegweiser Patienten: Information zu Patientenrechten, keine Rechtsberatung; Stand September 2026.",
+  "beratung_id": "beratung",
+  "quellen_teaser": "<p>Alle Angaben stammen aus Gesetzestexten und Seiten von Behörden, Kammern und Verbraucherschützern. Unsichere Punkte sind unten offen benannt.</p>",
+  "quellen_abschnitte": [
+    {
+      "h": "Quellenliste",
+      "html": "<ol><li>Bundesministerium der Justiz, Gesetze im Internet: BGB §§ 195, 199, 203, 204, 253, 630a, 630b, 630c, 630d, 630e, 630f, 630g, 630h, 1827; SGB V §§ 13, 27b, 39, 66; SGG § 84. Abgerufen 20.09.2026.</li><li>Gesetz zur Änderung des Behandlungsvertragsrechts, BGBl. 2026 I Nr. 28, verkündet am 03.02.2026, in Kraft seit 06.02.2026 (§§ 630f, 630g, 630h BGB).</li><li>Gemeinsamer Bundesausschuss (G-BA), Seite „Zweitmeinung“ (g-ba.de/themen/qualitaetssicherung/vorgaben-zur-qualitaetssicherung/zweitmeinung/). Abgerufen 20.09.2026.</li><li>Gutachterkommissionen und Schlichtungsstellen der Ärztekammern, Seite „Verfahren“ (aerztekammern-schlichten.de). Abgerufen 20.09.2026.</li><li>Stiftung Unabhängige Patientenberatung Deutschland (UPD), Seite „Telefonische Beratung“ (patientenberatung.de). Abgerufen 20.09.2026.</li><li>Verbraucherzentrale, „IGeL: Ihre Rechte als Patient:in“. Abgerufen 20.09.2026.</li><li>Medizinischer Dienst Bund, Behandlungsfehler-Begutachtung, Jahresstatistik 2024 (md-bund.de). Abgerufen 20.09.2026.</li></ol>"
+    },
+    {
+      "h": "Unsichere und offene Punkte",
+      "html": "<ul><li>Beweislast: Dass grundsätzlich der Patient den Behandlungsfehler, den Schaden und den Zusammenhang beweisen muss und § 630h BGB Ausnahmen enthält, ist hier aus der Systematik der Norm abgeleitet und nicht aus einer eigenen Quelle belegt.</li><li>Schlichtungsverfahren: freiwillig, Zustimmung aller Beteiligten nötig; manche Kammern schließen laufende Gerichtsverfahren, Strafanzeigen oder zu alte Fälle aus (bei der zuständigen Kammer prüfen). Die Hemmung der Verjährung ergibt sich aus § 204 Abs. 1 Nr. 4 BGB und BGH, 17.01.2017 – VI ZR 239/15.</li><li>Zweitmeinung: Die Liste der Eingriffe ändert sich; aktuelle Fassung beim G-BA prüfen.</li><li>Nicht behandelt: Höhe von Schmerzensgeld (keine Beträge geprüft), Anwaltskosten und Rechtsschutz, Patienten ohne Krankenversicherung, Regelungen der privaten Krankenversicherung, Datenschutz-Auskunftsanspruch im Einzelnen, Beschwerdestellen der Länder und Krankenhäuser.</li></ul>"
+    },
+    {
+      "h": "Was diese Plattform leistet – und was nicht",
+      "html": "<p>Der Wegweiser erklärt Patientenrechte in einfacher Sprache und nennt Rechtsgrundlagen, Fristen und Zahlen aus den genannten Quellen. Er ersetzt keine Rechtsberatung und keine medizinische oder rechtliche Prüfung Ihres Einzelfalls. Er nennt keine örtlichen Beratungsstellen, Adressen oder Telefonnummern außer bundesweit belegten Stellen. Es werden keine personenbezogenen Daten gespeichert. Verjährungsfristen sind streng: Holen Sie früh Rat.</p>"
+    }
+  ]
+}
